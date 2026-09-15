@@ -180,8 +180,9 @@ button {
 }
 
 /* ---------- sections ---------- */
-main {
-  padding: 22px 0 60px;
+main.wrap {
+  padding-top: 22px;
+  padding-bottom: 80px;
 }
 
 .sec-head {
@@ -200,6 +201,7 @@ main {
 }
 
 .topics {
+  margin-top: 20px;
   margin-bottom: 34px;
 }
 
