@@ -1,0 +1,112 @@
+{
+  "port": 3220,
+  "site": {
+    "title": "AI matomechatter",
+    "tagline": "AI のニュースを、日本語の記事中心に毎日まとめています。",
+    "url": "https://ai.gamelab.main.jp/",
+    "contactUrl": ""
+  },
+  "schedule": { "hour": 7, "minute": 0, "runOnStartIfStaleHours": 6 },
+  "retentionDays": 14,
+  "maxArticleAgeDays": 5,
+  "meta": { "maxPerRun": 0 },
+
+  "feeds": [
+    { "name": "ITmedia AI+", "url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml", "aiOnly": true },
+    { "name": "ITmedia NEWS", "url": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml" },
+    { "name": "ASCII.jp", "url": "https://ascii.jp/rss.xml" },
+    { "name": "Impress Watch", "url": "https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf" },
+    { "name": "PC Watch", "url": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf" },
+    { "name": "ケータイ Watch", "url": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf" },
+    { "name": "CNET Japan", "url": "https://feeds.japan.cnet.com/rss/cnet/all.rdf" },
+    { "name": "ZDNET Japan", "url": "https://feeds.japan.zdnet.com/rss/zdnet/all.rdf" },
+    { "name": "Publickey", "url": "https://www.publickey1.jp/atom.xml" },
+    { "name": "MarkeZine", "url": "https://markezine.jp/rss/new/20/index.xml" },
+    { "name": "AINOW", "url": "https://ainow.ai/feed/", "aiOnly": true },
+    { "name": "日経クロステック", "url": "https://xtech.nikkei.com/rss/index.rdf" },
+    { "name": "Business Insider Japan", "url": "https://www.businessinsider.jp/feed/index.xml" },
+    { "name": "Zenn", "url": "https://zenn.dev/topics/ai/feed", "aiOnly": true, "kind": "tech" },
+    { "name": "Zenn", "url": "https://zenn.dev/topics/llm/feed", "aiOnly": true, "kind": "tech" },
+    { "name": "Qiita", "url": "https://qiita.com/tags/ai/feed", "aiOnly": true, "kind": "tech" },
+    { "name": "はてなブックマーク", "url": "https://b.hatena.ne.jp/hotentry/it.rss", "kind": "curated" }
+  ],
+
+  "googleNews": {
+    "enabled": true,
+    "queries": [
+      "生成AI", "AIエージェント", "大規模言語モデル", "OpenAI", "ChatGPT", "Google Gemini",
+      "Anthropic Claude", "Microsoft Copilot", "AI 規制", "AI 半導体", "AI 資金調達", "AI 導入"
+    ],
+    "perQuery": 40,
+    "within": "2d"
+  },
+
+  "aiKeywords": [
+    "\\bAI\\b", "ＡＩ", "人工知能", "生成AI", "機械学習", "ディープラーニング", "深層学習",
+    "\\bLLM\\b", "大規模言語モデル", "ChatGPT", "OpenAI", "GPT-?\\d", "Claude", "Anthropic",
+    "Gemini", "Copilot", "Llama", "Mistral", "Stable Diffusion", "Midjourney", "Sora",
+    "ニューラルネット", "機械翻訳", "音声認識", "画像生成", "動画生成", "AIエージェント",
+    "プロンプト", "RAG\\b", "ファインチューニング", "推論基盤", "\\bGPU\\b", "NVIDIA",
+    "自動運転", "チャットボット", "AGI\\b", "マルチモーダル", "埋め込みモデル"
+  ],
+
+  "categories": [
+    {
+      "id": "model",
+      "label": "モデル・研究",
+      "keywords": ["新モデル", "モデルを発表", "GPT-?\\d", "Gemini\\s?\\d", "Claude\\s?\\d", "Llama\\s?\\d", "オープンソースモデル", "論文", "研究", "ベンチマーク", "性能", "推論能力", "マルチモーダル", "学習データ", "パラメータ", "蒸留", "量子化"]
+    },
+    {
+      "id": "product",
+      "label": "製品・ツール",
+      "keywords": ["提供開始", "リリース", "公開", "新機能", "アップデート", "対応", "搭載", "ツール", "アプリ", "サービス開始", "ベータ", "正式版", "プラグイン", "API を", "APIを", "無料で"]
+    },
+    {
+      "id": "business",
+      "label": "ビジネス・投資",
+      "keywords": ["資金調達", "出資", "買収", "提携", "協業", "上場", "評価額", "売上", "決算", "株価", "投資", "シリーズ[A-E]", "契約", "参入", "設立"]
+    },
+    {
+      "id": "policy",
+      "label": "規制・法制度",
+      "keywords": ["規制", "法案", "法律", "ガイドライン", "指針", "著作権", "個人情報", "プライバシー", "訴訟", "提訴", "政府", "総務省", "経産省", "EU", "条例", "倫理", "安全性"]
+    },
+    {
+      "id": "case",
+      "label": "導入事例",
+      "keywords": ["導入", "activate", "実証", "実証実験", "activated", "業務効率", "自治体", "病院", "学校", "教育現場", "工場", "現場", "activ", "活用", "効果", "削減", "事例", "採用した"]
+    },
+    {
+      "id": "infra",
+      "label": "インフラ・半導体",
+      "keywords": ["半導体", "\\bGPU\\b", "NVIDIA", "データセンター", "計算基盤", "スーパーコンピュータ", "電力", "チップ", "クラウド", "サーバ", "供給", "増産"]
+    },
+    {
+      "id": "dev",
+      "label": "開発・技術解説",
+      "keywords": ["実装", "コード", "開発者", "エンジニア", "ライブラリ", "フレームワーク", "試して", "使ってみた", "入門", "解説", "構築", "手順", "Tips", "ハンズオン"]
+    }
+  ],
+  "fallbackCategory": { "id": "other", "label": "その他" },
+
+  "prSources": ["PR TIMES", "アットプレス", "@Press", "Newscast", "kyodonewsprwire", "News2u", "valuepress", "DreamNews"],
+
+  "cluster": {
+    "enabled": true,
+    "windowHours": 40,
+    "minSources": 2,
+    "maxTopics": 12,
+    "stopwords": ["について", "に関する", "これから", "ニュース", "記事", "発表", "提供", "開始", "公開", "実施", "対応", "利用", "活用", "可能", "展開", "強化", "拡大", "向上", "実現", "推進", "支援", "サービス", "システム", "ソリューション", "プラットフォーム", "ビジネス", "マーケット", "ユーザー", "ソフトウェア", "テクノロジー", "エンジニア", "インタビュー", "レポート", "ランキング"]
+  },
+
+  "entities": [
+    "OpenAI", "ChatGPT", "GPT-5", "GPT-4", "Sora", "Anthropic", "Claude", "Google", "Gemini", "DeepMind",
+    "Microsoft", "Copilot", "Azure", "Meta", "Llama", "Amazon", "AWS", "Apple", "Siri", "NVIDIA", "AMD",
+    "Intel", "xAI", "Grok", "Mistral", "Perplexity", "Midjourney", "Stability AI", "Hugging Face",
+    "Databricks", "Salesforce", "Adobe", "Oracle", "IBM", "Qualcomm", "TSMC", "Samsung", "ByteDance",
+    "DeepSeek", "Alibaba", "Tencent", "Baidu", "SoftBank", "ソフトバンク", "NTT", "KDDI", "楽天", "サイバーエージェント",
+    "リクルート", "富士通", "日立", "パナソニック", "ソニー", "トヨタ", "ホンダ", "日産", "三菱", "東芝",
+    "さくらインターネット", "Preferred Networks", "Sakana AI", "ELYZA", "Stockmark", "LINEヤフー", "DeNA", "メルカリ",
+    "経済産業省", "総務省", "文部科学省", "デジタル庁", "欧州連合", "中国", "米国"
+  ]
+}

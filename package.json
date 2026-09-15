@@ -1,0 +1,14 @@
+{
+  "name": "ai-matomechatter",
+  "version": "1.0.0",
+  "description": "AI ニュースを日本語の記事中心に自動収集してまとめる静的サイト",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "collect": "node scripts/collect.mjs",
+    "start": "npm run build && node server.mjs"
+  },
+  "devDependencies": { "esbuild": "^0.24.2", "sharp": "^0.33.5" }
+}
