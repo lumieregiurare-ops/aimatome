@@ -3,8 +3,8 @@ name: collect
 
 on:
   schedule:
-    # ニュースの流量が多いので 4 時間おきに収集する（UTC 表記・JST では 09/13/17/21/01/05 時）
-    - cron: "0 */4 * * *"
+    # 1 時間に 1 回。これ以上短くすると Google ニュース検索のスクレイピングがブロックされるリスクが上がるため、更新頻度の上限の目安としている
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
