@@ -83,7 +83,27 @@ FTP の認証情報は本人が入力してください。
 
 同じアカウントの trend-video-watcher でも同じ傾向だったので、cron の書き方の問題ではありません。
 
-そこで **10 分おきに起動し、前回の収集から 25 分たっていなければ即座に終了する**構成にしています（`collect.yml` の「前回からの経過時間を見る」ステップ。前回の時刻は `data/state.json` の `ranAt`）。走るチャンスを 6 倍に増やしつつ、実際の収集は 30 分おきに保たれます。空振りの回は 15 秒ほどで終わり、Google ニュースへのリクエストも出しません。手動実行（Actions タブの Run workflow）は間隔に関係なく必ず収集します。
+10 分おきに起動して密度で補おうともしましたが、**9 スロット連続で 1 回も配信されませんでした**（aimatome と trend-video-watcher の両方で同時に確認）。**cron 側でできることはありません。**
+
+一方 `workflow_dispatch` と `repository_dispatch`（どちらも外から叩く経路）は**一度も失敗していません**。そこで、更新の主役は外部トリガーにしています。
+
+### 外部から 30 分おきに叩く（推奨・実質これが本番の更新経路）
+
+ロリポップの cron から、trend-video-watcher リポジトリにある `tools/trigger-collect.php` を実行します。このスクリプトは aimatome と trend-video-watcher の両方に `repository_dispatch` を送るので、**サーバー上に 1 つ置けば両サイトが更新されます**。手順はそちらの README を参照してください。
+
+手元から 1 回だけ叩いて確かめることもできます（`<TOKEN>` は Contents = Read and write の fine-grained token）。
+
+```bash
+curl -X POST -H "Accept: application/vnd.github+json" -H "Authorization: Bearer <TOKEN>" \
+  https://api.github.com/repos/lumieregiurare-ops/aimatome/dispatches \
+  -d '{"event_type":"collect"}'
+```
+
+成功すると **204 No Content** が返り、Actions に `repository_dispatch` の実行が現れます。
+
+### cron はフォールバックとして残してある
+
+配信されたときのために 10 分おきの cron も残しています。外部トリガーと二重に走らないよう、**前回の収集から 25 分たっていなければ即座に終了する**ガードを入れてあります（`collect.yml` の「前回からの経過時間を見る」ステップ。前回の時刻は `data/state.json` の `ranAt`）。空振りの回は 15 秒ほどで終わり、Google ニュースへのリクエストも出しません。手動実行（Actions タブの Run workflow）だけは間隔に関係なく必ず収集します。
 
 **この密な cron は公開リポジトリ（Actions の実行時間が無制限）を前提にしています。** 非公開に戻す場合は、1 日 144 回の起動が無料枠 2,000 分を圧迫するので見直してください。
 
