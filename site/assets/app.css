@@ -671,6 +671,44 @@ main.wrap {
   font-size: var(--fs-small);
 }
 
+/* ---------- 読み込み中 ---------- */
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  color: var(--text-muted);
+  font-size: var(--fs-small);
+}
+
+.loading-feed {
+  min-height: 60vh;
+}
+
+.spinner {
+  width: 17px;
+  height: 17px;
+  flex: none;
+  border: 2px solid var(--border-strong);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin .7s linear infinite;
+}
+
+.pickup-body.is-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .spinner {
+    animation: none;
+    opacity: .45;
+  }
+}
+
 .footer {
   border-top: 1px solid var(--border);
   background: var(--surface);
@@ -782,5 +820,11 @@ main.wrap {
 
   .topic-links .src {
     width: 6em;
+  }
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
   }
 }

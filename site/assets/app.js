@@ -318,6 +318,32 @@
   }
 
   // ---------- いま読むならこれ ----------
+  // すぐ入れ替えると切り替わったことが分かりにくいので、いまの高さを保ったままクルクルを挟む。
+  // 高さを固定しないと、記事の長さの違いでこの枠から下が上下に動いてしまう。
+  const PICKUP_SPIN_MS = 320;
+  let pickupTimer = 0;
+  function pickupAgain() {
+    const box = $("#pickupBody");
+    clearTimeout(pickupTimer);
+    // いまの高さを確保してから中身を差し替える。
+    // 描画前や非表示のタブでは offsetHeight が 0 や極端な値になることがあるので、
+    // 常識的な範囲（44〜200px）に収めてから使う
+    const h = Math.min(200, Math.max(44, box.offsetHeight || 0));
+    box.style.minHeight = `${h}px`;
+    box.classList.add("is-loading");
+    box.innerHTML = "";
+    const sp = document.createElement("span");
+    sp.className = "spinner";
+    sp.setAttribute("role", "status");
+    sp.setAttribute("aria-label", "読み込み中");
+    box.appendChild(sp);
+    pickupTimer = setTimeout(() => {
+      renderPickup();
+      box.classList.remove("is-loading");
+      box.style.minHeight = "";
+    }, PICKUP_SPIN_MS);
+  }
+
   function renderPickup() {
     const pool = data.items.filter((it) => !it.isPR);
     if (!pool.length) {
@@ -398,6 +424,10 @@
       data = await r.json();
     } catch {
       $("#meta").textContent = "データを読み込めませんでした。";
+      // 読み込み中の表示のまま残さない
+      $("#list").innerHTML = "";
+      $("#empty").hidden = false;
+      $("#empty").textContent = "記事を読み込めませんでした。時間をおいて開き直してください。";
       return;
     }
     const u = new Date(data.updatedAt);
@@ -430,7 +460,7 @@
     shown += PAGE;
     renderList();
   });
-  $("#pickupAgain").addEventListener("click", renderPickup);
+  $("#pickupAgain").addEventListener("click", pickupAgain);
   $("#topicMore").addEventListener("click", () => {
     topicsShown += 6;
     renderTopics();
