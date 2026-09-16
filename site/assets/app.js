@@ -3,10 +3,18 @@
   const PAGE = 60;
   const TOPICS_FIRST = 6;
   const STATE_KEY = "aimc:state";
+  const FAV_KEY = "aimc:favs";
+  const READ_KEY = "aimc:read";
+  const READ_MAX = 400;
 
   let data = { items: [], topics: [], categories: [], sources: [] };
   let shown = PAGE;
   let topicsShown = TOPICS_FIRST;
+
+  // ブラウザにだけ残る保存物。サーバーには何も送らない。
+  let favs = load(FAV_KEY, {});
+  let read = load(READ_KEY, []);
+  let pickupId = "";
 
   const state = Object.assign(
     { size: "m", cat: "all", source: "all", period: "2", q: "", hidePR: true },
@@ -21,11 +29,42 @@
     }
   }
   function save() {
+    store(STATE_KEY, state);
+  }
+  function store(k, value) {
     try {
-      localStorage.setItem(STATE_KEY, JSON.stringify(state));
+      localStorage.setItem(k, JSON.stringify(value));
     } catch {
-      /* ignore */
+      /* 保存できない設定のブラウザでは黙って諦める */
     }
+  }
+
+  const isFav = (id) => !!favs[id];
+  const favCount = () => Object.keys(favs).length;
+
+  function toggleFav(it) {
+    if (favs[it.id]) delete favs[it.id];
+    else {
+      // 記事は数日で一覧から消えるので、表示に必要な分を控えておく
+      favs[it.id] = {
+        id: it.id,
+        title: it.title,
+        url: it.url,
+        source: it.source,
+        summary: it.summary || "",
+        publishedAt: it.publishedAt,
+        categories: it.categories || [],
+        savedAt: new Date().toISOString(),
+      };
+    }
+    store(FAV_KEY, favs);
+  }
+
+  function markRead(id) {
+    if (read.includes(id)) return;
+    read.push(id);
+    if (read.length > READ_MAX) read = read.slice(-READ_MAX);
+    store(READ_KEY, read);
   }
 
   // ---------- 日付まわり（すべて日本時間で扱う） ----------
@@ -61,9 +100,21 @@
   }
 
   // ---------- 絞り込み ----------
+  // お気に入りは保存したものを表示する。一覧に残っていれば最新の内容に差し替える。
+  function favItems() {
+    const byId = new Map(data.items.map((i) => [i.id, i]));
+    return Object.values(favs)
+      .sort((a, b) => new Date(b.savedAt) - new Date(a.savedAt))
+      .map((f) => ({ ...(byId.get(f.id) || { ...f, isPR: false, gone: true }), savedAt: f.savedAt }));
+  }
+
   function visible() {
     const q = state.q.trim().toLowerCase();
     const since = state.period === "all" ? 0 : Date.now() - Number(state.period) * 86400000;
+    // お気に入りは期間やカテゴリではなく、保存したものをすべて出す
+    if (state.cat === "fav") {
+      return favItems().filter((it) => !q || `${it.title} ${it.summary} ${it.source}`.toLowerCase().includes(q));
+    }
     return data.items.filter((it) => {
       if (state.hidePR && it.isPR) return false;
       if (state.cat !== "all" && !it.categories.includes(state.cat)) return false;
@@ -216,7 +267,31 @@
     tail.className = it.isPR ? "row-pr" : "row-cat";
     tail.textContent = it.isPR ? "PR" : catLabel(it.categories[0]);
 
-    row.append(time, src, main, tail);
+    // 前回の収集になかった記事は目印を付ける
+    if (it.isNew && state.cat !== "fav") {
+      const badge = document.createElement("span");
+      badge.className = "row-new";
+      badge.textContent = "NEW";
+      a.before(badge);
+    }
+    a.addEventListener("click", () => markRead(it.id));
+
+    const fav = document.createElement("button");
+    fav.type = "button";
+    fav.className = "row-fav" + (isFav(it.id) ? " on" : "");
+    fav.textContent = "★";
+    fav.title = isFav(it.id) ? "お気に入りから外す" : "お気に入りに追加";
+    fav.addEventListener("click", () => {
+      toggleFav(it);
+      renderFilters();
+      if (state.cat === "fav") renderList();
+      else {
+        fav.classList.toggle("on", isFav(it.id));
+        fav.title = isFav(it.id) ? "お気に入りから外す" : "お気に入りに追加";
+      }
+    });
+
+    row.append(time, src, main, tail, fav);
     return row;
   }
 
@@ -224,11 +299,12 @@
   function renderFilters() {
     const chips = $("#catChips");
     chips.innerHTML = "";
-    const opts = [{ id: "all", label: "すべて" }, ...data.categories.filter((c) => c.count > 0)];
+    const opts = [{ id: "all", label: "すべて" }, ...data.categories.filter((c) => c.count > 0), { id: "fav", label: "★ お気に入り", count: favCount() }];
     for (const c of opts) {
       const b = document.createElement("button");
       b.className = "chip" + (state.cat === c.id ? " active" : "");
       b.innerHTML = c.id === "all" ? c.label : `${c.label}<span class="n">${c.count}</span>`;
+      if (c.id === "fav") b.classList.add("chip-fav");
       b.addEventListener("click", () => set({ cat: c.id }));
       chips.appendChild(b);
     }
@@ -239,6 +315,63 @@
     state.source = sel.value;
 
     $("#sourceList").textContent = data.sources.slice(0, 22).map((s) => s.name).join(" / ");
+  }
+
+  // ---------- いま読むならこれ ----------
+  function renderPickup() {
+    const pool = data.items.filter((it) => !it.isPR);
+    if (!pool.length) {
+      $("#pickupSection").hidden = true;
+      return;
+    }
+    // まだ開いていない記事を優先する（毎回同じものが出ないように）
+    const unread = pool.filter((it) => !read.includes(it.id) && it.id !== pickupId);
+    const from = unread.length ? unread : pool;
+    const it = from[Math.floor(Math.random() * from.length)];
+    pickupId = it.id;
+
+    const box = $("#pickupBody");
+    box.innerHTML = "";
+    const meta = document.createElement("div");
+    meta.className = "pickup-meta";
+    meta.textContent = `${it.source} ・ ${hhmm(it.publishedAt)}`;
+    const a = document.createElement("a");
+    a.className = "pickup-title";
+    a.href = it.url;
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    a.textContent = it.title;
+    a.addEventListener("click", () => markRead(it.id));
+    const sum = document.createElement("p");
+    sum.className = "pickup-sum";
+    sum.textContent = it.summary || "";
+    box.append(meta, a, sum);
+    $("#pickupSection").hidden = false;
+  }
+
+  // ---------- 更新の様子 ----------
+  function renderChurn() {
+    const c = data.churn;
+    const el = $("#churn");
+    if (!c || !c.previousCount) {
+      el.hidden = true;
+      return;
+    }
+    el.hidden = false;
+    el.innerHTML = `前回から <b>${c.newCount}</b> 本が新着<span class="next" id="nextUpdate"></span>`;
+    tickCountdown();
+  }
+
+  function tickCountdown() {
+    const el = $("#nextUpdate");
+    if (!el || !data.nextUpdateAt) return;
+    const left = new Date(data.nextUpdateAt).getTime() - Date.now();
+    if (left <= 0) {
+      el.textContent = "まもなく更新されます";
+      return;
+    }
+    const m = Math.round(left / 60000);
+    el.textContent = m >= 60 ? `次の更新まで約 ${Math.round(m / 60)} 時間` : `次の更新まで約 ${Math.max(1, m)} 分`;
   }
 
   function set(patch) {
@@ -266,9 +399,12 @@
     }
     const u = new Date(data.updatedAt);
     $("#meta").textContent = `${data.total} 本の記事 ・ 今日 ${data.todayCount} 本 ・ ${data.topics.length} の話題 ・ 最終更新 ${u.getMonth() + 1}/${u.getDate()} ${String(u.getHours()).padStart(2, "0")}:${String(u.getMinutes()).padStart(2, "0")}`;
+    renderChurn();
+    renderPickup();
     renderTopics();
     renderFilters();
     renderList();
+    setInterval(tickCountdown, 60000);
   }
 
   // ---------- イベント ----------
@@ -291,6 +427,7 @@
     shown += PAGE;
     renderList();
   });
+  $("#pickupAgain").addEventListener("click", renderPickup);
   $("#topicMore").addEventListener("click", () => {
     topicsShown += 6;
     renderTopics();

@@ -38,10 +38,18 @@
         </div>
       </div>
     </div>
-    <div class="wrap header-meta"><span id="meta">読み込み中…</span></div>
+    <div class="wrap header-meta"><span id="meta">読み込み中…</span><span class="churn" id="churn" hidden></span></div>
   </header>
 
   <main class="wrap">
+    <section class="pickup" id="pickupSection" hidden>
+      <div class="pickup-head">
+        <h2>いま読むならこれ</h2>
+        <button type="button" id="pickupAgain">別の記事を引く</button>
+      </div>
+      <article class="pickup-body" id="pickupBody"></article>
+    </section>
+
     <section class="topics" id="topicsSection" hidden>
       <div class="sec-head">
         <h2>いま話題になっていること</h2>

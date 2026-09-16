@@ -33,7 +33,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs
+          # state.json は次回の「新着」判定に使うので一緒にコミットする
+          git add docs data/state.json
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "chore: collect $(date -u +%Y-%m-%dT%H:%MZ)"
           git push

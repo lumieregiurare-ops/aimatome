@@ -9,6 +9,7 @@ import { buildTopics } from "./lib/cluster.mjs";
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const OUT = join(ROOT, "docs", "data", "news.json");
 const RUN = join(ROOT, "data", "last-run.json");
+const STATE = join(ROOT, "data", "state.json");
 
 const started = Date.now();
 const config = await readJson(join(ROOT, "config.json"));
@@ -139,6 +140,19 @@ if (config.cluster?.enabled !== false) {
   log(`topics: ${topics.length}（最大 ${topics[0]?.sourceCount || 0} 媒体）`);
 }
 
+// ---------- 3.5 前回の収集と比べて、新着を見分ける ----------
+// 前回どの記事を載せていたかだけを覚えておき、今回だけに出てきたものを新着とする。
+const prev = (await readJson(STATE, { ranAt: "", ids: [] })) || { ranAt: "", ids: [] };
+const prevIds = new Set(prev.ids || []);
+for (const it of items) it.isNew = prevIds.size > 0 && !prevIds.has(it.id);
+const churn = {
+  previousAt: prev.ranAt || "",
+  previousCount: prevIds.size,
+  newCount: items.filter((i) => i.isNew).length,
+};
+// cron は 4 時間おき。次の収集のおおよその時刻を渡す。
+const nextUpdateAt = new Date(now.getTime() + 4 * 3600000).toISOString();
+
 // ---------- 4. 保存 ----------
 const catCounts = {};
 for (const it of items) for (const c of it.categories) catCounts[c] = (catCounts[c] || 0) + 1;
@@ -156,8 +170,12 @@ await writeJson(OUT, {
     .sort((a, b) => b[1] - a[1])
     .map(([name, count]) => ({ name, count })),
   topics,
+  churn,
+  nextUpdateAt,
   items,
 });
+
+await writeJson(STATE, { ranAt: nowIso, ids: items.map((i) => i.id) });
 
 const summary = { ranAt: nowIso, durationSec: Math.round((Date.now() - started) / 1000), fetched: raw.length, kept: items.length, topics: topics.length, dropped, sources: sourceStats };
 await writeJson(RUN, summary);
