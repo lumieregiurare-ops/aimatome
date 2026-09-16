@@ -150,8 +150,24 @@ const churn = {
   previousCount: prevIds.size,
   newCount: items.filter((i) => i.isNew).length,
 };
-// cron は 4 時間おき。次の収集のおおよその時刻を渡す。
-const nextUpdateAt = new Date(now.getTime() + 4 * 3600000).toISOString();
+// 次の更新の目安は、cron の設定値ではなく「実際に走った間隔の中央値」から出す。
+// GitHub Actions のスケジュール実行は遅れたり飛んだりするため、設定どおりの時刻を書くと
+// カウントダウンが 0 のまま何時間も止まり、更新が終わったように見えてしまう。
+const RECENT_GAPS = 6; // 直近だけを見る。何時間も空いた過去の実績を引きずらないため
+const runs = [...(prev.runs || []), nowIso].slice(-24);
+function medianGapMin(runList) {
+  const ts = runList.map((t) => new Date(t).getTime()).filter((n) => n > 0);
+  ts.sort((a, b) => a - b);
+  const gaps = [];
+  for (let i = 1; i < ts.length; i++) gaps.push((ts[i] - ts[i - 1]) / 60000);
+  if (!gaps.length) return null;
+  // 偶数個のときは短いほうを採る。長く見積もって待たせるより、
+  // 目安を過ぎて「最終更新 ○分前」に切り替わるほうが実態に近いため
+  const recent = gaps.slice(-RECENT_GAPS).sort((a, b) => a - b);
+  return Math.round(recent[Math.floor((recent.length - 1) / 2)]);
+}
+const updateGapMin = medianGapMin(runs);
+const nextUpdateAt = updateGapMin ? new Date(now.getTime() + updateGapMin * 60000).toISOString() : "";
 
 // ---------- 4. 保存 ----------
 const catCounts = {};
@@ -171,11 +187,12 @@ await writeJson(OUT, {
     .map(([name, count]) => ({ name, count })),
   topics,
   churn,
+  updateGapMin,
   nextUpdateAt,
   items,
 });
 
-await writeJson(STATE, { ranAt: nowIso, ids: items.map((i) => i.id) });
+await writeJson(STATE, { ranAt: nowIso, runs, ids: items.map((i) => i.id) });
 
 const summary = { ranAt: nowIso, durationSec: Math.round((Date.now() - started) / 1000), fetched: raw.length, kept: items.length, topics: topics.length, dropped, sources: sourceStats };
 await writeJson(RUN, summary);

@@ -364,14 +364,17 @@
 
   function tickCountdown() {
     const el = $("#nextUpdate");
-    if (!el || !data.nextUpdateAt) return;
-    const left = new Date(data.nextUpdateAt).getTime() - Date.now();
-    if (left <= 0) {
-      el.textContent = "まもなく更新されます";
+    if (!el) return;
+    const left = data.nextUpdateAt ? new Date(data.nextUpdateAt).getTime() - Date.now() : 0;
+    if (left > 0) {
+      const m = Math.round(left / 60000);
+      el.textContent = m >= 60 ? `次の更新まで約 ${Math.round(m / 60)} 時間` : `次の更新まで約 ${Math.max(1, m)} 分`;
       return;
     }
-    const m = Math.round(left / 60000);
-    el.textContent = m >= 60 ? `次の更新まで約 ${Math.round(m / 60)} 時間` : `次の更新まで約 ${Math.max(1, m)} 分`;
+    // 目安を過ぎたら「まもなく更新されます」と言い続けず、最後に更新した時刻を出す。
+    // 収集は遅れることがあり、待たせ続ける表示のほうが止まって見えるため。
+    const min = Math.max(0, Math.round((Date.now() - new Date(data.updatedAt).getTime()) / 60000));
+    el.textContent = min < 120 ? `最終更新 ${min} 分前` : `最終更新 ${Math.round(min / 60)} 時間前`;
   }
 
   function set(patch) {
