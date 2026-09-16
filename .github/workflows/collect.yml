@@ -3,13 +3,17 @@ name: collect
 
 on:
   schedule:
-    # 30 分に 1 回。Google ニュースの RSS を 1 回につき 12 クエリ叩くので、これ以上短くすると
-    # 1 日 1,000 件を超えて拒否されるリスクが上がる。ここが更新頻度の上限の目安。
+    # 狙いは「30 分おきの更新」だが、cron をそのまま 30 分おきに置いても実現できない。
+    # GitHub のスケジュール実行はベストエフォートで、混雑時は遅れるどころか配信されない。
+    # 実測では "0 * * * *"（毎時）でも "13,43 * * * *"（30 分おき）でも、実際に走るのは
+    # 約 3 時間に 1 回だけだった（2026-09-16 時点。trend-video-watcher でも同じ傾向）。
     #
-    # 毎時 0 分ちょうどは GitHub 側が最も混み合う時刻で、スケジュール実行が大きく遅れたり
-    # そのまま実行されないことがある（実際、"0 * * * *" だったときは 13 回中 4 回しか走らず、
-    # 間隔は約 2 時間 50 分、定時ちょうどに走った回は一度もなかった）。13 分・43 分にずらす。
-    - cron: "13,43 * * * *"
+    # そこで 10 分おきに起動し、下の「前回からの経過時間」ステップで 25 分たっていなければ
+    # 即座に終了する。走るチャンスを 6 倍に増やしつつ、実際の収集は 30 分おきに保たれる。
+    # Google ニュースの RSS を 1 回につき 12 クエリ叩くため、この 30 分が頻度の上限の目安
+    # （空振りの回は 15 秒ほどで終わり、外部へのリクエストも出さない）。
+    # 公開リポジトリなので Actions の実行時間は無制限。非公開に戻す場合はこの密な cron を見直すこと。
+    - cron: "4,14,24,34,44,54 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -25,15 +29,44 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+      # 10 分おきに起動しているので、前回の収集から間がないときはここで終わる。
+      # 手動実行（workflow_dispatch）は間隔に関係なく必ず走らせる。
+      - name: 前回からの経過時間を見る
+        id: gate
+        env:
+          MIN_GAP_MIN: 25
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "手動実行のため収集する"
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          LAST=$(node -e "try{process.stdout.write(require('./data/state.json').ranAt||'')}catch(e){}")
+          if [ -z "$LAST" ]; then
+            echo "前回の記録が無いため収集する"
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          GAP=$(( ( $(date -u +%s) - $(date -u -d "$LAST" +%s) ) / 60 ))
+          echo "前回の収集: $LAST（${GAP} 分前 / しきい値 ${MIN_GAP_MIN} 分）"
+          if [ "$GAP" -ge "$MIN_GAP_MIN" ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "間がないので今回は何もしない"
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/setup-node@v4
+        if: steps.gate.outputs.run == 'true'
         with:
           node-version: 20
       # collect.mjs は Node の標準機能だけで動く（esbuild / sharp を使うのは build.mjs だけ）。
       # docs/ の HTML・JS・CSS はビルド済みのものがコミットされていて、site/ を変えたときは
       # deploy.yml が作り直すので、収集のたびに npm ci とビルドを回す必要はない。
       - name: Collect
+        if: steps.gate.outputs.run == 'true'
         run: node scripts/collect.mjs
       - name: Commit and push
+        if: steps.gate.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -47,7 +80,7 @@ jobs:
       # 毎回 docs/ 全体を上げると時間がかかるうえ、site/ を直したあと docs/ を作り直さずに
       # push した場合、リポジトリ側の古い HTML・JS で公開中のファイルを上書きしてしまう。
       - name: Upload docs/data/ to Lolipop (FTP)
-        if: ${{ vars.DEPLOY_TARGET == 'lolipop' }}
+        if: ${{ steps.gate.outputs.run == 'true' && vars.DEPLOY_TARGET == 'lolipop' }}
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.LOLIPOP_FTP_SERVER }}
