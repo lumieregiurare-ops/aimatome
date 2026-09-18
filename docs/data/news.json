@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T03:00:12.539Z",
+  "updatedAt": "2026-09-18T03:30:13.961Z",
   "site": {
     "title": "AI matomechatter",
     "tagline": "AI のニュースを、日本語の記事中心に毎日まとめています。",
@@ -7,32 +7,32 @@
     "contactUrl": ""
   },
   "total": 193,
-  "todayCount": 71,
+  "todayCount": 69,
   "categories": [
     {
       "id": "model",
       "label": "モデル・研究",
-      "count": 19
+      "count": 21
     },
     {
       "id": "product",
       "label": "製品・ツール",
-      "count": 60
+      "count": 58
     },
     {
       "id": "business",
       "label": "ビジネス・投資",
-      "count": 13
+      "count": 12
     },
     {
       "id": "policy",
       "label": "規制・法制度",
-      "count": 14
+      "count": 13
     },
     {
       "id": "case",
       "label": "導入事例",
-      "count": 41
+      "count": 42
     },
     {
       "id": "infra",
@@ -92,6 +92,10 @@
       "count": 7
     },
     {
+      "name": "PC Watch",
+      "count": 6
+    },
+    {
       "name": "Publickey",
       "count": 6
     },
@@ -100,16 +104,12 @@
       "count": 5
     },
     {
-      "name": "PC Watch",
-      "count": 5
+      "name": "AINOW",
+      "count": 4
     },
     {
       "name": "Qiita",
-      "count": 4
-    },
-    {
-      "name": "AINOW",
-      "count": 4
+      "count": 3
     }
   ],
   "topics": [
@@ -270,45 +270,67 @@
           "isPR": false
         }
       ]
-    },
-    {
-      "id": "7b7b6a2e4dec",
-      "title": "Waymoの無人タクシー、東京で2027年商用化へ",
-      "summary": "ウェイモ（Waymo）、日本交通、GOは、東京都内で無人の自動運転配車サービスを2027年に商用化する準備を進めることで正式に合意した。",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2140941.html",
-      "image": "",
-      "leadSource": "ケータイ Watch",
-      "publishedAt": "2026-09-15T02:53:09.000Z",
-      "sourceCount": 2,
-      "articleCount": 2,
-      "categories": [
-        "other",
-        "product"
-      ],
-      "keywords": [
-        "waymo",
-        "タクシー",
-        "無人"
-      ],
-      "articles": [
-        {
-          "title": "無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意",
-          "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
-          "source": "ITmedia NEWS",
-          "publishedAt": "2026-09-15T00:39:38.000Z",
-          "isPR": false
-        }
-      ]
     }
   ],
   "churn": {
-    "previousAt": "2026-09-18T02:30:13.907Z",
-    "previousCount": 543,
+    "previousAt": "2026-09-18T03:00:12.539Z",
+    "previousCount": 193,
     "newCount": 11
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-09-18T03:30:12.539Z",
+  "nextUpdateAt": "2026-09-18T04:00:13.961Z",
   "items": [
+    {
+      "id": "7c6faa377ee9",
+      "title": "Pythonで請求予定日を作る、2月の28日を翌月へ引きずらない",
+      "url": "https://qiita.com/eiri_ai/items/612296d060755d3fb387",
+      "host": "qiita.com",
+      "source": "Qiita",
+      "summary": "毎月の請求予定は、前月の日付を一つ先へ進めれば作れそうです。ところが、1月31日から始めると、2月28日の次が3月28日になりました。僕は、こういう予定表では「毎月何日に作るか」を別に持たせます。31日指定なら、3月には31日に戻したいからです。 今日、Pythonで6か月...",
+      "publishedAt": "2026-09-18T03:21:39.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "6770e239ea71",
+      "title": "99％がAIでストレージ需要増を予測、十分な準備ができている企業は38％--シーゲート調査",
+      "url": "https://japan.zdnet.com/article/35252790/",
+      "host": "japan.zdnet.com",
+      "source": "ZDNET Japan",
+      "summary": "Seagate Technologyは、企業のAI活用を支えるデータインフラの準備状況を調査した「Data Infrastructure Readiness Report 2026」を発表した。",
+      "publishedAt": "2026-09-18T03:16:00.000Z",
+      "image": "https://japan.zdnet.com/storage/2026/04/15/06e6c6c309d820a441acf318671b6e27/t/184/138/d/260415_as_1280_921354888.jpg",
+      "categories": [
+        "case"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "07f93583668b",
+      "title": "Qwen3.8 27Bを9分の1に圧縮も性能98.2%維持の「Bonsai 2 27B」",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2142052.html",
+      "host": "pc.watch.impress.co.jp",
+      "source": "PC Watch",
+      "summary": "27B(270億)パラメータ級の性能を、わずか5.9GBのメモリに収めた驚異のモデルが登場した。PrismMLは9月17日(米国時間)、Qwen3.8 27Bをベースに3値量子化を施したマルチモーダルLLM「Ternary Bonsai 2 27B」を発表し、そのオープンウェイト(モデルの重み)をHugging Fa…",
+      "publishedAt": "2026-09-18T03:04:15.000Z",
+      "image": "",
+      "categories": [
+        "model"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "e6870d8641d1",
       "title": "AIが読んでいるもの、書いているもの ― トークンの話",
@@ -324,6 +346,24 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
+      "isNew": false
+    },
+    {
+      "id": "c7370c54a1c2",
+      "title": "メルカリ、写真を撮るだけで相場価格が分かる「持ち物査定」 AI活用",
+      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001611/",
+      "host": "itmedia.co.jp",
+      "source": "ITmedia NEWS",
+      "summary": "新機能で「モノの価値を知る体験」を入り口に、出品への一歩を踏み出してもらうことを目指す。",
+      "publishedAt": "2026-09-18T02:52:08.000Z",
+      "image": "",
+      "categories": [
+        "product",
+        "case"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -342,6 +382,23 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "3310ba8b69f8",
+      "title": "「楽天市場」出店料4割値上げ 「物価高やエネルギーコスト上昇」で",
+      "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001608/",
+      "host": "itmedia.co.jp",
+      "source": "ITmedia NEWS",
+      "summary": "「物価高騰やエネルギーコストの上昇といった外部環境の変化に対応しつつ、AIを使った店舗支援など、サービスを継続的に進化させるため」",
+      "publishedAt": "2026-09-18T02:33:57.000Z",
+      "image": "",
+      "categories": [
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -355,24 +412,6 @@
       "image": "",
       "categories": [
         "case",
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": false
-    },
-    {
-      "id": "124dc66f4de5",
-      "title": "AIエージェントの二重実行、lru_cacheにロックを足す",
-      "url": "https://qiita.com/hironakamura_ai/items/7536f6254e4e45964d3c",
-      "host": "qiita.com",
-      "source": "Qiita",
-      "summary": "同じ引数で呼ぶAIエージェントのツールに、lru_cacheを付ければ実行は1回で済む？ 自分は同時呼び出しを試してて、キャッシュが空だと処理が2回走った。読み取りツールの重複を抑えるなら、キャッシュの確認から保存まで待たせたい。 同じキーなのに2回走る Python 3...",
-      "publishedAt": "2026-09-18T02:26:15.000Z",
-      "image": "",
-      "categories": [
-        "product",
         "dev"
       ],
       "isPR": false,
@@ -447,23 +486,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "92d23bd41d9b",
-      "title": "2026年9月18日 今日のQiitaトレンド記事をポッドキャストで聴こう！",
-      "url": "https://qiita.com/ennagara128/items/5758f4eeab9af17a4503",
-      "host": "qiita.com",
-      "source": "Qiita",
-      "summary": "前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 生成AIが書いたドキュメントを読みたくない h...",
-      "publishedAt": "2026-09-18T01:49:46.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
       "isNew": false
     },
     {
@@ -602,75 +624,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "curated",
-      "isNew": true
-    },
-    {
-      "id": "2d18070d3c22",
-      "title": "Jev 所感 ダラダラと書く",
-      "url": "https://zenn.dev/meijin/articles/jev-impressions",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "https://docs.typesafe.ai/introduction Jev そのものが覇権を取るかは知らんが、構造化出力に特化したAIは今後も残りそう ちょうど猫も杓子もAIエージェントという時代になりつつあるところで発表されて、タイミングがうまい 一般には、CodexやClaudeにさせている日常業務の一部…",
-      "publishedAt": "2026-09-17T23:13:45.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
-      "id": "8522a8c26716",
-      "title": "AI に任せた所、自分で握った所 — 個人開発6本で見えた「線引き」 | 意思決定ログ",
-      "url": "https://zenn.dev/hinaridake/articles/ai-development-boundary",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "「AI で作ったんでしょ?」とたまに言われます。半分正解で、半分は違う、というのが正直なところです。 個人開発で iOS アプリを 6本作る中で、AI に渡すと一気に速くなる所と、渡すと事故る所がかなりはっきり分かれてきました。この記事は、その「線引き」をどう決めているかの記録です。 前回（ローカル完結アーキテクチャ…",
-      "publishedAt": "2026-09-17T23:00:11.000Z",
-      "image": "",
-      "categories": [
-        "product"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
-      "id": "8aa3d2f3ba53",
-      "title": "Software Design 2026年10月号に「ハーネスの部品とワークフロー設計」を寄稿しました",
-      "url": "https://zenn.dev/xtm_blog/articles/sd-harness-design",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "クロステックマネジメントでは、前回の記事「なぜエージェントハーネスで開発パイプラインを作っているのか」で、docker-agent を使ったエージェントハーネスで開発パイプラインを構築していることを書きました。要求仕様書から Pull Request の作成までを自動で実行するのが目標です。 この開発の知見をもとに、…",
-      "publishedAt": "2026-09-17T23:00:11.000Z",
-      "image": "",
-      "categories": [
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
-      "id": "41e96939b354",
-      "title": "コーディングエージェントを使い分けるときの、ルールとスキルの置き方と守らせ方",
-      "url": "https://zenn.dev/codeconnect/articles/agent-neutral-rules-and-lint",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "こんにちは、コードコネクトの村上（@koojy3）です。 複数のコーディングエージェントを使い分けるときに、ルールとスキルをどこに置いて、どうやってエージェントが使える形にしているか、そのルールをエージェントにどう守らせているかを書きます。 この記事のポイント この記事で書くことを、先に3行にまとめます。 ルールとス…",
-      "publishedAt": "2026-09-17T23:00:11.000Z",
-      "image": "",
-      "categories": [
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "832e8474c539",
@@ -743,23 +697,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "20c6cf5e040a",
-      "title": "MTPLX 版の Qwen3.8 Flash Next を M4 Max で試したが、4 本並べる開発では oMLX を続けた",
-      "url": "https://zenn.dev/jtechjapan_pub/articles/mtplx-vs-omlx-flash-next-m4max",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。 128GB の MacBook Pro（M4 Max）で、ローカル LLM を開発に使えるかを試し続けています。ここまでに 4 本書きました。 https://zenn.dev/jtechjapan_pub/articles/local-llm-q…",
-      "publishedAt": "2026-09-17T22:44:15.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
     },
     {
       "id": "717c7ed66a85",
@@ -1319,23 +1256,6 @@
       "isNew": false
     },
     {
-      "id": "ed7746ea4063",
-      "title": "AIが別のAIに「人間支配」の目標を吹き込む、2026年8月のAI注目論文",
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02801/091700039/",
-      "host": "xtech.nikkei.com",
-      "source": "日経クロステック",
-      "summary": "2026年8月のSNS言及数ランキングで1位になったのは、人間の意図とは異なる「目標」がマルチエージェント環境で伝播するリスクを検証した、アンソロピックの研究者らによる論文「Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems（マインドウイルス…",
-      "publishedAt": "2026-09-17T20:00:00.000Z",
-      "image": "",
-      "categories": [
-        "model"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "3dbcb30ba63e",
       "title": "MCPの業務活用に3つの課題、難所はLLMの「非決定論」問題",
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03079/091700044/",
@@ -1346,6 +1266,23 @@
       "image": "",
       "categories": [
         "case"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "ed7746ea4063",
+      "title": "AIが別のAIに「人間支配」の目標を吹き込む、2026年8月のAI注目論文",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02801/091700039/",
+      "host": "xtech.nikkei.com",
+      "source": "日経クロステック",
+      "summary": "2026年8月のSNS言及数ランキングで1位になったのは、人間の意図とは異なる「目標」がマルチエージェント環境で伝播するリスクを検証した、アンソロピックの研究者らによる論文「Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems（マインドウイルス…",
+      "publishedAt": "2026-09-17T20:00:00.000Z",
+      "image": "",
+      "categories": [
+        "model"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1404,24 +1341,6 @@
       "isNew": false
     },
     {
-      "id": "83a2e448f622",
-      "title": "製造業のAI変革でユニコーン、バーティカルAIの旗手 キャディCEO次の一手",
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00677/091600214/",
-      "host": "xtech.nikkei.com",
-      "source": "日経クロステック",
-      "summary": "AIを使った製造業のデータ活用支援を手掛けるスタートアップのキャディが約177億円を調達、ユニコーン（企業価値10億ドル超の未上場企業）入りを果たした。世界のAI大手の向こうを張って成長を目指すキャディの次の一手を、加藤勇志郎代表取締役CEOに聞いた。",
-      "publishedAt": "2026-09-17T20:00:00.000Z",
-      "image": "",
-      "categories": [
-        "business",
-        "case"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d4927f5d175a",
       "title": "ソニー銀行が勘定系にAI適用、開発期間2割減へ 「共通ナレッジ」を整備",
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12037/",
@@ -1449,6 +1368,24 @@
       "image": "",
       "categories": [
         "other"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "83a2e448f622",
+      "title": "製造業のAI変革でユニコーン、バーティカルAIの旗手 キャディCEO次の一手",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00677/091600214/",
+      "host": "xtech.nikkei.com",
+      "source": "日経クロステック",
+      "summary": "AIを使った製造業のデータ活用支援を手掛けるスタートアップのキャディが約177億円を調達、ユニコーン（企業価値10億ドル超の未上場企業）入りを果たした。世界のAI大手の向こうを張って成長を目指すキャディの次の一手を、加藤勇志郎代表取締役CEOに聞いた。",
+      "publishedAt": "2026-09-17T20:00:00.000Z",
+      "image": "",
+      "categories": [
+        "business",
+        "case"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -1661,6 +1598,23 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "curated",
+      "isNew": false
+    },
+    {
+      "id": "917f7f6da505",
+      "title": "「暗黙の仕様」はLLMに伝わるか？ 仕様・テスト・設計を「ルール化」する必要性",
+      "url": "https://zenn.dev/soreiyu/articles/7fe79d477693de",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "「暗黙の仕様」はLLMに伝わるか？ 昨今AI(LLM)で開発することが増えた。 当然こちらの意図しないコードだったりすることがあり、それをテストだの仕様駆動だのでなんとか矯正する毎日である。 しかしふとした疑問がよぎる。 暗黙の仕様ってそもそも伝わらないよな？ それとも天才なAI(LLM)ならセッションとコードから暗…",
+      "publishedAt": "2026-09-17T13:29:44.000Z",
+      "image": "",
+      "categories": [
+        "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
       "isNew": true
     },
     {
@@ -1679,6 +1633,40 @@
       "viaGoogle": false,
       "sourceKind": "tech",
       "isNew": false
+    },
+    {
+      "id": "8f14dcfe6312",
+      "title": "findy偏差値70以上を出すAIアーティスト(総合技術)の特徴は。",
+      "url": "https://zenn.dev/hiro_f35/articles/208592938f5643",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "Findyのスキル偏差値で「70以上（上位数%のトップレイヤー）」を獲得しているエンジニア（特に総合技術力やAI/アーキテクト領域）の特徴は、単にコードを書く量が多いだけでなく、コードの品質・設計力・影響力（エコシステムへの貢献）が客観的に極めて高いレベルにある点です。 ​FindyはGitHubのパブリックリポジト…",
+      "publishedAt": "2026-09-17T13:07:43.000Z",
+      "image": "",
+      "categories": [
+        "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "aea7ea66f38a",
+      "title": "AIでインタビューしてみた．",
+      "url": "https://zenn.dev/piroyoung/articles/e639d4c83269cf",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "最近の記事はAI連呼しまくって恥ずかしいんですけど，世の中を揺るがしていることは紛れもない事実なので，多くの人の興味の対象になればと話題を選定しています． さてミズカミヒロキです． 最近時折，市場調査・マーケティングリサーチ・グループインタビューのオーディエンスをAIに置き換えるというニュースがあります． 大変素晴ら…",
+      "publishedAt": "2026-09-17T13:00:05.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
     },
     {
       "id": "a5865d4ff084",
@@ -2424,6 +2412,23 @@
       "isNew": false
     },
     {
+      "id": "69ae83d55da8",
+      "title": "角度が推論の宿命を決める──A*-Thought-V2が幾何力学でCoTの明示と潜在を自動で切り分ける仕組み",
+      "url": "https://zenn.dev/lixian/articles/astar-thought-v2-geometric-latent-reasoning",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "TL;DR Chain-of-Thought（CoT）は推論を強めるが、計算とコンテキストのコストが重い。既存の圧縮手法は、冗長ステップを捨てる（硬剪枝）か、全部を連続空間に押し込む（潜在推論）かのどちらかで、中間情報の保持と原則的な圧縮基準を両立できていなかった。 A*-Thought-V2は、CoTをLLMの隠れ…",
+      "publishedAt": "2026-09-17T02:19:57.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
       "id": "9b6c23ada366",
       "title": "ロボットが自律的に太陽光発電所を建設、Googleも出資 AIで急増する電力需要に対応",
       "url": "https://japan.cnet.com/article/35252723/",
@@ -2492,6 +2497,23 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "548e73f5cc02",
+      "title": "RAGの検索精度をハイブリッド検索で底上げする — ベクトルとBM25を実測で使い分ける",
+      "url": "https://zenn.dev/yukihayama/articles/rag-hybrid-search",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "RAGを組んで最初につまずくのは、意味は合っているのに欲しい文書が取れないという問題です。ベクトル検索（Embedding）は言い換えや概念的な近さに強い一方で、型番・固有名詞・エラーコードのような文字列そのものの一致が苦手です…",
+      "publishedAt": "2026-09-17T01:16:22.000Z",
+      "image": "",
+      "categories": [
+        "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
     },
     {
       "id": "a94c28e272ec",
@@ -2768,6 +2790,24 @@
       "isNew": false
     },
     {
+      "id": "26acf1ee43f5",
+      "title": "テンセントのコード開発エージェント「CodeBuddy NPC」、AI社員へ進化",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02653/091400085/",
+      "host": "xtech.nikkei.com",
+      "source": "日経クロステック",
+      "summary": "中国ネットサービス大手の騰訊控股（テンセント）のクラウドサービスである騰訊雲（テンセントクラウド）は2026年7月23日、開発プロセスに直接組み込まれるクラウド型AI（人工知能）エージェント「CodeBuddy NPC」を正式に発表した。",
+      "publishedAt": "2026-09-16T20:00:00.000Z",
+      "image": "",
+      "categories": [
+        "infra",
+        "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "beadcb76acbe",
       "title": "車載LiDAR御三家、中国の技術を専門家が分析 MEMS方式は「一時代終えた」",
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12011/",
@@ -2820,24 +2860,6 @@
       "isNew": false
     },
     {
-      "id": "26acf1ee43f5",
-      "title": "テンセントのコード開発エージェント「CodeBuddy NPC」、AI社員へ進化",
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02653/091400085/",
-      "host": "xtech.nikkei.com",
-      "source": "日経クロステック",
-      "summary": "中国ネットサービス大手の騰訊控股（テンセント）のクラウドサービスである騰訊雲（テンセントクラウド）は2026年7月23日、開発プロセスに直接組み込まれるクラウド型AI（人工知能）エージェント「CodeBuddy NPC」を正式に発表した。",
-      "publishedAt": "2026-09-16T20:00:00.000Z",
-      "image": "",
-      "categories": [
-        "infra",
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "53d956b13bec",
       "title": "生成AI×DXで「情報システムがゴミ屋敷」に、生産性向上に潜む罠",
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/091502105/",
@@ -2848,24 +2870,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "12f561ed48c9",
-      "title": "OSSのAI再実装は悪か、波紋呼ぶ「ライセンス洗浄」と貢献の行方",
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03754/091100003/",
-      "host": "xtech.nikkei.com",
-      "source": "日経クロステック",
-      "summary": "生成AIで既存OSSを書き直し、より緩いライセンスで公開する「ライセンス洗浄」が波紋を広げている。一方、AIによる再実装は古い設計やコードを見直す好機にもなり得る。企業に求められるのは、権利関係だけでなく品質や安全性、保守体制まで見極めることだ。",
-      "publishedAt": "2026-09-16T20:00:00.000Z",
-      "image": "",
-      "categories": [
-        "dev",
-        "product"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2925,6 +2929,24 @@
       "isNew": false
     },
     {
+      "id": "12f561ed48c9",
+      "title": "OSSのAI再実装は悪か、波紋呼ぶ「ライセンス洗浄」と貢献の行方",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03754/091100003/",
+      "host": "xtech.nikkei.com",
+      "source": "日経クロステック",
+      "summary": "生成AIで既存OSSを書き直し、より緩いライセンスで公開する「ライセンス洗浄」が波紋を広げている。一方、AIによる再実装は古い設計やコードを見直す好機にもなり得る。企業に求められるのは、権利関係だけでなく品質や安全性、保守体制まで見極めることだ。",
+      "publishedAt": "2026-09-16T20:00:00.000Z",
+      "image": "",
+      "categories": [
+        "dev",
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "0b3ccec3311e",
       "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
       "url": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
@@ -2969,24 +2991,6 @@
       "publishedAt": "2026-09-16T10:59:05.000Z",
       "image": "",
       "categories": [
-        "case"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "101f32fa5162",
-      "title": "日本IBMと琉球銀行が提携--「AI活用元年」として全行的な業務変革を推進",
-      "url": "https://japan.zdnet.com/article/35252698/",
-      "host": "japan.zdnet.com",
-      "source": "ZDNET Japan",
-      "summary": "琉球銀行は、日本IBMとAIパートナーシップを結んだと発表した。2026年度を「AI活用元年」と位置付け、AIを前提とした業務プロセス改革や人材育成、地域企業への展開を推進することで、沖縄経済の持続的成長と地域金融の高度化を目指す。",
-      "publishedAt": "2026-09-16T08:51:00.000Z",
-      "image": "https://japan.zdnet.com/storage/2026/02/13/d12991349388b7fccc3b6530b79c215f/t/184/138/d/260213_money_as_1280_1840868252.jpg",
-      "categories": [
-        "business",
         "case"
       ],
       "isPR": false,
@@ -3292,24 +3296,6 @@
       "isNew": false
     },
     {
-      "id": "c3eb8e50768f",
-      "title": "導入を阻む3つの課題 規制緩和を求める声",
-      "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/090900569/090900001/",
-      "host": "xtech.nikkei.com",
-      "source": "日経クロステック",
-      "summary": "次世代AIサーバーの進化に日本の法規制が追いつかない懸念が浮上している。大量の蓄電池や水消火設備、直流800V給電の導入には規制が壁となる。対応が遅れれば、DCの設置場所として日本が選ばれなくなる可能性もある。",
-      "publishedAt": "2026-09-15T22:00:00.000Z",
-      "image": "",
-      "categories": [
-        "product",
-        "policy"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "6f94100b7450",
       "title": "初登場1位は「AIネイティブ開発」 システム開発技術者1340人が選ぶ",
       "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/020600008/090900228/",
@@ -3325,6 +3311,24 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2ba9e32c0529",
+      "title": "安全な超知能の米新興に注目",
+      "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/040900481/090900037/",
+      "host": "xtech.nikkei.com",
+      "source": "日経クロステック",
+      "summary": "米国の新興企業セーフ・スーパーインテリジェンスが50億ドル規模を調達したとして注目を集めた。同社が手掛けるのは、AI（人工知能）の中でも安全性を高めたとされる「安全な超知能」の研究だ。ほかにも中国のショート動画人気の高まりを受け、制作支援企業が大型調達を果たした。",
+      "publishedAt": "2026-09-15T22:00:00.000Z",
+      "image": "",
+      "categories": [
+        "model",
+        "policy"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "d7453dae5bbf",
@@ -3478,40 +3482,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "ec1089c40d43",
-      "title": "無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意",
-      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
-      "host": "itmedia.co.jp",
-      "source": "ITmedia NEWS",
-      "summary": "配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。",
-      "publishedAt": "2026-09-15T00:39:38.000Z",
-      "image": "",
-      "categories": [
-        "product"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "43f329a0da4f",
-      "title": "トランプ大統領、アモデイ氏を名指しで「完璧な小さい天使のふり」 「AIに必要なガードレールは強く賢い大統領だけ」",
-      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001470/",
-      "host": "itmedia.co.jp",
-      "source": "ITmedia NEWS",
-      "summary": "トランプ米大統領はSNSへの投稿で、AIに必要なガードレールは強く賢い大統領だけで十分だと述べ、AI企業に対する刑事・規制上の強い権限を強調した。AnthropicのアモデイCEOを名指しで批判し、AI開発を妨げる動きを中国を利する陰謀だと非難して、米国の優位性を維持する姿勢を示した。",
-      "publishedAt": "2026-09-14T23:15:18.000Z",
-      "image": "",
-      "categories": [
-        "policy"
       ],
       "isPR": false,
       "viaGoogle": false,
