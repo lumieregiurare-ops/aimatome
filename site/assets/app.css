@@ -1003,3 +1003,14 @@ main.wrap {
 #feedSection {
   scroll-margin-top: 80px;
 }
+
+/* フッターのお問い合わせリンク */
+.footer .contact a {
+  color: #e8e8e3;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.footer .contact a:hover {
+  color: #5fd3a8;
+}
