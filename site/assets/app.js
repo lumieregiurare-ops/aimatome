@@ -1,11 +1,26 @@
 (() => {
   const $ = (s) => document.querySelector(s);
   const PAGE = 60;
-  const TOPICS_FIRST = 6;
+  const TOPICS_FIRST = 7;
   const STATE_KEY = "aimc:state";
   const FAV_KEY = "aimc:favs";
   const READ_KEY = "aimc:read";
   const READ_MAX = 400;
+  const SEEN_KEY = "aimc:seen";
+
+  // 各社の動き。見出し・要約にこの語が出た記事を数える
+  const COMPANIES = [
+    { id: "openai", label: "OpenAI", re: /OpenAI|ChatGPT|GPT-?\d|\bSora\b|オープンAI/i },
+    { id: "anthropic", label: "Anthropic", re: /Anthropic|Claude|アンソロピック/i },
+    { id: "google", label: "Google", re: /Google|Gemini|DeepMind|グーグル/i },
+    { id: "microsoft", label: "Microsoft", re: /Microsoft|Copilot|マイクロソフト/i },
+    { id: "meta", label: "Meta", re: /\bMeta\b|Llama|メタ(?!バース)/i },
+    { id: "nvidia", label: "NVIDIA", re: /NVIDIA|エヌビディア/i },
+    { id: "apple", label: "Apple", re: /\bApple\b|アップル|Apple Intelligence/i },
+    { id: "xai", label: "xAI", re: /\bxAI\b|Grok/i },
+    { id: "china", label: "中国勢", re: /DeepSeek|Qwen|アリババ|Alibaba|百度|Baidu|Kimi|Moonshot/i },
+    { id: "japan", label: "国内勢", re: /ソフトバンク|SoftBank|NTT|富士通|\bNEC\b|楽天|Sakana|サカナAI|PFN|Preferred/i },
+  ];
 
   let data = { items: [], topics: [], categories: [], sources: [] };
   let shown = PAGE;
@@ -17,7 +32,7 @@
   let pickupId = "";
 
   const state = Object.assign(
-    { size: "m", cat: "all", source: "all", period: "2", q: "", hidePR: true },
+    { size: "m", cat: "all", source: "all", period: "2", q: "", hidePR: true, co: "" },
     load(STATE_KEY, {})
   );
 
@@ -119,6 +134,7 @@
       if (state.hidePR && it.isPR) return false;
       if (state.cat !== "all" && !it.categories.includes(state.cat)) return false;
       if (state.source !== "all" && it.source !== state.source) return false;
+      if (state.co && !mentions(it, state.co)) return false;
       if (since && new Date(it.publishedAt).getTime() < since) return false;
       if (q && !`${it.title} ${it.summary} ${it.source}`.toLowerCase().includes(q)) return false;
       return true;
@@ -132,15 +148,15 @@
     $("#topicsSection").hidden = false;
     const grid = $("#topicGrid");
     grid.innerHTML = "";
-    for (const t of list.slice(0, topicsShown)) {
+    list.slice(0, topicsShown).forEach((t, i) => {
       const el = document.createElement("article");
-      el.className = "topic";
+      el.className = "topic" + (i === 0 ? " is-lead" : "");
 
       const top = document.createElement("div");
       top.className = "topic-top";
       const cnt = document.createElement("span");
       cnt.className = "topic-count";
-      cnt.textContent = `${t.sourceCount}媒体が報道`;
+      cnt.innerHTML = `<b>${Number(t.sourceCount) || 0}</b> 媒体`;
       top.appendChild(cnt);
       for (const k of (t.keywords || []).slice(0, 2)) {
         const kw = document.createElement("span");
@@ -197,7 +213,7 @@
         el.append(btn, ul);
       }
       grid.appendChild(el);
-    }
+    });
     const more = $("#topicMore");
     more.hidden = list.length <= topicsShown;
     more.textContent = `ほかの話題を見る（残り ${list.length - topicsShown} 件）`;
@@ -207,7 +223,21 @@
   function renderList() {
     const all = visible();
     const rows = all.slice(0, shown);
-    $("#count").textContent = `${all.length} 件${all.length > rows.length ? `（${rows.length} 件を表示中）` : ""}`;
+    const countEl = $("#count");
+    countEl.textContent = `${all.length} 件${all.length > rows.length ? `（${rows.length} 件を表示中）` : ""}`;
+    const co = COMPANIES.find((c) => c.id === state.co);
+    if (co && state.cat !== "fav") {
+      countEl.append(` ・ ${co.label} で絞り込み中`);
+      const clear = document.createElement("button");
+      clear.type = "button";
+      clear.className = "co-clear";
+      clear.textContent = "解除";
+      clear.addEventListener("click", () => {
+        set({ co: "" });
+        renderWatch();
+      });
+      countEl.appendChild(clear);
+    }
     $("#empty").hidden = all.length > 0;
 
     const box = $("#list");
@@ -267,8 +297,8 @@
     tail.className = it.isPR ? "row-pr" : "row-cat";
     tail.textContent = it.isPR ? "PR" : catLabel(it.categories[0]);
 
-    // 前回の収集になかった記事は目印を付ける
-    if (it.isNew && state.cat !== "fav") {
+    // 前回見たときになかった記事は目印を付ける
+    if (isFresh(it) && state.cat !== "fav") {
       const badge = document.createElement("span");
       badge.className = "row-new";
       badge.textContent = "NEW";
@@ -379,6 +409,13 @@
   function renderChurn() {
     const c = data.churn;
     const el = $("#churn");
+    if (baseline) {
+      const n = data.items.filter(isFresh).length;
+      el.hidden = false;
+      el.innerHTML = `前回見たときから +<b>${n}</b> 本<span class="next" id="nextUpdate"></span>`;
+      tickCountdown();
+      return;
+    }
     if (!c || !c.previousCount) {
       el.hidden = true;
       return;
@@ -401,6 +438,70 @@
     // 収集は遅れることがあり、待たせ続ける表示のほうが止まって見えるため。
     const min = Math.max(0, Math.round((Date.now() - new Date(data.updatedAt).getTime()) / 60000));
     el.textContent = min < 120 ? `最終更新 ${min} 分前` : `最終更新 ${Math.round(min / 60)} 時間前`;
+  }
+
+  // ---------- 前回見たときから増えた記事 ----------
+  // 前回開いたときにあった記事の id を覚えておき、それ以外を新着とみなす。
+  // 同じタブで開き直しても基準が動かないよう、最初の値を sessionStorage に固定する
+  let baseline = null;
+  function setupBaseline() {
+    let prev = null;
+    try {
+      prev = JSON.parse(sessionStorage.getItem(SEEN_KEY) || "null");
+    } catch {
+      /* 読めなければ localStorage の値を使う */
+    }
+    if (!prev) {
+      prev = load(SEEN_KEY, []);
+      try {
+        sessionStorage.setItem(SEEN_KEY, JSON.stringify(prev));
+      } catch {
+        /* 保存できなくても動く */
+      }
+    }
+    store(SEEN_KEY, data.items.map((it) => it.id));
+    baseline = prev.length ? new Set(prev) : null;
+  }
+  function isFresh(it) {
+    return baseline ? !baseline.has(it.id) : !!it.isNew;
+  }
+
+  // ---------- 各社の動き ----------
+  function mentions(it, id) {
+    const c = COMPANIES.find((x) => x.id === id);
+    return !!c && c.re.test(`${it.title} ${it.summary || ""}`);
+  }
+  function renderWatch() {
+    const now = Date.now();
+    const DAY = 86400000;
+    const rows = COMPANIES.map((c) => {
+      const hit = data.items.filter((it) => !it.isPR && c.re.test(`${it.title} ${it.summary || ""}`));
+      const age = (it) => now - new Date(it.publishedAt).getTime();
+      const recent = hit.filter((it) => age(it) < DAY).sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+      const before = hit.filter((it) => age(it) >= DAY && age(it) < 2 * DAY).length;
+      return { ...c, n: recent.length, before, top: recent[0] };
+    }).sort((a, b) => b.n - a.n);
+    if (!rows.some((r) => r.n)) return;
+    $("#watchSection").hidden = false;
+    const grid = $("#watchGrid");
+    grid.innerHTML = "";
+    for (const r of rows) {
+      const b = document.createElement("button");
+      b.type = "button";
+      b.className = "watch-item" + (state.co === r.id ? " active" : "");
+      const diff = r.n - r.before;
+      const cls = diff > 0 ? "up" : diff < 0 ? "down" : "";
+      b.innerHTML = `<span class="watch-name"></span><span class="watch-num"><b>${r.n}</b><span class="watch-delta ${cls}">(${r.before}) ${diff > 0 ? "▲" : diff < 0 ? "▼" : "―"}</span></span><span class="watch-top"></span>`;
+      b.querySelector(".watch-name").textContent = r.label;
+      b.querySelector(".watch-top").textContent = r.top ? r.top.title : "直近24時間の記事なし";
+      if (r.top) b.title = r.top.title;
+      b.addEventListener("click", () => {
+        set({ co: state.co === r.id ? "" : r.id, cat: state.cat === "fav" ? "all" : state.cat });
+        renderWatch();
+        if (state.co) $("#feedSection").scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+      grid.appendChild(b);
+    }
   }
 
   function set(patch) {
@@ -432,7 +533,10 @@
     }
     const u = new Date(data.updatedAt);
     $("#meta").textContent = `${data.total} 本の記事 ・ 今日 ${data.todayCount} 本 ・ ${data.topics.length} の話題 ・ 最終更新 ${u.getMonth() + 1}/${u.getDate()} ${String(u.getHours()).padStart(2, "0")}:${String(u.getMinutes()).padStart(2, "0")}`;
+    setupBaseline();
+    if (state.co && !COMPANIES.some((c) => c.id === state.co)) state.co = "";
     renderChurn();
+    renderWatch();
     renderPickup();
     renderTopics();
     renderFilters();
@@ -462,7 +566,7 @@
   });
   $("#pickupAgain").addEventListener("click", pickupAgain);
   $("#topicMore").addEventListener("click", () => {
-    topicsShown += 6;
+    topicsShown += 3;
     renderTopics();
   });
   document.addEventListener("keydown", (e) => {
