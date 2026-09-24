@@ -13,6 +13,19 @@
   "isPR": false
  },
  {
+  "id": "198f1994a32c",
+  "title": "「AIにアウトプットを任せること」について考えてみた｜ar_tama",
+  "url": "https://note.com/ar_tama/n/n7f86813e6ac2",
+  "source": "はてなブックマーク",
+  "summary": "一方、「思考は外注できる」は感覚的には理解できるんだが現実的にはまあ難しい。自分の場合、思考する過程で理解できることのほうが多いというか、一度自分の脳を通して思考しないと理解できないからだと思う。 思考の外注割合を増やし、理解は外注しない最近、自分のアウトプットにも、たとえば同僚のブログレビューを...",
+  "publishedAt": "2026-09-23T13:56:07.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Far_tama%2Fn%2Fn7f86813e6ac2",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "ce4cf2bc8435",
   "title": "Herdr Annotate で効率的なAIコーディングレビューサイクルを実現する",
   "url": "https://portablecode.info/2026/09/23/herdr-annotate-ai-review/",
@@ -56,7 +69,7 @@
   "id": "a28079193bac",
   "title": "トコシエ、East Venturesおよび個人投資家から資金調達 AI 3D CAD「Ignite0」の開発・米国本社設立し展開を加速",
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CNDNReHgxekxSV2hsRkVXRWJHQmIwTEk3RTJxZW5JOW1rSE1iMWR1dDE4OTE2U0hfaURSaFJ4b3E2aDI5OWhmWjZOTEVYU2JGR3hQcUUzclY?oc=5",
-  "source": "nikkan.co.jp",
+  "source": "日刊工業新聞",
   "summary": "",
   "publishedAt": "2026-09-23T12:39:33.000Z",
   "image": "",
@@ -106,6 +119,19 @@
   "isPR": false
  },
  {
+  "id": "8cd7c1aa6b42",
+  "title": "「知覚連鎖：現在のAIが抱える致命的な欠落」の原点(第２回/全４回)",
+  "url": "https://zenn.dev/ptf_whisperer/articles/0445bb0463b19b",
+  "source": "Zenn",
+  "summary": "～なぜソフトウェアとハードウェアは「握手」できないのか～ AI時代における「陸海軍」の補給断 三つの地域が陥る「接合の壁」 「AIは高度な論理的思考が得意なのだから、複雑な仕様や物理制御とも相性が良いはずだ」——この言説こそが、現代のAI工学における最大の陥穡（おとしあな）である。 現在、AIを実社会や産業現場へ導入…",
+  "publishedAt": "2026-09-23T11:50:39.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "faaf818ca822",
   "title": "Tripo AIが4億4600万ドルを調達、ネイティブ四角形トポロジー採用の初の3DモデルP2.0を発表",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZR0lvV3RTaHRGdEhHdmlZZjg1ZFJfdEZKdE42RnhCZFBURlBaQ05CdUxHdFpGSFBMSnlRNjFjQ1ZjN0tZZVBJeHRuLXdhQ01oT3ZXeTRPQ1h6T0lKYUtZOV9kN19ZV3hsOVZ0Wm1kRG4yeV8xdnc?oc=5",
@@ -133,10 +159,49 @@
   "isPR": false
  },
  {
+  "id": "cacffedf7cb0",
+  "title": "質問分類器の評価を本番の入力で測り直したら定義の順位が入れ替わった――gpt-5.4-nano と Jev の比較で見つけた評価の穴",
+  "url": "https://zenn.dev/zenkoku/articles/a69e4c0c73ef56",
+  "source": "Zenn",
+  "summary": "前回の記事では、判断特化モデル Jev を Dify のチャットボットに入れた話を書きました。任せたのは、会話の途中で利用者の法人の種類を決める判断です。今回は、その前段で見送った質問分類器の置き換えの話です。検証でいちばん時間を使ったのは、モデルの比較ではなく評価の作り方でした。 分類器のモデルを Jev に替えた…",
+  "publishedAt": "2026-09-23T11:38:53.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c675b92008b5",
+  "title": "判断特化モデル Jev を Dify のチャットボットに入れた――質問の分類ではなく法人種別の判定を任せた理由",
+  "url": "https://zenn.dev/zenkoku/articles/51d5f3df7eb99b",
+  "source": "Zenn",
+  "summary": "判断特化モデル Jev を、Dify で組んだチャットボットの本番に入れました。任せたのは質問の分類ではなく、会話の途中で利用者の法人の種類を決めて固定する判断です。固定すると、以後のターンはその法人向けの経路で答えます。52会話の評価用データで、誤った固定は9件から4件に減り、Jev が新たに生んだ誤った固定は0件…",
+  "publishedAt": "2026-09-23T11:38:47.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f33ca1fae231",
+  "title": "AIの出力をAIでチェックしたら、はじいた12件のうち11件が間違いだった",
+  "url": "https://zenn.dev/kahia1114/articles/ed050048ef5d41",
+  "source": "Zenn",
+  "summary": "AIと英語で会話して練習する、英語学習アプリを個人で作っています。 1か月前、このアプリに「AIの返事を、別のAIがチェックしてから表示を確定する」仕組みを入れました。そして先日、その仕組みをまるごと外しました。本番の記録を数えてみたら、チェックではじいた12件のうち11件が、まったく問題のない返事だったからです。 …",
+  "publishedAt": "2026-09-23T11:30:59.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "70c67e51cb6e",
   "title": "サイエラ、ゴールドマン・サックスから4億ドル調達——AIエージェント監視で企業の信頼獲得を狙う",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kdmVBOWJqdzlQd0ExUkZSVHNCbEt4akFLVjhFakRmTGZ0Z0laLUxZS0thOWllUVZHTFhKTWc0NXRLdkRhLUJyYlNsczNvN0YzVnhXNDRoUlNEU3ZrVmZFY3JoME5JcFU3V3hRRnFPMzA1NU5t?oc=5",
-  "source": "BigGo ファイナンス",
+  "source": "finance.biggo.jp",
   "summary": "",
   "publishedAt": "2026-09-23T11:25:00.000Z",
   "image": "",
@@ -153,6 +218,19 @@
   "summary": "AIによって完成度の高いインターフェースが当たり前になる中、シニアデザイナーは「ピクセルを作る人」から、コンテキストと人間への共感を扱う人へと変わらなければならない。 先月、あるデザイナーのポートフォリオレビューに参加しました。彼は、午後の数時間で金融ダッシュボードを丸ごと作り上げていました。グラデ...",
   "publishedAt": "2026-09-23T11:21:50.000Z",
   "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fisaot%2Fn%2Fnbc847d9ecf51",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0ebef0e30ee3",
+  "title": "Opus 5.5 の並外れた 3D モデリング能力で理想の城を作る",
+  "url": "https://zenn.dev/pnd/articles/claude-castles",
+  "source": "Zenn",
+  "summary": "Opus 5.5 の結果 下の画像は、Opus 5.5 (effort: medium) がワンショットで作成した城の 3D モデルです。 https://www.youtube.com/watch?v=1OI9zSKPlpw 以下の指示だけを与えており、既製のアセット等は全く利用していません。 Create a 3…",
+  "publishedAt": "2026-09-23T11:06:22.000Z",
+  "image": "",
   "categories": [
    "other"
   ],
@@ -198,6 +276,19 @@
   "isPR": false
  },
  {
+  "id": "9b4e64b447fd",
+  "title": "hermes agentはアップデートが多すぎるので定期的なメンテナンスをLLMにやらせるべき",
+  "url": "https://zenn.dev/siren2345/articles/hermes-agent-llm-maintenance",
+  "source": "Zenn",
+  "summary": "はじめに Hermes Agent を触っているときに思ったことがある。 「このプロジェクト、アップデートが速すぎる。LLMに定期的なメンテナンスをやらせるべきではないか」 昨日まで動いていたブラウザ自動化が、今日動かない。スキルが壊れる。ヘルパー関数が消える。CLIが別バージョンになる。 2026年9月23日の今日…",
+  "publishedAt": "2026-09-23T10:50:56.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "07f1a342655e",
   "title": "AI規制議論が過熱：トランプ氏が世界的な規制に反対する中、OpenAIとアンソロピックが国際協力を呼びかけ",
   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQkhuZlNSN3BCTmFIQnExV1BKa0NyaWpDSzhsV1ZoQ2FfSkpORF9hclFRU2ZSSTcyTlE4Yk5sNThxb3lFb3paZHpvNmY3UEtlNmowUzhya2VqQWIxTVVqMmkzRXVnODFUbC1RaDdzZm5FajlvNG9uSlhrNm13dU9RYlp4MGhJS0lkUVFSQWl1bU9BUUE5OXh3SXZsOUpoSXNweFA1emhHU1JyWjRNN2IxVS1kT2JGaWFPYUozUXh3cjZvZjJQT3lZNkZ2dUhsZGc?oc=5",
@@ -207,6 +298,20 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3f1ab0df499a",
+  "title": "Jevが返すconfidenceの意味〜Jevの応答を受けてループエンジニアリングでどう捌くか〜(実例つき)",
+  "url": "https://zenn.dev/uehaj/articles/jev-confidence-dispatch",
+  "source": "Zenn",
+  "summary": "! 本記事は筆者個人の見解であり、所属する組織の公式見解ではありません。 また、ここで使う TypeSafe の System One API は公開されて間もないものです。仕様が変わる可能性があります。本文の記述と実測値は執筆時点のものです(2026年9月22日〜23日。jev-latest で投げ、レスポンスの …",
+  "publishedAt": "2026-09-23T10:24:08.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
   ],
   "isPR": false
  },
@@ -305,7 +410,7 @@
   "id": "c119114c82e6",
   "title": "Museはメタの「ChatGPTモーメント」となるか？",
   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VQ3VhUDhDVnhKaWlUaGFiY1hNcFM0UHFubzNNenlXREp2c3gyTm16TnpOb3o1MzhEYm9UYzVpaTRhVktGRG5mc2dCUk5tY3FUNkNoYWlJRlJSS0pI?oc=5",
-  "source": "深潮TechFlow",
+  "source": "techflowpost.com",
   "summary": "",
   "publishedAt": "2026-09-23T08:36:50.000Z",
   "image": "",
@@ -371,7 +476,7 @@
   "id": "8073ce9d09f1",
   "title": "日米、中国念頭に同盟強化 ＡＩ・半導体・重要鉱物で協力―高市首相、ＩＣＣ問題に言及・首脳会談",
   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wYVA5QUhsbTBELUNyNFFpOF9kakVvYkVkR1U2RmxySWdqOUxwYWdUY1YzNzduSFlaZUNfcXlPc0VwN0JkeGRWVzgtN3RUZExiWG9TbmVLX1N5UVNVdWRIQzQ4NA?oc=5",
-  "source": "jiji.com",
+  "source": "時事ドットコム",
   "summary": "",
   "publishedAt": "2026-09-23T06:01:00.000Z",
   "image": "",
@@ -423,7 +528,7 @@
   "id": "a650db59da45",
   "title": "OpenAI「GPT-6 Sol」「Luna」発表 ChatGPT Work・Codexで提供開始",
   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43RU05VjJGS2E2bWE1YWZRdkN0QXV4N19NUkRMOUJ6dDBHQUtOYkFtQWxjUnBGcC01M3NDbG5JQ2thZVp0enlHd1laY3MxQ09MczlzWFU0RUlraldKWHoya9IBZkFVX3lxTFB5LTR0ZHExcUZreHAxeUtJbEZFek55dTlQRV9hYnJpSEI1U0hyR1A3ZzZwc0tkc0hlc0xmajNiQzc1a2ZZSTJvb25qRVRQNXZILWJEUElodWY2WGVOMm43NzI2WldhUQ?oc=5",
-  "source": "realsound.jp",
+  "source": "リアルサウンド",
   "summary": "",
   "publishedAt": "2026-09-23T05:26:48.000Z",
   "image": "",
@@ -450,7 +555,7 @@
   "id": "18a2726aa5fc",
   "title": "米AIデータ企業スノークルAI、350億ドル調達 評価額3.5億ドルで約3倍に",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nS0FDdW9KS2IwRjZvcktrRXozTFN0Wnl5V1RjamthcC1wa2xKNXI0NUc1QlBnMG11WlFMMklyUGpzVzcyekJyMFJMbkV4Smk0WWhoTnZWeDhIY0Y1d2k0RVZvQzN2ekhMa3dQcEZXT3lkcl9s?oc=5",
-  "source": "BigGo ファイナンス",
+  "source": "finance.biggo.jp",
   "summary": "",
   "publishedAt": "2026-09-23T04:55:00.000Z",
   "image": "",
@@ -648,7 +753,7 @@
   "id": "a5fffb965bf2",
   "title": "Jiguang GPTBots.aiがJevを導入：企業向けAIに「高速思考」レイヤーを実装",
   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LcVd5MTNIU2owVGNNYTRJaWxQMnZGUWppZWdpR2RORWhjWTJpWkNHOVVJZzhjdzZrUUc2cmhvWTZGdU9jbjR6ek9jczV6czdYdjNXeW5SRHUzUQ?oc=5",
-  "source": "moomoo.com",
+  "source": "Moomoo",
   "summary": "",
   "publishedAt": "2026-09-23T01:49:23.000Z",
   "image": "",
@@ -727,7 +832,7 @@
   "id": "670c06cec980",
   "title": "ウォール街、中国ハイテク株ディール23兆ウォン主幹事—米中AIマネーは「双方向」",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsUFl2Umw5T0ZUZExmUUNTSTB0NFBYb0FsSzhDNHJNeXBzSFhNZVJYckFrSGlYTVN2MzUzY2VJUVVJRHBkNmd1b3ljZ3A1QVc5dkZxaGlXWEQyYWZER2xZZ3NrS29BTXYtaTNULTZyVFlBSlI1?oc=5",
-  "source": "BigGo ファイナンス",
+  "source": "finance.biggo.jp",
   "summary": "",
   "publishedAt": "2026-09-23T00:56:00.000Z",
   "image": "",
@@ -781,7 +886,7 @@
   "id": "99434a2f7641",
   "title": "マイクロソフト、AI「スーパーアプリ」の発売に伴いCopilotの割引を拡大－The In",
   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWEk5TkpQOTNDZndJRWE1bmhBYXNKRGxwUVJBaEZYc04xdlp5OTNjcC1HNnE4cXFoQTZDRUJIV1FyM0FldGNtM2drNDJVbkI1ZmJkeDhUZkdpVFl1cE1xaXktMGtJaXZpYUF1aDIyaG5YeVZwTHcycklFZk1YSnAwaWRpS0xYNmQyTlRKdWhnaFJIRkxWMmJBam5HaHUwbTlMVEhRTFFJUGpibld3?oc=5",
-  "source": "moomoo.com",
+  "source": "Moomoo",
   "summary": "",
   "publishedAt": "2026-09-22T23:40:45.000Z",
   "image": "",
@@ -821,7 +926,7 @@
   "id": "dcd4f02eae4c",
   "title": "ＡＩ国際規制を「拒否」 「超知能」に名称変更―米大統領",
   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hZnV3S01oc0JfWE83alNyWk1lOGh1WXphWjdidkdnNVhPNjJ6QzZFTS1ldTN4aktBNWs2ZkU4YXFwaS11aTdDdllxOFZRcmN6U29FNkFVbmZpOXpCQW0zWlExRQ?oc=5",
-  "source": "jiji.com",
+  "source": "時事ドットコム",
   "summary": "",
   "publishedAt": "2026-09-22T23:11:00.000Z",
   "image": "",
@@ -1071,7 +1176,7 @@
  {
   "id": "97d8ff400cdd",
   "title": "「Claude Opus 5.5」で何が変わる？ API料金20％値下げ、文章の読みやすさも改善",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zWkdPSU45a0JOMTlIU0VKcjczcWZCdXNKbF9Db1BHVG1qb1VMZE0tTE0zUlR1d3dmSVZZYzV1MDJ0TGZpcGJLbWpzekpaUFJoS2tMVA?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LUUM4MmdNNUZuUzI3d1pIRkhmZjlndlBDYTRKaDVnU01tSWJ6YUZYVHJmQzNxWU9JODB0ZFZBM3JTbm5vUWxzZXdWVy10TXc3N29pcVhBVkJGWVRCNW0wVjJONE9LeU9tX1dwNkYwV1NQdjFGS0Vfc2hTSQ?oc=5",
   "source": "ニコニコニュース",
   "summary": "",
   "publishedAt": "2026-09-22T20:36:20.000Z",
@@ -1203,7 +1308,7 @@
   "id": "ad6b3bf54fe6",
   "title": "トランプ氏 国連で演説 イランとの合意は「中間選挙後」 AI規制は「一切拒否」 – Quebee キュエビー",
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fZm9fUGowNnYxQjlvbkIwUGhMLXZOc0s4LWNFYnBWQ0o4SkVQRDJpSVhoc1cwUW5kN2ZNampMbkRoSHBMVXBGUzBKUnpUSVJld3RJU2JyUC0?oc=5",
-  "source": "qab.co.jp",
+  "source": "QAB 琉球朝日放送",
   "summary": "",
   "publishedAt": "2026-09-22T18:21:08.000Z",
   "image": "",
@@ -1229,7 +1334,7 @@
   "id": "5ff4aa006b55",
   "title": "Anthropic、Claude Opus 5.5を発表——フラッグシップモデル価格を40%引き下げ",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Mi1ObXYwOGxvbmdIeTVNeEVYN2RkMkxQT3R1WlJWbEFnZUdiaHgyZGVOdThwbjRBZFdtNGxkdDNjNE1NU2E4SU9Ib0k0ekhrN1JvTmd2Ynhic0g1cVZJelpqMFk5b3NNN3JPUTdPTmNJVlVw?oc=5",
-  "source": "BigGo ファイナンス",
+  "source": "finance.biggo.jp",
   "summary": "",
   "publishedAt": "2026-09-22T17:35:00.000Z",
   "image": "",
