@@ -125,3 +125,23 @@ curl -X POST -H "Accept: application/vnd.github+json" -H "Authorization: Bearer 
 
 見出し・要約の一部・リンクのみを掲載しています。掲載の取り下げ希望があれば
 `config.json` の `site.contactUrl` に記載の窓口から連絡できるようにしてください（未設定）。
+
+## 検索エンジン向けのページ（SEO）
+
+トップの画面は `app.js` が `news.json` を読んで描くので、それだけだと検索エンジンには中身が見えません。そこで、収集（`collect.mjs`）とビルド（`build.mjs`）の最後に `scripts/lib/pages.mjs` が次のものを `docs/` に書き出します（このファイルは pokematome・mhmatome と同じもの。違いは `config.json` の `pages` だけ）。
+
+| URL | 内容 |
+| --- | --- |
+| `/` | `site/index.html` の `<!--ssr:…-->` に、新着 40 件・サイト内リンク・構造化データを差し込んだもの（表示後は app.js が描き直す） |
+| `/news/<slug>/` | ニュースの種別ごと（モデル・研究 / 製品・ツール など）。見出し・説明・URL は `config.json` の `pages.genres` |
+| `/company/` `/company/<id>/` | 企業別（OpenAI・Anthropic・Google など）。`site/assets/app.js` の `COMPANIES`（各社の動き）と同じ正規表現で数え、3 件以上あるものだけ |
+| `/archive/…` | 過去のニュース（月別・日別） |
+| `/about/` `/404.html` `/feed.xml` `/sitemap.xml` | サイトについて・404・Atom フィード・サイトマップ |
+
+- サブページのヘッダー・フッターは `site/index.html` から切り出して使います（検索欄・文字サイズの切り替えは JS が要るので外しています）
+- 過去の記事は `data/archive/YYYY/MM/DD.json`（日本時間の日付ごと）に貯めています。`news.json` は数日で消えますが、こちらは消えません
+- 記事が 3 件未満のページは `noindex` にして sitemap にも載せません
+- 全ページに入るサイドバー・フッターには、収集のたびに変わる値（件数など）を入れていません。入れると過去の日別ページまで毎回書き換わるためです
+- 収集のワークフローは `docs/` 全体を FTP に渡します。**site/ を直したときは `npm run build` で docs/ を作り直してから push してください**
+- `site/.htaccess` で圧縮・キャッシュ・404 のページを設定しています。アイコンは `site/favicon.svg`（PNG は同じ絵から作ったもの）
+- Google Search Console の所有権の確認に HTML タグを使う場合は、`config.json` の `pages.googleSiteVerification` に content の値を入れてください

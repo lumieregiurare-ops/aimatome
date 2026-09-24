@@ -670,7 +670,7 @@ main.wrap {
 
 .day-head {
   position: sticky;
-  top: 74px;
+  top: 102px;
   z-index: 5;
   background: var(--bg);
   padding: 6px 0 5px;
@@ -902,7 +902,226 @@ main.wrap {
   background: var(--accent);
 }
 
+/* ---------- ヘッダーのサイト内リンク ---------- */
+.global-nav {
+  display: flex;
+  gap: 16px;
+  height: 28px;
+  align-items: center;
+  overflow-x: auto;
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 0 18px;
+  border-top: 1px solid var(--term-2);
+  scrollbar-width: none;
+}
+
+.global-nav a {
+  flex: none;
+  font-size: var(--fs-small);
+  font-weight: 700;
+  color: #b9bcc4;
+  white-space: nowrap;
+}
+
+.global-nav a:hover {
+  color: #5fd3a8;
+}
+
+/* ---------- フッターのサイト内リンク ---------- */
+.footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 14px;
+  margin-bottom: 14px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--term-2);
+}
+
+.footer-nav a {
+  color: #b9bcc4;
+  text-decoration: underline;
+}
+
+/* ---------- 種別・企業別などの静的ページ ---------- */
+.layout-page {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 260px;
+  gap: 28px;
+  align-items: start;
+}
+
+.col-main {
+  min-width: 0;
+}
+
+.side {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.mod {
+  border-top: 2px solid var(--text);
+  padding-top: 8px;
+}
+
+.mod-head {
+  font-size: var(--fs-base);
+  font-weight: 700;
+}
+
+.crumbs ol {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0 0 12px;
+  padding: 0;
+  font-size: var(--fs-small);
+  color: var(--text-muted);
+}
+
+.crumbs li + li::before {
+  content: "›";
+  margin: 0 7px;
+}
+
+.crumbs a {
+  text-decoration: underline;
+}
+
+.page-intro {
+  margin-bottom: 20px;
+}
+
+.page-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.page-lead {
+  margin-top: 6px;
+  font-size: var(--fs-base);
+  color: var(--text-muted);
+}
+
+.side-links {
+  list-style: none;
+  margin: 6px 0 0;
+  padding: 0;
+}
+
+.side-links a {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 4px 2px;
+  font-size: var(--fs-base);
+  border-bottom: 1px dashed var(--border);
+}
+
+.side-links a:hover {
+  color: var(--accent);
+}
+
+.side-links .n,
+.name-list .n,
+.archive-day .n {
+  font-family: var(--font-mono);
+  color: var(--text-muted);
+}
+
+.side-note {
+  font-size: var(--fs-small);
+  color: var(--text-muted);
+}
+
+.name-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 6px;
+}
+
+.name-list a,
+.archive-days > li {
+  background: var(--surface);
+  border: 1px solid var(--border);
+}
+
+.name-list a {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 8px 12px;
+  font-weight: 700;
+}
+
+.name-list a:hover {
+  border-color: var(--accent);
+}
+
+.archive-days {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.archive-days > li {
+  padding: 10px 12px;
+}
+
+.archive-day {
+  display: flex;
+  gap: 10px;
+  font-weight: 700;
+}
+
+.archive-day:hover {
+  color: var(--accent);
+}
+
+.archive-days ul {
+  margin: 4px 0 0;
+  padding-left: 1.2em;
+  list-style: disc;
+  font-size: var(--fs-small);
+  color: var(--text-muted);
+}
+
+.pager {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 20px 0;
+  font-weight: 700;
+}
+
+.pager a,
+.prose a {
+  text-decoration: underline;
+}
+
+.prose h2 {
+  margin: 22px 0 6px;
+  font-size: 16px;
+}
+
+.prose p {
+  margin: 0 0 10px;
+}
+
 @media (max-width: 900px) {
+  .layout-page {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
   .watch-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }

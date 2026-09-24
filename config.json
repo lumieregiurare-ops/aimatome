@@ -6,6 +6,38 @@
     "url": "https://aimatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
+
+  "note_pages": "pages は収集のたびに作る静的ページ（検索エンジン向け）の文言。genres はニュースの種別（/news/<slug>/）で、キーは categories の id。entities は企業別のページで、site/assets/app.js の COMPANIES（各社の動き）と同じ正規表現で数え、3 件以上あるものだけ作る。googleSiteVerification は Search Console の HTML タグの content の値。",
+  "pages": {
+    "googleSiteVerification": "",
+    "topic": "AI",
+    "themeColor": "#111316",
+    "rowStyle": "compact",
+    "dropHeaderTools": true,
+    "aboutSources": "IT・ビジネス系のニュースサイト・技術ブログ・プレスリリース",
+    "topLinkLabel": "トップ（いま話題・各社の動き）",
+    "genres": {
+      "model": { "slug": "model", "title": "AIモデル・研究の最新ニュース", "desc": "GPT・Gemini・Claude・Llama などの新しい AI モデルの発表、論文・ベンチマーク・研究のニュースをまとめています。" },
+      "product": { "slug": "product", "title": "AI製品・ツールの最新ニュース", "desc": "生成 AI の新しいサービス・アプリ・ツールの提供開始、新機能・アップデートのニュースをまとめています。" },
+      "business": { "slug": "business", "title": "AIビジネス・投資の最新ニュース", "desc": "AI 企業の資金調達・買収・提携・決算・株価など、ビジネスと投資のニュースをまとめています。" },
+      "policy": { "slug": "policy", "title": "AI規制・法制度の最新ニュース", "desc": "AI の規制・法案・ガイドライン、著作権や個人情報・訴訟など、法制度と安全性のニュースをまとめています。" },
+      "case": { "slug": "case", "title": "AI導入事例の最新ニュース", "desc": "企業・自治体・病院・学校などで生成 AI を導入・活用した事例や実証実験のニュースをまとめています。" },
+      "infra": { "slug": "infra", "title": "AIインフラ・半導体の最新ニュース", "desc": "GPU・AI 半導体・データセンター・計算基盤・電力など、AI を支えるインフラのニュースをまとめています。" },
+      "dev": { "slug": "dev", "title": "AI開発・技術解説の最新記事", "desc": "AI を使った開発の実装・ライブラリ・入門・ハンズオンなど、技術解説の記事をまとめています。" }
+    },
+    "entities": {
+      "from": "appjs-regex",
+      "var": "COMPANIES",
+      "path": "company",
+      "minLength": 2,
+      "label": "企業別",
+      "navLabel": "企業別",
+      "indexTitle": "企業別のAIニュース",
+      "indexDesc": "OpenAI・Anthropic・Google・Microsoft・NVIDIA など、AI 企業ごとにニュースをまとめています。",
+      "titleTpl": "{name}のAI最新ニュース",
+      "descTpl": "{name}に関する AI のニュース（新しいモデル・製品・提携・投資など）をまとめています。"
+    }
+  },
   "schedule": { "hour": 7, "minute": 0, "runOnStartIfStaleHours": 6 },
   "retentionDays": 14,
   "maxArticleAgeDays": 5,
