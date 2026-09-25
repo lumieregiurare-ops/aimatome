@@ -5,14 +5,42 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-09-25T11:30:14.127Z</updated>
+  <updated>2026-09-25T12:00:50.220Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>AIエージェントのループ暴走を防ぐ停止条件と実行回数制御</title>
+    <link href="https://qiita.com/hono_ai_labho/items/6dc6ee977a251ac39ed8"/>
+    <id>https://aimatome.gamelab.website/#54251cf73fca</id>
+    <updated>2026-09-25T12:00:11.000Z</updated>
+    <summary>Qiita ／ AIエージェントを実装していると、「目標を達成したはずなのにツール呼び出しを続ける」「同じ検索やAPI実行を何度も繰り返す」といったループ暴走に遭遇します。 私も手元で、LLMに「必要な情報を集めて答えを作る」という処理を任せた際、終了判定が曖昧なために同じステップを繰り返...</summary>
+  </entry>
+  <entry>
+    <title>学校安全に生成AIやCSの活用可能性 中教審の部会で議論</title>
+    <link href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE85a0Z1WmZIRlBRZUNVT1BwU09xY2VmRVAzZENYSlliM1RWS2lZZVdBTWhFYnFGdFE3UjNYNERGbWpWZlM3ZTFLckZndHBGUjZsZ0pXbGlR?oc=5"/>
+    <id>https://aimatome.gamelab.website/#df5f9f23fd8a</id>
+    <updated>2026-09-25T11:55:00.000Z</updated>
+    <summary>教育新聞</summary>
+  </entry>
+  <entry>
+    <title>AIは人間の専門家と同じレベルで悩みに答えられない？ 心療内科医が「模範解答」に違和感を覚えたワケ</title>
+    <link href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IaHkxbF9IWm41LTY3WGZKQlNzajJMUEF3VUNYQTFsQTV4QTVzcGt6Z3hieFpGS0JiWlE4TktZZHhUZW5DR2Y3U3ZWMExWWVZLX0J0aHgzUWZPQQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#e7d61a73130b</id>
+    <updated>2026-09-25T11:30:00.000Z</updated>
+    <summary>All About ニュース</summary>
+  </entry>
   <entry>
     <title>AI搭載システムが来庁者の案内 上山市が県内初導入</title>
     <link href="https://news.google.com/rss/articles/CBMibkFVX3lxTE84MlpsY2JoTmo5MHpVV1Z3TzRYckl4Y3dSN1BzaVlHeEFhM2N2NjE3UWVDOXo2NVFqeVRDSUJoQUZnTHN3aGxuY05LTTlHd01ObFByd1gyN0tkbzNTRDNlVHI1cm1NY3lwSC1EYVNn?oc=5"/>
     <id>https://aimatome.gamelab.website/#be9e11a82cd2</id>
     <updated>2026-09-25T11:16:00.000Z</updated>
     <summary>au Webポータル</summary>
+  </entry>
+  <entry>
+    <title>【山形】AI搭載システムが来庁者を案内 上山市が県内初導入（YTS山形テレビ）</title>
+    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE13OVNBa2dNNXljMmhYdGFwTUpEWnhTb21IeGNPcUR1Ykt2MzFKeGpjX3pMQXFPejZGQ2NoSG5NUFFZTUc1N3lBZ3dyTHRFMU9FQmZJcnBxd3Ricl8zc2dkby1PQ08zWENGakVxdXp0RHNReG9xeVdhalQyUjVmanM?oc=5"/>
+    <id>https://aimatome.gamelab.website/#1a3fb88a9fae</id>
+    <updated>2026-09-25T11:15:24.000Z</updated>
+    <summary>Yahoo!ニュース</summary>
   </entry>
   <entry>
     <title>AIが半導体の回路を自動設計、本田技術研究所も評価するケイデンスの新技術</title>
@@ -183,6 +211,13 @@
     <summary>DXマガジン</summary>
   </entry>
   <entry>
+    <title>OpenAI Academy、2年間で400万人以上が教材を利用 地域でAIを教える人材の育成へ</title>
+    <link href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QSWZGTE1CNWxfU1dsTzNsSDFaNHIxWUxpVGJqZy1abllES2swNnJyUk0wZEVnUFRQOTdnbUhvaHRZeWVnNHg1NDVUSGRZUVFkclE?oc=5"/>
+    <id>https://aimatome.gamelab.website/#e3465eefe5fc</id>
+    <updated>2026-09-25T09:41:26.000Z</updated>
+    <summary>DXマガジン</summary>
+  </entry>
+  <entry>
     <title>AIに書かせても速くならないのは、AIを「手足」として使っているから。人が押さえるべき5つの判断ポイントと半自動ループの作り方</title>
     <link href="https://zenn.dev/dotdtech_blog/articles/65d51bc72d7ee9"/>
     <id>https://aimatome.gamelab.website/#63aed4bc4596</id>
@@ -218,13 +253,6 @@
     <summary>DXマガジン</summary>
   </entry>
   <entry>
-    <title>CLAUDE.md に書いたほうがいいこと10選【AIに技術書を1冊作らせて分かった】</title>
-    <link href="https://qiita.com/kishitaku8207/items/f2866a95b788d04c279a"/>
-    <id>https://aimatome.gamelab.website/#9cf93c927665</id>
-    <updated>2026-09-25T09:21:37.000Z</updated>
-    <summary>Qiita ／ はじめに Claude Code に、技術書を1冊作らせました。本文13ファイル・7,739行、最終的に A4 で327ページの PDF になったものです。 その過程で CLAUDE.md は20節まで増えました。増えた節のほとんどは、事故か失敗の後に足したものです。 最...</summary>
-  </entry>
-  <entry>
     <title>日本語ベンチマークでJevの性能を検証する</title>
     <link href="https://zenn.dev/ivry/articles/65c1c4242e1156"/>
     <id>https://aimatome.gamelab.website/#aa2b1efadec2</id>
@@ -244,6 +272,13 @@
     <id>https://aimatome.gamelab.website/#baf4be0691c1</id>
     <updated>2026-09-25T09:16:56.000Z</updated>
     <summary>はてなブックマーク ／ ChatGPTやGeminiといったAIチャットボットによる出力を汚染するために、悪意のあるリンクやデータをインターネット上にばらまくというサイバー攻撃キャンペーン「Dark Sourcery」について、サイバーセキュリティ企業・Vigilance Securityの研究者が報告しています。 Dark Sourcer…</summary>
+  </entry>
+  <entry>
+    <title>株式会社Co-Labo AI、製造業における紙文書・PDF業務のAI活用モデルを公開｜AI-OCRから業務自動化までを解説</title>
+    <link href="https://news.google.com/rss/articles/CBMia0FVX3lxTE95ZTRTWDVaUFZRMFZBaG1nRVg5a1pDeEV5RzdDaWZnUGtXMnJsODVfSDlfVUpGRWV4bFlncTNrU1BjdnpmLUxZbkUtaVJ4bGRoWHpnYlhwNmlxT0ZRQkt3SE1SYmNuaGlvZUx3?oc=5"/>
+    <id>https://aimatome.gamelab.website/#06ae87721a23</id>
+    <updated>2026-09-25T09:16:00.000Z</updated>
+    <summary>時事ドットコム</summary>
   </entry>
   <entry>
     <title>アップルのSiri AI搭載スマートディスプレイ、10月にも登場か</title>
@@ -295,13 +330,6 @@
     <summary>Zenn ／ Cursor の Hooks（hooks.json）を書いたのに発火しない、あるいは全部ブロックされる／全部通ってしまう。この記事は、その原因を上から順に潰していくためのチェックリストです。2026 年 9 月時点の公式ドキュメントに基づいています。 前提: hooks の動き方 Hooks は Cursor が s…</summary>
   </entry>
   <entry>
-    <title>無料枠AI APIを使い倒す：9RouterとOmniRouteで自分専用のAIゲートウェイを構築する</title>
-    <link href="https://qiita.com/TOMOSIA-LinhND/items/a9f97284ddbef214ac9e"/>
-    <id>https://aimatome.gamelab.website/#c6b2bf043cad</id>
-    <updated>2026-09-25T09:02:54.000Z</updated>
-    <summary>Qiita ／ 記事概要 個人開発やプロトタイプ（PoC/MVP）、学習用途向けに、無料枠（Free Tier）を提供するAI APIプロバイダー（Gemini、OpenRouter、Agnes、Groqなど）を最大限に活用する方法を解説します。レート制限（429エラー）による作業の中...</summary>
-  </entry>
-  <entry>
     <title>Cursor Cloud Agent の料金——追加ゼロのクレジット消費と使い分け判断</title>
     <link href="https://zenn.dev/joemike/articles/cursor-cloud-agent-pricing-2026"/>
     <id>https://aimatome.gamelab.website/#a9ba4ebd3afe</id>
@@ -323,38 +351,10 @@
     <summary>NHKニュース</summary>
   </entry>
   <entry>
-    <title>最適化できる小売業だけが勝つ時代へ -AI孔明 on IDXが実現する“需要・価格最適化OS”を発表</title>
-    <link href="https://news.google.com/rss/articles/CBMie0FVX3lxTE1iTEw0LTBEdzVOWHVlNUR4ZXFyV1V5N0Rjb1ZDSnA0cW5GUHFXemtWZjhzZGg0VXUwdGotODVXdW1KR05NcnVET2hoeXB6LUVrU2ctNHN1c0tkMWdUOGdNOHpITmRwb1A5QXA3cnc2RmtWOWs4RnJVQWNrNA?oc=5"/>
-    <id>https://aimatome.gamelab.website/#6440cf063864</id>
-    <updated>2026-09-25T09:00:19.000Z</updated>
-    <summary>ニコニコニュース</summary>
-  </entry>
-  <entry>
     <title>「生成AIじゃありません!?」1本50kgのホイールをブチ込んだ魔改造ソアラ、現る！ (MotorFan)</title>
     <link href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQdGV0OEt6NTFJWnI0ZkZ3WUJkclFjeDZBODkzMHc5NkwyZkFVbXVNLWFKTVc1Y09rV0RyQ2l0YXpMb0EyZWJUc2xrRE9LNmcwR09ZbzQ2VDFYUzcyenFkRFJ1dFpQTUtDRVhwVTlFSXNJWlF5eGRnQnhHb01SM3pEVExXMklyUnExTzVMSVRR?oc=5"/>
     <id>https://aimatome.gamelab.website/#2cdc3f79eca1</id>
     <updated>2026-09-25T08:56:18.000Z</updated>
     <summary>Yahoo!ニュース</summary>
-  </entry>
-  <entry>
-    <title>CodexでSolの枠を節約する：Lunaに任せる仕事とJEVの判断ポイント</title>
-    <link href="https://zenn.dev/beatapi/articles/02bc4099dde800"/>
-    <id>https://aimatome.gamelab.website/#b1311014ab80</id>
-    <updated>2026-09-25T08:50:30.000Z</updated>
-    <summary>Zenn ／ Codex で GPT-6 Sol を使っていると、次の作業が単なるファイルの読み込み、検索、コードの一次調査であることがあります。そこは Luna に任せ、難しい判断のために Sol を残しておけます。 この記事では三つの段階を、設定例とリクエスト例で順に確認します。分け方は三つあります。手早く既定モデルを変える方…</summary>
-  </entry>
-  <entry>
-    <title>【AKARUMI 新機能リリース】「ChatGPT広告」分析機能・「クエリファンアウト」機能を追加</title>
-    <link href="https://news.google.com/rss/articles/CBMiekFVX3lxTFBiWUxFOUVtaEdPZ0hxZ0RYLXNmVDFMRXNnZVktUVIxZUVsLXBlU2h6TWFuZTczcENTM2MyU2MtZVJGamJIdFR6NlFpeWgyYnctb0VRS0NaYmY4ZWtfdlZuMkR3emQtZlRZREV0RHFEbU53OWQxWWVyTndn?oc=5"/>
-    <id>https://aimatome.gamelab.website/#9c60d7ca6677</id>
-    <updated>2026-09-25T08:49:02.000Z</updated>
-    <summary>イザ！</summary>
-  </entry>
-  <entry>
-    <title>非エンジニアでも即日WPプラグインをAIで作成</title>
-    <link href="https://zenn.dev/kuwanokazuya/articles/33e52882479696"/>
-    <id>https://aimatome.gamelab.website/#2235aab668cc</id>
-    <updated>2026-09-25T08:46:33.000Z</updated>
-    <summary>Zenn ／ はじめに Webサイトの運用保守やディレクションをメインにしており、普段自らゼロからPHPを書いてプログラムを組むことはない「非プログラマー」の立場です。 今回、クライアントワークの運用改善をきっかけに、生成AI（Gemini等）をペアプログラミングの相棒として活用したところ、約30分で自作のWordPressプラグ…</summary>
   </entry>
 </feed>
