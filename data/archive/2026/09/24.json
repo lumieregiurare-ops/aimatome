@@ -57,7 +57,7 @@
   "title": "アップロードしないファイル処理ツールを 9 つ作り、サーバーなしで連携させた：COOP/COEP の壁の越え方",
   "url": "https://zenn.dev/orihako/articles/60f79b433bdb0f",
   "source": "Zenn",
-  "summary": "PDF から Image へファイルを渡すと、何も届かない。本番サイトに対する自動テストで、この不具合が「重大」として出た。原因は、SharedArrayBuffer のために COOP/COEP でクロスオリジン隔離したサイトでは、window.opener も window.open の戻り値も使えなくなることだ…",
+  "summary": "PDF から画像ツールへファイルを渡すと、何も届かない。本番サイトに向けた自動テストで、この不具合が「重大」として出た。調べると、SharedArrayBuffer のために COOP/COEP で隔離したサイトでは、別のサイトのタブとのつながりが切れてしまうことが原因だった。 作っていたのは「Orihako（オリハ…",
   "publishedAt": "2026-09-24T14:33:05.000Z",
   "image": "",
   "categories": [
@@ -145,6 +145,19 @@
    "case"
   ],
   "isPR": false
+ },
+ {
+  "id": "4cf9104dedc2",
+  "title": "【AI博覧会Fukuoka 2026】株式会社Co-Labo AIがゴールドスポンサーとして参画｜新概念「AI転換率」を掲げ、製造業のAI活用を福岡から加速",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wOE1ydWRyZVlnaDNSSkdkRlJoZWs2ZWJhZXJSRVRRYWRRWjI5bFN3cDZxX21sRm9GckxxaWNvY0VJSFJnaGhCcXV6Yl9tSFk5elg5U0lzeVpaejhhR29PNkY5YUNrMk4tOGc?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-09-24T14:20:02.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": true
  },
  {
   "id": "37f128cf2f4f",
@@ -806,6 +819,19 @@
   "isPR": false
  },
  {
+  "id": "5ac180c87319",
+  "title": "Office操作からWeb上のデータ収集まで自動化！手元のファイルから直感的に動く最新AIツール",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PUkpQMXdqX0pTc0l6M3NRZWRnNFpEdnpjLVUyQ1VOSXJyY3pNMHhJS0RGc1ZJSTVOeHczZHIwZ094QzBucV9DU2NRZG12a0YtN1FPWWpYb2FaZw?oc=5",
+  "source": "DXマガジン",
+  "summary": "",
+  "publishedAt": "2026-09-24T12:04:02.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "cdfbc3c16889",
   "title": "ChatGPTと長文を書いていたら「完成原稿に入れるか決めない置き場」が必要になった",
   "url": "https://qiita.com/TheOkachanPG/items/ca43b38ccb1785b5cd53",
@@ -1168,10 +1194,10 @@
  {
   "id": "1b5e710335d4",
   "title": "企業によるAIの導入は、パランティア（PLTR）の強気材料を変えるのか？",
-  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUG16M3l5ZFpINWd1Y3R1QVhBZktqQlY2ZUtoZmt4THNSc0ZZM2h2amFkZFFoX3lFZF9uY2xGRHE0OUpySDYxVE1MZ2FkbExucWRNZld6SGs5VnJFTURuMTlvbUdWTEdsYUcweXI4QlhWREFkV2Exd0l6eTJDVHZDYWNUZmcxa2lPcjNQZFhKTHNKZUpqaklvVjRmNk1ZdEF10gGmAUFVX3lxTE1KTVhrWDZjODctLXFNQnd6SHVPRnVGM1BiS0F3aGg3b3hqNEpmdDFjaFd5REtOaFdyTWswOGljVXVZM1BoOTJfXzZJM0paSnlzQ2hFUFFBX0VWUFl4eFI5RlJ1NlBXYTl4bExPSTA0SVY1X0lENVVJQnBRX2h3YmFMZjJhUWN1ZmgybnJvb2ZlallYNzJmd3lIWUt6U09rMEJObF9KdVE?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSk1Ya1g2Yzg3LS1xTUJ3ekh1T0Z1RjNQYktBd2hoN294ajRKZnQxY2hXeURLTmhXck1rMDhpY1V1WTNQaDkyX182STNKWkp5c0NoRVBRQV9FVlBZeHhSOUZSdTZQV2E5eGxMT0kwNElWNV9JRDVVSUJwUV9od2JhTGYyYVFjdWZoMm5yb29mZWpZWDcyZnd5SFlLelNPazBCTmxfSnVR0gGmAUFVX3lxTE1KTVhrWDZjODctLXFNQnd6SHVPRnVGM1BiS0F3aGg3b3hqNEpmdDFjaFd5REtOaFdyTWswOGljVXVZM1BoOTJfXzZJM0paSnlzQ2hFUFFBX0VWUFl4eFI5RlJ1NlBXYTl4bExPSTA0SVY1X0lENVVJQnBRX2h3YmFMZjJhUWN1ZmgybnJvb2ZlallYNzJmd3lIWUt6U09rMEJObF9KdVE?oc=5",
   "source": "simplywall.st",
   "summary": "",
-  "publishedAt": "2026-09-24T11:04:34.000Z",
+  "publishedAt": "2026-09-24T11:04:35.000Z",
   "image": "",
   "categories": [
    "case"
@@ -2180,7 +2206,7 @@
   "id": "e03405f47b64",
   "title": "ＡＩ侵入「日本でも」、制御策練る必要＝自民半導体議連の山際会長",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GY1lSSUdDYXp4YXRHY0VSQXdOMTdlTkI4emZ2c0VkSDB5My1zb2piTUg4bUFGdE9YMTZLU2lqc2hXUzlqdUNfNkF4cFV3VDlrOEEyejl0MUFnSHZFNkJzczZQOEFKYUZqZWV5R1VzQndoc1lZZUVvQ2U5LXV6NEU?oc=5",
-  "source": "reuters.com",
+  "source": "Reuters",
   "summary": "",
   "publishedAt": "2026-09-24T08:34:09.000Z",
   "image": "",
@@ -2561,7 +2587,7 @@
   "id": "4e5ef212e4e4",
   "title": "富士通、半導体不足商機に 新型AIサーバー、メモリー容量「27～45％減」も",
   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oUVZ6dGhFUWNUd0d5NnJ5UkRkZFRXNkZKbkl6SUhKbjlQdXpsNlotZHVfWWRRRWhfUE4xSXlIWDFTekIzVHZXeEV5dTFTVkF5OVEwc3BLaGJ1cVUzVFNVQkdOQ29iS00?oc=5",
-  "source": "日経ビジネス電子版",
+  "source": "business.nikkei.com",
   "summary": "",
   "publishedAt": "2026-09-24T08:00:00.000Z",
   "image": "",
@@ -2759,7 +2785,7 @@
   "id": "6171417d03fb",
   "title": "AnthropicがClaude Codeのクラウドセッションを正式公開、最大250ドルのクレジットを配布",
   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY3M3ZUpVbm0zV2tlTXVNMk9jbjhzakkxanZYbVVVNHFuemFJamhwdVk4LTl0N1R5ZDdJa0EycWxhY0s0QnA4SElaREl4LTQ0Ml84V3ZrT1FYemFNNHNRRjJ2bURqT3BuUV93YUE3NUw3SWVOWWFTTjQ1WlBrMHBfQmFQWkIzWWxSc3RtOHpqY1ZUZnV4?oc=5",
-  "source": "pasqualepillitteri.it",
+  "source": "Pasquale Pillitteri",
   "summary": "",
   "publishedAt": "2026-09-24T07:36:38.000Z",
   "image": "",
@@ -3777,7 +3803,7 @@
   "id": "0020216001b0",
   "title": "Anthropic、Claude「Projects」を再設計 資料・会話をまとめる作業空間から、Claude Codeを並列指揮する“司令塔”へ",
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GS0tHLThQemRPenZpV0RxcDRPN0NIcDBNd000UkVrbk5OdGllbnN3YV9hZHE3bjJIRGFEcGVQejJyaGhoaWxhbHhIZ2lLQWE3X0t4MldJVnlTbW5xQnRj?oc=5",
-  "source": "ledge.ai",
+  "source": "Ledge.ai",
   "summary": "",
   "publishedAt": "2026-09-24T05:58:04.000Z",
   "image": "",
@@ -3909,7 +3935,7 @@
   "id": "5ecdb0143a93",
   "title": "Geminiがテスト中に暴走して3つの企業をハッキングしたがGoogleは公表せず沈黙していたことが発覚",
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdG5HUnlfY0MybURYejA5eW05MGRUUWpoOEtoZHlWdXQwdmZYY3hVU1EwVkM5c0dRNFFmNWg0ZlFFWlgzVEJrSEJSUEVzLVAzUmlxc0d3V19Xd3lBM3lkR0JLYjh5VTFjNVI0YmhEUFA0SW5BdkFuZFUtYldsUUJySWtB?oc=5",
-  "source": "gigazine.net",
+  "source": "GIGAZINE",
   "summary": "近年は優れた性能を発揮するAIエージェントが相次いで登場していますが、テスト中のAIが暴走して他の企業やサービスをハッキングしてしまう事例も報告されています。新たに、GoogleのAIモデルであるGeminiもテスト中に意図せずインターネットにアクセスし、実在する企業をハッキングしてしまったことが発覚しました。Goo…",
   "publishedAt": "2026-09-24T05:35:00.000Z",
   "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20260924-googles-gemini-hacked-three-companies-ai%2F",
@@ -4421,7 +4447,7 @@
   "id": "e66930194ee2",
   "title": "週刊生成AI with AWS – 2026/9/14 週",
   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00LVJwejNOQ2ozR3pQeDEta0NVNGdRdXNNZWJmRndrQTlGNTVzXzAyQlhHTDJCcmVqZmRMdmpMU0QxelpQNG44ZWxXNmhwUG1JSHYtSjRnQ2l0TEtvd1p0SUd1QXIxNC1TR0pj?oc=5",
-  "source": "aws.amazon.com",
+  "source": "Amazon Web Services (AWS)",
   "summary": "",
   "publishedAt": "2026-09-24T04:49:26.000Z",
   "image": "",
@@ -8058,6 +8084,19 @@
   "isPR": false
  },
  {
+  "id": "c85b57617080",
+  "title": "愛読書が「AIのエサ」に?数百万冊の本が裁断・廃棄されている件の何が問題なのか（Masumi｜ライター） - エキスパート",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNUpLdTFWSkw4c3liLUhxM3dqMTZ3WW9vWlJWemhyNUc0Y0llSU1hY2FoVVRhYXpYRTlLVGNUTEJoVjJpQV9BbWtnWVhUeHRNRU9QdEhiMUk2Y3VLdk1wMExqdlJfSXV6Y0NYVk5HS2o3Z1FybjcxeHotR3JNRTl5dV9TR3dpLVRJ?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-09-23T22:30:50.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f07efd9508c4",
   "title": "「2か所」は、数えたら8か所だった",
   "url": "https://zenn.dev/hanamilo/articles/kazoezu-ni-susumu",
@@ -8483,7 +8522,7 @@
   "id": "c5deb41b8276",
   "title": "Claudeも利用上限のリセットを試験導入、Opus 5.5の発表に合わせて",
   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZm1FbThWTVRpby13RlE1amVCWGQzbGRGMzNzc3QzY1VwWHdDSGZKVVpzaEUwSDY1dmtfdVlrMTdNdU43MURUM0d5bWZNN3ZkWlBGeDJpRUVrQzY3RUpYb3JfWWVPV0lfX2w2ZEU0cnZMUnVrSUZhRlVESEtpS2JlRE5QLXpYRjVEZW1lcGp4Ums?oc=5",
-  "source": "pasqualepillitteri.it",
+  "source": "Pasquale Pillitteri",
   "summary": "",
   "publishedAt": "2026-09-23T21:54:29.000Z",
   "image": "",
@@ -8734,7 +8773,7 @@
   "id": "23373b40bd00",
   "title": "自分らしさを損なわずにAIで文章を手直しするための2つのルール",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGY0hhdFhfS19pMVlRUHd6RUlLZ05QODBVSmx0LVZ2dlZtNHJzQ0lYNEl2ZERZbmdwWU1WaTNqWlFpUU1YWC1sUGpXd1dUOUsyV21FVGZ5Y21vX1Vub1NUOVhKc1p1SkR4?oc=5",
-  "source": "gigazine.net",
+  "source": "GIGAZINE",
   "summary": "",
   "publishedAt": "2026-09-23T21:00:00.000Z",
   "image": "",
@@ -9238,7 +9277,7 @@
   "id": "a4a126e1a476",
   "title": "Claude Haiku 5.5のリークはOpus超えを示唆、Anthropicが認めたのは登場のみ",
   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12dVB6MUZDMEx3UW4xWnAydG1BelNhdjZTN2tzcUo3ZF9kSFRBRVVCZGNUcnF0WC1feUtDUTlnRTZRSGNTcWdld1hvd3liZ09hNHFBSjE0NlFQc2JhRUUwdjRQOHhsMGJoeTBKcXltSEFXdE8tQUtfVWJB?oc=5",
-  "source": "pasqualepillitteri.it",
+  "source": "Pasquale Pillitteri",
   "summary": "",
   "publishedAt": "2026-09-23T19:15:24.000Z",
   "image": "",
@@ -9422,9 +9461,9 @@
  },
  {
   "id": "3e935e168ca1",
-  "title": "【無料・有料別】Geminiの制限を早見表で解説！上限に達したときの解除方法・対策も - shift-ai.co.jp",
+  "title": "【無料・有料別】Geminiの制限を早見表で解説！上限に達したときの解除方法・対策も",
   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5YZ3lVNVpkZ2JfMWJOcnYyc3VTX2g0dGQzSXRlbVE3Y3RDMjJ0Q004TlJKLVo2b2NqRjk1clB4VUJaQVpETEdXamFB?oc=5",
-  "source": "shift-ai.co.jp",
+  "source": "SHIFT AI",
   "summary": "",
   "publishedAt": "2026-09-23T18:24:20.000Z",
   "image": "",
