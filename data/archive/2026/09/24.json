@@ -57,7 +57,7 @@
   "title": "アップロードしないファイル処理ツールを 9 つ作り、サーバーなしで連携させた：COOP/COEP の壁の越え方",
   "url": "https://zenn.dev/orihako/articles/60f79b433bdb0f",
   "source": "Zenn",
-  "summary": "PDF から Image へファイルを渡すと、何も届かない。本番サイトに対する自動テストで、この不具合が「重大」として出た。原因は、SharedArrayBuffer のために COOP/COEP でクロスオリジン隔離したサイトでは、window.opener も window.open の戻り値も使えなくなることだ…",
+  "summary": "PDF から画像ツールへファイルを渡すと、何も届かない。本番サイトに向けた自動テストで、この不具合が「重大」として出た。調べると、SharedArrayBuffer のために COOP/COEP で隔離したサイトでは、別のサイトのタブとのつながりが切れてしまうことが原因だった。 作っていたのは「Orihako（オリハ…",
   "publishedAt": "2026-09-24T14:33:05.000Z",
   "image": "",
   "categories": [
@@ -83,16 +83,16 @@
  {
   "id": "736bb9747338",
   "title": "【AI博覧会 Fukuoka 2026】株式会社Co-Labo AI代表 大塚空来が登壇｜AI活用の新概念「AI転換率」を提唱。成果につながる4ステップを解説",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NUEJfc2FhRnUwQUdRRTVmcUh2QU9xNjdjaE5oQzJlU29UQS1QcTdsR1JwYXg0NFUzQmNfS0hpRkJtMlJUWVFlajhka1ItMWdiM3d0RFhtNE1TQXdfdDJPUEpzV2pvdWUzRHc?oc=5",
-  "source": "PR TIMES",
+  "url": "https://ascii.jp/elem/000/004/437/4437098/?rss",
+  "source": "ASCII.jp",
   "summary": "",
-  "publishedAt": "2026-09-24T14:30:02.000Z",
-  "image": "",
+  "publishedAt": "2026-09-24T14:30:00.000Z",
+  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
   "categories": [
    "case",
    "dev"
   ],
-  "isPR": true
+  "isPR": false
  },
  {
   "id": "65b810ea4d11",
@@ -302,6 +302,19 @@
   "categories": [
    "case",
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4f22f025ca10",
+  "title": "世界モデルに必要なのは因果性であり、美しいピクセルではない — Christopher Manning氏、Moonlake AI｜AI Engineer",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zeTd0d2N3VlFWSkpUT2pKTWd5ZHpYWFViZE9CM1FHMlJoV2pQVEluVi1hM3ZjY29zSEJSVkZSNnpJWUdRZXJpUV94eF9tV21rMFBqY3pLUi1rTUEtb1E?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-09-24T13:28:17.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -612,7 +625,7 @@
   "id": "574e956fede9",
   "title": "欧州の監督機関、リテール金融におけるAIおよびトークン化の直接監視を準備",
   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU3ZjQlY2RmxrdmJER1VCWnNKUlpvZ3pCMW03MW5vcTNiZVZVXzZZcWpWNDRGQlRaaTBQb1FFbGtWRi1vRXE2YXo4eGJTbG5zUFVWdEFuVmhTOC04bkJsT1Y5WFJqZjU0Um1WV0w4dmlmWUxYUUJ0TUtIeG5NdHdoOHVQdHJlSE9ZOE1oSjRVRXJKWko3M1BFR1pKTjRYb1l6eGVzbXpYbFNpMHZJVTdpWk1oRWVtTjE1c1d6aU9GckctaFVZSjA3bg?oc=5",
-  "source": "coindesk.com",
+  "source": "CoinDesk",
   "summary": "",
   "publishedAt": "2026-09-24T12:26:43.000Z",
   "image": "",
@@ -984,15 +997,15 @@
  {
   "id": "39cc4b438c1f",
   "title": "OrcaRouter、AIエージェント事故354件を収録したオープンデータベースを公開",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYd1daTGpmZDltQl9zQ2ZEQWpJdURRSFdwYnRZTmhpY1Z4dHlLSXdodVRXc2JUS24xMU9XbVJZd29yQUtESUxDRzgxVW1Mc2tJcG1FZVJSM0RCSGNYNHB2VFJJMzZHYURBQWc?oc=5",
-  "source": "PR TIMES",
+  "url": "https://ascii.jp/elem/000/004/437/4437101/?rss",
+  "source": "ASCII.jp",
   "summary": "",
-  "publishedAt": "2026-09-24T11:30:01.000Z",
-  "image": "",
+  "publishedAt": "2026-09-24T11:30:00.000Z",
+  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
   "categories": [
    "product"
   ],
-  "isPR": true
+  "isPR": false
  },
  {
   "id": "002a9ed47e4f",
@@ -1116,7 +1129,7 @@
   "id": "296deb1b1c6f",
   "title": "OpenAIエージェントが政府サイト侵害しAI安全性懸念再燃",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HejYzTlFoT1pwQ2hpNk5nRmdoN2ZiSkFqemQ4RkxLNHlTNlpCUVphc014d0tiNGtPZ3pvNnhwOC1JQ2FWMFZrNC0zcktxM2JMRmFSUHprZWZFUUVGNnFsQjlDalpkZUxfaDFTNngwUFk3dw?oc=5",
-  "source": "jp.beincrypto.com",
+  "source": "BeInCrypto",
   "summary": "",
   "publishedAt": "2026-09-24T11:10:56.000Z",
   "image": "",
@@ -1314,7 +1327,7 @@
   "id": "8df1348c34a3",
   "title": "AI「暴走」の規制議論に一石＝豪政府系機関侵入で高まるリスク(時事通信)",
   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZTlXRktjRGJXcWd5MjZyc1dWV3NPRnNRdmtqVnJoTkdYUi03QVJzdFU1aktBa2Zwal9YRDk5OWotS0xySVM0c2NCMjUySlBRMjRPT3RMVjBYRUlDT0lxeVgtdHRkZm5aUFNJRGREVmpVZmhxWVJwb2VsaXh0ZHVtRmNLR0xxMkU?oc=5",
-  "source": "Yahoo!ファイナンス",
+  "source": "finance.yahoo.co.jp",
   "summary": "",
   "publishedAt": "2026-09-24T10:42:33.000Z",
   "image": "",
@@ -2506,19 +2519,6 @@
   "isPR": false
  },
  {
-  "id": "4f22f025ca10",
-  "title": "世界モデルに必要なのは因果性であり、美しいピクセルではない — Christopher Manning氏、Moonlake AI｜AI Engineer",
-  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zeTd0d2N3VlFWSkpUT2pKTWd5ZHpYWFViZE9CM1FHMlJoV2pQVEluVi1hM3ZjY29zSEJSVkZSNnpJWUdRZXJpUV94eF9tV21rMFBqY3pLUi1rTUEtb1E?oc=5",
-  "source": "BigGo ファイナンス",
-  "summary": "",
-  "publishedAt": "2026-09-24T08:00:08.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "7d5494cc278d",
   "title": "「ChatGPTなどのAIから、あなたの会社はどう見えている？」",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uQVNCOEtjTVBHcFZUQ1lmVWNmNy1Ic282OXNXS190UkF1bVprRDcyMU1yLWt0MHBkZ3pKTXBTdE5qc0hzZHJaUWN4b25fMms0LXQwWS1qWlR5ZDVTNUYtWWJMd09xVVh4Vnc?oc=5",
@@ -2838,7 +2838,7 @@
   "id": "85c3e952eaa1",
   "title": "製造業向けAIエージェント「REVY」を開発するAIONA株式会社がシードラウンドで総額1.4億円の資金調達を実施",
   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5UDNrdDVpQ2hjUzQ4dVdWeFhpZk1lUm5jVHVQRmhBcXpQeVBYUkRzR2Vxc2RCVElQMEgxU3hfUEpGLVUtbkNwZlZ2WjMxVFU?oc=5",
-  "source": "startuplog.com",
+  "source": "STARTUP LOG",
   "summary": "",
   "publishedAt": "2026-09-24T07:29:46.000Z",
   "image": "",
@@ -3119,7 +3119,7 @@
   "id": "3a996fc48b0e",
   "title": "株式新聞プレミアム＝半導体装置は増強加速へ、ファーウェイＡＩ向け前倒し投入―日本の対米投資も追い風",
   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOU1MNEZZT25aMjl6YUc1N2QyN3A2bTZGWmxjUWxqWkV0NG1pdVNpdnJMblRzSFZZTEFOeFZiSG0tSU9NSy1OaW5XOG1NRFZMWW0tMldvVWRkSU5GTGZpTUJyUFNMQmJSc0IxalN6LXNRUnFyYm9NWklKTFFkREpJamlfdGg3V00?oc=5",
-  "source": "Yahoo!ファイナンス",
+  "source": "finance.yahoo.co.jp",
   "summary": "",
   "publishedAt": "2026-09-24T07:02:22.000Z",
   "image": "",
@@ -3223,19 +3223,6 @@
   "isPR": false
  },
  {
-  "id": "c6cf9073c7bc",
-  "title": "AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測",
-  "url": "https://gigazine.net/news/20260924-anthropic-claude-crispr/",
-  "source": "はてなブックマーク",
-  "summary": "AI企業のAnthropicが、同社のAI「Claude」がバクテリオファージのDNAを解析し、ゲノム編集技術のCRISPRに似た反復配列を伴う未知の酵素システムを発見したと発表しました。「array-associated reverse transcriptases」、略して「ART」と名付けられたこのシステムの具…",
-  "publishedAt": "2026-09-24T06:50:28.000Z",
-  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20260924-anthropic-claude-crispr%2F",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "c51ffcc8eca8",
   "title": "県ＨＰ案内に生成ＡＩ",
   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wNTFPR1hDbXNHWTh5R0FBNjFrTkNPdnBKTW1tUHFwbm1Nd2NLMkJvdzVGZGZYTHZxZUROUEp4M0ZhdlA3TEdselQzNXFxdWdwRllCZHpYMWpMT1E?oc=5",
@@ -3291,7 +3278,7 @@
   "id": "36997a6ea73e",
   "title": "〔ブル＆ベア〕続伸＝AI・半導体株がけん引(時事通信)",
   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMjI5aVRiRTg3ZWpDaFktRjNicGhhVV9pbDg4cWxyOVN5ZkI3eGpuekFUS3FOVVUxUW9EVy1IV3JCMnVPdjdWNGgwaU1adkFzOFF0cDVIMVVlZ1MtdTdXSHJVaUZnT2N0TU9fWG56aDhIbzhrdy1wOGJSQVNSOUp1cGxVWkhJakE?oc=5",
-  "source": "Yahoo!ファイナンス",
+  "source": "finance.yahoo.co.jp",
   "summary": "",
   "publishedAt": "2026-09-24T06:42:50.000Z",
   "image": "",
@@ -3505,6 +3492,19 @@
   "summary": "",
   "publishedAt": "2026-09-24T06:20:30.000Z",
   "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c6cf9073c7bc",
+  "title": "AnthropicのClaudeがバクテリオファージからCRISPRに似た未知の酵素システムを発見、ダリオ・アモデイCEOはAIで「5〜10年以内に多くの病気を治せる」と予測",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fUDFfd2oza1hRTl9valZHSHRiaE1lWGJ4Q0w5d2VZd2lEOFMxUnFMc3BiZDl5Nm1XWWVXc0hDaV91TVd1cUZBM0xnT1k3bzBpTFVpcmJCdmhON3IzYUNwNWoxMkNkcVJFX0Zn?oc=5",
+  "source": "GIGAZINE",
+  "summary": "AI企業のAnthropicが、同社のAI「Claude」がバクテリオファージのDNAを解析し、ゲノム編集技術のCRISPRに似た反復配列を伴う未知の酵素システムを発見したと発表しました。「array-associated reverse transcriptases」、略して「ART」と名付けられたこのシステムの具…",
+  "publishedAt": "2026-09-24T06:20:00.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20260924-anthropic-claude-crispr%2F",
   "categories": [
    "other"
   ],
@@ -4382,7 +4382,7 @@
   "id": "e66930194ee2",
   "title": "週刊生成AI with AWS – 2026/9/14 週",
   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00LVJwejNOQ2ozR3pQeDEta0NVNGdRdXNNZWJmRndrQTlGNTVzXzAyQlhHTDJCcmVqZmRMdmpMU0QxelpQNG44ZWxXNmhwUG1JSHYtSjRnQ2l0TEtvd1p0SUd1QXIxNC1TR0pj?oc=5",
-  "source": "Amazon Web Services (AWS)",
+  "source": "aws.amazon.com",
   "summary": "",
   "publishedAt": "2026-09-24T04:49:26.000Z",
   "image": "",
@@ -5976,7 +5976,7 @@
   "id": "34eb487ddacc",
   "title": "AI学習データと評価環境を提供するSnorkel AIがシリーズEラウンドで3億5,000万ドルの資金調達を実施",
   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5taVFWQzdYOXRER09nVDlmbjdOUWFfT1hGbGZOV2ZsYnZ0RG9HcnZLbEM5T21NamIwR3hoeTNKRDZ6YlV4V2w2aW9obXFGdEE?oc=5",
-  "source": "startuplog.com",
+  "source": "STARTUP LOG",
   "summary": "",
   "publishedAt": "2026-09-24T02:03:41.000Z",
   "image": "",
@@ -6503,7 +6503,7 @@
   "id": "7865020a8aca",
   "title": "Claudeが酵素を発見、効いたのは解析ツールではなく生のDNAを読んだこと",
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zY0p5RGlteTN2R1ktSThmUmxseHNXYjBCUWhIY1k3RGRfSC15WXFFaXBHbVVhNDlqYTVmakVCU01qeUprNzdSbDQxRTh0aXpLM1dr?oc=5",
-  "source": "innovaTopia",
+  "source": "innovatopia.jp",
   "summary": "",
   "publishedAt": "2026-09-24T01:23:46.000Z",
   "image": "",
@@ -6614,19 +6614,6 @@
   "image": "",
   "categories": [
    "case"
-  ],
-  "isPR": false
- },
- {
-  "id": "2318fa0a1197",
-  "title": "iPhoneに迫る危機、OpenAI製「ChatGPTスマホ」の登場に現実味",
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jMGh5QjZ4UWZmVkJzRXpEdXZ4ZFBhOWhjMm1yRGhxUU1EeDBreFhyM0xUU20tNmdRSDg1NlRnVGZDb2JzYnBUMjNxOVhJeDZUcm5vT01ialY?oc=5",
-  "source": "現代ビジネス",
-  "summary": "",
-  "publishedAt": "2026-09-24T01:08:09.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
@@ -7649,7 +7636,7 @@
   "id": "6cc90a9f026e",
   "title": "DeepSeek、Huawei製チップでAI学習に活用拡大 8兆パラメータ級モデルも視野",
   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbXQzdzl4LVlybEpkRGNWM0xQR0N5LXFGQU5zdjFxWU1icUdDVVhLZVFlcmRlUWMyeWZpQlFYdkZUdUxZR3lhS2hGOUszMWtkc2VvMGQ5TXRYNDV0S0RJTTh4TXlodi1EdGVEaG16Z3NOV2pwX0otTUNSUEl6ZloyeEtZWVdMdUY4di1CSnRYS3hpRUtKQ3NRanNYWnYtTF9KbkFzLWhmaHV2YUh5UzlPOFU1NEZNS3otaDlidERMT29Od1AyTmNHOU55NnQ?oc=5",
-  "source": "디지털투데이",
+  "source": "digitaltoday.co.kr",
   "summary": "",
   "publishedAt": "2026-09-23T23:20:41.000Z",
   "image": "",
@@ -8560,6 +8547,19 @@
   "isPR": false
  },
  {
+  "id": "2318fa0a1197",
+  "title": "iPhoneに迫る危機、OpenAI製「ChatGPTスマホ」の登場に現実味",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81TUlvZ2k0d2VyZXFxbFRxZ2o0WmhUa3Q1M1hKWEJyQVhvV2U2MmtPRjBMNWUtQmV4eHFGMDUzUk4xenNlT3o3VjNPdElwVjJOdDJjVUIxdDk?oc=5",
+  "source": "現代ビジネス",
+  "summary": "",
+  "publishedAt": "2026-09-23T21:09:11.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "6b2e799234dd",
   "title": "国連安保理がAI会合、アルトマン氏「枠組み必要」 中国企業は不在",
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xQTNEd2ljM2lIRGZvQzZScmxzaUZib1VEcnJydXRZN0hUZmJ0c1RMeFhoS2Z6WjlqeTEyWXhfZkJQNkpESUlyTnFQVDVHQzk5bFc2cXEtWlhrcjFFN0lWV1hRVDRzek9yc0ttOQ?oc=5",
@@ -9157,19 +9157,6 @@
   "isPR": false
  },
  {
-  "id": "f3da8d466ea8",
-  "title": "テオ・ブラウン氏：AnthropicのOpus 5.5がついにフラッグシップを修正——ただし「Max」設定は金を燃やす",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xQVRqeVRlQ1FsVHE4a1p5RXd1M0czRTREUGFtQkpXQUpSMm5YbTJGbVhteGQ5ckVXOGdsNEJfckJzd29hZUcyVlJsSGFnSTllU3BkWkRfY2ZqZw?oc=5",
-  "source": "BigGo ファイナンス",
-  "summary": "",
-  "publishedAt": "2026-09-23T19:13:04.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "5c5b36e41565",
   "title": "クアルコム「Snapdragon 8 Elite Extreme Gen 6」が実現するオンデバイスAIとスマホの未来像",
   "url": "https://k-tai.watch.impress.co.jp/docs/news/2142696.html",
@@ -9179,6 +9166,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f3da8d466ea8",
+  "title": "テオ・ブラウン氏：AnthropicのOpus 5.5がついにフラッグシップを修正——ただし「Max」設定は金を燃やす",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xQVRqeVRlQ1FsVHE4a1p5RXd1M0czRTREUGFtQkpXQUpSMm5YbTJGbVhteGQ5ckVXOGdsNEJfckJzd29hZUcyVlJsSGFnSTllU3BkWkRfY2ZqZw?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-09-23T19:08:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
