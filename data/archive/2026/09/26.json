@@ -118,6 +118,19 @@
   "isPR": false
  },
  {
+  "id": "49bead289512",
+  "title": "LoRA したモデルが llama.cpp でだけ壊れた：学習率を半分にしたら直った話（原因は調査中）",
+  "url": "https://zenn.dev/atemoya/articles/5032fc34095c5d",
+  "source": "Zenn",
+  "summary": "この記事で書くこと 日本語化した小さな LLM（Spark-X2.5-4B）に、キャラクター（ヤンデレ・ツンデレなど）の LoRA を学習させたところ、llama.cpp で動かしたときだけ、長い回答の途中から多言語のでたらめな単語が並ぶようになりました。元の実装（transformers）で動かすと、同じモデルでも…",
+  "publishedAt": "2026-09-26T14:10:36.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f8001c4d5e43",
   "title": "楠木建×山口周 生成AIが照らす知的生産の本質 人間の本領は「統合」にある",
   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOakZaZHhIS0ZWQ0F1ZHFWOVpRNHRtdWNzb29JU0I1cXk5WHZhQjZlOF9PbUNqTU80UjNmWjlPWnIwS3oyMUE4dUNXOFJ3b3lyX1hQckZpVmZwbmtRX0RjVW0wZFJCVU5kNVdOUmlOM05XaTg3Y1dzT2plLVQ3WU5oTXZtLXQxOTF2?oc=5",
@@ -137,6 +150,19 @@
   "source": "Qiita",
   "summary": "こんにちは。小学生向けのニュースサイト、こどもニュースをつくっています。 このサイトの開発は、AI のコーディングエージェントに作業させる形で進めています。エージェントに渡す「やってはいけないこと」をドキュメントに書いていましたが、読んだうえで踏まれました。そこで、事故にな...",
   "publishedAt": "2026-09-26T13:42:25.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ddf55c1332e7",
+  "title": "15個そろえた道具のうち、9個は一度も使わなかった",
+  "url": "https://zenn.dev/temotoya/articles/f6aad1f589b96d",
+  "source": "Zenn",
+  "summary": "ホームセンターで工具セットを買うと、だいたい半分は使わない。 使うのはドライバーと六角レンチと、あとメジャーくらい。残りは箱に収まったまま何年も動かない。それでも捨てない。いつか使う気がするからだ。 工具セットの話ならそれでいい。数千円だし、箱は場所を取るだけで何も悪さをしない。使わない六角レンチが原因で家が傾くこと…",
+  "publishedAt": "2026-09-26T13:35:34.000Z",
   "image": "",
   "categories": [
    "other"
@@ -240,7 +266,7 @@
   "title": "Claude Opus 5.5に合わせて、AIエージェントのハーネスを1か月ぶりに減築した",
   "url": "https://zenn.dev/i_ichi/articles/opus55-harness-genchiku",
   "source": "Zenn",
-  "summary": "はじめに 2026年9月22日にClaude Opus 5.5が出ました。 切り替えた数日後、「Opus向けには過剰なhookやルールがないか」と自分のエージェントに問いました。 答えは「あります。過剰です」でした。 OCI上で、Claude Codeで動くオーケストレーター役のエージェントを、半年ほど毎日動かしてい…",
+  "summary": "はじめに 2026年9月22日にClaude Opus 5.5が出ました。 切り替えた数日後、「Opus向けには過剰なhookやルールがないか」と自分のエージェントに問いました。 答えは「あります。過剰です」でした。 私はOCI上で、Claude Codeで動くオーケストレーター役のエージェントを半年ほど毎日動かして…",
   "publishedAt": "2026-09-26T12:00:43.000Z",
   "image": "",
   "categories": [
@@ -451,7 +477,7 @@
   "id": "45b24d956dde",
   "title": "閉域環境での生成AI導入を支援する選定チェックリストが公開",
   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPQ3RZZkJjamNuVkVtRXZMMkRudktBTC1HQW9fU2RDaFROZlFGbDZvQmpBeFZVRUJtU1FtZVc4TTRuRnZXaWhVc0t3Y1F2QWk2NHZPYVJEREJnZEs3UWV5ZEgyMnMxUFVXd2pFZ1BBb1RQY3pmb0N1U2RHTnRwMUktYzN1ZWxTWHZDVE5yNEVLWmRIUmRGU1lrTm1nNGNLZ3l5NzRaVTc0dnRBVGNwSTRtazVabUY3cjZKMlhvUUpqTnZGbmx5dnBGRDVfS283NS1aOGJSa1NJaFJWcTJtTzBKSUJqTEhUOWpBY2ZfS3hkZzlNeEtySUNOTlRCdlB5cmgwY2FyeW5HWjFQTm5oX1ZrNnFrQ1lOX0wxUjVHUnIxRTdTczBGSWNpdDN3NFowZWozY01kWkVhVEpCMERGR3E3ZnhR0gHHAkFVX3lxTE9rTmM3MEtLMmFocGdLVTlEandwSVBEdloxd0psc29GVEZfWGY4WFlwMUxkLVZRR1NOT1I3eXQyaGdUbm1IUHVHcGZPNkJCZTRPQkwzb1FJRmRXZnVVWmFVSGI2a3NpNTZyYlFmSzVuQ09EMVZidnEzX1k5MWFFOVVOS2l0OXhpdmtPblhOUHBGUFJQVVBOTnVBdThSN1RwRnBqb2Z2TklSZWFic2xheXcxQURmMXdKZVZjTVJ4VmNrMTNIck84LXE4cWpKajFVN2VOWklvUF8xYWdjQjNmcFFnd0sxbmx5VEFxMFVhRVYzZ0VuUklCTE5kVDFqZnN6ZjhkWDVFODZsN0lMbktFR1ZySHFOalR6OG1yRVg2ZS1xcEU0TG9ReEhPMXA3MFowd3lGMlVoSWZmcDJMYzZXYUJiUTBCTTc5RQ?oc=5",
-  "source": "South65",
+  "source": "south65.jp",
   "summary": "",
   "publishedAt": "2026-09-26T10:26:04.000Z",
   "image": "",
@@ -491,7 +517,7 @@
   "id": "dc709dcef577",
   "title": "【創基150周年】『大志を抱け』北海道大学が記念式典「知の拠点として生成AI時代に対応できる人材育成の役割果たす」未来に向けて決意新たに〈北海道札幌市〉",
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yLUdUdmFOblVNbmlLMkowcjFSZWpja05zd1JSTDk4ZFVUdXE1THBOTkIzOUc5cnJQYlpNSUJ0N3IwTWpEXy1EZGVyRFFVaTFqcC1jRmJ2Yw?oc=5",
-  "source": "UHB 北海道文化放送",
+  "source": "uhb.jp",
   "summary": "",
   "publishedAt": "2026-09-26T10:10:39.000Z",
   "image": "",
@@ -965,7 +991,7 @@
   "id": "8a42991e5e66",
   "title": "Gemini 3.8 Flash TTSで、AIキャラの声を作ってみた",
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45QzZtclFCMG5kZXQyY1pIYjl2RHhPcTQzYjF1eTZCUG1yMmI4Q2FUU2VmckdfOUt4UGphNHhJWXlKam1yOFcxUG90cEZTbU9oV2Q0?oc=5",
-  "source": "innovaTopia",
+  "source": "innovatopia.jp",
   "summary": "",
   "publishedAt": "2026-09-26T08:08:13.000Z",
   "image": "",
@@ -984,6 +1010,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3efaac8601f7",
+  "title": "【どう見るこの相場】米金利５％でもＡＩ株はなぜ上がる？「高金利＝ハイテク安」の常識に異変 - kabu-ir.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vNEdXa2RSWHQxamtLaEI1N013V2w4cFdPazc4V00wQkZidHVBR0x0TUZ0UzlQb2tZUTAwTG40NWdqWEdWSnZlR0ZtZkJEdGF2S0I4OA?oc=5",
+  "source": "kabu-ir.com",
+  "summary": "",
+  "publishedAt": "2026-09-26T08:02:20.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -1038,19 +1077,6 @@
   "categories": [
    "model",
    "case"
-  ],
-  "isPR": false
- },
- {
-  "id": "3ad9cb549d4a",
-  "title": "「人が足りない、AIは使いたい」小売・外食のリアル――DX・AI、人材、バックオフィスの実態調査2026を公開",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDZFN0Q3kyUnM1dklXQTRCemdQTXdGWUJlUGlYcTJYdnIyc3QxelJQLVhGR01kMG1ncGVfRTdFbUc1U2tnaUVNeVNXdzkyUWJKLWJ0Zg?oc=5",
-  "source": "news.nicovideo.jp",
-  "summary": "",
-  "publishedAt": "2026-09-26T07:48:10.000Z",
-  "image": "",
-  "categories": [
-   "product"
   ],
   "isPR": false
  },
@@ -1319,10 +1345,10 @@
  {
   "id": "71bbb2f7b5b8",
   "title": "OpenAIで再び隔離環境に不備、訓練中の自律型AIがネットにアクセス",
-  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BZkZCengzR3NOWWxmMkZQbFVHdGt0aWNlNmd6bUdkaEI2TG9kZkU5TWVGZk50TDNxdW5sM0xtdFhmTl9vRjd3R2h5R2h5MlVnbkp4TWRFbktOeHhyTTB3ZDJGbmJSN2tRY0s4NXI2ekVJY21pdmRr?oc=5",
-  "source": "Bloomberg",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aRHlncGMyZG1UVFlyWlBlQndsM1U5cndlSzMtRndGOVJCNEstTWt4VnZWb2FPZkFyaExUUndwRDdPdGMxUVFuSWw5VHpFZFAxelJKcnVmdVFUY3BVTzFYbmVDaElIMG8?oc=5",
+  "source": "TBS NEWS DIG",
   "summary": "",
-  "publishedAt": "2026-09-26T06:45:00.000Z",
+  "publishedAt": "2026-09-26T06:45:37.000Z",
   "image": "",
   "categories": [
    "other"
@@ -2030,7 +2056,7 @@
   "id": "447ac86b5161",
   "title": "OpenAIのAI、ChatGPT利用者の画像53件を外部サイトに投稿",
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pX3NqWDJqRzJyMTgwT0Fsa3FsbFVYQXN0eURmd25vRFlseVl4RGhqdm5iZnRzWktRWTBEQU1DWFJBOXhJbVBaVHRucTdwS0tSX0Jj?oc=5",
-  "source": "innovaTopia",
+  "source": "innovatopia.jp",
   "summary": "",
   "publishedAt": "2026-09-26T03:05:00.000Z",
   "image": "",
@@ -2449,7 +2475,7 @@
   "id": "50902c02f75b",
   "title": "米ブロック社、AIエージェント決済規格「x402」にビットコイン・ライトニングを導入",
   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5Da2dwdEJ5YzgzNEFZam0tME9yU0h1RkJJYkxMdDlxcnJvTGQ5UVc0MVlLd1dudWZuZzNBZi1pUlNwc1k?oc=5",
-  "source": "CoinPost",
+  "source": "coinpost.jp",
   "summary": "",
   "publishedAt": "2026-09-26T02:05:43.000Z",
   "image": "",
@@ -3249,6 +3275,19 @@
   "isPR": false
  },
  {
+  "id": "3ad9cb549d4a",
+  "title": "「人が足りない、AIは使いたい」小売・外食のリアル――DX・AI、人材、バックオフィスの実態調査2026を公開",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0bWtzVnI4S3QxNjdZUUJ3YzBSS0VnVzdEenJjWlFqX2dEcFVDRHBFTi0wUWtWekdTc0ctZU14NGxEYVBZRUQ1RmxWeTlEb2xjMU56ZGhBbmRzNmxTYVh1UUp1Mzh1cXdmQkE?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-09-25T23:00:01.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": true
+ },
+ {
   "id": "56b4ee0b826e",
   "title": "指輪型AIデバイス「VOCCI」が日本上陸、ユーザーとAIの橋渡しへ",
   "url": "https://k-tai.watch.impress.co.jp/docs/news/2143496.html",
@@ -3278,7 +3317,7 @@
   "id": "a3203d4bd8f9",
   "title": "OpenAIのAIエージェントが豪州政府サイトに侵入、政府が知ったのは数カ月後",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU3ZxYVlqMjMxQVlQcTZFa2E0UWtkSzh4MkRIWjFZZ0czcDc1eExSQjZZSFdNSFRVZ0hvc3RXTGs3Q2p1SDJlV2pYc3lOVU1qM3ZpVGhOSzhnbDA2ZzRXdW9JemJlM2pfV3d2bE04Z1ZSNTgwZS1hYU1NV3k0U28wZlRjWTdxSlNYRU95S3VZdjZoamk5TW12TVNJVjBxUEhla1V4aWVnTHdDSENlZUlvYg?oc=5",
-  "source": "WIRED.jp",
+  "source": "wired.jp",
   "summary": "",
   "publishedAt": "2026-09-25T23:00:00.000Z",
   "image": "",
@@ -3350,19 +3389,6 @@
   "image": "",
   "categories": [
    "model"
-  ],
-  "isPR": false
- },
- {
-  "id": "61efc02f5709",
-  "title": "ＡＩは「人間に奉仕を」＝ユネスコで訴え―ローマ教皇",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mNE94OU9kRkVPRk1Ha0dhRHhfQnp6MldQdnlfLXMzTGZ1SDZhQV9NWlBZcXExTTBlS18tSnZQcGl4T1JndVNxRkFvWFBFNnJySjBmWUk2V3dLVlVWeEtOWm9YdXJpbkRRTGE4TUtCZ01JNng1X3NxM9IBfkFVX3lxTE9qdDJWTnBQTmVrRHd0VnR3WnlqQ0tPdm9CUHVURnhWb2Z0VXNxMGIxRzNZc2tHUEJUYmNhdHNnSDdGYjZPb01Yd0VjUGU1bkktdkVkM05WRjgyU2VFN1BnVEVTTkdtUUVBckJ4UC1NTVcyVGdXb05ienhWWjBkdw?oc=5",
-  "source": "ｄメニューニュース",
-  "summary": "",
-  "publishedAt": "2026-09-25T22:30:00.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
@@ -3620,6 +3646,19 @@
   "isPR": false
  },
  {
+  "id": "3454ca6f3d83",
+  "title": "OpenAIのエージェントが豪州政府サイトに不正侵入。首相が抗議「法的措置とる」と述べる",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qTl9kd2JYWGdObkw2T041Zk1aREVuM0dCdDhWS3JsVU1jWnNfbEFrNWN5UDYxdTJrSmhncWdyc1BpYU9VUkY5eW5TVkVyek9OTTVsWmJyc2VsM1ZmZmQ1em5WaHJQVW1C?oc=5",
+  "source": "GameBusiness.jp",
+  "summary": "",
+  "publishedAt": "2026-09-25T21:30:03.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "fd2272f219c5",
   "title": "【今週読まれた記事】AI・半導体調整一巡で“復活近し”！？ 外部環境を確認",
   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zMzNyLTJSWE5ucExRekpPeG1rbDY4ckRldjJfUE9UaDJ6WWtteTdTQ29vaTE1aEY2SlJRWGdxam1lZnpBOUF4Y0gxVnVfdUxWM2x1QzM4Wkx1cHlZaU9reQ?oc=5",
@@ -3652,6 +3691,19 @@
   "source": "Unite.AI",
   "summary": "",
   "publishedAt": "2026-09-25T21:26:46.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "61efc02f5709",
+  "title": "ＡＩは「人間に奉仕を」＝ユネスコで訴え―ローマ教皇",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mNE94OU9kRkVPRk1Ha0dhRHhfQnp6MldQdnlfLXMzTGZ1SDZhQV9NWlBZcXExTTBlS18tSnZQcGl4T1JndVNxRkFvWFBFNnJySjBmWUk2V3dLVlVWeEtOWm9YdXJpbkRRTGE4TUtCZ01JNng1X3NxM9IBfkFVX3lxTE9qdDJWTnBQTmVrRHd0VnR3WnlqQ0tPdm9CUHVURnhWb2Z0VXNxMGIxRzNZc2tHUEJUYmNhdHNnSDdGYjZPb01Yd0VjUGU1bkktdkVkM05WRjgyU2VFN1BnVEVTTkdtUUVBckJ4UC1NTVcyVGdXb05ienhWWjBkdw?oc=5",
+  "source": "ｄメニューニュース",
+  "summary": "",
+  "publishedAt": "2026-09-25T21:18:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -4268,7 +4320,7 @@
   "id": "c3b07a254000",
   "title": "フォワード、TypeSafe AI社の判定特化AI「Jev」を採用AI「エースジョブ」および関連サービスへ導入",
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1czIxNEVJTEVEd0Q4aG8xZGtmUDQwZ3NUeTJqVzlpYlZyRGFCSER1Qk5WR21QR0RyUEtLM1E1VG9LdXgyZUNpcFV1SWttLXhrSWJxZUY1UThPSzlUcmd2QUhpVExKZw?oc=5",
-  "source": "news.nicovideo.jp",
+  "source": "ニコニコニュース",
   "summary": "",
   "publishedAt": "2026-09-25T18:00:33.000Z",
   "image": "",
