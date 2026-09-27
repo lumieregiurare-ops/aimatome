@@ -5,21 +5,56 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-09-27T01:00:14.529Z</updated>
+  <updated>2026-09-27T01:30:13.604Z</updated>
   <author><name>AI matomechatter</name></author>
   <entry>
-    <title>Claude Codeに書かせたpytest 237本、AIの判断を見ているテストが何本か数えられなかった</title>
-    <link href="https://qiita.com/tsukurugawa/items/76c72dda6289291ef1ef"/>
-    <id>https://aimatome.gamelab.website/#175fb1f9a68c</id>
-    <updated>2026-09-27T00:51:11.000Z</updated>
-    <summary>Qiita ／ 「テストは237本、全部通っています」 Claude Code に実装を任せて、機能を1つ足すたびにテストも書かせてきました。完了条件は「pytest が全部通ること」です。その結果が237本です。 そのうち、AIの判断が妥当かを見ているテストが何本あるか。数えようとして、...</summary>
+    <title>人の編集を 0 にして技術記事を書かせ、いつもの検証にかけたら 15 件出た——AI レビュー 3 回の内訳つき</title>
+    <link href="https://qiita.com/sumitsuke/items/47dec9b30d841b61a242"/>
+    <id>https://aimatome.gamelab.website/#e2d7fbc615a1</id>
+    <updated>2026-09-27T01:20:06.000Z</updated>
+    <summary>Qiita ／ AI に技術記事を 1 本まるごと書かせて、人は本文に 1 文字も触らずに凍結し、いつもの検証工程を通しました。測ったのは「AI 記事の質」ではなく、検証工程 1 回で何が何件減るのかです。 結果を先に書きます。 事前に固定した 6 型（事実の側）で 検出 11 件。うち...</summary>
   </entry>
   <entry>
-    <title>Anthropicが「Opus 5より40%安い」と発表した日、その40%の内訳は20%と20%と60%だった</title>
-    <link href="https://qiita.com/Hideki_Tamae/items/196f5a034d6cc4c4d7fd"/>
-    <id>https://aimatome.gamelab.website/#0e5920d5aada</id>
-    <updated>2026-09-27T00:48:30.000Z</updated>
-    <summary>Qiita ／ はじめに 40。 これが今回の数字です。何の40かというと、Anthropicが2026年9月22日に発表した新モデル「Claude Opus 5.5」について、公式発表ページが謳っている「Opus 5よりも運用コストが40%安い」という削減率です。 このシリーズでは以前...</summary>
+    <title>生成AIは「導入」から「定着」のフェーズへ。KINDLER、東京商工会議所 渋谷支部で中小企業向けAI活用セミナーを開催</title>
+    <link href="https://news.google.com/rss/articles/CBMie0FVX3lxTE9wUElzRk5tMXVPZldiT2hyQ3lGS0hFVDQ4SXk5bFFqVkQ4YVB4MkZxenlCM2N4NTBpQ2VVRHBsa0FPUHFnMzJST1QzSUJMUHZfZFcyWjVUamQ2ZkpzWC1HWEk3ay04ZVVIM0VkWU9Edkg4UVE5VE5waFVqYw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#966912fcc8b9</id>
+    <updated>2026-09-27T01:15:35.000Z</updated>
+    <summary>ニコニコニュース</summary>
+  </entry>
+  <entry>
+    <title>kiro公式ドキュメント-Steering（ステアリング）- 翻訳（ポイント解説付き）</title>
+    <link href="https://qiita.com/mochizukiaiichiro/items/ee29e72e554d69e1210d"/>
+    <id>https://aimatome.gamelab.website/#707965f2404f</id>
+    <updated>2026-09-27T01:12:36.000Z</updated>
+    <summary>Qiita ／ はじめに kiro公式ドキュメントをブラウザの自動翻訳させると異常に分かりにくいので、AIで翻訳しました。 目次 Steering What is steering? 機能・環境別対応表（Capability Table） 注釈・補足説明 ポイント解説 ...</summary>
+  </entry>
+  <entry>
+    <title>ロイロノート、次期学習指導要領に向けたAI機能開発方針を発表 実証校募集も</title>
+    <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE05M3VZa0tUVC1TQkJzdUo4ODB2YjN5UXVLQ2RVV2J6dkRpUVVHXzNrMEU0bW5PeUxyMHJzbE5MNGhubzZldWxTeXBPZmpSYjhab3Fj?oc=5"/>
+    <id>https://aimatome.gamelab.website/#35a5fed38215</id>
+    <updated>2026-09-27T01:02:55.000Z</updated>
+    <summary>教育家庭新聞</summary>
+  </entry>
+  <entry>
+    <title>日付を文字列で比較すると全件ヒット/0件になる4つのパターンと直し方（Python / JavaScript）</title>
+    <link href="https://qiita.com/Kujira_AI/items/94836c298e3d79366402"/>
+    <id>https://aimatome.gamelab.website/#e10d038cf636</id>
+    <updated>2026-09-27T01:02:05.000Z</updated>
+    <summary>Qiita ／ はじめに 日時の列を &gt;= で絞り込んだら全件、&lt; にしたら0件。境目の日付をどう動かしても中間の件数が出てこない、という状態にハマりました。 原因は 日付を文字列のまま比較していた ことです。エラーは出ず、比較としては仕様どおりに動くので、結果の件数を見るまで気づけませ...</summary>
+  </entry>
+  <entry>
+    <title>【GitHub日報】ターミナル内ブラウザが初登場、AIエージェント管理ツールも急伸 — 2026-09-27</title>
+    <link href="https://qiita.com/Git_Dayori/items/a691fe7c08ef26d6b2ff"/>
+    <id>https://aimatome.gamelab.website/#80877d3dcf28</id>
+    <updated>2026-09-27T01:01:19.000Z</updated>
+    <summary>Qiita ／ GitHub Trending から、日本の開発者に役立ちそうなリポジトリを毎日ピックアップしてお届けします。 🆕 初登場（First Timers） 今日初めてトレンド入りしたリポジトリ。 zenbu-labs/terminal-browser — ⭐ 3,460（...</summary>
+  </entry>
+  <entry>
+    <title>マイクロソフトがGrokをOfficeへ導入、「企業向けAI流通の主導権」を握る</title>
+    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBfRG5fWW0wd0psTDJBM3FNUXhhNnpIVklDMmRMcVhHcUlBb0lucHU1ZkI3VnRtWENpQzNXaVd0QjlRLXBzV1hEcnNEZVp3bWpjM0FiY0lzNW1VbW01TVpoMVNBaVdTSEFvNkphWlFBbzVDdk1zVWlCdEVoRmhGYnM?oc=5"/>
+    <id>https://aimatome.gamelab.website/#30b0f45ba5a8</id>
+    <updated>2026-09-27T01:00:00.000Z</updated>
+    <summary>Yahoo!ニュース</summary>
   </entry>
   <entry>
     <title>次は「AIエージェント詐欺」の時代 StripeがOpenRouterを買収した本当の理由</title>
@@ -36,20 +71,6 @@
     <summary>ホリエモンAI学校</summary>
   </entry>
   <entry>
-    <title>〖AI News まとめ〗生成AI ニュースレポート — 2026-09-27</title>
-    <link href="https://qiita.com/aakan/items/cb67e6fcc9c81b402454"/>
-    <id>https://aimatome.gamelab.website/#ab85bb5d92bd</id>
-    <updated>2026-09-27T00:20:25.000Z</updated>
-    <summary>Qiita ／ 生成AI ニュースレポート — 2026-09-27 収集日時: 2026-09-27 対象期間: 過去48時間（直近情報を中心に） 記事数: 24件 主要ニュース 1. Google Cloud API GatewayでREST APIをMCPツールに変換 ...</summary>
-  </entry>
-  <entry>
-    <title>【海外テック動向】AI時代の言語進化、自由配置の図解言語Reladraw、AIのDNS抜け道問題まで</title>
-    <link href="https://qiita.com/tanakanekosuke/items/8c7ffa71d5b7be0ee427"/>
-    <id>https://aimatome.gamelab.website/#c8ef60f8fd09</id>
-    <updated>2026-09-27T00:20:19.000Z</updated>
-    <summary>Qiita ／ 海外のエンジニアコミュニティ（Hacker Newsなど）で近年大きな注目を集めている、最新のオープンソースツールや技術議論を厳選してご紹介します。 今回は「AI時代に向...</summary>
-  </entry>
-  <entry>
     <title>「生成AIじゃありません!?」1本50kgのホイールをブチ込んだ魔改造ソアラ、現る！</title>
     <link href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMcXFaLWV0U2ZidFBsTGJWeTRFaTZNd21rY3RWRGpFOGRVLWViUEdjYlhjUHRsMjkwOWNXYUtfRDAxRGxoVzQyNGlKZ0xaZUxFM2ZibXZUUlEwUVp2UnJSTEE1dHZ2Zw?oc=5"/>
     <id>https://aimatome.gamelab.website/#2cdc3f79eca1</id>
@@ -62,6 +83,13 @@
     <id>https://aimatome.gamelab.website/#8703b26bbe3b</id>
     <updated>2026-09-27T00:00:03.000Z</updated>
     <summary>media-innovation.jp</summary>
+  </entry>
+  <entry>
+    <title>米大統領、ＡＩで「対中リード維持」</title>
+    <link href="https://news.google.com/rss/articles/CBMickFVX3lxTFBxZVZQV00wSklTY1drckhtTEpGT1p3WDQ0UzkzZ3R6NXZ6azBob2lfRl9iLWo5Mlk4alloRlBBZURIU3lINVhrRWRtaktMS2tNcElScm9fMUdRcEFfeXVpVkhmOV9NYXVxOTRxMUhCOS1BQdIBckFVX3lxTFBxZVZQV00wSklTY1drckhtTEpGT1p3WDQ0UzkzZ3R6NXZ6azBob2lfRl9iLWo5Mlk4alloRlBBZURIU3lINVhrRWRtaktMS2tNcElScm9fMUdRcEFfeXVpVkhmOV9NYXVxOTRxMUhCOS1BQQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#8691e7eb00b6</id>
+    <updated>2026-09-26T23:57:11.000Z</updated>
+    <summary>Infoseek</summary>
   </entry>
   <entry>
     <title>スマホゲームにも「AI超解像」、Snapdragon 8 Elite Gen 6が対応 半分の解像度で描画→AIで高精細に</title>
@@ -83,6 +111,13 @@
     <id>https://aimatome.gamelab.website/#0b18d5496096</id>
     <updated>2026-09-26T23:46:19.000Z</updated>
     <summary>バロンズ・ダイジェスト</summary>
+  </entry>
+  <entry>
+    <title>AI搭載の監視カメラを混乱させる「デジタル迷彩シャツ」</title>
+    <link href="https://gigazine.net/news/20260927-digital-camouflage-shirt/"/>
+    <id>https://aimatome.gamelab.website/#db3e4f7b42b1</id>
+    <updated>2026-09-26T23:05:15.000Z</updated>
+    <summary>はてなブックマーク ／ AI搭載のカメラで監視されることを嫌った人物が、着ている人をAIが人と認識できなくなる特製の迷彩柄シャツを作り上げました。 SIMON WECKERT — Digital Camouflage https://simonweckert.com/digitalcamouflage.html?ref=404media.c…</summary>
   </entry>
   <entry>
     <title>セルフホスト環境という選択肢 — 顧客データを外に出せない案件への回答</title>
@@ -152,14 +187,14 @@
     <link href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vSWJweDhPTEowaXFuX3ZiYnBWb3ptdXNvMXZrLVdHSnpWRzJ6TUU2OWRyckZpYjByeVRKMTlIVXpRZGUycGVGaF81YTVLalpCNzBfR0Y2c21SOENnRXhBbGZqdw?oc=5"/>
     <id>https://aimatome.gamelab.website/#47524caa31af</id>
     <updated>2026-09-26T22:05:00.000Z</updated>
-    <summary>時事ドットコム</summary>
+    <summary>jiji.com</summary>
   </entry>
   <entry>
     <title>生成ＡＩで「声」無断模倣、是非は 人気声優「権利侵害」訴え―東京地裁で３０日判決</title>
     <link href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9veWIxRW9wSnJ5LUd3MEctMS04bUQ2ZjhNZmp4WFJLcmZKZkFQMUlDQ29fZmhFSloyQi0tQWMzT0NMNV9pdGNETjN2VHA2bzExdGM3TVdEajh2a1Nxd2E4WTNZQQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#96d71f2bf5eb</id>
     <updated>2026-09-26T22:04:00.000Z</updated>
-    <summary>時事ドットコム</summary>
+    <summary>jiji.com</summary>
   </entry>
   <entry>
     <title>「小型のAIデータセンター」初期費用は“たった3億円”から――なぜクラウドではなく敷地内にニーズ？（＠IT）</title>
@@ -188,13 +223,6 @@
     <id>https://aimatome.gamelab.website/#c2013780146c</id>
     <updated>2026-09-26T22:00:00.000Z</updated>
     <summary>キーマンズネット</summary>
-  </entry>
-  <entry>
-    <title>AIの「見つけた」をうのみにしない Google、誤検知“ほぼゼロ”で脆弱性500件超を発見した検証の仕組み</title>
-    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBjV1A4SFp1M1VVY25CSElUa3ZxMHFTcUFSQXBhVE5adDdMMEx3TVRCNkVfUmRaWXNQZTRJcEp3ckw3cE5Ea2NJSnVxQi1XSDlIT3ozWndPUENNcV9neEVPQXdtSXQ5V3FObXc1WXd2NUNhbVdq?oc=5"/>
-    <id>https://aimatome.gamelab.website/#1e732541a73b</id>
-    <updated>2026-09-26T22:00:00.000Z</updated>
-    <summary>ITmedia</summary>
   </entry>
   <entry>
     <title>アンソロピック、オープンAIが提唱する「AI開発減速論」は一枚岩ではない 半導体関連の需給が逼迫する中“AI開発の引き潮”は深刻な影響を及ぼす</title>
@@ -243,7 +271,7 @@
     <link href="https://news.google.com/rss/articles/CBMia0FVX3lxTE1faC1Kb0JyUG5HWlRyYm16WU9HV3JUV0tkcTgtZ3pFRC13T2YyamxEZlBleWhES2J3X1JHUVE3aWFic09CckZSaGhYcW5GYXRub3poU0xpN2x1Q2xmNlJLSDh1dWhxeGxNVlJz0gFrQVVfeXFMTV9oLUpvQnJQbkdaVHJibXpZT0dXclRXS2RxOC1nekVELXdPZjJqbERmUGV5aERLYndfUkdRUTdpYWJzT0JyRlJoaFhxbkZhdG5vemhTTGk3bHVDbGY2UktIOHV1aHF4bE1WUnM?oc=5"/>
     <id>https://aimatome.gamelab.website/#2fbb80756666</id>
     <updated>2026-09-26T21:00:00.000Z</updated>
-    <summary>ITmedia</summary>
+    <summary>itmedia.co.jp</summary>
   </entry>
   <entry>
     <title>iOSクラウドフォンでSnapchatを複数運用するAIエージェント構成 📱</title>
@@ -251,6 +279,13 @@
     <id>https://aimatome.gamelab.website/#3a53624075fd</id>
     <updated>2026-09-26T20:47:36.000Z</updated>
     <summary>Zenn ／ 本記事にはプロモーション（PR / アフィリエイトリンク）を含みます。 Snapchatは、モバイルアプリの中でもデバイス検知がとくに厳しい部類です。App AttestとDeviceCheckで「本物の、改ざんされていないiPhone」から来たセッションかを確認し、エミュレーターや脱獄端末はその場で弾きます。だから…</summary>
+  </entry>
+  <entry>
+    <title>生成ＡＩで考える力を 高校生向け講座好評、回答への批判的視点指南</title>
+    <link href="https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrR0VHd0Nid1lTQkVBSFMwenR0UXJNLVBqQXI3RVcxbzVZcURKLUZleVJXV1I4Zk5aUU1hcnRYcXo2bXpxb1lYLWw3cw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#8baeaaea54d9</id>
+    <updated>2026-09-26T20:00:00.000Z</updated>
+    <summary>北日本新聞webunプラス</summary>
   </entry>
   <entry>
     <title>生成AI時代に“答えを教えない”アート体験『みなもアート』、やまぐちフラワーランド（山口県柳井市）で初開催</title>
@@ -321,40 +356,5 @@
     <id>https://aimatome.gamelab.website/#8b86f31cfb19</id>
     <updated>2026-09-26T18:05:00.000Z</updated>
     <summary>BigGo ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>アンスロピックIPO：Claudeの開発元について知っておくべき重要な情報</title>
-    <link href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWhobVpfTkhqUzQzeXJzaHJ2ekRxU1pmSURubDhTT0o4SkstZTB2XzUzQnFUSVNiR2trcFRYTG1NWGpzVlBDQkU3Wk55TTItREdWeGpJQndyOFFFWmZPbTRxTWd3MDdHeF9XV0hhSWZhU1FyVHU2dWNVT0Z3X2tTdWlsR3BpblAyWUhhZWlQc0pUYWVxeHFXQXpVckw2SXdJbXc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#d339a0aa010e</id>
-    <updated>2026-09-26T17:44:22.000Z</updated>
-    <summary>TradingKey</summary>
-  </entry>
-  <entry>
-    <title>Cloudflare 上で Jev で作るほぼ0円運用可能な高品質なページ内検索</title>
-    <link href="https://zenn.dev/mazrean/articles/bd9b563ace18db"/>
-    <id>https://aimatome.gamelab.website/#6e8491dd49ce</id>
-    <updated>2026-09-26T17:18:10.000Z</updated>
-    <summary>はてなブックマーク ／ 自分は Go Proposal Weekly Digest というサイトを個人で運用しています。 Go 言語の Proposal と呼ばれる言語機能追加の提案を毎週 Claude Code がまとめるサイトで、公開してからそろそろ 8か月程度が立つものになります。 ありがたいことにユーザーが一定数付いて毎週 200P…</summary>
-  </entry>
-  <entry>
-    <title>PDFをAIに渡す前の本文を、同じ日に3回作り直した理由</title>
-    <link href="https://zenn.dev/okinawasoftware/articles/cea9f61be6c7bc"/>
-    <id>https://aimatome.gamelab.website/#de7ccc32d75d</id>
-    <updated>2026-09-26T16:49:16.000Z</updated>
-    <summary>Zenn ／ 2025年7月、arXivに投稿された論文の中に「良い評価だけを書け」といった指示が白い文字で仕込まれ、AIに査読させる人を狙ったものだと報じられました（Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review）。PDFをAIに要約させる場面は、いまや…</summary>
-  </entry>
-  <entry>
-    <title>仕様回答ボットを自作し、回答の評価と使う価値の確かめ方を見直した</title>
-    <link href="https://zenn.dev/oakensushi/articles/337b3004651c84"/>
-    <id>https://aimatome.gamelab.website/#0322aa5a977c</id>
-    <updated>2026-09-26T16:34:22.000Z</updated>
-    <summary>Zenn ／ はじめまして。福岡でフリーランスのエンジニアをしています。普段は、業務システムの要件整理から設計・実装、運用までを担当しています。 今更かもしれませんが、この記事では、開発から運用、直近のリニューアルまで担当しているシステムを題材に、仕様書を根拠に質問へ答えるBotを個人で作った経験をまとめてみました。既存のシステム…</summary>
-  </entry>
-  <entry>
-    <title>Polymarket 統計的裁定ボット：戦略とアーキテクチャ</title>
-    <link href="https://zenn.dev/bosonax/articles/e8bf6ae8ae252e"/>
-    <id>https://aimatome.gamelab.website/#b4e4a39ed5f3</id>
-    <updated>2026-09-26T16:31:46.000Z</updated>
-    <summary>Zenn ／ 相対価値シグナル、Zスコア、ライブオーダーブック、執行コスト、リスク管理、ヒストリカルリプレイを使って、Polymarket向けの統計的裁定ボットをどう設計するかを解説する。 市場が「誤って価格付けされているように見える」ことと、「実際に裁定可能である」ことは別物である。 この区別は、Polymarket 統計的裁定…</summary>
   </entry>
 </feed>
