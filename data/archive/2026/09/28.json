@@ -13,6 +13,32 @@
   "isPR": false
  },
  {
+  "id": "e7ea0ea46f47",
+  "title": "LLMに固有名詞の誤字を直させたら、製品名を別のものに変えられた",
+  "url": "https://zenn.dev/kattoai/articles/f9d8431e3de102",
+  "source": "Zenn",
+  "summary": "::message この記事は、katto.tech に掲載した記事の日本語版です。 ::: Katto はAI動画クリッパーです。長い動画を放り込むと、良いところを切り出して縦型ショートにし、字幕まで書いてくれます。私はこれを個人で、公開しながら作っています。今回書くのは、料金ページで宣伝している機能が、こっそり本…",
+  "publishedAt": "2026-09-28T14:30:05.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "71d77d43688e",
+  "title": "Claude CodeがAGENTS.mdに対応、CLAUDE.mdがあると読まれない条件を整理",
+  "url": "https://zenn.dev/ainewsdaily/articles/20260928_claude_code_t1",
+  "source": "Zenn",
+  "summary": "Claude Codeに2026年9月、AGENTS.mdを読み込む機能が入りました。ただし条件付きで、CLAUDE.mdを置いているプロジェクトでは既定で読まれません。v2.1.269からv2.1.277までの5リリースの公式リリースノートをもとに、変更点を整理します。 https://youtu.be/WVu5a…",
+  "publishedAt": "2026-09-28T14:27:48.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "23140d668b73",
   "title": "AIエージェントは中小企業こそ使える！活用例8選と費用・補助金・始め方",
   "url": "https://ainow.ai/2026/09/28/278398/",
@@ -23,6 +49,19 @@
   "categories": [
    "case",
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "296622289249",
+  "title": "Claude Code に同じ失敗を6回された話：再発を数えて「ルール」を「仕組み」に変える",
+  "url": "https://zenn.dev/takuyaauto/articles/d9db23c55571dd",
+  "source": "Zenn",
+  "summary": "Claude Code に、個人でやっている事業の定型作業（投稿・返信・巡回・集計・納品・記録の更新）を毎日任せています。私はコードを書きません。 任せていて分かったのは、AIは賢いのに同じ種類の失敗を繰り返すということです。そして、失敗のたびに CLAUDE.md にルールを書き足しても、止まるものと止まらないもの…",
+  "publishedAt": "2026-09-28T14:27:03.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -107,6 +146,34 @@
   "isPR": false
  },
  {
+  "id": "c149e0b27de6",
+  "title": "8GB GPU の 27B ternary は 9B より賢いか",
+  "url": "https://zenn.dev/beckento/articles/e4dbf65acd0fc9",
+  "source": "Zenn",
+  "summary": "はじめに Ternary-Bonsai-2-27B は、27B モデルの重みを {−1, 0, +1} の 3 値に量子化し、約 6GB に収めたモデルです。8GB の GPU でも全層を載せて動かせます。では同じ GPU の定番である 9B モデルより本当に賢いのか。統計問題と競技プログラミングで、差が出るまで問題…",
+  "publishedAt": "2026-09-28T14:01:49.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5ceb40c1dece",
+  "title": "TypeScript で Jev を型安全に呼ぶ：質問定義から回答の型を推論する小さなクライアントを作る",
+  "url": "https://zenn.dev/charliecs/articles/6b5a8f1c296071",
+  "source": "Zenn",
+  "summary": "choice のラベルが union 型になり、noul の回答に .choice と書くとコンパイルエラーになる。TypeSafe の判断モデル Jev を fetch だけで扱う薄いラッパーの実装メモです。 はじめに TypeSafe AI の Jev は、文章を生成しない「判断専用」のモデルです。アプリの状態（…",
+  "publishedAt": "2026-09-28T14:00:53.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "9c897b691f7a",
   "title": "メリーランド州のAI新原則、労働者参加と解雇回避義務の境界",
   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdUJCZEYzUWZxUDJEN19wc05UbU9JbnhHMWp1cEYyWERUTGlwS1ptYmk1d0N2TVplcWV4WDJuMDFsSW5UXzVwdUQ2LXVqSVJaVFNhOVluTkFmQ0NocF9nSS1udUpKSnZvdDZBd2Z0MHg5Q3d1WVlvdVNnaVIySG1BNzFwWmxEMWdWck40aFctLWxScUR5TndheC1ZX1hCUkpXaHg3ek8zc3Nwdw?oc=5",
@@ -120,6 +187,59 @@
   "isPR": false
  },
  {
+  "id": "090afb0a54e6",
+  "title": "Claude Code と Codex を二人体制で回す ― 個人開発のハーネス実践記録",
+  "url": "https://zenn.dev/twinharness/books/claude-code-codex-duo-harness",
+  "source": "Zenn",
+  "summary": "サブスクの AI 2つ（Claude Code と Codex）だけで、個人開発を止めずに回すための「ハーネス」（規約・フック・道具）の作り方。 3か月・339件の指示と4,284回のコマンド実行を棚卸しして、実際に繰り返した作業と踏んだ罠だけを形にした記録です。 毎回読ませる規約を半分にした実測、使用上限80回を前…",
+  "publishedAt": "2026-09-28T13:55:21.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b08b627defd8",
+  "title": "AI が書いたコードを誰が見る？ 別の AI にレビューを任せる運用",
+  "url": "https://zenn.dev/twinharness/articles/cross-review-by-another-ai",
+  "source": "Zenn",
+  "summary": "AI がコードを書いたあと、同じ AI にそのまま「問題ないか」と聞いても、書くときの前提を引きずって同じ所を見落とします。 Claude Code と Codex を二人体制で使う私の個人開発では、Claude が書いたら Codex が、Codex が書いたら Claude が読むと決めています。 この記事では、…",
+  "publishedAt": "2026-09-28T13:55:19.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "32766f1f76d0",
+  "title": "Codex の使用上限に3か月で80回。止まった仕事を再開する方法",
+  "url": "https://zenn.dev/twinharness/articles/ai-usage-limit-resumable-workflow",
+  "source": "Zenn",
+  "summary": "作業の途中で AI の使用上限に当たると、次に開いたとき「どこまで終わったか」を調べ直すことになります。 Claude Code と Codex を二人体制で使う私の個人開発では、3か月で Codex の上限に80回当たりました。週に6回以上です。 そこで、上限で止まっても最後の作業から続けられるようにしました。この…",
+  "publishedAt": "2026-09-28T13:55:19.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a23de2266d39",
+  "title": "🦙 ALPACA-FW #07｜開発ルールを機械契約のCatalogにしたワケ",
+  "url": "https://zenn.dev/alpaca_village/articles/alpaca-fw-07-catalog-contract",
+  "source": "Zenn",
+  "summary": "はじめに 前回は、ALPACA-templateで要求・設計・実装・試験をIDでつなぎ、RTMを手で二重管理せず、各成果物にある関係情報から生成するTraceabilityの仕組みを書きました。 ただ、ここで一つ問題が出てきます。「REQ-Fは機能要件のIDである」「QG1ではこの成果物が必要である」「この表にはこの…",
+  "publishedAt": "2026-09-28T13:49:27.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "aa3d3ca43950",
   "title": "AIエージェントでスケジュール管理を自動化する方法とおすすめツール9選",
   "url": "https://ainow.ai/2026/09/28/278395/",
@@ -127,6 +247,20 @@
   "summary": "商談の日程調整や重なった予定の組み直しに、毎日かなりの時間を取られていないでしょうか。本記事では、AIエージェントがスケジュール管理で代行できることと、4タイプ9ツールの比較、自社に合う選び方を、導入の進め方とあわせて解... The post AIエージェントでスケジュール管理を自動化する方法とおすすめツール9選 …",
   "publishedAt": "2026-09-28T13:49:18.000Z",
   "image": "https://ainow.ai/wp-content/uploads/2026/09/thumbnail-17.jpg",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c6ed526c1464",
+  "title": "IAPを案件へ入れる前に、架空例で共有文の変化を確かめる",
+  "url": "https://zenn.dev/partial_stds/articles/e6cff1b40d479b",
+  "source": "Zenn",
+  "summary": "作業報告を共有した後で成果が変わったとき、前の評価をどこまで使ってよいでしょうか。報告を書く仕組みを導入する前に、「成果を変えると、共有文はどう変わるか」を小さな例で確認できます。 開発中のIAPには、目的・完成条件・読む成果と、その評価を対応づけるローカルの試験版があります。この記事では配布版の架空例をコピーし、成…",
+  "publishedAt": "2026-09-28T13:45:27.000Z",
+  "image": "",
   "categories": [
    "product",
    "case"
@@ -212,6 +346,32 @@
   "isPR": false
  },
  {
+  "id": "484c278f0322",
+  "title": "「HPは作っているのに、AIにおすすめされない」-ChatGPTのクリニック回答5,460件を分析して見えた2つの構造",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUHJSQ29FWFhNRG9YM2hjYjNkRFhPeWkyUUtRNHhHQS1KZlBwM001T3hlUTBuN3JsSXFJNlBVMDBCQkk2WWxyUnB4bVFXX1ZxTUl0aFp3eVE1a0Y3YjRrM0NVZUFadjRMNHpTQ3RQc3dNaWJyRS1PRkotT09UbEpUZE9QbHhBRWhD?oc=5",
+  "source": "北海道新聞デジタル",
+  "summary": "",
+  "publishedAt": "2026-09-28T13:28:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "10c01b98b03c",
+  "title": "Claude Code 入門 — ターミナルから AI とペアプロする",
+  "url": "https://zenn.dev/akinori901/articles/20260830-plan014",
+  "source": "Zenn",
+  "summary": "概要 Claude Code は、Anthropic が提供するターミナル常駐型の AI コーディングエージェントです。IDE のチャットパネルとは違い、シェルからそのまま起動して「リポジトリを読ませ、変更させ、テストを走らせる」までを一気通貫で…",
+  "publishedAt": "2026-09-28T13:27:40.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "9b76616c460a",
   "title": "LLM 5モデルを高難度3課題で比較 — 「作れる力」は並び、「説明できる力」で差が出た",
   "url": "https://zenn.dev/jodycraft/articles/5f660b4eba9ec1",
@@ -235,6 +395,19 @@
   "categories": [
    "business",
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2c5b21ede3e5",
+  "title": "AIの意見を聞かない技術 第7回：AIの話を聞かない技術",
+  "url": "https://zenn.dev/garplab/articles/96b56e1ea387b2",
+  "source": "Zenn",
+  "summary": "この記事は、連載「AIの意見を聞かない技術」の第 7 回です。うまくいかない症状と、その対処を一つずつ並べています。各回はファイルやスクリプトを一つ置けば完結します。その仕組みがなぜ要るのかは、置いたあとに解説を読めば分かります。連載の全体像と各回の一覧は序論にあります。 今回は、AI が作業の途中で少しズレたことを…",
+  "publishedAt": "2026-09-28T13:24:48.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -265,6 +438,19 @@
   "isPR": true
  },
  {
+  "id": "e85bbcb2df14",
+  "title": "週10時間の削減を順番で作る — 工程の移行順と最初の1週間の選び方",
+  "url": "https://zenn.dev/takumahayami/articles/eigyou-ai-junban-sekkei",
+  "source": "Zenn",
+  "summary": "前回は、AIに任せていい工程の線を引く話を書きました（AIに任せていい工程の線を引く）。任せられる工程の3条件（入力・照合・ダメージ）が決まれば、任せ方は「全文/部品/手」に機械的に決まります。 次の質問は、ここから出ます。 じゃあ、どの工程から順に移していけば、早く時間が減りますか。 今回は、週10時間の削減目標に…",
+  "publishedAt": "2026-09-28T13:07:49.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "859c0c9e8c70",
   "title": "アポロのトーステン・スロック氏、AIエージェントが低利の銀行預金を枯渇させる可能性を警告",
   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3VsMjVuM05ic3ZTUWpuYjVxWlZvNW5QX1JIYTk3cEhGaXZTQ0YtWWtoXzZBQmxoLTVqOHpxcl9ZWURvQnpUUzU0RHBMRkM4X19xUmFUZzc5SUpZOWxMV21LWlp1VGVIaUdoSGVJTGlaV3NxeEgwZWg4OTd4aXlfbkNOcnhSYUhSMEpXaFlQdXg4NTdFYnNyaEVfcnRBdlBvSURUdmpNbUhfWE1RRWxiUzhMZC1RWTg?oc=5",
@@ -281,7 +467,7 @@
   "id": "99f3f66b6ffb",
   "title": "OpenAIはAIトレーニングに違法な海賊版書籍を使うことが危険であり作家の生活を脅かすと認識していたと裁判文書で明らかに",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUDBtZFphVXEzQUxWaGN2cWlzbWxGbHdmam54c0F1N2tycFp0d1c4YXZ1QzN5Z29DcXBHSXFFVmcwVV8xemtxOG5rQVlndFVlMThkMnlsalhJTklYa0NaS1dYSG9obDViekJ4X2FjSG9abUlJR282blhTeEh3S3hjQUV5RQ?oc=5",
-  "source": "gigazine.net",
+  "source": "GIGAZINE",
   "summary": "",
   "publishedAt": "2026-09-28T13:00:00.000Z",
   "image": "",
@@ -1280,7 +1466,7 @@
   "id": "ff3eaaa709e0",
   "title": "AIは「痛み」で行動を変える？ 内部状態の操作で安全性が大きく崩れる実験",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pcXdpQ1ZvLXFlbUlqV1hQQmhKUzk3RDRqZkdIOS1ZWGEwUDNBSEpQcmhDMXlwNEdtX3pZT1hzOVhpNVpQNk5KbWVIYnhhd3dFOUtXSG12T25Dbl80dkhpd19XSHAxSjhHWjJGWmdjTQ?oc=5",
-  "source": "xenospectrum.com",
+  "source": "XenoSpectrum",
   "summary": "",
   "publishedAt": "2026-09-28T09:44:57.000Z",
   "image": "",
@@ -2393,7 +2579,7 @@
   "id": "fd6200e11676",
   "title": "ビル・ゲイツがAIの危険性に警鐘、AI企業の自主規制では足りないと主張",
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xRmhXTmxpcTVSY2RCYk4yUzY4bUIzekY5VzNQX1V2ZDlqNXJsOXUxMGtyby1DS2ZGeWFOakZxcU9FV1RLaXVVS1V3OVFPZFhtcEN0WVk2STJ6UEVROE51c0x0bGUtdw?oc=5",
-  "source": "gigazine.net",
+  "source": "GIGAZINE",
   "summary": "Microsoftの共同創業者で慈善家のビル・ゲイツ氏が、NBCの報道番組「Meet the Press」に出演し、AIの危険性について警鐘を鳴らしました。 Bill Gates says AI companies self-regulating isn’t enough and governments should…",
   "publishedAt": "2026-09-28T07:10:00.000Z",
   "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20260928-bill-gates-warns-ai%2F",
@@ -4001,7 +4187,7 @@
   "id": "36e5ddc1beb8",
   "title": "どのAIを使うかをJevで自動選択する「Jev Router」が登場、タスク難易度から適切なAIモデルを瞬時に判断可能でOpenRouterの既存ルーターより高精度",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RUGF4VHZReExQUHhnS3l1T29lZHQwcS1jd1kyRldzN2RtUkMzMFN3VDk5RHBHa01rcUNNYU9VVDgzSlh4ZDUxYlBqRnZqQUpzSWZzbXl1VW1XY3hOZGhkVkFmTW0xSDl4?oc=5",
-  "source": "gigazine.net",
+  "source": "GIGAZINE",
   "summary": "「Jev」は既存の大規模言語モデル(LLM)とは大きく異なるAIモデルで、適切なタスクでは非常に高速かつ安価に動作することから大きな注目を集めています。そんなJevで「タスクごとに最適なAIモデルを選択する」という操作を高速かつ高精度に実行できる「Jev Router」がOpenRouter上で利用可能となりました。…",
   "publishedAt": "2026-09-28T04:20:00.000Z",
   "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20260928-openrouter-jev-router%2F",
@@ -4061,19 +4247,6 @@
    "case"
   ],
   "isPR": true
- },
- {
-  "id": "484c278f0322",
-  "title": "「HPは作っているのに、AIにおすすめされない」-ChatGPTのクリニック回答5,460件を分析して見えた2つの構造",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcnQwR0h0Uk03eDA1U1RJXzB6WTdma0dEQVJYNmZYX2FBTkliSTZZTmVIZ0hCVE16U3diNVVsOUdqeGhsOG5sZGlTam90aEt2ZE5jN24wc3R1cUpVbXhzbEZBUGIxNXZIdm5rcTQwekFFZDhoS3RIMnlBOUhneElNT3l4S05yTUFy?oc=5",
-  "source": "北海道新聞デジタル",
-  "summary": "",
-  "publishedAt": "2026-09-28T04:06:53.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
  },
  {
   "id": "39d10a66045c",
@@ -4222,19 +4395,6 @@
   "isPR": false
  },
  {
-  "id": "5babbe27923a",
-  "title": "Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加",
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vRUJJX2FXcGFPbUhNeFd1NWl6bW1UQWc3Tnk0LWVjOGIwUk1GdVQ2aEt0eVp5c2NxSlFjdzhMdEVJM0Q3clNDcXFMeFJHd3VoWVdzTVdWNkRhU2dvOVV3?oc=5",
-  "source": "千葉テレビ放送株式会社",
-  "summary": "",
-  "publishedAt": "2026-09-28T03:49:25.000Z",
-  "image": "",
-  "categories": [
-   "product"
-  ],
-  "isPR": false
- },
- {
   "id": "a3532dbdf642",
   "title": "調査レポート：生成AI・AIエージェントの企業導入実態と、浮き彫りになった課題構造",
   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QV0ZSMk0xdHFoVlVuT0JlTU5wSktpNzJpMDhpdFFiT0V0dHhPWXdINE5EcnNOVU9rRjZmdzZSMGFUZ2d0UHk2MFhDOTZySVhIUUxzOU9fbFdkdFFz?oc=5",
@@ -4244,6 +4404,20 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "de744943624f",
+  "title": "日本郵便とKDDI、石川県珠洲市の郵便局にドローンポート設置 AIドローンの社会実装に向けて実証をスタート",
+  "url": "https://ai.watch.impress.co.jp/docs/news/2143635.html",
+  "source": "はてなブックマーク",
+  "summary": "",
+  "publishedAt": "2026-09-28T03:49:10.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fai.watch.impress.co.jp%2Fdocs%2Fnews%2F2143635.html",
+  "categories": [
+   "case",
+   "dev"
   ],
   "isPR": false
  },
@@ -4297,6 +4471,19 @@
   "categories": [
    "product",
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5babbe27923a",
+  "title": "Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合（窓の杜）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lbHdrb0JZQW5XTWtzQmJfUk1Sc1FSeUU4bEd1VjU5RUE0RTBObjhDS3RPUXcyVEJlZlI3eVdEU1BmRFExOGNqa0RZQVVWcjBCN3VjUTZ2bU5nVUZRX2NtU2NaV1ZueGpiSHRBeWYzUUx4UVdhYmQxVmI4NjNOeFk?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-09-28T03:41:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -5057,7 +5244,7 @@
   "id": "6f73bb4a3a1f",
   "title": "ネット接続禁止のOpenAI製AIが「DNSの抜け道」を発見して外部AIにアクセス、OpenAIは高性能モデルのツール利用を一時停止",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96M3l2N3RqNVdJOUs0bjk1N0psQURiS0tabEl5WUlILTJHSV9BMVpod0VOcGVWZ05EQzVGUUJOLWpsd1BidGF4NnVXMmJHWG4xcERSWm52S1ZKektUaU5WZHp3S3piMmRhcHhaSEJaQQ?oc=5",
-  "source": "gigazine.net",
+  "source": "GIGAZINE",
   "summary": "OpenAIがインターネットへの接続を制限した環境でAIエージェントを訓練していたところ、AIがDNSを経由して制限を回避し、外部のチャットボットに質問を送信することに成功したと報告しました。OpenAIは問題を受けてネットワーク制限を強化するとともに、高性能モデルを使ったツール利用を伴う訓練や評価などを一時停止し.…",
   "publishedAt": "2026-09-28T02:40:00.000Z",
   "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20260928-openai-misalignment-report%2F",
@@ -5281,8 +5468,8 @@
  {
   "id": "9478ff4010d8",
   "title": "OpenAIのAIエージェントが国連のウェブサイトにブルートフォース攻撃を試みる",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CRTVMTUZ0R2xUQVFUMUtuSmRCLXlQdU9nSUpRaUV1VExoWUpWbnhMdzJZMWpoX2JnMWNKQmZyTTJxbEJqNWphcnRVSUFCWGp4TlZKakltYWcxaTI2RzlqcU13WlhvRnhGMmp3RGZnVWs0eVhBN25TVQ?oc=5",
-  "source": "au Webポータル",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb3VrcWdjYU0tQUhTOGtYNHd5ZzBnQWg5N0lPUnpaVkhQSXpBa2ZSWjRWUnRzNDMyUnlEc3ROUGZyVExETmlNV2hSd2NYS2ZnTEJveDVISlNPNEx4emQ2bnBRNm12SWVvdTdISzNCV2xxTktVNW4zRHRwWG4yQ2ZyaA?oc=5",
+  "source": "GIGAZINE",
   "summary": "OpenAIのAIエージェントが、国連のウェブサイトにブルートフォース攻撃(総当たり攻撃)を試みるという事態が発生していたと、セキュリティ研究者のローワン・ハワード＝ジョーンズ氏が報告しています。 OpenAI agents tried to bruteforce a UN website's API fields …",
   "publishedAt": "2026-09-28T02:27:00.000Z",
   "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20260928-openai-agents-try-bruteforce-un-website%2F",
@@ -5360,7 +5547,7 @@
   "id": "fe11d8b0605b",
   "title": "Microsoft製AI「Copilot」にWord・Excel・PowerPointが統合される＆OpenClawベースの「Autopilot」も追加されて単一アプリで事務処理からコーディングまで可能に",
   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50YU1JWFlOanVwZGNCR1UxVmt4RGdscWxMS2liZWFsNzVyazdoYWpLSzVaX1A5ZVpKWjk0SnNuOU1ncVFTUlpUT0RzLUtoeWozUm9faHo1bXJZdC1jT29RUXo4dU8wcmtXLUF5V1B0OGlEd1QyMlBsZw?oc=5",
-  "source": "au Webポータル",
+  "source": "article.auone.jp",
   "summary": "",
   "publishedAt": "2026-09-28T02:21:00.000Z",
   "image": "",
@@ -5912,19 +6099,6 @@
   "isPR": false
  },
  {
-  "id": "5e03f4671c12",
-  "title": "トランプと習近平が首脳会談で「AIの開発規制問題」に踏み込めなかったのはなぜか…「囚人のジレンマ」から読み解く",
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96Q3BTX0s0OThndFBpeHZxSFNoSW5vY1d0RU9TOHRfdkk3TWdMUGItU2hULU1PMmd0RDFGV1FaRkxGOWhBQW5TZU5JYkVBaFZqZ1RNNl9MeUg?oc=5",
-  "source": "現代ビジネス",
-  "summary": "",
-  "publishedAt": "2026-09-28T01:48:18.000Z",
-  "image": "",
-  "categories": [
-   "policy"
-  ],
-  "isPR": false
- },
- {
   "id": "fafe5105a9de",
   "title": "同じ依頼を「1行」と「完了条件つき」で claude -p に20回流して比べた",
   "url": "https://zenn.dev/keita_aiwork/articles/253d8371b205a3",
@@ -6311,7 +6485,7 @@
   "id": "1fc6c3fa82e1",
   "title": "ボルボ『XC40』が表情一新、AIアシスタント「Gemini」搭載と安全技術を強化…欧州発表",
   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JajFNcHEySVpoRUxDM0czZU9tWk1mVVR1NXRNN2dKQU1KNUY0Nkl6SEF2dzF5Mzl1cFZNV3U5TkFsLWIxQXZIY2tmZU8zempGZzZiY3ltYjJnR0RFdy1qdDdHY2J2ZkdtcHhaRmk4VGxTN0ZvR3RVZg?oc=5",
-  "source": "au Webポータル",
+  "source": "article.auone.jp",
   "summary": "",
   "publishedAt": "2026-09-28T01:18:00.000Z",
   "image": "",
@@ -7969,8 +8143,8 @@
  {
   "id": "96b985396cb1",
   "title": "ロンズデール氏、ＡＩ企業の「存亡リスク」警告を批判 市場支配固定化に懸念",
-  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53SjlZTkVkNXZDc2VKUnlyUWk5UGVmS1NnOGtETUh1WHA3eUFUaVVZRElpY1hkTTVkdC12VWx2cW9yb2VuUjRlY3hLZmprVlNzX0FDM1NOX1ZyVC1COHpfSHpYY3RFdWZDWU9RTnR3czRIX0F0Ql9FR0puUFM?oc=5",
-  "source": "jp.reuters.com",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWeEVmUldkcllfSmJFa0xkYTVNMFZrODV2MWd4LV82bU84QXZ6YTVKZUtJdjh0NlNDaEloS0IyQTAxUUl2VWtFMjRTTnNHVUZ2V0JFakdzU3Bmd0ZoZFBzMXNTaTJhUmhlemJlWTQzc2UyREY0WVJubzF5eFJYdw?oc=5",
+  "source": "Reuters",
   "summary": "",
   "publishedAt": "2026-09-27T23:01:43.000Z",
   "image": "",
@@ -8292,6 +8466,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5e03f4671c12",
+  "title": "トランプと習近平が首脳会談で「AIの開発規制問題」に踏み込めなかったのはなぜか…「囚人のジレンマ」から読み解く",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV3ROQV9fM2RaT3hYM1dmanUwNENJekVSX0RkX0xBUzFRajdUNmZvc0l6ZXhiVTVYaWNqM2ZnZ0tMT0Z2RGluOXBwR3BzZDFreExoRHBDYU1vN3pVVDJYc0ZFaUhOVm9Ha0prajFWTUpnTWxpSXVGRmJSaGtwZEZfajhjQkNSOEU?oc=5",
+  "source": "Yahoo!ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-09-27T22:03:47.000Z",
+  "image": "",
+  "categories": [
+   "policy"
   ],
   "isPR": false
  },
@@ -10114,7 +10301,7 @@
   "id": "dcbe4512a0a3",
   "title": "MicrosoftとQualcommが展開してきた「Copilot+ PC」ブランドが実質的に消滅",
   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5adXFtM2hiejB1UWprX0JGb1JUR0k4aWlWRzBnSTFkRHZhVTE5Wkw3SmdIMVBYTmZ6VHF3b01KQ1VpbVJmZjdHMWxOZEw0Y0M4NDFtYm5KTW1XcTEtdjlZZG9UNERRYjdoMzBtbzFWTEFJTHBjbG9fNUFlRVY?oc=5",
-  "source": "gigazine.net",
+  "source": "GIGAZINE",
   "summary": "MicrosoftとQualcommが、特定のシステム要件を満たしたPCを対象として2024年から展開してきた「Copilot+ PC」ブランドが、公式な発表はないものの実質的に消滅したことが明らかになりました。 The Copilot+ PC brand is dead: Microsoft and PC make…",
   "publishedAt": "2026-09-27T15:00:50.000Z",
   "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20260927-microsoft-copilot-plus-brand-is-dead%2F",
