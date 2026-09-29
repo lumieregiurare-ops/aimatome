@@ -7,6 +7,17 @@
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
 
+  "note_sisters": "sisterSites はフッターの「運営サイト」に並べるリンク（gamelab.website のフッターと同じ並び）。",
+  "sisterSites": [
+    { "name": "GameLab Radar", "url": "https://gamelab.website/" },
+    { "name": "アニメ速報", "url": "https://animematome.gamelab.website/" },
+    { "name": "ポケモン速報", "url": "https://pokematome.gamelab.website/" },
+    { "name": "モンハン速報", "url": "https://mhmatome.gamelab.website/" },
+    { "name": "ちいかわ速報", "url": "https://chiikawamatome.gamelab.website/" },
+    { "name": "なろう系まとめ", "url": "https://naroumatome.gamelab.website/" },
+    { "name": "急上昇動画ウォッチャー", "url": "https://trend.gamelab.website/" }
+  ],
+
   "note_pages": "pages は収集のたびに作る静的ページ（検索エンジン向け）の文言。genres はニュースの種別（/news/<slug>/）で、キーは categories の id。entities は企業別のページで、site/assets/app.js の COMPANIES（各社の動き）と同じ正規表現で数え、3 件以上あるものだけ作る。googleSiteVerification は Search Console の HTML タグの content の値。",
   "pages": {
     "googleSiteVerification": "",
