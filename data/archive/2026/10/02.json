@@ -1,9 +1,61 @@
 [
  {
+  "id": "a23de2266d39",
+  "title": "🦙 ALPACA-FW #08｜Python機械検証のの全体構造、LLM任せにはしないワケ",
+  "url": "https://zenn.dev/alpaca_village/articles/alpaca-fw-08-aissfw-cli-architecture",
+  "source": "Zenn",
+  "summary": "はじめに 前回は、ALPACA-templateで人やAIが読む開発ルールとは別に、CLIが読める機械契約として framework/catalog.toml を置いた理由を書きました。 では、そのCatalogを実際に読み、成果物やTraceability、Quality Gateを機械的に検査していたのは何だった…",
+  "publishedAt": "2026-10-01T16:17:58.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5e69103232bf",
+  "title": "業務知識やデータを AI に対して安全に取り込める Microsoft Work IQ",
+  "url": "https://qiita.com/yoshioterada/items/3ac3c05be12e51ea05b0",
+  "source": "Qiita",
+  "summary": "1. はじめに 最近、X(ex-Twitter)で、@super_bonochin さんが WorkIQ を理解しるための、とても素晴らしい動画を作成してくださいました。とてもわかりやすい動画ですので、ぜひご覧ください。 Work IQ のさらに深掘り 今日は、W...",
+  "publishedAt": "2026-10-01T16:13:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "def5622c0599",
+  "title": "YC社長Garry Tanが語る「エージェント時代の開発術」を要点解説",
+  "url": "https://zenn.dev/talks_tldr_jp/articles/tldr08-garry-tan-summary",
+  "source": "Zenn",
+  "summary": "この記事について Y Combinator 社長の Garry Tan が語った「AIエージェント時代の開発」を、要点だけ抜き出して日本語で解説します。AIを\"チームとして\"使いこなす実践論の回です。 ! 本記事は元動画の全文翻訳ではなく、紹介と論評を目的として筆者が要点を抜き出し、筆者の見解を主体に構成したものです…",
+  "publishedAt": "2026-10-01T15:37:24.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5b107aeb8edb",
+  "title": "ぼくの考えたさい強のLLMりょう子化2",
+  "url": "https://zenn.dev/ashidan/articles/tech_llm_quantization2",
+  "source": "Zenn",
+  "summary": "CPUでLLMを動かしたい RAMが32GiB以上ある cmd.exe や bash の使いかたを理解している という人向けの記事です。 潜水艦等の隔離環境でプログラミングするのに役立つかも。 なお、この記事は2026年9月26日の情報を元に書かれています。 Ryzen 5 5600G(CPU実行) 2ch DDR4…",
+  "publishedAt": "2026-10-01T15:33:12.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "c36644992fb2",
   "title": "調達がAIの最も強力な規制ツールになる理由",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UY2N2Q0NibDJqQXY1RUJMQ20wblplTUZVUEFUWEh1ZkJST01MSFlxUHdWZW82ejJiWFlSOU1FLWFQQXJuZ1NPT2dEZ09lb3lNb0x1QUM4WTVOTC1FMjlVdFFydE9IUGJzYWNVOVBJWGRKX1FVVWxJ?oc=5",
-  "source": "unite.ai",
+  "source": "Unite.AI",
   "summary": "",
   "publishedAt": "2026-10-01T15:29:00.000Z",
   "image": "",
@@ -17,7 +69,7 @@
   "id": "4a87e0012c05",
   "title": "Googleは社内の懐疑的な意見が飛び交う中、Gemini 4を発表した。",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTMDdDdkhsbDBheG5LcENRSE5mNVZLbmR1cGw4ZlVkc1R4SXUxVlE1cmdGS01DT0EtbldlNHNpVEZGUE5vWlFmQlNRNk83ZWhyQ3NzYko5WGRTd01vWVlwVU50ZW1VMUtnQ3AyVWV1NjJWY2tyZW42NnRrZzJ6VEE?oc=5",
-  "source": "vietnam.vn",
+  "source": "Vietnam.vn",
   "summary": "",
   "publishedAt": "2026-10-01T15:27:35.000Z",
   "image": "",
@@ -30,12 +82,64 @@
   "id": "a61259ca1a2b",
   "title": "GoogleがGemini 4 Argonを発表：同社で最も強力な新しいAIモデル。",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ3hPZG1peGhNY3J1aFlwOTNPQ0VtY0pKSmF6aVJwOTFtb3VHWWwzZmRzVGxRTGJYUnlpcVQxREw5ZVNEN3lyQjh3RmRXZVNmYldQVUd3RkxnaDhuMS11Z3BZWUtpMHZfcVp5alJSMml1dTBHUHo2STdmRncwQ0N2VTNFME5WVlI1Sl96QVNYTEFDQ1pDVGc?oc=5",
-  "source": "vietnam.vn",
+  "source": "Vietnam.vn",
   "summary": "",
   "publishedAt": "2026-10-01T15:27:35.000Z",
   "image": "",
   "categories": [
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "71e3d7ea0860",
+  "title": "今日の市場ブリーフィング",
+  "url": "https://zenn.dev/bambampurin/articles/2026-09-08-market-daily",
+  "source": "Zenn",
+  "summary": "日経平均+2.12%の裏に潜む歪み：2026年9月8日の市場データから読み解くリスク指標 この記事で分かること 日経平均急騰の裏で主要個別株が下落した日本市場の極端な二極化 米10年国債利回りとVIX指数の上昇が示す米国市場のリスクオフシグナル 株式市場のボラティリティに対して為替市場が静観を保つ背景と現状 主力株下…",
+  "publishedAt": "2026-10-01T15:14:52.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "40b095af0ba2",
+  "title": "自作のサイトやアプリのデザインを揃えたくて、AIに渡すMarkdownを作った",
+  "url": "https://zenn.dev/fryx404/articles/91ee36ce7d0e90",
+  "source": "Zenn",
+  "summary": "おはようございます。 furuya (@fryx404) です。 最近はAIを使って、自分用のサイトやアプリ、ちょっとしたツールを作っています。 作るものが増えてくると、「せっかくなら、見た目にも共通の雰囲気を持たせたいな」と思うようになりました。 毎回、色や文字の雰囲気を説明するのも大変です。自分の好みをまとめてお…",
+  "publishedAt": "2026-10-01T15:14:48.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e0097e678d75",
+  "title": "GTDの週次レビューが続かない人へ。AIに司会をやらせたら、間違えながらも回り始めた",
+  "url": "https://zenn.dev/tottoko_hamu/articles/2026-09-27-082000",
+  "source": "Zenn",
+  "summary": "この記事の要点: GTD（Getting Things Done）の週次レビューが何年も続かなかった私が、その進行をAIに任せてみた記録だ。順番を決める役と抜け漏れを見つける役をAIに持たせ、私は提示された項目に判断を返すだけにした。使っているのは、Claude Code用の公開スキル /todo（GitHub Is…",
+  "publishedAt": "2026-10-01T15:09:49.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "11901fddf97d",
+  "title": "Claude codeで/doctor prompt-auditしたら微修正で終わった件",
+  "url": "https://zenn.dev/mryo0826/articles/440b8781a00803",
+  "source": "Zenn",
+  "summary": "前置き 色んな人から お前は何を言っているんだ？ と突っ込まれる思うので先に結論を貼っておきます。 https://github.com/mryo0826/aidd-practice-guide/commit/84e7d5a2fa85112e8f7d0ed11a5e53195e97fcd6 前提条件として 私が 晩酌…",
+  "publishedAt": "2026-10-01T15:08:41.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
