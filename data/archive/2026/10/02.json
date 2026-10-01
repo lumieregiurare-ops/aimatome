@@ -1,5 +1,258 @@
 [
  {
+  "id": "94f342d5bba5",
+  "title": "Claude CodeのMonitorツールで「止まっている自動化」を検知する — ポーリングを捨てた32ジョブ運用",
+  "url": "https://qiita.com/joinclass/items/110560e09385b9f1c0d5",
+  "source": "Qiita",
+  "summary": "僕は一人会社のCEOで、launchdで32個の自動化ジョブを回しています。記事生成、SNS配信、KDP売上取得、Zennデプロイ。人を雇わない代わりに、スクリプトが勝手に働く構成です。 この構成には一つだけ致命的な欠陥がありました。ジョブは「動いているつもり」で静かに止ま...",
+  "publishedAt": "2026-10-01T23:30:06.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7a7980c61ae5",
+  "title": "AIエージェントがスクショ1万3000枚を公開リポジトリにアップロード",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1acUdaYXh4RUEyOUxKOUt1SUNfa1dJamdyRXg5bnRqTmdVUkREdFloUDZMVEd2cGpzejQtMk1jTUJ1R2l6Rk5lZnBtVW9PUE8wSHFvS2h6Q0R6Ul9hbUxiazRmZjhJUHlV?oc=5",
+  "source": "マイナビニュース",
+  "summary": "",
+  "publishedAt": "2026-10-01T23:26:14.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3f6c852caa31",
+  "title": "IMUセンサーフュージョンをPythonで実装する｜加速度計とジャイロから傾きを求める(相補フィルタ)",
+  "url": "https://zenn.dev/maru1228/articles/physical-ai-imu-sensor-fusion-python",
+  "source": "Zenn",
+  "summary": "! この記事は自サイト IMUセンサーフュージョンをPythonで実装する｜加速度計とジャイロから傾きを求める(相補フィルタ) の再掲（クロス投稿）です。図をインタラクティブに動かせる版は元記事でどうぞ。 センサー超入門で「IMUはロボットの三半規管」と紹介しました。ですが実際のIMU（加速度計+ジャイロ）は、そのま…",
+  "publishedAt": "2026-10-01T23:21:29.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "47ae207cddce",
+  "title": "API キーを次のコミットで消しても意味がない — 漏れたあとにやることの順番",
+  "url": "https://zenn.dev/maruchi777/articles/e78dcffcf15df0",
+  "source": "Zenn",
+  "summary": "鍵をコミットしてしまったとき、最初にやることは何でしょうか。 消すことではありません。 git rm --cached .env git commit -m \"鍵を削除\" git push これで安全になった気がします。なっていません。 前のコミットに残っていて、git log -p を辿れば誰でも読めます。GitH…",
+  "publishedAt": "2026-10-01T23:20:13.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bffa3c8782b9",
+  "title": "2026-09-27〜2026-10-03 技術キャッチアップ",
+  "url": "https://zenn.dev/marycache/articles/20260927-weekly-tech-catchup",
+  "source": "Zenn",
+  "summary": "この週に確認した主要な技術更新を、曜日ごとのテーマに沿って整理する。 日: 生成AI・AI開発 月: IT全般・週間総括 火: 開発ツール・OSS 水: Web・バックエンド開発 木: セキュリティ 金: クラウド・インフラ・DevOps 土: 先端技術…",
+  "publishedAt": "2026-10-01T23:17:17.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b838881326fb",
+  "title": "AIエージェンティックコマース（AI Agentic Commerce） とは？（AIコマースとオンラインペイメント第1部 第3回目）",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iaVFNNkhsbUMwU1FJWUl0TnlfNXZ3b3RhWWhtaGY5SFZHYUU1ZUVuZk9sSjJpX2hyc3FaU1RQTWQ5c1dNZWlsZklvSnhHZ1RxVnVqWVByY2dmdk0?oc=5",
+  "source": "ペイメントナビ",
+  "summary": "",
+  "publishedAt": "2026-10-01T23:15:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6e9d4131086e",
+  "title": "「長く働くAI」が裏目に？ OpenAIの“脱走事件”が示すリスクの変化 企業に求められる対応は（ITmedia NEWS）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5aHpfUEl3QVM0NUZENHVTTVU2UmJ1WEp3V005SE81TGlZcGJNVU9IZ1dTWjcwTXNVaFBpNFMxWEpmUkpLbGNIRV9NLUdOUHB1anBRVklNU3lMV1FmbkhLVWFUekt6YmtSeXpncEx5TFhUMllhLTBHQlY2OFk0T0U?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-01T23:12:52.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e8abe30d83d0",
+  "title": "CTC、AIエージェントが脅威の検知・調査・対応案の提示を自動化する「CTC-MSS AI SOCサービス powered by Exaforce」を提供（クラウド Watch）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qZWxGZWV3ellScldoV1NSalZPaFQ5OGpNa04tcWY0VDNSd1UyWHk2TkM3bGU5aUdueXlCSGxZbnY4eVA5ZkxjQ29iQ1hZM1RZX2E3clRPNkljOVdnQ3lyc21ZZzE5S1E4UFdPXy1pdUU3Tm5xdGllNk1fcExOMTQ?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-01T23:12:47.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ebc0acf5c217",
+  "title": "CTC、AIエージェントで脅威の検知・調査を自動化するSOCサービスを開始",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GeWtnNHR6N2NPZzhBLVB1eUZhVU1sZ2xpSkdCVWFZWFgwRVF5dlc4TElmVmhJOHdlWWtDVmhfcVhSQW1LNFRhdF9DZWY4NFEtZXd4dGdPVl82VVVLWVVBM0ZOYWJGYUVUMzlZeUk5QjZLSFBqY2RN0gF8QVVfeXFMUEJtVXlHNTFsbDk3eWNwa2RvMG1HdF85TXVqMzBtZXo0UXBEOTFBcnNSV0w1RnBXd0ZiYXVyMFpzc2YzQ0ZLOG5xbEVPMUNlN05nQW1MbUJ5SGVFVmxyZ1YwTUpLS0FPR0U0OFJ0OGJFOXRNcDhNUGlqTVJQUg?oc=5",
+  "source": "ｄメニューニュース",
+  "summary": "",
+  "publishedAt": "2026-10-01T23:07:35.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5e60cd08884d",
+  "title": "Claude Codeを1年使って固まった実践Tipsと、単価を見直した夜の話",
+  "url": "https://qiita.com/sescore/items/93fec44ce16c433ad726",
+  "source": "Qiita",
+  "summary": "はじめに：2026年10月、Claude Codeは「書くAI」から「動くAI」になった 普段は常駐のSES案件でバックエンドを書きながら、空いた時間で自分のツールをClaude Codeで作っている。2026年10月2日現在、Claude Code(CLI)は毎日起動し...",
+  "publishedAt": "2026-10-01T23:04:51.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d42be4e4edcc",
+  "title": "Claude Code の MCP サーバー設定を .mcp.json でチームに配る実装手順 — local/project/user スコープの優先順位・${VAR} 展開で起動失敗・プロジェクトサーバーが承認待ちで出てこない、3つの…",
+  "url": "https://qiita.com/yureki_lab/items/fd65228d931a9c33cbde",
+  "source": "Qiita",
+  "summary": "はじめに / 対象と前提 Claude Code で MCP サーバーをいくつか使い始めると、次に必ずぶつかるのが「この設定、チームメンバーにどう配るか」だ。自分の手元では claude mcp add で動いていたのに、リポジトリを clone した同僚の環境では MC...",
+  "publishedAt": "2026-10-01T23:02:27.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1048380bbbab",
+  "title": "［Copilot］キーに右［Ctrl］と［Menu］キーの動作が追加。何が便利か試してみた",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUcE45cGlTVFd4Nm5lQXpoY09vWWY4TmJSNUM1eFpENmowQTZ2Qk80UHdsVkVnbFFZc2RfbE1OZFBHbmYwZE43WGEtU05YRUNhajE4bE5zUzczY0ZhMVJrM1o4STZYc3RZbG51UmlyZ1YwTGFYelV2RUFpbGI?oc=5",
+  "source": "窓の杜",
+  "summary": "",
+  "publishedAt": "2026-10-01T23:01:00.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ce787544f27e",
+  "title": "nocall.ai、米TypeSafe AI社の判定特化AI『Jev』を活用し、AI電話の応答時間を約58%短縮。",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ncHctcTVKcmJQU2ZRZVJEcGxuMnFtWVA3eXdnVlRGTFpDM2NFZ1BRTlR6eDVhZ01JdlNlakg3Rm9hUkZzZHJxcVdaRVR5RTZEbHhDRnpIcm1paHYwODRZdy02QkRnS1A4Znc?oc=5",
+  "source": "prtimes.jp",
+  "summary": "",
+  "publishedAt": "2026-10-01T23:00:01.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "49dbc4ae80c0",
+  "title": "AIによる「施策の同質化」をどう防ぐべきか──自社ブランドの思想を武器にする方法【書籍抜粋】",
+  "url": "https://markezine.jp/article/detail/77630",
+  "source": "MarkeZine",
+  "summary": "マーケティング実務において生成AIの活用が定着する中、大きな課題となっているのが「施策の同質化」です。AIが過去の成功事例や市場で評価されやすい表現を学習・最適化する結果、競合と似通ったアウトプットが量産されやすくなるからです。AIの恩恵を受けつつ自社ブランドを際立たせるには、AI任せにするのではなく、自社ならではの…",
+  "publishedAt": "2026-10-01T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8ec299f64448",
+  "title": "「DMに逃げる理由は秘密保持ではない」 人とAIエージェントの“最強チーム”を作るベストプラクティス",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94RkNUbTRtSlp1ZlE3S1NDMjd0QjNIYldkamNjSjZTQnAwN2lUcjhualpMdTdqU2ZEc1l5UXFhR2NmSE56b3g5b3lDOHhrODMyTU1FZ2FsQlpaUDc3S2dGTVRieXh3bWs3OGZpSTJOTVNJdw?oc=5",
+  "source": "atmarkit.itmedia.co.jp",
+  "summary": "",
+  "publishedAt": "2026-10-01T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8dde67dcc027",
+  "title": "日経平均急伸始まった10月相場とAI相場の賞味期限 バブル崩壊の目安「25％ルール」から探る持続性（土信田雅之）",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuaG04bkxDeWZMV05maU1Cb2R4d3ZMcS1fdy1XekdJdEx0UTBUQV91ZEtfWmI2UzFXR25ObzdSV0xHM0xRNXJSemhjX3FFNXNneEZBMGhGbmJzUQ?oc=5",
+  "source": "トウシル",
+  "summary": "",
+  "publishedAt": "2026-10-01T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "795d38e949a6",
+  "title": "【ANBERNIC】神OS「spruceOS 4.4」登場！H700が超進化",
+  "url": "https://zenn.dev/aiasoby/articles/asoby-20260914214500",
+  "source": "Zenn",
+  "summary": "💡 本記事について 本記事は、AIの実験・活用メディア「大人のAIアソビ」の技術サテライト版です。 キャラクター（武将クマの「ぷれい」＆青髪AI美少女「ジェミー」）による軽快な掛け合い・オチ対話劇の全文は、👉 本館の元記事 にて公開しています。 📌 3行でわかるこの記事の要点 「spruceOS v4.4.0」…",
+  "publishedAt": "2026-10-01T22:55:23.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "62ea55d52afd",
+  "title": "OpenAI、Hugging Face侵害受け100超の組織にAIエージェントの不正活動を通知",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1saHhqd2QzT3Y1Z0NrYVZfT3hNTlM0VXZZd0M4YTJMSVp5X0ZNaEpvYzlSbVJ6ck5XQXFnZ2Rqa21OSXhLdjl3UWZHSUFPdzJkUU56VFB3NG1SWU0xZXU4bFdiWmhTRkdNNkNWa3Y5VlhTUzkt?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-01T22:55:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a98c76d7335d",
+  "title": "OpenAI DevDay 2026 発表まとめ：常駐エージェント「dots」、GPT-6.1 Sol、Agents API など",
+  "url": "https://zenn.dev/oggata/articles/1d142f76135a35",
+  "source": "Zenn",
+  "summary": "2026年9月29日（米国太平洋時間）、サンフランシスコの Fort Mason で OpenAI DevDay 2026 が開催されました。Sam Altman の基調講演では、ChatGPT・Codex・モデル・API にまたがる 20以上の主要発表 が行われています。 本記事では、公式の DevDay 2026…",
+  "publishedAt": "2026-10-01T22:45:50.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "97fd2f32900a",
   "title": "「押せた」は「保存された」ではない——ブラウザの自動操作で、「押した」と返った 13 回は保存されていなかった",
   "url": "https://qiita.com/sumitsuke/items/946592d6db7f14ecd212",
@@ -36,6 +289,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dabb43ea4801",
+  "title": "中学生でもわかる Lean 4 #15｜AI＋数学＋Leanなら万能？",
+  "url": "https://zenn.dev/dantarg/articles/lean4-ai-math-proof-pipeline",
+  "source": "Zenn",
+  "summary": "文化祭でパンを配ることになりました。 参加者は100人。一人2個ずつ配る予定です。 100人 × 2個 = 200個 計算は簡単です。 では、この問題をAIに整理してもらい、数式にして、Lean 4で証明までできたら、もう「200個あれば大丈夫」と言ってよいのでしょうか。 私はここで少し引っ掛かります。 スタッフの分…",
+  "publishedAt": "2026-10-01T22:25:42.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -362,7 +628,7 @@
   "id": "00b82d9cd4f1",
   "title": "AI覇権競争は中国に強み「半導体より電力インフラ」",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pNGNuTFI1NGZfMTdPN1pmaEVLUFhlQUhleTBFZU9JRnFZTVpNYlpEVGV1Z3h2dEtHLW80UWVQTW1VRTBkVzFaM1UtLUVBMUdKNE0wY29kMEVDTktmUXZlMkFYTzEyTjVYQkNVaG1Yc250cXI4dE5TSmF2bnZqLWs?oc=5",
-  "source": "mainichi.jp",
+  "source": "毎日新聞",
   "summary": "",
   "publishedAt": "2026-10-01T21:30:00.000Z",
   "image": "",
@@ -416,13 +682,26 @@
   "id": "defcda753a6f",
   "title": "FastMetal、OpenAI「GPT-6.1 Sol」とClaude Sonnet 5.5を提供開始",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0LWsxWkhrdjJ5NC1peTQyS3dRZ184R1RZdkhZeTg0Z2pxSVdtRFZkMnFmSWczbXNWZnBiUlNySlZxcTBMM05raFRBT21IVktwZzk2SG9BaG9LUDEyUjJSc0h2UC1CZE83Vkc0aGxYb3dYSmVuMnQ3UWdwWQ?oc=5",
-  "source": "news.nicovideo.jp",
+  "source": "ニコニコニュース",
   "summary": "",
   "publishedAt": "2026-10-01T21:15:24.000Z",
   "image": "",
   "categories": [
    "model",
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0cfc9f5944a8",
+  "title": "最適化はあと60秒で改善する？ AI・ルール・学習器の判定結果を比べた",
+  "url": "https://zenn.dev/kswr/articles/scip_jev_alert_triage",
+  "source": "Zenn",
+  "summary": "数理最適化ソルバー（SCIP）を30秒動かし、勤務シフトの暫定解が見つかりました。 計算時間をあと60秒足せるとして、このまま待てば目的値は下がるでしょうか。 改善しないと分かれば、待たずに結果を返せます。 SCIPのメトリクスとログから、その判断ができるかを74ケースで調べました。 Jev、汎用LLM、単純なルール…",
+  "publishedAt": "2026-10-01T21:12:40.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -497,7 +776,7 @@
   "id": "e16f566470f1",
   "title": "PaleBlueDot AI、$200M Series Cを調達し、評価額$3.2BでSuper Intelligence Computeを拡大",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZzZFZW55M25yZnlSTnBLQV9zSUZ2SDNEcUFSbkZGZWtNZWM5WWxCUU5POUpJaFpQU0NyTGJkOW9iNXk5VGItWkhzZXRsRTRvTVphVThORWtsVy1qM2tlNHFTajZaX3BJVjZQcVMzdXdvWTh2eHZzTmZTNTM3amdJZG1weVBvRUdRajVwcUszOWxvWEhMa3VEdEU3Qi1YcFZJank0b21NWFJWUzRqdC1vbjljUmZ1Zw?oc=5",
-  "source": "unite.ai",
+  "source": "Unite.AI",
   "summary": "",
   "publishedAt": "2026-10-01T21:00:55.000Z",
   "image": "",
@@ -523,7 +802,7 @@
   "id": "6ffe109e9f77",
   "title": "〈日本企業の難題〉AI導入を阻むレガシーとデータ分断の壁どう破る？アクセンチュアとSansanに託された｢日本型変革｣",
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HQ3BRLTRCSHpPQ0NkcUNBdjliYXpSUnZHMTBoRjJ6OEFSNWoyRmx0LXEzRzFpSEltWTJuWUNIU1locTRBVGZjczNSaVo0T2RTZFY2ZXNaREM4Z0kzM1VN?oc=5",
-  "source": "toyokeizai.net",
+  "source": "東洋経済オンライン",
   "summary": "",
   "publishedAt": "2026-10-01T21:00:00.000Z",
   "image": "",
@@ -549,7 +828,7 @@
   "id": "21550bc09470",
   "title": "〔ＮＹ株式のポイント〕ＡＩ・半導体関連、コンサル高い＝グーグル親会社軟調（１日）",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeExvMWlCek1YOHg1VVVMZllxd3hlUXhVUzhSdmc1MHQyVWZoaDI3NjZDSjlXQ28wWk83TloyeVd3NldpZkpiZUpHR0NFTEZ4SnNBMFF2Zmk3UG1Kd1FjZjJQVnJVV295M2d5dHVzdS1tSGU2bzdSYTBmN1NMQ1cwV2pYb3c5dG5JVWduRkxobjJLTnloZjJieFlCTkRobV9VR1M0S0RGZ01ER2Q0Njl6Y3ZoZWRVQQ?oc=5",
-  "source": "moomoo.com",
+  "source": "Moomoo",
   "summary": "",
   "publishedAt": "2026-10-01T20:47:36.000Z",
   "image": "",
@@ -640,7 +919,7 @@
   "id": "12a71b16c3e4",
   "title": "新光電気、ＪＤＩ茂原工場取得 ＡＩ半導体基板に力",
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zUlFOMVU0OTVQcDRkaEFySDBFSFU1cFJ5WTlwN3VCRGYtM180TDU2cW92RnVsR3YtNUkwbzVBcjB0a2trd2REYzFhdzZ6Qjg5cHE0?oc=5",
-  "source": "化学工業日報 電子版",
+  "source": "chemicaldaily.com",
   "summary": "",
   "publishedAt": "2026-10-01T20:02:34.000Z",
   "image": "",
@@ -864,7 +1143,7 @@
   "id": "bd378fba374c",
   "title": "GPT-6 Astraのツール使用能力はすごい、もはや「Blender職人」",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ibkZoNWNNaG1MVzBJWk40cjdZeW9IMTRHNVJEbk9peFJwbFBOb01YcVphVWkzS1dzM1dLOTB0Qk1nTGkwMkJwdGdzMms3a21pelQ4ZFk1dlpMMGNJLVpZcG93STZiTk1SSGc?oc=5",
-  "source": "日経クロステック（xTECH）",
+  "source": "xtech.nikkei.com",
   "summary": "",
   "publishedAt": "2026-10-01T20:00:00.000Z",
   "image": "",
@@ -904,7 +1183,7 @@
   "id": "da3fda0f2d42",
   "title": "AIを10分使うだけで思考力や粘り強さが低下、実験結果が示す危うい現状",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdjUxZTM1UHdXUnpQa3RsNlBiellVZlhtVDRUdzZEdVlmX2JLdWNCMXhwNjFyU3ZSNHFROWxOcElUVEpmRHdVa0Y2ZlU2czRPU1RISFVMcTRhbmkyTG9PMG9PS3FWSFZWV0ZBNGF4RDNGSkNwemoxdks3NkJWcXU5WmtXcFV6aW1kMDlndw?oc=5",
-  "source": "日経クロステック Active",
+  "source": "active.nikkeibp.co.jp",
   "summary": "",
   "publishedAt": "2026-10-01T20:00:00.000Z",
   "image": "",
@@ -930,7 +1209,7 @@
   "id": "cd9d7a12a99b",
   "title": "ソフトバンク、シニアノートの収益を活用し、OpenAIへの第3回 $10B トランシェを完了",
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcEVPTlJoU251czllTU4wRl8xeEtBUE5JU2NvYmVqZVh2TzQ2anFMMmdRT1VlSmE1eFZscHVYOENRdDFNLVJHSnlWMkwxU01tUV84c19qLWlzRDlQQ0lhZlN5ODdxT25mZ21mOUtCZ3NsME5iQ0tFdkZxelZMY1FfODJUbzRNNHlmUjY3M2ZZN1BzOVNWbEl0Yw?oc=5",
-  "source": "unite.ai",
+  "source": "Unite.AI",
   "summary": "",
   "publishedAt": "2026-10-01T19:38:08.000Z",
   "image": "",
@@ -1100,7 +1379,7 @@
   "id": "9e204ad6be0d",
   "title": "OpenAIのIntelligence Ageが『永遠の補完』エッセイを公開",
   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGxidUx5T0VzeE5DXy1oTjBxbVRVZ0gzcC1QWWp6NmhyNDlBUlVLS05JTk9QekNNWC0wVDEzOUx3YkNSd0VISUxfRXNRd1RCUXBMdlZyZWdLZHBiYk83OC1OU1Qwci00RDd4bDdKblNFQVFvX0s4MGJocWROdGNXZ095ZmJVaVQ4MmdRRzhjTnJTUQ?oc=5",
-  "source": "unite.ai",
+  "source": "Unite.AI",
   "summary": "",
   "publishedAt": "2026-10-01T18:08:51.000Z",
   "image": "",
@@ -1258,7 +1537,7 @@
   "id": "97478d0ebf8d",
   "title": "グーグル（GOOGL.US）が発表したGemini 4 Argonは19項目のテストのうち13項目で競合他社を上回り、BNPパリバは目標株価420ドルを据え置きました。",
   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ19PczBFaTFUdFBaUS1aSjEyTlZyTmxEMm9iZDhLUVdNYjNRZWQyWG9XRlA1cm96bm4xaDIzZkF5bFgtUERMSTM1YTI3T1VXWTl5cnRtR0c4dWlDR2ZNYkZiS3M0RFFHTm0tc1A2Rnl5TGNpMThjdjFET2F5bE5ZbU5jci1qekcwRGxnMHdHUmJ6cEFXWGlNZV96WmdYbkFxM2xsRXN6M2NEajV3N2pZNA?oc=5",
-  "source": "moomoo.com",
+  "source": "Moomoo",
   "summary": "",
   "publishedAt": "2026-10-01T16:25:33.000Z",
   "image": "",
@@ -1285,7 +1564,7 @@
   "id": "20cabc098083",
   "title": "Volantis、フォトニックAI推論システム構築のために8,800万ドルのシリーズAを調達",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS1ZkWHozUnRjcXY3dUxKQlZybEp1UlFPZWJ3WXFOY1FnSFpTaHFCMEY2cGxtbjUxNHhPS192b0xDaC1XZFF5NGcyQkVwbFBOQXJqZlQ3ZGdsQkk5M1pPZk11NThxc0NWN28xMnVCdDlISnBtRWlEd3JTUW9SeERXX0dUWXlRWlJvM3V4OUZWY2hNajBJOEE?oc=5",
-  "source": "unite.ai",
+  "source": "Unite.AI",
   "summary": "",
   "publishedAt": "2026-10-01T16:18:16.000Z",
   "image": "",
@@ -1312,7 +1591,7 @@
   "id": "175ed406d4ba",
   "title": "AI活用事例、社内に100件。岐阜のIT企業ITreat、総務・経理・デザイナーまで社員37名が「自分の業務での使い方」を朝礼で発表",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Vbkd2M2sxampfQndHYms3Tzc2MC1yNExEMExwN2VJM1BXZDhRNkhRYzVvTUNmZ1hGenNrMTJkekFZb1lleWJpRDRCMmtJdXFCUjJJY29uQnladlhPNkk0SWxuQThUVFpyWG1MY0I1YnRJQk5pbkE?oc=5",
-  "source": "news.nicovideo.jp",
+  "source": "ニコニコニュース",
   "summary": "",
   "publishedAt": "2026-10-01T16:15:38.000Z",
   "image": "",
@@ -1418,7 +1697,7 @@
   "id": "c36644992fb2",
   "title": "調達がAIの最も強力な規制ツールになる理由",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UY2N2Q0NibDJqQXY1RUJMQ20wblplTUZVUEFUWEh1ZkJST01MSFlxUHdWZW82ejJiWFlSOU1FLWFQQXJuZ1NPT2dEZ09lb3lNb0x1QUM4WTVOTC1FMjlVdFFydE9IUGJzYWNVOVBJWGRKX1FVVWxJ?oc=5",
-  "source": "unite.ai",
+  "source": "Unite.AI",
   "summary": "",
   "publishedAt": "2026-10-01T15:29:00.000Z",
   "image": "",
