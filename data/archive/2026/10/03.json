@@ -1,11 +1,102 @@
 [
  {
+  "id": "348eaa08311a",
+  "title": "MCP elicitationでユーザーに問い合わせるMCPサーバーを書く — 承認待ちを「対話」に変える",
+  "url": "https://qiita.com/joinclass/items/d2fe99cb011c0c339729",
+  "source": "Qiita",
+  "summary": "僕は一人会社をClaude Codeで回していて、対外アクション（SNS投稿・請求書発行・デプロイ）は必ず「draft → 承認 → 実行」のパイプラインを通す運用にしています。ただこの承認、最初はMarkdownのキューに積んで後から人間が読む形にしていて、実行が止まるの...",
+  "publishedAt": "2026-10-02T23:30:07.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "fd8411692a4c",
+  "title": "生成AIが選ぶ「国内旅行サイト」、1位はじゃらんnet（言及率100%）",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4teWZLdjV0LXl6QWk2SnM2eURmQUpKZHRlTGpjMVBDYTd2cmYyOTRsNDFxRU11Y3lyOWdNaGZTRkhyNjFZR1lUb2swZkFUWm5PV2RlTXJ2VWZIOFR4dkk4ejRFTENHU2dwX3RSRVJvUzlkQ0pCNUlvR1d0Zw?oc=5",
+  "source": "news.nicovideo.jp",
+  "summary": "",
+  "publishedAt": "2026-10-02T23:15:35.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bc5d636b823b",
+  "title": "OpenClawで9体のAIエージェント経営OSを構築した実践記録【2026年10月】",
+  "url": "https://qiita.com/sescore/items/b21bc67c1c26ecd92167",
+  "source": "Qiita",
+  "summary": "はじめに 2026年10月現在、Claude CodeのSkill機能とAgent（サブエージェント）機能を組み合わせて、CEO・CFO・CTO・COO・CMOをはじめとする9体のA...",
+  "publishedAt": "2026-10-02T23:05:21.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0ef5ff023f91",
+  "title": "Claude Code の CLAUDE.md を @import と .claude/rules/ で分割管理する実装手順 — サブディレクトリの CLAUDE.md が起動時に読まれない・paths の glob が効かない・work…",
+  "url": "https://qiita.com/yureki_lab/items/69604d1f0ca62f87b472",
+  "source": "Qiita",
+  "summary": "はじめに / 対象と前提 CLAUDE.md が肥大化して「どの指示が効いているのか分からない」「チーム用と個人用が混ざって commit できない」状態になったので、@import と .claude/rules/ で分割管理する構成に組み替えた。その手順と、やってみて...",
+  "publishedAt": "2026-10-02T23:02:37.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "150b1d3bd60c",
+  "title": "65歳、WindowsパソコンでローカルLLMを動かしてみた ――AIを「使う」から「仕組みを知る」へ｜佐々木康仁 - mbp-japan.com",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04YmlGQjljWW9uQklTd2xwb3NMRURnLXJlWmRHSEhuWThkWjd0VGRMWnNRX3JlRWhGQlMxd1pjX1oxVjBoX2FXLVFlOXZ5S1I1emhLMml0ZGV1Vnh1U1poUFg2RlJ2d3F6bGliRzFQRQ?oc=5",
+  "source": "mbp-japan.com",
+  "summary": "",
+  "publishedAt": "2026-10-02T23:01:07.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "17efeac213f8",
+  "title": "「通信4社、5G速度最大9倍差」「AI生成コードのエラー率、JavaがPythonの6.7倍」、露わになった“格差”",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtRXl2UHAtZ2Q3STBFc2Jjbk1jZEI4bTBqSlRneUg5WHdpaERvVW5aRldiNWdaVDRSYmhUODF5OFd5WktBVUVhbVplZURQNURHWGdNbXc4VWx4N3Blc0JESVZRWDJtMXNqMm9uX3dIS0I1QQ?oc=5",
+  "source": "ITmedia",
+  "summary": "",
+  "publishedAt": "2026-10-02T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "df8a8fc9ce09",
+  "title": "「先読み2027、AI半導体」「核融合の業界地図」 注目5本",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb0ZsNGhHeldiTnliZk1JNkJYZHI0RldfVXVMR0tZYnRxZWx2X25Nb1ptYVlkWF94QUctVWZ0OTRrRUJwcFNvN2xFZlNnOWlkVHR1eDVSVFlwS1hpVmxZcVZPdU00UGpaZ2M3T3Fmby1qZTVoOHJQVFB5WGYwSTlvc25FSENDV1k?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-10-02T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "28a7d4810cd8",
   "title": "【AI・IoT・DX】Huawei：企業向けAI導入を支える5つの新ソリューションを発表、O3プラットフォームのサービス機能も高度化",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84aC03T2R4Yi05RFExQkhGRU5uU21XSWhIQW83MW1ONEtBMThXbFE3Mmw5WTJNck4tT2FOQmdFVnFyWjAzZ2ZLTmRUOWlZUWFEdU5jNkFEU0F6aGdWb1U2Ty1oOXZTVmwtc21Rcm9NeUFXQQ?oc=5",
   "source": "みんなの広報宣伝部",
   "summary": "",
-  "publishedAt": "2026-10-02T22:54:26.000Z",
+  "publishedAt": "2026-10-02T22:54:09.000Z",
   "image": "",
   "categories": [
    "case"
@@ -61,6 +152,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0fbb08549185",
+  "title": "【米雇用統計で日経爆上げ!?AI半導体株急騰！任天堂・レーザーテック・NVIDIA強い】SHIFT,IHI,アーム,パランティア,JX金属,野村不動産",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLX2kyUDA4dGpxUDRVanJJemYtTWtVZUlWWUE5Sy1wa3VjSlJMcEwzZWdnX3dRdExIeUNrR25aRDU2dFpKWUFHcWdIaG5kOTVDX1czb2MzWndOUDFv?oc=5",
+  "source": "YouTube",
+  "summary": "",
+  "publishedAt": "2026-10-02T22:31:56.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
@@ -213,7 +317,7 @@
   "id": "80c5ed19c6ca",
   "title": "「AIの同僚」をどう管理する？ OpenAIが企業ITに与えるインパクト",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15OTBTaFl4WEkzOVNuaVl2U1dyUUtwN0JsNDZOV1F6M2dxTE9VdW5jNHRBVnp0Y211YXJ3cUxUT0RidEQ2WXhETURHQS1FUTlYcy1kOHpPV20xbGN4OEFXbkRHRnhDcTBPN0RYLU1UcDBuY2hq?oc=5",
-  "source": "itmedia.co.jp",
+  "source": "ITmedia",
   "summary": "",
   "publishedAt": "2026-10-02T22:00:00.000Z",
   "image": "",
@@ -239,7 +343,7 @@
   "id": "2d4110f7b440",
   "title": "【「Gemini 4 Argon」まだ“本命”じゃない】「Googleは脱落してない」今井翔太／機能絞って発表→GPT・Claude最新モデルに匹敵／AI暴走の本質は「強化学習」【AI QUEST】",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XQ3JJV05FV2xNWEFLaGl2Z3RYOTNIQ1MtM0FmbzFLWVFjVFhEMDJqalVJTEVKakZUY3Eyd1JpaE9oRHlGM1NfUlEzbklFclQyTy1kR0U1UlBEeGpHMVFKeElaSm44ektaLUpMNEJ2WjFzMVRO?oc=5",
-  "source": "newsdig.tbs.co.jp",
+  "source": "TBS NEWS DIG",
   "summary": "",
   "publishedAt": "2026-10-02T22:00:00.000Z",
   "image": "",
@@ -265,7 +369,7 @@
   "id": "005bbdcb0eb8",
   "title": "フィックスターズとマクニカ、Tenstorrent製品の実機評価からAIモデルの最適化、導入・運用までを一貫支援",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9maWRjRDAxQ29wMjFTZVN3ZEJMcXNVRVRYSTJjZExfVWRxV1BDSjV0RU5qbVlmVXhQV001Rl83akNYeFE2amk4NHdxQTMxZ0txeDVTbFJQY0Y5OGlVd0RyU1pHdkJ1Y2VhNk5PcktSTWE3YjBoNG9aQWRxSQ?oc=5",
-  "source": "ニコニコニュース",
+  "source": "news.nicovideo.jp",
   "summary": "",
   "publishedAt": "2026-10-02T21:51:19.000Z",
   "image": "",
@@ -356,7 +460,7 @@
   "id": "598cc2f6057d",
   "title": "AI半導体·HBM、高い身代金に標本の代わりに全数検査の需要増える後工程企業の株価が1ヶ月で2倍",
   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5NnZlNlNPVDQ3bXN1a0xXNjVmdTkxdWJOek5uMzMxUkFrX19lY0dmUUNsRVRlcnkyYmNWcGRVcUtJOXloazdibG94Qm1nMm8?oc=5",
-  "source": "mk.co.kr",
+  "source": "매일경제",
   "summary": "",
   "publishedAt": "2026-10-02T21:15:27.000Z",
   "image": "",
@@ -566,7 +670,7 @@
   "id": "f6c61a2983c0",
   "title": "カクイチが、AIで全国17,000ヶ所以上の太陽光発電設備におけるデータの異常値を早期検知",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TeEc1cktXUGF0U0Q5YXFXeWpZal9LaVIyZkl6cVpwcmJxQWRoWTVSQ282cjJ2SHJkUTlrOGRnekZQeVQ3ZHZKTnZ2YnBJLUp6YlhTN3BDVnlFamlQMGpydWd3ZGI4bnFnS1dDOHNDUlJ4ZU04alppYXpUYw?oc=5",
-  "source": "ニコニコニュース",
+  "source": "news.nicovideo.jp",
   "summary": "",
   "publishedAt": "2026-10-02T20:15:26.000Z",
   "image": "",
@@ -592,7 +696,7 @@
   "id": "385270bd8d13",
   "title": "IDEATECH、自社の強みを「AIに正しく理解されるWebサイト」に変える、独自AIエージェント「Octy」によるサ",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kZmpCekwwSTJYckF5YmN0VUdPNkJkTmdlWkczRy1lN2NFajNsWkRkSnJScTJRT2psaHlKcTJkdjNtekMxTmZ3Y1pmMFcxYnNXSlpCNjBnNDZQUGI3MjY2ZFFtU05vdXFyRURYbFp1aldUN2ZIVERkWTl1SQ?oc=5",
-  "source": "ニコニコニュース",
+  "source": "news.nicovideo.jp",
   "summary": "",
   "publishedAt": "2026-10-02T20:00:23.000Z",
   "image": "",
@@ -646,7 +750,7 @@
   "id": "ddb886f66fde",
   "title": "【オンラインカンファレンス開催】「AI Enablement Summit 2026」 ～エンタープライズの現場で、AIを“成果” に変える実践知～",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBydGJ2TjFjN1RQZi12djZrRVZpb2hIVTlkV1RlMDRkOEUzQkJXNVo3QV9YNGdjR0RJaVBwZUw1MjNwNTJTV3o4Y2FrMHlPdEhzOEE4QV9lWW82ZUh0LVBLandqbEpfdnZ5cVZFcTJJSDZkbU5XZ05yOW5BZw?oc=5",
-  "source": "ニコニコニュース",
+  "source": "news.nicovideo.jp",
   "summary": "",
   "publishedAt": "2026-10-02T19:51:22.000Z",
   "image": "",
@@ -698,7 +802,7 @@
   "id": "1afcd5431a9b",
   "title": "広報PRの戦場は「検索結果」から「AIの記憶」へ――トドオナダ、AI時代の広報PR戦略セミナーを10月9日に開催",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RdkZ4M05iNlJ0dDJiSE9DT0l4QTZhS2FMcHpMMU96WGtBb1JhNWh2V2NTbmlvSmZCWTZ4TkZYMXAweGEtVTROUDBhTkltQUs1VkFraEkycl9ZcEtFVmV3N2JEMVoxVWdLWEl6MXEtY2lObFZXODktdTdTMA?oc=5",
-  "source": "ニコニコニュース",
+  "source": "news.nicovideo.jp",
   "summary": "",
   "publishedAt": "2026-10-02T19:00:43.000Z",
   "image": "",
@@ -724,14 +828,14 @@
   "id": "34465bbb89e1",
   "title": "福岡発、Webサイトに「AIエージェント」を設置！",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vSFJidzlDOERlLWdHWGpVN2ozWnVwSjlyMTJ4WERtQkVsM3h0T2NDSnlpeElKTHBheW9PWWNHSV9nQjdxWXVGbGpqMTZjUzF3X2RtYkZjd2l5NVJXT1d5RVBnVmZ0VmdBUlE?oc=5",
-  "source": "PR TIMES",
+  "source": "prtimes.jp",
   "summary": "",
   "publishedAt": "2026-10-02T18:48:09.000Z",
   "image": "",
   "categories": [
    "other"
   ],
-  "isPR": true
+  "isPR": false
  },
  {
   "id": "0612c41863fd",
@@ -828,8 +932,8 @@
  {
   "id": "a060869cfd62",
   "title": "AI活用企業のWEBコンテンツは強い？3.8万社調査で見えた「AIでは作れない顧客の判断材料」",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZdXdHdTU2YXBLQUxqYm9lN2FDTzVXNmFjd3B0NVdJQTNrRGJRMDVDTlZFNDZvLWludGstamxibW9Ua1p0Z3o1eWlhNTFpOXM2ajBsTzk4RV9TeVoxVUloSk14cE5UUk1QMnpRcGJoN2c0cURPVkVFVTVEUQ?oc=5",
-  "source": "ニコニコニュース",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11VmVHLTR4R21adG4xa3ZKWXpPODdud1ltOFg0TVQwc2x6VkE1TkJFN1hmZ2NJM2ViLUNzMWRMQmU1ckFGSDVjcjhQM3lRZmo1SGNPaQ?oc=5",
+  "source": "news.nicovideo.jp",
   "summary": "",
   "publishedAt": "2026-10-02T18:00:46.000Z",
   "image": "",
@@ -842,7 +946,7 @@
   "id": "b7c1093ae044",
   "title": "福岡に5,238名が来場！「AI博覧会 Fukuoka 2026」熱気あふれる2日間をレポート",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sTU9YbloyMW5kOEF2OXJ3bi1IYzRJSnlVMzFib3RMN1FOM05pS1c3TDFqT0thNWdtVTktaU5SVDdfME9RQnNKd0wxQWpkTTlMME5IMl9PMkdkOXBZOGVZeEhES0ExYUVvalVvNjF1U3Q4dE9zNlkxaFFGTQ?oc=5",
-  "source": "ニコニコニュース",
+  "source": "news.nicovideo.jp",
   "summary": "",
   "publishedAt": "2026-10-02T18:00:44.000Z",
   "image": "",
@@ -895,7 +999,7 @@
   "id": "f8dd0f558fcc",
   "title": "エージェンテック、「業務AIエージェント構築・運用実務研修」を提供開始。自分の業務で動くAIエージェントを、受講者自らがつくる",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CNWtvZURRU3hkeTVfdTYySVo2N0ZvWlM5aEdiVU5ERDZaOVcxY1JPb2hGNlVOWnp6cTNWaHFMbnVMUzZOc1l6aDNCeno2MVlPaUdUdVd1ZzdESXZxTDMzU3RPamdsOGZ3T1FHNHA3VTRVZ2YwN1FvTzFSRQ?oc=5",
-  "source": "ニコニコニュース",
+  "source": "news.nicovideo.jp",
   "summary": "",
   "publishedAt": "2026-10-02T17:21:53.000Z",
   "image": "",
@@ -1333,7 +1437,7 @@
   "id": "5e062b3b0e69",
   "title": "OpenAIがオーストラリア政府システムの新たな侵害を発見。",
   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeXl4SC1odDUyY0xKSDEyYmVES1ZHWUxzLVhZby1lOG1VX2tXT0ZOMnhlY1JvNXhpWUwza05sV3h4U1lSMTlXMU9mdlR1cnkzY29qcS1GNHdPQzQ5SnBHa2lkclJRY3JXdVBMUG1MeURROEI1dVAybVdTNWJBdGtwZl8yZTktcVFNRE5FN09RVVgxQQ?oc=5",
-  "source": "Vietnam.vn",
+  "source": "vietnam.vn",
   "summary": "",
   "publishedAt": "2026-10-02T15:08:33.000Z",
   "image": "",
@@ -1346,7 +1450,7 @@
   "id": "ed32dc27517a",
   "title": "OpenAIは、業務効率の向上を支援するAIアシスタント「Dots」を発表した。",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWJMWXZWR0Q2V0dOdDJLOERHTWdBcExlR3hVakNFNlBnYmJXdTJjOUFIcDhFVVcxOXhIZ2ZUNnl4Q1F1Y1lHcXh4QWg1b01sS3FvM3RxN0JBa21HVzc2LUxXazY0ZmROam5XYlhIemxTM0hoMjVhWnlLRDlSeER4MjRsRzRSTHU3Z3k3NA?oc=5",
-  "source": "Vietnam.vn",
+  "source": "vietnam.vn",
   "summary": "",
   "publishedAt": "2026-10-02T15:08:30.000Z",
   "image": "",
