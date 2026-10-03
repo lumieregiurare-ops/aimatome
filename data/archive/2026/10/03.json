@@ -26,6 +26,19 @@
   "isPR": false
  },
  {
+  "id": "b4223bfadc46",
+  "title": "AI時代だからこそ「ゼロから始めるプロダクトマネジメント」を読んで心掛けたいと思ったこと",
+  "url": "https://zenn.dev/yymm/articles/20261001-zero-product-management",
+  "source": "Zenn",
+  "summary": "初めに 今年ももう10月。1年の終わりが見えてきて震えています。今日はそんな訳でプロダクトマネジメントについてです。 普段バリバリ開発をメインにしていて、マネージャーのようなプロダクト専門で考える立場では無いです。 もちろん開発する時に背景や目的を意識しますが、完全に我流でやっていてベストな考えだという自信はありませ…",
+  "publishedAt": "2026-10-03T14:48:25.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "6b9d32daacee",
   "title": "OpenAI・Anthropicで研究者の発言力強まる AI安全規制巡り経営方針に影響",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9McnBIZW5HRmlPN1Y2TWRHRGd0eDljNjA2ejFIYkFBR0t2aW81ZGpuWjU4TWlqbkxMSXBzZFlkX0xPb3ZmaktEWmVFdVdqcHdrN3lLWnljR1pZRVMweFJMNFIyTThJNGFf0gFoQVVfeXFMT0xycEhlbkdGaU83VjZNZEdEZ3R4OWM2MDZ6MUhiQUFHS3ZpbzVkam5aNThNaWpuTExJcHNkWWRfTE9vdmZqS0RaZUV1V2pwd2s3eUtaeWNHWllFUzB4Ukw0UjJNOEk0YV8?oc=5",
@@ -40,10 +53,50 @@
   "isPR": false
  },
  {
+  "id": "8db10ed5fdca",
+  "title": "AIが研究チームになった——Geminiを使う「Cogentic」が5つの未解決問題に新成果",
+  "url": "https://zenn.dev/humanos_lab/articles/80c13016cf9daa",
+  "source": "Zenn",
+  "summary": "2026年9月30日、Google Researchの研究者らは、複数のAIエージェントを研究チームのように協働させる仕組み「Cogentic」の論文を公開しました。 目を引くのは、AIが1回で証明を書いたことではありません。複数の証明AIが別々の方向を探索し、検証AIが疑い、確認済みの中間成果だけを台帳へ残して次の…",
+  "publishedAt": "2026-10-03T14:44:49.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ca42a15e5bb0",
+  "title": "Sparsely-Gated MoEを実装目線で読む：Router・Top-k・負荷分散",
+  "url": "https://zenn.dev/kas_blog/articles/20260509-llm-28-moe",
+  "source": "Zenn",
+  "summary": "MoE（Mixture of Experts：複数のExpertから一部を選んで実行する構造）は、単に「巨大なのに軽いモデル」ではありません。実装目線では、次の処理を持つ疎なFFN（Feed-Forward Network：各tokenを個別に変換する層）です。 RouterがtokenごとにExpertのscore…",
+  "publishedAt": "2026-10-03T14:44:36.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "53cc1500f7b2",
+  "title": "逆運動学をPythonで実装する｜「手先をここに置きたい」から関節角度を求める",
+  "url": "https://zenn.dev/maru1228/articles/physical-ai-inverse-kinematics-python",
+  "source": "Zenn",
+  "summary": "! この記事は自サイト 逆運動学をPythonで実装する｜「手先をここに置きたい」から関節角度を求める の再掲（クロス投稿）です。図をインタラクティブに動かせる版は元記事でどうぞ。 順運動学では「関節角度→手先位置」を三角関数だけで計算しました。実際のロボット制御で欲しいのはたいてい逆方向、「この位置に手先を置きたい…",
+  "publishedAt": "2026-10-03T14:14:40.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "e71b015b8b30",
   "title": "Apple、AIエージェントにMacの全データを渡す前に明確な同意を必須化へ",
   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVlhRUU5MVlZXQURRRkJLSVZKSUdOTDhHY0FJSENLXzJJSWI3RXdTR2JhRUgyTHdaVDRXdXN4RjdqWFNEN2h4UUxWbW4yRHYwTG5RQTBlTzQydU9oT2N4NUlxQTh6SXFnQ1BRZ0hnbVFOSFJUdGxJMVBQN1Bja2t6RGloak1VRHB3MmVHdVh2dHJxeXVVazRmMDJrX0hJdkxFeUlRWmg5RGRBbDc0bDRMMmVqVGNkeWs2N3p3c0xoRmU0WDJ5bkF4cWw4aGhCMnMzUVpoWVNnbw?oc=5",
-  "source": "Martin Cid Magazine",
+  "source": "ja.martincid.com",
   "summary": "",
   "publishedAt": "2026-10-03T14:09:04.000Z",
   "image": "",
@@ -66,6 +119,20 @@
   "isPR": false
  },
  {
+  "id": "512053054dfe",
+  "title": "DHH の「規約はトークン効率」を自作フレームワークで測ってみた",
+  "url": "https://zenn.dev/7nohe/articles/agents-on-guren-round-2",
+  "source": "Zenn",
+  "summary": "はじめに 2026年9月23日のRails World基調講演で、DHHは「設定より規約は、トークン効率につながる」と話しました。 https://www.youtube.com/watch?v=vDjW_dRyKXY ただ、Railsの規約は、モデルが学習データで何度も見ているものです。モデルがよく知らない規約でも…",
+  "publishedAt": "2026-10-03T13:59:32.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "fff330eaf41b",
   "title": "Claude Code の cloud session に最大 $250 のクレジットが付きます ── 申請期限は日本時間 10月8日 15:59",
   "url": "https://qiita.com/chooser/items/2458aa6c8c02e3b7e1c7",
@@ -75,6 +142,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "97bcb616f4e3",
+  "title": "AIの能力をフルに使うプロンプトを突き詰めたら、完全に「禁呪の詠唱」になった",
+  "url": "https://zenn.dev/c_a_p_engineer/articles/ai-prompt-incantation",
+  "source": "Zenn",
+  "summary": "AIに難しい仕事を頼むとき、私はだんだん一言では頼まなくなりました。 「これをやって」だけではなく、 まず、こちらの意図を取り違えないでほしい 何をもって完成とするか決めてほしい 必要な事実は確認してほしい 最初に思いついた案だけで決めないでほしい 行き詰まったら前提そのものを疑ってほしい ツールが必要なら使ってほし…",
+  "publishedAt": "2026-10-03T13:53:31.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -95,12 +175,25 @@
   "id": "02818d28ab50",
   "title": "Geminiは、特にスマートフォンユーザー向けの機能を追加しました。",
   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORXFYOUpXamlvV2FBSnNCdFhNWmhuTmZmSjZ1OWZWZERCOFNzTkFxZ096aDhmLTI0ek5ycEJKSGlnVlpMTEsxVzhMbVVYaDMzaXNoOXhIQzZ3VU5WTmt1VHdyTTAwajJEVUhxR2NSQ0U1RzhTbEkzTTF5VEhsRjhCOWd2ZWwyUTFDNlJUcXZRbkc?oc=5",
-  "source": "Vietnam.vn",
+  "source": "vietnam.vn",
   "summary": "",
   "publishedAt": "2026-10-03T13:46:25.000Z",
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "db94927c4a91",
+  "title": "AI時代にコーダーとして何が求められるのか",
+  "url": "https://zenn.dev/kengohidaka/articles/8a651a7e6e210c",
+  "source": "Zenn",
+  "summary": "最近、フリーランスとしてコーダーの仕事をしている中で、少し危機感を感じています。 AIの進化によって、これまでコーダーが行っていた仕事の一部は、確実にAIで効率化できるようになってきました。 HTML、CSS、JavaScriptなどを使ったWebサイト制作も、AIに指示を出せばかなりのところまでコードを書いてくれま…",
+  "publishedAt": "2026-10-03T13:29:17.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -170,12 +263,51 @@
   "isPR": false
  },
  {
+  "id": "911d9fcd49f2",
+  "title": "Claude Code で開発ループを回す：auto mode の権限設定と hook による検証",
+  "url": "https://zenn.dev/coworker_jp/articles/claude-code-loop-engineering-brakes",
+  "source": "Zenn",
+  "summary": "はじめに CoWorker でセキュリティ技術リードをしている伊藤です。 Claude Code に一度依頼して回答を待つだけでなく、作業を繰り返し任せる使い方が当たり前になってきました。 PR を出したら CI を見守り、落ちたら直して再 push する 複数のサブエージェントを並列に走らせてレビューと実装を分担す…",
+  "publishedAt": "2026-10-03T13:11:10.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "1c9f8ba56d99",
   "title": "Claude Opus 5.5がAntigravityに登場、利用できるのはProとUltraの有料会員だけ",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVd3RzNBbkh0WmlxdWYwX3d6a1ZSeHNuRjZEVGZpR1ZWVnY4TVBBTUxUZVEtOGtsUFViUTZtTnBIVDBSdWpUM1ExMFNvVUpPMms4bzZRaGE3VWNwcjFHX1dVWGk3WjR3RGN2U2R3cElYdEtteG1QNXdwWnB5QmRmVUpESkNqNlRRTnFLZA?oc=5",
   "source": "Pasquale Pillitteri",
   "summary": "",
   "publishedAt": "2026-10-03T13:06:40.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3c8bda92ff87",
+  "title": "Claude Codeが、上限に達しても「きりのいいところ」まで続けるようになった",
+  "url": "https://zenn.dev/shoujiki_panman/articles/claude-code-wrap-up-allowance",
+  "source": "Zenn",
+  "summary": "本記事について Claude Codeに大きめの直しを頼んで、しばらくして見に行ったら「上限に達しました」で止まっていた。しかも、ファイルが半分だけ書き換わっていて、動かない。有料プランでClaude Codeを使っていると、思い当たる場面があるかもしれません。 この問題に、Anthropicが手を打ちました。「Wr…",
+  "publishedAt": "2026-10-03T13:06:28.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c973dec67065",
+  "title": "Claude Codeのmodで「上限メーター」と「APIキーの伏せ字」を作った。コマンド3行で入る",
+  "url": "https://zenn.dev/shoujiki_panman/articles/claude-code-mods-first-look",
+  "source": "Zenn",
+  "summary": "本記事について 10月1日、Claude Codeに「mod」という仕組みが入りました。Claude Codeの動きや画面に、自分で機能を足せる仕組みです。 説明を読むだけでは何に使えるのかつかみにくいので、困っていたことを2つ、実際にmodにしました。 1つ目は利用上限です。作業の途中で上限に達すると、Claude…",
+  "publishedAt": "2026-10-03T13:06:27.000Z",
   "image": "",
   "categories": [
    "other"
@@ -196,6 +328,20 @@
   "isPR": false
  },
  {
+  "id": "586881657eae",
+  "title": "【godot-llm-gamebench】GPT-6.1 SolはEffortによってどのように性能が変わるのか",
+  "url": "https://zenn.dev/oubakiou/articles/8a07c6caba788d",
+  "source": "Zenn",
+  "summary": "本記事は 実装タスクを外注するモデルは何が適切なのか？ミニゲームを実装させるベンチマーク のシリーズです。このベンチマークを読む上での注意点は以下を参照してください。 今回は親エージェントを claude-opus-5-5@medium、子エージェント（実装の外注先）を Codex CLI 上の gpt-6.1-so…",
+  "publishedAt": "2026-10-03T12:53:42.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "4107139e2117",
   "title": "MacのOSを修正へ AIリスク対策",
   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaRHpJa1NmTDZNdEFQMmtTRVp2THJNTkpYT001a2xoWTJJZUszNnBDVVZOZ0hsX0dTaHlpU2VIUzJkSUx6MHdfNjJWbDFnNjk3?oc=5",
@@ -205,6 +351,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "98d874b37733",
+  "title": "守った余白を商談の質に変える — 導入1か月目に効く増しの1本目",
+  "url": "https://zenn.dev/takumahayami/articles/eigyou-ai-mashi-1-shoudan",
+  "source": "Zenn",
+  "summary": "前回は、決めた回し方を「あなたが止まっても回り続ける型」として運用表に残す設計を書きました（あなたが止まっても回る回し方を残す）。表が回れば、人は入れ替わっても回し方が消えません。ここで導入は完了です。 ここからは、この回し方を土台にした**「導入1か月目に効く3つの増し」を書きます。1本目は、守り始めた余白を商談の…",
+  "publishedAt": "2026-10-03T12:50:20.000Z",
+  "image": "",
+  "categories": [
+   "case"
   ],
   "isPR": false
  },
@@ -236,9 +395,9 @@
  },
  {
   "id": "001826973c53",
-  "title": "【2027年卒就活生】就活で生成AI利用...3位「面接の準備」44.8%、2位「ES・履歴書の作成」46.7%、1位は？ - j-cast.com",
+  "title": "【2027年卒就活生】就活で生成AI利用...3位「面接の準備」44.8%、2位「ES・履歴書の作成」46.7%、1位は？ - J-CAST ニュース",
   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2SWJHR295VzduVlBFcVo2ZUlwWjlZcHRjTXVDQkgzd3Q1X2NXT0Q2dm1iZWNWZ3QzVXZMLTRBdEQ1ZFY1Qkdha1JweHJZZU1kRDhQdXhKa0w0Z0RrVFdKcA?oc=5",
-  "source": "j-cast.com",
+  "source": "J-CAST ニュース",
   "summary": "",
   "publishedAt": "2026-10-03T12:15:00.000Z",
   "image": "",
@@ -287,6 +446,20 @@
   "isPR": false
  },
  {
+  "id": "42040615ae13",
+  "title": "【godot-llm-gamebench】GPT-6 LunaはEffortによってどのように性能が変わるのか",
+  "url": "https://zenn.dev/oubakiou/articles/28ae9321d2c3c7",
+  "source": "Zenn",
+  "summary": "本記事は 実装タスクを外注するモデルは何が適切なのか？ミニゲームを実装させるベンチマーク のシリーズです。このベンチマークを読む上での注意点は以下を参照してください。 今回は親エージェントを claude-opus-5-5@medium、子エージェント（実装の外注先）を Codex CLI 上の gpt-6-luna…",
+  "publishedAt": "2026-10-03T11:33:18.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "176ce3e0286a",
   "title": "北朝鮮、発射のミサイルには「AIを導入、飛行軌道変更能力も」（毎日新聞）",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByMGpENWxNbENQQWV3bDRYM1hkbzNFVXBGdGxMM0tjTHM4NHlGMTR2QmhZdUtoZGh5UEFfbHBuQ3NucHdDZHZKel9fZjhSWVdMOHlqVm9SZjZYYTdPLXpnS0ZhcDBTcUpBUWs0cnMzel9jZHRZVTlkN2FmR0ZzY0U?oc=5",
@@ -296,6 +469,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "91c7b1b17d19",
+  "title": "日本語の名前を一括置換してはいけない — 敬称で置換スコープを切った話",
+  "url": "https://zenn.dev/shinsei99/articles/name-substitution-misfires",
+  "source": "Zenn",
+  "summary": "社内の書類を索引にして質問に答えるAIエージェントを運用しています。 契約書・報告書・業務マニュアルを全文検索し、根拠つきで答える、いわゆる社内RAGです。 ここに要件が来ました。 すでに退職した担当者の名前を、回答に出さないでほしい。 資料には当時の担当者名がそのまま書かれています。だから「この物件の担当は誰？」と…",
+  "publishedAt": "2026-10-03T11:04:58.000Z",
+  "image": "",
+  "categories": [
+   "business"
   ],
   "isPR": false
  },
@@ -397,7 +583,7 @@
   "id": "b1194e45769e",
   "title": "トランプ氏、ジェイ・クレイトン氏をホワイトハウスの人工知能担当「皇帝」に指名へ",
   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOakRacXd4Wk1ham5KTks3Q1ZxelBkVnA4NWpBX2JlNmtkcEtxbklLcFFXRFRzMmlmUFlGNXdGaXdIVlluOWVYai1RVTFtQzdKZ2ZUbmYtMzMwWFpUVHlQbnFLckNxNTVvRFhOLUJydFRvZlcwTjRHZVYzc3B6QlVDOG9uSTdtQU0tb0RVYjB1dFh2SHNOb3hnOUI2NDVTT2Ft?oc=5",
-  "source": "Informat.ro",
+  "source": "informat.ro",
   "summary": "",
   "publishedAt": "2026-10-03T10:20:50.000Z",
   "image": "",
@@ -777,7 +963,7 @@
   "id": "bbcb4de48ebd",
   "title": "OpenAIは、自社の人工知能エージェントに関連するインシデントについて、100を超える組織に通知した。",
   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0M4RHhsWU5TaDRLS2gwdHVQVjdhLWlrVnBqb3I5XzlGa3VsbkRSSGVVRkVFZEctWEZSYVo1bkl6UmwySGRjVTdpTDV2b2dLWkZSTXEtYkFsVkd2Wjk2Rkd4ZnJCV0xMM2g4YW5iREhrcWpXQ0tDV3hiWU82YWlicFNFRHctaE1zNmw3MzZOQjNzQndQOUVrQnR6SjZIMDg1MFFHZTQ1OEk5amdHNERQRHhZc1dKc19vSDYzMlln?oc=5",
-  "source": "Informat.ro",
+  "source": "informat.ro",
   "summary": "",
   "publishedAt": "2026-10-03T07:57:55.000Z",
   "image": "",
@@ -868,9 +1054,9 @@
  },
  {
   "id": "d45226ef297f",
-  "title": "デジタル化・AI導入補助金（旧IT導入補助金）とは？最大450万円・補助率1/2〜4/5・採択率44%【2026年10月最新】 - hojyokin-portal.jp",
+  "title": "デジタル化・AI導入補助金（旧IT導入補助金）とは？最大450万円・補助率1/2〜4/5・採択率44%【2026年10月最新】",
   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0ckhwdUEzVWs0c3RZaU5YcER1NzRGT0FGU2U2NGRoYmdYc2UyZjhUMzRvQ0tDbmhwUzNMVzJBb3JYY29Yak91UTZlS0tZN3ZZODQ5TGZxcDBva1FBTVFmTHYxQQ?oc=5",
-  "source": "hojyokin-portal.jp",
+  "source": "補助金ポータル",
   "summary": "",
   "publishedAt": "2026-10-03T07:43:55.000Z",
   "image": "",
@@ -1230,7 +1416,7 @@
   "id": "7e30ee7d5f9a",
   "title": "技術評論社『マルチモーダルモデル入門』発売 画像・音・動画・3次元データから統合モデルまで解説",
   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaUW5uQjNYQVpvZzg5Ny1ka2FoRjlMTk1DSkduRlBnaDkxZ3JkWFVDNlgwbm1CSW5wVE9YVThwMjdhM0N1a1VXZEhQQXVkSFRUME9sWnVwQ1BweWVQNllnNERXcw?oc=5",
-  "source": "Ledge.ai",
+  "source": "ledge.ai",
   "summary": "",
   "publishedAt": "2026-10-03T06:02:05.000Z",
   "image": "",
@@ -1599,7 +1785,7 @@
   "id": "0ecf57c69275",
   "title": "アップル、Ｍａｃのアクセス権限制御強化へ ＡＩリスク対策",
   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qck1fQmkxXzJyejlXZnZqZy0xVmM4alExb3UzcS1vVmM1dE5tN1ZLQ2I1OExKWF9UVnVyNGxMaDFlS3VweTE2LU9OS29xMUpkMU5hNWIxaGM3SVJPcWhPd29RSW1FRnNPMGpGNFRscVE4a0tBeHlGTW9n?oc=5",
-  "source": "jp.reuters.com",
+  "source": "ロイター",
   "summary": "",
   "publishedAt": "2026-10-03T04:57:00.000Z",
   "image": "",
@@ -1759,7 +1945,7 @@
   "id": "4171b610d5d5",
   "title": "画像5 / 14＞注射が怖い私を励ましてくれた「ChatGPT」！ChatGPTに「お兄ちゃん」になってもらったがキャラ変がひどい…!!【作者に訊く】",
   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16UjZ3aVdLNXRJWlZkZVB4aGxmN2liNG1BUDNJSGtqSlFBM1VibG55Y3hXdTdFMkh5OElvRF9lR0h1c1NlNWVRU2dlclEtTy16cFVLdHMweEhRR1ZkMWg0ZGdsN3d6b2ExOHhuS1lB?oc=5",
-  "source": "walkerplus.com",
+  "source": "ウォーカープラス",
   "summary": "",
   "publishedAt": "2026-10-03T03:38:24.000Z",
   "image": "",
@@ -1852,7 +2038,7 @@
   "id": "b8f2c3db7a4e",
   "title": "中国はAIとの恋愛関係を制限している。",
   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vbFg4cFRMb1hzazk5VEdORW5ndWVSY3Y3NDhYdzg2dFB0Umdxd0FLMGF4QTFWTXRmQmFEZUhpNFY5NFpzOFVlMEstTkZUeWFISEc4M001SmN3UlFubTJBV2RlRUJVbnlqNXlFRXp4TlpDMGxwZzc5VUxxMEk?oc=5",
-  "source": "Vietnam.vn",
+  "source": "vietnam.vn",
   "summary": "",
   "publishedAt": "2026-10-03T03:17:50.000Z",
   "image": "",
@@ -1946,7 +2132,7 @@
   "id": "a05cc4d59866",
   "title": "バーンスタイン氏がAI計算能力の急拡大に伴う半導体投資の示唆を明らかにする",
   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMFdtanQyc0xoOW5zMm9GMkdKRVcyUm01ckU4Tk1SalFLNGE3WnFkSXNvTkhwOTBZYUQ4RUFUUU9wZWtxQU5VZm9UT2doYVVfNGdkMlMwM3g2UldVVU1FX2JQeVl6WENCWmpzeEpHOHMwcjdqQ1dKc3FmVHRCcjdYNHV5Z0IzVkZobU5qUHI4SjZ0X3BDeGZiWDhYSVh2ejVNLXB0OV9Xdl96ck5ZVlEtMGpR?oc=5",
-  "source": "Moomoo",
+  "source": "moomoo.com",
   "summary": "",
   "publishedAt": "2026-10-03T03:06:07.000Z",
   "image": "",
@@ -2077,7 +2263,7 @@
   "id": "ce36b807f60d",
   "title": "OpenAIは、100以上の組織に対し、異常なAIエージェントの活動について警告を発した。",
   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ080bk5vamczSENKYnVQNDhnRDBQUXc5cUVsNWVPR1lHUjk4VUNyN0ZlOFNNSTBhdkNGQm5hMWZXTFhCaFNiclNvRjNLQ2c5OWdGSjFoUW5Yd1hiOHViRTdZakIxRHhoaXdiam9VeVA5VENvVkFWSlNCYXJfS1phM3ZDTUx1UnhDcVJ5T3VFR0xtVVVqTzZTUVAzcGZ5Zw?oc=5",
-  "source": "Vietnam.vn",
+  "source": "vietnam.vn",
   "summary": "",
   "publishedAt": "2026-10-03T02:55:05.000Z",
   "image": "",
@@ -2130,7 +2316,7 @@
   "id": "f74dc572655b",
   "title": "No.10 - 福岡発、Webサイトに「AIエージェント」を設置！ - 写真・画像(1/1)",
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vSlFILXVCSzhLZHBXcmtUSl84SlEyd1dacDlCQXNBSFVBV2VHOVFNMUdLMU5OTnFxZ2RhZlprVG1aT0ZpcFRtNHJYN2FKOHRYTGJ5V3lHWQ?oc=5",
-  "source": "nishinippon.co.jp",
+  "source": "西日本新聞me",
   "summary": "",
   "publishedAt": "2026-10-03T02:48:48.000Z",
   "image": "",
@@ -2432,8 +2618,8 @@
  },
  {
   "id": "5b98c1c91423",
-  "title": "管理職の6割がハラスメント恐れ“育成キャンセル”を経験…なぜ上司は部下を指導できなくなったのか？ 若手の8割は「率直な指導を求めている」調査も…“面談にAI導入”は救世主となるか (ABEMA TIMES)",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmJjRjFidDVJcmdVVXNnbmxOSEJjakd2dzlDSno4dFpCZUlNdFpVMGZtTmsyQ3pHcmhXVzY4b2N5OHJaTGtMci1WRS1UaDRqdGppSlhSLU5uVGgwdTdMQ0p1YnRILUU5bnp4Y1AzQXREZzY3dHFWb0dUUWM4SExISWhhMUs0RlhUV1hIc3FR?oc=5",
+  "title": "管理職の6割がハラスメント恐れ“育成キャンセル”を経験…なぜ上司は部下を指導できなくなったのか？ 若手の8割は「率直な指導を求めている」調査も…“面談にAI導入”は救世主となるか（ABEMA TIMES）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xUzlfOXpnNElXdXhrT19rdGpZLWZoaHpZV3VKTHJScEVaT2VPWmsxWHlGQW5qUDdoZ1hxcGpKRXozazBUNUhvN3hhclRsd0I4OG1kUy10cmo3OHR6anVlQjVIczN1eHFHMGVpZElCNERKXzV3ZlFnTHJMTzhuVXc?oc=5",
   "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-10-03T01:54:15.000Z",
@@ -2552,7 +2738,7 @@
   "id": "185ea3af47df",
   "title": "ChatGPTはクリニック探しの質問にどのサイトを引用しているか判明。「おすすめ」「評判」はどのサイトから？",
   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KWUFEak8xenhmNDl4NVRHNlpmbWRydE02cksxcmoteDU4aDdiVEkwYjQxZkk1YzFkc3pneUJGa1hHazN6N1FnbnVMVGdOeDk3NmhGMDFHOVFXUGtQ?oc=5",
-  "source": "マイナビニュース",
+  "source": "news.mynavi.jp",
   "summary": "",
   "publishedAt": "2026-10-03T01:22:16.000Z",
   "image": "",
@@ -2631,7 +2817,7 @@
   "id": "c123beb7a892",
   "title": "テクノロジー 3/10: GoogleがGemini 4 Argonをローンチ、OpenAIやAnthropicと競合",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0pWajJsSHEweTljM25nOGJsRnRESzJ3Z1dXUVdpSV94dWdjaXBZT0dNY2xqZnYyaHRZY3dQaE9YcWlidGVRaU9PMmI0SGt6T003RnB5R0dYanc0eGtvd3NCLWozQU53ZEVZblhmUGJfT0k4WEc4XzJlSVQwbTlpdWdLQVV5YWE0WGJVM0VwZHJlS0t0ZFVzOEpkOHlZQms?oc=5",
-  "source": "Vietnam.vn",
+  "source": "vietnam.vn",
   "summary": "",
   "publishedAt": "2026-10-03T01:09:54.000Z",
   "image": "",
@@ -3001,7 +3187,7 @@
   "id": "52c36dd0e73d",
   "title": "AIモデルのクロードとグロックは、イランにおける米軍の標的識別戦略を支援している。",
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYTBFcFNQY3hUNW1Sb3RwVk5sQklzNFVzMkdXN01BeS10a1hVRmRqSU9yWlIxZ0dSTE1lem9lYmxFRVIxX3dNa2tGMW5ld3dQMWxib2ZOMHdOLU1sd2gtMVJXNUpMbnhFQ25LbUJhejByU1R6TjdhZmxyN2p4c0tGVGxqdThxdmtNemE4RU9QTnJtNnFZallnbWRyYzh6Rm5hUU5HeGVnRnlESEx2RFg2YmtlZjZRV3hf?oc=5",
-  "source": "Vietnam.vn",
+  "source": "vietnam.vn",
   "summary": "",
   "publishedAt": "2026-10-03T00:07:36.000Z",
   "image": "",
@@ -3014,7 +3200,7 @@
   "id": "15fe325342df",
   "title": "トランプ大統領、主要AI企業と自主的な安全対策で合意 内部統制・外部監査を柱に",
   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GVlZpQWxVQi1GOF9SczBMVk1PYlRYc0FtTi1FQUhSc0JyeG50Qkx3QmFGVlhMWE1RTXNUeEVQcVJuaksxRHBoMFFHRk5tbm9WVmJsTHJRbzFidWRf?oc=5",
-  "source": "Ledge.ai",
+  "source": "ledge.ai",
   "summary": "",
   "publishedAt": "2026-10-03T00:06:49.000Z",
   "image": "",
@@ -3106,7 +3292,7 @@
   "id": "c4e3e224a31d",
   "title": "FPT TRANSFORM 2026：AI技術を実践的に体験できる機会。",
   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ3pRUy1xMXVJRjNqSDNKV2xINXhUTWtiS1lHb0FkNUF0Mm8tcG9rVnY3Wmprem1PZHItVmNObjNCSnhPbHJ6VjBmcEhpX2FKbmliekx4OEJQRGZCdGRvZ3RjOU5uVmd3N29GckZKdWJ0WE8wRWVuUkM4ZGlmXzRzdQ?oc=5",
-  "source": "Vietnam.vn",
+  "source": "vietnam.vn",
   "summary": "",
   "publishedAt": "2026-10-02T23:55:31.000Z",
   "image": "",
@@ -3385,9 +3571,9 @@
  },
  {
   "id": "28a7d4810cd8",
-  "title": "【AI・IoT・DX】Huawei：企業向けAI導入を支える5つの新ソリューションを発表、O3プラットフォームのサービス機能も高度化",
+  "title": "【AI・IoT・DX】Huawei：企業向けAI導入を支える5つの新ソリューションを発表、O3プラットフォームのサービス機能も高度化 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84aC03T2R4Yi05RFExQkhGRU5uU21XSWhIQW83MW1ONEtBMThXbFE3Mmw5WTJNck4tT2FOQmdFVnFyWjAzZ2ZLTmRUOWlZUWFEdU5jNkFEU0F6aGdWb1U2Ty1oOXZTVmwtc21Rcm9NeUFXQQ?oc=5",
-  "source": "みんなの広報宣伝部",
+  "source": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
   "summary": "",
   "publishedAt": "2026-10-02T22:54:09.000Z",
   "image": "",
@@ -3398,9 +3584,9 @@
  },
  {
   "id": "542c6f4dac67",
-  "title": "【AI・IoT・DX】Huawei：産業向けAI導入の7段階手法と「DIMAK」を発表、実証から基幹業務への展開を支援",
+  "title": "【AI・IoT・DX】Huawei：産業向けAI導入の7段階手法と「DIMAK」を発表、実証から基幹業務への展開を支援 - xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12UHhsQnp1WjBGNnp1SDBHR2tjeWRDUHlJV3JaNEFXVTJYU0ExZlliRkdmYmhBLTVfdGppUVkzRUhjY1NZdzFBMGlWdzNBb2Y0RWpmT3ZvNFdMd0tWaC1Wb3Nqc0VWc0VuLXZiSVE4Z250UQ?oc=5",
-  "source": "みんなの広報宣伝部",
+  "source": "xn--q9ji3c6d676qnnlo0fgmgrr6k.com",
   "summary": "",
   "publishedAt": "2026-10-02T22:54:09.000Z",
   "image": "",
@@ -3439,7 +3625,7 @@
   "id": "355f52617420",
   "title": "製造業の品質不具合をAIで未然防止へ。JINGS代表・三上春香が8月28日開催「現場改革＆DX推進ウェビナー」に登壇",
   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80NDl6OXFCekJSLUN6YjBNNXY1MGZyNHlEQlJKQ3ktdVlxZVBlZFNuY3NEd2I0aWV2b1RkSDJkU3B3QmlDQ04zZGNWbkdFVmdOUUxiUUM3VG1hTEE?oc=5",
-  "source": "朝日新聞",
+  "source": "asahi.com",
   "summary": "",
   "publishedAt": "2026-10-02T22:36:02.000Z",
   "image": "",
@@ -3452,7 +3638,7 @@
   "id": "9559fc98f80f",
   "title": "焦点：虚偽説明や失敗隠しも、中国系ＡＩエージェントにも「暴走」リスク",
   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85aFBUdUl1MzhkYWlmV3J2Rm9uRkExeWF1eTZKNTNoVFp6TDV3UnFhR0p4V0drd3hWR2xTZXRmLS00ZFJJSi1yNGE4SG5ucXdoWV8tV2tmbFo5aENXOTluVGsxQUZxYXpUUVFQa3k4em5fN0xjUkJJeXczOXRwdw?oc=5",
-  "source": "Reuters",
+  "source": "reuters.com",
   "summary": "",
   "publishedAt": "2026-10-02T22:32:36.000Z",
   "image": "",
@@ -3767,7 +3953,7 @@
   "id": "4ca67fca7645",
   "title": "米国家情報長官がＡＩ責任者か 兼務と報道、規制に否定的見解",
   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EdWVKMDJIZjFQLVhWLXk0anA0TV9NN0FLdjRLRzFPRnpEbkxOUGNqcW81b1luMFppaXgzVUE0TkJnSW0tNVlQU21ENmhWOUt5TE51THRIajZXOXc1?oc=5",
-  "source": "琉球新報デジタル",
+  "source": "ryukyushimpo.jp",
   "summary": "",
   "publishedAt": "2026-10-02T21:51:31.000Z",
   "image": "",
@@ -3857,7 +4043,7 @@
  {
   "id": "23ab20940ce8",
   "title": "高度なAI技術を導入するほど浮き彫りになる、旧来型組織規律の限界",
-  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByc3N0ZzZHdC1wajdaSTJYaDhhSnhDSjltNDBqV1Q4b0x0ZUdjRU5TOXR0NUtfZ1BCS0w2VDE2eGQwUVF0eWJsc1BUYzVTS1hzTDVtZ2I3NTEwNWhpY0xZSmpxZGJCNlozSHVKaA?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ES1BjWHJob0Qtc2FVb1pnZGFWYkotcnBhRmsyQWFxWkxVWmtxUVYyNDRtcm11ZlNXZE1JQklLUUMtdjE5UnFpZlljNFNtdWpBZVQzeHZR?oc=5",
   "source": "newspicks.com",
   "summary": "",
   "publishedAt": "2026-10-02T21:25:42.000Z",
@@ -3988,9 +4174,9 @@
  },
  {
   "id": "27a683914253",
-  "title": "生成AIニュース 昨日【2026年10月2日（金）】のAI公式発表を3分でチェック",
+  "title": "生成AIニュース 昨日【2026年10月2日（金）】のAI公式発表を3分でチェック - tech-noisy.com",
   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92LWR3bjN6dWZVZWkyNUJVVnRseE5aTFY4ZG44M25wNHd4VWMtYjFnVnRabEQ2WktzYllhRGNOOFBydDVHYVRVRFRTZHM0QkFEQk9DU0lDbkctVkV5b2hBR3gtX2s0Tm5OYWtr?oc=5",
-  "source": "TECH NOISY",
+  "source": "tech-noisy.com",
   "summary": "",
   "publishedAt": "2026-10-02T21:01:56.000Z",
   "image": "",
@@ -4003,7 +4189,7 @@
   "id": "21e70c002229",
   "title": "いまだにFAXが使われる介護現場のAI導入に何が必要なのか #結城康博",
   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90V3BKWHU4aS11SV9zVzNrbDZ1MUZNY1J2cW9IUm41Y0lZU01DYTI0M1JmcXRIVGRSX0JHWUhLTjZpQW1hQTlMOUNVcXRIVk93?oc=5",
-  "source": "新潮QUE",
+  "source": "que.dailyshincho.jp",
   "summary": "",
   "publishedAt": "2026-10-02T21:01:52.000Z",
   "image": "",
@@ -4186,7 +4372,7 @@
   "id": "22991174186f",
   "title": "ソフトクリエイト、マイクロソフトのパートナー認定「Secure AI Productivity」Specialization を国内で先駆けて取得",
   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jMWotOU9WRnFUeXk3c2V3Z21OY0dJZTlVSFBZMGVaZGYxanc0Q0w3Tm05UXZmQ25yMGJ6Tk56UzdHVUxWRTJiRzhMYVR6TUt0WFpfSHgxLWxQVVU?oc=5",
-  "source": "朝日新聞",
+  "source": "asahi.com",
   "summary": "",
   "publishedAt": "2026-10-02T20:26:10.000Z",
   "image": "",
@@ -4515,7 +4701,7 @@
   "id": "86bba11652a7",
   "title": "Broadcom株、600億ドルの資金調達でAIチップ生産とAnthropicとの提携を強化し3%超上昇",
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEk0TU55ZTkwVEV5d0R3bUlnd2tPdXlsQjRIbEYwS3ZRQVVSVWYxY2ZDV2txZHBwaHhaVm5PNk9hN2dnOFc2SllmS3JzNFRFZ1cxWVhCcTlrb3ljcDIwVm81cHhodmFkeEpFT25QQW8xT0dFYmN5bHVQNk9zMGczVW13aVF3YTJYbFI4a0xZWWQtUUJ6UGpMTg?oc=5",
-  "source": "tradersunion.com",
+  "source": "Traders Union",
   "summary": "",
   "publishedAt": "2026-10-02T18:39:42.000Z",
   "image": "",
@@ -5280,7 +5466,7 @@
   "id": "ed32dc27517a",
   "title": "OpenAIは、業務効率の向上を支援するAIアシスタント「Dots」を発表した。",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWJMWXZWR0Q2V0dOdDJLOERHTWdBcExlR3hVakNFNlBnYmJXdTJjOUFIcDhFVVcxOXhIZ2ZUNnl4Q1F1Y1lHcXh4QWg1b01sS3FvM3RxN0JBa21HVzc2LUxXazY0ZmROam5XYlhIemxTM0hoMjVhWnlLRDlSeER4MjRsRzRSTHU3Z3k3NA?oc=5",
-  "source": "Vietnam.vn",
+  "source": "vietnam.vn",
   "summary": "",
   "publishedAt": "2026-10-02T15:08:30.000Z",
   "image": "",
