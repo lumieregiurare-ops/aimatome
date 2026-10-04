@@ -1,5 +1,18 @@
 [
  {
+  "id": "dabb43ea4801",
+  "title": "中学生でもわかる Lean 4 #17｜AIの証明を壊してみよう",
+  "url": "https://zenn.dev/dantarg/articles/lean4-break-ai-proof",
+  "source": "Zenn",
+  "summary": "前回の #16「AIが書いて、Leanが検査する」 では、AIが作った候補とLeanの検査結果を分けて読みました。 AIに、こんな答えを作ってもらったとします。 すべての自然数は0である。 長い説明とLeanコードも付いています。 でも、全部読む前に一つだけ試してみます。 1を入れたらどうなる？ 「すべての自然数は0…",
+  "publishedAt": "2026-10-04T14:53:28.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "4f0c4c558b71",
   "title": "Choice・Score・Noulで判断を構造化するDecisionsApiの使い方",
   "url": "https://qiita.com/paidx2006/items/93bf21fbf0c0570b4748",
@@ -9,6 +22,72 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c46e1bb9bce3",
+  "title": "Claude Code に任せた作業を横で見て確かめる macOS アプリ「tanacode」1.0.0 をリリースしました",
+  "url": "https://zenn.dev/tanashun/articles/tanacode-v1-release",
+  "source": "Zenn",
+  "summary": "Claude Code（claude CLI）と IDE をひとつのウインドウにまとめた macOS アプリ「tanacode」を作り、最初の正式なバージョンとして 1.0.0 をリリースしました。 https://github.com/sny-tanaka/tanacode コードを書くのは Claude に任せて…",
+  "publishedAt": "2026-10-04T14:45:07.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e7428891bdcd",
+  "title": "ROS 2開発でAIエージェントに実機を触らせないための権限設計",
+  "url": "https://zenn.dev/robo_agent_dev/articles/ros2-ai-agent-hardware-boundary",
+  "source": "Zenn",
+  "summary": "「テストしておいて」が実機操作にならないようにする AIコーディングエージェントに、コードの調査、修正、テストを任せたい。ROS 2の開発でも、そのように考える場面はあると思います。一方で、開発用PCから実機へ通信できる環境では、「動作確認」の一言がどこまでの操作を意味するかを決めておく必要があります。 私はロボット…",
+  "publishedAt": "2026-10-04T14:44:13.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d39aed1e03f7",
+  "title": "Claude Code サブエージェント組織 実践ガイド",
+  "url": "https://zenn.dev/yorusuzu/books/claude-code-agent-org-guide",
+  "source": "Zenn",
+  "summary": "Claude Code に7つのサブエージェントを置き、メインセッションをPMにして調査・企画・制作・レビュー・公開までを回している実際のリポジトリをもとに、役割分担の設計、CLAUDE.md のワークフロー、ファイル経由の受け渡し、公開承認のガードレール、失敗例、コピーして使えるエージェント定義テンプレートをまとめ…",
+  "publishedAt": "2026-10-04T14:41:14.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f9e11a810145",
+  "title": "AIの「解は一意」を点検する：存在と「高々一つ」を分けよう",
+  "url": "https://zenn.dev/matsuteru/articles/ai-proof-existence-uniqueness",
+  "source": "Zenn",
+  "summary": "AIから「したがって解は一意です」という証明案を受け取ったとき、その直前までに解があることも示せているでしょうか。 「二つの解を取ると、それらは等しい」と分かっても、解が一つもない可能性は残ります。この記事では、実数の方程式 ax=b を使い、存在・高々一つ・一意存在を分けて点検します。 AIの証明案をLean 4で…",
+  "publishedAt": "2026-10-04T14:37:28.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d8b7fbcd43e1",
+  "title": "Claude Codeのhooksで作業を自動化する",
+  "url": "https://zenn.dev/tomsolog/articles/20261003-claude-code-hooks-automation",
+  "source": "Zenn",
+  "summary": "この記事でわかること hooksが、CLAUDE.mdとは違う「Claudeの判断を介さず実行される」仕組みであること ファイル編集のたびに自動整形する、実際に動く設定 hooksが効かない場面と、向いていない用途 設定を書く場所と、CLAUDE.mdとの違い 結論：hooksはClaudeの判断を介さず実行される仕…",
+  "publishedAt": "2026-10-04T14:35:56.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -40,6 +119,19 @@
   "isPR": false
  },
  {
+  "id": "2779a20c0553",
+  "title": "AIエージェントの機能を消さず、自己改善で「最初に読む情報」を42%減らした",
+  "url": "https://zenn.dev/c_a_p_engineer/articles/tsuzuri-agent-core-honing-20261004",
+  "source": "Zenn",
+  "summary": "AIエージェントを長く育てると、できることが増える一方で、ルール・作業手順・記憶・テストも増えていきます。 全部を毎回読ませれば安心ですが、関係ない情報まで抱えて重くなります。だからといって、大きいものから削ると、必要な能力まで消えるかもし…",
+  "publishedAt": "2026-10-04T14:15:07.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "59675d9e3977",
   "title": "世界モデルとは何か？ ― AIが「頭の中」で未来を試してから動く仕組み",
   "url": "https://qiita.com/aokikenichi/items/d3309a2082c33fa8e6e2",
@@ -59,6 +151,19 @@
   "source": "Межа. Новини України.",
   "summary": "",
   "publishedAt": "2026-10-04T14:13:43.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "772ffc118bc9",
+  "title": "ティボ・ソティオー氏：ChatGPTの「スリーパーヒット」は消えゆくオープンエコシステム",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43c0RrT0JWN0xDSzZpSVhMNVRfQVhFLTktdVBRaW9SblBoYmE4Y0FjT1RkRnhUNUk2UmlkLVNhNVFnVkliMXdOYUhBMHZLZElWZnRIVXU1SkNSUQ?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-04T14:08:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -101,6 +206,33 @@
   "image": "",
   "categories": [
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c752f50a11de",
+  "title": "自律的に24時間稼働するAIエージェント「dots」をOpenAIが発表 GPT-6 Astra搭載で業務環境に革新",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NaHJKallOTFpxYXZFd1VQU0RhQVZfbmdGdU1sSmVyR3A2SE5wRmlnSGpqcG95UGgyN0VoaDFjTWN2RnNoczJ4bkhBX2JjMFFnT3pz?oc=5",
+  "source": "東京報道新聞",
+  "summary": "",
+  "publishedAt": "2026-10-04T13:56:14.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7ce2edd2f397",
+  "title": "日本語入力システムSumibiの開発 part29: Jevは変換のタイミングを決められるか",
+  "url": "https://zenn.dev/kiyoka/articles/japanese-input-method-sumibi-29",
+  "source": "Zenn",
+  "summary": "はじめに Emacs版Sumibiのアンビエント変換は、変換キーを押さなくても、助詞や句読点などをきっかけにローマ字を日本語へ変換します。便利な一方、入力した文字が英語なのか、まだ続く日本語なのかを、単純なルールだけで見分けるのは難しいところがあります。 そこで今回は、TypeSafeのJevに「いま変換を始めるべき…",
+  "publishedAt": "2026-10-04T13:45:49.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -158,6 +290,32 @@
   "isPR": false
  },
  {
+  "id": "78dbdce5a7a2",
+  "title": "1ヶ月で腐るのはリストの中身 — 余白30分の「鮮度管理」を運用表に足す設計",
+  "url": "https://zenn.dev/takumahayami/articles/eigyou-ai-list-senjuu-naigai",
+  "source": "Zenn",
+  "summary": "前回は、守った余白を商談の質に変える増し方を書きました（守った余白を商談の質に変える）。診断の15行棚卸しで「遅い・外れる・聞けない」を1つ直せば、増し1本目は完成です。 増しの2本目は、余白を見込み客リストの鮮度に変える増し方です。 リストが腐る3つの型 見込み客リストは、保存した瞬間から寿命が始まります。何もして…",
+  "publishedAt": "2026-10-04T12:51:13.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d90abaa0b204",
+  "title": "AIモデルのコスパを1枚のグラフに：性能スコア×API料金で見る23モデル（2026年10月）",
+  "url": "https://zenn.dev/yunany90/articles/4d74d9921d03b3",
+  "source": "Zenn",
+  "summary": "AIモデルを選ぶとき、つい「高いほうが賢いはず」と考えがちです。そこで、AIモデル23種の性能スコアとAPI料金を1枚のグラフにまとめてみました。結論は、高いモデルが賢いとは限らない、です。1位のモデルは2位の約半額で、1位の5%の料金のモデルが1位と13ポイントしか違いません。 性能スコアは Epoch AI の …",
+  "publishedAt": "2026-10-04T12:47:40.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "a4a6681ca41f",
   "title": "最強の無料動画生成AIツール5選【 2026 年版】",
   "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPSGg0SWFnNDZIeWZzRjNEVXBEYmh5bHpUX05WLUIyRGZkM3B1VDJWS0l5MURIaU00ZW1rcmN4ck5qNzYySE5IbnJreWJEeGdHSzJQYks5cEZrcG5mZ3BoT2JPR1BEWF81WWxIOUdySGF6UDk1aDNQLTE5dGtMcmx3ZjB3QkZYMlpLWEhwNW1VR2tNR3FxS2tqSzBOVkdja25RUTQ4dVpHMmtteXlOOE9Wd2FkYVktRDBldDFHSFdkZS15bEhfT01TYjNhUlZLbGlLOVpLWGRlTlVMNExJQVhMOWtnamowZXVQb3AyNHBnUjRLaTV1Nk5OeUVtN2pCSkM0akI1RVIwTWV4akxjcHctcFBvaUNnajJIREx2ak5pMGRLVVp4YjB3bnQtUTVZQTUwcDltMjJ0VWpveXE4UXNaLTJuVU11NUZReklKSFdyY3ZKbjZFVU51cnU5ejRMTDBHVy1DRTZRU2d4eUE?oc=5",
@@ -179,6 +337,20 @@
   "publishedAt": "2026-10-04T12:43:02.000Z",
   "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fyoshiki_shibata%2Fn%2Fn185f3d9e13bc",
   "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bfdb5dcc0881",
+  "title": "Claude Codeのフックをプラグインに入れると何が変わるか【mods入門②】",
+  "url": "https://zenn.dev/yando/articles/feeef45a8a8af0",
+  "source": "Zenn",
+  "summary": "はじめに Claude Codeのmodで何が作れるのか、全体像をつかむために、土台から順に手を動かして確かめるシリーズの2本目です。 modは「プラグインの形で書く」と説明されているので、mod本体に入る前に、プラグインという入れ物を確認します。 前回はsettings.jsonにフックを書きました。 今回は同じフ…",
+  "publishedAt": "2026-10-04T12:40:49.000Z",
+  "image": "",
+  "categories": [
+   "product",
    "dev"
   ],
   "isPR": false
@@ -206,6 +378,20 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0d7d745d0abc",
+  "title": "Claude Codeのフックで、ツール実行の直前にコマンドを走らせて止める【mods入門①】",
+  "url": "https://zenn.dev/yando/articles/f96e4c986449c6",
+  "source": "Zenn",
+  "summary": "はじめに Claude Codeのmod(画面にペインや通知を足したり、処理を差し込んだりする拡張)で何が作れるのか、全体像をつかみたくて調べ始めました。 modはプラグインの形で書く「関数フック」だと説明されているので、いきなりmodを触る前に、土台になるフックとプラグインから順に手を動かして確かめるシリーズにしま…",
+  "publishedAt": "2026-10-04T12:37:30.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
   ],
   "isPR": false
  },
@@ -249,12 +435,38 @@
   "isPR": false
  },
  {
+  "id": "6d0982590389",
+  "title": "Claude Code を複数セッション並行で回すと「止まる」理由と、止めないための運用",
+  "url": "https://zenn.dev/robo_agent_dev/articles/claude-code-parallel-sessions",
+  "source": "Zenn",
+  "summary": "Claude Code を1つだけ使っているうちは困らないのに、5〜10個のセッションを並行で回し始めると、 「いつの間にか止まっていた」「送ったはずの指示が無視された」が頻発するようになりました。 複数セッションを並行運用しながら原因を一つずつ潰してきたので、 止まる理由の分類と、それぞれの対策をまとめます。 結論…",
+  "publishedAt": "2026-10-04T12:24:59.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "8e2c553c3b0a",
   "title": "OpenAI Dotsは人間よりパソコン操作が上手 その結果、何が変わる？",
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Xbks2M1hEeVQ5ejZRX1lxWkNCZ0RfNnUtbUVXTksxTkpyWTJhX3AwcG1NZEhvVjd4bDd4Q1VXc2lBWFVHNGtNZUFzTV9nb0c1Ni1oN0FuVlJFMFdvRktvelpvT3NMUQ?oc=5",
   "source": "株式会社エクサウィザーズ",
   "summary": "",
   "publishedAt": "2026-10-04T12:24:52.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dcab6190a9d9",
+  "title": "月2,500件のPRはどう回っているのか：pstack作者 Poteto さんと Matt さんの対談まとめ",
+  "url": "https://zenn.dev/yukkie1114/articles/poteto-pstack-2500-prs",
+  "source": "Zenn",
+  "summary": "この記事は、次の対談動画の要点と、私の振り返りをまとめたものです。 はじめに スキル集 pstack の作者である Poteto（Lauren Tan）さんと、Total TypeScript や、grill-me、grill-with-docs、wayfinder といったエージェント向けスキルの作者として知られる…",
+  "publishedAt": "2026-10-04T12:23:36.000Z",
   "image": "",
   "categories": [
    "other"
@@ -565,33 +777,6 @@
   "isPR": false
  },
  {
-  "id": "c752f50a11de",
-  "title": "自律的に24時間稼働するAIエージェント「dots」をOpenAIが発表 GPT-6 Astra搭載で業務環境に革新",
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NaHJKallOTFpxYXZFd1VQU0RhQVZfbmdGdU1sSmVyR3A2SE5wRmlnSGpqcG95UGgyN0VoaDFjTWN2RnNoczJ4bkhBX2JjMFFnT3pz?oc=5",
-  "source": "東京報道新聞",
-  "summary": "",
-  "publishedAt": "2026-10-04T10:30:00.000Z",
-  "image": "",
-  "categories": [
-   "model",
-   "product"
-  ],
-  "isPR": false
- },
- {
-  "id": "dfe46f720767",
-  "title": "AIエージェントをローカルで動かす",
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ORG1ZMWIycVRiQzZWODhCNVVjZzA2TGh6S3owaUJTMk9yYUM5RVpzbFkwSUlXMjN5WHk2THNxa3lrczBZMHFVMk5yTHYyS2VXLXVBb2hkYVVIZ0V0VXFNakZ1Q21Ldw?oc=5",
-  "source": "日経クロステック（xTECH）",
-  "summary": "",
-  "publishedAt": "2026-10-04T10:29:48.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "f8e81db72e41",
   "title": "AIに実装を頼む前に、決めておきたいこと",
   "url": "https://zenn.dev/ryuyanishino/articles/ai-dev-workflow",
@@ -888,7 +1073,7 @@
   "id": "49f4ea4e8c76",
   "title": "AI、バグ探しで研究者に助言求む",
   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ3Jvby1KMGpDR3NzcmFXMUZCVDBoVnJ6cGNOamtsYVhmV1hROXJDLTlZZ0hBbk5MZjRaQTQ1Zm1fZGFZZ2NTYVFJclhmd3laWU9hS3M5MDY5MEtyeWxrOTFBcUNGRHJpaWRWZXoxU0owLS00b3Yzb2c1UVdScld4Sw?oc=5",
-  "source": "chosun.com",
+  "source": "조선일보",
   "summary": "",
   "publishedAt": "2026-10-04T09:21:00.000Z",
   "image": "",
@@ -1746,6 +1931,19 @@
   "source": "ja.martincid.com",
   "summary": "",
   "publishedAt": "2026-10-04T06:08:17.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f11678d30aa0",
+  "title": "あの本、読みました？AIが登場するヒット小説「本心」平野啓一郎が語る創作の未来",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11X1llRklfSktidkhBOF9mRjVDajdCV3F2aXZVWjZ5NjNsd2E0LWZUTEc3eDlOaG1rNE51TENDQW5DbjhzRzBsUlhqM2JJWUVxMGxxWjhtek1nOGxJZzhCYkdRQQ?oc=5",
+  "source": "TVO テレビ大阪",
+  "summary": "",
+  "publishedAt": "2026-10-04T06:00:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -3633,7 +3831,7 @@
   "id": "642859a1e647",
   "title": "玉川温泉にAIペットロボット「Moflin」 湯治プランで実証導入",
   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mZFRHWDVudEFJdjRMTVBYeVB3eEE2YkhRU1hXRi1YMUFiMEg4Y3hmLUFXakR1eGpTV1E0UVEwR1pkZnNJakNGcmo2VVFIbzRLdWRKSTFHV2p1VEFpeE9UaFl0N3h2cFFBS0RJRy1xa3NtWVBuOHJWeEdB0gF_QVVfeXFMTS1Lb3ROdmNOeVB5YXc4SkNKeG0zNjJjSk9ZYm93MVVEUDhUajNEMXZuZGM5d2hsVUF0Z2x6LVQxeXZiQjJvN1BfTmlBTjFSTzRVNEEyVDZ0dUhIMGdYX2dzaE1wS3pxbXVPMFc5MEtsdzA3dDFGWnpKYUxmaHh4QQ?oc=5",
-  "source": "ｄメニューニュース",
+  "source": "topics.smt.docomo.ne.jp",
   "summary": "",
   "publishedAt": "2026-10-03T23:03:00.000Z",
   "image": "",
@@ -3816,7 +4014,7 @@
   "id": "01471765dd8c",
   "title": "北朝鮮が「中距離戦略ミサイル」発射訓練の実施を発表 ミサイルにはAIを導入か",
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rYTBDWkxDbl9NYzRaUGgzZHVUeXViaXd0OXZaZW4wSEEzOXZBM1Q5NUZaeHQtZjVPS0NXaHdZV0ZHRFh4eWgwYS1RR0hVbnMzZXBPaXdrMA?oc=5",
-  "source": "newsdig.tbs.co.jp",
+  "source": "TBS NEWS DIG",
   "summary": "",
   "publishedAt": "2026-10-03T21:58:20.000Z",
   "image": "",
@@ -3898,6 +4096,19 @@
   "source": "sanyonews.jp",
   "summary": "",
   "publishedAt": "2026-10-03T21:28:47.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3032ebd6f5e0",
+  "title": "資本より深刻なスキル枯渇の障壁 CEOの7割が直面するAIリスキリング不足",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hVE5rZTZVNlI5NnpzOFRaaFZUZUl4TTdDVjE3SlRFTHNYMUJBeTltREE0dXNWRGdQb2pNU0dXMl9rd2Q1Ym96b3JhREt3QWtPQ2dqb3hDdTNEaWFDdjlEQVRn?oc=5",
+  "source": "newspicks.com",
+  "summary": "",
+  "publishedAt": "2026-10-03T21:21:18.000Z",
   "image": "",
   "categories": [
    "other"
@@ -4517,6 +4728,19 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dfe46f720767",
+  "title": "AIエージェントをローカルで動かす",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ORG1ZMWIycVRiQzZWODhCNVVjZzA2TGh6S3owaUJTMk9yYUM5RVpzbFkwSUlXMjN5WHk2THNxa3lrczBZMHFVMk5yTHYyS2VXLXVBb2hkYVVIZ0V0VXFNakZ1Q21Ldw?oc=5",
+  "source": "日経クロステック（xTECH）",
+  "summary": "",
+  "publishedAt": "2026-10-03T16:29:48.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
