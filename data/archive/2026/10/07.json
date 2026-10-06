@@ -1,5 +1,150 @@
 [
  {
+  "id": "54ffdb4ab994",
+  "title": "道路損傷をAIでリアルタイム検知、首都高技術とシャープが実証実験",
+  "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02780/",
+  "source": "日経クロステック",
+  "summary": "首都高技術（東京・港）とシャープは、パトロール車両に搭載したカメラで走行中の道路を撮影し、舗装の穴やひび割れ、路上の落下物などAI（人工知能）でリアルタイムに自動検知する技術の実証実験を、2026年10～11月に首都高速道路で実施する。自動検知した損傷などはクラウドを介して管制所の担当者に通知し、必要に応じて緊急対応…",
+  "publishedAt": "2026-10-06T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "eeabf7e4a0a4",
+  "title": "あいさつ用AIエージェントを作る、動きを定義する「指示」欄のポイント",
+  "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03776/093000003/",
+  "source": "日経クロステック",
+  "summary": "では実際に、AIエージェントを作ってみましょう。ここで作るのは、「あいさつエージェント」という、あいさつを返すだけのシンプルなエージェントです。「こんにちは」などと話しかけられたとき、朝なら「おはようございます」、昼なら「こんにちは」、夜なら「こんばんは」と返します。",
+  "publishedAt": "2026-10-06T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "253a0025d71e",
+  "title": "「コンサルVSエンジニア」「華麗なプレゼンVS実直な実装」、対立原因は同一",
+  "url": "https://xtech.nikkei.com/atcl/nxt/column/18/01195/100500135/",
+  "source": "日経クロステック",
+  "summary": "「コンサルが絵に描いた餅」「開発遅れでバックログの山」「低品質データとの格闘」「AIによるデータ枯渇問題」。いずれもよく報じられてきたことだが、4点の根本原因も解決策も同じではないか。この仮説を述べてみる。",
+  "publishedAt": "2026-10-06T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0c23134b1b83",
+  "title": "溶接中の異常をAIで即時検出、アークやスパッタを透かして撮像",
+  "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12060/",
+  "source": "日経クロステック",
+  "summary": "分析屋（神奈川県藤沢市）は溶接の加工点を撮像し、AIによって不具合の有無をリアルタイムで分析するシステム「SAMURAI Analyzer for Welding」を開発した。強い光などで通常は見えない加工点の様子を画像で把握し、リアルタイムで計測する。",
+  "publishedAt": "2026-10-06T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2822bbdd9e39",
+  "title": "みずほもライオンも選んだ中国AI、日本企業に浸透 コスト20分の1の衝撃",
+  "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03782/100500001/",
+  "source": "日経クロステック",
+  "summary": "中国のオープンウエートモデルが注目されている。ユーザーが自前の環境で動かせるため、GPU（画像処理半導体）の利用コストだけで済み、トークン利用料がかからない。情報漏洩の危険性も少ない。独自モデルのベースにしたり、追加学習したりといったカスタマイズも可能だ。",
+  "publishedAt": "2026-10-06T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "aa932fa16d7a",
+  "title": "OSSで変わる行政AIエコシステム、AIエージェントは自治体を救えるか",
+  "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03777/100500003/",
+  "source": "日経クロステック",
+  "summary": "大分市は2026年10月1日から生成AI（人工知能）サービス「Oita GENAI（おおいた げんない）」の運用を開始した。デジタル庁が生成AI利用環境「源内」の一部として公開したオープンソースソフトウエア（OSS、以下源内OSS）を基にした。",
+  "publishedAt": "2026-10-06T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e36fdcecdc3b",
+  "title": "京都銀が粉飾見抜くAI内製、10年分・200件の決算書から 不正取引検知も",
+  "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12036/",
+  "source": "日経クロステック",
+  "summary": "京都銀行は「粉飾検知モデル」「不正取引検知モデル」という2種類の機械学習モデルを開発した。背景にあるのは決算書の粉飾件数の増加や、特殊詐欺やマネーロンダリング（資金洗浄）といった口座悪用のリスクの高まりだ。AIの視点も入れることで検知を強化・多層化し、不正をより確実に見抜くことを目指す。",
+  "publishedAt": "2026-10-06T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b30ed92da27f",
+  "title": "材料・部品メーカーに攻め筋を提案、フィジカルAI分野への参入機会",
+  "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03747/100500003/",
+  "source": "日経クロステック",
+  "summary": "技術開発の進展と市場拡大が見込まれる「フィジカルAI」。次の成長分野と捉える日本企業は増えている。だが、何を開発したらよいか、どこにビジネスチャンスがあるのかと悩む企業が少なくない。世界の先進企業の特許に基づく分析を行った知財ランドスケープ代表取締役社長CEOの山内明氏に、フィジカルAIに着目する理由やビジネスチャン…",
+  "publishedAt": "2026-10-06T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2ab55788b11b",
+  "title": "サム・アルトマン描く映画『Artificial』、なぜAmazonは配給を断念？OpenAIとの関係に注目",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJYUhmX1dSQ2RPaGlmOGctclN4a0hqUFV5RlV1UGNkYmFzNVVSUUhOb2V6WTcwRkpmazZvOG10NUhpVWxKd3dHaGhnWFBGYldMYXBV?oc=5",
+  "source": "ハリウッド・リポーター・ジャパン",
+  "summary": "",
+  "publishedAt": "2026-10-06T19:52:04.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "78cc55e6dea6",
+  "title": "レシートの裏側：消費税からの脱出",
+  "url": "https://qiita.com/lemonIN/items/f9417c015c59b55559f7",
+  "source": "Qiita",
+  "summary": "企画概要 ある日突然、あなたは買い物を済ませたばかりのレシートの中に閉じ込められてしまいます。そこは文字と数字、記号だけで構成された奇妙な世界。商品名、金額、税率、合計金額、店名、日付、バーコード……レシートに書かれたあらゆる情報が、外...",
+  "publishedAt": "2026-10-06T19:37:40.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5f2e63c0439e",
+  "title": "AI開発「減速論」の落とし穴、安全規制が巨大企業の既得権を守る危険と米中軍拡競争",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9WMmZFOUVROW1CSUd3ckUwODgwc0dNYzZ3QllOaWdOdmE2NFktUUs0RUhUa3dDTU9SeWJUMFcxY3pGa1BKS012eEdpOEHSAU9BVV95cUxOczNsNy1IMUk1d2E0Y1NGMkFiOGo2RFF5aHVYclBiZ2FKelpNVzEyRjcxS2tjcnRRcVI4TGlHc0pOUXNvV2VwMEZkd1htektr?oc=5",
+  "source": "ダイヤモンド・オンライン",
+  "summary": "",
+  "publishedAt": "2026-10-06T19:30:00.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "0edccbd2c68f",
   "title": "OpenAIが議会で謝罪、オーストラリアの暴走事故「対応不十分」",
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Id0ZHTWwyUHhyendmY1VOTGloLWlrWFlYSlhFTktrOGM1bFUwcHpHU1ozdkVlVDg3NWpUa2tYaklScGtXM0lyc3AwNGxyb0dkYW8xUGMtbEx4dXB2STR0aTl2ZHJkQ1d5b210eg?oc=5",
@@ -13,6 +158,19 @@
   "isPR": false
  },
  {
+  "id": "c8383ab62518",
+  "title": "Anthropicがサイバー検証プログラムを3つのアクセスティアに拡大",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcVJpRnRYc1g5aVZFbWdHVmNPYUJXUWM1T3RQdHpkbmF0dERzeUZwY0o1U0UycUoyOW1FWkw5REpDOUUweWRvX1dCMnhFOEZEWnpXQzNKNGFmdGVObzM3aS1ZazlZdTY4S2dBLWZXMEtkNHh1S0txX0gzWE9LbXNFUU90MHp4c2JOZ0tsWDhCeENhUVl1cEE?oc=5",
+  "source": "Unite.AI",
+  "summary": "",
+  "publishedAt": "2026-10-06T19:16:17.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f0cf20ccec0e",
   "title": "AIエージェント時代の人材活用を支援。パルスアイがカスタムサーベイとAIメンターを強化",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IcXJKT2JpSlVucjRidXR3YXRZdUtaUW5ZdzNSQ2tWTVduOGhldmIzUkdoSDhDWHh3VUNaZzdMTmFYX0VBZk01czZrWmtyYmVjdG1ieVU1ejlwR3BPQkZKck14Tjk3U192ZFpTcXVwVUVRZw?oc=5",
@@ -22,6 +180,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9f26a3bfea2a",
+  "title": "Anthropicが「AIに何を求めるか」調査を再開、インタビューは公開も選べる",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcTdIRS1FYjhJX21mNi12akZJeEE0R2VMcUx0VTZHam9MYUdQd083WlVVSFhzM1ZFclZMM0NCWmUtSjU0MkwwRWRfSEVMSW5qbWxidFVxSktzTW5uSEV0VDk1Tmg1Y05WeU9FYWNKc2doMV8xSUxJWUZpN2RzdGo4dnhRd0dyeXc?oc=5",
+  "source": "Pasquale Pillitteri",
+  "summary": "",
+  "publishedAt": "2026-10-06T19:08:39.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -224,6 +395,19 @@
   "isPR": false
  },
  {
+  "id": "4603c6491c2d",
+  "title": "AIエージェント時代のレビューを設計する — River Review 実践ガイド",
+  "url": "https://zenn.dev/minewo/books/river-review-guide",
+  "source": "Zenn",
+  "summary": "AIエージェントでコードを書く速度が上がるほど、ボトルネックは『誰が、何を根拠に判断するか』へ移る。本書ではRiver Reviewを題材に、Review Judgment as Code、Artifact、Evidence、Judgment Placement、Review Coverage、Memory、Eval…",
+  "publishedAt": "2026-10-06T16:28:53.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "e1ea228c55b8",
   "title": "AIエージェント導入支援とは？支援内容・費用相場・選び方と補助金を解説",
   "url": "https://ainow.ai/2026/10/07/278418/",
@@ -288,6 +472,20 @@
   "categories": [
    "product",
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "72d71b598b78",
+  "title": "AI に開発と営業を任せて分かったこと ― 人の判断をどこに残すかの運用記録",
+  "url": "https://zenn.dev/zonotech/articles/739a08c35626e5",
+  "source": "Zenn",
+  "summary": "私は個人でソフトウェア開発をしているエンジニアです。 2026 年 7 月に開発を、9 月に営業の定型作業を AI に任せる仕組みを自作し、動かしてきました。 この記事では、仕組みの全体像と、運用して実際に踏んだ落とし穴、そして人の判断をどこに残しているかを記録します。 ソースコードは公開していないため、構成と考え方…",
+  "publishedAt": "2026-10-06T15:45:28.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
   ],
   "isPR": false
  },
