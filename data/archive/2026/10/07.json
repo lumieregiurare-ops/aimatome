@@ -1,5 +1,19 @@
 [
  {
+  "id": "11cc2b918451",
+  "title": "レビューが詰まった後の品質保証 〜Claude Codeで育てる開発の仕組み〜",
+  "url": "https://zenn.dev/nunu/books/growing-dev-system-with-claude-code",
+  "source": "Zenn",
+  "summary": "AI駆動開発の品質を、どう担保するか。 一度作って終わりにせず、使いながら育てていくための考え方と仕組みを、現場で使える形で解説します。",
+  "publishedAt": "2026-10-07T14:53:10.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "35378cf27121",
   "title": "【開催報告 & 資料公開】Claude Mythos 時代の AWS セキュリティ対策 ～ AWS Security Agent ご紹介 ～ | Amazon Web Services",
   "url": "https://aws.amazon.com/jp/blogs/news/aws-jpps-seminar-2026-july/",
@@ -39,6 +53,20 @@
   "isPR": false
  },
  {
+  "id": "a2a5f39ff07f",
+  "title": "耳コピが苦手なので、音源からリードシートを作るアプリをAIに作らせてみた",
+  "url": "https://zenn.dev/ruuma/articles/94215f83623eba",
+  "source": "Zenn",
+  "summary": "音源から主旋律とコードを推定し、MusicXML形式のリードシートを作るローカルアプリを開発しました。コードの実装はAIに任せ、私は出力を聴いて、耳コピの補助として使えるかを確かめながら機能を決めました。 上の操作例は、Kevin MacLeodのPixellandの冒頭24秒を解析したものです。 楽曲のクレジットと…",
+  "publishedAt": "2026-10-07T14:41:04.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "51e44f7aeffa",
   "title": "大学DXから生成AI人材育成、人的資本経営、医療DXまで。最新事例が集結するオープンバッジ・ネットワーク設立7周年記念シンポジウム",
   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NMlkyX0RVTHlUYkQ4czdDaF82amZnek1JSDlxbmdmTVBRWHg5cHozejFxOGtrelhvR1lBdnhZN1ZZb3FIbzB6b2IwX2h6WkFMLUtQcVQ3aU40cEJ6bGdUZ096dTNfcWo4cmNJ?oc=5",
@@ -49,6 +77,19 @@
   "categories": [
    "business",
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "50cfbdd15474",
+  "title": "AI に毎回読ませる規約を16KB→7.8KBに。削った基準と実測",
+  "url": "https://zenn.dev/twinharness/articles/halve-always-loaded-agent-rules",
+  "source": "Zenn",
+  "summary": "AI が起動するたびに読む規約に、気づいたことを足し続けていたら、CLAUDE.md・AGENTS.md と共通ルールを合わせて 16KB まで膨らんでいました。 Claude Code と Codex を二人体制で使っている私の環境で、これを 7.8KB まで削りました。削ったあとも守ってほしいことは守られていて、…",
+  "publishedAt": "2026-10-07T14:31:33.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -106,6 +147,19 @@
   "isPR": false
  },
  {
+  "id": "71e3d7ea0860",
+  "title": "今日の市場ブリーフィング",
+  "url": "https://zenn.dev/bambampurin/articles/2026-09-11-market-daily",
+  "source": "Zenn",
+  "summary": "米株高と国内ハイテク安の歪みを解く：米金利4.97%下での市況データ分析（2026年9月11日） この記事で分かること 米国市場のボラティリティ低下と金利上昇が示唆するマクロ環境の転換点 日経平均が微増の中でも半導体・グロース株に売りが集まった構造的理由 為替の静観と暗号資産の流動性データから判断する適切なアセットア…",
+  "publishedAt": "2026-10-07T14:02:23.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "fc610efcb15c",
   "title": "最初のトランザクションと 26 万回のクラッシュリプレイ---ゼロから作るCOWファイルシステム5",
   "url": "https://qiita.com/faliye/items/09d2b9238153d54b617b",
@@ -142,6 +196,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "38f99467c1d5",
+  "title": "Claude Code 応用編まとめ その3（#11〜#15）：mods・ステータスライン・プラグインで拡張して配る",
+  "url": "https://zenn.dev/zundamon_tools/articles/claude-code-advanced-guide-3",
+  "source": "Zenn",
+  "summary": "Claude Code のスキルや hooks を使い始め、画面を足したい人、作ったものを配りたい人に向けた記事です。 応用編の動画 #11〜#15 の機能を、困りごとから選べるようにまとめました。対象は mods・ステータスライン・プラグイン・claude-code-setup・claude plugin eval…",
+  "publishedAt": "2026-10-07T13:43:59.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -183,6 +250,19 @@
   "categories": [
    "model",
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0bf96069c78d",
+  "title": "記憶が増え、高くなり、モデルを落としたAIは仕事をやめた：OpenClaw転換劇 Vol.4",
+  "url": "https://zenn.dev/i_ichi/articles/openclaw-agent-vol4",
+  "source": "Zenn",
+  "summary": "教訓や自戒を指示ファイルに積み上げて記憶が増え、費用が高くなり、モデルを落としたエージェントは仕事をしなくなった。 これは OpenClaw 転換劇 連載 の Vol.4 です。前回は Vol.3。 2026年4月4日、私はメインエージェントのHenryを止めた。 前回のVol.3の末尾で、私はこの回の予告としてこう…",
+  "publishedAt": "2026-10-07T13:37:57.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -239,6 +319,19 @@
   "isPR": false
  },
  {
+  "id": "7a1e22627b3d",
+  "title": "AIチームを7日間マネジメントして分かったこと",
+  "url": "https://zenn.dev/kentaro36/articles/ai-team-week1-dots",
+  "source": "Zenn",
+  "summary": "2026年10月1日から7日まで、ChatGPTのdotsを進行役にして、複数のAIに開発や調査を任せてみました。私はこの進行役を「ドッチー」と呼んでいます。 初日に予定した9件のタスクのうち、完了したのは3件。残りは私の判断待ちや、ローカルGUIへの手動の受け渡しなどで止まりました。AIに仕事を任せるつもりが、私が…",
+  "publishedAt": "2026-10-07T13:21:49.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "4281bd04842b",
   "title": "文書に書いただけではルールは守られない——5 つの置き場所で効いたのは 1 つ、公開直前のチェックは初回で 2 本拾った",
   "url": "https://qiita.com/sumitsuke/items/e95d88f32fb40354963c",
@@ -266,19 +359,6 @@
   "isPR": false
  },
  {
-  "id": "79f902311c54",
-  "title": "クラスメソッド、Claude Partner Network の Services Track で Preferred ローンチパートナーに",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYT29sSllKSnJwVWFEZGMwc2czdG5EMzlrcXJQdnRYV1A1TllFM19kYVpsRmM2LXFmQ3ZBS0VLM3RIU2pkbVc1cURaNklsSmU0QTRKOGV4dUYwUEU0QXI3VkpELTNyYnZnX2pmdHdvNlU5UQ?oc=5",
-  "source": "Infoseek",
-  "summary": "",
-  "publishedAt": "2026-10-07T13:10:02.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "67027aaf2c85",
   "title": "AI音声アシスタント、導入企業の76%が「変革的ROI」と回答。牽引役は中小企業【G2レビュー1,419件を分析】",
   "url": "https://qiita.com/snair4321/items/03a15a1fc73002a5d17d",
@@ -302,6 +382,19 @@
   "categories": [
    "business",
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2a87825ee68d",
+  "title": "④0.01くらいから始める、AWS×AI株価予測システム開発【開発編Ⅰ】",
+  "url": "https://zenn.dev/eggdolphin/articles/9d780ee5754e15",
+  "source": "Zenn",
+  "summary": "はじめに 前回の記事からかなり期間が空いてしまいましたが、今回はいよいよ、AWS×AI株価予測システムの開発を進めていきます。 前回の記事はこちらです。 https://zenn.dev/eggdolphin/articles/bd77fb6aa2da31 また、開発を始めるために必要なAWSやClaude Code…",
+  "publishedAt": "2026-10-07T13:00:22.000Z",
+  "image": "",
+  "categories": [
+   "business"
   ],
   "isPR": false
  },
@@ -404,19 +497,6 @@
   "source": "zakⅡ",
   "summary": "",
   "publishedAt": "2026-10-07T12:19:48.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "5208274f7d4c",
-  "title": "国内インターネットインフラ事業者初「ムームードメイン byGMOペパボ」がAnthropic社「Claude」の「認証済み」コネクタとして掲載",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZTHJrbUlrZDc5dldveTl5eDBOMTVaZC1pd0hiSTVvR1BfMlhyTTJ2dDVqcUQxd0owZmllajkxb3VDTklkV2gzdDNlVzFXNGpzcnB4Qg?oc=5",
-  "source": "ニコニコニュース",
-  "summary": "",
-  "publishedAt": "2026-10-07T12:18:44.000Z",
   "image": "",
   "categories": [
    "other"
@@ -2387,19 +2467,6 @@
   "isPR": false
  },
  {
-  "id": "42b889a48446",
-  "title": "画像：AIエージェントに任せられない6つのこと、経営者は「境界を引き続ける」",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ09BczJTbEhQM3BIX0ppZHhLVTBMMVlUNUJObTctaEZmVXBqQ0xGWGwyQUsxNFZmZUp0dmRnNWQ2VVhWSFV0cUkzRm93dnRILUxGZVc5M3FCcUNkNnFTOTk4TUVfSE5GVVllMzU0ME91NC1VQUVNQW90MVZ2ZGpyMmR5WlNCa0dCSnhpVDNn?oc=5",
-  "source": "日経BOOKプラス",
-  "summary": "",
-  "publishedAt": "2026-10-07T06:53:28.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "be324e98bda1",
   "title": "Hadrian Security、3600万ユーロ調達 AIで悪用可能な脆弱性を検証",
   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNmxyaTFxZDMxeVM0SjdzYWM5amFvUGsyVFM3Qml2a0FrRUpEU0xycFN3am9tOWlBUzY3Z01PNUxaM3JDYkZSRTV0cWVoNEU0Nms0NW96cVo1SEFvZ0Jwc2tQMFBpTExJTDRTd3JPX3dyUWR2Y1VvSE9lUEY0OEJERUxsMTZKOWF1ZFhxMkRjWWkyMjdPbF9NNVdB?oc=5",
@@ -2955,6 +3022,32 @@
   "isPR": false
  },
  {
+  "id": "42b889a48446",
+  "title": "画像：AIエージェントに任せられない6つのこと、経営者は「境界を引き続ける」",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTjEzMUpUOUJkYVM0Y1RFcjR2dFNvbEYxU1NkVDFqdjB6RlRxWVVFX3BIc0lVanM1TWo4S0hrVnhKOFY4VUtTSkNXMlAxNndkY2hHRUNLV3hBUGxuUENCRmYzUGpGQndDWWxnZGlqbnRvSmRwbTQ3SGVxSVlfVWVheFNDRlJXS25BZUdGRg?oc=5",
+  "source": "日経BOOKプラス",
+  "summary": "",
+  "publishedAt": "2026-10-07T05:29:57.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "daccf1533345",
+  "title": "プレイドー6日ぶり反落 「Databeat」がChatGPT広告の広告データ自動取得連携に対応開始(トレーダーズ・ウェブ)",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3NOYkJfN1JKb0lZQkszTmtTMzNEN09zVlpxUllrcEFVcV9BUE92c1hGR2JVYjl3Y2lzamFLY2F0bk11QjBwOG1qbWMxTWtHaTNkMHVMcFhqakwzcm81SGo4QTB3TURvU1JvQjUxOVBscGxNZkQ0R0lxam04QUFBVmJmZl9tcVU?oc=5",
+  "source": "Yahoo!ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-07T05:29:01.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "ede6c264bda2",
   "title": "OpenAIとAnthropicのCEOは、AIが人類に害を及ぼすリスクについて警告している。",
   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWG55NVA2bk5rNUZKWENtV2l5X2FNaGUzVVlrbGM0bnByZGRUOHJUSUhXNDJEeTdOc1ZlWTNHS254QktWazhpSmYzNnZWd0IxS3pPTjBLVXEzRVk0M213dTJtT3JiM3BIMTFRSm9LR3g1NHpobjFDQ3A0ckhpN0VzWi1WME5teEU4akZlLWdYX0FfWTljUU50Vzln?oc=5",
@@ -3272,8 +3365,8 @@
  {
   "id": "acadaad7f2aa",
   "title": "JPモルガン、世界の銀行AIランキング5年連続首位－エビデントAI指数",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTY0ZLTUswUENDcEQtdUVIQ0hjQ19zcFpFTFV4WUV0cDVYdUZ3eXRBaEh3emV5UWRXVDdESld6bk9QRWVlOHA1QWVBSW9rdTEwaF9WWnVfb3NQaUM5ZlVScDNrUjlxR0E?oc=5",
-  "source": "TBS NEWS DIG",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wMjFwbmZyakZpS2psR0lEbncydlNYYkYzZkJYX3M2QzZJaHNXUEJObTQ5VGtUUGNhR0RldW1VNTV0T200S1pWM2hmZWxhSmljRG1UY0REVkZ6SV9pSEIwcERkVDNrNEpQNk95d2hqck9tTTlVN3Vr?oc=5",
+  "source": "Bloomberg.com",
   "summary": "",
   "publishedAt": "2026-10-07T04:55:00.000Z",
   "image": "",
@@ -3636,6 +3729,19 @@
   "isPR": true
  },
  {
+  "id": "5208274f7d4c",
+  "title": "国内インターネットインフラ事業者初「ムームードメイン byGMOペパボ」がAnthropic社「Claude」の「認証済み」コネクタとして掲載",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTX0tUeW1xVkRMUmhnam45bWRDNlFuSXM5bFF2M1p0bUd3TVp6QjNTT2VlMGplcEtuN0Q0c1MzZnQtRklpYVB5SXRNN0szQ01rOUY2VzlMczB5ZFV5NWk4bVpNeFBwTHg4UFJCSjJ2aHVrX2FFVXlCV0JB?oc=5",
+  "source": "イザ！",
+  "summary": "",
+  "publishedAt": "2026-10-07T04:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3ab162768340",
   "title": "富士通、小売業向けAIエージェントのトライアル環境を提供",
   "url": "https://japan.zdnet.com/article/35253319/",
@@ -3830,6 +3936,19 @@
   "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-10-07T03:31:55.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "79f902311c54",
+  "title": "クラスメソッド、Claude Partner Network の Services Track で Preferred ローンチパートナーに",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91NGhUOWJNRl9ZZGNTYVJDNm8weWZqZGNycDhJa3ZzajJoYVhIWEdHcDhZU0dGRWtKYzI2ZTRlYUVUbmdvTnBrUGl0dkF5Z1Q0XzFTckJOaVRFVzRycUVVT0hpV3lHWjZf?oc=5",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-10-07T03:30:13.000Z",
   "image": "",
   "categories": [
    "other"
@@ -5162,9 +5281,9 @@
  },
  {
   "id": "923d882d2d79",
-  "title": "ChatGPTのWorkspaceエージェント機能で障害発生 応答が表示されず",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxU0hkanQ5bEVpbnd3by1VX0xkaWR4TnpacXJ4YzZVQ0dQVVVXWkdvMVJDQkhsLUItdlVCS0xCMDFEY20xYkVBd2x4NU52dy0tNTl3NA?oc=5",
-  "source": "ASCII.jp",
+  "title": "ChatGPTのWorkspaceエージェント機能で障害発生 応答が表示されず (アスキー)",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdDVwYi11VkVnbS03dW03SFFyMmF4Y1ExU0wtZzFPcURpdTg3QUZBTHhkeGNDamV3d2gya0hJV2FNTDlCN1BsTHZvOWpLZEhPTVBGOGJZdVVsNW84cmpnR3dqV1o3Z2YtbldJOWo3NU5Ea01FejN2M2xQUHFUX3JPRlpnYURGMGxrRlBpc21n?oc=5",
+  "source": "Yahoo!ニュース",
   "summary": "OpenAIの「ChatGPT」で10月7日7時52分頃から障害が発生。Workspaceエージェントの応答が表示されないケースが発生している。",
   "publishedAt": "2026-10-07T01:50:00.000Z",
   "image": "https://ascii.jp/img/2026/10/07/4535391/s/2817ca2a21b843e4.png",
