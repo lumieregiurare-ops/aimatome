@@ -1,5 +1,349 @@
 [
  {
+  "id": "f116e310e3c0",
+  "title": "Jev 互換の判断AI「Clef」と Haiku 5.5 に同じ分類を306問。Clef が自信を持った13%は95%当たった",
+  "url": "https://qiita.com/suwa_nobu/items/1cc4989b0fdd47e4ea12",
+  "source": "Qiita",
+  "summary": "判断特化AI「Jev」は、文章を書かずに選択肢ごとの確率と確信度だけを返すモデルです。 試そうとして、Cloudflare Workers AI から Jev を呼ぶと、こう返ってきました。 HTTP 402 {\"errors\":[{\"message\":\"Insuffici...",
+  "publishedAt": "2026-10-08T01:27:08.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8f12f0c3bc5d",
+  "title": "結論を書く前の 1 問「これを無効にする既決があるか」——全部を探させず、いまの既決だけを置く",
+  "url": "https://qiita.com/sumitsuke/items/e0e33861fb0a3ed4ed05",
+  "source": "Qiita",
+  "summary": "AI（Claude Code）に作業を任せていると、過去に決めたこと（既決）に反する提案が出てきます。当方では、既決を見落として逆走した実害が 3 件ありました。「決定を検索させれば防げる」と思って 3 つの経路を試し、3 つとも実用になりませんでした。いま動いているのは、...",
+  "publishedAt": "2026-10-08T01:20:04.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bd50fdab60ad",
+  "title": "Ollayaのlayaとwinnowを日本語常識問題で検証してみた ― Questions設計で結果はどう変わる？",
+  "url": "https://qiita.com/MilkyWay-M/items/ce20db2c6b68b21fd5ec",
+  "source": "Qiita",
+  "summary": "はじめに AI Private Cloud上で、セルフホスト可能なDecision Modelの活用可能性を継続的に検証しています。 前回の記事「Ollamaじゃない？ OllayaのDecision ModelをAWS認定試験で評価してみた」では、OllayaをKube...",
+  "publishedAt": "2026-10-08T01:18:02.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "624cb0049898",
+  "title": "SpaceXがNvidia製チップ購入のため400億ドルを調達。",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vUlRPU1RfVkk5OGprQUJiTXU0NU55eHBMYkhVc1dseDJuVzlMeXN2MG12ZEZqbFRLb2dULTYtRF8zVlJXRnJIbkVzaXhiaU52Z2dWaS1mQlAtYnl2bjRVQWNINzc2UDF2OHN2ZENhSzJRdjM5LTROV2hB?oc=5",
+  "source": "Vietnam.vn",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:16:08.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dd984a8bdfab",
+  "title": "NTTドコモビジネス、日本IBM 企業で安全にAIエージェントを使う統制基盤の共同検討へ",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2pDTlRsZUJiSWw4R28tcmdPV2NoT2ljNEl3UmVRMWg2cjVMazdXOE0zczVja09ybUZ3VUpycWJHTXZzNVpWZjI4WkNITlhuejJiTFBRam9PanhuVlhqcjlTbzVMcWZMWkZDVHMtZW1TVmI2UHZ4MlgxX1FSVzRKbEFEQ1FfUQ?oc=5",
+  "source": "月刊「事業構想」オンライン",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:15:27.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "387d5270383d",
+  "title": "Claude Codeは次のセッションで同じ穴に落ちる。「ハマったらREADMEに書く」を1サイクルにした話(Laravel)",
+  "url": "https://qiita.com/mugenweb/items/3fe9fa98d90afec0af75",
+  "source": "Qiita",
+  "summary": "1人でWeb制作会社をやっていて、社内システム(Laravel 12)と店舗サイトの雛形を、Claude Codeにほぼ書いてもらいました。その開発で、いちばん地味なのに効いたのが「ハマったら、直して、READMEに書く」を1サイクルにしたことです。 人間のチームとAIの...",
+  "publishedAt": "2026-10-08T01:13:42.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9e599d30145b",
+  "title": "生成AI品質評価ツール「GENFLUX Evaluation」を販売開始",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zaHNISHl3VnZPZXMxMlM3MXlLZWpSU0JDaVM5RUlRcVQ0em9TQTZMb2xuU05sRTdkdlM0WHdzX2NjNVBSUnQyQWFDWTFnN3k3bTgzUG5BZ0p3dFM1UUR5eFRjcFhPeUJ1alE?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:10:01.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "57580e9aa106",
+  "title": "株式会社ハートビーツ、フラグアウト主催カンファレンス「BEST PRACTICE for Dev AIエージェント・自動化で変わる開発現場 〜AI時代の開発チームと開発プロセス〜」に登壇 | 株式会社ハートビーツのプレスリリース",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RTnFZc21XYV91WmItLVVIek1TdXpLQXFoR25pbVRGY1VyeTdjQ2lzb2JXUkV0NHlEZEROX05MUF9kMEhCQ19wakpPSlBLTUVaSWtmZlpnSFR4Qy05MEFzTVhuYVZXQkoxQUE?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:10:01.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "849598500b99",
+  "title": "「LLMから見えている地域」を問い直す。",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tOUkyVWIydzZWcXV6b1UwdkFhNzd3TmYzdFU3QTUzUUx1dWZLeVhYdWZncUcwR0FWOVdjVENhbFhJS0t1VnpmajZ1N3FhWkY5SWVuN2NrUjMtdGlfRGF6S0syNlBrdDJ2Snc?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:10:01.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "50c1deb23b9a",
+  "title": "RTX Sparkが10月下旬に国内発売！ASUS、ProArtノート2機種",
+  "url": "https://pc.watch.impress.co.jp/docs/news/2146598.html",
+  "source": "PC Watch",
+  "summary": "NVIDIAのAI向けプロセッサ「RTX Spark」を搭載するノートPCが、日本にも上陸する。ASUSは10月8日、クリエイター向けノートPC「ProArt P16(H7607)」および「ProArt P14(H7407)」の日本での取り扱いを発表した。発売は10月下旬以降の予定で、価格と詳細な発売日は後日案内され…",
+  "publishedAt": "2026-10-08T01:05:39.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "567f6fe0721f",
+  "title": "仏Mistral AI、フロンティア級モデル「Mistral Large 4」を発表 ～米国依存脱却のための強力な欧州モデル",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkRWJwYWdjYXR6QTNoTGFQT0NjeVdQR05PWTF1bnpvclJENE1KcVVMRWw5X2laSkNvbjN2bXU5bFlHYjcyTUdSck5JbWRyOHRZcFpiUUdoQlA1ZlZFSjY0Y0IydGY5WjZI?oc=5",
+  "source": "窓の杜",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:05:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "956d654e01cf",
+  "title": "三井住友カード、社内データを人にもAIにも読める形に整備",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vR2d3QmlyWllhUUdqUHRKclBXRHdRamNPam1BNDNGMG1JSDZ1MW1NNnR0TXhvLWFjMWVrZWJjeDI3TmMyRUVRQ05hc205TWJNRUpr?oc=5",
+  "source": "IT Leaders",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:04:25.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ca6f26c83b33",
+  "title": "メッセージで日常のタスクを代行するAIアシスタントを提供するTabが資金調達を実施",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxc2dkMGdweEJ5OE9tS01sYUN5WWE3bVphaUVjYngyd1FCT25CX2tnS0RlTjNuajFad0JTMDUtSWdWbTRyZDk2dnhUU3hmUDA?oc=5",
+  "source": "STARTUP LOG",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:00:39.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d746eb302634",
+  "title": "株式会社Elith、テクマトリックス株式会社と生成AI品質評価ツール「GENFLUX Evaluation」の販売代理店契約を締結",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlVjhqUld0X0JOVkw4OG45SnlTRVh4MTNIT29qemk4YTdOenRXV05wYkd3S2NNajgwNnpYRjZTUHVlMXdwanpTczBwb0xuUkVTbVYwUHlBNVZ5Z3ZsYXBKdGw1V2FBRkRFTWc?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:00:02.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "business"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "37e918f016a3",
+  "title": "【ITエンジニア1,265人調査】AIを使い込む人ほど「コードだけでは不安」―毎日利用者85.6%、未利用者14.9%",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OT2JqRzJjYlJ0bmRZdkFjNTI2UlgyY3dCR0loc2ROa3I1MlNwVVJrbjgxVENfbE1JQ1dwT2UtY2JtXy0weDVPRVIzdGpvcFRqbGIwVkFsWVd3cU80ek00bjdHSzNzZlFSWFE?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:00:02.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "925167794524",
+  "title": "【最新｜BtoB企業のプレスリリース活用実態】半数以上が「生成AIへの引用・露出」に効果を実感。8割以上が外部委託を活用し取材やリード獲得などの成果を創出",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uV3BMUjNVN0VqNEVUamp6ZUF1MU13NS1qaFkwcnN0ZEVwRVlsdlhkWkZXS3czQUVDU2JmY2F4bVBna2NyVHlncWQycHhZeDVWVjIwbHlHLWItTUhaN0pEZXY3UUhHeHhBcmc?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:00:02.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "product"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "05e1e8abe307",
+  "title": "Veeva 、臨床試験の設定をわずか 1 日で実現する新たな AI エージェント「 Study Builder Agent 」を発表",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ST3BZeUlIamsweEw3TURDZUtyNEVfalZqNW9nQ2V3aDh0OW93aEFaY0NHWHJIZndSTHZ3Y01EM01xZ1NXX1RBbTFVeHQtTnlBQVEyOEFYS1Rtb1NRMkNTanpGclZzRm1FaEE?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:00:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "6af294b923bb",
+  "title": "「このソフト、持ってたっけ？」をAIに聞ける。ChatGPTやClaudeに話すだけでレトロゲームの購入もプレイも記録できる",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxTUZNZFdKUE02Z3J5VnVudGhuVjhBTzQ5NXk5S09yNm9odDhWXzVmVFhqVFc3NWNsWDBhVXFuTzV5emJ3ODBqVEdPcEJmS0NZdFJWZF9IajVPWE1NU2pqR3FRLWpHODg3Q0E?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:00:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "65bfd2039af0",
+  "title": "【AI PICKS調査】主要AI28サービスの過半数が「月100ドル以上」の個人向けプランを用意。ChatGPTは最上位が月8万4,000円、入口の60倍に",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94bHRDcUdUMWlGTzYtOG1BTVZLWDdZbTlYZXB4VkZMOHFQYWNIaHFnMTI0SWRXQWN0ZXV1b2J6UDlpQlZRc2hEdE85NW9hLTZOUDQ0MWpLaWNLMk05Vjg3WTFsaXN5RkU2Umc?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:00:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "3ea959f7cd3b",
+  "title": "「作りっぱなしのホームページ」をなくす、ジャイロ総合コンサル AIで自動更新するサイトをノーコードで構築し仕様書を公開",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZVVVPT184VWtZSC1scGJ1NUhEM3ZZVGNvWDRsbE5oanpXWmJ6bklKbjlJR0lYMWVWYW9zSmFmRU1vREZ6YWtqUnpmZWgtOVAxbVg4SW9ZQXBBZWNaTTRjdzVLcUNjWFhXNVE?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:00:02.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "233bce8fa7b1",
+  "title": "日本HP、軽量AI PC 2機種を発表 法人向けEliteBookと個人向けOmniBook X Aero 14",
+  "url": "https://ascii.jp/elem/000/004/440/4440939/?rss",
+  "source": "ASCII.jp",
+  "summary": "日本HPが軽量AI PC「HP EliteBook 8 G2iW 14」と「HP OmniBook X Aero 14」を発表。法人向け・個人向け各モデルの特徴や性能、価格、発売日を紹介。1kg未満の軽量設計やバッテリー駆動時間にも注目する。",
+  "publishedAt": "2026-10-08T01:00:00.000Z",
+  "image": "https://ascii.jp/img/2026/10/08/4535866/s/ad016c39ba81f4fb.jpg",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "32869c9275aa",
+  "title": "日立ソリューションズ・クリエイト、「AIプラス 生成AIソリューション」で製造業向けに30種類の生成AIパッケージアプリを提供",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TRDFjeEg0RTRndGw3RkVlSWZmc21PbXd1eWRlb0hFV2VLRzJYS3hCaEdvN0dqeWExd3g0WW1FMlh2UnJhSldKbHJ4RU8tMFZseGpuOFNqLWdtdC0ySUNQXzFvaGdBeDlKVUZsNnYxaTlpcFBENDdVVmtvd25BNnc?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:00:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0ab2e857e6b0",
+  "title": "テクマトリックス[3762]：生成AI品質評価ツール「GENFLUX Evaluation」を販売開始 2026年10月8日(適時開示) ：日経会社情報DIGITAL",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nSzNsemxmTVVOa2VYSmtWNENQbjNSamRuREwxalFoT3VBYll5MWIxNzc5cGJRXzBMQ2FQTmZDMWNscHB2RHRyY3d3YzlEcDdiUXB6SDBlOE1DVE04UnRWZm1LZERILUtMeVE?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:00:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "725b0c2205cb",
+  "title": "OpenAI、EUでAI生成文書を見破る電子透かし導入を開始",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTERJMmlVOW1HUC1Zd0JXVUhray1TV0w4Q3lKc25TMTZqUGlWXzZzNXRxcVhhOWctdVdLX1RIeWhWZ2xfaTdkXzBJbmhtSEo4WG1Bdm1keTlWRS16OXQ0QUl4ZFNtRl9rZnJnT1dMbkNaUHc3U2Znb21ZaG5UdjR5UnhINEFFR0lUZnUzTjR3cF9Bdmp5U3JNQy1YY3NVQ2tS?oc=5",
+  "source": "Gizmodo",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:00:00.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1c935e311820",
+  "title": "トランプ氏、AI 各社と自主規制で合意",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WR056XzNpcGJLX1JVWHMtNjNSUG1QRmtkaDd2T3FlTk9HQ25fMnd5N29TZXV1a19UbFRfN2JtMUtjRnZrWEFSS19LZTBzcmRWWk1JeHNn?oc=5",
+  "source": "朝日新聞",
+  "summary": "",
+  "publishedAt": "2026-10-08T01:00:00.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "67892ef25c6c",
+  "title": "プレスリリース：2026年10月22日［無料ウェビナー│再上映］補助金×生成AIで、新規事業の「勝ち筋」をつくる～生成AIで「売れるか」を確かめ、補助金で事業化へつなげる方法～を開催します（PR TIMES）",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JTnp6SllpWWV5UXdJc0JzUHBpNGFLYTd6ZHlkVHV1N0RCWXNkNVd6ckcweWlUQ3hkeXU5ZnY0UFNRdGYzOXZzRC1vMC1ET2xPUG13S3hwcFBYdUlUdW5YdWpYbmdLZUZM?oc=5",
+  "source": "毎日新聞",
+  "summary": "",
+  "publishedAt": "2026-10-08T00:53:10.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "1673c2436bf7",
   "title": "ChatGPTとGemini、回答に出てくるURLはこんなに違う？ 不動産クラファン1,650回答を独自分析",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYcGZZd1FrM2VaNEdJSHpPYk5Ddm44RnJnNEVLWXNqd2FFbG5PN3k4RnlRb2hwVFMzSDlSSzhLN0lzSmNSQWJ0X25TN0Q3RjdfY1BsYUhJcVNHUHNuTE5CMHlWdFFMeEtoRXR3TWUxcXJDN2FTWEV6UkhwYw?oc=5",
@@ -35,6 +379,20 @@
   "image": "https://japan.zdnet.com/storage/2026/10/08/31228f70fd850d7700a81d1cda3df517/t/184/138/d/ChatGPT-vs-Gemini-1_1280.jpg",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bfd4406e883c",
+  "title": "OpenAI、GPT-6をChatGPT全ユーザーに展開 「Intelligent UI」導入",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM1ZiRFlURnJtc3lsaEpQQU9MbWh3ZlljNTEzd25mNENEd2hIalRqNDYySFU1WndLanl0enlGQkpoNGg5bjFIZndwQVhaLWtaSXhRUi1oc3FUeVg4cFFmVVpGdzVFelpRb0U0LTVnQWxqd0J5ZDNicmdlYjdUV3FsdWcteUhiZk9EX0ZxSF9OMWU3MXlwV3pDTU4tQVphaDRfMVFrdmhJaloxVTFFNkF4OFlGQlpMQQ?oc=5",
+  "source": "디지털투데이",
+  "summary": "",
+  "publishedAt": "2026-10-08T00:43:43.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "case"
   ],
   "isPR": false
  },
@@ -646,6 +1004,19 @@
   "isPR": false
  },
  {
+  "id": "efece8e02322",
+  "title": "今日の株式見通し＝軟調、米長期金利高止まりを警戒 ＡＩ・半導体株が下げ先導か",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNFFrd2swNHgwQjM3dkpZd0ltZ2FiN2RsQ2dsNS1YbUJlLXdlMjZOZGFpdkVxZUJwa0RtaWZ5bU1JRzdlMzR1MEtUbXdKXy12ODhXUjRrWjJqRDFtTWZuS3NQaVBJczcyNDdIcEpDZnE5cEZwM3VWbHRJcVQ3amkteGw3MlNydw?oc=5",
+  "source": "Reuters",
+  "summary": "",
+  "publishedAt": "2026-10-07T23:19:18.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "6d101ad81ea9",
   "title": "2024年10月⇒2026年10月の2年間で私のAIに対する考え方はどう変わったか？",
   "url": "https://zenn.dev/pdfractal/articles/01f515a0bb7c57",
@@ -728,10 +1099,10 @@
  {
   "id": "e0bebbe4d8fd",
   "title": "Anthropic「Claude Haiku 5.5」発表 API料金最大90％減、性能も向上",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PWXlzRGdpOUdnOW9neV9DeHFSTVJPNGhJczNqcUlWWGpncjVIYXgyNFNyeGtKXzU5dV9uangzNDgtb1pLRFQ0bmZhRTBoQ19fSTB4MUJNazNWZWRmMnY2MWhBaS1SaXRD?oc=5",
-  "source": "マイナビニュース",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GTXJ4UUlXVHZzZDdxUkhQQzhxWExMQnpzb1VfT2tSRGp6SFc1eEFaMDdoQjcxSVh5amhFdnJrWlhkUlFwV1ZBeGtPTTB2SUJmTGdlUlE5Z2FUUlhNUzlTczVISHRGMmRyNXg4eGxiWmhNcW9wcW91alBGQ2bSAXxBVV95cUxORk1yeFFJV1R2c2Q3cVJIUEM4cVhMTEJ6c29VX09rUkRqekhXNXhBWjA3aEI3MUlYeWpoRXZya1pYZFJRcFdWQXhrT00wdklCZkxnZVJROWdhVFJYTVM5U3M1SEh0RjJkcjV4OHhsYlpoTXFvcHFvdWpQRkNm?oc=5",
+  "source": "ｄメニューニュース",
   "summary": "",
-  "publishedAt": "2026-10-07T23:04:07.000Z",
+  "publishedAt": "2026-10-07T23:04:00.000Z",
   "image": "",
   "categories": [
    "model"
@@ -867,19 +1238,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "efece8e02322",
-  "title": "今日の株式見通し＝軟調、米長期金利高止まりを警戒 ＡＩ・半導体株が下げ先導か",
-  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNFFrd2swNHgwQjM3dkpZd0ltZ2FiN2RsQ2dsNS1YbUJlLXdlMjZOZGFpdkVxZUJwa0RtaWZ5bU1JRzdlMzR1MEtUbXdKXy12ODhXUjRrWjJqRDFtTWZuS3NQaVBJczcyNDdIcEpDZnE5cEZwM3VWbHRJcVQ3amkteGw3MlNydw?oc=5",
-  "source": "Reuters",
-  "summary": "",
-  "publishedAt": "2026-10-07T22:59:43.000Z",
-  "image": "",
-  "categories": [
-   "infra"
   ],
   "isPR": false
  },
@@ -1153,7 +1511,7 @@
  {
   "id": "3500bfe3ca79",
   "title": "AIエージェントに生活管理を任せるべきか",
-  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVHRwMXVRem5ONnRzOUZYdk4yTGxnbDBMNExqVkJWLXN5ME9vMi10bkFfTjEtRUxoUkpfLVhPMkNyekFMamNmWkdhRlphNFc3Y0lBYXFpSG9HcFR0RlRPSktJV0VZNTBScHRwMEpJV1hLU3dMT1NEMExrbDdFTkFTOU1XaTVqNm5wRUxkRng3a2JRRzFBaUhfRzI5bDBvdkJ2eTBlQg?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSzhoVmNRQUJqR3dXcGNjQTAxTXNUcU1tVnZpTHBFT2NpeFUtLTVEY3l5bnd0QWNNUU9YSTZ2dXpsYW5MbzV1RzNKRHU2VkJUa3RyQjJhbnM3VHZ1Zmg0NWxuYTJoczBVbXkzbHdIcXk2cGJxT1hlcjB0anoyY1MtLUhzMFZGSFFZSWZqU09YZ25VYnBMTnktSWM5OUo?oc=5",
   "source": "WSJ",
   "summary": "",
   "publishedAt": "2026-10-07T22:15:00.000Z",
@@ -1438,6 +1796,19 @@
   "image": "",
   "categories": [
    "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "81b45f06beef",
+  "title": "M365 Copilot全庁展開で月2000時間削減 現場がAIを「使いたくなる」習慣化の仕組み",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDN0l3THRtU1RMdEFsWXkzVnRqcHBvQUVLTDVOcWU1QjB5RGllaGhTY3dSY0JSZEVPelZjU1hXaE9rVXI5dnY0ZTAtczJpY0k3VHMzSWkyUU9YbDFZNmk4VDNzTUthZw?oc=5",
+  "source": "キーマンズネット",
+  "summary": "",
+  "publishedAt": "2026-10-07T22:00:00.000Z",
+  "image": "",
+  "categories": [
    "case"
   ],
   "isPR": false
