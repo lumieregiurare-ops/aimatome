@@ -5,8 +5,64 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-09T10:00:20.176Z</updated>
+  <updated>2026-10-09T10:30:18.149Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>Claude Code v2.1.295 が変えた7つの挙動——フック失敗のブロック化・429待ち上限・バックグラウンド修正まとめ【2026-10-09速報】</title>
+    <link href="https://qiita.com/Sidejob/items/f6ecb607af26801270d3"/>
+    <id>https://aimatome.gamelab.website/#4ea4222c64a7</id>
+    <updated>2026-10-09T10:30:02.000Z</updated>
+    <summary>Qiita ／ コマンドフックを設定していたのに、タイムアウトしたまま次の処理に進んでいた。onFailure のデフォルトは continue（失敗してもスルー）なので、フックが止まるはずのアクションが実行されていた——気づいたのは、ログを見返したときだった。 v2.1.295 でこの挙...</summary>
+  </entry>
+  <entry>
+    <title>note生成のログが、記事の事実情報に混ざっていた話</title>
+    <link href="https://qiita.com/J-WORKS_HQ/items/a5db1ddca111a6d17971"/>
+    <id>https://aimatome.gamelab.website/#35ea3ff98239</id>
+    <updated>2026-10-09T10:26:57.000Z</updated>
+    <summary>Qiita ／ 記事を生成する処理自身のログが、その記事の「事実の出典」に混ざっていました。原因は、記事の材料を集める処理が、運営イベントの記録を区別せずに読み込んでいたことです。 記事の根拠として渡す情報は、記事生成とは別の場所から集めるものだと思い込んでいました。しかし、生成処理が記録...</summary>
+  </entry>
+  <entry>
+    <title>マグニフィカント7銘柄、エンタープライズAIエージェント発表後にBMOが強気姿勢を維持 執筆 - Investing.com</title>
+    <link href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBuN2N0bXNXSFlKX1dKY0RadU5MdnpRQVdfZlBwcnJtNU4wSUhHalhaRE9tX1BGa0duZEpLcWQydGt5ZWx2Mk5sWHdoWDIxTHBlTlVZcnJTdmxFUk1vS3QzVXBENlJhanVfNl9nS3puODU?oc=5"/>
+    <id>https://aimatome.gamelab.website/#4bb224b8e19c</id>
+    <updated>2026-10-09T10:20:00.000Z</updated>
+    <summary>Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</summary>
+  </entry>
+  <entry>
+    <title>県内企業でも生成AI活用が「常識」に 導入率36％と全国並みに急増、8割が効果を実感【高知】（高知さんさんテレビ）</title>
+    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1GWFVJRWFsblRnVkdJZmJTb25BaGNIenFwTnNaR0o4clpvbVNJRzEwMzFIR2tVbU9kejJ0d2dHenBqTThuT1hOWENWSkVzLTVrM2w1SjZNSHg0cWtWVlNVVzBvV3BzcGJsRTZFMWlnd3NkdXI3RFNaUE1jeEd0TTg?oc=5"/>
+    <id>https://aimatome.gamelab.website/#f8dcd69c045d</id>
+    <updated>2026-10-09T10:16:02.000Z</updated>
+    <summary>Yahoo!ニュース</summary>
+  </entry>
+  <entry>
+    <title>Oktaが自ら実践、カスタマーゼロから学んだAIエージェント展開と統制</title>
+    <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QOTA5QmpYWE5FSFJjVm1CLWI2TWpkc3NrVzhVMmdGMExpdFdLOWgtQWdBT2Z4dUNUeGRZOGloNWdvZk5ocEhHNWZ0LTIyOGk3T2xZ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#458033060487</id>
+    <updated>2026-10-09T10:02:33.000Z</updated>
+    <summary>IT Leaders</summary>
+  </entry>
+  <entry>
+    <title>山中で遭難の16歳少年、登山計画に生成AI「Claude」利用 救助隊は「ルートの妄信」警鐘</title>
+    <link href="https://news.google.com/rss/articles/CBMiakFVX3lxTE9yOWtsa2RCOG9EYjF5VTVxeGdnUWNVUGhDazhKTWVmWWc3amg1LVJ1LXRUYUtFZFE0cmRLdFpENWpKbElGSFc4Y0prZkozRkxONms2V1JGMVpBd2hCSXl4dWFSd0JteWNjc2c?oc=5"/>
+    <id>https://aimatome.gamelab.website/#60a70c998b65</id>
+    <updated>2026-10-09T10:02:28.000Z</updated>
+    <summary>ITmedia</summary>
+  </entry>
+  <entry>
+    <title>MetaやOpenAIが「.agent」を新ドメインとしてICANNに申請、「.agi」やトランプ大統領の「.trump」に加え日本からは「.neko」も</title>
+    <link href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9iOEtHRnFUakktaG05LUluUmFUcTNjZXhjQVpfTnF3T3pxeC1TeGxQVGhtX0ZaZ29NNU9XeWxXN0N0cUlGdGlVZWdPc0VxRlREbTB1M3pzRzlSeTB0SmZtMWtUOVJ6SDlWTVBzdTVZSTZFb2VQRDFQcw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#7a84e32cdbf9</id>
+    <updated>2026-10-09T09:59:53.000Z</updated>
+    <summary>GIGAZINE</summary>
+  </entry>
+  <entry>
+    <title>AIエージェントを「試す」から「業務で使う」へ。アップデイティット、9つの実践例を解説したホワイトペーパーを公開</title>
+    <link href="https://news.google.com/rss/articles/CBMia0FVX3lxTE56dnpSM3V0bnpOMnNSUDVpM0JhSnFYanFwWkplcHFZMEE2alBjNXMyb2RIME11cktaQVMtcklKOWNBaEVELVpKYUppZVpYSHZtUEVyNGxZeENwT3dCYlpoS1VhTktudmdvU0pR?oc=5"/>
+    <id>https://aimatome.gamelab.website/#392e606eb2d3</id>
+    <updated>2026-10-09T09:46:00.000Z</updated>
+    <summary>時事ドットコム</summary>
+  </entry>
   <entry>
     <title>Gemini「プロジェクト」Google ウォレット連携へ【アプリ解析】</title>
     <link href="https://news.google.com/rss/articles/CBMigwFBVV95cUxNNVV2NWZnbEtaQ3k4VE52N3JZS2RLSzBoODlUblk4MHhBQl9OUmVjQS02UFRVRHJBeWo4MGY0NWJ5Wk1WY3N3ZjZfRTRiQU5Ob1dIN2tNWWF2Yk92MHI5dDdfaXgydXlNc0lmSE5pSEdtNm9lRVk0ZDhrUzB2SlVuM0t3WQ?oc=5"/>
@@ -36,11 +92,25 @@
     <summary>Vietnam.vn</summary>
   </entry>
   <entry>
+    <title>「生成AIは言語の壁越える」サイバー攻撃大規模化で企業からの“情報漏洩”5000万件超に 「ビューカード」も被害</title>
+    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9kQXcwdl9YZWpGanlYbXFlcU15d3Z6S2ZmdW50NnlSRHJiaDZNV0VGMzJYZFdxYTJ2Umt0ampwMURpd2JVTDFjNXdlMk5ZT2JBNVVkY2cyQTNwbGRhTUh3TXl2UXVtX0hPUndTOHVXcUVJWFlDWDFmS09XS2hYZ1U?oc=5"/>
+    <id>https://aimatome.gamelab.website/#c104ef75b377</id>
+    <updated>2026-10-09T09:33:23.000Z</updated>
+    <summary>Yahoo!ニュース</summary>
+  </entry>
+  <entry>
     <title>国内最大級フォロワーAIアニメ『深夜のドカ食い天使ちゃん』オフィシャルファンクラブを開設！オリジナルフォトも発売決定！</title>
     <link href="https://ascii.jp/elem/000/004/441/4441679/?rss"/>
     <id>https://aimatome.gamelab.website/#3815b165477a</id>
     <updated>2026-10-09T09:30:00.000Z</updated>
     <summary>ASCII.jp</summary>
+  </entry>
+  <entry>
+    <title>韓国の銀行を狙ったサイバー攻撃、犯人は「中国在住の26歳」か Claudeで作った“犯行実績入り履歴書“から浮上</title>
+    <link href="https://www.itmedia.co.jp/news/article/2610/09/2000002176/"/>
+    <id>https://aimatome.gamelab.website/#b7445575823c</id>
+    <updated>2026-10-09T09:29:55.000Z</updated>
+    <summary>ITmedia AI+ ／ 米CrowdStrikeは10月7日（現地時間）、韓国の金融機関を狙ったサイバー攻撃の攻撃者が、中国在住の26歳の人物である可能性を示す分析結果を公表した。攻撃者が使ったAIツールの履歴に、本人のものとみられる個人情報が残っていたという。</summary>
   </entry>
   <entry>
     <title>【入門】AIのAPIアグリゲーターに初めて触る：Crazyrouterを画面ごとに、最初の画像生成まで</title>
@@ -50,25 +120,11 @@
     <summary>Qiita ／ この記事は「AIのAPIアグリゲーターを初めて使う」人向けの入門メモです。概念の説明から実際の操作まで、1画面ずつ「この画面は何をしているのか・何を伝えたいのか・初心者がどこでつまずくか」を添えて進めます。例として Crazyrouter を使いますが、話は汎用的です。ス...</summary>
   </entry>
   <entry>
-    <title>韓国の銀行を狙ったサイバー攻撃、犯人は「中国在住の26歳」か Claudeで作った“犯行実績入り履歴書“から浮上</title>
-    <link href="https://www.itmedia.co.jp/news/article/2610/09/2000002176/"/>
-    <id>https://aimatome.gamelab.website/#b7445575823c</id>
-    <updated>2026-10-09T09:27:19.000Z</updated>
-    <summary>ITmedia NEWS ／ 米CrowdStrikeは10月7日（現地時間）、韓国の金融機関を狙ったサイバー攻撃の攻撃者が、中国在住の26歳の人物である可能性を示す分析結果を公表した。攻撃者が使ったAIツールの履歴に、本人のものとみられる個人情報が残っていたという。</summary>
-  </entry>
-  <entry>
     <title>OpenAIの200億ドル不足は会計上の不一致であり、需要の急落ではない</title>
     <link href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPRzF3b0pKbWdaUXVUQk1OZFR3M3ROTURtZy1PRnJHUjVaQWJfaTZxQ1Zlai03Um5naGhnNDZEcV9xUDVIb0RxRnZESWlWSW5WS1VHZzhWYU1nbkFxTmFLeldab05KRjdQWVVOWDNKbkZkSVdVcGdtZjhnUjktb3FVTHp2UzNlYWVkSUY5MDE1ZG5hdVpjck9lb1JRXy1UcjdoQVE0d1dtc2lOaFlCckpr?oc=5"/>
     <id>https://aimatome.gamelab.website/#59b000115d2e</id>
     <updated>2026-10-09T09:26:21.000Z</updated>
     <summary>Moomoo</summary>
-  </entry>
-  <entry>
-    <title>OpenVINOを使ってノートパソコンでローカルLLM！</title>
-    <link href="https://qiita.com/calcMCalcm/items/a98b283eed4045391dc0"/>
-    <id>https://aimatome.gamelab.website/#681343a33d4f</id>
-    <updated>2026-10-09T09:23:14.000Z</updated>
-    <summary>Qiita ／ 中国に出張中でもノートパソコンで利用できるAIが欲しい！ 文章の体裁を整えたりするためにCopilotを使いたいが、中国などでは使えないらしい（サービス提供外とか出るそうな）。 打ち合わせ内容のまとめなど、文章の体裁を整えてもらうのにAI機能を使いたいけれど、通常の個人向...</summary>
   </entry>
   <entry>
     <title>ヘッドウォータース、「AI Platform on Microsoft Azure」Specializationを更新</title>
@@ -85,13 +141,6 @@
     <summary>AIsmiley</summary>
   </entry>
   <entry>
-    <title>AIエージェントを「試す」から「業務で使う」へ。アップデイティット、9つの実践例を解説したホワイトペーパーを公開</title>
-    <link href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1xS2ZIYnpIQ0pSTjJxS0xHRW1mQ0xwMS1NV20yLWlyTnNCYjZLOXpsRXdqb19jampCYzdxYkg5NWFadk4tZ0VVYjRodG9lckVXVXI0ejcxVDZtMXVHMVNTbHctd0x2bEROcGc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#392e606eb2d3</id>
-    <updated>2026-10-09T09:19:31.000Z</updated>
-    <summary>PR TIMES</summary>
-  </entry>
-  <entry>
     <title>ブルーテック、「KS+」をAIエージェントハブとして展開 第1弾「KS+ SFA」を提供開始</title>
     <link href="https://markezine.jp/article/detail/77820"/>
     <id>https://aimatome.gamelab.website/#d5035d7fecd8</id>
@@ -104,13 +153,6 @@
     <id>https://aimatome.gamelab.website/#dc4a79c59cb7</id>
     <updated>2026-10-09T09:14:40.000Z</updated>
     <summary>AIsmiley</summary>
-  </entry>
-  <entry>
-    <title>Crazyrouter 使い方ガイド：登録・APIキー作成からチャット・画像生成まで</title>
-    <link href="https://qiita.com/xujfcn/items/b7c9b663141fef2dc169"/>
-    <id>https://aimatome.gamelab.website/#79e2342c093e</id>
-    <updated>2026-10-09T09:10:19.000Z</updated>
-    <summary>Qiita ／ Crazyrouter を使い始めるには、アカウントを登録し、モデルを選び、残高と利用権限を確認してから小さなタスクを試します。この Crazyrouter ガイドでは、登録、モデル選択...</summary>
   </entry>
   <entry>
     <title>Geminiを無料で利用しているユーザーは、10月9日から始まるこの重要な変更点に注意してください。</title>
@@ -141,11 +183,11 @@
     <summary>Bloomberg.com</summary>
   </entry>
   <entry>
-    <title>ローツェ株AI特需で16%高、中国地方で時価総額ファストリに次ぐ</title>
-    <link href="https://news.google.com/rss/articles/CBMibEFVX3lxTFB2dlg3bER2UVdvZlVBQ3pWQU1aZmtDTG9uT1BjOUpUcUloZkFrbkM4N2JvTGZTLXZjWDlqTllKRC12aXpOZFZ6eG9ud1NHbkJOVHdJanMxcHRHTTRMd1hJeWF6eF9QX1VKY044dA?oc=5"/>
-    <id>https://aimatome.gamelab.website/#b7cb803d7495</id>
-    <updated>2026-10-09T08:47:00.000Z</updated>
-    <summary>日本経済新聞</summary>
+    <title>介護現場の記録作業や申し送りをAIで効率化！Googleが「介護向けGemini活用ガイド」を公開</title>
+    <link href="https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpdm13Rk5UQ2xLcjV4czdJaGhUMnhvSzhkZ25vNjlxWUd6TGRmOHRldGZKaVlIT01ZMTdyc1o5Z0xEUUZ3U2NfNVdzXzM?oc=5"/>
+    <id>https://aimatome.gamelab.website/#bd101991ed5c</id>
+    <updated>2026-10-09T08:48:45.000Z</updated>
+    <summary>DXマガジン</summary>
   </entry>
   <entry>
     <title>ファネルAi、同一顧客の並行商談で情報混入を抑止する「AI商談文脈ガード」を提供開始</title>
@@ -218,13 +260,6 @@
     <summary>Moomoo</summary>
   </entry>
   <entry>
-    <title>沖縄戦巡る書籍で誤り、絶版に AI検索で採用の判例、存在せず</title>
-    <link href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE11NHE5MVl3VmRiNTh4ck9TT01RNkprakM1M0hTZzZyeXd0VWRlSkNSOUxGeFJEdjNTQ2xfbHNNOGJCVVNWQXU3T2JxYXhkb3p1OG9RbzYyQmdWMk5sTXlmcHBqdXB0cTZZ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#972aecb67502</id>
-    <updated>2026-10-09T08:18:27.000Z</updated>
-    <summary>毎日新聞</summary>
-  </entry>
-  <entry>
     <title>AIエージェントによりITシステム運用業務効率の向上などを実現 - bp-Affairs</title>
     <link href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE84VDM2YnJhVlNFX05GeWt5el9jWXk1cXNSMjRqMWtpWmp6YlJVLXJVOXI1VGVCdFpGZHFDVkJiNG5qUENuZU9zQ0NoeE9FU0g0WjJUVkJhS0ZLRktyWEhnTUFBNHoxUQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#5e86af3e2f77</id>
@@ -281,13 +316,6 @@
     <summary>PC Watch ／ SpaceXAIが提供するAIエージェント「Grok Bot」は10月8日、X上の投稿の検索や読み込み、監視に対応した。</summary>
   </entry>
   <entry>
-    <title>見逃されがちな疾患を拾い上げる臨床AIのHealthleap、Sequoia Capitalらから3,800万ドルを調達</title>
-    <link href="https://news.google.com/rss/articles/CBMigwFBVV95cUxQM3F3OHlFMXpfTDBYUVZmSE5KQllvOG9oSnJNUGN2b0xlVWJ3X05FUTFvNDdFanNyaXpyRGZKWk9FVVV0SnUxTE45eXNWcHI3ZkdGQ1loaHcyLU84NW85RGlXOTVWWjlGcGZJWXdtOEFIMXRZejFXcHJVWmVfaWFpTS1zRQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#11baf269d34c</id>
-    <updated>2026-10-09T08:05:01.000Z</updated>
-    <summary>BRIDGE（ブリッジ）</summary>
-  </entry>
-  <entry>
     <title>Google Cloud「Geminiエージェント」発表 他社のClaudeも選択可能、モデルを替えても業務の文脈を保持 PCを閉じても業務を継続</title>
     <link href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YX0RYbFN4OEFFT3pxSTV1c3Ztd0g2TXNybUZnYjhhdnl4dEhMV3RLb2lVSUI3S3F5aFpzTDYzUm5ZdWpiMlc1UzN4TUlFc19NMWJ2dGZFYU51eTAwa1hNZA?oc=5"/>
     <id>https://aimatome.gamelab.website/#ddc2a3fd6eac</id>
@@ -309,13 +337,6 @@
     <summary>Vietnam.vn</summary>
   </entry>
   <entry>
-    <title>AI検索時代！最新のGoogleマップ活用対策術！～新規集患が獲得できるマップ上の仕組みづくり～</title>
-    <link href="https://ascii.jp/elem/000/004/441/4441659/?rss"/>
-    <id>https://aimatome.gamelab.website/#4d7c438a7507</id>
-    <updated>2026-10-09T08:00:00.000Z</updated>
-    <summary>ASCII.jp</summary>
-  </entry>
-  <entry>
     <title>SNSもAIも信じきれない。流行りが一瞬で生まれる時代の、私の買い物の仕方</title>
     <link href="https://www.businessinsider.jp/article/2610-sns-ai-shopping-preferences/"/>
     <id>https://aimatome.gamelab.website/#7ea93cc723e7</id>
@@ -335,26 +356,5 @@
     <id>https://aimatome.gamelab.website/#6407fad4136a</id>
     <updated>2026-10-09T08:00:00.000Z</updated>
     <summary>日経ビジネス電子版</summary>
-  </entry>
-  <entry>
-    <title>住宅ローン組成をAIエージェントで支援するVesta、シリーズBで3,000万ドルを調達</title>
-    <link href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBJWk1SbDFDNjBwUl9LSm93anF4Uk43S1hHZWR0YWFMUzdvZWxTaGJlT2tqMGpZUTQ4NGZaMU96U01hNGlDWVVQVnNySXZSTzhLM0huT19URUxJRDdvQW95aTJKVVVhcm5aQnhmWUFDcw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#00550ee8664c</id>
-    <updated>2026-10-09T07:58:14.000Z</updated>
-    <summary>BRIDGE（ブリッジ）</summary>
-  </entry>
-  <entry>
-    <title>東証小幅続落、終値11円安 AIや半導体関連売られる</title>
-    <link href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE81dHZORFcxdnc3ajVDaF9yT01Vc1hqWlVkbWhFLTlpVVktLTB6V3ZRS3l6UFBDMVZiM0ZaVlJoT3I4TzVHT05xWlZGVQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#8733cc15ff95</id>
-    <updated>2026-10-09T07:57:00.000Z</updated>
-    <summary>47NEWS</summary>
-  </entry>
-  <entry>
-    <title>Google、業務向け新AI「Gemini エージェント」を発表。数日にわたるタスクも自律処理</title>
-    <link href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3RnZKVXhWVDg0Z2M3em0ySVBJQkJubjNWWFhSRW5qT0hqaThsejhPbjBzQy1ZRFdtOU5iMG9XcHo1VHNXcFRSdnFFOTlKazhtRGxIMS0wcVlDNkNGdE55T2tOWQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#faa376ce5999</id>
-    <updated>2026-10-09T07:55:06.000Z</updated>
-    <summary>株式会社インプレス</summary>
   </entry>
 </feed>

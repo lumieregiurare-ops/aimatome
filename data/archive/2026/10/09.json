@@ -1,5 +1,110 @@
 [
  {
+  "id": "4ea4222c64a7",
+  "title": "Claude Code v2.1.295 が変えた7つの挙動——フック失敗のブロック化・429待ち上限・バックグラウンド修正まとめ【2026-10-09速報】",
+  "url": "https://qiita.com/Sidejob/items/f6ecb607af26801270d3",
+  "source": "Qiita",
+  "summary": "コマンドフックを設定していたのに、タイムアウトしたまま次の処理に進んでいた。onFailure のデフォルトは continue（失敗してもスルー）なので、フックが止まるはずのアクションが実行されていた——気づいたのは、ログを見返したときだった。 v2.1.295 でこの挙...",
+  "publishedAt": "2026-10-09T10:30:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "35ea3ff98239",
+  "title": "note生成のログが、記事の事実情報に混ざっていた話",
+  "url": "https://qiita.com/J-WORKS_HQ/items/a5db1ddca111a6d17971",
+  "source": "Qiita",
+  "summary": "記事を生成する処理自身のログが、その記事の「事実の出典」に混ざっていました。原因は、記事の材料を集める処理が、運営イベントの記録を区別せずに読み込んでいたことです。 記事の根拠として渡す情報は、記事生成とは別の場所から集めるものだと思い込んでいました。しかし、生成処理が記録...",
+  "publishedAt": "2026-10-09T10:26:57.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4bb224b8e19c",
+  "title": "マグニフィカント7銘柄、エンタープライズAIエージェント発表後にBMOが強気姿勢を維持 執筆 - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuN2N0bXNXSFlKX1dKY0RadU5MdnpRQVdfZlBwcnJtNU4wSUhHalhaRE9tX1BGa0duZEpLcWQydGt5ZWx2Mk5sWHdoWDIxTHBlTlVZcnJTdmxFUk1vS3QzVXBENlJhanVfNl9nS3puODU?oc=5",
+  "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-09T10:20:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f8dcd69c045d",
+  "title": "県内企業でも生成AI活用が「常識」に 導入率36％と全国並みに急増、8割が効果を実感【高知】（高知さんさんテレビ）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GWFVJRWFsblRnVkdJZmJTb25BaGNIenFwTnNaR0o4clpvbVNJRzEwMzFIR2tVbU9kejJ0d2dHenBqTThuT1hOWENWSkVzLTVrM2w1SjZNSHg0cWtWVlNVVzBvV3BzcGJsRTZFMWlnd3NkdXI3RFNaUE1jeEd0TTg?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-09T10:16:02.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "458033060487",
+  "title": "Oktaが自ら実践、カスタマーゼロから学んだAIエージェント展開と統制",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QOTA5QmpYWE5FSFJjVm1CLWI2TWpkc3NrVzhVMmdGMExpdFdLOWgtQWdBT2Z4dUNUeGRZOGloNWdvZk5ocEhHNWZ0LTIyOGk3T2xZ?oc=5",
+  "source": "IT Leaders",
+  "summary": "",
+  "publishedAt": "2026-10-09T10:02:33.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "60a70c998b65",
+  "title": "山中で遭難の16歳少年、登山計画に生成AI「Claude」利用 救助隊は「ルートの妄信」警鐘",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yOWtsa2RCOG9EYjF5VTVxeGdnUWNVUGhDazhKTWVmWWc3amg1LVJ1LXRUYUtFZFE0cmRLdFpENWpKbElGSFc4Y0prZkozRkxONms2V1JGMVpBd2hCSXl4dWFSd0JteWNjc2c?oc=5",
+  "source": "ITmedia",
+  "summary": "",
+  "publishedAt": "2026-10-09T10:02:28.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7a84e32cdbf9",
+  "title": "MetaやOpenAIが「.agent」を新ドメインとしてICANNに申請、「.agi」やトランプ大統領の「.trump」に加え日本からは「.neko」も",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iOEtHRnFUakktaG05LUluUmFUcTNjZXhjQVpfTnF3T3pxeC1TeGxQVGhtX0ZaZ29NNU9XeWxXN0N0cUlGdGlVZWdPc0VxRlREbTB1M3pzRzlSeTB0SmZtMWtUOVJ6SDlWTVBzdTVZSTZFb2VQRDFQcw?oc=5",
+  "source": "GIGAZINE",
+  "summary": "",
+  "publishedAt": "2026-10-09T09:59:53.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "392e606eb2d3",
+  "title": "AIエージェントを「試す」から「業務で使う」へ。アップデイティット、9つの実践例を解説したホワイトペーパーを公開",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56dnpSM3V0bnpOMnNSUDVpM0JhSnFYanFwWkplcHFZMEE2alBjNXMyb2RIME11cktaQVMtcklKOWNBaEVELVpKYUppZVpYSHZtUEVyNGxZeENwT3dCYlpoS1VhTktudmdvU0pR?oc=5",
+  "source": "時事ドットコム",
+  "summary": "",
+  "publishedAt": "2026-10-09T09:46:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "dd67c46c8259",
   "title": "Gemini「プロジェクト」Google ウォレット連携へ【アプリ解析】",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNVV2NWZnbEtaQ3k4VE52N3JZS2RLSzBoODlUblk4MHhBQl9OUmVjQS02UFRVRHJBeWo4MGY0NWJ5Wk1WY3N3ZjZfRTRiQU5Ob1dIN2tNWWF2Yk92MHI5dDdfaXgydXlNc0lmSE5pSEdtNm9lRVk0ZDhrUzB2SlVuM0t3WQ?oc=5",
@@ -54,6 +159,19 @@
   "isPR": false
  },
  {
+  "id": "c104ef75b377",
+  "title": "「生成AIは言語の壁越える」サイバー攻撃大規模化で企業からの“情報漏洩”5000万件超に 「ビューカード」も被害",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kQXcwdl9YZWpGanlYbXFlcU15d3Z6S2ZmdW50NnlSRHJiaDZNV0VGMzJYZFdxYTJ2Umt0ampwMURpd2JVTDFjNXdlMk5ZT2JBNVVkY2cyQTNwbGRhTUh3TXl2UXVtX0hPUndTOHVXcUVJWFlDWDFmS09XS2hYZ1U?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-09T09:33:23.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3815b165477a",
   "title": "国内最大級フォロワーAIアニメ『深夜のドカ食い天使ちゃん』オフィシャルファンクラブを開設！オリジナルフォトも発売決定！",
   "url": "https://ascii.jp/elem/000/004/441/4441679/?rss",
@@ -67,6 +185,20 @@
   "isPR": false
  },
  {
+  "id": "b7445575823c",
+  "title": "韓国の銀行を狙ったサイバー攻撃、犯人は「中国在住の26歳」か Claudeで作った“犯行実績入り履歴書“から浮上",
+  "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002176/",
+  "source": "ITmedia AI+",
+  "summary": "米CrowdStrikeは10月7日（現地時間）、韓国の金融機関を狙ったサイバー攻撃の攻撃者が、中国在住の26歳の人物である可能性を示す分析結果を公表した。攻撃者が使ったAIツールの履歴に、本人のものとみられる個人情報が残っていたという。",
+  "publishedAt": "2026-10-09T09:29:55.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "132f48395ae8",
   "title": "【入門】AIのAPIアグリゲーターに初めて触る：Crazyrouterを画面ごとに、最初の画像生成まで",
   "url": "https://qiita.com/whitemarshall/items/94c1928e40de15695e35",
@@ -76,20 +208,6 @@
   "image": "",
   "categories": [
    "dev"
-  ],
-  "isPR": false
- },
- {
-  "id": "b7445575823c",
-  "title": "韓国の銀行を狙ったサイバー攻撃、犯人は「中国在住の26歳」か Claudeで作った“犯行実績入り履歴書“から浮上",
-  "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002176/",
-  "source": "ITmedia NEWS",
-  "summary": "米CrowdStrikeは10月7日（現地時間）、韓国の金融機関を狙ったサイバー攻撃の攻撃者が、中国在住の26歳の人物である可能性を示す分析結果を公表した。攻撃者が使ったAIツールの履歴に、本人のものとみられる個人情報が残っていたという。",
-  "publishedAt": "2026-10-09T09:27:19.000Z",
-  "image": "",
-  "categories": [
-   "product",
-   "policy"
   ],
   "isPR": false
  },
@@ -144,20 +262,6 @@
    "product"
   ],
   "isPR": false
- },
- {
-  "id": "392e606eb2d3",
-  "title": "AIエージェントを「試す」から「業務で使う」へ。アップデイティット、9つの実践例を解説したホワイトペーパーを公開",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xS2ZIYnpIQ0pSTjJxS0xHRW1mQ0xwMS1NV20yLWlyTnNCYjZLOXpsRXdqb19jampCYzdxYkg5NWFadk4tZ0VVYjRodG9lckVXVXI0ejcxVDZtMXVHMVNTbHctd0x2bEROcGc?oc=5",
-  "source": "PR TIMES",
-  "summary": "",
-  "publishedAt": "2026-10-09T09:19:31.000Z",
-  "image": "",
-  "categories": [
-   "product",
-   "dev"
-  ],
-  "isPR": true
  },
  {
   "id": "d5035d7fecd8",
@@ -273,6 +377,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bd101991ed5c",
+  "title": "介護現場の記録作業や申し送りをAIで効率化！Googleが「介護向けGemini活用ガイド」を公開",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpdm13Rk5UQ2xLcjV4czdJaGhUMnhvSzhkZ25vNjlxWUd6TGRmOHRldGZKaVlIT01ZMTdyc1o5Z0xEUUZ3U2NfNVdzXzM?oc=5",
+  "source": "DXマガジン",
+  "summary": "",
+  "publishedAt": "2026-10-09T08:48:45.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "product"
   ],
   "isPR": false
  },
@@ -1221,19 +1339,6 @@
   "isPR": false
  },
  {
-  "id": "7a84e32cdbf9",
-  "title": "MetaやOpenAIが「.agent」を新ドメインとしてICANNに申請、「.agi」やトランプ大統領の「.trump」に加え日本からは「.neko」も",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iOEtHRnFUakktaG05LUluUmFUcTNjZXhjQVpfTnF3T3pxeC1TeGxQVGhtX0ZaZ29NNU9XeWxXN0N0cUlGdGlVZWdPc0VxRlREbTB1M3pzRzlSeTB0SmZtMWtUOVJ6SDlWTVBzdTVZSTZFb2VQRDFQcw?oc=5",
-  "source": "GIGAZINE",
-  "summary": "",
-  "publishedAt": "2026-10-09T07:00:00.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "cdb320025df9",
   "title": "Claude Haiku 5.5 の effort 別に日本語の文章のタグ付けを Jev と比べた",
   "url": "https://zenn.dev/serotoninmax/articles/claude-haiku-55-effort-jev-tagging",
@@ -1243,6 +1348,20 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4eba06d5e078",
+  "title": "ドコモビジネスと日本IBMが協業 AIエージェントの安全な活用へ",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQSGdGTk9MTkJNVFlndzBPQjJnVWhEYUFmUE0zSHhlMkZ0U2lWMVhsRjBoejlIS3JDbHM0Y3FXbUV2ZFF6VURBVkZkS3l3UlNUb09vVVR2dk5WaWVwazlv?oc=5",
+  "source": "PlusWeb3",
+  "summary": "",
+  "publishedAt": "2026-10-09T07:00:00.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "case"
   ],
   "isPR": false
  },
@@ -1531,20 +1650,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "457e2a8e5cbe",
-  "title": "リユース業界で導入拡大、生成AI向け相場データサービス「aucfan.com MCPサーバー」累計契約数100件を突破",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WVy1OS2NJZV96aEw1R29Cc2pDODJJWW93RnBzZmhzMno3ejR6RExrSjBqM2dGVjgzRGpiYURJTDFQbjRJSXREcEZ5OG4wWlZQbEZRNzlPUmhHczNWa3Izc1dKWUs2V1V4ZUZkY080T3pyUQ?oc=5",
-  "source": "Infoseek",
-  "summary": "",
-  "publishedAt": "2026-10-09T06:15:39.000Z",
-  "image": "",
-  "categories": [
-   "business",
-   "case"
   ],
   "isPR": false
  },
@@ -2379,6 +2484,20 @@
   "isPR": true
  },
  {
+  "id": "457e2a8e5cbe",
+  "title": "リユース業界で導入拡大、生成AI向け相場データサービス「aucfan.com MCPサーバー」累計契約数100件を突破",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xb2cxaWlMWVJiOG9qUHZqNTV5blk5T1FfWTR1cXozOTdvQ2FwdVE1THY5NFFpbnU4bHJzaHJwZmFORnEtODR0WmNiYUUtenlCbFEzeFAwbGFHTE1ZOFFBSXBmU3dXcThNOGc?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-09T04:00:01.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "case"
+  ],
+  "isPR": true
+ },
+ {
   "id": "1fde7999b378",
   "title": "GMOインターネットグループ、Google Cloud とAI推進プロジェクトを展開",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WWTA5V2dyLXF6VmQ3SnB5TExaS2lIM3pLeGRFV2pzcmZhVmVmYkFpNm0wejRuUzh5VERLLUp6ZTl6R185THFQRnRsLUtLbXB3YXhpYXA1ZmJiTmQ5MC16azhQb29FRVNiaFE?oc=5",
@@ -2560,6 +2679,19 @@
   "image": "",
   "categories": [
    "business",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ec583ac463d7",
+  "title": "AI･半導体株が売られる一方、ソフトウェア関連株に買い",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56NHVwOXpseXNQVXc1STVOSlZjTkdkSzRoY0JhTmFHaEFNUHFOOGVNeWZESDJpVHZ5bWJWd2J0UEZJXy13R1NSaTRVWnlEMjl4U3AyMA?oc=5",
+  "source": "日経CNBC online",
+  "summary": "",
+  "publishedAt": "2026-10-09T03:40:00.000Z",
+  "image": "",
+  "categories": [
    "infra"
   ],
   "isPR": false
@@ -3907,6 +4039,20 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2df6df91c64e",
+  "title": "OpenAI、EUで生成テキストに透かし導入へ ChatGPT・Codexが対象",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4SEtvLV9MYXdwanRuTmZyT1NtSm5Sb1FPdHFQWWJnQTlqN2M2QU5NQzhnbVhiYTdtM1Q0WnoxNjJHU1lGVmxSaVZELS16cjN5RTNZSzBRdXFFV09CcTFz?oc=5",
+  "source": "PlusWeb3",
+  "summary": "",
+  "publishedAt": "2026-10-09T01:30:00.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "case"
   ],
   "isPR": false
  },
@@ -5500,19 +5646,6 @@
   "isPR": false
  },
  {
-  "id": "3f897a5fb55a",
-  "title": "さくらインターネットが企業専用の生成AI基盤「さくらのAI Engine プライベートエディション」提供（Web担当者Forum）",
-  "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSTk3RlI1aHdqUGpHOHlWbkRMWE9ZMWNCYm1UNTAwdGZ2eXJENU92Tzd0Wk0waFFLZXVmckM4cjBHdmdPSlM3TEdWUlZ1R000Y3kyOUZMaVZIdmpCS0lHTzU5NjJWRkZ0WlhSMVF2NlhhYTQ3X2xwQXRQdm96RUxLaFBsbHpRQnBrUUV1cnh3X1U4UU1EUkQ5ZFZEbWgtLXRSaVZMVE04YjBVZXc?oc=5",
-  "source": "ｄメニューニュース",
-  "summary": "",
-  "publishedAt": "2026-10-08T22:18:45.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "3da7e2b3c798",
   "title": "株式分割が話題のキオクシアと太陽誘電で評価が分かれる理由とは？ キオクシア元研究開発者の億り人・もふ氏が「AI・半導体株の利益成長予想」をAI需要から読み解く（マネーポストWEB）",
   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmtHd2h1Q1VGODl1TEg2bTlfODVjdWZNRGk5M0VnVFJVMTJuNTJ0a2pfblkxUzJSUHctcjc1ckR6SWtncndPTE5TUlotSC1SUEctcHZBaFNBMnAtYXdhNXZxMEVwbFRxVTZ4emRWUEdJVTFxeGxXdDY2eE1TeHhsRDUxX0h6WElL?oc=5",
@@ -5576,6 +5709,19 @@
   "image": "",
   "categories": [
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3f897a5fb55a",
+  "title": "さくらインターネットが企業専用の生成AI基盤「さくらのAI Engine プライベートエディション」提供",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHdGczdWdWMzloSURUTFRhdUUwU1MtaURTS0tRcUZaSW1yOWN3MnhLN2JqX1pwdlJ5TkoyWFdKMW5QNDdwSmN4QUd5TjYwUHFab1NJNTlGTC03YmM?oc=5",
+  "source": "Web担当者Forum",
+  "summary": "",
+  "publishedAt": "2026-10-08T22:02:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -6403,6 +6549,19 @@
   "url": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00149/100100003/",
   "source": "日経クロステック",
   "summary": "ステア・バイ・ワイヤ（SBW）は、ステアリングホイールとタイヤの間の機械的なシャフトを省いた構造だ。End-to-End（E2E）自動運転との親和性の高さや新たな空間の創出を狙って開発が進み始めた。ドイツZFやジェイテクトが先行し、ドイツBosch（ボッシュ）やAstemo（アステモ）が追いかける。開発の競争軸は冗長…",
+  "publishedAt": "2026-10-08T20:03:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7850ee844ec4",
+  "title": "AI時代に消えるITベンダー、残るITベンダー",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qa05rbHdHbjY5UFprbGp0YkpCWlVXOEU1X25obWMyRE5DTVlPY1RIV193d0VhWnR3LTRUWWp4amxsbllPWDBSRW5nQU5qUFZ6MHZoNG9uZ0s0WHp3YVh3?oc=5",
+  "source": "日経クロステック（xTECH）",
+  "summary": "",
   "publishedAt": "2026-10-08T20:03:00.000Z",
   "image": "",
   "categories": [
