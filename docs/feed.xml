@@ -5,8 +5,43 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-10T10:00:17.327Z</updated>
+  <updated>2026-10-10T10:30:15.336Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>Claude Code v2.1.296 で変わった6つのポイント——Shift-JIS誤書き換えバグ修正・allow_large追加・529リトライ制御まとめ【構成v2】</title>
+    <link href="https://qiita.com/Sidejob/items/23164cd9bd478d782a80"/>
+    <id>https://aimatome.gamelab.website/#3d950cfd71b9</id>
+    <updated>2026-10-10T10:30:02.000Z</updated>
+    <summary>Qiita ／ この記事で分かること： allow_large オプションでファイルをまるごと読めるようになった背景と使い方 非 UTF-8 ファイル（Shift-JIS・Windows-1252・GBK）の誤書き換えバグが直った経緯 529（Overloaded）リトライの最大待ち...</summary>
+  </entry>
+  <entry>
+    <title>Claude Code Projects、ウェイトリストのPro・Max全ユーザーに提供開始</title>
+    <link href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQVTdqVnBBZ01MQzUtNGFOY1FMWTlNVng3QWFNTkp6ZTNmWjBlMzVDRlVITENGaVlVOXFDZ2hoLUVpUWxRRnZuMHUxYkhMQ1dwYmp3ZHdFUHc4NzBVdnJTM29WejI4ellUbFg0b0VDUDVXRXZGM2wxVlZMSDZhNzFPYzdMOXRndVBZRUlzaFBnMHlPZw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#563b66861984</id>
+    <updated>2026-10-10T10:24:52.000Z</updated>
+    <summary>Pasquale Pillitteri</summary>
+  </entry>
+  <entry>
+    <title>グローバル人工知能（AI）小売市場のトレンド：成長機会と課題に関する洞察（2026年から</title>
+    <link href="https://news.google.com/rss/articles/CBMiSkFVX3lxTE5VSzZmOE5DMWlBeU1JZHdSSURuODBLYzJaS19ycnZvc0ZBQTRtSHhINU00TWpaSS11WFNRbHJ1X2puZF9pc3dDVEZn?oc=5"/>
+    <id>https://aimatome.gamelab.website/#f91b437c41ab</id>
+    <updated>2026-10-10T10:07:05.000Z</updated>
+    <summary>pando.life</summary>
+  </entry>
+  <entry>
+    <title>米アンソロピック AIが意図せず警察に殺人事件の架空情報送信</title>
+    <link href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfX0RKSUdZc2lDY1VwaF9udy1Qc1NqTjRXanNfVmk3WVN5aVhvU1FiMW9RNnp5eW8wMEd0MlJIZ29qVlJIcV9MNjljYnZRcnBxemNpMGphdXBjLWo4cTNj?oc=5"/>
+    <id>https://aimatome.gamelab.website/#788d85a578e9</id>
+    <updated>2026-10-10T10:03:42.000Z</updated>
+    <summary>NHKニュース</summary>
+  </entry>
+  <entry>
+    <title>公共サービスの運営にAIエージェントを活用する試験的導入の提案。</title>
+    <link href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnVQS0tZTWgyanR6bGk3dUc4VFpPbmZ1LWZFQ0czc1Q5T3BkMHZyTHNGQWF4anZJd0FVNS1XdkNSSmpGS2o5bUxzUkJ5a2VJeHhRTTgyY2xJSWhLLVE4VDF4REFyUWY5NzllVlllOTBoVVBDSm5ZNFJtaExyOGIwVVZueDZyOXV4?oc=5"/>
+    <id>https://aimatome.gamelab.website/#a400fe830fcb</id>
+    <updated>2026-10-10T10:02:44.000Z</updated>
+    <summary>Vietnam.vn</summary>
+  </entry>
   <entry>
     <title>gpt-rosalind-discovery、OpenAIのAPI料金表に登場、正式発表はまだ</title>
     <link href="https://news.google.com/rss/articles/CBMikgFBVV95cUxNa29kZmFUQlk1NTg2YnJxZVlGRHBIcTN6UkFYczBxa0RBT3ZtaWJlMU1BdFpKTVA4T25QcGEzRnFlMVJZVkJObS1ZbEczMTlGRkQtMDVRdFdUODFZRTVlUzZ1cnA5cGNINXZKZUhTa2ZzZ1B0ajNMa19nbDJ3M2hLNlZmZ0hwV1J6cG5fOGtCVTdsQQ?oc=5"/>
@@ -36,13 +71,6 @@
     <summary>Pasquale Pillitteri</summary>
   </entry>
   <entry>
-    <title>話題のAI「Jev」は何に使える？実用的な使い方を考えてみた</title>
-    <link href="https://zenn.dev/cyberheatradar/articles/2db2d62e025cc8"/>
-    <id>https://aimatome.gamelab.website/#82f5ad79eb37</id>
-    <updated>2026-10-10T08:37:17.000Z</updated>
-    <summary>Zenn ／ はじめに 2026年9月15日、TypeSafe AIから「Jev」というAIモデルが公開されました。 Jevは、ChatGPTやClaudeのように文章を生成するのではなく、分類や評価などの「判断」に特化しているのが特徴です。 Jevの概要や性能についてはすでにさまざまな記事が公開されているため、今回は**「Jev…</summary>
-  </entry>
-  <entry>
     <title>動画生成AIを使わず動画ができる――Claudeがデータをダッシュボードやアニメに変える新機能を公開</title>
     <link href="https://news.google.com/rss/articles/CBMiQkFVX3lxTE5LYzh0RVBrcWo0U0x2R1c1b3p5ck9mSHBEcVVNYTJwcDloc1B5OHVqVHREaVQtaUJHV1JZOWZ3WUJ0QQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#baa8aae87cef</id>
@@ -61,13 +89,6 @@
     <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5kUnRIbndVMjh2NFFfLVI0aWVpLVpOVXBSWnNwLXp0T0lJN0hmbU1SbmJGWW85V1VmV2xMOTQ2TnM2bFJBZ1dfakY0TDROMF9hMHhqUUF2TzFRQkVZWTZwU201WS01bGlSNGFQTTFqbW1SNkw4?oc=5"/>
     <id>https://aimatome.gamelab.website/#8d6e5a987fc1</id>
     <updated>2026-10-10T08:25:00.000Z</updated>
-    <summary>BigGo ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>マイクロソフト、高速意思決定モデル「Decision-1」を発表——GPT-6 Solの35倍の速度</title>
-    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE0tVW1TS0hoQ05oYmcySjVyZndUSEN6V2wwY1AyLTlObnM2dmRndlNmMGJUVkw0bHdfY2c1aTVuMm9iOTRqTHVBNWcyeEVHX3A4Tm9acnpad0NCSTB6ZDZEeU53Z2gxcTFEUlpBUFhHaC1JNEdu?oc=5"/>
-    <id>https://aimatome.gamelab.website/#711b0197c52b</id>
-    <updated>2026-10-10T08:22:45.000Z</updated>
     <summary>BigGo ファイナンス</summary>
   </entry>
   <entry>
@@ -99,34 +120,6 @@
     <summary>Martin Cid Magazine</summary>
   </entry>
   <entry>
-    <title>MSのDecisionモデル Microsoft-Decision-1 をFoundryで動かして、業務資料の分類してみたよ。</title>
-    <link href="https://zenn.dev/nomhiro/articles/microsoft-decision-1-vs-jev-openai"/>
-    <id>https://aimatome.gamelab.website/#5af4ec092e12</id>
-    <updated>2026-10-10T07:35:19.000Z</updated>
-    <summary>Zenn ／ はじめに 判断モデルといわれるモデルとして、まずJevが出て、OpenAIがDecisions APIを出して、今度はMicrosoftからも出ましたねー。流れが速いです。Microsoft-Decision-1は、文章は生成せず、選択肢ごとの確率だけを返す「判断専用」のモデルで、Foundryから使えます。 htt…</summary>
-  </entry>
-  <entry>
-    <title>d1-3Bをローカルで動かし設備点検記録48件を再測定 — クラウドに出せないデータの選別に使えるか</title>
-    <link href="https://zenn.dev/jodycraft/articles/d1-3b-local-equipment-inspection"/>
-    <id>https://aimatome.gamelab.website/#b4984e4da41f</id>
-    <updated>2026-10-10T07:32:19.000Z</updated>
-    <summary>Zenn ／ ! 📋 この記事の前提 連載の続編です。前回の Jevとd1を設備点検記録48件で実測比較 の計測（10月3日）から4日後、d1がオープンウェイト化されたので、同じ48件で「ローカル実行」を試した記録です。前回の最後に予告した「C#から呼ぶ」も、この記事で回収します 製造業のDX担当・生産技術・AI導入を検討してい…</summary>
-  </entry>
-  <entry>
-    <title>【10月9日公開】Claudeが「練習」で本番フォームを送信。4種類の逸脱と、評価環境を守る3つの方法</title>
-    <link href="https://qiita.com/emi_ndk/items/303281980b5b1d50baa1"/>
-    <id>https://aimatome.gamelab.website/#9c7a594b1024</id>
-    <updated>2026-10-10T07:31:19.000Z</updated>
-    <summary>Qiita ／ ブラウザー操作AIに「送信直前で止めること」と書いているなら、その指示が破られた後の行き先を確認してほしい。 Anthropicが10月9日に出した公開報告には、実サイトのフォームを意図せず送信した事例がある。きっかけは、別々の事例に見られた次の3つだ。 練習用フォームが...</summary>
-  </entry>
-  <entry>
-    <title>MCP入門、TypeScript SDKで最小サーバーを作ると新仕様は既定でオフ</title>
-    <link href="https://zenn.dev/kai_kou/articles/1211-mcp-typescript-server-minimal-guide"/>
-    <id>https://aimatome.gamelab.website/#74ebcc024e0e</id>
-    <updated>2026-10-10T07:18:11.000Z</updated>
-    <summary>Zenn ／ はじめに MCP（Model Context Protocol）のサーバーを自作しようとすると、最初に迷うのが「どの版の仕様に合わせて書くか」です。2026-07-28 版の仕様では、これまで必須だった initialize ハンドシェイクが廃止されました。一方で、公式 TypeScript SDK で最小構成に書い…</summary>
-  </entry>
-  <entry>
     <title>【秋の特別セール開催】セアボルのAIノイキャン搭載「集音器」シリーズが最大48%OFF！会話が弾む最新イヤーカフ型『Liberte』など全4モデルでシニアの外出をサポート</title>
     <link href="https://ascii.jp/elem/000/004/441/4441767/?rss"/>
     <id>https://aimatome.gamelab.website/#5b068177c251</id>
@@ -153,13 +146,6 @@
     <id>https://aimatome.gamelab.website/#0f3657217ac2</id>
     <updated>2026-10-10T06:52:19.000Z</updated>
     <summary>Vietnam.vn</summary>
-  </entry>
-  <entry>
-    <title>AIに小説の企画書コンペをさせたら、ミステリは全員「語り手が犯人」だった</title>
-    <link href="https://zenn.dev/infra_ojisan/articles/ai-novel-proposal-compe"/>
-    <id>https://aimatome.gamelab.website/#2c0c42848202</id>
-    <updated>2026-10-10T06:45:18.000Z</updated>
-    <summary>Zenn ／ はじめに AIに小説を書かせる実験を続けています。今回は、書く前の段階、つまり企画から複数のモデルに競わせました。 仮説は二つです。 工夫した依頼書でコンペをさせても、AIの企画は類型に収束するのではないか。 ジャンルの「らしさ」を指定しないと、AIはそのジャンルである意味を活かさないのではないか。 結論から言うと、…</summary>
   </entry>
   <entry>
     <title>エージェントシティ：AIエージェントを活用した都市開発の新たな方向性を切り拓く。</title>
@@ -211,18 +197,18 @@
     <summary>Informat.ro</summary>
   </entry>
   <entry>
-    <title>うさぎのぬいぐるみが「カブ」になった — 画像認識モデルの乗り換えを、実測だけで決めた話</title>
-    <link href="https://zenn.dev/jadaq/articles/932e0d9c52f0fb"/>
-    <id>https://aimatome.gamelab.website/#fad6da2ff7ac</id>
-    <updated>2026-10-10T05:44:20.000Z</updated>
-    <summary>Zenn ／ 写真を撮ると単語シールになるアプリを個人で作っています。ユーザー（というか自分）から、こんな報告が来ました。 キーホルダーを撮ったのに、シールがひもだけになる 出てきたシールは、たしかに緑のボールチェーンだけ。肝心のぬいぐるみが丸ごと消えていました。単語のほうは rabbit と出ていたので、認識はできているのに切り…</summary>
-  </entry>
-  <entry>
     <title>中国開発の農業AIエージェントがケニアで実用化 小規模農家の収入増を後押し</title>
     <link href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE15SUVSazRLZDBkTHhSZjBybUtmN1JDR3dIMk9xVldOLVZoTTdNNVBabVV1bnJlRGRhMzVtR3czUW5KX1RFM0o5d1k3UTZ2Q3c1dWw1RtIBVEFVX3lxTE15SUVSazRLZDBkTHhSZjBybUtmN1JDR3dIMk9xVldOLVZoTTdNNVBabVV1bnJlRGRhMzVtR3czUW5KX1RFM0o5d1k3UTZ2Q3c1dWw1Rg?oc=5"/>
     <id>https://aimatome.gamelab.website/#48ebe4bfa540</id>
     <updated>2026-10-10T05:34:35.000Z</updated>
     <summary>AFPBB News</summary>
+  </entry>
+  <entry>
+    <title>手順書に置いた1行の「良い例」が、台本の6割に写っていた — AIは例文の中身だけ替えて、枠を持ち帰る</title>
+    <link href="https://zenn.dev/sbkm/articles/c4e517f964301c"/>
+    <id>https://aimatome.gamelab.website/#c14d35aa4e88</id>
+    <updated>2026-10-10T05:28:41.000Z</updated>
+    <summary>Zenn ／ 個人でポッドキャストを2番組、平日毎日配信しています。私が喋っているわけではなく、台本を AI が書き、合成音声が読み上げる番組です。台本、番組を紹介する note の記事、週1回の週報まで、書くのはほとんど Claude Code です。 AI に書かせる以上、手順書を用意します。「こう書く」「こう書かない」を並べ…</summary>
   </entry>
   <entry>
     <title>プレスリリース：生成AIが選ぶ「ブランド買取」、1位はコメ兵（言及率94.4%）［2026年9月調査］（PR TIMES）</title>
@@ -239,6 +225,13 @@
     <summary>Ledge.ai</summary>
   </entry>
   <entry>
+    <title>Codex・Claude・Cursor の利用状況をまとめて確認できる「usAge」を作りました</title>
+    <link href="https://zenn.dev/chen2he/articles/bfd3190a97ee11"/>
+    <id>https://aimatome.gamelab.website/#588233929748</id>
+    <updated>2026-10-10T05:01:03.000Z</updated>
+    <summary>Zenn ／ Codex や Claude、Cursor を使い分けていると、気になるのが利用枠の残りです。 「今のペースで使い続けて大丈夫か」「次にリセットされるのはいつか」「別のサービスには、まだ余裕があるか」。確認したいことは似…</summary>
+  </entry>
+  <entry>
     <title>Claude MaxプランのAPIクレジットをJevのように使ってみた</title>
     <link href="https://zenn.dev/driller/articles/claude-max-api-credits-jev"/>
     <id>https://aimatome.gamelab.website/#e349813a2583</id>
@@ -246,11 +239,32 @@
     <summary>Zenn ／ Claude MaxプランおよびTeamプランでAPIのクレジットが付与されました。 https://platform.claude.com/docs/ja/about-claude/api-credits-for-subscribers このクレジットで Jev のような使い方ができないかを検討してみました。 Ha…</summary>
   </entry>
   <entry>
+    <title>製造業のベテランにAIを教えて見えた、自走を分けるもの</title>
+    <link href="https://zenn.dev/factory_dx_eng/articles/ai-handson-veteran-autonomy"/>
+    <id>https://aimatome.gamelab.website/#07dcf8767759</id>
+    <updated>2026-10-10T04:52:28.000Z</updated>
+    <summary>Zenn ／ あれから、どうなったか 私は大手製造業で、デジタルやAIを使った改善や業務変革を進めるチームにいる。肩書きはマネージャーだが、部下はおらず、実態はプレイヤーだ。大手製造業では、よくある話だと思う。チームはもともと製造現場の改善を担う組織で、近年そこへデジタルやAIの役割が加わった。 前回の記事では、AIで先を走った私…</summary>
+  </entry>
+  <entry>
+    <title>AI coding agentにGoalだけ渡せば十分か――受入基準と作業範囲も渡す小実験</title>
+    <link href="https://zenn.dev/praxys/articles/poc-evidence-a-goal-acceptance-scope"/>
+    <id>https://aimatome.gamelab.website/#c13951794410</id>
+    <updated>2026-10-10T04:45:18.000Z</updated>
+    <summary>Zenn ／ 本記事は筆者が設計・実施した実験と記録をもとに、AI支援を用いて構成・推敲しています。実験設計、判断、公開内容の最終責任は筆者にあります。 AI coding agentにタスクを渡すと、しばらくして「DONE」と返ってくる。手元のテストを走らせると、緑になっている。 この実験では、その状態から非公開の受入テストを走…</summary>
+  </entry>
+  <entry>
     <title>【速報】AI、米政府機関に情報を無断送信</title>
     <link href="https://www.47news.jp/15064016.html"/>
     <id>https://aimatome.gamelab.website/#06aaa4b7c2e8</id>
     <updated>2026-10-10T04:43:25.000Z</updated>
     <summary>はてなブックマーク ／ 【ニューヨーク共同】人工知能（AI）開発を手がける米新興企業アンソロピックは9日、生成AI「クロード」が米政府機関のサイトなどに意図しない操作を行ったと発表した。国務省にビザ申請を無断送信したりしたとみられる。</summary>
+  </entry>
+  <entry>
+    <title>Claude Managed Agentsのdynamic workflows：切断後に実行状態を復元する</title>
+    <link href="https://zenn.dev/aipha_euro/articles/1d7237c3cc01d6"/>
+    <id>https://aimatome.gamelab.website/#c859a413215d</id>
+    <updated>2026-10-10T04:35:10.000Z</updated>
+    <summary>Zenn ／ 長時間動くAIエージェントの画面で、通信が切れたあとに「実行中」「完了」をどう表示するでしょうか。最後に見えたイベントを保存するだけでは、切断中に進んだ処理が抜けます。再接続時に履歴を読み直すと、今度は同じイベントを二重に処理しかねません。 Anthropicは2026年10月9日、Claude Managed Ag…</summary>
   </entry>
   <entry>
     <title>AI双雄決裂の全貌：Anthropicが評価額でOpenAIを逆転、650億ドル調達が競争構図を塗り替える</title>
@@ -274,6 +288,13 @@
     <summary>サンスポ</summary>
   </entry>
   <entry>
+    <title>AI時代のコーポレートサイト制作をやってみました</title>
+    <link href="https://zenn.dev/adajo/articles/b7a31db27e646f"/>
+    <id>https://aimatome.gamelab.website/#b7bcbc3627f1</id>
+    <updated>2026-10-10T04:22:27.000Z</updated>
+    <summary>Zenn ／ フリーランス3年目のタイミングで、法人化することにしました。 定款や法人登記……マジできつかったです。でも、IT系として忘れちゃならないのがコーポレートサイト制作。 AI登場以前にもお仕事としてコーポレートサイトの制作には携わっていましたが、今回はChatGPTやCodexを駆使して作ってみました。 1. そもそも、…</summary>
+  </entry>
+  <entry>
     <title>Googleは、無料のGeminiプログラムを制限しようとしている。</title>
     <link href="https://news.google.com/rss/articles/CBMibkFVX3lxTFB0TE5vbUQ5Zk8wdU5xMm5zakVCZlBxYU9BUndScDdFSHQycUVkLW9Kc2pzakVsNHB1OWxKVGZNVUJqN2Y5ckNiYlVMTWRoTmpHdUVNTFp1VWwzN1c1LXBlazhOVlhMYW4tTTlyRHJ3?oc=5"/>
     <id>https://aimatome.gamelab.website/#a10e22c301e3</id>
@@ -286,6 +307,20 @@
     <id>https://aimatome.gamelab.website/#e87394e37b10</id>
     <updated>2026-10-10T04:15:15.000Z</updated>
     <summary>HelenTech</summary>
+  </entry>
+  <entry>
+    <title>【速報】Claude の新機能 Claude Motion 早速使ってみた</title>
+    <link href="https://zenn.dev/branbran/articles/047821d64590f0"/>
+    <id>https://aimatome.gamelab.website/#39739f6618a9</id>
+    <updated>2026-10-10T04:13:09.000Z</updated>
+    <summary>Zenn ／ はじめに 2026年10月8日、Anthropic が Claude の新機能 Claude Motion をベータで公開しました。同じ日に Claude Dashboards も出ています。 Claude Motion は、プロンプトや手元のレポート・グラフ・画像から、短いアニメーション動画を作る機能です。さっそく…</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeのサブエージェントの権限設定は効くか。tools・disallowedTools・denyを実行して確かめた</title>
+    <link href="https://zenn.dev/yorusuzu/articles/claude-code-subagent-permissions-test"/>
+    <id>https://aimatome.gamelab.website/#93d34e2c2773</id>
+    <updated>2026-10-10T04:07:16.000Z</updated>
+    <summary>Zenn ／ この記事について Claude Code のサブエージェントの定義に tools や disallowedTools を書いても、親の設定に permissions.deny を書いても、実際に効いているかは動かしてみないと分かりません。この記事は、使い捨てのディレクトリで 11 個の検証用サブエージェントを cla…</summary>
   </entry>
   <entry>
     <title>MetaのAIエージェント「Muse」、通信各社とEC大手が連携し遮断 クロスプラットフォーム連携が相次ぎ壁に</title>
@@ -309,52 +344,17 @@
     <summary>PC Watch ／ Amazonで、MSIのRTX Spark搭載ノートPC「Prestige N16 Flip AI+ C1XM」の予約販売が開始されている。価格は109万9,800円からで、発売予定日は10月31日。</summary>
   </entry>
   <entry>
+    <title>AIと書いた判定を、AIが書いた期待値ではなく、PHP本人の答えでテストしています</title>
+    <link href="https://zenn.dev/rapls/articles/949cf199a26b07"/>
+    <id>https://aimatome.gamelab.website/#9822bc001dd5</id>
+    <updated>2026-10-10T03:37:35.000Z</updated>
+    <summary>Zenn ／ テストの期待値は、誰が書いていますか。 自作の WordPress プラグイン Rapls PDF Image Creator のコードは、ほとんど Claude と一緒に書いています。テストも同じです。そうすると、判定のコードと、その判定が正しいかを確かめる期待値を、同じ相手と同じ理解のまま書くことになります。理解…</summary>
+  </entry>
+  <entry>
     <title>Maria CantwellのAIフレームワーク、フロンティアAIを自己テストから独立監査へ転換</title>
     <link href="https://news.google.com/rss/articles/CBMirgFBVV95cUxOTXNkc1JiemlGT1p2OXNwYlRLUEJQS1RnSXE1aUxsamFRQWJHc0EzUG5VbmEyOTNJcW5keDdEcF9xdENuNFJYM2tma282VWJ0YWxwODJQVUNVcTUzZVo5amdVQVlxRTFYMjhXM0dyUlYyVHpZdUlLUjQ3Ti1pRFgzRC1GbWVwa3JrZG1vRWR6OW9hUHJIM29jSzliRFRqU2ljRzBRRW1tNUZfejBnMmc?oc=5"/>
     <id>https://aimatome.gamelab.website/#c591623c5615</id>
     <updated>2026-10-10T03:33:33.000Z</updated>
     <summary>remio</summary>
-  </entry>
-  <entry>
-    <title>Microsoft、選択肢ごとに確率を返すAIモデルMicrosoft-Decision-1を発表 ——分類やAIエージェントの行動評価に対応</title>
-    <link href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE51NjBtdWlBc01obXRSX1owMU9EUHMxOWU2MVh1QWxQcUNMWldObzVTdVFaaC1Ecy1SUEdFRGxqc2F5bDl0bUN1dTJJczk1cUlpOUZJSkdhZFZfbWpqeGpCQ0tqdw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#66c9ad626417</id>
-    <updated>2026-10-10T03:27:00.000Z</updated>
-    <summary>gihyo.jp</summary>
-  </entry>
-  <entry>
-    <title>Microsoft-Decision-1、オープンエンドの推論を高速なAI意思決定と引き換えに</title>
-    <link href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOZnNtbTdFZTh6S3RVcXlKSFFtRU9YYnJ0ZkRWclNZSUJlSDVYVXVlNVhSQk1uT00teVhHUjhxWEQ1ekxmM0pLVGdVWnFWaUVJbENVZkUwZFBoT2hYSl9fWUxfNmJQTXo3RFpfMEswVFEza2o0OWU4MXkzbFczM19qY1FjZkZtd1hfd2VqS1FEd1I5Z0NoSEp5bTVCSk9BTUVySC0xUWE5TQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#a2d6c7f0d6de</id>
-    <updated>2026-10-10T03:26:33.000Z</updated>
-    <summary>remio</summary>
-  </entry>
-  <entry>
-    <title>Ultraの倉庫ロボティクス資金調達、6200万ドルに到達――ただし本命はハードウェアとAIの分離</title>
-    <link href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNWEs3N3FjcXJ2QWgtbU5ZelJ3VzZaTTJnanVFbDhfdk0wejhjelpjRTIxZTQ5VFZoNjd5bDQ4enFidFktOG5zTHpkaXBwXzFwZTJLMzRfTVNmRkZNdERfWWVvY1FQRkJvMDNrQWxWMmpQV2trajJEUHI1NE05ajVRNkJYVlh5alNoYk1JeDRrSXFMT3RxQU1JX0NHYWtWR08xdTJubkc4VThsUkNNYkE?oc=5"/>
-    <id>https://aimatome.gamelab.website/#657efc7a9571</id>
-    <updated>2026-10-10T03:26:33.000Z</updated>
-    <summary>remio</summary>
-  </entry>
-  <entry>
-    <title>ＡＩ、政府機関に情報を無断送信 米アンソロピック「クロード」</title>
-    <link href="https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYYXQ0T1YwM1dCaUtWYko3eVBjT1dzUlowYmRBYTZHZTloNURyS3psbmo2bW1yZWRtTTBuNk42TTdjSmJkZU1yQzZ0amRnUW5hVWJBZjJnNm5YdFUzSHc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#40e55a6e15db</id>
-    <updated>2026-10-10T03:26:32.000Z</updated>
-    <summary>新潟日報</summary>
-  </entry>
-  <entry>
-    <title>ＡＩ、政府機関に情報を無断送信</title>
-    <link href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxXzdPVTBKSk8yanVKalI2UEFhUlA1OWI3TjFod1dXZUdrRDdCTTBwZWEzeDdkVjM3cDdUZWwwUnpfQ0tVSHQ0RExuNmFhNlZ4elVJSElSOA?oc=5"/>
-    <id>https://aimatome.gamelab.website/#d25a8eeec77e</id>
-    <updated>2026-10-10T03:26:00.000Z</updated>
-    <summary>埼玉新聞</summary>
-  </entry>
-  <entry>
-    <title>ついにローカルAIをノートPCで！ MSIの2-in-1ノートPC『Prestige N16 Flip AI+ C1XM』が登場</title>
-    <link href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vWVV3UUlibWVSck5TVVpNZlBQU3ZuZlBQSEpidS00TkxMbDl3bVdsWjBKcVJRaWZHZUtWUGNmT3kxYndDZXhoZllTV01lOFFxNmZ4VzVRR216anRXckpDWdIBZkFVX3lxTE56dWFDaDJiN2R4d3dzQmZxbGljeHp0SFktTTJGOTR5OVNLdk50U3JnOTZOTGV3UkdpOUxmUmJaSVYxNEpwYVU4UHBRY1Z1RkQ3VzYxZ2ctM3hxZ0xfMGQ3MmluTDJOdw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#77d5940b7f89</id>
-    <updated>2026-10-10T03:25:44.000Z</updated>
-    <summary>Real Sound｜リアルサウンド</summary>
   </entry>
 </feed>
