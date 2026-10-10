@@ -1,5 +1,33 @@
 [
  {
+  "id": "7d49a3eda805",
+  "title": "ローカルAI「FMATTN」を自分で構築する — 技術選定と開発記録",
+  "url": "https://qiita.com/FMsarge/items/79f75f069f4f7122c09a",
+  "source": "Qiita",
+  "summary": "はじめに 自分専用のローカルAI「FMATTN」を作るために、現在はモデルの選定や実行環境について調べています。 今回目指しているのは、既存のAIモデルをPC上で動かすだけでなく、Pythonによるアプリケーション制御や会話履歴の管理なども組み合わせ、自分で仕組みを理解し...",
+  "publishedAt": "2026-10-10T11:48:55.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3bb9914b9ffb",
+  "title": "OpenAI、非公開の推論を狙う「蒸留」活動を阻止 Kimi開発元の関係者が中核に関与と判断",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Nbk93bzdFS08weUluQVQzTGN2WVFvY0Q5Wk5DaTlvWHlrcmg3VjFnTmN6bldtOG9IU0FUMzVMWHZSdXRtSkhSTGY1NzBwbjA4SUFtOHNJX29Sb3NjdE82RE1Hd081VHp1c0xsb0Y5N1NNZw?oc=5",
+  "source": "Ledge.ai",
+  "summary": "",
+  "publishedAt": "2026-10-10T11:30:10.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "2cbf00327e69",
   "title": "NVIDIA粗利率75%の真実——原価6,400ドルが4万ドルに化ける理由",
   "url": "https://qiita.com/kinamocchi_tech/items/ebd8185b57a76838e2cb",
@@ -10,6 +38,19 @@
   "categories": [
    "infra",
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6f5c822f3887",
+  "title": "AIの作業の質は「何を読ませているか」で決まる ― 文脈の置き場「AIカンパニー」と出口の設計",
+  "url": "https://zenn.dev/tmiyachi/articles/ai-company-context-design",
+  "source": "Zenn",
+  "summary": "同じAIに、同じクライアントへのメールの返信を頼んでも、返ってくる文面がまったく違うことがあります。モデルは同じです。違うのは、返信を書く前にAIが何を読んだかです。 株式会社AI Orchestraの私（みやっち🧑‍💻）は、YouTubeの「【AIに仕事を奪われる】まだ人がやってたら恥ずかしい作業TOP5」とい…",
+  "publishedAt": "2026-10-10T11:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -53,6 +94,19 @@
   "isPR": false
  },
  {
+  "id": "aa5387d677fe",
+  "title": "段階型の開発ワークフロー「CRISPY」を調べた",
+  "url": "https://zenn.dev/ray_zero3/articles/72a486c1cdc159",
+  "source": "Zenn",
+  "summary": "もう最近ではAIに開発を任せるワークフローが一般的になりました。 SDD（Spec-Driven Development/仕様駆動開発）がスタンダードになり、SDDを実施する前に調査させたりする方も多いはずです。 この流れをResearch / Plan / Implementの3段階に分けて、プロンプトごとオープン…",
+  "publishedAt": "2026-10-10T10:31:04.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3d950cfd71b9",
   "title": "Claude Code v2.1.296 で変わった6つのポイント——Shift-JIS誤書き換えバグ修正・allow_large追加・529リトライ制御まとめ【構成v2】",
   "url": "https://qiita.com/Sidejob/items/23164cd9bd478d782a80",
@@ -75,6 +129,46 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dbbdae5a620c",
+  "title": "AI Consumer Research Simulator：公的統計とAI4PBに基づく自律型消費者調査基盤",
+  "url": "https://zenn.dev/hyama2396/articles/dffab397cbd56c",
+  "source": "Zenn",
+  "summary": "第5回 Agentic AI Hackathon with Google Cloud 提出資料 1. プロジェクト基本情報 プロジェクト名: AI Consumer Research Simulator（AI仮想消費者調査Webアプリケーション） キャッチコピー: 日本の公的統計とスタンフォードAI4PB研究に基づく…",
+  "publishedAt": "2026-10-10T10:21:40.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dc946327ac6c",
+  "title": "1本の動画は、ネット上でどこまで追えるのか",
+  "url": "https://zenn.dev/xianyuxin040615/articles/c1cd64a5458adf",
+  "source": "Zenn",
+  "summary": "SNSを見ていると、出どころの分からない動画に出会うことがあります。 ニュース映像の一部だったり、かわいい動物の短い動画だったり、何度も編集・転載されたインタビューだったり。私たちの手元に届くころには、元のタイトルや説明文、投稿者の情報が失われていることも珍しくありません。 画像であれば、画像検索を使って似た画像を探…",
+  "publishedAt": "2026-10-10T10:21:12.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9332099f0741",
+  "title": "アンソロピックのAI、米警察に虚偽の情報提供 不正にビザ申請も - 日本経済新聞",
+  "url": "https://www.nikkei.com/article/DGXZQOGN101I30Q6A011C2000000/",
+  "source": "はてなブックマーク",
+  "summary": "【シリコンバレー=山田遼太郎】米アンソロピックは9日、同社の人工知能（AI）が警察に虚偽の情報を送信していたと発表した。実在の未解決殺人事件についてAIが内容をでっち上げた。こうしたAIの「暴走」は混乱を引き起こしかねず、当局から非難されている。発表によるとアンソロピックのAIモデル「クロード・ハイク4.5」...",
+  "publishedAt": "2026-10-10T10:08:49.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOGN101I30Q6A011C2000000%2F",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -132,6 +226,19 @@
   "isPR": false
  },
  {
+  "id": "95bc6b7c2097",
+  "title": "米アンソロピック AIが警察に殺人事件の架空情報送信",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfX0RKSUdZc2lDY1VwaF9udy1Qc1NqTjRXanNfVmk3WVN5aVhvU1FiMW9RNnp5eW8wMEd0MlJIZ29qVlJIcV9MNjljYnZRcnBxemNpMGphdXBjLWo4cTNj?oc=5",
+  "source": "NHKニュース",
+  "summary": "",
+  "publishedAt": "2026-10-10T10:03:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "a400fe830fcb",
   "title": "公共サービスの運営にAIエージェントを活用する試験的導入の提案。",
   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTnVQS0tZTWgyanR6bGk3dUc4VFpPbmZ1LWZFQ0czc1Q5T3BkMHZyTHNGQWF4anZJd0FVNS1XdkNSSmpGS2o5bUxzUkJ5a2VJeHhRTTgyY2xJSWhLLVE4VDF4REFyUWY5NzllVlllOTBoVVBDSm5ZNFJtaExyOGIwVVZueDZyOXV4?oc=5",
@@ -141,6 +248,33 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7ebcbcab8139",
+  "title": "エージェントがウェブサイトを悪用したことを受け、Anthropicが社内AI評価でのライブインターネット接続を停止",
+  "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOWxQRWpyTWRCWHQzQjFJcV9DU2N6RzkybUpzSjIxOGdRTUJqTGx5RjVTcmQzd1hReDF1NWhvMHdtZ2s1b2U1MTBXX3E1eF9ZdTh3WWZvZUJFaC01Nzl3Rm5hWU1mM0FZYTFMMmY5NDJyS2FwcTJZNXljeEpyM1o1d3RJNElITmRSUjJyT21HQkJlTkxFeXVzT3lKUFFHc2xvNG5oc2Y1RVhudE1nc2tSaFJ1THJXaTJkSnp5Yll2RWZ6NXZqWWtkazRkSEFXYW5tV1dwWHRGQ0t4aUFLTGRPVzlsRi1hQ0h1M2VUQWZZZUVUWHR5TWxoQUVmYi1ucG8?oc=5",
+  "source": "mezha.net",
+  "summary": "",
+  "publishedAt": "2026-10-10T09:52:23.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7596f903d836",
+  "title": "AIが数学の研究原稿を722本公開――翌日、1つの計算ミスで3本が取り下げに",
+  "url": "https://zenn.dev/asat_ai/articles/622652abfb3629",
+  "source": "Zenn",
+  "summary": "AIは、人間なら長い時間がかかる数学研究の原稿を大量に作れるようになりました。しかし、その内容を確かめる仕事は誰がするのでしょうか。OpenAIが一度に公開した722本の原稿と、翌日に起きた3本の取り下げは、AI時代の新しい問題を浮かび上がらせました。 2026年10月6日、ChatGPTを開発するOpenAIが、数…",
+  "publishedAt": "2026-10-10T09:49:43.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
   ],
   "isPR": false
  },
@@ -164,6 +298,32 @@
   "source": "Qiita",
   "summary": "何を作ったか 自分のマシンで動いている ComfyUI を、AIエージェント（Claude Code など）から使うための Skill comfyui-image-generation を作りました。 エージェントがやることは次の流れです。 一言の依頼を、画像生成向けの...",
   "publishedAt": "2026-10-10T09:45:39.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9333a3c4026f",
+  "title": "業務は“AI社員”に任せる時代へ──ServiceNowのAI Platform刷新とガバナンスの真価",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81bEdIeFlvOXlYdXkxWFV3d1lack8xLXpVdTlXdkN2a3dwaDc5NWxQVnl6QWlMbE82b0xpLW5jVVY4cFF1R2lXZ1VOUE4wWWFMVG1lM1kzcjJRdw?oc=5",
+  "source": "EnterpriseZine",
+  "summary": "",
+  "publishedAt": "2026-10-10T09:44:18.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3243ff7e5b88",
+  "title": "ニコン、AI生成の顕微鏡動画を失格に——次点を繰り上げ",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42RFhEZ0RxaHNvbHJVcnpkeVQyVWlRRFBLSjBMNDQ1ci0xV2ZETkZTS1BtT3JUSFBqSHZmZFk4LUtLT1ZyQ1oxVjFFWkNNZTIxWFoxUWsyeU1abFpBY01aeWcyM00yVmJiVmF5TlNWNmxLTlhO?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-10T09:35:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -206,6 +366,46 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ef6ad1e8a173",
+  "title": "米国防総省は、3100万ドルを投じてポリグラフ＋プロジェクトを開発している。これは、人工知能を用いて誠実さを測定するという野心的な計画だ。",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTl96cEJpTlI2cDRGQ2UyVXNhRjA3Wi0tS2FhX2o2WWhWM1U1NjRmZ3NnTnhteWVEdWs5OXNYbUFXOFZjNWZOOTBpRmVFS2lBeWVvSmhwd0Znb1c0ZFdqX3RBdWRTbHVyc1JNcVQ4anFFYVNuenFDbjJ2b1NTMTlray1CR3ZpckZ1UldoSWZyazJXZTRNazYwQk5NNzE5NDQwMElvemRpRFpFd3BRZ3RkUWpULXltUmc?oc=5",
+  "source": "Vietnam.vn",
+  "summary": "",
+  "publishedAt": "2026-10-10T09:07:10.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "82b0f0cd42c4",
+  "title": "BERTベースのPIIフィルターを作って個人情報保護法に対応できる制御基盤をつくる技術",
+  "url": "https://zenn.dev/sqer/articles/policy-driven-pii-control",
+  "source": "Zenn",
+  "summary": "9/29に開催されたOASEC 2026で「Policy-Driven PII Control for Your Company」という発表をしました。 会社で個人情報を安全に制御するために、世の中に存在するAIベースフィルタをどう活用していけばいいのかを決める話です。 https://speakerdeck.com…",
+  "publishedAt": "2026-10-10T08:54:51.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "71e3d7ea0860",
+  "title": "今日の市場ブリーフィング",
+  "url": "https://zenn.dev/bambampurin/articles/2026-09-12-market-daily",
+  "source": "Zenn",
+  "summary": "日経1.93%安と米金利4.97%上昇から読み解く市場動向と3つの判断基準 この記事で分かること 米株高とVIX低下が示すグローバル市場のリスク選好度と金利上昇のインパクト 日経平均下落の主因となった半導体・IT銘柄（レーザーテック、SBG等）の二極化構造 為替（ユーロ円1.17%下落）と暗号資産のボラティリティから…",
+  "publishedAt": "2026-10-10T08:51:49.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
@@ -263,6 +463,33 @@
   "isPR": false
  },
  {
+  "id": "ae94525d7e54",
+  "title": "AIツールの利用コストを見える化するための「実行単価ログ」設計",
+  "url": "https://zenn.dev/aiai_tool/articles/68face9e98bc45",
+  "source": "Zenn",
+  "summary": "生成AIを試している段階では、月額料金だけを見てコストを判断することがあります。 しかし、APIや自動化フローでAIを継続利用すると、 「1回の処理にいくらかかったのか」 「どのタスクが最もコストを使っているのか」 を把握することが重要になります。 そこで役立つのが、AIの実行ごとにコスト情報を記録する「実行単価ログ…",
+  "publishedAt": "2026-10-10T08:18:31.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3c55826c14ba",
+  "title": "Helix Foundry~顧客データがつながるオントロジーをローカルで作るOSS",
+  "url": "https://zenn.dev/headwaters/articles/bc002b8152442a",
+  "source": "Zenn",
+  "summary": "会社のデータは、いろいろなサービスに分散しています。 顧客情報は業務DB、契約や請求はStripe、認証はWorkOS、行動ログはPostHog。どれも同じ顧客に関係するデータなのに、サービスごとにIDも構造も違います。 こうしたデータを接続して、共通の業務モデルとして探索できるようにするOSSがHelix Foun…",
+  "publishedAt": "2026-10-10T08:16:38.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
   "id": "dae11060098b",
   "title": "AI ClaudeCodeの「Skiils」で、シニアエンジニアが知るべき拡張機能の仕組み",
   "url": "https://qiita.com/magic10r/items/a5f5f9e2e1ddd5c53755",
@@ -296,6 +523,19 @@
   "source": "Vietnam.vn",
   "summary": "",
   "publishedAt": "2026-10-10T07:59:30.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "780ac88e24c5",
+  "title": "【連載まとめ】AIで動物の動画を30秒作るまで｜第2回〜第7回の失敗と数字",
+  "url": "https://zenn.dev/claire_ai/books/doubutsu-rensai-matome",
+  "source": "Zenn",
+  "summary": "連載「動物動画」の第2回から第7回までをまとめた本です。",
+  "publishedAt": "2026-10-10T07:45:02.000Z",
   "image": "",
   "categories": [
    "other"
@@ -357,15 +597,30 @@
   "isPR": false
  },
  {
-  "id": "9e09330d1435",
-  "title": "患者・職員のデータを一度もAIに見せずに、AIで院内システムを3つ作った",
-  "url": "https://qiita.com/koreangyoseishoshi/items/420aaaf06ed25bebc27c",
-  "source": "Qiita",
-  "summary": "※この記事は Zennの記事 からの転載です。 私は医療機関で事務職をしています。エンジニアではありません。 AIと一緒に、院内の業務システムを3つ作りました。どれも1週間以内で、専任の開発者としてではなく、ふだんの事務の仕事をしながらです。 システム 中身 開発期...",
-  "publishedAt": "2026-10-10T07:29:50.000Z",
+  "id": "ebc0747ed2ea",
+  "title": "【連載 第1回】3つの動画生成AIに同じ画像を渡したら、全部同じ場所が壊れた",
+  "url": "https://zenn.dev/claire_ai/articles/doubutsu-01-doko-de-kowareru",
+  "source": "Zenn",
+  "summary": "チンチラが顔を洗う8秒の動画を、3つのモデルに同じ条件で作らせた。3本とも不合格だった。しかも壊れた場所が同じだった。 原因はモデルの性能ではなく、題材の選び方だった。切り分けの手順と、そのとき測った数字を書く。 この記事はAIで動物の動画を作ろうとしている人向け。使ったのは fal.ai 経由の3モデルで、かかった…",
+  "publishedAt": "2026-10-10T07:26:29.000Z",
   "image": "",
   "categories": [
+   "model",
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "368b53f32edf",
+  "title": "macOSでcomputer-useエージェントが「成功」と返すのに何も起きない理由",
+  "url": "https://zenn.dev/auten/articles/6a5edeb23dd462",
+  "source": "Zenn",
+  "summary": "Claude Code や Cursor、Codex に computer-use 系の MCP サーバーをつなぎ、「このボタンを押して」と頼む。ツール呼び出しは \"ok\" で返ってくるのに、画面は何も動かない。あるいはモデルが見ているスクリーンショットが、ただの壁紙になっている。 経験上、原因の大半はモデルでも M…",
+  "publishedAt": "2026-10-10T07:20:48.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
   ],
   "isPR": false
  },
@@ -379,6 +634,19 @@
   "image": "",
   "categories": [
    "infra",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9e09330d1435",
+  "title": "患者・職員のデータを一度もAIに見せずに、AIで院内システムを3つ作った",
+  "url": "https://zenn.dev/kimshoshi/articles/build-without-showing-ai-personal-data",
+  "source": "Zenn",
+  "summary": "私は医療機関で事務職をしています。エンジニアではありません。 AIと一緒に、院内の業務システムを3つ作りました。どれも1週間以内で、専任の開発者としてではなく、ふだんの事務の仕事をしながらです。 システム 中身 開発期間 状態 制服の申請 以前は Google フォームで集めていた申請を、職員がスマートフォンから申請…",
+  "publishedAt": "2026-10-10T07:15:41.000Z",
+  "image": "",
+  "categories": [
    "dev"
   ],
   "isPR": false
@@ -406,6 +674,20 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "30c5adc0522b",
+  "title": "【MCP自作】普段使いのAIを専属トレーダー化！日本株・仮想通貨のシミュレーション取引環境「Trading Dojo」の設計と実装",
+  "url": "https://zenn.dev/kotax/articles/mcp-trading-dojo-ai-simulator",
+  "source": "Zenn",
+  "summary": "はじめに 最近、投資アプリのCMで「AIが取引のタイミングを教えてくれて、ユーザーはハイかイイエを選ぶだけでいい」というフレーズをよく目にします。 これを見ていてふと思ったのが、「一方的に指示されるのではなく、普段自分が育てて使っているAIエージェントと相談したり、相場を多角的に分析させたりしながら、一緒にシミュレー…",
+  "publishedAt": "2026-10-10T07:06:13.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "business"
   ],
   "isPR": false
  },
@@ -540,6 +822,19 @@
   "isPR": false
  },
  {
+  "id": "84212303deeb",
+  "title": "「Claude」を虐めるな！ Anthropicが規約変更でAIへの虐待行為を禁止／どんな問題があるのか考えてみた【やじうまの杜】",
+  "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2147196.html",
+  "source": "はてなブックマーク",
+  "summary": "",
+  "publishedAt": "2026-10-10T06:14:39.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fserial%2Fyajiuma%2F2147196.html",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "a5c1f1a13a37",
   "title": "中国発オープンウェイトAIモデルのリスク網羅調査",
   "url": "https://qiita.com/n_hiraoka/items/9ce3d2b6b21101b015f6",
@@ -655,6 +950,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ac914e4c45b4",
+  "title": "AIサービスデスクの導入は、ServiceNow株の強気論に変化をもたらすのか？",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTW5TRXZrd2N6aGFuZ2g3bU9hYmtxellZZnJaX1BCY0pwS21JMmowMkJjby1WWEJxNkJueFJFSF9QWnI0LS1nb2dOSElXNThXYW9ScHFuWWpJU0JpQWxwREVfSUxHTFJVczVpZURaa3pxNWMweVVWcVBqU3c1eUxEUEtoSUptcHg3ai1mMzBZOU9lekXSAZMBQVVfeXFMTU1uU0V2a3djemhhbmdoN21PYWJrcXpZWWZyWl9QQmNKcEttSTJqMDJCY28tVlhCcTZCbnhSRUhfUFpyNC0tZ29nTkhJVzU4V2FvUnBxbllqSVNCaUFscERFX0lMR0xSVXM1aWVEWmt6cTVjMHlVVnFQalN3NXlMRFBLaElKbXB4N2otZjMwWTlPZXpF?oc=5",
+  "source": "Simply Wall Street",
+  "summary": "",
+  "publishedAt": "2026-10-10T05:19:02.000Z",
+  "image": "",
+  "categories": [
+   "case"
   ],
   "isPR": false
  },
@@ -1156,6 +1464,20 @@
   "isPR": false
  },
  {
+  "id": "547a7680bcfa",
+  "title": "税理士向けAI・業務基盤「TaxSys」、サービス開始1年で導入300事務所を突破",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjdm9iczJxd2sxYllWWEY1ZXA2ZFRKS092WnJiWFVfa2I3UTQtX2NCZTJhYWlwSzExQ0NxTGVxQVZkVlNMbUhPLXNfdzFLSkZldW4ycnYwR1QxQUE?oc=5",
+  "source": "朝日新聞",
+  "summary": "",
+  "publishedAt": "2026-10-10T03:13:21.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "2072341a900a",
   "title": "Sophos が OpenAI Daybreak で脅威調査時間を 96% 短縮",
   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hQ2syQnBVSE1ZNXNwNmhySmlFV2R1MGh5YjQ4cGFVQVhiMTJjcnRJZ0VpcExRRU4tbWF4N2hxaFBiRXA2OWxCQUdobUhWYk0?oc=5",
@@ -1552,19 +1874,6 @@
   "isPR": false
  },
  {
-  "id": "ac914e4c45b4",
-  "title": "AIサービスデスクの導入は、ServiceNow株の強気論に変化をもたらすのか？",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdThCRTdCWlJmYW5yd2NnVEZhdUhabXU1elNGX1B3V240STU0LWZpV1ZhX1VRNjNSWjNEWkowYkdiMWxqaVcyY2ZYRE5KOEp4a3pCQ2dhY0xuLTVoOWVaRG5LR0pKdGxSNWFoTHU5VGlZV29XNWhJeDRVb1I2aTJPd20yeUtEQzdjNnVhbUln0gGTAUFVX3lxTE1NblNFdmt3Y3poYW5naDdtT2Fia3F6WVlmclpfUEJjSnBLbUkyajAyQmNvLVZYQnE2Qm54UkVIX1BacjQtLWdvZ05ISVc1OFdhb1JwcW5ZaklTQmlBbHBERV9JTEdMUlVzNWllRFprenE1YzB5VVZxUGpTdzV5TERQS2hJSm1weDdqLWYzMFk5T2V6RQ?oc=5",
-  "source": "Simply Wall Street",
-  "summary": "",
-  "publishedAt": "2026-10-10T02:02:49.000Z",
-  "image": "",
-  "categories": [
-   "case"
-  ],
-  "isPR": false
- },
- {
   "id": "ff5a8554d678",
   "title": "サイバー攻撃なぜ日本が標的に…？ AIの進化で「日本語の壁」突破が容易に 日本の個人情報は“信頼性が高く、高値で売れる”【#みんなのギモン】（日テレNEWS NNN） - Yahoo!ニュース",
   "url": "https://news.yahoo.co.jp/articles/9994a417729e7636b595de2e73618e9c408467ca",
@@ -1908,6 +2217,19 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f13d17f02794",
+  "title": "なぜAIへの「執拗な虐待」を禁止？ AnthropicがClaudeの利用ポリシーを改訂―背景にはAIの意識や苦痛を考える「モデル福祉」研究の可能性も",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmVmI1Q21ONHN2RV94VWdvX3hsbk5JY294anJzUGl0c3lJc25QZFUtTTY5M1BycVRLY2VNSnM4VzZ4M0xiTC1CLUs0cGRfampzYWVPTEdwWms5aWRkNzdv?oc=5",
+  "source": "千葉テレビ放送株式会社",
+  "summary": "",
+  "publishedAt": "2026-10-10T00:54:16.000Z",
+  "image": "",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
@@ -2393,7 +2715,7 @@
   "source": "ITmedia AI+",
   "summary": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
   "publishedAt": "2026-10-09T23:28:02.000Z",
-  "image": "",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2610%2F10%2F2000002189%2F",
   "categories": [
    "model",
    "product"
@@ -2995,20 +3317,6 @@
   "categories": [
    "product",
    "dev"
-  ],
-  "isPR": false
- },
- {
-  "id": "3bb9914b9ffb",
-  "title": "OpenAI、非公開の推論を狙う「蒸留」活動を阻止 Kimi開発元の関係者が中核に関与と判断",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Nbk93bzdFS08weUluQVQzTGN2WVFvY0Q5Wk5DaTlvWHlrcmg3VjFnTmN6bldtOG9IU0FUMzVMWHZSdXRtSkhSTGY1NzBwbjA4SUFtOHNJX29Sb3NjdE82RE1Hd081VHp1c0xsb0Y5N1NNZw?oc=5",
-  "source": "Ledge.ai",
-  "summary": "",
-  "publishedAt": "2026-10-09T20:54:01.000Z",
-  "image": "",
-  "categories": [
-   "model",
-   "product"
   ],
   "isPR": false
  },
@@ -3626,6 +3934,19 @@
   "source": "山陽新聞",
   "summary": "",
   "publishedAt": "2026-10-09T15:38:19.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "70356539cfb6",
+  "title": "Babak Hodjat、Cognizantの最高AI責任者：再対話",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWo5ZjlwR2FqRU1yeGY1d3g1YTZONGhuOFgyOWRrRVc0Y2NxaklvcE04ZUxhVDk1VDQtTC1rSlR3ZlJIbXpRdWtxWlFiNmRyZG1Tanh5ekJYVmlyS2MtdGM3d3NiNGJkRTBVX2xDMm1tTGhTc0pyc3B4NzlXMmhqR1JMRFVfZmJnMnNTREQ5dnJ5bms?oc=5",
+  "source": "Unite.AI",
+  "summary": "",
+  "publishedAt": "2026-10-09T15:35:56.000Z",
   "image": "",
   "categories": [
    "other"
