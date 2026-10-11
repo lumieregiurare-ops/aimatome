@@ -1,5 +1,32 @@
 [
  {
+  "id": "92e46385495b",
+  "title": "RAG で「確認」という 2 文字が正解を押し出していた — RRF の二重掲載と、文書頻度での足切り",
+  "url": "https://zenn.dev/tomtom55555/articles/ff27671349a277",
+  "source": "Zenn",
+  "summary": "会議の記録 (タスク・決定・リスク) に質問できる RAG を作っているんですが、あるとき、承認したばかりの決定について聞いたら「記録に見当たりません」と返ってきたんですよ。記録はある、承認もした、なのに届かない。 調べてみたら、犯人は質問文に入っていた「確認」という 2 文字でした。今回は、その 2 文字がどうやっ…",
+  "publishedAt": "2026-10-11T09:54:15.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9e9181d145f7",
+  "title": "開発に使うAIモデルのコストと性能の最適化に挑戦（1）：思考を深くするより、1回のレビューが効いた",
+  "url": "https://zenn.dev/petittomato/articles/ai-model-cost-performance-1",
+  "source": "Zenn",
+  "summary": "ソニーのアプリ「Video & TV SideView」が2027年3月で終わるので、Claude Opusにブラウザで動くテレビのリモコンを作ってもらい、毎日使っています。次は、自宅のAIエージェントからテレビを操作できるようにしたくなりました。その開発を比較的安いAIモデルにも任せて、Opusと同じものをどこまで…",
+  "publishedAt": "2026-10-11T09:50:21.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f3ace5ae5983",
   "title": "Claude Code向けMCPサーバーおすすめ5選とインストール方法",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV1ZsdnB0S0lfdjV1bFRUMS1jU1c1cHdLbFpwaFZCbkdQUEQ2OW4wLWo3My1BMzRSbi1helBhYzU2a0ZfV3RlNmhzX2JTa0dLUm9MQ1ZRUmI2RWswZDhjMkNGMmxScnZpd2xsRjVCRHhBUzcxNEpVRWQyWjVNNXBLTVFxVXdlREo0OGlmVg?oc=5",
@@ -9,6 +36,19 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4e189ad84abc",
+  "title": "AIエージェントに指輪から頼めるスマートリング「Interface」発表｜99ドルでClaudeに声で依頼 電池は最大12日【海外ニュース】",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8xbkRIUnRnUmZtRFhZeXhxMXpScmZwaGNISWNhNmFEeG1SSnZmall1VldEei1KQTYzZExnRV9TSWczSW5ESjNoRU5tQ20?oc=5",
+  "source": "Smart Watch Life",
+  "summary": "",
+  "publishedAt": "2026-10-11T09:03:40.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -49,6 +89,19 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7de7d4f8f7fa",
+  "title": "文字列を生成しないモデル Jev の仕組み",
+  "url": "https://zenn.dev/kazunorishinoya/articles/jev-system-one",
+  "source": "Zenn",
+  "summary": "チャットモデルは人間と話すためのものです。TypeSafe AIは「自動化はどこにあるのか」と問いかけ、System Oneモデルと、その最初のモデルJevを発表しました。2026年9月15日に早期アクセス版として公開されています（公式ブログ）。Jevは文章を生成しません。状態（state）を受け取り、型の付いた確率…",
+  "publishedAt": "2026-10-11T08:34:29.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -115,6 +168,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d78f7d12b6d9",
+  "title": "OpenAI、GPT-6.1 Astraの公開見送り AI安全対策「減速だけでは不十分」と専門家",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HMzVpdVhjaHFDTVc4ZEl5VElOemVPalZsek5YVjZPSkNPX2YtSnl3bmVkOGotUEJvQ1l6ZU5QR3BqcEZLOTdvamY4TkZkcU5qUDFVaUlHUlhHTm9yMDJwT21TONIBaEFVX3lxTE1SQTVnb0l2dndfd3VSZF9EZFZkYlVad3JKNVFFcFN0bkFJQUJ5TFNiTDdGaEpESGZwdmgzb2FHY0hlUS0tdjJaUF9hcG1mQ0s5SkozSUl5R1hzV2UwRUNlNE9CTDhwVUpX?oc=5",
+  "source": "財経新聞",
+  "summary": "",
+  "publishedAt": "2026-10-11T08:22:20.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
   ],
   "isPR": false
  },
@@ -503,6 +570,20 @@
   "isPR": false
  },
  {
+  "id": "eadfd6406816",
+  "title": "クウェート、英国製AI防空システムを導入へ 契約額3.7億ポンド、英国内で100人雇用",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jdXhpazBnWXZlRWtMblRCS19iZVB2a184M1FwT1ZTLVZNM2tHSzMtTTFsZDVOZmxQRFN3c2xPaTl0YU5KQ0gtSV9uQXlmZVlYMlJPZlBfS1RVdHJtRlk0?oc=5",
+  "source": "千葉テレビ放送",
+  "summary": "",
+  "publishedAt": "2026-10-11T06:35:00.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "90d4b88adde1",
   "title": "生物兵器、核兵器、悪意のない殺戮――AIが人類を滅亡させ得るシナリオとは(1/2)",
   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kVzRoa3poc0ZqNDNkOWttYkVqeTBWbGY2clBGUGVSRW9nYWJRWU8tUlYwaV8wWHZjYTFjZzd4bDZlcDZ3VXdPNU95NWdhSWxLQ2c?oc=5",
@@ -670,6 +751,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4a6463f3637f",
+  "title": "人事の複雑な業務を、AIエージェントで「点」から「線」へ 「つなぎAI Powered by Dify」による社内実装の試行錯誤を公開",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nZ0lJQk9pUFc5cmswc0x4UnlyLU0wbS1wSkVaY0xMdUlKbXlkMXJMR2ZLNTRVVm05a1hsVnZueXJzTHpSX1Q5UTMxVjV3UGpBNGc?oc=5",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-10-11T04:51:21.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
   ],
   "isPR": false
  },
@@ -900,6 +995,19 @@
   "isPR": false
  },
  {
+  "id": "db6bd220909c",
+  "title": "ジェシー・ホール氏、音声AIの「速度偏重」は本質を見誤っていると指摘",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00WnJWei1zUnpKWG5yRmY0c3JCWW5mVGRmaUdwRGJFbnV1WU5aSkZTdUg2akllQmFvM0toeHhEQjZ6amZBTktrcFZVWG9yTjJReUlmYndlSjZ4UQ?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-11T03:08:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "336282ca2488",
   "title": "Opus 5.5はディソードだ。全人類ギガロマニアックス時代に、ギュられたらギュり返せ",
   "url": "https://zenn.dev/soyukke/articles/opus55-gyuraretara-gyurikaese",
@@ -1054,6 +1162,19 @@
   "categories": [
    "model",
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "05b6d2dc7505",
+  "title": "【8月31日】夏休みの宿題… Google「Gemini先生」がスケジュール公開 約8.5時間「甘えを一切捨ててぶっ通し」",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81QzFVOUJTSmJEcjRhV3U3Zk5GdHdxVF9EclFMMWZJeHVSR1l6dlhkemE2YjJuTVVicEs1NnoyaHVZU2U0X3k4aTlpRmtpd21YbmNhMGMweF9BOUt0STh6VEFoeXdYU2M?oc=5",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-10-11T02:26:35.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -1755,6 +1876,19 @@
   "isPR": false
  },
  {
+  "id": "4a634fed0ff7",
+  "title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1WTU4YmlTQ3dEN3Y0YlJudXFrUVNRbU04WXY4T1BsZi1vUTBMRENVZV8tLWpvUEJjMGxuYk41WV9Fd1RxMmVfT0d0SjlMX1NtUFRGT0xobVgzTlJoY1ZUVWQzZm94YmxMdC1ycGZ3?oc=5",
+  "source": "au Webポータル",
+  "summary": "",
+  "publishedAt": "2026-10-11T00:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "de2e593816fe",
   "title": "今年第3四半期の世界主要証券市場のうち、韓国証券市場の不振が目立った。 人工知能(AI)半導体ラリーにコスピは今年に入って60%急騰し、台湾とともに世界で最も高い上昇率を記録したが、7月初めにAIブー..",
   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOVzVqdkhiaWZ5QUt0MFdTZlNFWXlDU2ZDUmExdnJfOWw4c0xWdk5uU2I4cFk1R1VTczF5bkxtbDREakpQR0NxWmk3Znl1aHM?oc=5",
@@ -2061,8 +2195,8 @@
  },
  {
   "id": "ea9903771696",
-  "title": "人間より「PC作業がうまい」AI機能がリリース OpenAI「Dots」が変えるデバイスの未来",
-  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HZTZfT3RWYzdObll1TVF2NGtLc3NITHJyZEVIWnJmS1V4QTB0VjRpR2w5cE9zN1hQeUZLLWlPQjNtREdNbHVEeG55UWF0ZXJhZXYzRTU0VVRZN2MzLW5yTG1kVXIwRjY3UWNTOXl3?oc=5",
+  "title": "人間より「PC作業がうまい」AI機能がリリース OpenAI「Dots」が変えるデバイスの未来（1/3 ページ）",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Lal9xb2RsNGNSZGJxYXJGdHpjSlRlWktvR2ROTnN2QUVZd25sRkQ5ZU91d0JzcW44Q1lwQ2E2UjZPV0E0N2JQOFlpNl9oLXoyVFdZRlJGRkxZMDVMZ1V4alo2NnczQThqV2wzdUpwYTZ6Zw?oc=5",
   "source": "ITmedia",
   "summary": "",
   "publishedAt": "2026-10-10T23:00:00.000Z",
@@ -2555,19 +2689,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "05b6d2dc7505",
-  "title": "【8月31日】夏休みの宿題… Google「Gemini先生」がスケジュール公開 約8.5時間「甘えを一切捨ててぶっ通し」",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81QzFVOUJTSmJEcjRhV3U3Zk5GdHdxVF9EclFMMWZJeHVSR1l6dlhkemE2YjJuTVVicEs1NnoyaHVZU2U0X3k4aTlpRmtpd21YbmNhMGMweF9BOUt0STh6VEFoeXdYU2M?oc=5",
-  "source": "山陽新聞",
-  "summary": "",
-  "publishedAt": "2026-10-10T17:07:43.000Z",
-  "image": "",
-  "categories": [
-   "product"
   ],
   "isPR": false
  },
