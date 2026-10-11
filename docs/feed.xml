@@ -5,21 +5,42 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-11T11:00:18.132Z</updated>
+  <updated>2026-10-11T11:30:18.836Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>Claude Codeの`/batch`は各エージェントが独立したgit worktreeで動くから安全に並列化できる</title>
+    <link href="https://qiita.com/caymezon/items/603d36ff011f9f1d384d"/>
+    <id>https://aimatome.gamelab.website/#9a9c868e9aba</id>
+    <updated>2026-10-11T11:26:22.000Z</updated>
+    <summary>Qiita ／ 背景 数十〜数百ファイルにまたがる大規模リファクタリングを、Claude Codeの/batchコマンドで並列実行するハンズオンをやりました。5〜30の並列エージェントが同時に修正しても互いに干渉しない理由と、実行前に安全確認する仕組みを整理します。 1. 各エージェン...</summary>
+  </entry>
+  <entry>
+    <title>なぜAIで7割が時短しても、協働の改善はわずか17%なのか｜Anthropic証言</title>
+    <link href="https://qiita.com/kinamocchi_tech/items/5c0b1c5191d511053c03"/>
+    <id>https://aimatome.gamelab.website/#905e52d36432</id>
+    <updated>2026-10-11T11:19:13.000Z</updated>
+    <summary>Qiita ／ 📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → なぜAIで7割が時短しても、協働の改善はわずか17%なのか｜Anthropic証言 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハムスター）… ...</summary>
+  </entry>
+  <entry>
+    <title>AIなら作れる。でも、それを3年後の誰かはそれを直せるのか？</title>
+    <link href="https://qiita.com/kensussu/items/fd3b9fe5b25a217186d5"/>
+    <id>https://aimatome.gamelab.website/#868a420c84da</id>
+    <updated>2026-10-11T11:14:39.000Z</updated>
+    <summary>Qiita ／ はじめに 個人開発でClaude Codeなどの生成AIをかなり使うようになりました。便利です。 自分では調べながら数時間かかりそうな実装でも、要件を渡せばかなりの速度で形にしてくれます。 設計について聞けば、セキュリティや拡張性まで考慮した「ちゃんとした」構成を提案して...</summary>
+  </entry>
+  <entry>
+    <title>「AI就活」の実態を独自調査で初公開 Z世代の70.9％が求職活動で生成AIを利用</title>
+    <link href="https://news.google.com/rss/articles/CBMiakFVX3lxTFB2cVdFYkZFNHdwd0JyM3ZMMDR1T1E2aExMbnNzLXdnc0J1T2VLb3FxamEwVHZ0WWFEWTMtcHFlNUVnZnZhcDBibUFyRURJelByZ2FUWjZPbkVwbC1PZnQtWHYyRmRMV3N0LWc?oc=5"/>
+    <id>https://aimatome.gamelab.website/#1c1580f1e888</id>
+    <updated>2026-10-11T11:00:01.000Z</updated>
+    <summary>PR TIMES</summary>
+  </entry>
   <entry>
     <title>X の投稿 198 件と技術ブログで見る、Meta の AI エージェント Muse の向き不向きと安全設計</title>
     <link href="https://qiita.com/hisashi-ito/items/ffe164ae4aa88abb293e"/>
     <id>https://aimatome.gamelab.website/#47bbf5c184f6</id>
     <updated>2026-10-11T10:51:57.000Z</updated>
     <summary>Qiita ／ Meta が 9 月 8 日に米国で公開した AI エージェント Muse は、利用者に代わってブラウザを操作し、買い物、予約、メール、電話までこなします。日経新聞は、Meta が近く日本でも提供を始めると報じました。日本で使えるようになる前に、使った人が何に喜び、何に怒っ...</summary>
-  </entry>
-  <entry>
-    <title>AIで本当に消えるもの</title>
-    <link href="https://qiita.com/Q11Q/items/e8a59c2b72bd15a54335"/>
-    <id>https://aimatome.gamelab.website/#9948d49d8ba7</id>
-    <updated>2026-10-11T10:41:38.000Z</updated>
-    <summary>Qiita ／ なぜそれらは消えるのか 1.ハードのコスト まずPCを3年に1回変える（実質的にそうなっている）という今のサイクルを維持するのは不可能だろう。PCの価格は天井知らず、自作ckerは事実上絶滅危惧種。 2.アプリのコストとパフォーマンス そもそも今のアップデートってセキ...</summary>
   </entry>
   <entry>
     <title>サールの「中国語の部屋」をやさしく解説、ChatGPTは本当に理解しているのか?</title>
@@ -120,20 +141,6 @@
     <summary>財経新聞</summary>
   </entry>
   <entry>
-    <title>ログ監査をAIに任せる前に：生ログを流すと破綻する理由と、判定専用AI「Jev」の使いどころ</title>
-    <link href="https://qiita.com/Xim2jp/items/a041f6be25683bf66c76"/>
-    <id>https://aimatome.gamelab.website/#5e9e91aae6da</id>
-    <updated>2026-10-11T08:18:01.000Z</updated>
-    <summary>Qiita ／ どんな話か 情報漏洩が起きると、数百万行のアクセスログから怪しいアクセスを探す作業が発生します。これをAIに任せる仕組みを、文章を書かない判定専用AI「Jev」（TypeSafe AI、2026年9月発表）で作るときの考え方をまとめました。 Jevの特徴 状態（文字列...</summary>
-  </entry>
-  <entry>
-    <title>【愚痴】今のAI開発は間違っている</title>
-    <link href="https://qiita.com/compalog/items/a883eb6894a5a1ca70b6"/>
-    <id>https://aimatome.gamelab.website/#476d59efe0f3</id>
-    <updated>2026-10-11T08:17:32.000Z</updated>
-    <summary>Qiita ／ Copyright (c) compalog This article is licensed under Compalog&#39;s Articles License If you use the content of this article in your conte...</summary>
-  </entry>
-  <entry>
     <title>Roblox新AI技術「Roblox Reality」を発表、Google Earthに新機能、独自の3Dマップ作成が可能 ほか</title>
     <link href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE1USkRucHhnT0FuSlhheEwxS1hXcnIxT1U5R0o2aVUzOWdkRndJQWhvTkFFWmNnWWl2QVR6YmVvbWVfbkd1eFhNYUpubw?oc=5"/>
     <id>https://aimatome.gamelab.website/#d6188b327c74</id>
@@ -141,18 +148,18 @@
     <summary>ThinkIT</summary>
   </entry>
   <entry>
+    <title>Solafune、群馬県警察への映像解析AIシステム導入を完了｜Infoseekニュース</title>
+    <link href="https://news.google.com/rss/articles/CBMickFVX3lxTE1RbVVMcWZOUDlSYmpueU9RWFNWMzJnMzZ0dmhVbkxTWHpKTEhEa0dVWWlDdTBQVUVwNmMyU1plRTFEeEpIWDc1MWFMTnBYeDhNcVQ1TFJXVm9hakFvUjZSRXhPZ1RuT0FnWkljaFhackRhUQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#9bcb4627790d</id>
+    <updated>2026-10-11T08:10:00.000Z</updated>
+    <summary>Infoseek</summary>
+  </entry>
+  <entry>
     <title>OpenAI、ChatGPTの「dots」機能を大幅アップデート スマホで専用AI作成可能に - X</title>
     <link href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBYmJTVkZqd1Y0LURhakpwSXpWX1FDanBqemk4WUNnZEhYb3h6ZV9Gc2d3MzlESmU4aXcxckg1LThBd1RQVzJNU1hTdGlBOXJJWWVIeHJOWQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#93899fbe77ff</id>
     <updated>2026-10-11T08:00:38.000Z</updated>
     <summary>X</summary>
-  </entry>
-  <entry>
-    <title>「水曜の午後は映画の時間」という法律を作ってAIに施行したら、全員賛成だったのに受け止め方がバラバラだった話</title>
-    <link href="https://zenn.dev/miki_mini/articles/b4d21fd11397c1"/>
-    <id>https://aimatome.gamelab.website/#322a2795b5e8</id>
-    <updated>2026-10-11T08:00:05.000Z</updated>
-    <summary>Zenn ／ 美容系勤務独学初心者マリー・アントワネット系エンジニア目指してます！ 今回は 水曜の午後に映画を見に行けない なら 法律を作ればいいじゃない 👸🍰です。 読了時間の目安：約 5分 ! 3行まとめ 毎週水曜の午後を映画の時間にする 「ムービー法」 を考えました（施行予定はありません） AI住人3人に施行したら、同じ…</summary>
   </entry>
   <entry>
     <title>Liquid AI、エッジ向けのオープンモデル「d1-3B」などを公開</title>
@@ -190,13 +197,6 @@
     <summary>山陽新聞</summary>
   </entry>
   <entry>
-    <title>ポスコDXがインヘンスに20億ウォン出資 産業用AIエージェントを共同開発 - CHOSUNBIZ</title>
-    <link href="https://news.google.com/rss/articles/CBMiekFVX3lxTE0xbl9DSUN4d3BjV0w2X0oyM0tYQWp4ZVotdEwxbjdFSnFIWVNya1kyUEg3MF9iZi0tdDA1MnpaRTNJM2ZRdGRhUmlKTjExRWhtQk1aNW0xTHA4dVRSWF81QnNPTFB2OGp1U2I1enByd3ljUXFVZVVDUEd30gGOAUFVX3lxTFBPUGJzZGplWk1tOUhlOW5UVTdSWW80MmE3a0Q1bFRKWmNxWDB6dDNUdUNyTVVTMXQ4RDltaGx5dkhnRlJzRkpUbGlhYWxZaElDMy1lTFJNcTg4dWt6UFpWN3NnVmhxM0xUMHR1VHNqdXZ2Yk1FX2IxTjVFWk9aTE1ZVi1fNzhTeXB6VldubXc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#93b4c5e78812</id>
-    <updated>2026-10-11T07:20:00.000Z</updated>
-    <summary>Chosunbiz</summary>
-  </entry>
-  <entry>
     <title>AIを繰り返し侮辱すると、アカウントが停止される可能性があります。</title>
     <link href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQU19ZZlowMDI0T2d1SF94TWloMVJTaldHTFZQQk4zY01BM1dMajB1REJqR081eXljcFdGSFR3eUV1TzFnTU1zVlF6eE9xcGt1NmNvRlVndHBZNzVIYWhMMk9KdzI0eTZGWnBmZDZYMmNLQTRFSlpnM1UtYk43dHZQYTV3?oc=5"/>
     <id>https://aimatome.gamelab.website/#1db3cb15bc9d</id>
@@ -211,25 +211,11 @@
     <summary>Forbes JAPAN</summary>
   </entry>
   <entry>
-    <title>７千円のロボットアームをローカルLLMで動かす（２）なぜローカルLLM?</title>
-    <link href="https://zenn.dev/yoshinori_oota/articles/8369c29a3376c6"/>
-    <id>https://aimatome.gamelab.website/#c8c9bb516618</id>
-    <updated>2026-10-11T07:11:56.000Z</updated>
-    <summary>Zenn ／ なぜローカル LLM ？？ 7千円のロボットアームを、ローカルLLMで動かす。 https://www.youtube.com/watch?v=KIe25lANPcM 今回の開発では、LM Studioで動かした小規模なローカル LLM（gemma4-e4b）を使い、自然な言葉でロボットアームを操作できるようにしまし…</summary>
-  </entry>
-  <entry>
     <title>ゴムマリの業務AIエージェント、『給与計算チェック』を提供開始</title>
     <link href="https://ascii.jp/elem/000/004/441/4441797/?rss"/>
     <id>https://aimatome.gamelab.website/#26ec098b2092</id>
     <updated>2026-10-11T07:10:00.000Z</updated>
     <summary>ASCII.jp</summary>
-  </entry>
-  <entry>
-    <title>ゴムマリの業務AIエージェント、『給与計算チェック』を提供開始｜Infoseekニュース</title>
-    <link href="https://news.google.com/rss/articles/CBMickFVX3lxTFBkaXlhanFKT0RtclJGYlhhUmpUTVFvZzVOYUpDb0FyX3hEX3JIMmVVUEMxLVhPajFJeDc1WjBMTGtlcE1Wc0dJZGZrbDl0T1k3bWd3MjlpSzdxc3lTbS1uZVphVnNUMUYweDllLUhaZi1QQQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#24b29b065c69</id>
-    <updated>2026-10-11T07:10:00.000Z</updated>
-    <summary>Infoseek</summary>
   </entry>
   <entry>
     <title>OpenAI半導体に500億ドル超の調達か｜売上は想定700億ドル届かず</title>
@@ -295,18 +281,18 @@
     <summary>BRIDGE（ブリッジ）</summary>
   </entry>
   <entry>
-    <title>AI製スライドの不愉快なデザインを抑制？ 資料作成サービス「Gamma 5」公開</title>
-    <link href="https://news.google.com/rss/articles/CBMie0FVX3lxTE53eVA1c0dEVWEtUXkxT054aGNwSDVFYzNyRFZDbS0yS2xmdE5QR2VCRENHMVB6YW42aGRMNGdDNTJ4Ymt6ZmFkOFA1bWdsQWtJS1hhTThTUGtLUGpBREFsb3BSVFZ6bDJxS25OZk1INUZrakJTazVhdV82bw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#552d95879c02</id>
-    <updated>2026-10-11T06:39:03.000Z</updated>
-    <summary>ニコニコニュース</summary>
-  </entry>
-  <entry>
     <title>AIは、匿名オンラインアカウントの本人確認にかかるコストを削減する。</title>
     <link href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQaUZ6TVdmSHZ4LWVHSWczX1FsWUtvTWFNbkxpTi1NWDl1a3JJejZBNTU3UHp4OERzOE4yXy1RbEJqTFUtOW5sMGVrakNIRlNZRThJTENYT19hYWtDaTdydTZBTVFLTVU5WTJHSTRGQldwc1FHY2RJeml3bmdOYTZrdzlsbFlIM25XU28yc19kY21qQQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#eb54dc5befd2</id>
     <updated>2026-10-11T06:38:56.000Z</updated>
     <summary>Vietnam.vn</summary>
+  </entry>
+  <entry>
+    <title>クウェート、英国製AI防空システムを導入へ 契約額3.7億ポンド、英国内で100人雇用</title>
+    <link href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jdXhpazBnWXZlRWtMblRCS19iZVB2a184M1FwT1ZTLVZNM2tHSzMtTTFsZDVOZmxQRFN3c2xPaTl0YU5KQ0gtSV9uQXlmZVlYMlJPZlBfS1RVdHJtRlk0?oc=5"/>
+    <id>https://aimatome.gamelab.website/#eadfd6406816</id>
+    <updated>2026-10-11T06:35:00.000Z</updated>
+    <summary>千葉テレビ放送</summary>
   </entry>
   <entry>
     <title>生物兵器、核兵器、悪意のない殺戮――AIが人類を滅亡させ得るシナリオとは(1/2)</title>
@@ -330,13 +316,6 @@
     <summary>観光経済新聞</summary>
   </entry>
   <entry>
-    <title>音声生成プロンプトをシーン仕様書にする：SeedAudio 1.5に向けた設計メモ</title>
-    <link href="https://zenn.dev/funnycoding/articles/16540e07372818"/>
-    <id>https://aimatome.gamelab.website/#dfeb527eafd1</id>
-    <updated>2026-10-11T05:51:29.000Z</updated>
-    <summary>Zenn ／ 音声生成の指示を一段落に詰め込むと、会話、環境音、効果音、音楽の優先順位が曖昧になりやすくなります。そこで、プロンプトを書く前に「何が、いつ、どの距離で聞こえるか」を小さなシーン仕様書に整理する方法を紹介します。 関連プロジェクトとして、私が運営する SeedAudio 1.5 のサイトも紹介します。2026年10月…</summary>
-  </entry>
-  <entry>
     <title>AIエージェントを活用したスマートシティ開発への道を開く。</title>
     <link href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXNremJId2diSkx1LUFObERUTUZSMjN2RjNwdFY1bENPUnpGZm1qaHlWWHJoQWowZkhxYnpJZ1E1MUsxZWNCTDZUb1JJWUZTZXRYN2JSelFQTmN6ekhwQzVuUUFEVFRtQ1hTRl9aVXpHaXY2UDJ0SXRIR1BTWERvUG5SX1h0NWxrRDhKY1JB?oc=5"/>
     <id>https://aimatome.gamelab.website/#82bf3a4543e6</id>
@@ -356,5 +335,26 @@
     <id>https://aimatome.gamelab.website/#882a274588fb</id>
     <updated>2026-10-11T05:24:32.000Z</updated>
     <summary>매일경제</summary>
+  </entry>
+  <entry>
+    <title>AI活用案件はどうやって生まれるのか ― 生成AIの相談を“案件”に変えるまで</title>
+    <link href="https://zenn.dev/field2ai/articles/96e9bdeb087b20"/>
+    <id>https://aimatome.gamelab.website/#4f01cffcbbe9</id>
+    <updated>2026-10-11T05:17:59.000Z</updated>
+    <summary>Zenn ／ はじめに 普段の仕事の中で、社内チャットやメールからこんな相談を受けることがあります。 「この業務、生成AIで何かできませんか？」 「社内文書をRAGで検索できるようにしたいです」 「最近AIエージェントが話題なので、うちの業務でも使えませんか？」 一見すると、すぐにAI案件が始まりそうな相談です。 ただ、実際に話を…</summary>
+  </entry>
+  <entry>
+    <title>アムール株式会社 ／「ChatGPTで見つけてもらう」×「LinkedInで直接つながる」アムール株式会社、BtoB企業向け新規顧客開拓セミナーを10月19日に共催 - https://pr-free.jp/</title>
+    <link href="https://news.google.com/rss/articles/CBMiRkFVX3lxTFBUMG4xWkNxaFg3SHg0WUhiTGtrZ0VCMGlMcktsU2VZVHlJUWRUWDh3bjdvUG1wYWtjUmxVb1NhclF1UlhSWVE?oc=5"/>
+    <id>https://aimatome.gamelab.website/#e72ecc0bb7dc</id>
+    <updated>2026-10-11T05:09:31.000Z</updated>
+    <summary>https://pr-free.jp/</summary>
+  </entry>
+  <entry>
+    <title>AIが使ったツールをAI自身が口コミ評価 Armatureが「agent.reviews」を公開、ほかのエージェントの選択に活用</title>
+    <link href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRTUJxUXUtMlFRWEExM2tVbWhUTXVnbFRGb0dGdlJiU3VDLXpGSUl4RWlEb0NrN05acVlKdWVKbzJhdHQ4dWhoT0IxbDhKbHU5REdFbHAxXy1VQU1H?oc=5"/>
+    <id>https://aimatome.gamelab.website/#292fefb27361</id>
+    <updated>2026-10-11T04:54:47.000Z</updated>
+    <summary>Ledge.ai</summary>
   </entry>
 </feed>

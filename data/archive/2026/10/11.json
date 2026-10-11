@@ -1,5 +1,57 @@
 [
  {
+  "id": "9a9c868e9aba",
+  "title": "Claude Codeの`/batch`は各エージェントが独立したgit worktreeで動くから安全に並列化できる",
+  "url": "https://qiita.com/caymezon/items/603d36ff011f9f1d384d",
+  "source": "Qiita",
+  "summary": "背景 数十〜数百ファイルにまたがる大規模リファクタリングを、Claude Codeの/batchコマンドで並列実行するハンズオンをやりました。5〜30の並列エージェントが同時に修正しても互いに干渉しない理由と、実行前に安全確認する仕組みを整理します。 1. 各エージェン...",
+  "publishedAt": "2026-10-11T11:26:22.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "905e52d36432",
+  "title": "なぜAIで7割が時短しても、協働の改善はわずか17%なのか｜Anthropic証言",
+  "url": "https://qiita.com/kinamocchi_tech/items/5c0b1c5191d511053c03",
+  "source": "Qiita",
+  "summary": "📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → なぜAIで7割が時短しても、協働の改善はわずか17%なのか｜Anthropic証言 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハムスター）… ...",
+  "publishedAt": "2026-10-11T11:19:13.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "868a420c84da",
+  "title": "AIなら作れる。でも、それを3年後の誰かはそれを直せるのか？",
+  "url": "https://qiita.com/kensussu/items/fd3b9fe5b25a217186d5",
+  "source": "Qiita",
+  "summary": "はじめに 個人開発でClaude Codeなどの生成AIをかなり使うようになりました。便利です。 自分では調べながら数時間かかりそうな実装でも、要件を渡せばかなりの速度で形にしてくれます。 設計について聞けば、セキュリティや拡張性まで考慮した「ちゃんとした」構成を提案して...",
+  "publishedAt": "2026-10-11T11:14:39.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1c1580f1e888",
+  "title": "「AI就活」の実態を独自調査で初公開 Z世代の70.9％が求職活動で生成AIを利用",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2cVdFYkZFNHdwd0JyM3ZMMDR1T1E2aExMbnNzLXdnc0J1T2VLb3FxamEwVHZ0WWFEWTMtcHFlNUVnZnZhcDBibUFyRURJelByZ2FUWjZPbkVwbC1PZnQtWHYyRmRMV3N0LWc?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-11T11:00:01.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": true
+ },
+ {
   "id": "47bbf5c184f6",
   "title": "X の投稿 198 件と技術ブログで見る、Meta の AI エージェント Muse の向き不向きと安全設計",
   "url": "https://qiita.com/hisashi-ito/items/ffe164ae4aa88abb293e",
@@ -287,6 +339,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9bcb4627790d",
+  "title": "Solafune、群馬県警察への映像解析AIシステム導入を完了｜Infoseekニュース",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RbVVMcWZOUDlSYmpueU9RWFNWMzJnMzZ0dmhVbkxTWHpKTEhEa0dVWWlDdTBQVUVwNmMyU1plRTFEeEpIWDc1MWFMTnBYeDhNcVQ1TFJXVm9hakFvUjZSRXhPZ1RuT0FnWkljaFhackRhUQ?oc=5",
+  "source": "Infoseek",
+  "summary": "",
+  "publishedAt": "2026-10-11T08:10:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
   ],
   "isPR": false
  },
@@ -1751,6 +1816,19 @@
   "source": "Zenn",
   "summary": "コンパイラもアセンブラも使わせず、AIエージェントに機械語を直接書かせる試行を、2026年10月に何度か行いました。小さなルーチンの課題とISAの組み合わせ8つ（x86-64で6つ、AArch64で2つ）を各2回、実行もシミュレーションもさせずに一発で書かせると、Claude Haiku 4.5は16回中1回しか正解…",
   "publishedAt": "2026-10-11T00:50:31.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2424c23a302e",
+  "title": "ＡＩと「最後の午餐」【コラム】（ハンギョレ新聞）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kaGhvWC1BNEtpM3NjZ1o2LWVtYklhd0UtWldxUFlrUDhhZGZWZ3Z5OV9pWVdKdzhDQVA0aXp1VGNnVEhZUi1tN1VXQzVPZkdfdENoUWY0NFJxbFN3THpuMTllYzNFamNmRjRKVDdLQUozOTBQY2NVSEtPejMwSjg?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-11T00:49:28.000Z",
   "image": "",
   "categories": [
    "other"
