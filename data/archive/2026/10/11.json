@@ -26,6 +26,20 @@
   "isPR": false
  },
  {
+  "id": "4ea0a4502e3b",
+  "title": "API キーの漏洩経路を 7 つに整理する｜.env 探しへの対策手順",
+  "url": "https://zenn.dev/sunsun_eng/articles/api-key-leak-routes-env-scan",
+  "source": "Zenn",
+  "summary": "この記事の要点 API キー漏洩の原因は、Git 履歴・フロントエンドの成果物・公開設定ミス・ログ・外部ツール・サーバーの公開ファイル・人為的な共有の 7 経路に整理でき、「.env を直接盗まれる」ケースはその一部にすぎません。 公開サイトには…",
+  "publishedAt": "2026-10-11T11:37:10.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "2d64cfc19782",
   "title": "AI規制と自主規制、ガバナンスの境界をどう引くか―中国メディア｜Infoseekニュース",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rTFQyYXhmTVgtNW9YNmg3QVRQdk90TTMtenVhZ295bUhhOWZZRXQ0SVJoRXR3NWRWM2dBbUk5OUF6ZmRBZk5RYjBwdmdGMWtuYjU1N2tRV3liejA1bllPQlg0RklJbHc0b0E?oc=5",
@@ -185,12 +199,51 @@
   "isPR": false
  },
  {
+  "id": "8008963be078",
+  "title": "ヤンデックス、4日で3度目のドローン攻撃 AIスーパーコンピューター拠点のデータセンターが相次ぎ停止",
+  "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxPcDlsaUkzWFRkWlhQTlZrbi1KenAxNnB4YnkyeXppclU2S2xNanRtTC1HS1djYk9aTVdRMUQ5YjlXbDk1OEo4czVQRGhhcW14TkF4QzhXX1dsdnhxM1Q1UVYtUjBYVi1FWEI3bnRGalNwR05mVTVZeGJSY3AydWJ2cnFub3V1eVRHZ1prSjNTQnRtaENPTTFkVEhPNFpuOGhGUkVPeGQyRHB2OERMTUg4OXFNclVhZ3BCeXdpRHlNTjlfN1p2bWpiWE02NTJLb0VpcEVPVXNxWDNYZEoybWpydXZmc1JMN3c5RzQ1dElkcVVscEs1OTVuTEpMOHlXSlVWVHNzWXhQWG9VUDI0dFlITlU1Mjc0ZGZjNE5MLUw5Vi1TVld3d0dDSEFYQnB3cVVKZWdfbkRuT1NWTDBTTnJ2SENkdWJjQWhzYmFJRS1OT050M3QzOHF0YnpTVEZSSHJRZU5QUWJBbFlMWm1zYV9td3E3d0IyT1c0MGpEcGRIM2ZNM25HQ05qUkVVcWpCYjU2NnZPSFV5VmNjYVhrLXVSUy1tM2lmcVNTVDZ3TWItZnJFdnU0UDZiMS1XeHYxbFBsenZHZDJsMmFudDFhQW9HRjRQNEJfWWFtRGV1MmNVYTRTb0JnRlhSTVhYT2VWZ2xnZlppNWpQU3VqQVJVOE1LQmY5U2gxcVhJWXhmRHYyeWVkQkJGZUlIMFE1eFg3Z2dfaHNQdGZoNDBuYTJhR2NpemxPUmhId290VUZuOTdkNS1uaG9Ia25fZTJ5dmVIZW80OUdMbmxKdjdYcHR4VE1VZXpOaw?oc=5",
+  "source": "Yellow.com",
+  "summary": "",
+  "publishedAt": "2026-10-11T10:33:34.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f9a40ba57c47",
   "title": "原菜乃華「一番身近な友達がチャッピー」ChatGPTに“知ったかぶり”され「友達やめようかな」＜もうパパ！",
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pSndmY3BZMlhUSVRZYVp5V1JEQXNMbk9TY0hWdlkzaWZDT0JQendFc1pTNnlqRkVYTU9oQXZWS25HSnJObTRUMXFwZ1ZRR3VCNUtiNTg4Wlo?oc=5",
   "source": "WEBザテレビジョン",
   "summary": "",
   "publishedAt": "2026-10-11T10:19:10.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "73a75e47d6d0",
+  "title": "Claude Code の deny に `../` を書いたら、隣のフォルダへの書き込みが止まらなかった（2.1.296で実測）",
+  "url": "https://zenn.dev/emilk1225/articles/73356c9b0e156d",
+  "source": "Zenn",
+  "summary": "この記事は、AI（Claude）が検証と下書きを行い、筆者が内容を確認したものです。下に書く結果は、すべて筆者の環境（Windows 10、Claude Code 2.1.296）で実測したものです。他の環境やバージョンでも同じになるとは限りません。 この記事で分かること .claude/settings.json …",
+  "publishedAt": "2026-10-11T10:16:16.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d8894771e556",
+  "title": "Claude Code に複数のAI担当を任せて失敗した記録と、承認・品質チェック用テンプレート（無料）",
+  "url": "https://zenn.dev/emilk1225/articles/d37feb664ed8e5",
+  "source": "Zenn",
+  "summary": "この記事は、AI（Claude）が下書きし、筆者が内容を確認したものです。 なぜこのテンプレートを作ったか（実際に起きた失敗） 筆者は2026年10月から、副業の実験として、Claude Code のメインセッションに「責任者」をさせ、企画・調査・制作・品質チェックの担当（サブエージェント）を動かしています。最初の数…",
+  "publishedAt": "2026-10-11T10:15:47.000Z",
   "image": "",
   "categories": [
    "other"
@@ -238,6 +291,19 @@
   "isPR": false
  },
  {
+  "id": "7e9ea37c78ba",
+  "title": "OpenAI「722本の数学論文発表します」数学者「AI使うのやめろおおおおおおお！」",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91bDBxdFd0NnJ2eHRzOXhFYllyS252dTZCOC15MlFJN3pvNzZiUzRsdmxfcUdUem9JMzJiSm9LX283U1VHbnh4SmdCRzZmbHNtWjQ0OHdSNXU5TkFq?oc=5",
+  "source": "YouTube",
+  "summary": "",
+  "publishedAt": "2026-10-11T10:00:11.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "92e46385495b",
   "title": "RAG で「確認」という 2 文字が正解を押し出していた — RRF の二重掲載と、文書頻度での足切り",
   "url": "https://zenn.dev/tomtom55555/articles/ff27671349a277",
@@ -261,6 +327,59 @@
   "categories": [
    "model",
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "56234d2c605f",
+  "title": "Chat で頼んで、設計からリリースまでつなぐ magi",
+  "url": "https://zenn.dev/yukimemi/articles/2026-10-10-magi",
+  "source": "Zenn",
+  "summary": "magi — Chat で頼むだけで、設計・実装・レビュー・PR・リリースまで複数のエージェントがつないでくれる CLI claude や codex といったエージェント CLI を複数使って、頼んだ作業を設計からリリースまで進めてもらうツール magi を Rust で作りました。人間がやることは、基本的に Ch…",
+  "publishedAt": "2026-10-11T09:38:06.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "687877f7e1a1",
+  "title": "さくらのレンタルサーバー + Cloudflare Clef でコスト0のAIメール振り分けを作った",
+  "url": "https://zenn.dev/deimos_falcon/articles/9bdbc1bbe9b34c",
+  "source": "Zenn",
+  "summary": "! この記事はZennへの初投稿です。技術的な指摘や改善案があれば、ぜひコメントください。 また、この記事はすでにNoteに投稿した内容を、技術ブログ（Zenn）向けに再構成したものです。 はじめに 自社のWeb窓口から届くメールが、SPAMに紛れて見落とされることが増えてきました。 本来のお問い合わせと、不要なメー…",
+  "publishedAt": "2026-10-11T09:33:47.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "87f39cb53b36",
+  "title": "食生活の改善をAIに提案してもらった話",
+  "url": "https://zenn.dev/taro_xxxxx/articles/341e0c7a121c2b",
+  "source": "Zenn",
+  "summary": "健康診断で突きつけられた現実 健康診断で、生活習慣の見直しを指摘されてしまった。 どうやら、眼圧・脂質代謝・腎機能の数値に課題があるらしい。 スーパーの惣菜やスナック菓子を食べる習慣が原因だろうと思いつつ、若い頃のように体へ無理が効かなくなってきたのだと痛感した。 とはいえ、自分で食生活を管理できるほどマメな性格では…",
+  "publishedAt": "2026-10-11T09:20:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6d78be5a5b39",
+  "title": "感性と人脈の AI ネイティブ時代へ",
+  "url": "https://zenn.dev/mk404/articles/2026-10-10-ai-native-sensibility-and-network",
+  "source": "Zenn",
+  "summary": "AI ネイティブの時代には、作る力の価値は下がり、感性と人脈の価値が上がる。筆者はそう考えています。この記事は、その持論と根拠を整理したものです。 この記事では、生成 AI と AI エージェントをまとめて AI と呼びます。「作る」は、ソフトウェアの開発だけでなく、機械や電子回路の設計、製造の手配まで含めて使います…",
+  "publishedAt": "2026-10-11T09:17:54.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -411,6 +530,20 @@
   "isPR": false
  },
  {
+  "id": "cb6d8e7f8236",
+  "title": "コードを書かずに、Claude Codeで日本株の投資ツールを2つ作った全体像",
+  "url": "https://zenn.dev/stockrules_jp/articles/6901a969f8f086",
+  "source": "Zenn",
+  "summary": "! この記事は、自分用に作っている投資ツールの「作り方」を紹介するものです。特定の銘柄の売買を推奨するものではありません。投資判断はご自身で行ってください。 はじめに ルールベース株研です。会社員をしながら、日本株の投資判断を手伝うツールを自分用に作っています。 特徴は、自分ではほとんどコードを書いていないことです。…",
+  "publishedAt": "2026-10-11T08:30:05.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "business"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b3cad2fc1004",
   "title": "金利上昇で市場が動揺する中、1万ドルあったら今どこに投資するか？",
   "url": "https://www.businessinsider.jp/article/2610-where-to-invest-10000-right-now-bond-yields-interest-rates/",
@@ -450,6 +583,19 @@
   "isPR": false
  },
  {
+  "id": "b0d9a2a3033b",
+  "title": "AIで浮いた時間を「もっと作る」に使っていませんか",
+  "url": "https://zenn.dev/idealog/articles/a3e9cf4299b1cf",
+  "source": "はてなブックマーク",
+  "summary": "はじめに 株式会社アイデアログで取締役CTOをしている松川です。 当社は法人・団体向けの会場検索サイト「会場ベストサーチ」や、レンタルスペース検索の「スペなび」などを運営しています。 今回は「AIで効率化されて生まれた時間を、何に使うべきか」について、最近考えていることを書いてみます。 作るスピードと量は...",
+  "publishedAt": "2026-10-11T08:27:53.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fidealog%2Farticles%2Fa3e9cf4299b1cf",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b6dee2183287",
   "title": "NVIDIAが大株主のまま買収交渉へ、Reflection AIを買わずに雇う奇策も浮上",
   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPVEtZTWg4RWRsTUJFbGd6R3BobFVMMlRGSHF5THRKT0ZhbVN0WmFxZnRzOG4wNEhHV3RZZXRqWDU3dw?oc=5",
@@ -470,6 +616,19 @@
   "source": "shiritomo",
   "summary": "",
   "publishedAt": "2026-10-11T08:27:11.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8819ae6ae76d",
+  "title": "AI の調べものが同じ日に2回外れた。403 で公式をあきらめ、2年前の記事を今の事実として出していた",
+  "url": "https://zenn.dev/claire_ai/articles/ai-shirabemono-machigai",
+  "source": "Zenn",
+  "summary": "「X は1つの電話番号で最大10アカウント作れる」。Claude Code に調べさせて、こう報告を受けた。実際に作ってみると、その電話番号は1回しか使えなかった。 根拠は2024年7月のニュース記事だった。公式ヘルプは 403 で一度も読めておらず、2年前の二次情報だけで答えを出していた。同じ日に、note・X・T…",
+  "publishedAt": "2026-10-11T08:26:33.000Z",
   "image": "",
   "categories": [
    "other"
@@ -530,6 +689,19 @@
   "isPR": false
  },
  {
+  "id": "12de52721cf1",
+  "title": "AIで商品の短尺動画を作る前に決めておきたい5つのこと",
+  "url": "https://zenn.dev/nereo_ai/articles/dcf3cd4a146ad0",
+  "source": "Zenn",
+  "summary": "ECの商品紹介やSNS広告用に、AI動画生成ツールで短い動画を作る機会が増えています。ただ、いきなりプロンプトを書き始めると、尺や画角がばらばらになり、作り直しが多くなりがちです。生成を始める前に決めておくと手戻りが減る項目を5つにまとめました。 1. 使う場所と画角 同じ素材でも、縦型ショート（9:16）、フィード…",
+  "publishedAt": "2026-10-11T08:10:56.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "9bcb4627790d",
   "title": "Solafune、群馬県警察への映像解析AIシステム導入を完了｜Infoseekニュース",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RbVVMcWZOUDlSYmpueU9RWFNWMzJnMzZ0dmhVbkxTWHpKTEhEa0dVWWlDdTBQVUVwNmMyU1plRTFEeEpIWDc1MWFMTnBYeDhNcVQ1TFJXVm9hakFvUjZSRXhPZ1RuT0FnWkljaFhackRhUQ?oc=5",
@@ -538,6 +710,20 @@
   "publishedAt": "2026-10-11T08:10:00.000Z",
   "image": "",
   "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2e4ce45f60c1",
+  "title": "SO Technologies、業務理解から実務連携までAIで一気通貫支援！広告主・代理店のAI活用を加速する「n-ext」β版を提供開始",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6ekpNZHdadkpBdjhKczNJVENmMmhzYnVKLUxjOE5taVdfMGw3RWhBLU04ZF9UOGhlcFQ4TW5RUFJiVnlQM2E0MDJEMjg5cFpXblR6S3lIQ2V0VzNRX2pUa1pNSDdmWFA4dDFXWkg5N1RNUQ?oc=5",
+  "source": "Infoseek",
+  "summary": "",
+  "publishedAt": "2026-10-11T08:10:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
    "case"
   ],
   "isPR": false
@@ -552,6 +738,19 @@
   "image": "",
   "categories": [
    "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0e7422fc00eb",
+  "title": "Google Cloud Data Agent Kit入門：MCPとスキルでデータ基盤に接続する",
+  "url": "https://zenn.dev/caron14/articles/google-cloud-data-agent-kit-intro",
+  "source": "Zenn",
+  "summary": "はじめに コーディングエージェントにSQLを書かせるとき、テーブルのスキーマや失敗したジョブのログを、コンソールからチャットへ貼り付けることがあります。コードを生成できても、実際のデータ基盤を確認する手段がなければ、テーブル名や結合条件を人が補う必要があります。 Google Cloudの Data Agent Ki…",
+  "publishedAt": "2026-10-11T08:02:19.000Z",
+  "image": "",
+  "categories": [
    "dev"
   ],
   "isPR": false
@@ -781,6 +980,20 @@
   "isPR": false
  },
  {
+  "id": "8c9f9944fff7",
+  "title": "週末ぼっちエンジニアが、Claude Code に「仕事の型」を覚えさせた話",
+  "url": "https://zenn.dev/sk8jp/articles/dbcbecf185ba8a",
+  "source": "Zenn",
+  "summary": "はじめに ― 平日はディレクター、週末はぼっちエンジニア 平日は開発ディレクターとして働いています。そして週末は、Claude が相棒のサンデー（ぼっち）エンジニアです。趣味で Web サービスを作り、運用しています。 仕事では、AI ツールを使える量をほとんど気にせずに使えます。一方、趣味の開発は自腹です。有料のプ…",
+  "publishedAt": "2026-10-11T07:01:23.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "391e5936ecb1",
   "title": "アディダスやZapierも導入、AIがコードを書くバイブコーディングで生産性向上",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JZTJYZTg1WTNpbWllRGNCTjg3TzVoWkpKcnpSMmlmMnJRSmxEeGtMd3h1aDBMY0VhcWNHVXNyWTljMk5xcHpXYkdzd3l3NXY4NUZlUlUza21iV2JTQVA1S3BwU09OVDhjTUU0TGtqS25QV2J4RDNyWVZ1QzNPeUE?oc=5",
@@ -817,6 +1030,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "27b4e8227e4f",
+  "title": "一人事業のAI相棒 送る前に止め、書いた後に確かめる",
+  "url": "https://zenn.dev/asagi_lab/books/solo-business-ai-partner",
+  "source": "Zenn",
+  "summary": "AIを事業の相棒にしたい人に向けて、AIへ仕事を任せて結果を見張らずに済む状態へ近づくための、運用の型を渡す本です。型は、送る前に止める、書いた後に確かめる、覚えさせる、毎日回す、の4つ。筆者はエンジニアではない個人事業主で、Claude Code上に作った自作のAI相棒で事業を回す中で起きた事故の記録から、その型を…",
+  "publishedAt": "2026-10-11T06:51:55.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -1525,7 +1751,7 @@
  {
   "id": "6eab04631df8",
   "title": "半導体メモリー大手マイクロン決算が映す｢終わりの見えないメモリー不足｣ AIサーバーは仕様を落として出荷…",
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfWWhQQTBxY0tTVWx4YjhnSXVpOUZPRy1USUotT3JSV2Z6bHBTTUxfS2hrbzBzSEoxS3o0YWhnS2pMOEVZZ2FYanZxdWJra2U1Tm1oMXRsWDVGZkJtSFFj?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGZUlzSmZjOEc4Vl9CWE9vSWZ1MGlHSXlid0QwWHU1U0RiZ0U2QzhrZTkxdGhDTUFqbnQyeXZldU1LM2pTTW5GTElhZ19scmxnRWlfOGhuZWNMY1k?oc=5",
   "source": "東洋経済オンライン",
   "summary": "",
   "publishedAt": "2026-10-11T02:30:00.000Z",
@@ -2391,19 +2617,6 @@
   "isPR": false
  },
  {
-  "id": "111f7ba8cd5f",
-  "title": "「スター技術者」の米国 vs「チーム戦」の中国——米研究者が明かした中国AI強さの真相",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeGs1Si1RUFVNXzQ2R3F0U3lKdGtLSTN0LUZTX1VFMTZHWTVhemxWOXZHMzYzaFhTUUtrTllrM2dRQXQ5dGlicDFZY1dfWGhTbHdQdzlHOFBTdzZob2pGbDRyZExibkJURTZTVHh4T0V2cEQ1eWc0bHY1bU16WFhmWXlmYmpYNUpScHNSZWl3?oc=5",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-10-10T23:41:52.000Z",
-  "image": "",
-  "categories": [
-   "model"
-  ],
-  "isPR": false
- },
- {
   "id": "1b90afc68a7b",
   "title": "【姫路台湾紀行】大手前公園が本場夜市に!? 近場台湾旅行＆花火の穴場レポ",
   "url": "https://zenn.dev/aiasoby/articles/asoby-20260920150000",
@@ -2587,6 +2800,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "111f7ba8cd5f",
+  "title": "「スター技術者」の米国 vs「チーム戦」の中国——米研究者が明かした中国AI強さの真相",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81cEhJZW9EQUhWQlV4SC1uc1YtY1FJVy10aHk5YkFRVFdnMl9Xek1xTEx6ODNDUG9fbXR0Q2JxTW9teEJQeUl2Ml9VeWVhdHJ0QXluYnBvQmFuWkhBMEhfaDNkUk8?oc=5",
+  "source": "Excite エキサイト",
+  "summary": "",
+  "publishedAt": "2026-10-10T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
