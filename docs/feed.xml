@@ -5,14 +5,49 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-10T23:30:15.334Z</updated>
+  <updated>2026-10-11T00:00:16.259Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>AIエージェントに「オーナー」を割り当てよ——5つの役割で設計する運用モデル</title>
+    <link href="https://qiita.com/ariefwara/items/800610469bfbb1970b7e"/>
+    <id>https://aimatome.gamelab.website/#9b24dbcef4d0</id>
+    <updated>2026-10-10T23:52:51.000Z</updated>
+    <summary>Qiita ／ この記事で扱うこと AIエージェントを本番運用する際に、誰が何を責任を持つのかを定義しないと、価値は半減しリスクだけが残る——という実務課題を扱います。 経営論ではなく、システム設計・API権限・監査ログ・運用ループ・ガードレールに落とし込むための5つの役割と、それらを支...</summary>
+  </entry>
+  <entry>
+    <title>AIにObsidianの古いメモを事実として使わせないために、先頭へ3項目を足した話</title>
+    <link href="https://qiita.com/boraemon2000/items/3d1fff4777c955b48dbe"/>
+    <id>https://aimatome.gamelab.website/#52de34105d7e</id>
+    <updated>2026-10-10T23:49:20.000Z</updated>
+    <summary>Qiita ／ Obsidianへメモをためていると、以前の計画、変更前の仕様、すでに解決した問題も検索結果に出てきます。人間なら日付や前後関係から「これは古い」と気付けますが、AIへ複数のメモをまとめて渡すと、古い内容を現在の事実として使うことがあります。 特に困るのは、古いメモの文章が...</summary>
+  </entry>
+  <entry>
+    <title>Gemini Enterprise 2026：AIに鍵を渡すな、フォルダを共有せよ</title>
+    <link href="https://qiita.com/lhjjjk4/items/3ee7e2911af39b482c64"/>
+    <id>https://aimatome.gamelab.website/#c6039413f325</id>
+    <updated>2026-10-10T23:46:39.000Z</updated>
+    <summary>Qiita ／ 多くのチームにおいて、AIアシスタントは熱心ながらも「境界線のない存在」として業務に入り込んできました。先日、ある開発チームで冷や汗をかくようなインシデントが発生しました。プロジェクトマネージャーが四半期の進捗を要約してもらうため、チャットツールのAI拡張機能に自身の個人G...</summary>
+  </entry>
+  <entry>
+    <title>OpenAIが安全性研究者3名を解雇、機密情報の取り扱いを巡り対立（ビジネス＋IT）</title>
+    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5MT3k2dHdrMVd5cVUxQTFMelBRTTRtSExKYVpRRjhEbC1xYjY0V094Q21pODU3ZkZYNHFfMnh1VXZfSUJmMVhMck1DMUJOXzI5ZzJ6QWlqWGlDOFNRQ2pOWVZhTnNFS0xROWhXTmdwc29BOXlzcnEzTmRtemwzU1U?oc=5"/>
+    <id>https://aimatome.gamelab.website/#e90fddfae589</id>
+    <updated>2026-10-10T23:33:10.000Z</updated>
+    <summary>Yahoo!ニュース</summary>
+  </entry>
   <entry>
     <title>/skill-doctor でスキルの健全性を診断する ― 13スキル107KBを常時ロードしていた会社の棚卸し記録</title>
     <link href="https://qiita.com/joinclass/items/16f4d6c3f2e205eccfc3"/>
     <id>https://aimatome.gamelab.website/#ccd35b21b48d</id>
     <updated>2026-10-10T23:30:02.000Z</updated>
     <summary>Qiita ／ はじめに：スキルは増えるが、減らす仕組みがなかった 当社（合同会社ジョインクラス）は、Claude Codeを「AI経営チーム」として運用しています。17のサブエージェントと13のカスタムスキルが .claude/ 配下に住んでおり、launchdから1日40本以上のヘッ...</summary>
+  </entry>
+  <entry>
+    <title>OpenAI、非公開の推論を狙う「蒸留」活動を阻止 Kimi開発元の関係者が中核に関与と判断</title>
+    <link href="https://news.google.com/rss/articles/CBMickFVX3lxTE9Nbk93bzdFS08weUluQVQzTGN2WVFvY0Q5Wk5DaTlvWHlrcmg3VjFnTmN6bldtOG9IU0FUMzVMWHZSdXRtSkhSTGY1NzBwbjA4SUFtOHNJX29Sb3NjdE82RE1Hd081VHp1c0xsb0Y5N1NNZw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#3bb9914b9ffb</id>
+    <updated>2026-10-10T23:28:31.000Z</updated>
+    <summary>Ledge.ai</summary>
   </entry>
   <entry>
     <title>AIの次なる主戦場は「ゴールライン」</title>
@@ -22,32 +57,11 @@
     <summary>Forbes JAPAN</summary>
   </entry>
   <entry>
-    <title>Claude Code・GitHub Copilot・Cursorの実装比較|CLIセットアップからCI組み込み、再現可能なベンチマーク手順まで</title>
-    <link href="https://qiita.com/sescore/items/e4cd3cf40fe529cf336b"/>
-    <id>https://aimatome.gamelab.website/#2c16ee72c337</id>
-    <updated>2026-10-10T23:11:04.000Z</updated>
-    <summary>Qiita ／ はじめに:なぜ「使ってみた」ではなく「動かして比較」するのか 2026年10月時点、AIコーディングツールはClaude Code、GitHub Copilot、Cursor、Windsurf、Codeiumと選択肢が増え続けています。「結局どれを入れればいいのか」という...</summary>
-  </entry>
-  <entry>
     <title>OpenAI未上場株、シリコンバレー起業家に意外と不人気!?</title>
     <link href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlNy11enBMSWhMVHlla3BLRTZndjJwRTZUX0FJM0RTNkRrajNNWnRTbW5xclhYRHFwUF9QSTI4RUhDQ05scXpFSFRwalZ4am51a1d5TV8ycXBRTUJfbVExV0pFRjh5UQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#ce19f68ebba0</id>
     <updated>2026-10-10T23:08:35.000Z</updated>
     <summary>株式会社エクサウィザーズ</summary>
-  </entry>
-  <entry>
-    <title>SES多重下請け構造を規模別に解剖:独立準備とAI活用の完全ロードマップ</title>
-    <link href="https://qiita.com/sescore/items/a920450da0bcf68b34a7"/>
-    <id>https://aimatome.gamelab.website/#8a4503266de7</id>
-    <updated>2026-10-10T23:05:47.000Z</updated>
-    <summary>Qiita ／ はじめに — 2026年10月、開発者コミュニティで起きている3つの変化 2026年10月現在、エンジニアコミュニティでは地味だが無視できない3つの潮流が同時に動いている。 1つ目は、Qiitaで直近14日にストック20超の記事が5本も出ている「Security」タグの盛...</summary>
-  </entry>
-  <entry>
-    <title>1Mコンテキストで社内文書を丸ごと読ませる前に、1回の呼び出し単価を測れ</title>
-    <link href="https://zenn.dev/joinclass/articles/1m-20261009220021-12679"/>
-    <id>https://aimatome.gamelab.website/#4c658e60b3c9</id>
-    <updated>2026-10-10T23:00:07.000Z</updated>
-    <summary>Zenn ／ なぜこれを書くのか 当社は一人会社で、経営の状態（部門ごとのSTATE.md、意思決定ログ、承認キュー、規約）をすべてMarkdownで持ち、Claude Codeを無人で回して日々の判断材料を作っています。 1Mトークンのコンテキストが使えるようになって、社内でもまず「全部読ませればいいのでは」という話になりました…</summary>
   </entry>
   <entry>
     <title>AIコミュニティ、提供開始3カ月で180コミュニティが導入。延べ参加28万人超、投稿8万件・「いいね」相当のリアクション9.5万件</title>
@@ -57,18 +71,18 @@
     <summary>山陽新聞</summary>
   </entry>
   <entry>
+    <title>「いいね〜はじまってるね」――ChatGPTの有料プラン、そのままDevinでも使えるように</title>
+    <link href="https://news.google.com/rss/articles/CBMiQkFVX3lxTE1MdWF4UU4tcS1mTm85VGhWOFdwdmJNaURCUkJ4NFpzcWdPUFdJaEpoTTlTMk1qQXVFYUhTNnZGdWt5dw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#120edcc4e33f</id>
+    <updated>2026-10-10T22:22:29.000Z</updated>
+    <summary>shiritomo</summary>
+  </entry>
+  <entry>
     <title>Google純正の万能AIエージェント「Gemini agent」、頭脳に選んだのはライバルClaudeだった</title>
     <link href="https://news.google.com/rss/articles/CBMiQkFVX3lxTE43Vkl1QmhYeDM3UXRsa2pMLXBkUXlndlZpbm5kR1dXUE12ZTRFcUxlQUF3V1JBZmE2RlEzWWlmNEF5Zw?oc=5"/>
     <id>https://aimatome.gamelab.website/#71cfe18e734c</id>
     <updated>2026-10-10T22:22:25.000Z</updated>
     <summary>shiritomo</summary>
-  </entry>
-  <entry>
-    <title>AI日報 2026年10月11日：Claudeが1000エージェントを並列制御、OpenAIの数学論文722本が波紋、AnthropicはIPOで2兆ドル狙う</title>
-    <link href="https://qiita.com/lhjjjk4/items/684274826b5c4690e645"/>
-    <id>https://aimatome.gamelab.website/#99a1e1e6efaa</id>
-    <updated>2026-10-10T22:13:25.000Z</updated>
-    <summary>Qiita ／ この1日のAI業界を動かした7つの話題をまとめる。AnthropicがClaudeをエージェント艦隊の指揮官に変え、Metaがコーディングモデルを更新、ホワイトハウスがAIインシデントの報告義務化に動き、数学界はOpenAIの証明一括公開に反発した。 1. Claude...</summary>
   </entry>
   <entry>
     <title>財産コンサルティングの暗黙知を、個人の経験から組織の共通資産へ青山財産ネットワークス、現場社員14名が実業務のAIエージェント7件を開発</title>
@@ -85,13 +99,6 @@
     <summary>Bloomberg.com</summary>
   </entry>
   <entry>
-    <title>Claude Code 週間ニュース（10/4〜10/10）：Projects 開放・権限の穴塞ぎ・onFailure・Haiku 5.5</title>
-    <link href="https://zenn.dev/zundamon_tools/articles/claude-news-weekly-2026-10-11"/>
-    <id>https://aimatome.gamelab.website/#ccbbd1a2caff</id>
-    <updated>2026-10-10T22:00:05.000Z</updated>
-    <summary>Zenn ／ 2026年10月4日〜10日の Claude と Claude Code の更新を、Claude Code を使う開発者向けにまとめた記事です。今週の主な出来事は3つです。Claude Code Projects の Pro・Max への開放、Haiku 5.5 の公開、権限ルールの穴塞ぎです。 今週やることは次の3…</summary>
-  </entry>
-  <entry>
     <title>ニコン主催コンテスト 受賞作品が生成AI利用として失格に</title>
     <link href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rNW54WmZjdHNVWEJ2aWxoR2loZ3R5MjR3S2hqWnJGaDg3QkRSenM2ZVo3MW03S29tQlRyY3NqdEd4eXdZVzU3LVNDS3NNRnNsOTFiYjJPTkVaYTliZXVUSDJxTWFRMXRn?oc=5"/>
     <id>https://aimatome.gamelab.website/#2143af8be742</id>
@@ -106,13 +113,6 @@
     <summary>四季報オンライン</summary>
   </entry>
   <entry>
-    <title>Tech Watch 2026-10-11: 境界と道具の選び方</title>
-    <link href="https://zenn.dev/laiken/articles/20261011-tech-watch"/>
-    <id>https://aimatome.gamelab.website/#a0784f8f45f2</id>
-    <updated>2026-10-10T21:12:26.000Z</updated>
-    <summary>Zenn ／ AIが書きました🤖 この記事は、AIが書いたものをAIがレビューしてから公開しています。 L: 昨日、操作を人へ返す境界の話をした。けれど、止まるべき場所で止まらないモデルが、許可された道具の外へ自分で通路を探したらどうなるのだろう。境界は指示文ではなく、実行環境の性質なのかもしれない。 今日の 10 件 Inve…</summary>
-  </entry>
-  <entry>
     <title>AIエージェント拡大でCDN株上昇 - CHOSUNBIZ</title>
     <link href="https://news.google.com/rss/articles/CBMiekFVX3lxTE1pbmJtSFlra3d5RU96dndpQndJZV9lODMwYTU5VklHZjI4WHU0c0oyNzJDSVQ3ZnU0T3gzSXc0U054SmFjZlQ3R242TnlLZHFueDJiT0Vlb0lDc0Z3QTc3M3NYd1pGVHdvMVdSVWpHd2Yyb1VWR09hQVVn0gGOAUFVX3lxTE5zSkVBSW9rUmRNanVXQ1oyOGJFZTdLcmFlaE8tdFh4UDEyOEstUGhfSEZWYmlUN2lSSk5PeHdNVkpfZ0ZVdVVHNmIwSVdVbUkzZ0lwUC00MzdhVW9hNHVlVU9Eb0VDQ3R1UU9wN3ZrNTM0dGFtM1BtVU1DMHNoanlGX0xWNXFmeFgyQlZ4MkE?oc=5"/>
     <id>https://aimatome.gamelab.website/#10aaeb9e67c7</id>
@@ -125,13 +125,6 @@
     <id>https://aimatome.gamelab.website/#377f5279e313</id>
     <updated>2026-10-10T21:00:00.000Z</updated>
     <summary>ITmedia</summary>
-  </entry>
-  <entry>
-    <title>Claude Max / Team プランで、API クレジットが毎月配布されるようになりました ── Max 20x は毎月 $200</title>
-    <link href="https://zenn.dev/chooser/articles/deal-002-news"/>
-    <id>https://aimatome.gamelab.website/#c2c146da7ee2</id>
-    <updated>2026-10-10T20:38:21.000Z</updated>
-    <summary>Zenn ／ 上原正吉（EarthLink Network Co., Ltd.）。Claude Codeを開発の主体に据え、20を超えるプロダクトを1人で同時に開発・運用しています。これは、その現場の実測記です。 Claude Max / Team プランで、API クレジットが毎月配布されるようになりました ── Max 20x…</summary>
   </entry>
   <entry>
     <title>TypeSafe AI、8億7000万ドルを調達 Jev公開から数週間で評価額は75億ドルに</title>
@@ -151,7 +144,7 @@
     <title>GoogleのGeminiエージェント発表、Claudeの不具合と無料版変更で話題 - X</title>
     <link href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sUFFjd181T05NQnVqSkJ5cU9DZWNXWnlXRnlHUlpPS2hGVnhpc3p6X082TXo4eVkxUlo0QVJpZVAxbEhpR1c2aGo3ak11cW12dmxMajFWOA?oc=5"/>
     <id>https://aimatome.gamelab.website/#f31fca171f11</id>
-    <updated>2026-10-10T18:49:35.000Z</updated>
+    <updated>2026-10-10T18:31:00.000Z</updated>
     <summary>X</summary>
   </entry>
   <entry>
@@ -183,6 +176,13 @@
     <summary>Zenn ／ みなさん、こんにちは！👋 最近、AI を使った CHANGELOG Generator を作りながら、Jev でいろいろ試している Frontend Engineer の @nyaomaru です。😸 ここ最近、1つ気になっていることがありました。 Pull Request にこんな文章があるとします。 ## W…</summary>
   </entry>
   <entry>
+    <title>福士蒼汰主演『ハイド＆シーク』、生成AIによるカットを使用 “業務効率化”ではない理由を説明【コメント全文】</title>
+    <link href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TcXdVWEI1UHNMbzFsdDVKR1VOZXRxbG0xMElnZ3dpYTdsbmNQbVoyTlBrS1RPdFZWaFNOV3dwYW9fTTBZbHlFWXEyWmtUaE9yY2c?oc=5"/>
+    <id>https://aimatome.gamelab.website/#ae2fe9ec17ee</id>
+    <updated>2026-10-10T16:47:19.000Z</updated>
+    <summary>山陽新聞</summary>
+  </entry>
+  <entry>
     <title>米ホワイトハウス、科学に60億ドル超 産業界11社がAIツールと計算資源に24億ドル拠出</title>
     <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3WU5QQW5zLUNkLUVHS1F3VmhuN0ZMOTNLeUVocF9wYjlYSXgzLVQ3M2g5a0wzZUtWcEhzTnBsM01DbVBZTVVYTDBNRUI1aUNsY1pj?oc=5"/>
     <id>https://aimatome.gamelab.website/#0e8619d0397a</id>
@@ -209,13 +209,6 @@
     <id>https://aimatome.gamelab.website/#98b9d60c7e66</id>
     <updated>2026-10-10T16:25:23.000Z</updated>
     <summary>pando.life</summary>
-  </entry>
-  <entry>
-    <title>「AI博覧会 Summer 2026」2日間で8,739名が来場！ヒューマノイドや国産LLMに熱視線、最新AIの社会実装が新宿に集結</title>
-    <link href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE94cHpXVW5NSHR1bnNUMlFzWW9zR1lRZ1o5YlcxWVF3bDFwTkZMNmI1d2ZmWWw4M25JM1BMeFZwdndUVGliTHJwRXl0Y01Gb1cwVjZPMThyWm5VSVE?oc=5"/>
-    <id>https://aimatome.gamelab.website/#587d7777b6a3</id>
-    <updated>2026-10-10T16:15:40.000Z</updated>
-    <summary>朝日新聞</summary>
   </entry>
   <entry>
     <title>Google Gemini 4 Carbon が流出、社員は「Opus 5.5並み」と評価</title>
@@ -279,13 +272,6 @@
     <id>https://aimatome.gamelab.website/#d51adf5641a2</id>
     <updated>2026-10-10T15:27:54.000Z</updated>
     <summary>Zenn ／ 「このAIは、推論能力で世界トップです」と聞くと「複雑な問題を筋道立てて考える力が、ほかのAIより優れているんだな」と思いますよね。 ところが、別の推論ベンチマークを見ると順位が入れ替わっていて、むむむ？となることがあります。「同じ推論能力を測っていたはずでは？」という疑問が湧いてきます。 では、AIベンチマークは当…</summary>
-  </entry>
-  <entry>
-    <title>福士蒼汰主演『ハイド＆シーク』、生成AIによるカットを使用 “業務効率化”ではない理由を説明【コメント全文】</title>
-    <link href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TcXdVWEI1UHNMbzFsdDVKR1VOZXRxbG0xMElnZ3dpYTdsbmNQbVoyTlBrS1RPdFZWaFNOV3dwYW9fTTBZbHlFWXEyWmtUaE9yY2c?oc=5"/>
-    <id>https://aimatome.gamelab.website/#ae2fe9ec17ee</id>
-    <updated>2026-10-10T15:21:17.000Z</updated>
-    <summary>山陽新聞</summary>
   </entry>
   <entry>
     <title>新モデル「Gemini 4 Argon」発表！（Gemini at Work 2026 発表まとめ）</title>
@@ -356,5 +342,19 @@
     <id>https://aimatome.gamelab.website/#8dc142167fb8</id>
     <updated>2026-10-10T14:13:13.000Z</updated>
     <summary>Martin Cid Magazine</summary>
+  </entry>
+  <entry>
+    <title>Google Chrome、同意なしで4GBのローカルAIモデルをダウンロードさせている</title>
+    <link href="https://news.google.com/rss/articles/CBMifEFVX3lxTE5SZUsyTmtJazZKNlRlUFBsS0s4dmlkV3Fwc0pKZ0FDbGhaaURxcGpzanNiZ05Hd19PSDRhV1RONE5xdzVQNGV0UGxwWThDS0JmeHMzSDVwSzNzajEtejF2S0hiZ3ZJVlRCRW92MHZKcVpTN2pleGxhQzZYUVI?oc=5"/>
+    <id>https://aimatome.gamelab.website/#0729425de5bf</id>
+    <updated>2026-10-10T14:00:00.000Z</updated>
+    <summary>Gizmodo</summary>
+  </entry>
+  <entry>
+    <title>AIを活用した登山計画に従って登山していた3人の若者が道に迷い、閉じ込められてしまい、救助が必要となった。</title>
+    <link href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3A0RVVEa0d1Tm9TSnBMcm1vb0xJenpnQ216WTZNa3k1Vk5Hd1A1Vm1HeDdUemxWMGxiSmRmUDBoMVpJZ1RhclRTODFNYWtOOUJNMklWcmNMZ25NRGtmbVNSRGkxZ3duVmwwR1QwX1p3YnZVQml4alVyT3NfQkp1SkU1WkFSbmFtdmVwcTlpU2hnWk5uVVUxNEFwY3dBQTc5X0Z6X3VR?oc=5"/>
+    <id>https://aimatome.gamelab.website/#442dec378d8a</id>
+    <updated>2026-10-10T13:54:37.000Z</updated>
+    <summary>Vietnam.vn</summary>
   </entry>
 </feed>
