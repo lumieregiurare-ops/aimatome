@@ -1,5 +1,58 @@
 [
  {
+  "id": "1da016aeb124",
+  "title": "Claude Codeのサブエージェントを設計する — 責務分割とツール権限の絞り方",
+  "url": "https://qiita.com/joinclass/items/78fb590dcbaca1ebf767",
+  "source": "Qiita",
+  "summary": "はじめに 当社（合同会社ジョインクラス）では、Claude Codeのサブエージェントを17個運用し、launchdで17本以上のジョブを無人で回しています。「経理」「出版」「朝ダイジェスト」など、社内の部門をそのままサブエージェントにした構成です。 最初からうまくいった...",
+  "publishedAt": "2026-10-11T23:30:04.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "370a3beb6163",
+  "title": "Claude Codeの`/loop`と`/schedule`、同じ「繰り返し」でも実行場所が違う",
+  "url": "https://qiita.com/caymezon/items/555517feaa9826d3320f",
+  "source": "Qiita",
+  "summary": "背景 Claude CodeのCI/CD自動化コマンド（/loop・/schedule・/goal・/autofix-pr）を組み合わせて開発パイプラインを自動化するハンズオンをやりました。似た用途に見える/loopと/scheduleが、実は「どこで実行されるか」という...",
+  "publishedAt": "2026-10-11T23:28:33.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dcebced64288",
+  "title": "Codex・Claude Code・Gemini、それぞれ何に強いのか ― 得意分野を分けて整理した",
+  "url": "https://qiita.com/Next-Survive/items/e5753afa06abe370dbe8",
+  "source": "Qiita",
+  "summary": "「結局どれが一番強いのか」。この問いには、たぶん答えが出ません。 前回、3社の料金と性能を比較して分かったのは、性能も価格もほぼ横並びになったということでした。SWE-bench で Codex 88.7% / Claude Code 87.6%。差は1.1ポイントです。 ...",
+  "publishedAt": "2026-10-11T23:09:16.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b876ff598aa3",
+  "title": "フリーランスエンジニア年収データ比較2026｜地方リモート単価とSES契約の注意点",
+  "url": "https://qiita.com/sescore/items/b151bb6ecb8170cafffc",
+  "source": "Qiita",
+  "summary": "はじめに：AIで生産性を上げても、年収の天井は「契約」で決まる 毎日Claude Codeを使って開発している身として、AIコーディングの話題はつい書きたくなる。実際、Zennでは「俺のAIプログラミング手法」(2026/10/05公開)が日次トレンド上位に入り、いいね換...",
+  "publishedAt": "2026-10-11T23:07:35.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "business"
+  ],
+  "isPR": false
+ },
+ {
   "id": "31ca606c9dce",
   "title": "AI時代に、自分の個人情報をどう守るか。被害を最小限にするために",
   "url": "https://qiita.com/tech-nami/items/78f9cf1af3584f665dfd",
@@ -290,6 +343,19 @@
   "isPR": false
  },
  {
+  "id": "a4f9b739b73a",
+  "title": "AIのガバナンスやランタイム保護が「過度な期待」ピーク期に──Gartnerハイプ・サイクル",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YeW1zSklOeUhPd0xOTzM5QW02SUwwaTBfSnhRYkFHVUdXQ1VkUHNaYk5CVzFRdi1nNjFyNWZFVnJyTFNhblRhME8tem9SS0Y4TmFhTHFR?oc=5",
+  "source": "EnterpriseZine",
+  "summary": "",
+  "publishedAt": "2026-10-11T21:01:04.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "399c989ea3b1",
   "title": "人工知能(AI)エージェント市場が急成長し、彼らを眺めるコマースプラットフォームの立場が食い違っている。 AIエージェントがユーザーの代わりに検索して決済をすれば、ユーザーと接点を作る地点がプラットフ..",
   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HNEV6aXEweDNNMDBvVEl0ellTd0h5MFBub2FnZm85THV6X29QMU96NElWYVROaElDWm90TF9pRmEyQWwtNWpIS3libw?oc=5",
@@ -522,6 +588,19 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f32eaf80bbad",
+  "title": "AIエージェントはポリシー文書を読まない——APIを叩く。Gravitee｜AI Engineer",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aSml1NnlfeVN0X3JUaktNQ0FSSDR4Q2hLRkp5ZWlTUlVCTW55bm5JYk93V0MtUTRIRDhhVzdYd3pYUlFpaDJmdXp6eEEwRjJtSkZLbmQ1emVqc0ptSXc?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-11T19:39:24.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },

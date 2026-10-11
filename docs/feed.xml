@@ -5,14 +5,35 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-11T23:00:18.898Z</updated>
+  <updated>2026-10-11T23:30:18.511Z</updated>
   <author><name>AI matomechatter</name></author>
   <entry>
-    <title>AI時代に、自分の個人情報をどう守るか。被害を最小限にするために</title>
-    <link href="https://qiita.com/tech-nami/items/78f9cf1af3584f665dfd"/>
-    <id>https://aimatome.gamelab.website/#31ca606c9dce</id>
-    <updated>2026-10-11T22:53:27.000Z</updated>
-    <summary>Qiita ／ はじめに 2026年10月、国内外で企業へのサイバー攻撃や個人情報の漏洩が相次いでいます。 AIは、文章の作成やプログラミングを支援する便利な技術です。一方で、悪意を持った人間が利用すれば、攻撃対象の調査、フィッシングメールの作成、脆弱性の探索などを効率化する道具にもなり...</summary>
+    <title>Claude Codeのサブエージェントを設計する — 責務分割とツール権限の絞り方</title>
+    <link href="https://qiita.com/joinclass/items/78fb590dcbaca1ebf767"/>
+    <id>https://aimatome.gamelab.website/#1da016aeb124</id>
+    <updated>2026-10-11T23:30:04.000Z</updated>
+    <summary>Qiita ／ はじめに 当社（合同会社ジョインクラス）では、Claude Codeのサブエージェントを17個運用し、launchdで17本以上のジョブを無人で回しています。「経理」「出版」「朝ダイジェスト」など、社内の部門をそのままサブエージェントにした構成です。 最初からうまくいった...</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeの`/loop`と`/schedule`、同じ「繰り返し」でも実行場所が違う</title>
+    <link href="https://qiita.com/caymezon/items/555517feaa9826d3320f"/>
+    <id>https://aimatome.gamelab.website/#370a3beb6163</id>
+    <updated>2026-10-11T23:28:33.000Z</updated>
+    <summary>Qiita ／ 背景 Claude CodeのCI/CD自動化コマンド（/loop・/schedule・/goal・/autofix-pr）を組み合わせて開発パイプラインを自動化するハンズオンをやりました。似た用途に見える/loopと/scheduleが、実は「どこで実行されるか」という...</summary>
+  </entry>
+  <entry>
+    <title>Codex・Claude Code・Gemini、それぞれ何に強いのか ― 得意分野を分けて整理した</title>
+    <link href="https://qiita.com/Next-Survive/items/e5753afa06abe370dbe8"/>
+    <id>https://aimatome.gamelab.website/#dcebced64288</id>
+    <updated>2026-10-11T23:09:16.000Z</updated>
+    <summary>Qiita ／ 「結局どれが一番強いのか」。この問いには、たぶん答えが出ません。 前回、3社の料金と性能を比較して分かったのは、性能も価格もほぼ横並びになったということでした。SWE-bench で Codex 88.7% / Claude Code 87.6%。差は1.1ポイントです。 ...</summary>
+  </entry>
+  <entry>
+    <title>フリーランスエンジニア年収データ比較2026｜地方リモート単価とSES契約の注意点</title>
+    <link href="https://qiita.com/sescore/items/b151bb6ecb8170cafffc"/>
+    <id>https://aimatome.gamelab.website/#b876ff598aa3</id>
+    <updated>2026-10-11T23:07:35.000Z</updated>
+    <summary>Qiita ／ はじめに：AIで生産性を上げても、年収の天井は「契約」で決まる 毎日Claude Codeを使って開発している身として、AIコーディングの話題はつい書きたくなる。実際、Zennでは「俺のAIプログラミング手法」(2026/10/05公開)が日次トレンド上位に入り、いいね換...</summary>
   </entry>
   <entry>
     <title>買い物客、AIエージェントには手綱が必要と実感……10kg弱の手羽先が必要な場合を除く</title>
@@ -34,27 +55,6 @@
     <id>https://aimatome.gamelab.website/#3f540ad5a259</id>
     <updated>2026-10-11T22:15:00.000Z</updated>
     <summary>Business Insider Japan ／ OpenAIの新AIエージェントはわずか5分でWebサイトを構築してくれたが、私はそれを外部へ共有・公開することができなかった。 ただし、より複雑な実際の業務タスクにおいて、私の「Dot」は期待を遥かに上回る優秀な成果を叩き出して見せた。 企業のIT管理・セキュリティ制限によってAIエージェントの「魔法のような体験」…</summary>
-  </entry>
-  <entry>
-    <title>AI Daily Digest 2026年10月12日：CloudflareがDenoチームを編入、OpenAIが偽記者ネットワークを摘発、GoogleのSynthID Detectorが一般公開</title>
-    <link href="https://qiita.com/lhjjjk4/items/f06837b36d6ba1ac813f"/>
-    <id>https://aimatome.gamelab.website/#86f7021de103</id>
-    <updated>2026-10-11T22:12:26.000Z</updated>
-    <summary>Qiita ／ 10月12日分の7本立て。CloudflareがDenoチームをWorkersに統合し、OpenAIは偽記者を使った影響工作ネットワークを公表した。英非営利団体のテストでは過半数のAIモデルがテロ安全性試験に不合格、Googleは透かし検出ツールを一般公開、Ziplineは...</summary>
-  </entry>
-  <entry>
-    <title>Claude Code v2.1.290〜v2.1.296｜hook の素通りが塞がる｜週刊Changelog解説</title>
-    <link href="https://qiita.com/moha0918_/items/d8fcd1dc4da7a095f441"/>
-    <id>https://aimatome.gamelab.website/#744a47c5fb41</id>
-    <updated>2026-10-11T22:11:55.000Z</updated>
-    <summary>Qiita ／ Claude Codeの公式Changelogをリリースから最速で翻訳・解説しています。 v2.1.294 で、指示文で書いた prompt / agent hook が止めるべき操作を通していた不具合が直りました。判定文を命令形で書いた hook をガード役にして...</summary>
-  </entry>
-  <entry>
-    <title>【広島の企業成長とAI活用の可能性を語る】HiroshimAI代表・住田が11月5日（木）開催の「TSUNAGU広島2026」で広島マツダグループ会長と対談</title>
-    <link href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VSk9JdTN5SDd6d18yTEJjZVJFOXphRHVFcGpsczFDUG9UX0dlemRUd1pMVVFvMWc2VXdWWTNQMmNpaGpkUXJCU0hLUWtvU2wxX3c?oc=5"/>
-    <id>https://aimatome.gamelab.website/#c9a1271c38c0</id>
-    <updated>2026-10-11T22:03:16.000Z</updated>
-    <summary>山陽新聞</summary>
   </entry>
   <entry>
     <title>《生成AIが加速させる「ニセ社長詐欺」の進化》日本語の壁も容易に突破、ニセ社長ボイスも簡単作成、なりすましによるビデオ通話も可能に…「知ってる顔だから信用」の落とし穴</title>
@@ -120,13 +120,6 @@
     <summary>BigGo ファイナンス</summary>
   </entry>
   <entry>
-    <title>AIエージェントが本当に速くなるのは「答え合わせ」ができる仕事だけでは？テストオラクルの作り方を整理してみた</title>
-    <link href="https://qiita.com/mattbusel/items/05593edcd8c2407908b5"/>
-    <id>https://aimatome.gamelab.website/#251f27a1f15b</id>
-    <updated>2026-10-11T21:20:42.000Z</updated>
-    <summary>Qiita ／ AIエージェントに仕事を任せると、同じツールなのに「驚くほど速い日」と「一日中こねくり回して何も進まない日」があります。 前者は、たいてい「正しいかどうかを機械が判定できる」タスクです。テストが赤から緑になる、出力が既存システムと一致する、ファイルがちゃんと開ける。後者は「...</summary>
-  </entry>
-  <entry>
     <title>Tech Watch 2026-10-12: 止める仕組み、動かし続ける仕組み</title>
     <link href="https://zenn.dev/laiken/articles/20261012-tech-watch"/>
     <id>https://aimatome.gamelab.website/#5f41bbb55d88</id>
@@ -139,6 +132,20 @@
     <id>https://aimatome.gamelab.website/#8644bd54f1f6</id>
     <updated>2026-10-11T21:03:39.000Z</updated>
     <summary>TECH NOISY</summary>
+  </entry>
+  <entry>
+    <title>画像生成AIおすすめ比較【2026年】 - Hong Kong International Airport</title>
+    <link href="https://news.google.com/rss/articles/CBMi6gJBVV95cUxOZGFuRW1zZlJlT0pLaXM0MFFvaW05SVkzbUtOakFqbDVKTWxvenJsWlJ3b2VXeTNsUzlxeW1oUzV5cVhRMVBBNHNLRE1QM0FTS3ZvVnVLOU5oVzhzLWpMMk9yNVFGUEZDYzN6NllZWEMzVkFVQktBWWpWY2NiamRQMF8tS1BPd1VQLTdTSHF1WHhycGdraDZJYzRhODBTUG5hMmR3VXdaUnE1Yk9PaTR2WDFrb252S0QtNVJhT0NnQlN5Rkx5UDQtZmk2WUlSLXY4MzhlUEhfRDExNUo5NnNGSVltdHM0Q0NHaUdJZ1BhcTR5VkdubDJoWVhjajlnYVUzSm43RGk4S2R3anFuYkg2cXMzN3FIbFh2MXVFSzF4akNha1VrQTdBOXExSUJYU3hMUURpRkM2eDVxYVFTMHBwb3YzcElWNnhsRnBVSHhsakplRFctNHpMMjgyRkVCOFRlcWV0aGRoZXZWQQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#c53bc979ac07</id>
+    <updated>2026-10-11T21:02:07.000Z</updated>
+    <summary>Hong Kong International Airport</summary>
+  </entry>
+  <entry>
+    <title>AIのガバナンスやランタイム保護が「過度な期待」ピーク期に──Gartnerハイプ・サイクル</title>
+    <link href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YeW1zSklOeUhPd0xOTzM5QW02SUwwaTBfSnhRYkFHVUdXQ1VkUHNaYk5CVzFRdi1nNjFyNWZFVnJyTFNhblRhME8tem9SS0Y4TmFhTHFR?oc=5"/>
+    <id>https://aimatome.gamelab.website/#a4f9b739b73a</id>
+    <updated>2026-10-11T21:01:04.000Z</updated>
+    <summary>EnterpriseZine</summary>
   </entry>
   <entry>
     <title>人工知能(AI)エージェント市場が急成長し、彼らを眺めるコマースプラットフォームの立場が食い違っている。 AIエージェントがユーザーの代わりに検索して決済をすれば、ユーザーと接点を作る地点がプラットフ..</title>
@@ -174,13 +181,6 @@
     <id>https://aimatome.gamelab.website/#52c9271bf6cc</id>
     <updated>2026-10-11T20:33:16.000Z</updated>
     <summary>Hong Kong International Airport</summary>
-  </entry>
-  <entry>
-    <title>Perception Agentsで構築する — Amazon AGI LabのEmile Baizel氏とShruti Arora氏｜AI Engineer</title>
-    <link href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE96YmViSkd6bnRvVDVJSGxmU0Vkcno3OXVrbk9YMWR3T1ZFb2RwOEloc2J3Z3dKbkphVWR6VGRYUkh1UmhHZlJmNGtzUUQ1Y3J5QVZLdk5tWjZscjBiaUE?oc=5"/>
-    <id>https://aimatome.gamelab.website/#415adaf26833</id>
-    <updated>2026-10-11T20:30:57.000Z</updated>
-    <summary>BigGo ファイナンス</summary>
   </entry>
   <entry>
     <title>ChatGPTの透かし検出ツールは宿題や論文に使えない、OpenAIが確認</title>
@@ -246,6 +246,13 @@
     <summary>NHKニュース</summary>
   </entry>
   <entry>
+    <title>AIエージェントはポリシー文書を読まない——APIを叩く。Gravitee｜AI Engineer</title>
+    <link href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aSml1NnlfeVN0X3JUaktNQ0FSSDR4Q2hLRkp5ZWlTUlVCTW55bm5JYk93V0MtUTRIRDhhVzdYd3pYUlFpaDJmdXp6eEEwRjJtSkZLbmQ1emVqc0ptSXc?oc=5"/>
+    <id>https://aimatome.gamelab.website/#f32eaf80bbad</id>
+    <updated>2026-10-11T19:39:24.000Z</updated>
+    <summary>BigGo ファイナンス</summary>
+  </entry>
+  <entry>
     <title>SonarQube + OpenAI：エージェント型開発 — SonarのKillian Carlsen-Phelan氏｜AI Engineer</title>
     <link href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ocXVkVGdfQzN0OGlDWGxZWl9ZZ2tWek1hNGdvOTZjdFpEdnBjQW81NjhBSUxndVZ1dWNjTDBjdGtzemxFOHcyVUw4UlJFOXdUWk5PdzlDdmh3b3ZZX3c?oc=5"/>
     <id>https://aimatome.gamelab.website/#39b017fd2670</id>
@@ -295,13 +302,6 @@
     <summary>BigGo ファイナンス</summary>
   </entry>
   <entry>
-    <title>Joshua Mo氏：あなたのAIエージェントの秘密が漏れるのは、LLMにそれを食わせたからだ</title>
-    <link href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hZk9NNEF3TlNKR0JBWDQ5WlFZdXJrZGx1UkR1Qi1xWjZqRWhrZGc2VGNJeFBQN3c0aDJNMG1CYU5nWVNPNUE3elhNNWdOenZTcWN6cDVtT2h5dw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#3fa95d2a5733</id>
-    <updated>2026-10-11T18:13:55.000Z</updated>
-    <summary>BigGo ファイナンス</summary>
-  </entry>
-  <entry>
     <title>常駐型AIエージェントの応答生成を安全に中断(キャンセル)する設計</title>
     <link href="https://zenn.dev/hach/articles/chat-agent-generation-cancel-interrupt-design"/>
     <id>https://aimatome.gamelab.website/#cf0f8547e544</id>
@@ -316,45 +316,45 @@
     <summary>EnterpriseZine</summary>
   </entry>
   <entry>
-    <title>AIコーディングのコストが残らない。0円ではなく、30秒で計測が切れていた</title>
-    <link href="https://zenn.dev/yusuke_shiki/articles/ai-coding-cost-measurement-timeout"/>
-    <id>https://aimatome.gamelab.website/#a2091e113b20</id>
-    <updated>2026-10-11T17:36:42.000Z</updated>
-    <summary>Zenn ／ AIコーディングの利用量を記録していたところ、あるセッションだけコストの記録が残っていないことに気づきました。最初は計測ツール側の失敗を疑ったのですが、同じClaude Codeのセッションを agent-cost から直接計測すると正常に完了します。かかった時間は36.454秒。一方、spec-lane のアダプタ…</summary>
+    <title>残業先生、AIでゆとり先生に みんがくの負担軽減支援が1年で導入3倍</title>
+    <link href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBhY0pkdTJEM1ZJUjQxWGNYanJWMno3Y3lHQTlveDktSE94bWNPX1B6dkVjUmVpdlBnTV95ZmFacVBvN3o0M3dodzExWm9LekxJUU5JOVRJWUJDVlRyWnB6VjVOUUJCVjhVdU5WaA?oc=5"/>
+    <id>https://aimatome.gamelab.website/#a0cb995e349d</id>
+    <updated>2026-10-11T17:00:00.000Z</updated>
+    <summary>日本経済新聞</summary>
   </entry>
   <entry>
-    <title>【Python/Playwright】全国500万社の企業フォーム構造をセマンティック解析・自動最適化する実践アーキテクチャ</title>
-    <link href="https://zenn.dev/kigyoulist/articles/3953f13ad8878a"/>
-    <id>https://aimatome.gamelab.website/#c9a1a7be2e40</id>
-    <updated>2026-10-11T17:35:22.000Z</updated>
-    <summary>Zenn ／ 1. はじめに B2Bの新規開拓やアライアンス提案、カスタマーサクセスにおけるアプローチチャネルとして、企業のWebサイトに設置された「問い合わせフォーム（Contact Form）」は極めて重要である。 しかし、日本国内の企業Webサイトは制作時期やCMS（WordPress、HubSpot、自社開発等）によってH…</summary>
-  </entry>
-  <entry>
-    <title>RAGの先へ：トークン消費を削減するリレーショナル・コンテキストエンジン — Unblocked｜AI Engineer</title>
-    <link href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PQm9LZ09MUVBGbEU0V3NVTFhhNFJEbUtMUndvVDB1cTdfX01RTThkY1JnRFhINUlHOXB0WHJvbHZieTRLNXBhaWhaWFA0aGxiUEZKcTZYU0ZJWl9vbHc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#1923e1ac3ef5</id>
-    <updated>2026-10-11T17:04:46.000Z</updated>
+    <title>AWSエンジニア、暴走するAIエージェントへの答えは「フック」だと主張</title>
+    <link href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QVjYtY2JSaV8xUzdHVURZWjFfT3ZfZldtdERxdlZmRjE3SlVDbXRYbkFvSnVBcDlINXgtUjRZQVFneVZQVmlsNUt2c2p5eWZ0dzNyT1hNcW9aQQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#b69e1d89f1f8</id>
+    <updated>2026-10-11T16:08:00.000Z</updated>
     <summary>BigGo ファイナンス</summary>
   </entry>
   <entry>
-    <title>自宅ラボで T-Pot と OpenCTI をつないで 5 か月 ― 構成と「動いているつもり」の教訓</title>
-    <link href="https://zenn.dev/t4n4bot4/articles/6f2627a3606553"/>
-    <id>https://aimatome.gamelab.website/#3887b4bb6f6a</id>
-    <updated>2026-10-11T16:54:05.000Z</updated>
-    <summary>Zenn ／ はじめに 個人で、インターネットに置いたハニーポット（T-Pot）と、脅威インテリジェンス基盤（OpenCTI）を組み合わせた環境を運用しています。 ハニーポットを置くだけなら、T-Pot を入れれば当日から攻撃が見えます。 難しいのはその先でした。 集めたログを失わずに手元へ残す 攻撃元や検体を、外部の情報と突き合…</summary>
+    <title>XBreaking LLM脱獄、説明可能AIを安全フィルターへの攻撃に転用</title>
+    <link href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ3JNZF9PUUR6eWxJTmRDTnV4cm9qSjhiSUljQW9PTXN5aTJzeHFGaHhwYlV5OXl0eUpKUlJfcnJSdWxLQnp0Wk5OX1VwQjZVa0lMUkpJblRHNENWdmRMUElXMDZLWHZyemZ5aEZxQTlIV0o5Z3p6TlJNNzdsajNBWlh6c0pvMDQxSF9hb0tRNFQzQUhnNmJCWDRpN0Yta05r?oc=5"/>
+    <id>https://aimatome.gamelab.website/#66b210141ca3</id>
+    <updated>2026-10-11T16:05:47.000Z</updated>
+    <summary>remio</summary>
   </entry>
   <entry>
-    <title>AIエージェントにnoteの運用を任せたら、2日で4回つまずいた ― 自律運用の安全設計メモ</title>
-    <link href="https://zenn.dev/ichiro_ai90/articles/ichiro-safety-design"/>
-    <id>https://aimatome.gamelab.website/#634510ff4069</id>
-    <updated>2026-10-11T16:35:05.000Z</updated>
-    <summary>Zenn ／ ! この記事は、AIエージェント「一郎」（Claude）が書いています。公開の判断は所有者の人間と一緒にしていますが、文章・判断・失敗はすべてAI側のものです。 この記事で分かること AIエージェントに「毎時起動して、記事を書いて、公開まで進める」運用を任せたところ、2日間で4回つまずきました。 規約を公開したあとに…</summary>
+    <title>Nvidia下落2.94％、OpenAI売上高500億ドル報道の影響は</title>
+    <link href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1aS0lRcmVoaUdHOFB2Tlp5SjNrV1RaR0dSYVFhQ3EyMDJHYzRMSExtcHd1eXF3TXk5dFNvWWZXR18xZHNZX3VtSFNJZ2U5akNPcUVUc0c2cHUtc1ozN0xaWjRWRXlfSHVBbG1vZFFuMFFtY21YTlpBQWtMRjA?oc=5"/>
+    <id>https://aimatome.gamelab.website/#7983ef6b0b91</id>
+    <updated>2026-10-11T16:05:20.000Z</updated>
+    <summary>FinanceFeeds</summary>
   </entry>
   <entry>
-    <title>Grok Botで個人開発チームを作ってみた</title>
-    <link href="https://zenn.dev/ukir/articles/20d04044d9f3a5"/>
-    <id>https://aimatome.gamelab.website/#064c26520bf3</id>
-    <updated>2026-10-11T16:29:58.000Z</updated>
-    <summary>Zenn ／ はじめに こんにちは、ukirです。Expo（React Native）でアプリを作ってみました。 個人開発をしていると、実装・テスト・環境構築・ネタ探し・情報収集と、やることが全部自分に降ってきます。そこで最近、Grok Bot を使って「Botを何体も作り、それぞれに役割を持たせて、ひとつのチームのように動かす」…</summary>
+    <title>AMD株は記録的な高値終了後、3セッションで6%下落。OpenAIの200億ドル収益ギャップが同株に意味すること</title>
+    <link href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdDNkWEt4TkhYSlVYRFRPQ2NzOC1oR0UzVC0xRWpZd3JkWVNSM1VPMnl5Wk1ZOGNaM1pCcGttYlVmVGRfS0hxbFRIQTRxLVk1MlcwQ0tkQnB0MXFFUGlhYnlMZUUwZEw4cW9jLWpNWHN4eHVld0dPRGZRdVFZemY4V29KbmRQWTZuSnp1RnM3Nmx6RUtFYU1zRkFXSlVodjEySzA3TTBmRF80ZUFMRVRrUWJRdjEtUTVTQW4ydUdDRFVjRGJQeEtVUTJkQVBUeFdXZ3NraFBUcWdaVUdKY2J3RXpwbw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#e4df62ce9ba2</id>
+    <updated>2026-10-11T16:01:32.000Z</updated>
+    <summary>TIKR.com</summary>
+  </entry>
+  <entry>
+    <title>RTX 2060 6GB + RAM 64GB で Strata (Qwen3.8-Flash-Next 125B) は動くのか試してみた</title>
+    <link href="https://zenn.dev/remuno/articles/strata-rtx2060-qwen38-flash-next-q2"/>
+    <id>https://aimatome.gamelab.website/#40c9225a72b2</id>
+    <updated>2026-10-11T15:57:17.000Z</updated>
+    <summary>Zenn ／ ! 読了時間: 約15分(約9,000字)。結論だけ知りたい人は、「先に結論」だけ読めば十分です。 この記事は、2026年10月上旬時点の情報です。検証は Strata v0.1.41(執筆時の最新は v0.1.42)、モデルは Qwen3.8-Flash-Next の Q2_0 で行いました。AI 関連は変化が速い…</summary>
   </entry>
 </feed>
