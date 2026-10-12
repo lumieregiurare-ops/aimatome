@@ -27,6 +27,19 @@
   "isPR": false
  },
  {
+  "id": "2cca35e5fbc6",
+  "title": "Anthropic、AIの試験を全部ネットから切り離す",
+  "url": "https://zenn.dev/sugawara_ai/articles/ai-news-20261012",
+  "source": "Zenn",
+  "summary": "2026年10月12日（月）のAIニュース完全解説版。図解を見れば本文を読まなくても分かる形にしています。 おはようございます、菅原です。今日はAIの「止め方」と「頼り方」の話が並びました。Anthropicが社内でAIを試す環境を、ネットから全部切り離しました。UC Berkeleyは、AIに10分頼るだけで粘る力…",
+  "publishedAt": "2026-10-12T14:47:37.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "863245efec6a",
   "title": "米マイクロソフト、第3世代AI推論チップ「Maia 300」発表 Azureで複数ギガワット級に",
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiYmhHS1N1Yk95d0ZhNE1RZmxEQWpvT3ZIQ2ZFcEpWSVlyVktGRzdVVXJDQWNjdXc4M3NtVHpmQW1EOTlacC1FdkMtalcyd0VNVFNj?oc=5",
@@ -36,6 +49,46 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d063afcb6ba0",
+  "title": "日本語の会議録音、ローカルWhisperはどのサイズで足りる？ Macで6サイズ×雑音・話し声・用語ヒントを実測した",
+  "url": "https://zenn.dev/kagaage/articles/b046f8a597c63a",
+  "source": "Zenn",
+  "summary": "社外に出せない会議の録音を、クラウドに送らず手元のMacで文字起こししたい。そのとき最初に迷うのが「Whisperのどのサイズを使うか」です。小さいモデルは速いけれど金額や社名を落とすと議事録に使えない。大きいモデルは正確そうだけれど、1時間の録音に何分待つのか分からない。 そこで、OpenAIの音声認識モデル Wh…",
+  "publishedAt": "2026-10-12T14:40:04.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a10c2a74ac26",
+  "title": "Cloudflare Pagesで消したファイルは、デプロイごとのURLに残る — 404を確かめても消えていなかった",
+  "url": "https://zenn.dev/zeroyen_dev/articles/cloudflare-pages-deleted-file-remains",
+  "source": "Zenn",
+  "summary": "AI（Claude Code）に、ブログの運用を任せています。その中に、公開前の原稿を一時的に自分のサイトに置く工程があります。 置いたファイルは、使い終わったら消して、もう一度デプロイします。そのあと、本番のURLで404になることまで確かめていました。手順書にもそう書いてあり、毎回そのとおりにやっていました。 2…",
+  "publishedAt": "2026-10-12T14:37:26.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "61480d949031",
+  "title": "中国のDeepSeekが具身智能（Embodied AI）への布石を加速、梁文鋒氏が創業チームと精力的に接触",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51NXh2WjZ6c0Njbl9xcTdIVUtfc290bWpJRmJFV3Bka0p5YmE3Yl9GRlp6TUZseWEzMmQ4SEppWmpnNlBxNVBJN2dOTm8yVzVWVnE3cEVjU2RoQVlqcTFhRzNBTWp6X04zM2MxX2VHR05UOHFN?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-12T14:35:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -50,6 +103,33 @@
   "categories": [
    "business",
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5ed7bec3e239",
+  "title": "AIで仕事は速くなった。なのに「入力」だけ、まだ渋滞していない？",
+  "url": "https://zenn.dev/keyro/articles/ford-ai-input-bottleneck",
+  "source": "Zenn",
+  "summary": "Keyroアカデミー｜仕事術 AIにメールの下書きを頼んだら、数秒で返ってきた。ところが、最後の修正で手が止まる。日本語から英語へ、数字から記号へ、変換候補を探して、またEnter。仕事の新しいボトルネックは、案外キーボードの上にあるのかもしれません。 100年前の「流れ」を、いまの仕事へ 1913年、フォードは自動…",
+  "publishedAt": "2026-10-12T14:21:11.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7ddc8f6f1204",
+  "title": "Claude Code と Codex に「壊して」と頼むレビューが終わらない。他人のコードを読むアプリで、止める基準を決めた記録",
+  "url": "https://zenn.dev/qzailabs/articles/ai-break-it-review-never-ends",
+  "source": "Zenn",
+  "summary": "AIで作ったWebアプリを公開前に点検するツール（点検日和）を、Claude Code と Codex で作っています。このツールが読むのは、利用者のコードです。つまり、どんな形の入力が来るか、こちらでは決められません。 作り始めた日、Claude Code が書いたものを、Codex と、Claude Code の…",
+  "publishedAt": "2026-10-12T14:20:45.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
   ],
   "isPR": false
  },
@@ -119,6 +199,45 @@
   "isPR": false
  },
  {
+  "id": "425dd1e4e4df",
+  "title": "隣のGPUはあなたのモデルを聞いている — Branislav Brzak、Stealthium｜AI Engineer",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RV0VsM2Y1dmNrQTRyLW5nN1hpNk9nRTluVHgtWnNBeHBnVjMwaGxqd0EtY3pWWWxiT3cyQndrc3NiY0dHT2Z3M3lfUXV3ekQtTkwyU2tuNFFiVFRtRnc?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-12T14:04:42.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "948ea2b54961",
+  "title": "AIの進化がもたらすサイバー攻撃の激増と今求められる防御側の常識",
+  "url": "https://zenn.dev/dilettante/articles/5a419a9b7c38e2",
+  "source": "Zenn",
+  "summary": "昨今のセキュリティインシデントの背景 昨今、情報漏洩や不正アクセスといったセキュリティ被害のニュースが毎日のように報道されています。サイバーセキュリティクラウド社のデータによると、2026年7月〜9月の攻撃件数は前年同時期の約1.8倍に達し、9月の最終週に限定すると前年同週比で3倍以上という爆発的な増加を記録していま…",
+  "publishedAt": "2026-10-12T13:57:25.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f2b4234acbba",
+  "title": "AIに書かせた日本語を毎日直していたので、直し方ごとスキルにして公開しました",
+  "url": "https://zenn.dev/koji4/articles/42b8c6d5901323",
+  "source": "Zenn",
+  "summary": "仕事の文章はほとんど AI に下書きさせています。中小企業向けの提案書、作業の報告、事業部の人に送る Slack のメッセージ。内容はだいたい合っているのに、そのままでは出せません。読み返すと毎回同じところを直していました。 直していた所をまとめて Claude Code のスキルにし、GitHub で公開しました。…",
+  "publishedAt": "2026-10-12T13:56:33.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f7084c4c0692",
   "title": "Flex、モジュール型データセンターのポートフォリオに工場製造のAIモジュールを追加",
   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVk0xd3lIeTFzdkZPMm5aT3F5N09tc2d4azJaVjdyc0FDMWthZHVDMHY2bEhkUG1qTEhzZDFqcGx2SXF5Y0dFbjdmcFRMRWMyWmViOXpSSmV5Z3NBb3VQVWtRNjdYal9rdWlkUnFXR2g0ZmFDSWU5OENDNE9PYmdwV29Pc2UtNnc2bld5ZjJxOEM4RElQSk5n?oc=5",
@@ -159,6 +278,19 @@
   "isPR": false
  },
  {
+  "id": "4ddc6eb198d5",
+  "title": "Claude Code Desktop上でネコ飼い始めました！",
+  "url": "https://zenn.dev/goat_eat_any/articles/claude-code-desktop-pixel-pet",
+  "source": "Zenn",
+  "summary": "はじめに Claude Code Desktop上で、ネコを飼い始めました！ 実際の画面。入力欄の上をネコたちが走り回る Claude Codeのmodsという仕組みで作成していて、これを使うことで、Claude Code Desktopの画面上に好みのボタンやアニメーション、ちょっとした機能など、アイデア次第でいろ…",
+  "publishedAt": "2026-10-12T13:25:46.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "07ecf5b241e8",
   "title": "Microsoft、AIチップ「Maia 300」を発表、Azureを数ギガワット規模に拡大",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMjdPSzUtMmwyNXhkOHFUbmVQcUt1cnlic083U0d1cGRrRzdqcTU1dHo3RnZ5YksxNmd2SjY4TjBwTnROdGtVSmlNaHlXS0lvUXJ6VFNnTXpqdkg5bkhXbTJyNW4wLVU4SWhvcTdsVU1SRDNkUm1DYnBEbENNZnB6WnYweGZqNW9tbzZ1RFpELWRqRFh6WVE?oc=5",
@@ -168,6 +300,58 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0454c44c7440",
+  "title": "【2026年版】Fateで理解するローカルLLMの選び方",
+  "url": "https://zenn.dev/akari1106/articles/3a050fde72159d",
+  "source": "Zenn",
+  "summary": "! この記事は、友人に「AI界隈やローカルLLMって、どんな感じなの？」と聞かれて話した内容を、記事用に書き直したものです。私が日英中で情報収集しているのと、オタクなので、オタクからオタク向けに翻訳した、という若干意味が分からないですがそういう記事です。 はじめに ローカルLLMの話をすると、「ローカルLLMって実際…",
+  "publishedAt": "2026-10-12T13:17:13.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "baad87aaee34",
+  "title": "フロントエンドカンファレンス関西2026に参加",
+  "url": "https://zenn.dev/daigo428/articles/f57cce23d1639d",
+  "source": "Zenn",
+  "summary": "はじめに 普段はバックエンドを担当していますが、フロントエンドにも前から興味があって「フロントエンドカンファレンス関西2026」に参加してきました。今どんな技術が使われているのかを知りたかったのと、フロントエンドエンジニアとお話したかったのが参加目的です。 概要 開催日：2026/10/12（月・祝） 会場：コングレ…",
+  "publishedAt": "2026-10-12T13:13:57.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "814406676232",
+  "title": "【2026年版】Fateで理解するAI業界",
+  "url": "https://zenn.dev/akari1106/articles/45121eea6105d1",
+  "source": "Zenn",
+  "summary": "! この記事は、友人に「AI界隈やローカルLLMって、どんな感じなの？」と聞かれて話した内容を、記事用に書き直したものです。私が日英中で情報収集しているのと、オタクなので、オタクからオタク向けに翻訳した、という若干意味が分からないですがそういう記事です。 はじめに AI界隈は聖杯戦争です。 2〜3年前から、bilib…",
+  "publishedAt": "2026-10-12T13:12:13.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1cda346c67ff",
+  "title": "短尺・音声なしの動画生成モデルで使うプロンプト設計チェックリスト（Gemini Omni Flash 1.1 を例に）",
+  "url": "https://zenn.dev/ethan_caldwell/articles/d25a59412237f1",
+  "source": "Zenn",
+  "summary": "! 筆者は Veo3AI.io（Google とは無関係の独立サービス）の開発・運営に関わっています。本記事は公開されている仕様をもとにした整理で、特定の結果を保証するものではありません。 この記事について テキストから短い動画を作るとき、モデルごとに「指定できる尺・解像度・アスペクト比」「音声の有無」が違うため、同…",
+  "publishedAt": "2026-10-12T13:09:50.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -228,8 +412,8 @@
  {
   "id": "213bd9991d2d",
   "title": "マイクロソフトが新型ＡＩ半導体",
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9UTjlQUUVYa0VBdGZqU29ZTmtVZFVRdk1lZjlhX3hIVzBpQmV0Smo2cjNrX1R4ZmFjckQ2NlF1Q3FCb0ZKTnVzZ0s4YkQyUzlVbXBRRGVYRVBsMG5VcTgzS0NFR2ViUQ?oc=5",
-  "source": "埼玉新聞",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14NGQyVDZhdDU4NE1WdnVjYjV4N0xTV0dnQlYxX0xSRl9JVkZmSG5OVVNwZzA0R0g3Wl9ZV2k5Yzg0VEIySzYzNUs4cw?oc=5",
+  "source": "北日本新聞webunプラス",
   "summary": "",
   "publishedAt": "2026-10-12T13:00:00.000Z",
   "image": "",
@@ -241,8 +425,8 @@
  {
   "id": "6e300177afd5",
   "title": "マイクロソフトが新型AI半導体 27年米で導入、日本にも配備",
-  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LSEREa3BqTHBFWFVKdkJWUi1ENWQ1Z1hWNEdpUi1Tc2RNbkgwOHlwOHQtd0p2SVhrNlpLaHd5UW5GaGs0OHlLeDR2b2lfUklKU3huMUNfMmhNWVc2QlRhb0NOR2JOZ2h1WU1aNGZB?oc=5",
-  "source": "Infoseek",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00dmh5WkxkLTc4dkxyUkxkNVpuQmFlZVNwOFdDY05tV1hHandKelFZcFAwMmZCa3RVRkZsRGNLUmpjQU1UUkk2S0JneVhVUzY4MmVHamN3?oc=5",
+  "source": "西日本新聞me",
   "summary": "",
   "publishedAt": "2026-10-12T13:00:00.000Z",
   "image": "",
@@ -271,6 +455,20 @@
   "title": "米マイクロソフト、AI推論向け次世代半導体発表「マイア300」27年導入、日本も配備",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CUXpGeTZtQ2F4eFV1VEVZRUVKMWlxRUc5TUJDaEFXVVp5Nk55V1hWQWtWczItTUJRYVp4cExUcldXSzRqVGZMVWRrcE5jLXFtS1ItdVp5NEZVX3pBRG5jQTl1N1BIMVBYVzBqSVc1SDJOWkpVRnc?oc=5",
   "source": "産経ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-12T13:00:00.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "550d349b3f4d",
+  "title": "マイクロソフトが新型ＡＩ半導体／２７年米で導入、日本にも配備",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWGtNOGNkdldVSTJRZUNsN1EtUm1icjZncXo1QWJZaVZuMGlqcXhmano3a0tKMVI0a2pySHF3MnFDMlNTT3ZtZV9rVG0zT2Fhb2YzREhBaDhFMnVCU0FTUDl6RmZ2dHBpd1c0ODVLYmJpMGh4Zk9OZkFKWnRoSFhOLVhn?oc=5",
+  "source": "四国新聞",
   "summary": "",
   "publishedAt": "2026-10-12T13:00:00.000Z",
   "image": "",
@@ -330,6 +528,19 @@
   "categories": [
    "dev",
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4a770840e4e4",
+  "title": "道具を足す前に1万円の枠で並べる — データの持ち場所と確認の線を先に引く導入の型",
+  "url": "https://zenn.dev/takumahayami/articles/eigyou-ai-dougu-erabu-sen",
+  "source": "Zenn",
+  "summary": "商談後24時間のフォローメールは、5箱メモの5番の箱「引き金」から3行の入力で出ていく形に変わりました（商談後24時間のフォローメールは「引き金」から書く）。調査カード・5箱メモ・フォローメールと、この連載で道具が少しずつ並んできました。道具が増えすぎる前に、次に足すときの判断線を引いておきます。 この記事では、月1…",
+  "publishedAt": "2026-10-12T12:48:32.000Z",
+  "image": "",
+  "categories": [
+   "case"
   ],
   "isPR": false
  },
@@ -635,6 +846,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5676edf011de",
+  "title": "みずほFG、自律型AIエージェント基盤「みずほCowork」を開発 業務適用に向けPoC開始",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kaVVFLWpKZVN3bDZGeF9NZ2pnRzBtVWViRFFUczhpNUlTVU9HZDNid0hZREdRdS03YW9reWd1LXpSOW5pay01TDhsV3Q3OTY2M1czcGN3?oc=5",
+  "source": "EnterpriseZine",
+  "summary": "",
+  "publishedAt": "2026-10-12T11:41:34.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -2220,9 +2444,9 @@
  },
  {
   "id": "7a10d11e3b31",
-  "title": "中国、先端技術の監督強化へ ＡＩ制御・バブル防止で新指針(ロイター)",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZXpKSzdWMXl2S0ZKUDJ5R0xGaVZlUmFqd2RBdnpKaTIyaktIc0doOHFwTTd3cnhFVHA1TU4zcy1iTXJNcGhIM25DZWxSMTNxLVZ2dTNTelNOdkVmMFg5cmFLRVZxM0dlRW9CcS1mU05tVWM2NnlLckFhU2RwNUNpZXpROXhVelk?oc=5",
-  "source": "Yahoo!ファイナンス",
+  "title": "中国、先端技術の監督強化へ ＡＩ制御・バブル防止で新指針 (ロイター)",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbTVtRDA2ZWNUUHBFaTdvejROcmtUYXFTT3FhYW5FM3FtV2J1WUp0NWZ6dnp2RXladlFHS1RmMGdGZjRzdVRaUVRSdU5QNHhaSUhtTzRqcUdQSFlWcEJEMWZtSGN4S3NRU251dWJiZHJoeHRJQmtWNHBSeFdHcEQ4MnlOYUN1d3M2RHdQRnhR?oc=5",
+  "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-10-12T06:01:31.000Z",
   "image": "",
@@ -3049,19 +3273,6 @@
   "isPR": false
  },
  {
-  "id": "7e72ac6b3bc1",
-  "title": "ビル・ゲイツ氏、AI悪用のサイバー攻撃増加を警告 「今後1年で顕著に」",
-  "url": "https://www.afpbb.com/articles/-/3657090",
-  "source": "はてなブックマーク",
-  "summary": "米マイクロソフト共同創業者のビル・ゲイツ氏（2026年1月22日撮影）。(c)Stefan JERREVANG/TT News Agency/AFP 【10月12日 AFP】米マイクロソフト共同創業者のビル・ゲイツ氏は11日、規制が不十分な人工知能（AI）がもたらす脅威は増大していると警告し、今後1年でAIを悪用した…",
-  "publishedAt": "2026-10-12T02:47:23.000Z",
-  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.afpbb.com%2Farticles%2F-%2F3657090",
-  "categories": [
-   "policy"
-  ],
-  "isPR": false
- },
- {
   "id": "e9373e1458e1",
   "title": "～AI活用の課題を5分で可視化、「AI・DX診断」を実施～ Japan DX & AX Week 秋に出展、AIエージェント「つなぎAI」の実機デモで、業務活用を体験",
   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03cExWR0lRbTNzeVZHaGotdVF4Tkh0S1lFVnR2bkt6VlQxUmw5NGtkZnJYQk1sUjlOT2s2TmduTUQ5Y1lnbjFOamREOC1rM3ZfWkE?oc=5",
@@ -3071,6 +3282,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7e72ac6b3bc1",
+  "title": "ビル・ゲイツ氏、AI悪用のサイバー攻撃増加を警告 「今後1年で顕著に」（ＡＦＰ＝時事）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KUUtsWHFOWTNTTEo0UUpES3F2T3ltR2xNZFJ1dURpcTF1ckZQaDNIN1ExY0xrTkFNa1BlTGozUllLZVhxNEFtZEpJVFlBcjRLcUU3SGY5TFg3em5UWF9JU09sc3NreGRoRFhwWlpRV3Zlcm1MWm1OSDRabm5UV1k?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "米マイクロソフト共同創業者のビル・ゲイツ氏（2026年1月22日撮影）。(c)Stefan JERREVANG/TT News Agency/AFP 【10月12日 AFP】米マイクロソフト共同創業者のビル・ゲイツ氏は11日、規制が不十分な人工知能（AI）がもたらす脅威は増大していると警告し、今後1年でAIを悪用した…",
+  "publishedAt": "2026-10-12T02:34:46.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.afpbb.com%2Farticles%2F-%2F3657090",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -3094,19 +3318,6 @@
   "source": "디지털투데이",
   "summary": "",
   "publishedAt": "2026-10-12T02:32:02.000Z",
-  "image": "",
-  "categories": [
-   "case"
-  ],
-  "isPR": false
- },
- {
-  "id": "247df2442589",
-  "title": "「子どもに生成AIを使わせるべきか」ノルウェーは小学校で原則使わせず、日本は活用へ 新井紀子氏 ＆石戸奈々子氏の答えは",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OMzlmSDVjRVJVOFJlV2ViZThQUkVaNXk2czhtUHRpWHhPdzhEdlo1NXJrOS1RWVNXMEx5U0JBbHFvelZhdnNQYXR5WVAxM182NTl0eE01QkQtT3A4TE55bk1CRWRVcklYV2hUU3kxSGs1REowZHZLQ0xWaldMeTA?oc=5",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-10-12T02:30:37.000Z",
   "image": "",
   "categories": [
    "case"
@@ -3334,6 +3545,19 @@
   "image": "",
   "categories": [
    "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "247df2442589",
+  "title": "「子どもに生成AIを使わせるべきか」ノルウェーは小学校で原則使わせず、日本は活用へ 新井紀子氏 ＆石戸奈々子氏の答えは",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZaUdQZ0U4OGx0Q21SWHctVmtkT2JQSDlKWmNzYkFMZFpHWUlLT09RQlRzTjY1bEhwZmVSRElqaW1DdVY0WW9vLVFpbU00VldnRTJ6dTZJY0JCZw?oc=5",
+  "source": "AERA DIGITAL",
+  "summary": "",
+  "publishedAt": "2026-10-12T02:00:00.000Z",
+  "image": "",
+  "categories": [
    "case"
   ],
   "isPR": false

@@ -11,5 +11,137 @@
    "other"
   ],
   "isPR": false
+ },
+ {
+  "id": "3bf0cd74bcc9",
+  "title": "Claude Code で AI社員18人の会社を運営する：フォルダ構成と決まり",
+  "url": "https://zenn.dev/chiero/articles/36f7889983c90c",
+  "source": "Zenn",
+  "summary": "株式会社CHIERO のチエロです。 私の会社は、2026年9月から、仕事を18の担当に分けて Claude Code と Codex に渡しています。 その運用を、ほかの会社のフォルダに置ける形に組み直した物を「AI社員一式」と呼んでいます。 この記事では、AI社員一式のフォルダ構成と、全社の決まりのファイルを、実…",
+  "publishedAt": "2026-10-12T15:29:54.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5c77d55a68b6",
+  "title": "Codex と Claude Code を同じフォルダで使う入口（AGENTS.md と CLAUDE.md）",
+  "url": "https://zenn.dev/chiero/articles/ddf132b6783219",
+  "source": "Zenn",
+  "summary": "株式会社CHIERO のチエロです。 私の会社では、同じフォルダを Claude Code と Codex の両方で開いて、仕事をさせています。 この記事では、2つの道具が同じ決まりを同じ順番で読むようにした入口の作りを書きます。 載せるファイルは、私の会社の運用をほかの会社に置ける形に組み直した「AI社員一式」の実…",
+  "publishedAt": "2026-10-12T15:29:46.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e85dbada3738",
+  "title": "data2vec / data2vec 2.0：文脈を含む正解の学習と、その計算の効率化",
+  "url": "https://zenn.dev/mantis_ryuji/articles/data2vec-contextual-targets",
+  "source": "Zenn",
+  "summary": "1. はじめに 自己教師あり学習では、ラベルを人が与える代わりに、データから学習問題を作る。その代表が、入力の一部を隠して予測する masked prediction である。 ただし、「隠したものを予測する」と言っても、何を正解にするかには選択の余地がある。文章ならトークンID、画像なら画素値や離散的な画像トークン…",
+  "publishedAt": "2026-10-12T15:26:11.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d3d805e93113",
+  "title": "AIにソフトウェアアーキテクチャを守らせる理由と方法",
+  "url": "https://qiita.com/nonsugertea7821/items/4671e87ca515ec1b79ae",
+  "source": "Qiita",
+  "summary": "理由 昨今、クリーンアーキテクチャはアンチパターンだの、AIに任せておいた方がむしろ質のよいものが出来るだの、そんな意見が世間を席巻している。 一方、アーキテクトから見ればそれらの意見はスロップでしかないのは周知の通りだろう。 業務で作成したアプリケーションの寿命が短いこ...",
+  "publishedAt": "2026-10-12T15:23:29.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c4a54ecee2f1",
+  "title": "EVO-X2 x Qwen3.8-Flash-Next番外編4 入力文書と読み込み速度の関係(実測編) 読み込み速度が最大1.41倍違う",
+  "url": "https://qiita.com/ariera/items/2f9353899c2265dea7cd",
+  "source": "Qiita",
+  "summary": "「EVO-X2 x Qwen3.8-Flash-Next番外編3 llama-benchとllama-cliでPP速度が違う理由は入力依存性？」 の続き。 前回の番外編3ではllama-benchにランダムトークンだけでなく実文書を入力できる機能を追加して、日本語文書とラン...",
+  "publishedAt": "2026-10-12T15:20:08.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "51d7f80adf90",
+  "title": "Intel 内蔵GPU + 20GBメモリで Qwen3-4B を最速にする",
+  "url": "https://qiita.com/yanma0102/items/df540c0d8ecbe382c347",
+  "source": "Qiita",
+  "summary": "はじめに 自宅ラボの省電力ミニ PC（Beelink GTi14 Ultra / Intel Core Ultra 7 155H、Meteor Lake 世代の内蔵 Arc GPU、RAM 20GB）でローカル LLM を動かしています。普段は Ollama を使っている...",
+  "publishedAt": "2026-10-12T15:13:33.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7859cbcf80a6",
+  "title": "AIは「最強で最悪の家庭教師」だ ― Anthropicの実験から考える、伸びる生徒の聞き方",
+  "url": "https://qiita.com/enomoso_pm/items/c6bbdf1e26f03edc2152",
+  "source": "Qiita",
+  "summary": "想像してみてください。あなたの隣に、家庭教師が座っています。 この先生がとにかくすごい。数学も英語もプログラミングも、どんな問題を出しても数秒で解いてみせます。夜中の3時に呼び出しても嫌な顔ひとつせず、同じ質問を100回しても怒りません。 月謝はランチ数回分。なんなら無料で...",
+  "publishedAt": "2026-10-12T15:08:20.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "be9f927cb62c",
+  "title": "法人向け「Notebook AI」、スキャンPDFからスライドを自動生成可能に",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hVEdNbGd3ajJOT20tUWZoTHhqaDg2WUx5cll1dkw5SEVJMERwWkptaXdUd3hmVmwyVldBSTFZZmFJNTAtWEs4UC01VkU4Wjk3N3c?oc=5",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-10-12T15:07:27.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "aace769a9e28",
+  "title": "セレクタを書かずにスクレイピングするツール jevrake を作りました",
+  "url": "https://zenn.dev/ryokasai/articles/jevrake-selector-free-scraping",
+  "source": "Zenn",
+  "summary": "概要 Webページから型付きの値を取り出すツールjevrakeを作りました。 特徴は、取りたい項目の名前・説明・型を書くだけで動くことです。CLI では JSON で、Python からは Pydantic のモデルで指定します。 以下は、スクレイピング練習用サイトで試してみた結果です。 ターミナル jevrake …",
+  "publishedAt": "2026-10-12T15:01:44.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "844fb46835f9",
+  "title": "Claude CodeとCodexを同じリポジトリで並列に動かす: git worktreeの落とし穴と相互レビュー",
+  "url": "https://zenn.dev/arun/articles/parallel-agents-git-worktree",
+  "source": "Zenn",
+  "summary": "! 筆者はMacアプリ「Offrun」を開発しています。この記事の手順は素のgitとCLIだけで再現できます。Offrunの紹介は末尾に短く書きました。 何が起きるのか Claude CodeとCodexを同じリポジトリで同時に動かすと、だいたい次の3つに当たります。 2つのエージェントが同じファイルを書き換え、片方…",
+  "publishedAt": "2026-10-12T15:00:38.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
  }
 ]
