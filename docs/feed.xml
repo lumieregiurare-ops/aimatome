@@ -5,8 +5,29 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-13T13:30:16.607Z</updated>
+  <updated>2026-10-13T14:00:25.081Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>ローカルLLMのコンテキスト肥大化を防ぐ1パス・サニタイザー</title>
+    <link href="https://qiita.com/TOAI/items/4ff6dc0db9a651c40b90"/>
+    <id>https://aimatome.gamelab.website/#27ca26f03256</id>
+    <updated>2026-10-13T13:51:27.000Z</updated>
+    <summary>Qiita ／ ローカルLLMコンテキスト肥大化によるハルシネーションを1パスで検知・圧縮するワンショット・サニタイザー はじめに 自律型AIエージェントのプロダクション運用において、長時間のマルチターン対話に伴うコンテキストウィンドウの肥大化は、レイテンシ悪化だけでなく**アテンシ...</summary>
+  </entry>
+  <entry>
+    <title>LLM05：不適切な出力処理とは？AIの答えをそのまま使ってはいけない理由</title>
+    <link href="https://zenn.dev/monkey_gineer/articles/security-llm-05-improper-output"/>
+    <id>https://aimatome.gamelab.website/#ff1ae1f3a8fb</id>
+    <updated>2026-10-13T13:39:40.000Z</updated>
+    <summary>Zenn ／ 1. その便利な機能、本当に安全ですか？ AIが作った文章をそのまま画面に表示する。AIが作ったSQLでデータを検索する。AIが提案したコマンドをサーバーで実行する。 便利に見えますが、AIが出力した内容が、もし攻撃者に操作されたものだったら？ 画面に表示した文章の中にスクリプトが入っていて、閲覧者のブラウザーで実行…</summary>
+  </entry>
+  <entry>
+    <title>PukiWikiのC# / .NET移行を試した私が、AIとPHPへの進化を考える理由</title>
+    <link href="https://qiita.com/tomokusaba/items/d61fdd03f9ba950b5715"/>
+    <id>https://aimatome.gamelab.website/#9afbb6b73315</id>
+    <updated>2026-10-13T13:36:50.000Z</updated>
+    <summary>Qiita ／ はじめに 20 年以上使ってきた PukiWiki のデータを残しながら、C# / .NET で動かすプロトタイプを作りました。PHP のコードを一行ずつ移したのではなく、データを引き継いで必要な機能を作る試みです。背景や設計については、C# / .NET での Puki...</summary>
+  </entry>
   <entry>
     <title>ONLYOFFICE Docs 10.0がリリース：AIモデル接続・オープンソース版のAI分離・モジュール型アプリ・スプレッドシート高速化など技術的な変更点まとめ</title>
     <link href="https://qiita.com/ONLYOFFICE/items/4127062c4a9badcab5b2"/>
@@ -43,13 +64,6 @@
     <summary>選挙ドットコム</summary>
   </entry>
   <entry>
-    <title>生成AI時代「MVPをつくらない力」はどう変わるのか</title>
-    <link href="https://qiita.com/ymgc3/items/8b724ea30367de4baf35"/>
-    <id>https://aimatome.gamelab.website/#5c84cfe58bca</id>
-    <updated>2026-10-13T13:00:50.000Z</updated>
-    <summary>Qiita ／ はじめに MVPとはMinimum Viable Productの略で、要するに「最小機能を持ったプロダクト」のことです。 MVPつくらない力 なるべく作らず、作らないで検証できるほうが良い 試行回数の方が大事 紙芝居レベルのMVP自分でつくれないと試行回数も減る ...</summary>
-  </entry>
-  <entry>
     <title>ASUSのRTX 5070搭載ノートが33％オフの23万4800円！ 「TUF Gaming A16」がプライム感謝祭先行セール</title>
     <link href="https://ascii.jp/elem/000/004/441/4441934/?rss"/>
     <id>https://aimatome.gamelab.website/#7e1845cee1fc</id>
@@ -64,11 +78,18 @@
     <summary>Zenn ／ 今回は、利用量を置いて構成を探す 前回は、月10万円を上限として、組織で使えるLLM基盤をどこまで作れるかという問いを置きました。 今回は、5人程度のチームを想定し、事務作業と開発作業の利用量を仮定します。その条件で、自前運用、GPUクラウド、マネージド推論、LLMサービスの四つを費用面から比較します。 この段階で確…</summary>
   </entry>
   <entry>
-    <title>PHPを書いたことがない私が、AIと一緒にPHPアプリを作る前に考えている人間の責務</title>
-    <link href="https://qiita.com/tomokusaba/items/84fc5fa40a879ed8c6ae"/>
-    <id>https://aimatome.gamelab.website/#db11673ba31e</id>
-    <updated>2026-10-13T12:36:09.000Z</updated>
-    <summary>Qiita ／ はじめに 生成 AI の進化によって、これまで触れたことのない言語やフレームワークを使って、アプリケーションを形にしやすくなってきました。普段は C# や Azure を中心に開発している私も、GitHub Copilot と一緒に PHP アプリケーションを作ろうとして...</summary>
+    <title>Pythonで作る AIエージェントのSkills入門</title>
+    <link href="https://zenn.dev/monoocean/books/26259033864bc3"/>
+    <id>https://aimatome.gamelab.website/#9ea997499ca7</id>
+    <updated>2026-10-13T12:49:36.000Z</updated>
+    <summary>Zenn ／ AIエージェントの「Skills」は、どのように作業手順を持ち、必要な場面で使い、さらに学習・更新していくのでしょうか。本書では、Windows 11 + PowerShell + Python + OpenAI APIを使い、SKILL.mdの作成・読み込み、Skillの追加・編集、LLMによるSkill選択、Ba…</summary>
+  </entry>
+  <entry>
+    <title>導入1か月を振り返る — 任せろ・探させろ・鍛えさせろを1本の線で回した記録</title>
+    <link href="https://zenn.dev/takumahayami/articles/eigyou-ai-furikaeri-1kagetsu"/>
+    <id>https://aimatome.gamelab.website/#26cbc9e3a0d7</id>
+    <updated>2026-10-13T12:48:58.000Z</updated>
+    <summary>Zenn ／ 前回は道具を足す前の枠設計で、月1万円の枠とデータの持ち場所、確認の線を引きました（道具を足す前に1万円の枠で並べる）。調査カード・5箱メモ・フォローメール・月次報告まで道具がそろったので、この回で導入1か月を時系列で振り返ります。ここまでの流れの起点は、自分の時間がどの工程に消えていたかを数えた1枚からです（営業の…</summary>
   </entry>
   <entry>
     <title>AIは自分の回答を正しく評価できるのか？ ― Self Evaluationを実験してみる</title>
@@ -148,6 +169,20 @@
     <summary>Zenn ／ 1. はじめに LLM を自分のタスク向けに調整しようと調べ始めると、SFT、LoRA、QLoRA、フルファインチューニング、RLHF、DPO など、たくさんの用語が出てきます。 特に分かりにくいのが、SFT と LoRA の関係です。 どちらも「ファインチューニング手法」として、同じ並びで紹介されることが多い 「L…</summary>
   </entry>
   <entry>
+    <title>AIの欠点とその対策</title>
+    <link href="https://zenn.dev/archidoc/articles/22b921791572ce"/>
+    <id>https://aimatome.gamelab.website/#00594b94ae60</id>
+    <updated>2026-10-13T11:42:57.000Z</updated>
+    <summary>Zenn ／ ここ1ヶ月コーディングでAIをがっつり使ってみた。 2026年10月の時点で、AIの良い点も悪い点も見えてきたので、ここに速報的に残しておきたい。 非常に賢く、堅実な仕事をするマジメ君。 だが、アホである。 超近視眼的、表面しか見ていない、俯瞰できない。 非常に賢いが故に、このような欠点が最後まで表に出にくい（言い訳…</summary>
+  </entry>
+  <entry>
+    <title>AWS AIB-C01（AI Business Strategist）ベータ試験の受け方と準備の考え方</title>
+    <link href="https://zenn.dev/sunsun_eng/articles/aws-ai-business-strategist-aib-c01-beta"/>
+    <id>https://aimatome.gamelab.website/#4e377e781ebf</id>
+    <updated>2026-10-13T11:37:09.000Z</updated>
+    <summary>Zenn ／ この記事の要点 AWS Certified AI Business Strategist（AIB-C01）は、AIをビジネス戦略の面から扱う新しいAWS認定で、ベータ試験の体験記がQiitaで公開されています（出典…</summary>
+  </entry>
+  <entry>
     <title>【制御工学×LLM】パラメトリックEQ・ノッチフィルタ型アテンション制御：Q値可変マスクによる動的ハルシネーション除去</title>
     <link href="https://zenn.dev/nanashi_os/articles/3d65ee01d67cdf"/>
     <id>https://aimatome.gamelab.website/#fa67123f61cf</id>
@@ -176,13 +211,6 @@
     <summary>西日本新聞me</summary>
   </entry>
   <entry>
-    <title>生成AIで特許情報分析の「質」を上げる</title>
-    <link href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoSkU4MTVxRVVEczg5aHNDYUhrbGxocHhIMFV4OWg1VEVIYkRTSUpwUktMbzQ1cUFHempLcVpxOTItaDJ1bGpNazBGcWJvVE4ybTcyM2pscDVPS2s?oc=5"/>
-    <id>https://aimatome.gamelab.website/#cb07b21341f6</id>
-    <updated>2026-10-13T11:18:29.000Z</updated>
-    <summary>朝日新聞</summary>
-  </entry>
-  <entry>
     <title>【インタビュー】AI導入、壁は「人材・データ・コスト」 台湾製造業トップ「使いこなすまで最低1～2年」</title>
     <link href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ZVzZDV0JsdUhRMnpiLWg3V0R3Q3dmMHU0RVR6V3pVNVFkYVM3X3VQUk83U1plX2J3bnp6YVZCWG80Wm9vUUUtM0ljU3dUdEtz?oc=5"/>
     <id>https://aimatome.gamelab.website/#ba82a1e0efe3</id>
@@ -204,11 +232,32 @@
     <summary>Jetstream</summary>
   </entry>
   <entry>
+    <title>AIエージェントのインシデント対応モードを設計する：初動・判断・操作の分け方</title>
+    <link href="https://zenn.dev/takikawayuu/articles/8afd322b5c8c94"/>
+    <id>https://aimatome.gamelab.website/#34597657b136</id>
+    <updated>2026-10-13T11:10:27.000Z</updated>
+    <summary>Zenn ／ インシデント対応中に欲しい情報は、普段の技術調査とは少し違います。詳しい原因の説明も必要ですが、その前に、今も影響が続いているのか、何が分かっているのか、次にどの対応を取れるのかを知りたい。AIエージェントを運用の支援に使うときも、この順序を考える必要があります。 私は、日常の技術サポートで使っているAIエージェント…</summary>
+  </entry>
+  <entry>
     <title>SBI、AIエージェント活用のクロスボーダー金融で協力（時事通信）</title>
     <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1lRzRaSHhaUVMtUGRHa3Qwb3dMTXJLUGxfOFFOVTlnUDlscmhTc1pwejl0aGZYaHFfUk81a3JkX0UyMTNiNS01WW0yNC1oaWFvUkRobzh2M1ZBRXBHWWdMcDRPN3d0bS1kN084OURzc0MyeVFFcnh5S01jdF9TUzA?oc=5"/>
     <id>https://aimatome.gamelab.website/#e2286164e5a5</id>
     <updated>2026-10-13T11:00:40.000Z</updated>
     <summary>Yahoo!ニュース</summary>
+  </entry>
+  <entry>
+    <title>MonotaROが物流センターのアルバイト採用に「PeopleX AI面接」を導入—PeopleX</title>
+    <link href="https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LUGktdnUydHY2UGtySF9UWG1oSFRRaUozZnByS1pGdDNDTVZBNjBxMVZ1blI5ck9Wd2NWQUZPSWlSRmZWR3RPVmlNNXhQZw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#310af6cc9763</id>
+    <updated>2026-10-13T11:00:00.000Z</updated>
+    <summary>HRzine</summary>
+  </entry>
+  <entry>
+    <title>ShipatonでAIにアプリを作ってもらったときの試行錯誤メモ</title>
+    <link href="https://zenn.dev/mae616/articles/4cb6106868632d"/>
+    <id>https://aimatome.gamelab.website/#8f6d2fb870ef</id>
+    <updated>2026-10-13T10:42:52.000Z</updated>
+    <summary>Zenn ／ RevenueCat主催のShipatonで、iPhone向けのネイティブアプリ「How We Work」を作りました。 そのときに実験的に試した内容を記録したメモです。 最近は非エンジニアの方もAIで開発するので、そうした方にも読んでもらうならnoteとZennのどちらが合うのか分からず、今回は試しに両方に載せてい…</summary>
   </entry>
   <entry>
     <title>三菱総合研究所、AIエージェント同士が自律取引する「A2A経済」を提言</title>
@@ -244,13 +293,6 @@
     <id>https://aimatome.gamelab.website/#2f00e7dc2a4a</id>
     <updated>2026-10-13T10:24:54.000Z</updated>
     <summary>Zenn ／ ! 一般に小難しく聞こえる「プロジェクトマネジメント」を理解すべく、「自身の日常の体験」とつないで、難しく考えすぎず捉えてみよう、というお話です。 終盤は、それを踏まえつつ、今の時代だからこそ、どういった思いを込めて仕事ができるといいだろうか、というお話をそえました。 ”新卒”！と大々的にかきましたが、もちろん新卒に…</summary>
-  </entry>
-  <entry>
-    <title>アレテイア・キャピタル、AI半導体成長を背景にTSMC株の目標株価を引き上げ 執筆 - Investing.com</title>
-    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5WQ2d5WDdNam5WN2p2dkYzMHZxVF9Gc3ZPUFppVkluSW41cXNsbXJGVE9TNnBHRFhFcXJvLXB2LS00OS00cnlKbTJLOE1kM2dReDlMWDZGNmJUdG9UZm1nVlBoTGVSNmp5cVJIa0ZZRmt0Zkw5?oc=5"/>
-    <id>https://aimatome.gamelab.website/#9770ae4e1bbc</id>
-    <updated>2026-10-13T10:17:00.000Z</updated>
-    <summary>Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</summary>
   </entry>
   <entry>
     <title>自動運転、安全性向上技術に注目＝商用導入へＡＩ強化―モビリティショー開幕</title>
@@ -314,47 +356,5 @@
     <id>https://aimatome.gamelab.website/#886db5fe85b4</id>
     <updated>2026-10-13T09:37:56.000Z</updated>
     <summary>Zenn ／ Charles Li / HumanPen キャンパスのチャットでは、AI writing レポートを「このツールは厳しい／甘い」で比べがちです。小規模でも使える別の問いがあります。複数の検出器は、同じテキスト集合に対してどれくらい一致するか。 本稿はレポートの読み方の話です。点数保証や検出回避の案内ではありません。…</summary>
-  </entry>
-  <entry>
-    <title>日経平均2000円近く下落 AI半導体銘柄が“売り”に</title>
-    <link href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aNzhkcnRyd3lhUnFyVHVJNFpUa2VXTGsxb3J4eTBrVHh5Z2xHVy1hSFlSbjhJQjkwTFNWcDJhWUpJcmotLWRHUUxPT1R3ckk?oc=5"/>
-    <id>https://aimatome.gamelab.website/#dee23bcbd28b</id>
-    <updated>2026-10-13T09:37:24.000Z</updated>
-    <summary>khb東日本放送</summary>
-  </entry>
-  <entry>
-    <title>SBI、AIエージェント活用のクロスボーダー金融で協力＝韓国企業と(時事通信)</title>
-    <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOa2xCQm5UODd1Q1pxRkFZX1lWeGtKTDFhczc4bnBGX1RlVEFJNUxyLTlFQnRBamE2N1JBcDdzV2V3SXZoSDBCWTBkeVJpVFBxYzRIYUJQV2huMENzTWtXc0gwajhkRldXWXRTazRDU09VR0FxaFBjaTlEalhYRm5RcmNZU2xmN28?oc=5"/>
-    <id>https://aimatome.gamelab.website/#0d712b9e0707</id>
-    <updated>2026-10-13T09:35:59.000Z</updated>
-    <summary>Yahoo!ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>約1.98kgのボディーでPCゲームを持ち出す！ RTX 5050搭載のMSI「Cyborg 15」が2万100円引きの17万9700円</title>
-    <link href="https://ascii.jp/elem/000/004/441/4441556/?rss"/>
-    <id>https://aimatome.gamelab.website/#e3f250922eea</id>
-    <updated>2026-10-13T09:30:00.000Z</updated>
-    <summary>ASCII.jp ／ MSIの15.6型ゲーミングノートPC「Cyborg 15（C13WEO-1192JP）」がAmazonでタイムセール対象。過去価格199,800円から10％オフの179,700円で販売中。GeForce RTX 5050 Laptop GPUとCore i7-13620Hを搭載し、144Hz対応のフルHD液晶を備え…</summary>
-  </entry>
-  <entry>
-    <title>AI株急落でも慌てない､最高値のアメリカ株に年末相場の追い風</title>
-    <link href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aUFBGaFhTenBuQjFkRDBkQ214OWJ0TzRfcDZaWkdpMDhyWHZCVGhpcmZ3WWgxQlN4c0k2c3I1MWROMVFLd196VFRWRHF5eEpIX2phZVlXQQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#b7f920aee587</id>
-    <updated>2026-10-13T09:30:00.000Z</updated>
-    <summary>四季報オンライン</summary>
-  </entry>
-  <entry>
-    <title>国産AI「Sarashina」が無料で試せるWebサイト、ソフトバンク子会社が公開 6つのAIモデルが呼び出せるAPIも</title>
-    <link href="https://www.itmedia.co.jp/news/article/2610/13/2000002224/"/>
-    <id>https://aimatome.gamelab.website/#56002976f110</id>
-    <updated>2026-10-13T09:24:12.000Z</updated>
-    <summary>ITmedia AI+ ／ SB Intuitionsは10月13日、国産生成AI「Sarashina」を試せる「Sarashinaサービス」の無償β版の提供を始めた。Googleアカウントでログインするだけで、6つのAIモデルのAPIとチャット機能を無料で使える。</summary>
-  </entry>
-  <entry>
-    <title>キオクシアが13％急落、半導体株に「絶好の買い場」到来か？ AIに聞く 執筆 - Investing.com</title>
-    <link href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1ublRUSVJocEZTOTZRQm9wdGpMUTRKMUR0NXp0aG5XeTJEdXRPV0xqTmNTNXotc3Y4OEkxTGEwbTdWY3BVODhGSW1DSkw2WFdVb2diTE1rZk1LMkxnXzBQUmhIdUxZeGJfT2xXRWkySTg?oc=5"/>
-    <id>https://aimatome.gamelab.website/#8ac829d59519</id>
-    <updated>2026-10-13T09:23:00.000Z</updated>
-    <summary>Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</summary>
   </entry>
 </feed>
