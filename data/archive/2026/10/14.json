@@ -1,5 +1,59 @@
 [
  {
+  "id": "cb7f07ad5251",
+  "title": "GCC 4.0でAIエージェントを実行基盤にするためのアーキテクチャと運用設計",
+  "url": "https://qiita.com/ariefwara/items/830d2d44233f9369184b",
+  "source": "Qiita",
+  "summary": "この記事で扱うこと グローバル拠点（GCC）にAIエージェントを導入する際、単なるチャットボットやCopilotの延長ではスケールしません。本記事では、GCCを「人間＋エージェントのワークフロー実行基盤」として再設計するためのアーキテクチャ、組織構成、ガバナンス、運用設計...",
+  "publishedAt": "2026-10-13T17:15:18.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "47f6dcb3a969",
+  "title": "Google、最先端AIモデル「Gemini 4 Argon」提供開始",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MN3cwYVRTalVsaFlvOFBjajFGTUY0Q2FPSXFpS0lOdEtLSnFCOUdNUmtRRWI2ZVdhYzItdEF3VzUwTnNNWVJjWVpEM1FZVTRMVmt1dEp6WTYyaDZNVk5kQjNsdlRTN1NMZGtB?oc=5",
+  "source": "jetstream.blog",
+  "summary": "",
+  "publishedAt": "2026-10-13T17:13:09.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "82ab9037cb1f",
+  "title": "NEC、無人の部署に35体のAIエージェント 「人件費」は月35万円",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MVm9oTjdodTlud19HaFBhWENhTWozM1MtTmZHOVhCLTY2WkVuMGRXZHlIZVdBbnlRMjl5LTZ0ajBBbFJsdlhQVFl3Y01qaEtnS21Jam95T1VoN0VUUGFGcFRQbW9lSE5KRjNiTg?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-10-13T17:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e56fd94d8017",
+  "title": "🚨最新情報：Googleが自社最強のAIモデル「Gemini 4 Argon」 をリリース",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX0lxVXZ0bHhLMHJEZ0stWjJHeXFaMy15MURBTFZrQkdhMHlrdENQVE50S3dCRDd1YmZaMU5wd0VYZmNNYXY3OFdnVVNfajVNY3N1NWl3elJLYVg1T3lKTGpOZWVDYWNadlBzUW5zalRwWWFZY1RGWjE4UFlMLTB1WlFQTXhxcTNWcVI2d29fTmFndGkxdGh5N241bHUxeWNtbW51Qk1DU2xKZENQd3hia1owZw?oc=5",
+  "source": "Moomoo",
+  "summary": "",
+  "publishedAt": "2026-10-13T16:48:23.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "29683487f7d8",
   "title": "「Gemini 4 Argon」が一般提供開始 ～満を持して登場した最強の「Gemini」モデル",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QSXBUeVFOZGE0YTBDM29Jb3BNSWd5RUNHQXlNUzlvMmw1cEtiTFlzdGZ5YkY3VGUxcERHLWlmQ0sxdkxsWDJndEdpTlAxc0kzcEktXzVXUGlzUmpBWGJjRWF1Yl9DZkJL?oc=5",
@@ -82,6 +136,20 @@
   "isPR": false
  },
  {
+  "id": "fc39546581e6",
+  "title": "月10万円で組織が使えるLLM基盤をどこまで作れるか（3）使える性能を考える",
+  "url": "https://zenn.dev/covanew/articles/3bcc245f1f33ee",
+  "source": "Zenn",
+  "summary": "予算に収まる構成を、性能面から確かめる 前回は、5人程度のチームを想定し、事務作業と開発作業の利用量を置いて、月10万円で検討できる構成を探しました。 GPUを購入・レンタルする構成は候補に残りましたが、必要な利用量を処理できるかは未確認です。月間の処理量が収まることと、3〜5人が日常的に使えることも、同じではありま…",
+  "publishedAt": "2026-10-13T16:18:38.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "d17c5c4261d7",
   "title": "Claude Fable 5.5 on Azure: 空の行を読み取る方法",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DeEw1aW5fVGZfaTRyMU90aTROTWh2cFRuMGwyVEw4cEI1c3lESzZzZG1sY0pXSGEwTmZvS2o4TWVabzczMTRpOUdfVkZrNmhwTGFyY3lkSlQ2eGNHWWxBSU81cl8yZnpoNkRrbUMxT3ppZw?oc=5",
@@ -145,6 +213,32 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "770a00d0f017",
+  "title": "スカートは、膝下丈で壊れる② 人のスネってのは円柱じゃないんだよ",
+  "url": "https://zenn.dev/n416s/articles/skirt-cloth-2-oden",
+  "source": "Zenn",
+  "summary": "! VRM の人物のスカートを、揺れ物（SpringBone）から外して、自分で作った記録です。全 3 回の ②（ほかの回：①、③）。 地の文は著者が書き、言い切ります。AI（手を動かした側。Claude）が、囲みと絵の帯で、横から突っ込みます。AI は、確かめた事しか言いません。 同じ物を AI に作らせるための仕…",
+  "publishedAt": "2026-10-13T15:07:29.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2c1cbdc1177f",
+  "title": "スカートは、膝下丈で壊れる① なにもかも NG",
+  "url": "https://zenn.dev/n416s/articles/skirt-cloth-1-noren",
+  "source": "Zenn",
+  "summary": "! VRM の人物のスカートを、揺れ物（SpringBone）から外して、自分で作った記録です。全 3 回の ①（ほかの回：②、③）。 地の文は著者が書き、言い切ります。AI（手を動かした側。Claude）が、囲みと絵の帯で、横から突っ込みます。AI は、確かめた事しか言いません。 同じ物を AI に作らせるための仕…",
+  "publishedAt": "2026-10-13T15:07:29.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
