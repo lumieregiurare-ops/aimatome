@@ -1,5 +1,137 @@
 [
  {
+  "id": "da4b49ec37dd",
+  "title": "承認フローの責務を分ける：UI・API・保存とADRの設計",
+  "url": "https://qiita.com/YushiYamamoto/items/d33495627174df830131",
+  "source": "Qiita",
+  "summary": "承認フローを設計するとき、「未承認ならボタンを押せない」だけでは、登録を許してよい根拠が決まりません。UIは操作の理由を伝え、APIは保存された根拠から実行可否を判断する。そのうえで、判断した内容と保存する内容を一致させる必要があります。 この記事は、全12回の設計教材の第...",
+  "publishedAt": "2026-10-13T04:30:10.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c0bedca8f32b",
+  "title": "AI機能を作る前に、要求・受入条件・WBSを整理する",
+  "url": "https://qiita.com/YushiYamamoto/items/5c3a8c420b9d3bfff565",
+  "source": "Qiita",
+  "summary": "「AIで依頼を整理し、承認後に仕事の管理画面へ登録したい」。モデルや検索方式から考えると、何を改善できれば採用するのかが曖昧なまま実装が進みます。 まず残したいのは、要求メモ、受入条件、WBSです。作る範囲、合否の基準、必要な成果物を、架空の依頼から具体化します。 AI支援...",
+  "publishedAt": "2026-10-13T04:28:23.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b8dfc69aaf8b",
+  "title": "IMF 経済成長率引き上げも AIで“二極化”",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MdXVNT3o0V2JIRlZzYlo5dVBQanNHQVZkRGZ3U2RjUE5admxxUnpaM1YyTjUwZnY4Y01jNXdZUXlWb1JfLWQ5N2prTEx4YVpOS1NTaWJxelY3MFlrRC1n?oc=5",
+  "source": "NHKニュース",
+  "summary": "",
+  "publishedAt": "2026-10-13T04:22:07.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "99309fa53be4",
+  "title": "東京システムハウス、AIを活用してテストデータと仕様書を自動生成する「テスト支援サービス」（クラウド Watch）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92NjNVR1lDdjd4TG5Fd29HLUdOR1BXMGRmMGdnS0ZfSHJ2UVQtYVFOX1VvTXhVT1BLVng4S1lON3BySlFyVFI0YVpkNWR1b0hHcHhyaGRHSXViNnJiaEVxa09jYnN4cWxfdVlaZ1V1NnA0ZXk2TWR4YTZRb1ZDaVE?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-13T04:14:00.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "339506104d75",
+  "title": "国産生成AI「Sarashina」を利用できる「Sarashinaサービス」の無償ベータ版を提供開始",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WQ2NfUkZEdTZKY2hvdFdNcG1fWFliQzFvUGh4MEFERGRPSXVZRm56a0tuR04zVlE5cEFYXzE1ajVVbS12Zzd5eV8wLWdkSW9ScldxTDREbkI2ekFwODdrMWJTSXQ?oc=5",
+  "source": "SB Intuitions株式会社",
+  "summary": "",
+  "publishedAt": "2026-10-13T04:06:21.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bec9ef1b4236",
+  "title": "エヌビディアの中国ＡＩ半導体シェア、上半期は34％に低下｜Infoseekニュース",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHZGV0VG11YjJBazQ5anVtOTRjNVc5cVRLUW9zT0xpMDdmMXptcVJ6VzY0YVhnaTJKdTdpNXFIT252N180VER2Wk5LWk12ZVJWRVFZVVR4b3BhcEpielhlTUZETzRabmZRMk1sRDFB?oc=5",
+  "source": "Infoseek",
+  "summary": "",
+  "publishedAt": "2026-10-13T04:06:12.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "09b39b6c1373",
+  "title": "エヌビディアの中国ＡＩ半導体シェア、上半期は34％に低下",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12T3EtRUd1azY4bmJPUFFJSWN3cy1vQXNXcHM2QjF5ZV8wZlR4My1BWjdzeC1NSXN3d243bXUwbDNWWU1vc0dMZG9QdWVublhtU3c4TXY4Z241dw?oc=5",
+  "source": "ニューズウィーク日本版",
+  "summary": "",
+  "publishedAt": "2026-10-13T04:06:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d80c49dc708a",
+  "title": "AI用語の基礎知識【第26回】「ローカル推論」とは――クラウドに頼らず手元の機器でAIを動かす技術",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZSkVsRHVwZ0Z1TFNGQ1RNS1RxSTQ2X05vejNZUERHWGh5WmtaVmNsTXdKaDk1bFg5QlV3MWNPWlNqZlprSEtWR05hNVNKMlM5d0xsZzdQY0cwX25ZRjR5Ynd0dndEZUJPN2FSVmhVSFgtdw?oc=5",
+  "source": "株式会社インプレス",
+  "summary": "",
+  "publishedAt": "2026-10-13T04:04:34.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dc9e36a540c5",
+  "title": "マイクロソフト、Azure Maia AI システムをマルチギガワット規模へ拡大",
+  "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTXdfNEFOQTFTeXBMR0I4ZlA1VTkzRnJqbElTQ3piOG8wNFkxN1YwdUVXckFRMlFUOS1hZVdXRXF1RmpkVFdKTElrS0x2QjBwSkw2cmNaVUJTRk9oNkx4R21JbmZSS0N4d1AtZldzemVIZUpLZF8zVDJIcXp4cG9Wcm9xaFNtaEx6eGhkdE10dy1KLVNBTG1LNGFSNXduX09LZmVhRDVaam9xaE8yZGMwb0pDdnNNX05jOS1GMi10TGVTUQ?oc=5",
+  "source": "Microsoft Source",
+  "summary": "",
+  "publishedAt": "2026-10-13T04:04:30.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c3999d1518fe",
+  "title": "Microsoft、次世代AIチップ「Maia 300」詳細公開。ラック単位の処理量は最大7倍に",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VZWt4OE5LVGJXSndsRzFEbDN5eWNiX1kwbk9qSFREM3JZT204d2tNNVZOUTFWdDUyeHVLTGxLX1JjdVVZSC01b2lkMWxtT3dFTEs2UklEWjRIRk9TVGt2ZlVOYw?oc=5",
+  "source": "株式会社インプレス",
+  "summary": "",
+  "publishedAt": "2026-10-13T04:04:28.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "2ab3fd0530ab",
   "title": "【お、君（kimi）いいぞ！】サイドバーの項目がやけに多いAI「Kimi」。Claude使いの新人エンジニアが全機能を整理してみた",
   "url": "https://qiita.com/kaichan_dot/items/a06805eccc0febc2f5a5",
@@ -13,6 +145,72 @@
   "isPR": false
  },
  {
+  "id": "70c6bc92f49d",
+  "title": "人事の「育成設計」を生成AIが支援。自社マニュアル・研修動画から独自カリキュラムを構築する「GeneRoute法人1.0」公開、10/16(金)20時に無料ライブで実演",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05LURiS2pSNmJGRkNIV2hxMG45c1R4VTFYNnpOMXpBbkV3cFJPY2ZsM2Y5TXQ2cXNXYkk3UWQ0N0ZhdkRJNDJ5VTlWQWgydnBSQ3lVb3JrYW9GX2hwUzNubXFwc1NPWks0ekE?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-13T04:00:01.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "c045659302a3",
+  "title": "生成AIチャットボット『DSチャットボット』が、長崎県の大型イベント「Lovefes 2026」公式サイトに設置",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IYVE2ZzZrLVRJR0FTX010TnZzYWJacUlEcS0tZ25ydTBCODdxbzJQSmpnempFNXB1TWtEUTA5WlJQeFVKTkpxdklMemhUNU9PTnVjWjlnN293cm5OMk82Ni1HUi1OMzAxTnc?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-13T04:00:01.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "5f2fd65c6cd7",
+  "title": "「ぷらっといずのくに」が生成AI研修 参加団体が活用方法や注意点学ぶ（みんなの経済新聞ネットワーク）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MX25RX05uWGxkamtHVzk5Z0l6aDh5R040VXJEenEtTWs0bVdnVU1BWlRXQWlGQmV3b2I3Y3h3QjFTSkJPWW5ZcnN3Y1Z4cVNMVTFDSE85cURrekc0Sld6RFk0RGZrV0pMTmZpWkoxYnd0b0lvRDNTRnVBemVPQk0?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-13T04:00:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6bbd1e57db88",
+  "title": "AIの回答だけで日用品やコスメを購入 15～30歳女性の2割以下にとどまる",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEcUtNdmZoYy16Q242OW5XZG94cDR1a2JHVkNrZ1dIY2NPUG42Q29WM1FRNW9pVWtOV0NjMXZRcy1zZjZGUVFLcHZjdElxRkRyb3RXOURR?oc=5",
+  "source": "通販通信ECMO",
+  "summary": "",
+  "publishedAt": "2026-10-13T04:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6e86f81d3658",
+  "title": "OpenAIのdotsやメタのMuseに商品情報を提供、ブランド側の新たな競争",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1keFo2YVdIbWtXT1J1X1VxU1RCbnVlT3V1a0VFRGJBR2U5Ukd6WGY1TWJYTlZ5aU9SQVVsbmVzblJhMS1CMThiaV9HYmg3TFhmb2RkQVNtdVJHNzdMNFRwZ29IRmJLSGRVY1FKMVdYeWJqN0MyTENQam8xY1NGZ1k?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-13T04:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "99089170d717",
   "title": "80以上の報道機関が連携し、AIによるコンテンツ利用を規制する取り組みを開始した。",
   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTEhHaTRGTnUtdkFpX1lWb1ZqNE9kdVNVNlBaVnVxdW94WjZSU0l5Z2x1VTctSl9JTmc1T0ROcWRUWVFhN2JGeHpkaDFfQ090Sl9CZlFYTFVmZ3NBSHZxSEtOYzJKcmpGMGF5dFpsT1Q3VXRyaHFPS3dFNmxZOE9xUmhTbVVHTUktWmpFdnNVRQ?oc=5",
@@ -22,6 +220,32 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dd76b5af90c5",
+  "title": "デジタル技術、AI、半導体を連携させることで、技術習得能力が向上する。",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSVlVU3V0REpSajNOMk5fVlpHWmFhb2JmQURZNkI4RHdZNFB4R0xxcjBRdlpzNExyenhNS0ZsQUl4R295T0UwMS1OVXR2N1NRNjY5Y1lNZEFlSFNrYVJkWVBFV2pvZnFQek91anEyNXJpMUdzMVFVelo1cUhkQUlwTEFHSEJMNTh6UEVHdnVDZFVMNVBFeTlFdDNRWGc?oc=5",
+  "source": "Vietnam.vn",
+  "summary": "",
+  "publishedAt": "2026-10-13T03:57:41.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6aeee2906b98",
+  "title": "中国AIモデルのToken使用量シェアが65%に急上昇 価格優位性が需要爆発を誘発",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PYTNMTFowQTFwOV9KS1pwd3JHdm5HTnV5OXU2X0lLTjZNNXJCcV8wckJfSXhwSHBjZWZXY2RoWVJqTGxaYUZodlEyNWl6NGR6YjdiTkFTcGRfTy1oWFFzOVVzZjNHZVJ0UTRkd004U2ZMWkZK?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-13T03:55:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -78,19 +302,6 @@
   "isPR": false
  },
  {
-  "id": "9c393d66101d",
-  "title": "Microsoft、Copilotなどを自社開発チップで稼働 新チップでNVIDIA依存から脱却狙いか（ITmedia NEWS）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfdWEtR245aDFHRjVkNUhmUlZGWE1RaGQ2UjFmZTg4b05hc2tHMUJRZDd5UzZGQXprd3l2bkRKTXNQVjBnZmVhVFRneWdaVjZIMW5kYU9FQWcxM2hDS1JVNTN5SW5DRnUycHlpcVNMRHBWZFhJdnFwWjlyQmpsU2c?oc=5",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-10-13T03:38:13.000Z",
-  "image": "",
-  "categories": [
-   "infra"
-  ],
-  "isPR": false
- },
- {
   "id": "f95f309af10b",
   "title": "複数コーディングエージェントを統合管理するOmnigentの概要と検討ポイント",
   "url": "https://qiita.com/gitmeshi/items/3e2800f42709f44f9fbc",
@@ -113,6 +324,32 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9c393d66101d",
+  "title": "Microsoft、Copilotなどを自社開発チップで稼働 新チップでNVIDIA依存から脱却狙いか",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002207/",
+  "source": "ITmedia AI+",
+  "summary": "Microsoftが自社AIアクセラレータの第3世代「Maia 300」を発表。本番配備は2027年開始で、Maiaファミリーをマルチギガワット規模に拡大する計画。GPUベース比で電力当たり生成トークン数40％増を見込むという。",
+  "publishedAt": "2026-10-13T03:34:18.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d05eecd5cfe6",
+  "title": "ジャライ省、村レベルからの土地管理にAIを導入",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX1ZwdEtjN05QanBkcUJnQ19KNjBEVGFHRWJQdGJGcjBQVGRMVV9ueGg2ZFF4UDJjenZkVXIxenQzc2I1SXNWeVZwTHBuU20yLTZvU29fU3hEMURsT2kwTzZsWHRRRzdGTGpESjFRVnVsTWhBZ01JT2kxb3h2Um10T0xJR2Jja1BNT3F6bnk0Z0tHQUxjVFY1Vk4tM0xKYUhqQ3Zj?oc=5",
+  "source": "VOV World",
+  "summary": "",
+  "publishedAt": "2026-10-13T03:33:42.000Z",
+  "image": "",
+  "categories": [
+   "case"
   ],
   "isPR": false
  },
@@ -237,6 +474,19 @@
   "isPR": false
  },
  {
+  "id": "9d946aac7ded",
+  "title": "【速報🚨】AI・半導体（メモリ主）が下落中📉💥｜下落要因を4種AI💎で徹底分析🔍📊",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2R1VThQLVQxamw3dlc5d2JqRHVjLTJnR2dQUS04ZWJLM0QwYVZjVlA2TjJJN0c4Z0xxM1BKTmVQSU5WRW1LanJwNEJod0U2c1lCYXN1Sk5ONlRoLWd6R21jRU5SSF9PVW5ZMElqN1dJaHBMU180ZWVoTEJ5cGNtLXJ1MzMtVlVyczRmR0IwU1pNNGFpNXRfaU9MTVFVUU1sYkZteno5RDlOTGdUY1dERnRTNFlSYUtuaEsxVHRZZmxjcUVfeElB?oc=5",
+  "source": "Moomoo",
+  "summary": "",
+  "publishedAt": "2026-10-13T03:16:32.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "4c4a21ccdd56",
   "title": "「DMM 生成AI CAMP 学び放題」の決済機能実装を支援、短期リリースと将来拡張を両立",
   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wMlBES3B0SnRWa3QzelVJQVJHcUM0YUEzaHVaczdHdTVGeEUtQTNpQzQ0aG5SaGFhZlJyQkdqamJsVHhZZmZkVElib1pZa2R4M1ZQb0VaYUpnU0dyYWJzVm9vLVlQUlc0dk9J?oc=5",
@@ -277,19 +527,6 @@
   "isPR": false
  },
  {
-  "id": "99309fa53be4",
-  "title": "東京システムハウス、AIを活用してテストデータと仕様書を自動生成する「テスト支援サービス」",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xRHRkdTNaY2xRSFg4NDcyb2xnei1Kd0hpZlU0T1oyQmlaNUFya1ltdGxodjBMTTNhdWw2YjRTU0hZbjdST00wT29EWkhZa1JvR1d0ci1tZGFGTVJDTXp5cGt3Q0ZRWmc?oc=5",
-  "source": "クラウド Watch",
-  "summary": "",
-  "publishedAt": "2026-10-13T03:14:00.000Z",
-  "image": "",
-  "categories": [
-   "case"
-  ],
-  "isPR": false
- },
- {
   "id": "4e314f1a7279",
   "title": "米クローガー、3年で3000人削減へ ＡＩ導入で業務効率化｜Infoseekニュース",
   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VOHB1U2VvT3BYcGxBYlBaTzBQTFNRdU94MmNmaVpBeGlsQU1OVHFjVENycnFVSktKS3lDY1JvMS1WMTdKMzY2dmwxY0pPOWtINWgtc1lGUFJzdE1WSk1TOVRTTVVTc0t3aEhvaUdn?oc=5",
@@ -305,8 +542,8 @@
  {
   "id": "d3dc053ebc87",
   "title": "米クローガー、3年で3000人削減へ ＡＩ導入で業務効率化",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40cjFsT2N4VHhNc25TUHFaN2JWWXZNTGJMUnE4ZGdybl9mS0VMLXpuRkxmbVVpN3NIZ0RXWVdXNmtqekh3bWFWN05IZ05rUVRRSWNNaW9fWGZwUUVjM1FqT1RlOTVuWHkyTnUyZ211WTJrbHBDZU5xNWlSOA?oc=5",
-  "source": "Reuters",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LdjB2ZWl2WDJiVWFKUnFiQW85TXYwNEVrc0ZEWjZzVmhrRzNHZ1FMUjRKSi1HNkI1TUJ2bGlIMjF0VGJQbTFXMW9UemdlSmplbDR2SV91aHluN2RGUnlNcm1uM0UzbmlieXRQcHI5NG5RUVU4M2RneUlB?oc=5",
+  "source": "ロイター",
   "summary": "",
   "publishedAt": "2026-10-13T03:12:00.000Z",
   "image": "",
@@ -382,19 +619,6 @@
   "isPR": false
  },
  {
-  "id": "339506104d75",
-  "title": "国産生成AI「Sarashina」を利用できる「Sarashinaサービス」の無償ベータ版を提供開始",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zdEpDYTNSVVR2YmFwUjNqMUNQWThjVXNtc1lLNHlmRGxHYXNsSFJNNzAtSzFfSHF0QXRFY2F6Tmlsem0ySTllcnlHejg5WkVqbDhoRlhmeTFwR2lJX1BwQi1BOE5xampfbEE?oc=5",
-  "source": "PR TIMES",
-  "summary": "",
-  "publishedAt": "2026-10-13T03:03:45.000Z",
-  "image": "",
-  "categories": [
-   "product"
-  ],
-  "isPR": true
- },
- {
   "id": "b45879ee3a63",
   "title": "ChatGPTのモデル終了｜GPT-5.5終了の前に確かめること｜淵之上政俊",
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzWU04cF9iRzJ5QmtiQlExS0NnQ0xJNXVtMVJVTGZiVkRnVGhuWlBzRklHX2xlaUVETkVXTWdnb1U1cGdDa2t1TUVyYzdmeE9DSEIwNnV2MGY3ZkRmTEVvZjRyUzlhZw?oc=5",
@@ -410,7 +634,7 @@
  {
   "id": "a56b8cc52bec",
   "title": "「AIが人類を脅かす？ それほど賢くはない」",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSWNYWDdEVnRiY2Fpd3g4NTg0ZmlSVmdTRDNZZURhVVpSN1dMNl9fRWxqZ0pYSWIxS2dVcERUa190eFJ5U0F4T3RmeWFTUU5MY3hoOFB1bDA5cC1DZG9ncEFfLVpOeEF3Uk1SS2p5TXBkT0pMblZ4d3FCZW90Vk1FT0VvNkUwdG_SAYwBQVVfeXFMUEhYWndkRnlWaDZKd1I5YmpWbkdIU2FFOThSZWd5WnZjUWdfeTQ3dXNBQ3llTWt4cWpJMEE3MFdaT3VfWU85ZlZzYUJfRkYtSXBsLWt6YmttbmdBMWNGamoxSWw0bGM3U1NjSUp0TG1oUnMyNXJya0pESVQ0ckZ0OXJ3RmFpeUNTTWJsU0g?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSFhad2RGeVZoNkp3UjlialZuR0hTYUU5OFJlZ3ladmNRZ195NDd1c0FDeWVNa3hxakkwQTcwV1pPdV9ZTzlmVnNhQl9GRi1JcGwta3pia21uZ0ExY0ZqajFJbDRsYzdTU2NJSnRMbWhSczI1cnJrSkRJVDRyRnQ5cndGYWl5Q1NNYmxTSNIBjAFBVV95cUxQSFhad2RGeVZoNkp3UjlialZuR0hTYUU5OFJlZ3ladmNRZ195NDd1c0FDeWVNa3hxakkwQTcwV1pPdV9ZTzlmVnNhQl9GRi1JcGwta3pia21uZ0ExY0ZqajFJbDRsYzdTU2NJSnRMbWhSczI1cnJrSkRJVDRyRnQ5cndGYWl5Q1NNYmxTSA?oc=5",
   "source": "ｄメニューニュース",
   "summary": "",
   "publishedAt": "2026-10-13T03:02:00.000Z",
@@ -696,6 +920,19 @@
   "isPR": false
  },
  {
+  "id": "2fbeebf9ea25",
+  "title": "AIを生産性向上の原動力へと変革する。",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Nc2lxNGVIWFVQQjgtWTNMLWs5eWJWU05MMVdVWkxpdUdsd1NSdGNYLUhQLUtBUzlyUzRsWDQ5N3FLRTRBNnpVMnB4X3ljZUM3dHc5QWk3TUlUTWx4bzF2TjZXVkdUSDJY?oc=5",
+  "source": "Vietnam.vn",
+  "summary": "",
+  "publishedAt": "2026-10-13T02:49:13.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "0c5721d9f51e",
   "title": "AI投資で資本調達が最大の障害と指摘 ROI確証を焦点化 - CHOSUNBIZ",
   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Ed2d6MTFPc2FNV2NmbUxVTGMtc28taXYtNTBtbXNBWFFXR3VGRXptUzkxZXQyXzNQbTVLdFB5NnRFQjlHaGZmX0gtZEZNakdHeGFBdHUzTllhQlhHNHdRQkZTSW9vekJILUNIRW1OUUFScWdZYWlWNm9R0gGOAUFVX3lxTE1ERVNxVlZmQWtsUWNSVjlYRFhvaFU3MFZiaXhQRmtpdU1nYTBldHdmaWFPRDhCUnRxR0VoZlFldU1fczRQSktsQWdvenNpSUR1Tkw0VmJSQkVxamNmbDk0REprLVlGcWw5UE42M294WDdxZXBNME9YRHptY0xXd1F3Vnl4V0pIT1pWZkhUc3c?oc=5",
@@ -705,6 +942,19 @@
   "image": "",
   "categories": [
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "64c142eed30b",
+  "title": "マイクロソフトがCopilot Notebooksをアップグレード：タスクの委任、Office文書の編集およびインタラクティブなレポート",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1QZkRJTnZMZlNkcGtsR1FEMGZCTkdEa1F4Nzl5cUROUDQtb0VfNVJoeVJObEE4VU9HaHM2Z2RhQzRrS0c0Mm04YlFTaWhoQQ?oc=5",
+  "source": "AIBase",
+  "summary": "",
+  "publishedAt": "2026-10-13T02:46:32.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -830,10 +1080,10 @@
  {
   "id": "68a2cdc76324",
   "title": "OpenAI、安全研究者3人の解雇を巡り見解対立 公開書簡が求めた外部評価と推論監視",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QVWRrb0Z0aGpDVkNtaDJPMDNfT291QklNNnY1bWlzYWZfcGZNelB4SWZmY0swR2NJQzkxU3R2V1p4V1VEUVhaVS0wXzdRcy1JUURuSVpHVGJEZklZWmJTd2FWb9IBaEFVX3lxTE1Bcy02bzdDSkpkQXlaazAwWVJWZ2JuTmJSMWZpVFIwdDh2QWFXY084MzN4SHNnU0x6UGxfc1JuSWQ5NExlb0VVX0M2Vm1oQ1BRWkY4YVlPQzk5YU5Jbk53emY3YUhpaDNs?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Bcy02bzdDSkpkQXlaazAwWVJWZ2JuTmJSMWZpVFIwdDh2QWFXY084MzN4SHNnU0x6UGxfc1JuSWQ5NExlb0VVX0M2Vm1oQ1BRWkY4YVlPQzk5YU5Jbk53emY3YUhpaDNs0gFoQVVfeXFMTUFzLTZvN0NKSmRBeVprMDBZUlZnYm5OYlIxZmlUUjB0OHZBYVdjTzgzM3hIc2dTTHpQbF9zUm5JZDk0TGVvRVVfQzZWbWhDUFFaRjhhWU9DOTlhTkluTnd6ZjdhSGloM2w?oc=5",
   "source": "財経新聞",
   "summary": "",
-  "publishedAt": "2026-10-13T02:33:21.000Z",
+  "publishedAt": "2026-10-13T02:33:00.000Z",
   "image": "",
   "categories": [
    "model",
@@ -888,7 +1138,7 @@
   "source": "ITmedia AI+",
   "summary": "Anthropicは、小型AIモデルがデータセンターを介さず安価な市販IoT機器上で自律的に自己複製する「重みベースの複製体」になるリスクを警告した。実験ではAndroid TVボックス上での分散推論や環境構築を確認。拡散ペースは遅いものの停止が難しいため、早期の防御策が必要と指摘した。",
   "publishedAt": "2026-10-13T02:31:26.000Z",
-  "image": "",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2610%2F13%2F2000002204%2F",
   "categories": [
    "infra",
    "dev"
@@ -1014,16 +1264,15 @@
   "isPR": false
  },
  {
-  "id": "62629e8de8c3",
-  "title": "Claude Haiku 5.5公開、短い入力のAPI料金を90%引き下げ 小型モデルの性能も向上",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JQ1kzZTdDT2pTTWotLV95NklIM25ZOEFBU29KQUhTamxtemNrY2M3S0FVMENWMDFtcjhvYjUwcF9RQ1BBakNLTmlZTS16Wjh2WEZiSEY1bzNWRUdDdlhxNXdtVdIBaEFVX3lxTE8wTm9veWU3NXhIQXpxZ2ZOR2JuTWRsR19HOHRWYmR4SWRlbzA2WU1kb1lqRG5lTXJlUVk5VnR1ZUtsc293d2tZTjZBR2lPZ042V3dwWTNMeEQyOEkxOHhjaW53NjhtaUpa?oc=5",
+  "id": "9b22b2dcd3a6",
+  "title": "Anthropic、Claudeへの執拗な虐待を使用ポリシーで禁止へ 11月12日から",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBxbGJaQTlNZkdnVHhZbzdDZGhQY0NFN29UdW1sWmxZRXdNbXFxNnZCTTNrRzltbllORFB6R3NHempJYmlfWEhmenBkZXVmZWhYU0NRckZ6a3lwVWgyXzJaaFQtd9IBaEFVX3lxTE0yb1NvNU4zNHNIUHQwUzE5aWE2WlNvMWt5d3VWU29kMHJ4NThrRERiVkNaX3g4dVZ5UjhZekR1dTFERzE1bTQ5YUZ0VEhrQ0dqNk1HR3NQSTA1bHNKLUljTkRkcjZSWU1s?oc=5",
   "source": "財経新聞",
   "summary": "",
-  "publishedAt": "2026-10-13T02:24:55.000Z",
+  "publishedAt": "2026-10-13T02:24:54.000Z",
   "image": "",
   "categories": [
-   "model",
-   "product"
+   "other"
   ],
   "isPR": false
  },
@@ -1041,15 +1290,16 @@
   "isPR": false
  },
  {
-  "id": "9b22b2dcd3a6",
-  "title": "Anthropic、Claudeへの執拗な虐待を使用ポリシーで禁止へ 11月12日から",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yb1NvNU4zNHNIUHQwUzE5aWE2WlNvMWt5d3VWU29kMHJ4NThrRERiVkNaX3g4dVZ5UjhZekR1dTFERzE1bTQ5YUZ0VEhrQ0dqNk1HR3NQSTA1bHNKLUljTkRkcjZSWU1s0gFoQVVfeXFMTTJvU281TjM0c0hQdDBTMTlpYTZaU28xa3l3dVZTb2Qwcng1OGtERGJWQ1pfeDh1VnlSOFl6RHV1MURHMTVtNDlhRnRUSGtDR2o2TUdHc1BJMDVsc0otSWNORGRyNlJZTWw?oc=5",
+  "id": "62629e8de8c3",
+  "title": "Claude Haiku 5.5公開、短い入力のAPI料金を90%引き下げ 小型モデルの性能も向上",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wTm9veWU3NXhIQXpxZ2ZOR2JuTWRsR19HOHRWYmR4SWRlbzA2WU1kb1lqRG5lTXJlUVk5VnR1ZUtsc293d2tZTjZBR2lPZ042V3dwWTNMeEQyOEkxOHhjaW53NjhtaUpa0gFoQVVfeXFMTzBOb295ZTc1eEhBenFnZk5HYm5NZGxHX0c4dFZiZHhJZGVvMDZZTWRvWWpEbmVNcmVRWTlWdHVlS2xzb3d3a1lONkFHaU9nTjZXd3BZM0x4RDI4STE4eGNpbnc2OG1pSlo?oc=5",
   "source": "財経新聞",
   "summary": "",
   "publishedAt": "2026-10-13T02:24:00.000Z",
   "image": "",
   "categories": [
-   "other"
+   "model",
+   "product"
   ],
   "isPR": false
  },
@@ -1096,7 +1346,7 @@
  {
   "id": "0c6bd6a2ab99",
   "title": "韓国KT「みんなのAI」、12月に公開へ…検索から予約・購入まで支援する構想",
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QSUdWOHRNbEFMdUVUTGd6Q1hDMVFLQllWci1nNTVJQkhzZXI1WHR0WUw2dEVuRGl1N0NXVmpUeUhfYUR3a0swN1htTFZhajdKbENJY3FMWDhkTG5LVldlc0FmdmrSAWpBVV95cUxOQm1LbFRCYUxnSVlWUkd2bGx5UGlScWdFX1pzUlNRNV9iRFlQRnd5WVJsc3ItNHF4S0s1QUwtbjFuWFh0aEkya21IY3dMeHhiNDB5SXo1RXNBcU5mSkM0VWpiLVF2bm04djVR?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CbUtsVEJhTGdJWVZSR3ZsbHlQaVJxZ0VfWnNSU1E1X2JEWVBGd3lZUmxzci00cXhLSzVBTC1uMW5YWHRoSTJrbUhjd0x4eGI0MHlJejVFc0FxTmZKQzRVamItUXZubTh2NVHSAWpBVV95cUxOQm1LbFRCYUxnSVlWUkd2bGx5UGlScWdFX1pzUlNRNV9iRFlQRnd5WVJsc3ItNHF4S0s1QUwtbjFuWFh0aEkya21IY3dMeHhiNDB5SXo1RXNBcU5mSkM0VWpiLVF2bm04djVR?oc=5",
   "source": "Infoseek",
   "summary": "",
   "publishedAt": "2026-10-13T02:20:03.000Z",
@@ -2792,8 +3042,8 @@
  {
   "id": "3c766f054de1",
   "title": "日経平均は続落で寄り付く、ＡＩ・半導体株が売り優勢 ＴＯＰＩＸは小幅安",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00QnJNWjc1cTM5VzhGcHAtQTV6bWJoYmVIejRlbUEtMmFPY1FDNWZON1ZuaGxGNVAwNk5aMmRNaFNVdDlQYm9pa3JBY1JCUjJvRGFOeTBGZjhPdw?oc=5",
-  "source": "ニューズウィーク日本版",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON19STXRNaGtvbG54WmJ1YWVkTFpGN2hDeEdySzhTVks0TVJ0RW9ldFJPVXBiSG5Zc3h4UzZmMERWNGVvTEQ4VVgtblFybW9nNEhwenpiNXh6cXJLdS1ubXlYWGdjOWRkRlR6d2I1X2Z5bmdPUi1uUG9ya1pFNGNPZV83Mmdpdw?oc=5",
+  "source": "Reuters",
   "summary": "",
   "publishedAt": "2026-10-13T00:20:00.000Z",
   "image": "",
