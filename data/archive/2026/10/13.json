@@ -1,5 +1,231 @@
 [
  {
+  "id": "22b832f6651a",
+  "title": "PythonのhashでLLMキャッシュキーが別プロセスで変わる",
+  "url": "https://qiita.com/hironakamura_ai/items/bf1a562da1b91529c3cd",
+  "source": "Qiita",
+  "summary": "同じ文字列なら同じハッシュ値、と思っていた。自分はLLMのキャッシュキーを確かめていて、別プロセスに同じJSONを渡したらhash()の一致判定がFalseになった。永続キャッシュの空振り。 ディスクやRedisに残すキーには、入力を決まった形式でJSON化し、SHA-25...",
+  "publishedAt": "2026-10-13T02:29:28.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "950c18760d0b",
+  "title": "【きょうのおはBiz 10月13日(火)】縮まるか? 生成AIの利用格差",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuanBMd2Z1VTNkeGpnU3ZQdkZBSjN6d3plRVl0a1pKbTF2STVDbUhKdV80aHhQeUo2Q0FJdXZWTEdmeXZKcXl1WEpjZGU1a3IzanlIdGJlTHM0MlVDUV9B?oc=5",
+  "source": "NHKニュース",
+  "summary": "",
+  "publishedAt": "2026-10-13T02:22:06.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "11d50478b1e9",
+  "title": "半導体から電力へ、AIブームのボトルネック変化－データセンター急増",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44dGtmZ3dieXpEeE9JTTFjMHBwdHVUZVZCNlJ0TGUybklycmdXMXpNWm5semJuM3h0NmZmWW5nRmwtdHJ0SmQtYUdoc0hvUGgxeUlvS21oZVdKRlhMZUk0cXFRdTJxeGNWTmFSU2poa0h2MGQyNFBJ?oc=5",
+  "source": "Bloomberg.com",
+  "summary": "",
+  "publishedAt": "2026-10-13T02:17:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c27e0650857c",
+  "title": "AIを講師に使う方法",
+  "url": "https://qiita.com/good59548/items/550de661996767761c33",
+  "source": "Qiita",
+  "summary": "AIを自分専属の「講師（チューター）」として活用することは、学習効率や理解度を劇的に高める非常に有効な方法です。単に「答えを聞く」のではなく、インタラクティブな対話型学習の環境を構築することがポイントになります。 ​具体的な活用プロンプト（指示文）の工夫や学習の流れをまとめ...",
+  "publishedAt": "2026-10-13T02:15:27.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9b55d6fa73d6",
+  "title": "わずか2分 AIが偽サイト作成…情報流出の起点に 「恐ろしい状況」ホワイトハッカーが警鐘",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vZV9SUzRzT3A0UFZNQXdUXzk0YjRGOHptZnVIdGZVVm1DXzd2OURrQ044clBqNDJxU1NuSjktRl9UTFAyd0thYnI3OXo4YVF0WEJGX2VIbHJTNzVGUks1Ni11S2puV3JFMmJMeHVXWHkwak9LVUNGSGFn?oc=5",
+  "source": "テレ朝NEWS",
+  "summary": "",
+  "publishedAt": "2026-10-13T02:12:24.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ec5a8d639fad",
+  "title": "2026年デジタル化・AI導入補助金を解説！IT導入補助金との違い・採択のコツ",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XMTFtdWduWVFJeUlzZlZiRWZ5RktaX3dxRU1yZmNHbE56M1hmUVdubDdDVjktMU5YQ1BBb19KeWpXd1pYV1NiTGRtc0FiTnZGWjRaM0QzUHV5OGFPelVEUERn?oc=5",
+  "source": "AIsmiley",
+  "summary": "",
+  "publishedAt": "2026-10-13T02:10:16.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "aee62320e99b",
+  "title": "ニコン顕微鏡写真コンテスト、最優秀賞の授賞撤回 AI使用めぐり批判噴出",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwbk0zTFV3dXowTU45Ukk0T0pRVzd2N1RsZHFPd2l1SGZnWVdTelBObUU3X1JPRkZtOVhhNjBZLXdzOVR0S19yTUgxX1QtWm5mUGtadg?oc=5",
+  "source": "CNN.co.jp",
+  "summary": "",
+  "publishedAt": "2026-10-13T02:09:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "da0ed6fc4bae",
+  "title": "AI投資「カジノ」懸念で韓国株急落－世界的な半導体銘柄売り広がる",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NX1B1NXA0aUNxUE03YVZQZmFvQ05fT0hsUHhkSFZtUDh3bEFaSThTcWxNUWVVVVpIU1RtaFJQaE01a09JQ2VNM1lZbnJoLTlyaXNCN3p2MEV2UTI0dEtVS19oZEEteV9DMU1UbzlQWFA0MGptM2Z3?oc=5",
+  "source": "Bloomberg.com",
+  "summary": "",
+  "publishedAt": "2026-10-13T02:08:00.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d82085219d77",
+  "title": "ABC株式会社とHONUが提供するDGX Spark活用のローカルLLMによるサイバーセキュリティ支援サービス",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zTXBIT3B2YUVOaDBqQnJrUjhpT3RzdXFsU2htcl9zYTllcTNYZ1BCUm5hWDVZMkEyaEhqSDNWZkNhS0U2c1J1TEVoUzh6cW9mU2thVDQxMzhZZ09OOGdGOEFaWkVTcTZYNl93?oc=5",
+  "source": "ニュースメディアVOIX",
+  "summary": "",
+  "publishedAt": "2026-10-13T02:02:55.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "20f8685d4dc9",
+  "title": "AIは驚異的なスピードで数学の問題を解くが、専門家はインターネットと仮想通貨へのリスクについて警告している。",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQazdURXNoNXNuT1V5ODdGaDBHUmVBWnZkOFdETTJuTnlpNmJjRVRIcTBXU1hMMHRCYnkxdkRLNUM5dklnSjhwd3R2SmxWZnV6M3hwWlJHWmdoRFlwc1F5cGxyNGppblBVNVhFZ245bm90RWd3S2NCZ2UyMkUxTU1ndmNnTGE4UTlJSVNncUwtSmVMam5sekw4c3B6bG0xMGo1?oc=5",
+  "source": "Vietnam.vn",
+  "summary": "",
+  "publishedAt": "2026-10-13T02:01:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4c4a21ccdd56",
+  "title": "「DMM 生成AI CAMP 学び放題」の決済機能実装を支援、短期リリースと将来拡張を両立",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFS0FaRkVoamxsVGpGSHFVLTF2amY5MmpGYXlfVzg5dkRiZlE3Z0c2UVVTUHc5amtuQTJGRGtQamM3NVZnOHVnRTNZR09KVzlVTjRaaHNRMTZSUGQ5Um92b3lueXh1UFVXUlE?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-13T02:00:02.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "91430505623e",
+  "title": "MIXI、「Databricks Data+AI プラットフォーム」で全社データの統合を加速 人とAIエージェントがともに活用する全社基盤の構築へ",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ob1M3U0JMN21PNHY4VndGMF9kdGhCeC1uLW9iOUJEdXIza05abVQ1bnVyei1ndHlfTnlZZVl2UlhrLS16eVZEVjM4eXpPQ0ppdTVKSEloX3hISU40NkRxQ0hza1VrUXRwa2c?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-13T02:00:02.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "dev"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "531cbad7bb12",
+  "title": "Meta、いきなりフロンティアAIモデル競争へ Opus 5.5やAstraを上回るベンチマークも",
+  "url": "https://ascii.jp/elem/000/004/441/4441895/?rss",
+  "source": "ASCII.jp",
+  "summary": "Metaは10月12日、AIエージェント向けの新モデル「Muse Wonder」と「Muse Wonder Full」を発表した。",
+  "publishedAt": "2026-10-13T02:00:00.000Z",
+  "image": "https://ascii.jp/img/2026/10/13/4537903/s/71f37ba04eb8b1fc.png",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ce316997ac12",
+  "title": "東芝の人事トップが明かす、AI時代に面接で聞く質問はこう変わった",
+  "url": "https://www.businessinsider.jp/article/2610-how-my-interview-questions-changed-ai-reshapes-the-career-ladder/",
+  "source": "Business Insider Japan",
+  "summary": "東芝の人事責任者は、AIによって面接で尋ねる質問が、スキル重視からソフトスキル重視へと変わりつつあると語っています。",
+  "publishedAt": "2026-10-13T02:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5f4ff2a9972f",
+  "title": "会話内容からPowerPointやインフォグラフィックを自動生成。「Notta Memo Pro」は録音データを「企業の資産」に変える",
+  "url": "https://www.businessinsider.jp/article/2610-notta-memo-pro-ai-assets/",
+  "source": "Business Insider Japan",
+  "summary": "Notta Memo Proは、ISO 27001等の国際セキュリティ基準に適合したカード型AIレコーダーです。高精度な録音に加え、文字起こしから資料生成まで自動で行い、安全と業務効率化を両立します。",
+  "publishedAt": "2026-10-13T02:00:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b415b6cbcf99",
+  "title": "「AI PICKS AWARD 2026 AUTUMN」発表、AIツール3,137製品から93製品を選出 チャットボット部門はChatGPT・Claude・Geminiが同点1位",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83UVFkTGZjZGtFVmIyNjNZcEROeUxTLUtEV2ltcGQwOU1aMXJ2Wkx3S2F1NGQ5RGJubEZlNlNIb0tCSnpnMHRualdOcjM5c2Uwcndv?oc=5",
+  "source": "ドリームニュース",
+  "summary": "",
+  "publishedAt": "2026-10-13T02:00:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "857ae5e5be37",
+  "title": "「考えるだけでAIに指示」、手術がいらない帽子型端末のサビが79億円調達",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85Z3JnZ3hpaW9zMHFyV3dTTEQtVUJhOHo0TVprTm9OWmhjeVE0bnJNXzRzZ0xTNlBlcy1yd0E0STF3d3U2MlVRVTZIM1hKNlhHN1FvLU4wZmNvSWxOcDFHX1pWVzdrWXo1bmRBSjhGYnZtODJ4TGtVTkJHenhuUDg?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-13T02:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b24acb4f5531",
   "title": "300件の意思決定ログから学ぶSSOT運用1年目の知見",
   "url": "https://qiita.com/fukukei23/items/df74ec8dfaeb4fd5cba0",
@@ -9,6 +235,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f57e4e14cde0",
+  "title": "IPO相次ぐ撤回、株価急落：AI関連資金調達の評価見直しが進む。",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRWJLb1ZabGVSMGFIM0VuNVM2RTdRdmNCV0J0ZlltdlYzSjM5MEI4bTVNWXVscU1kUE9fTjdBNHBERlNfdkhpdVVibUJvUmJGR1haYzVEQ1RYWXdXTnpSRlVWM1N4aXRrQ1VwZzE2dllfRm16TmNKV0NZYkMwMDhrbGdEeTdMM3pIZ2Y1Ni1zV2E1RVBmZXNvcW9lRDRTVVI1TjZBWXVnY0s1RE5BbllYaGJXSQ?oc=5",
+  "source": "Moomoo",
+  "summary": "",
+  "publishedAt": "2026-10-13T01:55:15.000Z",
+  "image": "",
+  "categories": [
+   "business"
   ],
   "isPR": false
  },
@@ -324,8 +563,8 @@
  {
   "id": "7c653376b04a",
   "title": "新型ＡＩ半導体「マイア３００」発表＝２７年導入、規模も拡大―米ＭＳ",
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwbXZjZUk4WkltUmxsMTR3bVN1V3FlZ1dET3MyaU83VmNQZGltR0NTSGY3cjJZTktDSno3Smk3MXYzSU1kbHdKV2dITl8zS2Vta0hhV2ktUFpsNnJxdzZV?oc=5",
-  "source": "Excite エキサイト",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM2o2anUzcmpFZ1NGNVRyQ3NfbUlDZnhpM2hjZnRmZEpocnNFazVFck9MVE16aWREX0FBZ3oySUVMbzFGbjVqUldMZkgtMnBodVo0U0IxQ0V2MUJreWZHUkNRUk9XY0JUZEFtRlFjVjBoYUtWTjlQaXluNXhJQXNzSVZ1ZFFva1JhYjE5QVJBd3hCYWtBZ3hBcTJ6ckFRMjRKMHMxd21xcFRfa3NrYWx5dTVodzl2U3k0U0JwLTR6emhYQjBUcXF5dmNEVHBhREs5MlHSAYIBQVVfeXFMT0lWcDlYZzlKa0R2Rkp1WG5zdWVpdnFWUVdYYkdyMEFFRk1xNWlWV0VGSldGd2xzS0FhYUhVWEotMjZUUTh3dGxDaUlEbGRldGIwVm96ZGVtbUNSY0N2SzJ5M2dxZzVVeGVSU3E5bWY1UDRMemtCWEI4VG1HbEtuaktyUQ?oc=5",
+  "source": "ｄメニューニュース",
   "summary": "",
   "publishedAt": "2026-10-13T01:25:00.000Z",
   "image": "",
@@ -442,6 +681,19 @@
   "isPR": false
  },
  {
+  "id": "09be75331b0b",
+  "title": "Meta高性能AIミューズ・ワンダー発表株高 - CHOSUNBIZ",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMVRWUDdBRTdqOGZiTTlBeERvS2tRcl9LQS1MeWM1aHhnNi0ySlZjYjdZZHNYa2lRYUdIY04ybW0tbU4yUkQybFVfb0V5ZUNqUlBnWUN3TWUxWUNiMXp0T3p6NmpiaEtGX29mQUxnYkdFdVF0MnhKTTV3Sy1CelZwR25OU2YtNy1Za2wwNF9R0gGOAUFVX3lxTE0xVFZQN0FFN2o4ZmJNOUF4RG9La1FyX0tBLUx5YzVoeGc2LTJKVmNiN1lkc1hraVFhR0hjTjJtbS1tTjJSRDJsVV9vRXllQ2pSUGdZQ3dNZTFZQ2IxenRPeno2amJoS0Zfb2ZBTGdiR0V1UXQyeEpNNXdLLUJ6VnBHbk5TZi03LVlrbDA0X1E?oc=5",
+  "source": "Chosunbiz",
+  "summary": "",
+  "publishedAt": "2026-10-13T01:11:00.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "4ac5bf4d50d5",
   "title": "Microsoft、AI推論コスト削減へ独自チップ「Maia 300」発表 - 電力効率40%向上",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lQlIwR25rV2N1ZU90OVZjNzU5WEwxbUNMeGc1Y1NKeGs1N1FYRlhkU1YxVGpqdzFEamtJcTJDQnFmSEl0dzBoZ0dFRjF5TjUxV1JDcjRxWHJ0Njd2WFdGa0dySHRqNkFE?oc=5",
@@ -543,6 +795,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "fce3e1604768",
+  "title": "AIネイティブ経営を目指すチームのためのAIエージェント実行基盤「Agentino」のPublic β版を提供開始",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PVXlsNkNaQnIwaW5nMjN0aVNGOFZOUjFxbGx6TnJSQUNJVG9pSHBVYkxUMktwM051SnJxaElUcVFmVEVwalZsOGhDYllUd0tPby1OUlp5SEx4S1pjeWpVQ3ltMVd1SjBRQ0FZOVlrbVh3ZGJrT09wZXJSUQ?oc=5",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-10-13T01:00:28.000Z",
+  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -677,6 +942,19 @@
   "isPR": false
  },
  {
+  "id": "ae99808f270f",
+  "title": "【専門家に聞く】激変する金融データ基盤 先進企業がAIエージェント時代に「Couchbase」を選ぶ理由",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TWms3dzFCRnRDZXBlell6bzdhNldfTXdta0h0LXM2dDM0ckdocXhKQ0FtNXZ4azdMeURUWHV3Nk5pSE41SmMxMDE0emNybE8zTkRiSG9JOU56bGJEeUFKSXY1MnNnNlN2aGItSnRsV2d1NzdV?oc=5",
+  "source": "ITmedia",
+  "summary": "",
+  "publishedAt": "2026-10-13T01:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "013392a5f5f8",
   "title": "AIエージェント開発環境に秘密情報流出ゲートを自作して2週間運用したら誤警報ゼロだった話",
   "url": "https://qiita.com/fukukei23/items/05af2fdd0138bac082d5",
@@ -777,19 +1055,6 @@
   "image": "",
   "categories": [
    "case"
-  ],
-  "isPR": false
- },
- {
-  "id": "9b55d6fa73d6",
-  "title": "わずか2分 AIが偽サイト作成…情報流出の起点に 「恐ろしい状況」ホワイトハッカーが警鐘",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vZV9SUzRzT3A0UFZNQXdUXzk0YjRGOHptZnVIdGZVVm1DXzd2OURrQ044clBqNDJxU1NuSjktRl9UTFAyd0thYnI3OXo4YVF0WEJGX2VIbHJTNzVGUks1Ni11S2puV3JFMmJMeHVXWHkwak9LVUNGSGFn?oc=5",
-  "source": "テレ朝NEWS",
-  "summary": "",
-  "publishedAt": "2026-10-13T00:44:20.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
@@ -1549,16 +1814,17 @@
  },
  {
   "id": "99d4cfe13948",
-  "title": "150名超の展示会セールスを擁するCharmapがAIネイティブCRM/MA「ファネルAi 」で業務基盤を構築 ～展示会事業の顧客・案件管理、見積・請求業務の一元化を推進～",
-  "url": "https://ascii.jp/elem/000/004/441/4441922/?rss",
-  "source": "ASCII.jp",
+  "title": "150名超の展示会セールスを擁するCharmapがAIネイティブCRM/MA「ファネルAi 」で業務基盤を構築 〜展示会事業の顧客・案件管理、見積・請求業務の一元化を推進〜 | 株式会社ファネルAiのプレスリリース",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wRTg2TU0zM2hZY3IzaEZ3YkF6RElGRHkwS3RFb0NDRDNqXy1CUzNuT2hlUzBuQWdCUGpNSU1OTzJzREQzVTJtS2RXcldqWjFHZGNWUjgtNGZWR3dEejgyNXFWcjd5UXdnR1E?oc=5",
+  "source": "PR TIMES",
   "summary": "",
-  "publishedAt": "2026-10-12T23:30:00.000Z",
+  "publishedAt": "2026-10-12T23:30:01.000Z",
   "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
   "categories": [
+   "product",
    "dev"
   ],
-  "isPR": false
+  "isPR": true
  },
  {
   "id": "0d007ddb7801",
@@ -1671,6 +1937,19 @@
   "title": "旅行業界脅かすAIエージェント、それでもエアビーに勝機 | The Wall Street Journal発",
   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hNzRBTEpya0Vnek1xNkxNbGY1Ylk5Tl9qR0RjNU1oU1J6UVVUTjdlVEZ5SXczbE1CeWdFeEtIejltRGEzb0swTHVPMGE?oc=5",
   "source": "ダイヤモンド・オンライン",
+  "summary": "",
+  "publishedAt": "2026-10-12T23:20:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "35917eb9a2f8",
+  "title": "マイクロソフトが目指す「AIとWindows 11」の新しい関係【西田宗千佳のイマトミライ】",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5UUZadmZQVVc4ZjN4LWVNcjNINVhqWm9udUxsWVNqQ0NubUtwRW9BeUgxOTRSOTdLbmg0Nk44NXRPcGwwcHlZQWJEVE9Rc0pFX3Fic3pqVDBsdzJTM3F4YXZubVlDcEc2eUZ2cGNtZTg5dw?oc=5",
+  "source": "Impress Watch",
   "summary": "",
   "publishedAt": "2026-10-12T23:20:00.000Z",
   "image": "",
@@ -1827,19 +2106,6 @@
    "product"
   ],
   "isPR": true
- },
- {
-  "id": "fce3e1604768",
-  "title": "AIネイティブ経営を目指すチームのためのAIエージェント実行基盤「Agentino」のPublic β版を提供開始",
-  "url": "https://ascii.jp/elem/000/004/441/4441924/?rss",
-  "source": "ASCII.jp",
-  "summary": "",
-  "publishedAt": "2026-10-12T23:00:00.000Z",
-  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-  "categories": [
-   "product"
-  ],
-  "isPR": false
  },
  {
   "id": "2521218f3072",
@@ -2366,6 +2632,19 @@
   "isPR": false
  },
  {
+  "id": "47367db790fb",
+  "title": "生成AIが加速させる「ニセ社長詐欺」の進化》日本語の壁も容易に突破、ニセ社長ボイスも簡単作成、なりすましによるビデオ通話も可能に…「知ってる顔だから信用」の落とし穴（マネーポストWEB",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xXzlSd18wanMtNXVfQkxzaGVTeEQzM21tY0JKbEJGd1o3eFZMcXRmem1hbDhBTUh1STdDTVFYYlFDWmxLMmQzakJ5bG13bjQ1VUl5Ukx0VXNuSjFwcW5ndDhiWUF4MzhKNFExN2w0SjJFeE1ReEdKbm9tUmFxcjQ?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-12T22:02:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "759e0a8ede11",
   "title": "「7人の侍」が先兵 AI社員で自己変革へ",
   "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/100500574/100500002/",
@@ -2698,9 +2977,9 @@
  },
  {
   "id": "540b275ec21c",
-  "title": "Claude・ChatGPTで使える、自分専用のNotionデータベースのつくり方【【連載】EducAItion Times】",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIWER4RlQ5NVJOZVlLUGRjNnlxbjhaWnFjNVJZQ01Gc0VHRDdneHdQajZXdng5bFRBYVk2MXZZSlBCYTBKaldjLW5EdTNNQjFvQzdKZHByRnZrMVhSbjM5V3ZCbTJST0NzN0k0QklMNENnVDJBbzZONEs5V296QQ?oc=5",
-  "source": "こどもとIT",
+  "title": "Claude・ChatGPTで使える、自分専用のNotionデータベースのつくり方（こどもとIT）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVQTh1aXRNTlpac1hlM21HLXItMXNiREZ3Y3pqY1BfZWlDbDNlZ3JkNUppSE41dWdZWFZkMEpMZFkzMGRiZjhSXzZadWVBR09MN3ZyMGxSeVRoSE5SRWM3TUpCc0JSN0Z6Uk14X01HaUVWcGllXzZmUk9CczZUY1k?oc=5",
+  "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-10-12T21:30:00.000Z",
   "image": "",
