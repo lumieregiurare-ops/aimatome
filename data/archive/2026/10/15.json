@@ -653,7 +653,7 @@
   "title": "TypeSafe Jev の画像入力で、Sonnet が「別の商品」とした 1004 組を判定し直した",
   "url": "https://zenn.dev/serotoninmax/articles/typesafe-jev-image-same-product-check",
   "source": "Zenn",
-  "summary": "商品画像の比較テストをした。基準の商品画像と候補の画像が同じ商品かどうかを、まず Claude Sonnet のサブエージェントに 2 枚の画像を見比べさせて判定した。Sonnet が「同じ商品ではない」とした組の中に、本当は同じ商品が混ざっていないか。それを確かめるため、TypeSafe の Jev に画像で判定し…",
+  "summary": "ドロップシッピングの仕入れ先を探す調査で、Amazon.co.jp の商品を AliExpress で画像検索した。見つかった候補が同じ商品かどうかは、Claude Sonnet のサブエージェントに 2 枚の画像を見比べさせて判定していた。Sonnet が「同じ商品ではない」とした組の中に、本当は同じ商品が混ざって…",
   "publishedAt": "2026-10-15T10:47:30.000Z",
   "image": "",
   "categories": [
@@ -844,19 +844,6 @@
   "image": "",
   "categories": [
    "product"
-  ],
-  "isPR": false
- },
- {
-  "id": "69db2f786fd0",
-  "title": "相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる",
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iOUxETlUwOFplN0tEUnZEQVY0cGFlREVwZmZZVk1hWnptalg5S3RYVURmX1g1NGM2VEV3MVVCTFVXN3I4QmpXNkloX1puWnk3NVhBeWZNb3RldkF1SWZR?oc=5",
-  "source": "NHKニュース",
-  "summary": "",
-  "publishedAt": "2026-10-15T10:01:02.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
@@ -1381,6 +1368,19 @@
   "source": "SHIFT AI",
   "summary": "",
   "publishedAt": "2026-10-15T08:53:44.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "69db2f786fd0",
+  "title": "相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iOUxETlUwOFplN0tEUnZEQVY0cGFlREVwZmZZVk1hWnptalg5S3RYVURmX1g1NGM2VEV3MVVCTFVXN3I4QmpXNkloX1puWnk3NVhBeWZNb3RldkF1SWZR?oc=5",
+  "source": "NHKニュース",
+  "summary": "",
+  "publishedAt": "2026-10-15T08:53:01.000Z",
   "image": "",
   "categories": [
    "other"
