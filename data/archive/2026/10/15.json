@@ -918,7 +918,7 @@
   "title": "TypeSafe Jev の画像入力で、Sonnet が「別の商品」とした 1004 組を判定し直した",
   "url": "https://zenn.dev/serotoninmax/articles/typesafe-jev-image-same-product-check",
   "source": "Zenn",
-  "summary": "ドロップシッピングの仕入れ先を探す調査で、Amazon.co.jp の商品を AliExpress で画像検索した。見つかった候補が同じ商品かどうかは、Claude Sonnet のサブエージェントに 2 枚の画像を見比べさせて判定していた。Sonnet が「同じ商品ではない」とした組の中に、本当は同じ商品が混ざって…",
+  "summary": "商品画像の比較テストをした。基準の商品画像と候補の画像が同じ商品かどうかを、まず Claude Sonnet のサブエージェントに 2 枚の画像を見比べさせて判定した。Sonnet が「同じ商品ではない」とした組の中に、本当は同じ商品が混ざっていないか。それを確かめるため、TypeSafe の Jev に画像で判定し…",
   "publishedAt": "2026-10-15T10:47:30.000Z",
   "image": "",
   "categories": [
@@ -1326,8 +1326,8 @@
  {
   "id": "c8fad282619b",
   "title": "寝屋川市、孤立解消へAI職員「聞きましょ課」を導入",
-  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RaWx6eGVMQkdrV3MxdXU2RGFIQzRzU2lMb0puVHVDWW5pdlIxM3NGSElxd09aMkFOQ2stSC1WeWtIdmJCYWc3Rll0cFVndzFoMF9mM0NOX3k?oc=5",
-  "source": "週刊大阪日日新聞",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XaDlORmtFYmxhUHJZb29iVlJqS0g0dzd3aFBrV01mcHE4OWJsWVQweFFkOHJudGZ5emowaS1EVXhnVzFOUUhfT083TQ?oc=5",
+  "source": "47NEWS",
   "summary": "",
   "publishedAt": "2026-10-15T09:37:04.000Z",
   "image": "",
@@ -6772,7 +6772,7 @@
  {
   "id": "c677a0168f84",
   "title": "エクサベース AI、最新モデル「Claude Haiku 5.5」を提供開始",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByQlFNRkxlUUVhS2lDNVpidVdiYm9QbW8yb3p6ZUh3RTRuNjVhZjJNT2wwYXV2Qjc1bU9GSEc2TE1tengwZ1BEbFVqdDdYRzM5bXRKb3pRM0Zxd3NJVVFfN25kTVRRbHMyX0Y2Ml9uWTBJY0N4QTZfc3BSWQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10QnctMnlqaXVhc1VRclJGRXk1OVFsbVNzanAzbFVfOVFVWjJNYXFKa25EWThQaER5OHFwaHREc3UxeGFlRlVLcHlBMW5EVm9IY0xwbkd2dkdvN25IM2JIcXhSSmVBck1RdEJ3ZDdhdU9jZS1JaUFZ?oc=5",
   "source": "ニコニコニュース",
   "summary": "",
   "publishedAt": "2026-10-15T01:21:19.000Z",
