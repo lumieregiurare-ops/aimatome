@@ -120,20 +120,6 @@
   "isPR": false
  },
  {
-  "id": "b8f4a0cdaef0",
-  "title": "生成AIで海外法規制対応を高度化！ISTソフトウェアが3社共同企画・開発した「事業影響分析支援サービス」を提供開始 ～独自の分析プロセスは特許出願中",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94T2gtT25qSTlBU0NRTjlZelo3eGJIcUk2N1h3ZWxGUnJ2dlpjUGJKMGF5NkdCYjJaeV9lbEVwYTNSOWRESE9xUDJTZXZZQ0NfWGZieDZRdWNjdXAtNS1Xdm9xb1o4c3hEbnAya1dUUkppc1E0?oc=5",
-  "source": "Excite エキサイト",
-  "summary": "",
-  "publishedAt": "2026-10-15T14:10:00.000Z",
-  "image": "",
-  "categories": [
-   "product",
-   "policy"
-  ],
-  "isPR": false
- },
- {
   "id": "331084e2a723",
   "title": "AIエージェントがあなたの財布を使えるようになったら何が起きるのか？｜a16z",
   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zX3BZOExGVFRidDVCcHR0Smo3WVRyQ0VMLUI2bTNQLVhRUUVXV3J6bVp4ZExVUWV5S3RZajRQWXJOYlpwY09ZRkJPUkR1V1NRV3V1OFZZcEZ4YUVRcFE?oc=5",
@@ -460,6 +446,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "229257c6e958",
+  "title": "【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証",
+  "url": "https://zenn.dev/solvio/articles/6d374a9224327a",
+  "source": "はてなブックマーク",
+  "summary": "Claude CodeはAmazon BedrockやGoogle Cloudなどを通して、自社で契約したクラウドから使うこともできます。この場合、モデルとの通信先はAnthropicではなく、契約したクラウド事業者（AWSやGoogle Cloudなど）になります。この記事では、Anthropicのクラウドを直接使…",
+  "publishedAt": "2026-10-15T12:35:58.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fsolvio%2Farticles%2F6d374a9224327a",
+  "categories": [
+   "business",
+   "infra"
   ],
   "isPR": false
  },
@@ -809,7 +809,7 @@
  {
   "id": "9dfd0cdd7a6d",
   "title": "FastMetal、Google社のフロンティアモデル「Gemini 4 Argon」を提供開始",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BbmVsbVYxN2RtTmhMRVlQLTdCT2R2MUYzZ2pqRGxsNlBZSExINjdDc0ktcXV5SDVyZ0xjMk9vamk3Z3lEajUwWlhrSnJTeUVZQzNHRw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4ySWJ3NlJtZjloQXduZmVuS3AxYUxoNWpGajFVZXlpbWx3RXNwQ1ZxTndRZm9nXzg4THhNZUg5dHZ2SnBpSGlpVExUUmVRREVPcHZ5Q2RHQk1UUl9zTjRWWmYycDVpdw?oc=5",
   "source": "ニコニコニュース",
   "summary": "",
   "publishedAt": "2026-10-15T11:30:22.000Z",
@@ -958,7 +958,7 @@
   "title": "TypeSafe Jev の画像入力で、Sonnet が「別の商品」とした 1004 組を判定し直した",
   "url": "https://zenn.dev/serotoninmax/articles/typesafe-jev-image-same-product-check",
   "source": "Zenn",
-  "summary": "商品画像の比較テストをした。基準の商品画像と候補の画像が同じ商品かどうかを、まず Claude Sonnet のサブエージェントに 2 枚の画像を見比べさせて判定した。Sonnet が「同じ商品ではない」とした組の中に、本当は同じ商品が混ざっていないか。それを確かめるため、TypeSafe の Jev に画像で判定し…",
+  "summary": "ドロップシッピングの仕入れ先を探す調査で、Amazon.co.jp の商品を AliExpress で画像検索した。見つかった候補が同じ商品かどうかは、Claude Sonnet のサブエージェントに 2 枚の画像を見比べさせて判定していた。Sonnet が「同じ商品ではない」とした組の中に、本当は同じ商品が混ざって…",
   "publishedAt": "2026-10-15T10:47:30.000Z",
   "image": "",
   "categories": [
@@ -1443,6 +1443,20 @@
   "isPR": false
  },
  {
+  "id": "b8f4a0cdaef0",
+  "title": "生成AIで海外法規制対応を高度化！ISTソフトウェアが3社共同企画・開発した「事業影響分析支援サービス」を提供開始",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IS2tXRVlrMGJyQzhvdG1xb21FOEVZeUdxLUhTMDFBd0IwQjQxX3FITUZyZm5ZbUhwNFhIbjhjOENfdFFOSG9jc1dhbzRnSUNPLW56RlN1VW5NWGJYQllJZW1VQjdSNkNtR1o2X0c0d0tQa2NaUWRtYXljdw?oc=5",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-10-15T09:30:31.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "6cfb5e746d98",
   "title": "フォーティエンスコンサルティング、製造業向け「AIネイティブ診断サービス」を提供開始",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04ckJGd1VxVktDd1NuWWtBSUQtV3p1M0RCSHBCYVA1YURJc0g2MmFVd0pYUU4weks4WWU1LVdtcGh4Tm5hZk9IeTFQZERwcGF1dklhNGppYzVRYXh1N1lmUTk4WnRQaVctZ3E3U1poUjh4a3k1bGlsVDZ3TQ?oc=5",
@@ -1583,6 +1597,20 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "275148ecd150",
+  "title": "リコー、MoE型マルチモーダル大規模言語モデル「リコーLMM_35B-A3B」を開発 | リコーグループ 企業・IR | リコー",
+  "url": "https://jp.ricoh.com/release/2026/1015_1",
+  "source": "はてなブックマーク",
+  "summary": "ニュースリリース リコー、MoE型マルチモーダル大規模言語モデル「リコーLMM_35B-A3B」を開発 高い日本語リーズニング性能と高速・省リソースな運用を両立、オンプレミス向けLLMラインアップを拡充 株式会社リコー（社長執行役員：大山 晃）は、日本語の文書や図表を高精度に理解し、高速・省リソースで動作するマルチモ…",
+  "publishedAt": "2026-10-15T09:06:24.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjp.ricoh.com%2Frelease%2F2026%2F1015_1",
+  "categories": [
+   "model",
+   "product"
   ],
   "isPR": false
  },
@@ -1924,6 +1952,20 @@
   "categories": [
    "business",
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1e1aa92212ed",
+  "title": "吉村内科クリニック、ティファナのAI電話対応「さくらさん」導入 電話を自動振り分け",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByZGFVQ3paUkRrdUhtSmczZVhaUVVsVC1wYkZ0TW81bk9rU2Q3SzFhcmpfS2ZKZHRoS3M3WWJqc294WU9yYkxIeTZyZl9QR0MxZ0dYU2oyLTdJQQ?oc=5",
+  "source": "医療テックニュース",
+  "summary": "",
+  "publishedAt": "2026-10-15T08:25:48.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
   ],
   "isPR": false
  },
@@ -3819,9 +3861,35 @@
   "isPR": false
  },
  {
+  "id": "3c51e0b674ed",
+  "title": "AIパートナー とは",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPTnI2UEFHZnpMLXlGS1NYXzZLaE1wN293Tk8zVzNLdFlyak9mUFpCQThIdHhJWkRHYldzN3QzN0d2bFl0VjlZY2lvd0UxaEVfdTVYcWRhWDIxSl9iVHN5b1NnYzBJT040YzRYdzlDeDZXQWxmTEhTQmVuOUxxMlFWbzBISXdXM2VDUkVUNjZleFM5Z01DWHFsOXBLN0wwWVBqMWZNdDd3dXR0YUNqeDJGMFhCNEI3WDg0SjA1S2tjTEt0c0RJWHNCbmIyc1VwQ1RpQ3FRak5VTlVNMVhpUTMtWWRCZFZjNUZybWhFOE1JWWc3MHhjbFhuUEZxa0YzWnJQa0l0cng2VG1TRzlGdmp3b0hYeXA?oc=5",
+  "source": "Universidad de Córdoba (UCO)",
+  "summary": "",
+  "publishedAt": "2026-10-15T05:08:04.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "c9dfdb3dfbf6",
   "title": "AI彼女 月額 初心者",
   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPZ2FLR3dCTU5wUEpKanFyc0t3RnFNYWx6ZWF0NWFTVVJ0WnU3TDFpMHhwRHkxelNoZ3NOQ21tdmFwZDhnZWRhNVZWSHJxZlQ5aUJkTjhhN1FCdDNjUTFObG5Edk9TQmwyeTdIMjJMT0h3YWpPTmJsamN2ZGU1bUo5WHZtcEZDaVBWS2ZfOHlLdVloSHc1V0NyRmluRjUtTVFQNEczZGMwc19YdDQyZVltREptNVhaRl9TNDBFZFdZU0F1ckYycTA4aURkaWZRSjFiOEdkaE9Qa3BHZXlJdUFIMVZJQ19lMGRTYjhNZzk5ajJubWpRN2pWeFdweUpHb0NkaG9SUDNRdm5TQlItZjhWdkpIS2I?oc=5",
+  "source": "Universidad de Córdoba (UCO)",
+  "summary": "",
+  "publishedAt": "2026-10-15T05:08:03.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3e73192cabfc",
+  "title": "AI彼氏 無料",
+  "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQQ0NyWUtFaTBXbE9fMmhielo4MGtvNFpCZEJBejkzcHd6c0dOeHc5MDluYXVGdmx6Vmh5Vm45ckFUZlpZUkdmNm0wNTcxQ25EVURjZERfSWRzRTgySmFEUXlMNTNSTVd1ZVYzeXo1a3pNWGY4eUJNZkxKaVJnNGlhbFF1SEJaQUdyazNqOTZIUHdoWUExXzVmb0FueWRXRTR4VzNYWmJsWm5qTm5xbTlRbjJBNjFIVjVGMFRqZDV3YlhmWjV4ZS0wMXMycW54c2lRNTBKMW84TVlPbnFCUEx4MHk0QTU3RnA1SWJ5blZkWXpWQ3R2QVhIZzl2VVBieFBIc19VQVZ6NUwtRFhYVm9wVGI3cWc?oc=5",
   "source": "Universidad de Córdoba (UCO)",
   "summary": "",
   "publishedAt": "2026-10-15T05:08:03.000Z",
@@ -4891,10 +4959,10 @@
  {
   "id": "1c2666543672",
   "title": "Google Geminiとの連携は、Xero（ASX:XRO）にとってゲームチェンジャーとなる可能性がある",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUVM0dU1CWU5GaWxfYjgyRW1EamdYYkJPaW90dnZHQWxPZE41Z1IxVzV2MTNXVzdhTEJaMi1jc0ZUZnM4SHpSRHZNaXpsdFFzbXRWb3pva2VOUS1RNDVudWVnakh2bUZIQkQxMklLaUlmbTBrMnBkaUoxaWMza1oyWXFKblBMTWtLa2dmQWR30gGTAUFVX3lxTE9UWWdIYzNDQlpqSnVSTHkxckRfaElnNElkRncxYi0wS2xXWGV0ZDk0eE1tR1JMQ1Fkc1NUcFlCU1JWN2FjQ2laMWl4T3cxTE5tTzBjdmphSHphOEExTzB2Zmk2N2lUQmI3Yi01SGZudVZMeFhKVHVKYzdqYXZpZzJ1SWR0NEUtTy1BRGxxR3hsd3diYw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVFlnSGMzQ0Jaakp1Ukx5MXJEX2hJZzRJZEZ3MWItMEtsV1hldGQ5NHhNbUdSTENRZHNTVHBZQlNSVjdhY0NpWjFpeE93MUxObU8wY3ZqYUh6YThBMU8wdmZpNjdpVEJiN2ItNUhmbnVWTHhYSlR1SmM3amF2aWcydUlkdDRFLU8tQURscUd4bHd3YmPSAZMBQVVfeXFMT1RZZ0hjM0NCWmpKdVJMeTFyRF9oSWc0SWRGdzFiLTBLbFdYZXRkOTR4TW1HUkxDUWRzU1RwWUJTUlY3YWNDaVoxaXhPdzFMTm1PMGN2amFIemE4QTFPMHZmaTY3aVRCYjdiLTVIZm51Vkx4WEpUdUpjN2phdmlnMnVJZHQ0RS1PLUFEbHFHeGx3d2Jj?oc=5",
   "source": "Simply Wall Street",
   "summary": "",
-  "publishedAt": "2026-10-15T04:26:50.000Z",
+  "publishedAt": "2026-10-15T04:27:03.000Z",
   "image": "",
   "categories": [
    "other"
@@ -6376,19 +6444,6 @@
   "image": "",
   "categories": [
    "case"
-  ],
-  "isPR": false
- },
- {
-  "id": "275148ecd150",
-  "title": "リコー、MoE型マルチモーダル大規模言語モデル「リコーLMM_35B-A3B」を開発",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXWnJ0UzJOUDRzbVhpaDdqN3FYSlhQT2ZSN2VpMzJ2ZU9TY3QzWkNCY1hKa0FMZmFLYlh6N3BEdGg3MUVWaEtvSllPd0V0eExtV1E?oc=5",
-  "source": "Ricoh",
-  "summary": "ニュースリリース リコー、MoE型マルチモーダル大規模言語モデル「リコーLMM_35B-A3B」を開発 高い日本語リーズニング性能と高速・省リソースな運用を両立、オンプレミス向けLLMラインアップを拡充 株式会社リコー（社長執行役員：大山 晃）は、日本語の文書や図表を高精度に理解し、高速・省リソースで動作するマルチモ…",
-  "publishedAt": "2026-10-15T02:00:59.000Z",
-  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjp.ricoh.com%2Frelease%2F2026%2F1015_1",
-  "categories": [
-   "model"
   ],
   "isPR": false
  },
@@ -8318,6 +8373,19 @@
   "isPR": false
  },
  {
+  "id": "dc15be73644b",
+  "title": "「Copilot Notebooks」が大幅アップデート ～単なる情報整理ツールを超えた存在に（窓の杜）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QaTNyVWpMYXhIMnJ6QjA3UXFfbS1PcGR4Z3VDejRyMl9lcl8zOWl2QVZwTHdtT1d4eWN0SFlEVkZBc1FMdVQ1Y0UxMXQ4RXJWaDdFR3FOOEdnbjkxYzZjUXhNenllMzhCQms3TEdjUEZUenIyWUhsaW9LQXg1ZG8?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-14T23:15:00.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2147784.html",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f4f4916c9e13",
   "title": "プログラミング雑記 2026年10月15日",
   "url": "https://qiita.com/ishisaka/items/49b5f15117c686689371",
@@ -8687,19 +8755,6 @@
   "image": "",
   "categories": [
    "dev"
-  ],
-  "isPR": false
- },
- {
-  "id": "dc15be73644b",
-  "title": "「Copilot Notebooks」が大幅アップデート ～単なる情報整理ツールを超えた存在に",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50X3JxMDc2ZURDSUZ0QVVRdHNCQk5MYjlMY3N5a1BxNy04OXQtSmZkeVFsUGZ5V0l2MEdVTURQdnROcHRCUlo0eW83cnRpNDA2dWdtTlVPYVNNVmtPV1NzSjdMSXBZSXl3?oc=5",
-  "source": "窓の杜",
-  "summary": "",
-  "publishedAt": "2026-10-14T22:55:00.000Z",
-  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fforest.watch.impress.co.jp%2Fdocs%2Fnews%2F2147784.html",
-  "categories": [
-   "product"
   ],
   "isPR": false
  },
