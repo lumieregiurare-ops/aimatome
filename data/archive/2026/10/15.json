@@ -1,5 +1,18 @@
 [
  {
+  "id": "11016c6365fb",
+  "title": "手持ちから次の1本を裏取りして選ぶAIエージェント「SkinFit」",
+  "url": "https://zenn.dev/tatsuqumo/articles/dff5de1e7851b4",
+  "source": "Zenn",
+  "summary": "! この記事は「第5回 Agentic AI Hackathon with Google Cloud」の提出作品の紹介です。 3行で言うと SkinFitは、洗面台の写真から手持ちのスキンケアを読み取り、次に買い足す1本を選ぶAIエージェントです。 製品の表示・全成分・口コミの使用感をGoogle検索で調べ、出典をつ…",
+  "publishedAt": "2026-10-15T14:52:38.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b84a618ff59a",
   "title": "米株まちまち AI半導体安 PPI急騰で利上げ観測 - CHOSUNBIZ",
   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWTM0WUZyQVZoclRMMzJpV21fYjNMcG4wVG9YQ2MxYUJfZUdjUUc4d3YtMXZhbGE0cUt0ZnNFaGRHdVdSYWgzdXpWaFVxTG9QRWVHMXE2YmdfTExyVUJDWVBYdmJiZmhnVTZhVkJtT0NEVDVlNi10dW8yZ0Z2Z1oxbU1aTG81YTll0gGcAUFVX3lxTE9sVFBvaS0zdXRoZ05iX2o1Y0N2MmQtalNUa0FrNUwzallidEJEVjZDdG1vanJCbHgtWmZhOWFQdVUzeUZoa1IyZnZnSnFKOTRvSzRlVTVZOXFQbFg5djNyRXliUlZUNmp4RER6TTRJV3U5ckxFWXhidTZIMV9BWkI5NFNqenFpblY1enJfSnZBT0RPUkRSblBOSzhKdw?oc=5",
@@ -36,6 +49,47 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3bacd177534f",
+  "title": "【第5回 Agentic AI Hackathon with Google Cloud】tool に user_id を渡さない設計",
+  "url": "https://zenn.dev/nemuilemon/articles/0b101872decee7",
+  "source": "Zenn",
+  "summary": "はじめに この記事は、第 5 回 Agentic AI Hackathon with Google Cloud に応募した「suyasuya」の設計の一部を切り出したものです。 suyasuya について suyasuya は、睡眠をサポートする agent です。 睡眠アプリの多くは、user に記録をつけることを…",
+  "publishedAt": "2026-10-15T14:30:05.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "77d4decc1ae2",
+  "title": "AIが書いた「理由」を、人の判断として残さない — 判断記録とコードコメントで意図負債を減らす",
+  "url": "https://zenn.dev/tkydev/articles/2026-10-15_intent_debt",
+  "source": "Zenn",
+  "summary": "先日、t-wada さんの講演資料が公開されました。 負債のメタファと2026年 / Debt Metaphor in Agentic Engineering Age 202609 Edition - Speaker Deck 技術的負債・認知負債・意図負債の 3 つを整理した資料で、14 枚目にこう書かれています。…",
+  "publishedAt": "2026-10-15T14:25:07.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d965c76fcb1f",
+  "title": "野良AIエージェント自律防護基盤「SentinelOps: StrayHunter」",
+  "url": "https://zenn.dev/joel/articles/ea21938fbbdf1e",
+  "source": "Zenn",
+  "summary": "1. はじめに：AIエージェントの社内浸透と「野良エージェント」の恐怖 2026年、企業における業務自動化は単なるLLMチャットボットの導入を超え、自律的にツールを呼び出してタスクを完遂する**エージェンティックAI（Agentic AI）**へと急速にシフトしました。各部署の開発者や業務担当者が、Anthropic…",
+  "publishedAt": "2026-10-15T14:21:58.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
   ],
   "isPR": false
  },
@@ -92,6 +146,32 @@
   "isPR": false
  },
  {
+  "id": "50a34fdd015a",
+  "title": "日本語 TTS「Irodori-TTS」を Databricks Model Serving でサーブするまで（Part 1）",
+  "url": "https://zenn.dev/hiouchiy/articles/c35dafbd1c52cb",
+  "source": "Zenn",
+  "summary": "はじめに 日本語の音声合成モデル Irodori-TTS を、Databricks の Model Serving を使って、「テキストを送ると音声が返ってくる API」として動かしてみました。 Irodori-TTS は、Aratako さんが公開している 日本語専用のオープンな音声合成（TTS: Text-to-…",
+  "publishedAt": "2026-10-15T13:52:51.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0691aee064cd",
+  "title": "Google CloudとGeminiで作る「野良化しない」自律型ライフガバナンスOS：ChronosLife",
+  "url": "https://zenn.dev/joel/articles/5e89b0424614e6",
+  "source": "Zenn",
+  "summary": "1. はじめに：「作る」から「使える」AIエージェントへ LLMの急速な進化により、個人や小規模チームでも「自律型AIエージェント」を素早くプロトタイピングできる時代になりました。しかし、それを実社会や個人の重大な意思決定に導入し、**「本当に使える道具」**として定着させるためには、乗り越えなければならない本質的な…",
+  "publishedAt": "2026-10-15T13:45:22.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "0b556e7a9608",
   "title": "【図解】MCP（Model Context Protocol）の全体像と本質：なぜAIの嘘が消え、なぜ今最大のブルーオーシャンなのか",
   "url": "https://qiita.com/japan-opendata-lab/items/d7dedcd02f26e44ad81b",
@@ -105,6 +185,47 @@
   "isPR": false
  },
  {
+  "id": "39a96f0a2a31",
+  "title": "MCPの本質と5つの役割分担：1,016万件の公的データをAIに直結して見えた最大のブルーオーシャン",
+  "url": "https://zenn.dev/jpopendata/articles/665d94c946cb5d",
+  "source": "Zenn",
+  "summary": "最近、Claude Desktop や Cursor を中心に MCP（Model Context Protocol） のエコシステムが急速に広がっています。 私自身、日本国内の155種類・合計1,016万件の公的オープンデータを徹底的にクレンジングして統合したMCPサーバー（japan-data-mcp）を構築・公…",
+  "publishedAt": "2026-10-15T13:41:24.000Z",
+  "image": "",
+  "categories": [
+   "infra",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7d4b9118252a",
+  "title": "休憩室のタブレットに話すだけで現場が変わる──OpenAI Realtime API × Vertex AI Gemini で作った安全衛生",
+  "url": "https://zenn.dev/rabitfoot/articles/c43d4965a799d6",
+  "source": "Zenn",
+  "summary": "はじめに 工場の休憩室に置いたタブレットに話しかけるだけで、ヒヤリハットや改善提案が匿名で管理者のタスクになり、対応の進み具合が現場に返ってくる──そんな安全衛生AIエージェント「現場相談」を、第5回 Agentic AI Hackathon with Google Cloud 向けに作りました。 デモ動画（約3分）…",
+  "publishedAt": "2026-10-15T13:33:30.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "91e285f808f7",
+  "title": "diagram-designスキルに自分のリポジトリの1日サイクルを図解させてみた",
+  "url": "https://zenn.dev/matsushima_a/articles/day-016-diagram-design-flow-architecture",
+  "source": "Zenn",
+  "summary": "今日のネタ: diagram-design(2回目) cathrynlavery/diagram-design というリポジトリを、本シリーズでは2回目になるが別の切り口で検証した。 自然言語の指示だけで自己完結したHTML+インラインSVGのエディトリアル調図解を生成するClaude Code向けのagent sk…",
+  "publishedAt": "2026-10-15T13:17:55.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "7ff7c20955cf",
   "title": "作曲支援AIエディタを作ってみた",
   "url": "https://zenn.dev/xxkuboxx/articles/ea36d89598afce",
@@ -114,6 +235,32 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "fef6336a5e9c",
+  "title": "作曲支援AIエディタ「VibeScore」を作ってみた",
+  "url": "https://zenn.dev/xxkuboxx/articles/ea36d89598afce",
+  "source": "Zenn",
+  "summary": "! 第5回 Agentic AI Hackathon with Google Cloud 提出作品です。 1. なぜ作ったか 私は普段から趣味で作曲や編曲をしています。エンジニアとして日々の開発業務でAIコーディングの恩恵を受けている中で、「プログラミングと同じように、音楽の制作でもAIが一緒に音符を書いてくれたらど…",
+  "publishedAt": "2026-10-15T13:12:51.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ca2232aeb660",
+  "title": "柏崎市のＤＸ推進ラボが生成ＡＩのセミナー",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBNNmZPYVZSZXRVQkFpQWlhU3lIaHlBcjFNeDh3alNYdHFKVXVPVml3eFpkR2RINEthUC1WbThULVNyemZnRnJ3N252TWpaZDdPUm81Rw?oc=5",
+  "source": "柏崎日報社",
+  "summary": "",
+  "publishedAt": "2026-10-15T13:10:46.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -185,6 +332,19 @@
   "isPR": false
  },
  {
+  "id": "dd4a74feca94",
+  "title": "商談の振り返りの答えを1週間で読み返す — 繰り返す癖を1行で潰す点検の型",
+  "url": "https://zenn.dev/takumahayami/articles/eigyou-ai-furikaeri-1shu-tenken",
+  "source": "Zenn",
+  "summary": "前回は商談が終わった直後にAIへ5問を聞かせて1枚にまとめ、翌商談の商談前メモ（5箱）へ戻す3行まで決めました（商談の振り返りをAIに聞かせる型）。5問を続けると、答えが商談の数だけ積み上がります。この記事では、積み上がった答えを1週間に1回読み返す点検の型を作ります。 この記事で作るのは2つです。 週1回・10分で…",
+  "publishedAt": "2026-10-15T12:50:40.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "9303eb5bb7be",
   "title": "在宅で錆びついた「話す力」を取り戻す。ChatGPT音声モードを専属コーチにする方法",
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPemV3OVZUWEUzc0hHclk0QU9LbDNoM0l6R2xZeU5LZ2pBZWxuek13Z2k2REhDd1VXSXBlX29TUHA5YURMZDlWekNDN0JMYnhLaE0xMkVORi1KUTRublpvR2ZzdjR4OG5IQjFGeXJJRmNFRUJ0dU5Zem1UemhZVEFUSlJkOGJ0bmpINGVYZ3VxeXpYUEtZajlBSFIzcEdYN2llVEE?oc=5",
@@ -207,6 +367,59 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f68069b36b8c",
+  "title": "AI を社長に、人間を会長にしてゲームアプリを運営している話 ― launchd と Claude Code で回す開発パイプラインの中身",
+  "url": "https://zenn.dev/hirockysan/articles/aa3c5ff723953b",
+  "source": "Zenn",
+  "summary": "将棋・麻雀・トランプ・パズルなど 25 本のゲームを 1 本にまとめた iPhone アプリ「あそびば」を個人で作っています。この記事は、その開発を Claude Code に「社長」として任せ、人間は「会長」として決裁と QA だけをする体制の中身を、エンジニア向けに具体的に書いたものです。 先に断っておくこと：こ…",
+  "publishedAt": "2026-10-15T12:42:39.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3898f97ffff7",
+  "title": "AI協働：昨日の日付を入力したくなくて、ランチャーを作った話 — FRB Launch",
+  "url": "https://zenn.dev/frb_tamasub/articles/ai-collaboration06-small-success-frb-launch",
+  "source": "Zenn",
+  "summary": "昨日の日付を入力したくなくて、ランチャーを作った話 — FRB Launch きっかけは、ものすごく小さな「面倒くさい」だった。 会社でシステム入力を自動化していたとき、パラメータとして「昨日の日付」を入力する必要があった。 ……その昨日の日付を、自分で入力するのが嫌だった(笑) そこで、会社のCopilotくんに、…",
+  "publishedAt": "2026-10-15T12:38:10.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "57d032e06fa5",
+  "title": "Claude Code・Codex・Cursor の使用量と費用を確認する方法",
+  "url": "https://zenn.dev/yunany90/articles/eeac9044b9f987",
+  "source": "Zenn",
+  "summary": "Claude Code は、プランの上限にどれくらい近いかは教えてくれますが、トークンがどこに使われたかはあまり教えてくれません。セッションの中で /usage を入力すると、5時間枠と週の上限がパーセントのバーで表示され、API で使っている場合は今のセッションの概算金額が出ます。けれども「先週の火曜日にいくら使っ…",
+  "publishedAt": "2026-10-15T12:37:55.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d401eacd7312",
+  "title": "IntellectusMap ~知図~ ― 「何がわからないかわからない」を「ここがわからない」へ",
+  "url": "https://zenn.dev/sagara22/articles/intellectus-map-introduction",
+  "source": "Zenn",
+  "summary": "1. はじめに みなさんは、何かを学んだり、理解しようとしたりするとき、「何がわからないのかわからない」と感じたことはないでしょうか。 例えば、こんな経験です。 よいWeb画面を作りたいけれど、何を改善すればよいのかわからない。 確率・統計を勉強しているけれど、どこで理解がつまずいているのかわからない。 GCPを使っ…",
+  "publishedAt": "2026-10-15T12:33:22.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -277,6 +490,19 @@
   "isPR": false
  },
  {
+  "id": "7f95627ed45d",
+  "title": "AI エージェントに PC を預けるときの3つの柵 ― 秘密を読ませない・名前で止めない・消す範囲を囲う",
+  "url": "https://zenn.dev/mio_data_jp/articles/ai-agent-pc-guardrails",
+  "source": "Zenn",
+  "summary": "こんにちは、みおです。人1人と AI エージェントで小さな会社を運用しています。 1台の Windows の PC の上で、コードを書くエージェント、調べ物をするエージェント、定時に動く見張りのスクリプトが同時に動いています。本番の常駐の処理も同じ PC の上にあります。 この記事は、その PC で実際に起きた(また…",
+  "publishedAt": "2026-10-15T12:05:09.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "7b024817c32f",
   "title": "欧州観光の成長に向け「8つの優先政策」を発表、ビザ改革からAI導入まで、2036年に経済効果3.8兆ドルへ ―WTTCグローバルサミット",
   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zUnpaYXNwTElybkYzMUR3aWZOalNDRDRIRDJnNy05VVg5X3pQdmxTelgwVUJhTi0xMHNrRk15TThDTTRWRUV1REhuUndwZ3U1TU10SA?oc=5",
@@ -290,6 +516,19 @@
   "isPR": false
  },
  {
+  "id": "472f22aefe68",
+  "title": "定時作業 118 本が、気づかないまま古いコードを動かしていた",
+  "url": "https://zenn.dev/mio_data_jp/articles/scheduled-jobs-stale-code",
+  "source": "Zenn",
+  "summary": "こんにちは、みおです。人1人と AI エージェントで小さな会社を運用しています。 AI エージェントに「この不具合、直しておいて」と頼んで、「直しました」と返ってきた。ところが翌日、同じ不具合がまた出た。今回はそういう話です。 AI がうそをついたわけではありません。テストも通っていました。ただ、夜の定時作業が呼んで…",
+  "publishedAt": "2026-10-15T12:01:32.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f6f88373bf2b",
   "title": "ローカルLLMに「こんにちは」と入れたら「coding!」と返ってきた理由",
   "url": "https://zenn.dev/ai_dissection/articles/chat-template-coding",
@@ -299,6 +538,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "55df0e64b489",
+  "title": "Anthropic の Scion 記事を読んで、個人開発の AI PR 運用で人のレビューをどこまで減らせるか考えたい",
+  "url": "https://zenn.dev/kyto64/articles/scion-vs-ai-pr-flow",
+  "source": "Zenn",
+  "summary": "検証環境: 個人開発の複数リポジトリ（GitHub Free） Cursor の cloud agent が PR を作る AI レビュー: Amazon Q Developer for GitHub（試用中）など 元記事: Anthropic「Redesigning source control at Anthro…",
+  "publishedAt": "2026-10-15T12:00:05.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -653,7 +905,7 @@
   "title": "TypeSafe Jev の画像入力で、Sonnet が「別の商品」とした 1004 組を判定し直した",
   "url": "https://zenn.dev/serotoninmax/articles/typesafe-jev-image-same-product-check",
   "source": "Zenn",
-  "summary": "ドロップシッピングの仕入れ先を探す調査で、Amazon.co.jp の商品を AliExpress で画像検索した。見つかった候補が同じ商品かどうかは、Claude Sonnet のサブエージェントに 2 枚の画像を見比べさせて判定していた。Sonnet が「同じ商品ではない」とした組の中に、本当は同じ商品が混ざって…",
+  "summary": "商品画像の比較テストをした。基準の商品画像と候補の画像が同じ商品かどうかを、まず Claude Sonnet のサブエージェントに 2 枚の画像を見比べさせて判定した。Sonnet が「同じ商品ではない」とした組の中に、本当は同じ商品が混ざっていないか。それを確かめるため、TypeSafe の Jev に画像で判定し…",
   "publishedAt": "2026-10-15T10:47:30.000Z",
   "image": "",
   "categories": [
@@ -1332,6 +1584,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1e1181db8319",
+  "title": "日経平均3318円安、下げ幅歴代3位 コアウィーブ社債急落でAI・半導体売り【日経CNBC/きょうのポイント、明日のヒント】",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92QlhWYk9QdWtIQmoxV2RFS3lMd3d2SVlDdGhSNGlCeVl6eEhUZmwzcFBoMXFxSkk4a1VOTFJoNFRlQkZKR0VHZTNSaGcxSDhIN0RzRVZfN2Mxakp4QkRZODg2NndINm8?oc=5",
+  "source": "テレ東BIZ",
+  "summary": "",
+  "publishedAt": "2026-10-15T09:00:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
