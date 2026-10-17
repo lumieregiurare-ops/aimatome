@@ -1,5 +1,19 @@
 [
  {
+  "id": "d929aae61a11",
+  "title": "32人の3Dアバターが全員消えた日。非エンジニアの私がバイブコーディングでやらかした全記録と、AI顧問のGeminiと築いた20の防衛壁",
+  "url": "https://zenn.dev/scopewest/articles/612c5ed8a2480b",
+  "source": "Zenn",
+  "summary": "1. はじめに：この記事の「正直なスタンス」について 最初に正直に告白します。私はエンジニアではありません。 普段は「バイブコーディング（Vibe Coding：AIと対話しながら自然言語でコードを生成する開発スタイル）」を駆使して、思いついたアイデアを片っ端からiPhoneアプリやWebアプリとして形にしています。…",
+  "publishedAt": "2026-10-17T14:59:02.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f92f1b840ec6",
   "title": "Cursorクラウドエージェント更新まとめ：キャンバス共有・Environments API・300リポジトリ対応",
   "url": "https://qiita.com/picnic/items/24ae8d96c1996cb499fc",
@@ -49,6 +63,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6ddd434e6460",
+  "title": "RAGチャットボットが出典つきで嘘をついた日 ― ありがちな事故を全部詰め込んだ架空のポストモーテム",
+  "url": "https://zenn.dev/zumiraku/articles/df23687030e149",
+  "source": "Zenn",
+  "summary": "社員A：今年の夏季休暇って何日ですか？ ボット：夏季休暇は5日間です。 （出典：就業規則_2023.pdf 12ページ） 社員A：ありがとうございます！ 正解は3日でした。 2026年度から制度が変わって、夏季休暇は3日になり、その代わりに好きな時期に取れる休暇が2日増えていた。ボットは古い版の就業規則を、ページ番号…",
+  "publishedAt": "2026-10-17T14:13:05.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -130,6 +157,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "42922c15bbcd",
+  "title": "LangChainの会話で最初の指示が消える — 固定指示分離・token管理・要約圧縮の3段構え",
+  "url": "https://zenn.dev/yukihayama/articles/langchain-history-window-trim",
+  "source": "Zenn",
+  "summary": "顧客対応ボットをLangChainで運用し始めて2週間、AIが最初に決めた出力ルールを無視するようになった。表形式で出す約束を破り、途中から自由文で返答し始めた。ログを辿った結果、原因はtrim_messagesによる…",
+  "publishedAt": "2026-10-17T13:22:43.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -542,19 +582,6 @@
   "isPR": false
  },
  {
-  "id": "e36b434cd66a",
-  "title": "AI・ロボット実装フェーズへ",
-  "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX3E0SzBCVXJEYnZrTkVlMHZWV0Z1azVzZDVCX3RLbmV1UjMzb1VsMGotcFBSTXFMNUROcDVlT28yZ3VUdlZYTG9vU2JlUVpzUkNLQTA3YlhsTHdyZEJvaWgtX3lrVzk1bVFaTUhjR0haUFdvdUhDak82Sm9aSlZOVW9VOFJEMXE2RGh0THhSdDJWeU1mcVA0Z3h2Zm9LM050Y0VzWmZQdGtKU0dsZlpReXhSTnhHSmxuZ3k2TWp2U2ExZjBmWnFfRmUxZ1p0UHRhM3RIQ0RMMTlUSExnUjJpSFM4SzdpaTNzbVJ6aVlWQ1U?oc=5",
-  "source": "日経クロステック",
-  "summary": "",
-  "publishedAt": "2026-10-17T10:48:01.000Z",
-  "image": "",
-  "categories": [
-   "dev"
-  ],
-  "isPR": false
- },
- {
   "id": "2a547eb75eea",
   "title": "銀行はAIを統合すべきであり、単に古いプロセスに技術を押し付けるだけではいけない。",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNThuSnM1YjhsWjhhQldGdTFOTXVFRV9Dc3QyaEZRa2hZXzRMNUotdWFEM2dZemlVRTJ0czFkNDBRZDU5LXdqZTBwS04tVndyTHlPc1FCdUY0QXVzckpTWFl5NXo0Qi16XzhNUWNReW1jOVdralY0VHlOOUh6TllRM3BpN2RiMGstS1l2U2xqdmxPdzF4TWVTMV8tYw?oc=5",
@@ -797,7 +824,7 @@
   "id": "0ffeb3443985",
   "title": "OpenAIが常時稼働AIエージェント『dots』発表、Microsoft領域へ本格参入の『ChatGPT Space』も",
   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uYUNDTzhRaVlYcHZ3aE1qNUN4TEljVDl4Qi04TnVhYm1jZEdzR2REWTU3dDJ5ckhiS1V4blFHdzBIWFBDTHhUemgyLXBGRTJfcVpOSm5uUGlnTVRCdXE3bm9WbzI?oc=5",
-  "source": "www.gigamen.com",
+  "source": "男の夢を読む！WEBマガジンGIGAMEN ギガメン",
   "summary": "",
   "publishedAt": "2026-10-17T09:30:00.000Z",
   "image": "",
@@ -1216,6 +1243,19 @@
   "isPR": false
  },
  {
+  "id": "e36b434cd66a",
+  "title": "AI・ロボット実装フェーズへ",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOVNrRkRjb1FHRWJXMl9TOUUzeGxzSFVNQVJ1RVR2Sm1fWml4VUtpM3RNRE1vMTF4MFlHOWVINkVaZ3VEWkJzVkMxS0ZHYUpxOEpCRzlKbUtqakxfSnZPNmFSSTNTTUNtSU1EX19kbl9GdnZtUjc0RHdjSVNacEl4cmpJaWt3UFJRazF6ZWd5d3hvSnpkU0d1Z1BjX0FSbzFqaHRXT1p4M21hc2tkblVoeTlUenBWUk9vd3ZVVVgwaDdRRXpHNl95UWJwSkRfQVE?oc=5",
+  "source": "日経クロステック",
+  "summary": "",
+  "publishedAt": "2026-10-17T08:12:08.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "43b49fef7345",
   "title": "世界に通じるAI人材の育て方",
   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVHg1NXJka00xVVF4TjJpcm9CY0xQclFBR213TUNPNElyajY0X25QN0l5elZWN1lZZjhsYXFobE5qUG53LTFmS3JuZF9NMWQ1d1dsb0llSlk3VFhvX3YzUTZ1TXhGcTFrSV9OZjJVWUJ2UlhfU2ZudGgwSnIwVW1rLTBBUU1VTzVfaml0WVhpR3RTOE81UzVKNlNPQ2tBMjZyN2tIZDJwM3BnamtueHE1Mi1nN1A0Y0lRVjdoaXU1aXlMc1N4RGdfcE5KajJKNzM3a2c?oc=5",
@@ -1331,19 +1371,6 @@
   "image": "",
   "categories": [
    "infra"
-  ],
-  "isPR": false
- },
- {
-  "id": "064418f041bf",
-  "title": "ダークサイドAI",
-  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLTVlaU9PZEtJdHItZmdOa0VhbHFzM3V3eGZsTmRQUlUyQW4yT05DV3Y2eThxQ0VqZTQyRDY1aTBnTnd6ZG1WX2NBNGRRRjR3Y0VvV2c0TGE3NkE5T0M5Y2cybGJOdHdWXzV4Qm9ZX3RoY2kyNFZQQnE5VV9wSUIta1FUTXBmeHRlMnFoSkZaTzZxR3F3WEtyZHYwQ3BkTzFMVVBCRUZkTWxEdU9RR25fUTg0SE1tWFFrbFRuV0JzaUVMVHlYQWd6SmxKemc1WFh3bGNZ?oc=5",
-  "source": "日経クロステック",
-  "summary": "",
-  "publishedAt": "2026-10-17T07:55:26.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
@@ -3813,10 +3840,10 @@
  {
   "id": "f2873ca81588",
   "title": "PCに挿すだけでAI機能を拡張 ASUSのエッジAIアクセラレーター「UGen300」",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwRXFXcUlTam1scFFWYjBiOW9xOU92VWdMbXNLYm0wcy1vVGViUS1tVkpOUEZCWWRqQ2dDTjBmRHVHRzBDMWhyRzVNbFl6eEhwZnhYbmNVTTVWR2ctZVd4aFlybVhOYVQtckE?oc=5",
-  "source": "BCN Retail",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EbGQxZ1VtNEJJSFhqNHZhNG91MmJmc3lvMzd5a2UtNGdSVWM5N2FvOEdjcXF5RG5YX0lMUGtDcDI4TzMzSFlIdloyS0xWa1h5dUpOMmNvRU5DTDZPbER3bHhFWFR0SmFFWklrb3pPNkpsZVRxYlE?oc=5",
+  "source": "ニコニコニュース",
   "summary": "",
-  "publishedAt": "2026-10-16T22:00:00.000Z",
+  "publishedAt": "2026-10-16T22:00:20.000Z",
   "image": "",
   "categories": [
    "other"
@@ -4218,6 +4245,19 @@
   "isPR": false
  },
  {
+  "id": "750033bae6f5",
+  "title": "個人向けAIエージェントを使おう",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wdnB3ajJxclhvNmNXNjRnQ0w2VkU5eUZXaWVKUE00Z3lFZGtaUm5fbzlkWlJtUGpRZy14QXRhSFBrblEyS1gyWW9LQ211dWZmZjhEWE5FZy1zLUNpR1Nv?oc=5",
+  "source": "日経クロステック",
+  "summary": "",
+  "publishedAt": "2026-10-16T20:33:19.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "c898b85982d8",
   "title": "GPT-Live-1 対 Gemini 3.8 TTS：1分あたり27倍の差",
   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95c2xnRmlabl9ZUHZGMmp3ZmdvWmFuQXR2dEpabzRZdkVjUDdPeUF0OGk4STdHdDlTQTBsX2UyMUI3ZnJvRUJta2pKamoyQTI0V05sTFAxV0doekstNTNqY0ZtTHJnYS1CdG82ck4xYw?oc=5",
@@ -4418,7 +4458,7 @@
  {
   "id": "961804282668",
   "title": "AIが「オーストラリアの首都はシドニー」と答える理由を座標で解く。広報担当者向けメルマガ第3弾を全6回で配信",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54QTRWMEJOUG93eWxMc2s2akNKLVZlSFpSdUZQREpseDlmaVl2Rl8xNW8waWZTN1pFN0FaNFRHU3d5OG1tOHVXWlpNekF2N3pSRWhyTUdfQlFkbmdTUDFxb2NKMC0zalc0VFJncGlWYk8xUzQ0MTVYUlRXUQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vV2RZS2hSOHB6WE90MElnUC1BdTNEYzlFY1ZMWDNzTnZPWVlFeUp3dkdZZkxmYzFrMFBWM3plZXRwX2JucUI2TWRfOVRvLU54aW4yTzFQa1RQM09zQXkxeWlaZGZoX3BrN3Zfamo5bWptdTNNaVE?oc=5",
   "source": "ニコニコニュース",
   "summary": "",
   "publishedAt": "2026-10-16T19:00:22.000Z",
@@ -5103,6 +5143,19 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "064418f041bf",
+  "title": "ダークサイドAI",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ic2hZTXVpR2g1Vm9HNHczbE5qbUJkV3FSOHU2cDlma0NFYVhPVHJYYXhneUQwaGVhazBFbWJGclpBbHZpaWZVanFzWnA1b3k4RzlWeEhaTjl3WVBDc3dF?oc=5",
+  "source": "日経クロステック",
+  "summary": "",
+  "publishedAt": "2026-10-16T18:05:22.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
