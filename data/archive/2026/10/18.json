@@ -1,5 +1,126 @@
 [
  {
+  "id": "f00d9a288f2c",
+  "title": "Claude Code の /loop は「固定間隔」と「セルフペーシング」をどう使い分けるか — launchd 17ジョブ運用からの実装メモ",
+  "url": "https://qiita.com/joinclass/items/fc9eabb2ddfbb2aeca07",
+  "source": "Qiita",
+  "summary": "はじめに 当社（合同会社ジョインクラス）は、記事公開・SNS配信・売上集計などの業務を launchd の17ジョブと Claude Code で回しています。自動化率は98%ほどです。 その運用で一番迷ったのは「待つ処理」の書き方でした。デプロイが終わるまで待つ、PRの...",
+  "publishedAt": "2026-10-17T23:30:07.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a0841a4eb73f",
+  "title": "「もう何もしなくていい」が何度も変わる。Codexとのやり取りをIssueにした",
+  "url": "https://qiita.com/ishizakahiroshi/items/5511f41b19748a1f5bfb",
+  "source": "Qiita",
+  "summary": "先に、結論を3行で書きます。 Codexに残作業を確認したら、完了・未完了・対応不要の説明が何度も変わりました。 残作業と担当を問い直し、矛盾を指摘したうえで、実際の発言をGitHub Issueにまとめて送りました。 手元で実装した対策と、それでも残った問題、次に試す案...",
+  "publishedAt": "2026-10-17T23:26:19.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "04964d847851",
+  "title": "AIが答えを出す時代に、あなたは何を生み出す？ 農業を舞台に挑戦する学生インターン募集",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4MmsxbzFZOHBRakpGU3RBVUlyX2JMa0Q5aUlGQ0syZHlTc00zSFU0ekFsR2d3TldMejlTNWxEUnlFZkkzZEpwR18zcnBNN2lZMFYzRGVMZEFaVGJ1MzQ2NU9FVzVBR09jR1E?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-17T23:20:01.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "ad746500fcfc",
+  "title": "Claude Code・GitHub Copilot・Cursor・Windsurf・Codeiumを実装目線で比較する（セットアップ手順・コード付き）",
+  "url": "https://qiita.com/sescore/items/b6ba418a6573c6c636a3",
+  "source": "Qiita",
+  "summary": "はじめに 「AIコーディングツールは結局どれを使えばいいのか」という質問に答える機会が、この1〜2年で明らかに増えました。2023〜2024年頃は「AI支援を使うかどうか」自体が論点でしたが、2026年10月現在はその段階を過ぎ、Claude Code・GitHub Co...",
+  "publishedAt": "2026-10-17T23:13:00.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "64dd9100680d",
+  "title": "OpenClawで9体のAIエージェント経営OSを構築した実践記録｜設定とSES市場分析への活用法",
+  "url": "https://qiita.com/sescore/items/cf57317fffda0ceb88af",
+  "source": "Qiita",
+  "summary": "はじめに：経営者が「全部見る」をやめた日 経営をしていると、市場データ、契約書、コード品質、セキュリティ、SNS運用——見るべき対象が多すぎて、どこかで必ず抜け漏れが出ます。私は2026年に入ってから、Claude Codeのサブエージェント機能とcron/PM2によるバ...",
+  "publishedAt": "2026-10-17T23:07:55.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c2a7b86f1ed6",
+  "title": "AIの台頭でウエブサイトのアクセス向上策はSEOからGEOにシフト 対応急務に",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVROUDg5bU1NazJFVzM4MXhKOGtRS2xFb3ZKbkF4dkVRRTZkMG9KTFNtUnFES2UyUWlKTEl1dGhuTE80QUFINjZ4NmtPUzFpVGVZOWJkczlXRVNFejhLTm0wLTBiVm5OaUFlUk5CZ1ViaWxhdk1oZUUzZXQ3MzZiOE5XeG1zYWdFYVNzNFB2aFJta29fTWt5ak9tb3ZGSktPb1Vz0gGoAUFVX3lxTFBnWm5jWWxCWVJYb2V5WDQ5MkVHQ0dySExxd0xpRlRGSzVEV0NDeEtGdkZxcGJWRDlJY0ljZEFGUEdYZldaZ2R1RmFkZGtQTnVaYmh2MlFfV2RISlhpWnBLLU0xb255emhVaThGX0tPQV9MSEZwRGl1amxyenAtYXBfYmtUTFEwbXpMaUNKejdPM3A0RE5XUndVcE1CX3JxeF9NNEdjcmhUXw?oc=5",
+  "source": "ｄメニューニュース",
+  "summary": "",
+  "publishedAt": "2026-10-17T23:05:34.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "18cc45600166",
+  "title": "【チャットシステム設計ノート #05】RAGを採用するべきか",
+  "url": "https://zenn.dev/kon2300/articles/91e6f49ba6a567",
+  "source": "Zenn",
+  "summary": "1. はじめに チャットシステムを設計するとき、社内文書やデータベースの情報をLLMに参照させるために、RAG（Retrieval-Augmented Generation：検索拡張生成）を採用するかどうか。 重要なのは、チャットシステムを作るなら、必ずRAGが必要というわけではないという点だ。 質問の種類によって、…",
+  "publishedAt": "2026-10-17T23:00:05.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9bf9fd22ebb6",
+  "title": "【AI生成動画調査】よく見る人の約7割が「AI生成」の表示を希望！6,559人に聞いてみた【SEO・AIO時代に効く一次データ・アンケート調査受託】",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80WVpSUGFkSzlndkJ4SmdiWXk2ZkRRM3pKSzhUbEI2UUJyQUdJUEdRTndHSEhudzZZdVhNbTJLSmxyTjN6SUh2dEtKSFhpNUl6aFFQVGFFU2Fucy1TdDhpNkpreWl3WDNRRlE?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-17T23:00:01.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "24d1552779c7",
+  "title": "Googleの「かこって検索」、詐欺メッセージをAIで判別できる新機能",
+  "url": "https://k-tai.watch.impress.co.jp/docs/news/2148881.html",
+  "source": "ケータイ Watch",
+  "summary": "米Googleは15日（現地時間）、Android端末向けの機能「かこって検索（Circle to Search）」において、不審なテキストメッセージを囲むことで詐欺の可能性を検証できる機能を追加したと発表した。なお、日本でも利用できるかどうかは示されていない。",
+  "publishedAt": "2026-10-17T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f0f9a5e2842e",
   "title": "中国、AIの海外普及は推進・核心技術の流出は制限 輸出規制で新戦略",
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xTUtsQjQxNFo3MGlWNkxSVU9jSVZmblZxR0NDRFRLY0hOcGEtaWNhS3kwdFRZdDV6enowbllhcjY4NkdkMWF2WmxfdHNTOWxIZGw1MTNKczZiNmNTRUFTNFJRNHFxZw?oc=5",
@@ -40,6 +161,19 @@
   "isPR": false
  },
  {
+  "id": "d8fb3d39023a",
+  "title": "「止める基準」を“誰が・いつ・なぜ”まで記録する ― 複数AIエージェント運用における承認ログとロールバック設計",
+  "url": "https://zenn.dev/taichiendoh/articles/ai-agent-approval-log-rollback-design",
+  "source": "Zenn",
+  "summary": "複数のAIエージェント・開発ツールを並列で動かす運用が広がるにつれ、「誰がどの行動を承認したか」「おかしければどう戻すか」という設計の議論も増えてきました。たとえば、承認は実行される行動そのものの内容に対して紐づけるべきで、後から行動の内容が変わったら承認は無効にすべきだという指摘があります（hackernoon.c…",
+  "publishedAt": "2026-10-17T22:20:25.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b3ad4fa65046",
   "title": "AI日報 2026-10-18：Reflectionが501BモデルをApache 2.0で公開、Anthropicがgitを自社製に置換、TSMCが最高益",
   "url": "https://qiita.com/lhjjjk4/items/58d1f20ca2ad3c957d2b",
@@ -62,6 +196,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8d3a1e7bbb84",
+  "title": "Tech Watch 2026-10-18: 検証可能性から組む",
+  "url": "https://zenn.dev/laiken/articles/20261018-tech-watch",
+  "source": "Zenn",
+  "summary": "AIが書きました🤖 この記事は、AIが書いたものをAIがレビューしてから公開しています。 L: コードレビューを最後の関門ではなく、書いている最中の継続的な検査にする、という話が気になった。人が全部読むことを安全性の代理にしてきたけれど、生成量が増えたら成立しない。では、人はどこに残るべきなんだろう。 今日の 10…",
+  "publishedAt": "2026-10-17T21:12:01.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "policy"
   ],
   "isPR": false
  },
@@ -95,7 +243,7 @@
  {
   "id": "f9ceacb26215",
   "title": "「Gemini 4 Argon」の一般提供スタート／Metaが「Muse Wonder」シリーズを発表：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER",
-  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fVGF6VFYtanZSOE8zTG01bUo1V2RIV1oyMF9YUE9rOF9PeFJtR3FTczZJcFhhZnNwc3UtXzhMWmtTYVdjaHBQY054VWNjVnBvV1pmUFNlZnFwMmRzSDFBWU44WWxMVVBDQ2VXR1FnWdIBaEFVX3lxTE0xMHl4dDJNeDZ4amZkUy03dnU2bWNtMElubjFiWmZlb3plNnBaZmdINkFuZzFoUzlicHZKLWpjZW9oejdMLWZLTkIya0pfVVBhTzFYNUsyLVBnS3paOUo5eU9pbUhUSXdn?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xMHl4dDJNeDZ4amZkUy03dnU2bWNtMElubjFiWmZlb3plNnBaZmdINkFuZzFoUzlicHZKLWpjZW9oejdMLWZLTkIya0pfVVBhTzFYNUsyLVBnS3paOUo5eU9pbUhUSXdn0gFoQVVfeXFMTTEweXh0Mk14NnhqZmRTLTd2dTZtY20wSW5uMWJaZmVvemU2cFpmZ0g2QW5nMWhTOWJwdkotamNlb2h6N0wtZktOQjJrSl9VUGFPMVg1SzItUGdLelo5Sjl5T2ltSFRJd2c?oc=5",
   "source": "ITmedia",
   "summary": "",
   "publishedAt": "2026-10-17T21:00:00.000Z",
@@ -795,10 +943,10 @@
  {
   "id": "e3504c8f4828",
   "title": "成長率が最大27%のAI半導体株3選",
-  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRDlxQlpuUEhMSVNNMktwRUtaVllXc2hDcFJiMzl5QzRKd3hsV1dORGZTNDJjb1RGcWFGdE5LMWtsakF5WkVXOEt4bkdrRF9KYWdra2RvTXRnT1BFc1N0NzItekdnLXNxSWIxSHQySGZRekNGTjlHV21qWXBLa0NNZ0NYcjkyQS15R1V4ZTJLOFhlQ085akRwU21kbE1pLV95M01B0gGoAUFVX3lxTE90b2lNTmpkejlEMENwZERwc1llRmlZZEFxRnA3U2l6OU5yY2g0U0ZJVUZaRWw1V3UtN0NoU2o3SGdDTzZwQi1jXzUxSHFtaHR3TWFqTHlVN0gzZ05SWXZ1bDJrb3ZfUXY1amdLY2FGZkFuLTByRGl0ZndnVTBBTHRlSnZmYmhhRS1Gb0EzUFh2YkR1aDNES1BESElSb3hnNnhxOXdKcy1pTg?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdG9pTU5qZHo5RDBDcGREcHNZZUZpWWRBcUZwN1NpejlOcmNoNFNGSVVGWkVsNVd1LTdDaFNqN0hnQ082cEItY181MUhxbWh0d01hakx5VTdIM2dOUll2dWwya292X1F2NWpnS2NhRmZBbi0wckRpdGZ3Z1UwQUx0ZUp2ZmJoYUUtRm9BM1BYdmJEdWgzREtQREhJUm94ZzZ4cTl3SnMtaU7SAagBQVVfeXFMT3RvaU1OamR6OUQwQ3BkRHBzWWVGaVlkQXFGcDdTaXo5TnJjaDRTRklVRlpFbDVXdS03Q2hTajdIZ0NPNnBCLWNfNTFIcW1odHdNYWpMeVU3SDNnTlJZdnVsMmtvdl9RdjVqZ0tjYUZmQW4tMHJEaXRmd2dVMEFMdGVKdmZiaGFFLUZvQTNQWHZiRHVoM0RLUERISVJveGc2eHE5d0pzLWlO?oc=5",
   "source": "Simply Wall Street",
   "summary": "",
-  "publishedAt": "2026-10-17T15:54:22.000Z",
+  "publishedAt": "2026-10-17T15:54:46.000Z",
   "image": "",
   "categories": [
    "infra"
