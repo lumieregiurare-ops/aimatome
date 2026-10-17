@@ -40,6 +40,19 @@
   "isPR": false
  },
  {
+  "id": "cd1c49ea6be6",
+  "title": "理解負債を測るCLIを3日で作って、自分で使って止めた話",
+  "url": "https://zenn.dev/riko_yyy/articles/af85029a213366",
+  "source": "Zenn",
+  "summary": "AI がコードを書くほど、「自分が把握しているつもりの範囲」と実際のコードの間にズレがたまっていきます。このズレは最近「理解負債」と呼ばれるようになりました。 これを測れたら面白いのでは、と思って git の履歴から理解負債を数値化する CLI を作りました。3日で一通り動くところまで作り、自分のリポジトリで一周使っ…",
+  "publishedAt": "2026-10-17T14:24:50.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "94866e244274",
   "title": "AIに頼りきらない、ナレッジ構造の外部化 ──「AIナレッジのハードコーディング」を超え、「考え方を考える」市民開発者になる設計論",
   "url": "https://qiita.com/turkey_jp/items/78bca361f6941fc40641",
@@ -63,6 +76,20 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "109397115d22",
+  "title": "ソース非公開のJSをAIエージェントに解析させるREA、実際にどこまで正しいか検証した",
+  "url": "https://zenn.dev/matsushima_a/articles/day-018-reverse-engineer-minified-jquery",
+  "source": "Zenn",
+  "summary": "これは何か coding agent(Claude Code等)にネイティブバイナリやJavaScript/Electronアプリを解析させ、「ソースコードは復元しないが機能の挙動を調査する」ことを目的としたMCPサーバー/CLIツールREA(morluto/rea)(MITライセンス)を、実際に手を動かして検証した…",
+  "publishedAt": "2026-10-17T13:40:01.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
   ],
   "isPR": false
  },
@@ -107,6 +134,19 @@
   "isPR": false
  },
  {
+  "id": "ed3308f5b7c1",
+  "title": "AIの「確認しました」はどこまで信じていいのか。根拠のない✓を見抜く方法",
+  "url": "https://zenn.dev/kimshoshi/articles/ai-check-mark-needs-quote",
+  "source": "Zenn",
+  "summary": "AIの「確認しました」はどこまで信じていいのか。根拠のないチェックを見抜く方法 個人で、許認可・補助金・在留資格の手続きを解説する情報サイトを運営しています。記事は AI と分業して作っていて、一次資料の調査と事実確認（ファクトチェック）は、調査担当の AI に任せています。 調査 AI は、確かめた項目ごとに次のよ…",
+  "publishedAt": "2026-10-17T13:05:53.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "c06efd86d18a",
   "title": "ReplitがAnthropicとの決別を発表、だが「決別」には異論も",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSl92QkVRTm00MmxMYV8yd1pTeG41MG5UTkRsUUc1OWxiZVRGY012SXhhUjZfYTQxOXRQT3p2b3RYN3Z2NW5XS01YNENHOHBzaWpHbFg0blZtOEljV2htMmNKNUVsOG1uYWFQbkZkV1BTWkN0VEdGYl9ORkNpYl9KU2VSOFdxQVhtU1hDVw?oc=5",
@@ -130,6 +170,33 @@
   "categories": [
    "dev",
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "591cca378750",
+  "title": "前月の行を初回の商談に持ち出す — 初期値を1行だけ商談前メモに置く起動の型",
+  "url": "https://zenn.dev/takumahayami/articles/eigyou-ai-zengetsu-gyou-shokai",
+  "source": "Zenn",
+  "summary": "前回は、週次点検の答えを月次の行に積み上げて、運用表の3指標と同じ行で翌月へ引き継ぐ引継ぎを作りました（週点検の答えを月次に積み上げる — 潰れた癖が運用表で消えていく引継ぎの型）。月次の行に「翌月初期値」の列が入ると、引継ぎの最後の仕事は1つだけ残ります。その初期値を、翌月の初回の商談で実際に使うこと。 この記事で…",
+  "publishedAt": "2026-10-17T12:53:03.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "60ccc1c7cc08",
+  "title": "AIエージェントに「やらせないこと」をどう止めているか ── 個人開発の現場のセキュリティ対策",
+  "url": "https://zenn.dev/atsushi_apps/articles/ai-agent-guardrails-indie-dev",
+  "source": "Zenn",
+  "summary": "iPhoneアプリを一人で作っている Atsushi です。本業は業務システムのインフラ系エンジニアです。 個人開発では、AIエージェントの Claude Code に、かなりの作業を任せています。コードを書く、テストを流す、App Store Connect に説明文を入力する、SNSの投稿文を準備する、数字を集め…",
+  "publishedAt": "2026-10-17T12:51:57.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
   ],
   "isPR": false
  },
@@ -173,6 +240,19 @@
   "isPR": false
  },
  {
+  "id": "0755f6eca0d2",
+  "title": "gemini embedding 2 による資料の類似性は見た目で決まる？ 内容で決まる？ PDF と画像で検証してみた",
+  "url": "https://zenn.dev/bekku/articles/bdf265a70d27be",
+  "source": "Zenn",
+  "summary": "! この記事は、「2026/03/21に公開した記事」を誤って削除してしまったものを復元したものです🥲 前回、gemini-embedding-2 を使って、OCR しづらい資料でもそれっぽく近いものを拾えそう、という話を書きました。 https://zenn.dev/bekku/articles/5fcbeae4…",
+  "publishedAt": "2026-10-17T12:26:03.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "6e81243ba63f",
   "title": "日常タスク対決でChatGPTがClaude Haiku 5.5を3対2で上回るも、 パーソナル助言ではHaikuに軍配",
   "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxQV1p1TjZVcEVkb1NaZ1hwekNTdmNJeVBEclhaRlVSTnpmZWtJMXNFMkxBT2J3d0k5eEhNbVl4VUpHWktPSHpGLTM4TnNUa3lTYUk0Z0Z1QzN5WEVOTkpwbkpFYU5OaXZZWTYzZllqd3RyTGZscnJVVGpPQko4TjhWTE9ERGVPMHpjREF5NFlXcjByWmRiUFFpc2M1eUo0MEJMbm5vbWhoWXJvYlJoTVYtcndPLUxoeEJ6Nlo2OUNhUFBXZVhWQ2g4OVFzLTlJLTFTZjBnSC1nY1oxM0I1OGhQeUVtZmpMTHFFcV8zUzdPVDRUOGl3M2hMYjdpTWF3UDhhcnktV01hOUNRRGZBMWNpTlhETWxmX0lXQ0lDWmU4akZZVGstLXVyT09pYkpXTDg0YWlEXzMwM2N5cnlacDdDdDB4QUo3NHE2dmpfQ3hkSkpIVC1ndHdZOHdVRUlMR24yYk9yUEdRZUNOdE5tUXViM3VwUi1TVkZVbTlEV25EcXJRSGJHSkRHX3NYdjdjS0RwMGhma2dITVFoM2E3OThhaFhvbmxxZ3NxX1JmQUZ1MFIyX0ZtVF9wVzROc1dUWUN5T0cybQ?oc=5",
@@ -182,6 +262,33 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1096ea8a932b",
+  "title": "Claude Opus 5.5 の Fast mode を実測した ― 料金 2 倍で 2.3 倍速、効く場面と効かない場面",
+  "url": "https://zenn.dev/persimmoq/articles/claude-opus-5-5-fast-mode-benchmark",
+  "source": "Zenn",
+  "summary": "2026 年 10 月 15 日に、Claude Opus 5.5 の Fast mode がベータヘッダなしで使えるようになりました。申請も待機リストも要りません。リクエストに speed: \"fast\" を足すだけです。 「同じモデルで出力が最大 2.5 倍速、料金は 2 倍」というのが公式の説明です。実際にどれ…",
+  "publishedAt": "2026-10-17T12:17:43.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "47c3c6fc6c74",
+  "title": "Claude Codeのセッションを「部署」に分けて、個人開発を回す",
+  "url": "https://zenn.dev/atsushi_apps/articles/claude-code-sessions-busho",
+  "source": "Zenn",
+  "summary": "iPhoneアプリを一人で作っている Atsushi です。本業は業務システムのインフラ系エンジニアで、iOSの開発はほぼ未経験でした。それでも今、Claude Code にコードを書いてもらって、App Store に5本のアプリを公開しています。 アプリが増えてくると、1つの Claude Code のセッション…",
+  "publishedAt": "2026-10-17T12:17:40.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
   ],
   "isPR": false
  },
@@ -271,19 +378,6 @@
   "source": "Zenn",
   "summary": "Claude Code のサブエージェントにコードレビューをさせていて、レビューが通ったのに「書くべき場所に書いていない」が残っていたことがありました。しかも1回ではなく、実装のステップごとのレビューも、最後のブランチ全体のレビューも、全部通っていました。 なぜ全部通ったのかと、自分のハーネスでどう塞いだかを書きます…",
   "publishedAt": "2026-10-17T11:54:37.000Z",
-  "image": "",
-  "categories": [
-   "dev"
-  ],
-  "isPR": false
- },
- {
-  "id": "ed3308f5b7c1",
-  "title": "AIの「確認しました」はどこまで信じていいのか。根拠のない✓を見抜く方法",
-  "url": "https://qiita.com/koreangyoseishoshi/items/d900990bc4ce3162c0d0",
-  "source": "Qiita",
-  "summary": "※この記事は Zennの記事 からの転載です。 AIの「確認しました」はどこまで信じていいのか。根拠のないチェックを見抜く方法 個人で、許認可・補助金・在留資格の手続きを解説する情報サイトを運営しています。記事は AI と分業して作っていて、一次資料の調査と事実確認（フ...",
-  "publishedAt": "2026-10-17T11:52:48.000Z",
   "image": "",
   "categories": [
    "dev"
@@ -463,6 +557,19 @@
   "isPR": false
  },
  {
+  "id": "372f1ce5e43e",
+  "title": "AIと心の交流",
+  "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTzQ0RElnRWFCVU9zc2p2U2lJNXVnS0lmWlZvbjJiOFVTT3FYMXJoN0dablo2ZnRPYlM1Mng3b2tHTXA2V3JGOE1QQ0dLVF8yWmM3bWhWX2x5aUhWYVd4VXl6czNDYU5mVXZWcnBpS1pXTXZEVnlUVGVmeEEwZHF2Z19xMFRUNGFsbkIyM2pCcUZWM2xoblVJNEFxUU8yNzNsOTdOQ0JHQWtBM1lkWktwUWZCdlQyamFTWTdYMy1aTEJyUF9KT3pDeXYwYlRrSk94UjNvUkd1VVdIR3RNWE9rRXAwaktidmZPYmpVZHIxYw?oc=5",
+  "source": "日経クロステック",
+  "summary": "",
+  "publishedAt": "2026-10-17T10:32:34.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "eed462a6f828",
   "title": "AI時代の電力問題に突破口、上昇旋風迫る「光電融合」関連株リスト ＜株探トップ特集＞(株探ニュース)",
   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWnQxLTVGNElyU2VCVmpESE5OT2stbThhQ21FRy1OVEd1OXQ5cHoybkU2Umx3QmdnUGo1UkRGemF3MnM3cDY1a1U0YzJNeGRoYVhoLTZlTXRmUVh1LTJmTHR6SU5nX2dUNDVvOXJqVnNQOWhGSXYySEx6a3pQaURBM2ZSZFJITXM?oc=5",
@@ -537,6 +644,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "744fb7ade58d",
+  "title": "TestMu AI、「Kane CLI」に実機テストを導入、開発者があらゆるターミナルからスマートフォンの実機でモバイル・アプリをテスト可能に",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVGVtTGYxeG1feG9DMmNZazRxcS1qMUsyenlpNHlKRXNxNkJ2R3JJRWtRUHpoSTZHMWZXZ2JOS3pwa1VGTXZtUVFZdWc1YmRZV3pnRFgweVFxVzBGNWtReHhIdks3NUU?oc=5",
+  "source": "Business Wire",
+  "summary": "",
+  "publishedAt": "2026-10-17T10:09:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
   ],
   "isPR": false
  },
@@ -659,6 +780,19 @@
   "isPR": false
  },
  {
+  "id": "b57f049eb254",
+  "title": "生成AIエロ画像・エロ動画作成ツール10選｜初心者向けの無料",
+  "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUjBXYnJSdkZ6d05JdkkwSWRobF85d0dIejZlNkJqWEh0OVY2SEJaLW1Bc0Z5SlZIYS03VHNwRU43YWhNUUFtZURCV3RQcmxJRlZKQ0NVcTNLQnpiRmxSU2FpZGEySm9DbDBoMUFVM1lkVmRtT0l0MmxvM0hRT2dYSERIX2VoY3ZUMDhqTFFCX08wRXU3Zk12cmIxb3FqVnNxSkxBbHdsNEthZDgxeG83SzBxUS1OMURFalhNenpNYjF0bFBxbXZvMlFDQ0RxWXNmMjdwYUhIb2NzdTZDVTU0U2toQW9oYUF1bnhXNl82R3F5dHVaU1BzX3hhUGJtc3FxVjFreWpsaXFfZVhvakUzRQ?oc=5",
+  "source": "Universidad de Córdoba (UCO)",
+  "summary": "",
+  "publishedAt": "2026-10-17T09:23:52.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "e00c6d169556",
   "title": "資料は、書いた6分後に古くなっていた",
   "url": "https://qiita.com/hanamilo/items/e7ce683dbbb422c70cbf",
@@ -695,19 +829,6 @@
   "categories": [
    "product",
    "case"
-  ],
-  "isPR": false
- },
- {
-  "id": "b57f049eb254",
-  "title": "生成AIエロ画像・エロ動画作成ツール10選｜初心者向けの無料",
-  "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVVdtcTZtYkpsSWN4LXdkUmRHZnJoUkR5WVpmMU5SR2ZxR0ZBeXpjdzZvOWZ5NjVwUk5qcDgwanZtaGU3eWF4QnFPaHF4NTU5Zk9rbExBcWFLNnBNUzZ6MVpjRW1jMlkzeFQwbmdJdEdmUC0yVjl3cjZmNFB1VHZSTXAzNDd4U2dnaGNBRXZTR29LUkNMZHRaOS1QNG85WlFZeThkcjVxWGRvT3RWbDVqYVZna29nWFpuTFFld2FRR1VOSExFZ1FOWEpRR2tKVlY2eWJBOFhIVjFqWDRveU83YmpkNHhPQWVlZUdjcGFUOG5wTC0tNVVjYi1SakpVYXpEX3doUVBXb25Sd1o2ZnlncThhNW1oZDg?oc=5",
-  "source": "Universidad de Córdoba (UCO)",
-  "summary": "",
-  "publishedAt": "2026-10-17T09:16:50.000Z",
-  "image": "",
-  "categories": [
-   "product"
   ],
   "isPR": false
  },
@@ -1037,6 +1158,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e36b434cd66a",
+  "title": "AI・ロボット実装フェーズへ",
+  "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOVNrRkRjb1FHRWJXMl9TOUUzeGxzSFVNQVJ1RVR2Sm1fWml4VUtpM3RNRE1vMTF4MFlHOWVINkVaZ3VEWkJzVkMxS0ZHYUpxOEpCRzlKbUtqakxfSnZPNmFSSTNTTUNtSU1EX19kbl9GdnZtUjc0RHdjSVNacEl4cmpJaWt3UFJRazF6ZWd5d3hvSnpkU0d1Z1BjX0FSbzFqaHRXT1p4M21hc2tkblVoeTlUenBWUk9vd3ZVVVgwaDdRRXpHNl95UWJwSkRfQVE?oc=5",
+  "source": "日経クロステック",
+  "summary": "",
+  "publishedAt": "2026-10-17T08:12:08.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -3559,10 +3693,10 @@
  {
   "id": "f2873ca81588",
   "title": "PCに挿すだけでAI機能を拡張 ASUSのエッジAIアクセラレーター「UGen300」",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwRXFXcUlTam1scFFWYjBiOW9xOU92VWdMbXNLYm0wcy1vVGViUS1tVkpOUEZCWWRqQ2dDTjBmRHVHRzBDMWhyRzVNbFl6eEhwZnhYbmNVTTVWR2ctZVd4aFlybVhOYVQtckE?oc=5",
-  "source": "BCN Retail",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EbGQxZ1VtNEJJSFhqNHZhNG91MmJmc3lvMzd5a2UtNGdSVWM5N2FvOEdjcXF5RG5YX0lMUGtDcDI4TzMzSFlIdloyS0xWa1h5dUpOMmNvRU5DTDZPbER3bHhFWFR0SmFFWklrb3pPNkpsZVRxYlE?oc=5",
+  "source": "ニコニコニュース",
   "summary": "",
-  "publishedAt": "2026-10-16T22:00:00.000Z",
+  "publishedAt": "2026-10-16T22:00:20.000Z",
   "image": "",
   "categories": [
    "other"
@@ -5174,6 +5308,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6c53bc258d3e",
+  "title": "初心者向け AIポルノ動画・画像生成ツール（トップサイトのレビューと ai",
+  "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQT0VsbGEybXdmWVVVOFRmNmxnZDJMMGxldTY2RWJ2VFd3MUZ0VEJpV3QxMjQwMXdSRm9xRjhyb0RJX3ZDZDlNVzFnUnNpRUdvOVhOeDJYX21XNnk3UEJHdHJnOUtqaFdpR1dlb3Y1UGRlX3NUZ004Zkc0UUpldUNfS0ZBU0E5eXBEbXRjRGFBTW9JQXE1SEd5N284Rm9hQkZwS2sxWW5US21ZUW5hLWZaVHprUnpLZWtoV01xYklEYTN0ZEkzSEZBX2pKOFNJWmUzMlJZZU1oXzh0X3VacnZSYzZKaWJrczJPU0NwMEtZc1R4SXJmNjN0V1ZseW9lc1Q1c2lYdUM5cXNaQW5idmJzZEUzcEVEZS11dGhPbEVmSmNsMkd2cUhRS2gxWm1KYV93aWhpY0JSZmZrc0ExcTVyUGVuYWI1elU4MUp1VDZkZGJLYlJHc0dMSFJ1d1ZTQkd6NXpjdmJqalNtRi1FVEg4Ql9GNzRabWNuenFRZExwWVhIeHFkY0ctQQ?oc=5",
+  "source": "Universidad de Córdoba (UCO)",
+  "summary": "",
+  "publishedAt": "2026-10-16T16:35:37.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },

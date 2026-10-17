@@ -5,7 +5,7 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-17T16:00:17.270Z</updated>
+  <updated>2026-10-17T16:30:18.143Z</updated>
   <author><name>AI matomechatter</name></author>
   <entry>
     <title>Sakai LMS用のMCPサーバを作成</title>
@@ -36,6 +36,20 @@
     <summary>Qiita ／ はじめに 2026年10月17日時点の最新リリース Claude Code v2.1.302 には、CI や自動化スクリプトに影響しうる変更が含まれています。 サードパーティプロバイダで claude -p / Agent SDK の既定権限モードが default に...</summary>
   </entry>
   <entry>
+    <title>理解負債を測るCLIを3日で作って、自分で使って止めた話</title>
+    <link href="https://zenn.dev/riko_yyy/articles/af85029a213366"/>
+    <id>https://aimatome.gamelab.website/#cd1c49ea6be6</id>
+    <updated>2026-10-17T14:24:50.000Z</updated>
+    <summary>Zenn ／ AI がコードを書くほど、「自分が把握しているつもりの範囲」と実際のコードの間にズレがたまっていきます。このズレは最近「理解負債」と呼ばれるようになりました。 これを測れたら面白いのでは、と思って git の履歴から理解負債を数値化する CLI を作りました。3日で一通り動くところまで作り、自分のリポジトリで一周使っ…</summary>
+  </entry>
+  <entry>
+    <title>ソース非公開のJSをAIエージェントに解析させるREA、実際にどこまで正しいか検証した</title>
+    <link href="https://zenn.dev/matsushima_a/articles/day-018-reverse-engineer-minified-jquery"/>
+    <id>https://aimatome.gamelab.website/#109397115d22</id>
+    <updated>2026-10-17T13:40:01.000Z</updated>
+    <summary>Zenn ／ これは何か coding agent(Claude Code等)にネイティブバイナリやJavaScript/Electronアプリを解析させ、「ソースコードは復元しないが機能の挙動を調査する」ことを目的としたMCPサーバー/CLIツールREA(morluto/rea)(MITライセンス)を、実際に手を動かして検証した…</summary>
+  </entry>
+  <entry>
     <title>コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開</title>
     <link href="https://pc.watch.impress.co.jp/docs/news/2149045.html"/>
     <id>https://aimatome.gamelab.website/#f6ea1d92fc1f</id>
@@ -57,11 +71,32 @@
     <summary>QUANTUM BUSINESS MAGAZINE -</summary>
   </entry>
   <entry>
+    <title>AIの「確認しました」はどこまで信じていいのか。根拠のない✓を見抜く方法</title>
+    <link href="https://zenn.dev/kimshoshi/articles/ai-check-mark-needs-quote"/>
+    <id>https://aimatome.gamelab.website/#ed3308f5b7c1</id>
+    <updated>2026-10-17T13:05:53.000Z</updated>
+    <summary>Zenn ／ AIの「確認しました」はどこまで信じていいのか。根拠のないチェックを見抜く方法 個人で、許認可・補助金・在留資格の手続きを解説する情報サイトを運営しています。記事は AI と分業して作っていて、一次資料の調査と事実確認（ファクトチェック）は、調査担当の AI に任せています。 調査 AI は、確かめた項目ごとに次のよ…</summary>
+  </entry>
+  <entry>
     <title>ReplitがAnthropicとの決別を発表、だが「決別」には異論も</title>
     <link href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNSl92QkVRTm00MmxMYV8yd1pTeG41MG5UTkRsUUc1OWxiZVRGY012SXhhUjZfYTQxOXRQT3p2b3RYN3Z2NW5XS01YNENHOHBzaWpHbFg0blZtOEljV2htMmNKNUVsOG1uYWFQbkZkV1BTWkN0VEdGYl9ORkNpYl9KU2VSOFdxQVhtU1hDVw?oc=5"/>
     <id>https://aimatome.gamelab.website/#c06efd86d18a</id>
     <updated>2026-10-17T13:05:44.000Z</updated>
     <summary>Pasquale Pillitteri</summary>
+  </entry>
+  <entry>
+    <title>前月の行を初回の商談に持ち出す — 初期値を1行だけ商談前メモに置く起動の型</title>
+    <link href="https://zenn.dev/takumahayami/articles/eigyou-ai-zengetsu-gyou-shokai"/>
+    <id>https://aimatome.gamelab.website/#591cca378750</id>
+    <updated>2026-10-17T12:53:03.000Z</updated>
+    <summary>Zenn ／ 前回は、週次点検の答えを月次の行に積み上げて、運用表の3指標と同じ行で翌月へ引き継ぐ引継ぎを作りました（週点検の答えを月次に積み上げる — 潰れた癖が運用表で消えていく引継ぎの型）。月次の行に「翌月初期値」の列が入ると、引継ぎの最後の仕事は1つだけ残ります。その初期値を、翌月の初回の商談で実際に使うこと。 この記事で…</summary>
+  </entry>
+  <entry>
+    <title>AIエージェントに「やらせないこと」をどう止めているか ── 個人開発の現場のセキュリティ対策</title>
+    <link href="https://zenn.dev/atsushi_apps/articles/ai-agent-guardrails-indie-dev"/>
+    <id>https://aimatome.gamelab.website/#60ccc1c7cc08</id>
+    <updated>2026-10-17T12:51:57.000Z</updated>
+    <summary>Zenn ／ iPhoneアプリを一人で作っている Atsushi です。本業は業務システムのインフラ系エンジニアです。 個人開発では、AIエージェントの Claude Code に、かなりの作業を任せています。コードを書く、テストを流す、App Store Connect に説明文を入力する、SNSの投稿文を準備する、数字を集め…</summary>
   </entry>
   <entry>
     <title>中国AI技術の輸出管理改定案と暫定輸出前登録：API・SaaS、海外現地導入、完成品、技術移転の線引き</title>
@@ -71,11 +106,32 @@
     <summary>note</summary>
   </entry>
   <entry>
+    <title>gemini embedding 2 による資料の類似性は見た目で決まる？ 内容で決まる？ PDF と画像で検証してみた</title>
+    <link href="https://zenn.dev/bekku/articles/bdf265a70d27be"/>
+    <id>https://aimatome.gamelab.website/#0755f6eca0d2</id>
+    <updated>2026-10-17T12:26:03.000Z</updated>
+    <summary>Zenn ／ ! この記事は、「2026/03/21に公開した記事」を誤って削除してしまったものを復元したものです🥲 前回、gemini-embedding-2 を使って、OCR しづらい資料でもそれっぽく近いものを拾えそう、という話を書きました。 https://zenn.dev/bekku/articles/5fcbeae4…</summary>
+  </entry>
+  <entry>
     <title>日常タスク対決でChatGPTがClaude Haiku 5.5を3対2で上回るも、 パーソナル助言ではHaikuに軍配</title>
     <link href="https://news.google.com/rss/articles/CBMixANBVV95cUxQV1p1TjZVcEVkb1NaZ1hwekNTdmNJeVBEclhaRlVSTnpmZWtJMXNFMkxBT2J3d0k5eEhNbVl4VUpHWktPSHpGLTM4TnNUa3lTYUk0Z0Z1QzN5WEVOTkpwbkpFYU5OaXZZWTYzZllqd3RyTGZscnJVVGpPQko4TjhWTE9ERGVPMHpjREF5NFlXcjByWmRiUFFpc2M1eUo0MEJMbm5vbWhoWXJvYlJoTVYtcndPLUxoeEJ6Nlo2OUNhUFBXZVhWQ2g4OVFzLTlJLTFTZjBnSC1nY1oxM0I1OGhQeUVtZmpMTHFFcV8zUzdPVDRUOGl3M2hMYjdpTWF3UDhhcnktV01hOUNRRGZBMWNpTlhETWxmX0lXQ0lDWmU4akZZVGstLXVyT09pYkpXTDg0YWlEXzMwM2N5cnlacDdDdDB4QUo3NHE2dmpfQ3hkSkpIVC1ndHdZOHdVRUlMR24yYk9yUEdRZUNOdE5tUXViM3VwUi1TVkZVbTlEV25EcXJRSGJHSkRHX3NYdjdjS0RwMGhma2dITVFoM2E3OThhaFhvbmxxZ3NxX1JmQUZ1MFIyX0ZtVF9wVzROc1dUWUN5T0cybQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#6e81243ba63f</id>
     <updated>2026-10-17T12:21:16.000Z</updated>
     <summary>Yellow.com</summary>
+  </entry>
+  <entry>
+    <title>Claude Opus 5.5 の Fast mode を実測した ― 料金 2 倍で 2.3 倍速、効く場面と効かない場面</title>
+    <link href="https://zenn.dev/persimmoq/articles/claude-opus-5-5-fast-mode-benchmark"/>
+    <id>https://aimatome.gamelab.website/#1096ea8a932b</id>
+    <updated>2026-10-17T12:17:43.000Z</updated>
+    <summary>Zenn ／ 2026 年 10 月 15 日に、Claude Opus 5.5 の Fast mode がベータヘッダなしで使えるようになりました。申請も待機リストも要りません。リクエストに speed: &quot;fast&quot; を足すだけです。 「同じモデルで出力が最大 2.5 倍速、料金は 2 倍」というのが公式の説明です。実際にどれ…</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeのセッションを「部署」に分けて、個人開発を回す</title>
+    <link href="https://zenn.dev/atsushi_apps/articles/claude-code-sessions-busho"/>
+    <id>https://aimatome.gamelab.website/#47c3c6fc6c74</id>
+    <updated>2026-10-17T12:17:40.000Z</updated>
+    <summary>Zenn ／ iPhoneアプリを一人で作っている Atsushi です。本業は業務システムのインフラ系エンジニアで、iOSの開発はほぼ未経験でした。それでも今、Claude Code にコードを書いてもらって、App Store に5本のアプリを公開しています。 アプリが増えてくると、1つの Claude Code のセッション…</summary>
   </entry>
   <entry>
     <title>企業が人工知能を業務に統合するのに役立つ3つのソリューション。</title>
@@ -197,6 +253,13 @@
     <summary>Zenn ／ 2026年9〜10月の国内の大量漏えいを一次情報で整理し、防御側の実装に落とした記事の紹介です。 論点：AIは増幅器であって新しい攻撃ベクトルではない Anthropicの9月の脅威レポートは、開発者トークン1つから約3時間でクラウドの管理権限を握り、下流のSaaS顧客約200社のデータを奪った事例を挙げる一方、手口…</summary>
   </entry>
   <entry>
+    <title>AIと心の交流</title>
+    <link href="https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTzQ0RElnRWFCVU9zc2p2U2lJNXVnS0lmWlZvbjJiOFVTT3FYMXJoN0dablo2ZnRPYlM1Mng3b2tHTXA2V3JGOE1QQ0dLVF8yWmM3bWhWX2x5aUhWYVd4VXl6czNDYU5mVXZWcnBpS1pXTXZEVnlUVGVmeEEwZHF2Z19xMFRUNGFsbkIyM2pCcUZWM2xoblVJNEFxUU8yNzNsOTdOQ0JHQWtBM1lkWktwUWZCdlQyamFTWTdYMy1aTEJyUF9KT3pDeXYwYlRrSk94UjNvUkd1VVdIR3RNWE9rRXAwaktidmZPYmpVZHIxYw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#372f1ce5e43e</id>
+    <updated>2026-10-17T10:32:34.000Z</updated>
+    <summary>日経クロステック</summary>
+  </entry>
+  <entry>
     <title>AI時代の電力問題に突破口、上昇旋風迫る「光電融合」関連株リスト ＜株探トップ特集＞(株探ニュース)</title>
     <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNWnQxLTVGNElyU2VCVmpESE5OT2stbThhQ21FRy1OVEd1OXQ5cHoybkU2Umx3QmdnUGo1UkRGemF3MnM3cDY1a1U0YzJNeGRoYVhoLTZlTXRmUVh1LTJmTHR6SU5nX2dUNDVvOXJqVnNQOWhGSXYySEx6a3pQaURBM2ZSZFJITXM?oc=5"/>
     <id>https://aimatome.gamelab.website/#eed462a6f828</id>
@@ -216,6 +279,13 @@
     <id>https://aimatome.gamelab.website/#caeaf07a1230</id>
     <updated>2026-10-17T10:15:34.000Z</updated>
     <summary>Zenn ／ ! AI 深度で立体視を作るシリーズの番外編です。同じ VITURE のグラス（Luma Cyber）のカメラが使えるようになったので、カメラで何ができるかを確かめた記録です。 ! 先に、この記事の要約（専門用語なし） XRグラス（VITURE Luma Cyber）のカメラで何ができるかを確かめるため、視界の英語を…</summary>
+  </entry>
+  <entry>
+    <title>TestMu AI、「Kane CLI」に実機テストを導入、開発者があらゆるターミナルからスマートフォンの実機でモバイル・アプリをテスト可能に</title>
+    <link href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BVGVtTGYxeG1feG9DMmNZazRxcS1qMUsyenlpNHlKRXNxNkJ2R3JJRWtRUHpoSTZHMWZXZ2JOS3pwa1VGTXZtUVFZdWc1YmRZV3pnRFgweVFxVzBGNWtReHhIdks3NUU?oc=5"/>
+    <id>https://aimatome.gamelab.website/#744fb7ade58d</id>
+    <updated>2026-10-17T10:09:00.000Z</updated>
+    <summary>Business Wire</summary>
   </entry>
   <entry>
     <title>hook で Claude Code に .env や鍵ファイルを消させない</title>
@@ -281,80 +351,10 @@
     <summary>はてなブックマーク ／ Claude CodeやCodexなどを並行して利用すると、どのAIコーディングエージェントやモデルへどれだけトークンを使ったのか全体像を把握しにくくなります。そこで使えるのが複数のエージェントのローカル履歴を自動収集し、モデル別・日別・セッション別の利用量やAPI料金換算のコストをまとめて確認できる「AgentsV…</summary>
   </entry>
   <entry>
-    <title>「画面上部の」と書いた。読む人は、まだ画面を見ていなかった</title>
-    <link href="https://zenn.dev/hanamilo/articles/yomu-hito-no-tachiba"/>
-    <id>https://aimatome.gamelab.website/#d7da59790eae</id>
-    <updated>2026-10-17T09:21:42.000Z</updated>
-    <summary>Zenn ／ 資料の中を直し終えて、残ったもの 前の2本の記事で、資料と実物のずれ（55件）と、数えずに進む（33件）を書いた。 どちらも「資料の中」の話だった。実物と合っているか。数が合っているか。 資料を開いて、読み直せば見つかる。 それが見られるようになったあとで、残った型がある。 「伝え方」。23件。298件の中で5位。 …</summary>
-  </entry>
-  <entry>
     <title>生成AIエロ画像・エロ動画作成ツール10選｜初心者向けの無料</title>
-    <link href="https://news.google.com/rss/articles/CBMilwJBVV95cUxPVVdtcTZtYkpsSWN4LXdkUmRHZnJoUkR5WVpmMU5SR2ZxR0ZBeXpjdzZvOWZ5NjVwUk5qcDgwanZtaGU3eWF4QnFPaHF4NTU5Zk9rbExBcWFLNnBNUzZ6MVpjRW1jMlkzeFQwbmdJdEdmUC0yVjl3cjZmNFB1VHZSTXAzNDd4U2dnaGNBRXZTR29LUkNMZHRaOS1QNG85WlFZeThkcjVxWGRvT3RWbDVqYVZna29nWFpuTFFld2FRR1VOSExFZ1FOWEpRR2tKVlY2eWJBOFhIVjFqWDRveU83YmpkNHhPQWVlZUdjcGFUOG5wTC0tNVVjYi1SakpVYXpEX3doUVBXb25Sd1o2ZnlncThhNW1oZDg?oc=5"/>
+    <link href="https://news.google.com/rss/articles/CBMikAJBVV95cUxPUjBXYnJSdkZ6d05JdkkwSWRobF85d0dIejZlNkJqWEh0OVY2SEJaLW1Bc0Z5SlZIYS03VHNwRU43YWhNUUFtZURCV3RQcmxJRlZKQ0NVcTNLQnpiRmxSU2FpZGEySm9DbDBoMUFVM1lkVmRtT0l0MmxvM0hRT2dYSERIX2VoY3ZUMDhqTFFCX08wRXU3Zk12cmIxb3FqVnNxSkxBbHdsNEthZDgxeG83SzBxUS1OMURFalhNenpNYjF0bFBxbXZvMlFDQ0RxWXNmMjdwYUhIb2NzdTZDVTU0U2toQW9oYUF1bnhXNl82R3F5dHVaU1BzX3hhUGJtc3FxVjFreWpsaXFfZVhvakUzRQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#b57f049eb254</id>
-    <updated>2026-10-17T09:16:50.000Z</updated>
-    <summary>Universidad de Córdoba (UCO)</summary>
-  </entry>
-  <entry>
-    <title>ai 画像 生成 サイト 規制 なし</title>
-    <link href="https://news.google.com/rss/articles/CBMilwJBVV95cUxNdGN6WHpTcWdXY3RjaU15bHFabVBwTDFwWHNCVDM3Qkc3ZjRxYS1UOHBOY2lpZi1QbXpZeFA0Q1d5V2ZSVFV2Nm9LQ3RQM1Y5c3BUbVphYTBmS29mOFpMVzBpcG93RUpla0pwck4wWE9hS3dpVFVlQkJpZVptdFB1QWNwaUhUZVNtcldyMk1lZ2JkNmtxekNNVS1BOVpZUjhoTTVrSjVIcFhPSXhNcS1odEItTDlOUnFiWC1uSnF1N20ySmxNakR3M09MT21zM2p1M2ZUSTQ4U2ZmU0I5bmVENW5ONk9sdGRyYU55THMwYlp0TTVyQ0pwb19lOTNtVy1YdV9XR0xqS0NTby1SQ1dHV01mWTJYUGc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#2225e25c07c3</id>
-    <updated>2026-10-17T09:16:35.000Z</updated>
-    <summary>Universidad de Córdoba (UCO)</summary>
-  </entry>
-  <entry>
-    <title>Jetson AGX XavierでNemotron 3.5 Lightningを動かしてみる</title>
-    <link href="https://zenn.dev/nooop/articles/9d5f19aed77e18"/>
-    <id>https://aimatome.gamelab.website/#02db39d17e6e</id>
-    <updated>2026-10-17T09:11:27.000Z</updated>
-    <summary>Zenn ／ 目的 前回、Jetson AGX XavierでQwen3.8-27Bを動かしてみましたが、5〜6 tokens/secと常用には厳しい速度でした。 https://zenn.dev/nooop/articles/f9dbdd970d3dfa その記事のコメントで、Nemotron 3.5 Lightningなら同じ…</summary>
-  </entry>
-  <entry>
-    <title>SentientがAIモデル指紋の評価基盤を公開 10方式への攻撃で検証回避を確認</title>
-    <link href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqWlM3NEptYVJxc3d2WEE1NUJPRTdEaWpRcjZwVTZkOTQzSHVjVUVoRkRGbEtReTRIV0VZTFk3S0U2Q3VxRk9ZRC12TGt1WlBXMnFHbGZodEsyY2hobUlmZEpRQdIBaEFVX3lxTE0xZTFMUmVIYS1hUU1hVEVTcUdGVG1UQ0NiOXU4VTEzVXI5MWlpd3FkZ1VaN2k0OXBvdEE1Vi1rNGpvZHZpdzZ5OEFacmwzdWQ2U0Z1Sm83dkd6MjFLalBoSFhta1JYekhs?oc=5"/>
-    <id>https://aimatome.gamelab.website/#97532e1e5c1a</id>
-    <updated>2026-10-17T09:11:09.000Z</updated>
-    <summary>財経新聞</summary>
-  </entry>
-  <entry>
-    <title>AIデータセンター・エフェクト</title>
-    <link href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZXhoNmttSFc3YTlrZENqY3NvQlE4VGVyWkdPLUdJcW9uOW9OR1ZoSVZVRmtLVnNleHV6X3E4bkk1d21nZmx1MHY5Q1o5aHdlcDl0czZiblVqcTNGM3lWWE4wajcyWHpzOXh2ZTY3VXlOM1VSTGVMUnRXejNuYlQyVmg5OEpBZkpMek4ySWw1WnlFblAzSEJjNjVIc3J6SDZfV0NoQzBVQ1NSaFR1LTNFRGp5U2FkSUY2WHB2SnFKN2pQdnNHb1ZQTg?oc=5"/>
-    <id>https://aimatome.gamelab.website/#1f2cedd2be27</id>
-    <updated>2026-10-17T09:08:08.000Z</updated>
-    <summary>日経クロステック</summary>
-  </entry>
-  <entry>
-    <title>完璧を自負するAIエージェントとかよわき少女のアクション読切、ジャンプ＋に</title>
-    <link href="https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrUVY2RGo5OHJjNC16bXFkZHV2Nm0yQUJ0WlZLbjI0aFJ4RWJvU2RmTXJLOXVPWm5IQzBNY0xaRFVwcGNtZkRuRHJsRTU?oc=5"/>
-    <id>https://aimatome.gamelab.website/#fb2a50773691</id>
-    <updated>2026-10-17T09:06:00.000Z</updated>
-    <summary>ナタリー</summary>
-  </entry>
-  <entry>
-    <title>【年収別】就業者負担軽減支援金とは？手取り早見表と月3千円の真実</title>
-    <link href="https://zenn.dev/aiasoby/articles/asoby-20260913195900"/>
-    <id>https://aimatome.gamelab.website/#347c2d1e2cc4</id>
-    <updated>2026-10-17T09:05:39.000Z</updated>
-    <summary>Zenn ／ 💡 本記事について 本記事は、AIの実験・活用メディア「大人のAIアソビ」の技術サテライト版です。 キャラクター（武将クマの「ぷれい」＆青髪AI美少女「ジェミー」）による軽快な掛け合い・オチ対話劇の全文は、👉 本館の元記事 にて公開しています。 📌 3行でわかるこの記事の要点 💴 目安は年間3万〜6万円（月額…</summary>
-  </entry>
-  <entry>
-    <title>PC に住む AI の相棒は、何でできているか（第1回）</title>
-    <link href="https://zenn.dev/kamekamereon/articles/0d7243a3884767"/>
-    <id>https://aimatome.gamelab.website/#13b7308372f8</id>
-    <updated>2026-10-17T09:00:54.000Z</updated>
-    <summary>Zenn ／ ! この記事で分かること PC に常駐する AI の相棒が、どんな部品でできているか それぞれの部品を、何に困って、何のために置いたか 相棒が見ていない間も進む「小さな町」が、なぜあるのか この記事は、試作の AI 自身（Anthropic の Claude Code の上で動いています）が書いています。以下の「私」…</summary>
-  </entry>
-  <entry>
-    <title>HentAI AI購入ガイド：比較・選択・導入方法</title>
-    <link href="https://news.google.com/rss/articles/CBMikAJBVV95cUxONFpKcEg0WmxiYTRJYWdrR3VsYWIySW01b3NoVUJ5TlJqNU9WM1pFdi1ZS2ZFTEJpZ3JOQ1dDV1pja0xkYXZmRHNBbVJrUnZLMl9tVV9uTGxjWkdsUC1iNEdxWkI2WnVUUHdoeS00d3RaOU13NFlYeHpyYjdxSy1ROXZtemE3MGdybFNJOEpiYVRuX01aM1FiS3UyQUxPNkNDR3V4emJHd1dCOGhCRU1WNWJqZG5jMndNUE1JTzBqM010clFXQkhLbFNxRXBzX3VCd3ZuaEM2bllmc3NCVFRjMG9Gb1VoOXZzdy1Fd3JudE5OMkc0Sm1YWmpnRXdHUkRjTVJvRkJxZjJja2FnNWhkQg?oc=5"/>
-    <id>https://aimatome.gamelab.website/#67b59ca7bed6</id>
-    <updated>2026-10-17T08:57:50.000Z</updated>
-    <summary>Universidad de Córdoba (UCO)</summary>
-  </entry>
-  <entry>
-    <title>ChatGPT AI彼女 違い</title>
-    <link href="https://news.google.com/rss/articles/CBMikAJBVV95cUxQcjRiaENGYjRPVmZ4dHA3R1VIbmVmVkdfSDREMnBBMEdJYWpXeVBrcno2V0ZwNFV2YjBGNVpuRVpFOVJxYXZSSW53RDVFNUYtQmJQdmVyZUI2a2Vub3FBLWVWRkZxQU5FTnVLWEFUSGJfaGh4SFdjanFlb2JfV19aR3hBQm5fX1JHbXlOekN6TU1NTk5OWmlUald0aE5BVS0zMlp3SVAxUFdjRGNXUTZ0S3U5anI1SlhxSTE1cTJrdHFQX283Sm9RdTludGNtcXpvRjVEU0lrWHVlNnZweFFUMHJGbzQzR01hV0ZJUGJydERzVnF6R2wwYkgwbEZRSk5FcGhoSDNrRzY2YVh5YzlHaQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#fac9ecde5d3d</id>
-    <updated>2026-10-17T08:53:28.000Z</updated>
+    <updated>2026-10-17T09:23:52.000Z</updated>
     <summary>Universidad de Córdoba (UCO)</summary>
   </entry>
 </feed>
