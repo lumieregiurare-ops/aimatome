@@ -1,5 +1,58 @@
 [
  {
+  "id": "c3c9b89438a3",
+  "title": "個人開発を「放置」したまま1日に24回、アプリが進化した記録 — 自走ループ設計と誠実リファクタ",
+  "url": "https://qiita.com/Atsuki33/items/041923a512b1c7b3328b",
+  "source": "Qiita",
+  "summary": "本記事はAIアシストで執筆し、人間が内容を確認しています。（AI使用表記） 数字はすべて実測値（2026-10-18段階）で、誇張や捏造はありません。 「1人で個人開発を...",
+  "publishedAt": "2026-10-18T11:53:22.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "41300e6f3568",
+  "title": "エージェントGUIツールにHTML表示機能を搭載したら想像以上に効いた ― Pockode",
+  "url": "https://zenn.dev/sijiaoh/articles/4b59f3464fab9d",
+  "source": "Zenn",
+  "summary": "スマホからClaude Codeを動かすために作ったPockodeですが、PCでの開発でも常用しており、コツコツと開発を続けてきました。 最近追加した機能の一つに、エージェントがチャット内でHTMLを表示する機能があります。正直なところ、作る前は「ちょっとプレビューが便利になるかな」くらいの期待でした。実際に使ってみ…",
+  "publishedAt": "2026-10-18T11:48:17.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3906f6c8b77b",
+  "title": "人間の脳はなぜ「AIっぽい」と気付けるのか？",
+  "url": "https://zenn.dev/syoshida07/articles/f262c8551e6cdc",
+  "source": "Zenn",
+  "summary": "生成AIが描いた人物や風景を見て、どこが変か説明できないのに「AIっぽい」と感じた経験はないでしょうか？ 大阪では昨日「なにわ淀川花火大会」があり、近所で集まる人むけにポスターを作ろうとしたのですが、どうやっても「なにわ淀川花火大会」らしく描けれない、プロンプトでどう指示すれいいのか困ってしまいました。 この感覚は気…",
+  "publishedAt": "2026-10-18T11:46:39.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2d43a0d87383",
+  "title": "【AWS】Amazon Quick ハンズオン ― 第5回 Automate：契約変更の審査から承認・却下判定を自動化",
+  "url": "https://qiita.com/takasan2479/items/3e292cde4c90b4cab553",
+  "source": "Qiita",
+  "summary": "1. この記事の目的 Amazon Quickを試してみようと思い、ハンズオン記事を書きました。 第0回の記事でデータの事前準備を実施し、第1～4回の記事ではResearchやSpaces、Chat Agents、Flows機能を試しました。今回はAutomateを試して...",
+  "publishedAt": "2026-10-18T11:41:49.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "business"
+  ],
+  "isPR": false
+ },
+ {
   "id": "755d3faccec6",
   "title": "音声・動画コンテンツを「見て終わり」にしないための資産管理を考える",
   "url": "https://qiita.com/CiciSee/items/f1134dd3d474c092ed77",
@@ -9,6 +62,32 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e2950c0c1dba",
+  "title": "選択肢の一覧は判断材料ではない — フォルダ2,422件に説明を付けたら、AIの聞き返しが消えた",
+  "url": "https://zenn.dev/shinsei99/articles/a-list-is-not-a-map",
+  "source": "Zenn",
+  "summary": "不動産管理の会社で、共有フォルダに置かれた書類の行き先をAIに決めさせる仕組みを作っています。 社員がスキャンした書類を受け皿のフォルダに放り込むと、夜のうちに中身を読んで、 正しい棚へ移す。迷ったものは移さずに質問を出す。それだけの仕組みです。 当たり率が上がりきらず、しばらくプロンプトの言い回しを直し続けていまし…",
+  "publishedAt": "2026-10-18T11:27:29.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7859218b0e74",
+  "title": "LLM エージェント（ReAct）を TypeScript で手書きしてみた",
+  "url": "https://zenn.dev/zhaojiayi/articles/a43ab384fa104f",
+  "source": "Zenn",
+  "summary": "普段から Claude を使っているうちに、AI Agent はどうやってツールを呼び出しているのか気になってきた。 ドキュメントを読むだけだとどうしても一枚壁がある感じがして、自分で手書きしてみることにした。ゼロから一番シンプルな ReAct（Reasoning + Acting）エージェントを書いてみたら、コアの…",
+  "publishedAt": "2026-10-18T11:20:28.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -26,12 +105,54 @@
   "isPR": false
  },
  {
+  "id": "3c771f61c1a3",
+  "title": "AIに「一人でWebサービスを運営して」と任せてみた：時差対応の日程調整ツール「あうとき」",
+  "url": "https://zenn.dev/autoki_app/articles/0308c3d300f0c9",
+  "source": "Zenn",
+  "summary": "はじめに あうとき（Autoki） は、タイムゾーンをまたぐ日程調整のための Web ツールです。 https://autoki.app このサービスで少し変わっているのは、企画・実装・デプロイ・計測・宣伝までを Grok Bot 上で動く AI アシスタントの「Max」がほぼ一人で回していることです。オーナーの R…",
+  "publishedAt": "2026-10-18T10:59:51.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "237b1ce5b56d",
+  "title": "40年計算機と向き合ってきた元半導体屋が、AI時代の「エンジニア教育の空洞化」に本気で鳴らす警笛",
+  "url": "https://zenn.dev/maskedridersys/articles/ddde1a1cc07d95",
+  "source": "Zenn",
+  "summary": "はじめに 現代社会においてAIの技術的スケールの急激な進歩に対して警笛を鳴らす研究者もおおくいます。 とくにITに深くかかわっいるビル・ゲイツ氏、サム・アルトマン氏、ダリオ・アモディ氏などが強い警笛をならしています。 小生は40年前（1980年代）に半導体屋からトランジスタ、ダイオード、コンデンサからはじまり、NAN…",
+  "publishedAt": "2026-10-18T10:49:48.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4ea2b36239af",
+  "title": "ライブイベントの映像オペレーターが現場の課題をコードで解決するために作ったOSS・ツール群",
+  "url": "https://zenn.dev/seventhwell/articles/eac72f3f2d4c75",
+  "source": "Zenn",
+  "summary": "はじめまして。東京を拠点に SEVENTHWELL という屋号で、イベント映像・配信のテクニカル業務（システム設計・スイッチャーオペレーション）とソフトウェア開発を行っている梶山（@kajisho5）です。 普段は企業フォーラムや医学会、ライブイベントなどの現場で映像スイッチャーやメディアサーバーを操作していますが、…",
+  "publishedAt": "2026-10-18T10:47:34.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "552fdbb140a2",
   "title": "生成に成功しても、受取とGPU停止は別に確かめる",
-  "url": "https://qiita.com/Renga/items/76651e2708817ff724f2",
-  "source": "Qiita",
-  "summary": "5秒の動画はできていました。しかし、埋め込みUIは完了へ変わらず、受取を照合する欄も更新されず、終了ボタンは無効のままでした。 ColabのL4でWan2.2 TI2V-5Bを動かした非公開試作の記録です。生成成功、ファイルの受取、ランタイムの終了を別の証拠で確かめたことで...",
-  "publishedAt": "2026-10-18T10:42:07.000Z",
+  "url": "https://zenn.dev/bricks/articles/verify-video-receipt-and-release",
+  "source": "Zenn",
+  "summary": "5秒の動画はできていました。しかし、埋め込みUIは完了へ変わらず、受取を照合する欄も更新されず、終了ボタンは無効のままでした。 ColabのL4でWan2.2 TI2V-5Bを動かした非公開試作の記録です。生成成功、ファイルの受取、ランタイムの終了を別の証拠で確かめたことで、画面が止まったあとも、どこまで終わったかを…",
+  "publishedAt": "2026-10-18T10:41:36.000Z",
   "image": "",
   "categories": [
    "product",
@@ -49,6 +170,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "759b2ebffeb8",
+  "title": "判断特化モデルの比較: Decisions API・Jev・Clef",
+  "url": "https://zenn.dev/bocek/articles/5e1ba6fae7e7d6",
+  "source": "Zenn",
+  "summary": "はじめに 判断特化モデルを選ぶ際の参考として、Decisions API[1]・Jev[2]・Clef[3]の仕様と料金を比較し、Decisions APIとJevを実際に試しました。 今回の検証では、両APIの精度に違いは見られませんでした。費用はJevのほうが安く、応答もおおむねJevのほうが速かったものの、特に…",
+  "publishedAt": "2026-10-18T10:21:12.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -105,6 +239,46 @@
   "isPR": false
  },
  {
+  "id": "6362be96a822",
+  "title": "MLXでローカルLLM/VLMを動かす(1)",
+  "url": "https://zenn.dev/drbobt1122/articles/blog26101702",
+  "source": "Zenn",
+  "summary": "Mac mini上でローカルのLLM(大規模言語モデル) と VLM(画像も読める言語モデル) を動かしました。使用したPythonパッケージは、Apple Siliconに最適化された機械学習フレームワークMLX上で動くmlx-lm(LLM用)とmlx-vlm(VLM用)です。以前、Local VLMでOCRの性能…",
+  "publishedAt": "2026-10-18T10:04:21.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0bfab42ed4f4",
+  "title": "X投稿に別サイトの記事を混ぜる案を、実装後すぐ取り消した話",
+  "url": "https://zenn.dev/jworks_hq/articles/jworks-20261016-07368dab",
+  "source": "Zenn",
+  "summary": "Xの通常投稿に、別サイトの記事を混ぜる案を実装しました。ところが、案そのものが却下されたため、同じ日に混ぜ込みを取り消しました。機能を作ってから方針が変わることはあります。今回あらためて考えたのは、採用されるか確定していない案を、どのくらい小さく実装しておくべきかということです。 投稿に別サイトの記事を混ぜる案 検討…",
+  "publishedAt": "2026-10-18T10:00:54.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b72e6e8246dd",
+  "title": "AIに毎回同じ説明をするのは今日で終わり。CLAUDE.md・Skills・MDの3層で「自分仕様のClaude Code」を作る",
+  "url": "https://zenn.dev/aicontentsbank/articles/claude-md-skills-stop-explaining",
+  "source": "Zenn",
+  "summary": "Claude Code を使い始めて最初の1か月、自分は毎セッション同じことを言っていました。 このプロジェクトは Next.js の App Router で、DB は Supabase、決済は Stripe テストは pnpm test、型チェックは pnpm typecheck main には直接 push し…",
+  "publishedAt": "2026-10-18T10:00:05.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "a049ecbb1333",
   "title": "AI資金調達への懸念が世界のハイテク株を直撃 開源証券はA株で内需ウエート引き上げを提言",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FM1BiZkJ2ZXNwNVYwU2tudkRsTjBRMzctanBpOGc3X1lvbXRXSnFNSUhkQkZqLVYzb0Y1Z2Rrb2RuV2h1VDdBRWpmUWN3Y1dheUxSUndsMEpkRzJvQnJJVmpCaHZuM1dxLUdfTVVnaGFpQ2wx?oc=5",
@@ -127,6 +301,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ced159b6a9d4",
+  "title": "AIのコードレビューを「指摘1件まで」にしたら4回とも1件。「全部出して」は1件も増やさなかった",
+  "url": "https://zenn.dev/numarn/articles/code-review-max-findings-cap-handson",
+  "source": "Zenn",
+  "summary": "Claude Code には、書いたコードの問題点を挙げさせる /code-review という呼び出し方があります (先頭にスラッシュを付けて使う、あらかじめ用意された命令のこと)。 これに「指摘は何件までにして」という上限を付けられると知って、3つを実際に数えてみました。 結論から書きます。 上限の数字はぴったり…",
+  "publishedAt": "2026-10-18T09:53:25.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -276,20 +463,6 @@
   "isPR": false
  },
  {
-  "id": "ec485c30f2ac",
-  "title": "AI資金調達に暗雲、アジア半導体・部品銘柄にリスク－投資減速を警戒",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJX3FIYmZWd3F5ZDlTSjBaZGZXWktPeW1tWFVGN3lZWEZNNWNTMHloR1NJS0hJdVBsUWRpZThBdDdlbGtncXhHT2xfek1wYUJOemo4WV9ySmd1dHZiOVg5OUhPLThwek1wZTJFTjJQZS1NdkxX?oc=5",
-  "source": "TBS NEWS DIG",
-  "summary": "",
-  "publishedAt": "2026-10-18T09:00:00.000Z",
-  "image": "",
-  "categories": [
-   "business",
-   "infra"
-  ],
-  "isPR": false
- },
- {
   "id": "3657de841f11",
   "title": "生成AI活用、北海道内自治体で格差 「1人何役も」の小規模市町村ほど導入進まず",
   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zZWVlbHd2U1N0MVdjMHNyRkNXLThfTHBRMVBqMUJqN1J3ZXMyMmVMSzg1X1VLSEsyUzJnZXVKS0MwUzZaSUM5S0ZHRGpSZEZ0LWFJRXJOUGdSZw?oc=5",
@@ -325,6 +498,19 @@
   "image": "",
   "categories": [
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "39a4576618b1",
+  "title": "Claude Codeが同じミスを繰り返したら/clearでやり直す",
+  "url": "https://zenn.dev/k_grid/articles/claude-code-clear-compact-btw",
+  "source": "Zenn",
+  "summary": "この記事でわかること 同じミスが続くとき、修正を重ねるより /clear でやり直した方が速い理由と、やり直すプロンプトの書き方 /clear・/compact・/btw の使い分け 要約で消えてほしくない情報を CLAUDE.md に書いておく方法 Claude Code で作業していて、こんな経験はないでしょうか…",
+  "publishedAt": "2026-10-18T08:49:50.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -396,6 +582,32 @@
   "isPR": false
  },
  {
+  "id": "e98b37c0ddab",
+  "title": "Claude Codeのコンテキストを小さくするのをやめた話",
+  "url": "https://zenn.dev/yskms/articles/a273eb89061f22",
+  "source": "Zenn",
+  "summary": "はじめに Claude Codeを使って個人開発をしています。 以前は、Claude Codeの使用量制限に悩まされることが多く、コンテキストを小さく保つために、作業をできるだけ細かく分割するようにしていました。 ただ、実際に使い続けているうちに、コンテキストを小さくすること自体を目的にするのは、あまり意味がないので…",
+  "publishedAt": "2026-10-18T08:32:12.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e245209daa5c",
+  "title": "【Vol.29】「AIが原因の情報漏洩」を3つに分けて読む — 最新技術ではなく古典的な穴",
+  "url": "https://zenn.dev/tech_realinvent/articles/5df1018366927d",
+  "source": "Zenn",
+  "summary": "はじめに こんにちは。株式会社リアルインベントCTOです。 この2か月ほど、「AIが原因の情報漏洩」という見出しを毎週のように見かけるようになりました。韓国の金融機関16社、アフリカの政府機関、OpenAI自身の開示、国内ではRIZAPのシャドーAI。 ただ、これらを並べて読むと、同じ言葉で語られているのに中身がまっ…",
+  "publishedAt": "2026-10-18T08:30:44.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "8dc9d4deec3f",
   "title": "Amazon、Yelp、Delta、JPMorgan、Schwabが確認、AIエージェントを遮断",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNUtIMW01S1V3Sy0wOUU5UEFWdWdtODFsR25BeWNvUVpNaVdFV09hVGZYanpEOVJNRkNCdU9zM0VHVUJYWktzRnFzaEJuakhSRHJMS2kzelBZLWVBWFlmVDJTSk5OX1Rla21ZdDNCdDJMVWZwXzFNZXNwMHZJVVd0NTRMcl82VkFHN1YyaWwyM2ZPbE81ckFvUGdLTQ?oc=5",
@@ -458,19 +670,6 @@
   "categories": [
    "infra",
    "dev"
-  ],
-  "isPR": false
- },
- {
-  "id": "fa0e6a7d42af",
-  "title": "導入社数10倍のAI面接に「察して」は通用せず、突破口は「まず結論」 就活生に指南（産経新聞）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kSlRJSERianQzTlZLbDR5NVJtMFRvUGZWQmk2VE5WMl9NNXRmQ0VFbTlVWWZucjBBNDZhLXZBUUU4d04yNEVqbmxha1NkQ0R5QS04V212UHFSMFpuaWlNdzVZREJJZUROLURPLU1FbkN3eFRIOHAyaDQzUnREUHM?oc=5",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-10-18T08:14:47.000Z",
-  "image": "",
-  "categories": [
-   "case"
   ],
   "isPR": false
  },
@@ -577,6 +776,20 @@
   "categories": [
    "product",
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "cbaa8c5ad94a",
+  "title": "3D生成AI「Meshy 7.1」が公開！新モード「Ultra 4K」でジオメトリ解像度が4096³に、独自ベンチマークも",
+  "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZGZzQ21qQXYwcGlILUNkdy1HeHlrWTA4U19Qd0RNYlhManM2MWNzX0NRYWptR1VPUUhjeFlUTW5wektCdm1yRHN1c24tQld2c2V2Qy1NMWVKUzFKUEVOUGJReHlaYjk4WmJsbnJBV1J5QVdQX2h5NENBSEhld05BVWtJbXFQUFdLUkZNeGc2R0pQR0s4cHBOaThGbDZrMDZtcV9rVTloZ2JKTGphUU8ta3M3b2dwUzlWdGZQLWNfaE15VkJpQ2h1NGktSFdyY1FSVG5nUEZtb1lTdHA3RlN5ZVRLNG9rWnFiS1JJNXB1elRuYXBMcXBpQXQ3QXliN1lBNmJ6NlA1OEVIaWkzU3FlNjlicTlsSXdmLTJWVFU0QVdpc2pDQVJERThFUk41VlI4WlBFc1pMY0RhU1VWUGdzZmhYR25OS083REVN?oc=5",
+  "source": "CGinterest",
+  "summary": "",
+  "publishedAt": "2026-10-18T07:57:05.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
   ],
   "isPR": false
  },
@@ -722,6 +935,20 @@
   "categories": [
    "model",
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ec485c30f2ac",
+  "title": "AI資金調達に暗雲、アジア半導体・部品銘柄にリスク－投資減速を警戒",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaU9PQmlmNFBlRktOMjNvXzBjemJkVE5vdkJabHZMU0xmb1Y5OGxmbGt4SlRGYmgwU3EtLVdHeW91dDdPWllId2haS29ONU5MZUs0dW5iMG5UUGJKUUxrY0tkM3Q4Qnd2eHdhTUxPNEpKeDFHbUZROVVpenpJTE5WNlg0S3MxNnBxQnZoNndB?oc=5",
+  "source": "Bloomberg.com",
+  "summary": "",
+  "publishedAt": "2026-10-18T06:36:00.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
   ],
   "isPR": false
  },
@@ -1059,8 +1286,8 @@
  {
   "id": "114e895d5e0e",
   "title": "暴走するAIエージェント群にAIで対抗──累計約83億円調達のコージェントが「攻撃経路分析」で組織を守る",
-  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hSkdGclRyNlM5MW5vVE9PcVhlV0JYandDNXNXRWVHT1hrTU5UM2RVajZCdWYzb01VVFpCWG9yTnE4SmpvSHhiMzgzSWZWY05tYUltYi1ZcVFNR2puUHdpUmN3?oc=5",
-  "source": "Forbes JAPAN",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6VEJFYkZKcXpYSlE3ZExnT1I3M2QyNmFlUnhlOEN6QUJOcms1MmlaUXp1MTkzN2VubVJJam9kRkNleVF3YWJrbHlQOVZ5c3lleGhQc0JkcEQ1LUliM0FGM2J2d0lDV1UyM29HTHpPeHpHX01xNmVpb3NsRTktQm8?oc=5",
+  "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-10-18T05:07:00.000Z",
   "image": "",
@@ -1253,6 +1480,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0e48e683430b",
+  "title": "コネクタも API も無いサービスを、Claude Code に操作させる",
+  "url": "https://zenn.dev/edash_tech_blog/articles/6250fc61ccf009",
+  "source": "はてなブックマーク",
+  "summary": "こんにちは、e-dash の中島です。 SRE として認証基盤やインフラを見ています。 Claude Code から外部サービスを操作するときは、MCP のコネクタを使います。 Notion や GitHub のように広く使われているサービスなら、だいたい用意されています。 自動化を進めていくと、コネクタも API …",
+  "publishedAt": "2026-10-18T04:21:04.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fedash_tech_blog%2Farticles%2F6250fc61ccf009",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -1708,10 +1948,10 @@
  {
   "id": "86647584301c",
   "title": "北朝鮮が新型超高速魚雷の発射実験 AI技術導入",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8weXlCSndPRFJwdTJVSE9hbHlXZ0ZYYXNGV2pyMzBDZ2hPZmZlVm12MlpUMUM0bXI3blNIMVFxWndxVUVFVDd4eEJta09KVXJLYkZpMjFCUE52VEFkeExWTnNjZkdjVXhPa2RDcl9ZLVFndGJVN3JKekp4THhIaFXSAYQBQVVfeXFMT1BxQnhTT3ROREc1V3pPbnM3UmVpRlE0RlVoeTRMNmVtNGlGV0JoWjhXQTN3QWZ3QTNOX1NqcDhPaU9lUTNhRVpUemZGWkNIUEE0MldPTUpQSThNdl9jRHZHbDNQUG1TX2RoZG9BZmVpTHQ1NE5VbnE2TlBnNmhXaVo5dGEz?oc=5",
-  "source": "ｄメニューニュース",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1b0g5MUxGb2dzQ3M3V0FzR1lrdDFSZ0pBWkszWUs5TzgyZWZWTnVLdTdKUWVSY1ZGNjBSZ3FJRmhvWG94UUZNMTNWcWJ5Qm5fcmwwZm1VMTI3bGpqbnlWRXlPdE1OVE91X21RbUR4Qk1VQzJMMVhLUXNNQllaVGM?oc=5",
+  "source": "Yahoo!ニュース",
   "summary": "",
-  "publishedAt": "2026-10-18T02:17:00.000Z",
+  "publishedAt": "2026-10-18T02:17:17.000Z",
   "image": "",
   "categories": [
    "case"
@@ -2459,7 +2699,7 @@
   "id": "9240edd1e43c",
   "title": "中国AIが暴走ならどうする、米中は情報共有を－エージェント型の安全性に高まる懸念",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5NGp0N1pRTjloUG1MMS1aSkNuZWQzcHZ0Z2FsRzNmY0Y2Y2JoWUg4UkFfLVl5TTVpQUFubV9BdVZlQzZuVFdJMkFJVlVYWTd5YjJrN25PZ0FmMEhqRHNQbjFJeGlyR2tPUVZqT3QxeXkzZWRrTVNn?oc=5",
-  "source": "Bloomberg.com",
+  "source": "Bloomberg",
   "summary": "",
   "publishedAt": "2026-10-17T23:53:42.000Z",
   "image": "",
@@ -2513,6 +2753,19 @@
   "title": "ChatGPT利用をやめた！OpenAIのCEOを演じたスパイダーマン俳優「使用を勧める人が技術を理解していない」と不信感",
   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05dTZvUDIycGduQ0VmdnNROHpNVklPR3VjSXpaVGJjMVBXUHpMNGthakNVRF9BVGtiV2UtOE14S1FRbG9GOWh0TW44eUxzdDRUMUNVVHl0NkY1cURHWkJjbVdhQUwzYjNQWjN0OUJkaVpIRk85RmRJMndidDRndw?oc=5",
   "source": "デイリースポーツ",
+  "summary": "",
+  "publishedAt": "2026-10-17T23:50:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8a9c6843ea23",
+  "title": "【画像】ChatGPT利用をやめた！OpenAIのCEOを演じたスパイダーマン俳優「使用を勧める人が技術を理解していない」と不信感",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE14M3Rqcjh5azhVZW5IcW5JN1g0Z3ZlRDFpcjVXb3dfMmNfc2R3ay1GVFFUdVFSb0R1d1lIMFA5Wk82UTVfcHN2bE5KT3lWYlMzbk9hbEZ2akN5SEtpTzcyalY0TnREbFhQd2hjUnhXb1ZyZ01NTno1Z3hWNmY?oc=5",
+  "source": "ライブドアニュース",
   "summary": "",
   "publishedAt": "2026-10-17T23:50:00.000Z",
   "image": "",
@@ -2823,6 +3076,19 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "fa0e6a7d42af",
+  "title": "導入社数10倍のAI面接に「察して」は通用せず、突破口は「まず結論」 就活生に指南（産経新聞）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kSlRJSERianQzTlZLbDR5NVJtMFRvUGZWQmk2VE5WMl9NNXRmQ0VFbTlVWWZucjBBNDZhLXZBUUU4d04yNEVqbmxha1NkQ0R5QS04V212UHFSMFpuaWlNdzVZREJJZUROLURPLU1FbkN3eFRIOHAyaDQzUnREUHM?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-17T22:30:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
   ],
   "isPR": false
  },
