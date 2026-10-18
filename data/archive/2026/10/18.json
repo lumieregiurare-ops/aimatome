@@ -40,6 +40,32 @@
   "isPR": false
  },
  {
+  "id": "79a22d260acf",
+  "title": "JevとClefはなぜ生まれたのか ソフトウェアに組み込む判断モデルの設計",
+  "url": "https://zenn.dev/kimkiyong/articles/a469680b9bd39a",
+  "source": "Zenn",
+  "summary": "LLMで問い合わせを分類し、担当チームを決め、次の処理へ進む。こうした自動化を作ると、「必要なのは短い判断なのに、毎回文章生成を呼び出している」と気づくことがある。 TypeSafeのJevとCloudflareのClefは、この種類の仕事を主な対象とするモデルだ。状態と質問を渡し、コードで扱える値と確率を受け取る。…",
+  "publishedAt": "2026-10-18T14:42:08.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dd83a165a479",
+  "title": "ルールを増やしても重くならない、CLAUDE.md・skill・perspectives に分ける 3 層構成の提案",
+  "url": "https://zenn.dev/ngermany/articles/perspectives-society-of-mind",
+  "source": "Zenn",
+  "summary": "AI にコードを書かせるとき、守ってほしいことを CLAUDE.md に書いていく。 最初は 50 行で済んでいた。守ってほしいことが増えるたびに足していったら、500 行を超えた。 しかもその 500 行は、SQL を流すときも、ブログを書くときも、毎回まるごと読まれている。 この記事は、それをどう分け直したかとい…",
+  "publishedAt": "2026-10-18T14:40:30.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "be670e6278bd",
   "title": "【特派員リポート】擬人化AI、「顔」にだまされるな",
   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQODlQQXZsa3hCeWlsSHVnampaSFJ6VExRdnd5UUZZaW9iTkFLYzBtcmpuZlZWUTRlX2c0aUNlWDBYYXBLSnlMSjZia0J0eVJFaEZxTnJaWWNodFd5cHJGMFNoX280MC1vWU9IN3V6Rk1yWUxfOFZHOHFtQm5xdWNMLQ?oc=5",
@@ -49,6 +75,32 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9013137106f2",
+  "title": "Web Sustainability Guidelinesを読む会 #8",
+  "url": "https://zenn.dev/wsgj/articles/4152bdf48b2f72",
+  "source": "Zenn",
+  "summary": "W3CのWeb Sustainability Guidelines (WSG) を読み進める会の第8回レポートです。 この会については、ZennのPublicationのページをご覧ください。 https://zenn.dev/p/wsgj Web Sustainability Guidelinesについては別の記事…",
+  "publishedAt": "2026-10-18T14:30:06.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "60935a282fa9",
+  "title": "Pushover の歴史を調べたら、1人で始めて14年続く通知サービスだった",
+  "url": "https://zenn.dev/mediiiiium/articles/pushover-history-14-years",
+  "source": "Zenn",
+  "summary": "自分用のエージェント tony の通知を、Slack から Pushover に移しました。個人の Slack はあまり見ません。スマホの待受を見る回数のほうが多いです。通知は1か所に集めて、一番見る場所に置くことにしました。 仕組みの構成と実装は、別の記事に書きました。 https://zenn.dev/medii…",
+  "publishedAt": "2026-10-18T14:24:55.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -94,13 +146,26 @@
  {
   "id": "4e660fe201ab",
   "title": "GeelyがGoogleのGeminiを2027年から車載へ、最初の搭載車は未発表",
-  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN0M3VVRXcm1pdFp5S1dJdWRWbGtpTzJMaDgtVGFFR3J0SFVPSUFpM2dpLXBBUXJXbXlkXzBzNUtYT0ZscDd3VlRhbjVkNmZkZmhZaWcwWVZpOEs3aERod0xLbWVuTHFFR3pvUHFqSDdiMVlMQk1ndzhLSVN4UFhIRHFQbFVzREk0NU1ndXhqaXFacUJ2Uk5YY2d5a0lJOWFTWFRuSGxmOTRzd3ZfVTRWYVpJN21sWjMwZFk00gG_AUFVX3lxTE93RGhHRWpualR6S0hrdUxCNU9OLUpheGpTQlR1YnFJUS1aVkNQRDYtNllRVllsTWwyWmlkM0Y1WUdCZVl1VGRtdTBlQno3SEJ3Y1ppSk9JLVh6TXA0UTJfUi1yQUJZcTA1bmVrTm9vMGdXNjRuSjd1eVJUZ29oZzNoU2hWc1h6dVhWVVh5UEVMckdoLWtVeHVEV281NEV5c0hERjU5RnVJdTdQNlltWXBCVm5GUFExMlZ6NExBcE9v?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0RoR0VqbmpUektIa3VMQjVPTi1KYXhqU0JUdWJxSVEtWlZDUEQ2LTZZUVZZbE1sMlppZDNGNVlHQmVZdVRkbXUwZUJ6N0hCd2NaaUpPSS1Yek1wNFEyX1ItckFCWXEwNW5la05vbzBnVzY0bko3dXlSVGdvaGczaFNoVnNYenVYVlVYeVBFTHJHaC1rVXh1RFdvNTRFeXNIREY1OUZ1SXU3UDZZbVlwQlZuRlBRMTJWejRMQXBPb9IBvwFBVV95cUxPd0RoR0VqbmpUektIa3VMQjVPTi1KYXhqU0JUdWJxSVEtWlZDUEQ2LTZZUVZZbE1sMlppZDNGNVlHQmVZdVRkbXUwZUJ6N0hCd2NaaUpPSS1Yek1wNFEyX1ItckFCWXEwNW5la05vbzBnVzY0bko3dXlSVGdvaGczaFNoVnNYenVYVlVYeVBFTHJHaC1rVXh1RFdvNTRFeXNIREY1OUZ1SXU3UDZZbVlwQlZuRlBRMTJWejRMQXBPbw?oc=5",
   "source": "SpeedMe.ru",
   "summary": "",
   "publishedAt": "2026-10-18T14:00:05.000Z",
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ce91b3dd445b",
+  "title": "ハーネスを盛りすぎるとAIが迷うのはなぜか:削るのは指示、強制は残す",
+  "url": "https://zenn.dev/z_maruhira/articles/harness-too-much",
+  "source": "Zenn",
+  "summary": "「ハーネスをやりすぎるとモデルが本来の力を出せなくなるので、ハーネスはやめた」という話を見かけて、少し不安になりました。自分もCLAUDE.mdやルールやスキルをかなり足してきたからです。 調べてみると、盛りすぎると逆効果だという報告はいくつもありました。ただ、ハーネスを全部やめればいいという話でもなさそうです。 盛…",
+  "publishedAt": "2026-10-18T13:57:04.000Z",
+  "image": "",
+  "categories": [
+   "case"
   ],
   "isPR": false
  },
@@ -114,6 +179,33 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2ad1076744fa",
+  "title": "AIキャラクターの初回体験で選択肢を減らす設計メモ",
+  "url": "https://zenn.dev/pogee/articles/0f2edba1b593bc",
+  "source": "Zenn",
+  "summary": "Pogeeの編集企画として、生成AIを用いて作成した設計考察です。公開ガイドを2026年10月16日に確認し、同日に撮影した日本語版の公開キャラクター一覧を参照しています。状態、文言、受け入れ条件は独立した仮想例です。Pogeeの内部実装や実際のユーザーテスト結果は使っていません。 AIキャラクターを見つけてから最初…",
+  "publishedAt": "2026-10-18T13:47:46.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3be22b518591",
+  "title": "AIエージェント専用の検索エンジンxerjを自分のリポジトリに対して動かしてみた",
+  "url": "https://zenn.dev/matsushima_a/articles/day-019-xerj-search-engine-for-agents",
+  "source": "Zenn",
+  "summary": "これは何か xerj(xerj-org/xerj)は、コード・ドキュメント・ログ・PDF等のフォルダをまるごとインデックス化し、AIエージェントがファイル全体を読み込まずに該当箇所だけを取り出せるようにする、Rust製のローカル検索エンジンだ(Apache-2.0)。Elasticsearch 8.x互換のREST …",
+  "publishedAt": "2026-10-18T13:40:14.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -144,12 +236,52 @@
   "isPR": true
  },
  {
+  "id": "b1bc39f548a8",
+  "title": "【KaniVolcanoEngine】LLMに自作ゲームエンジンでゲームを作らせる",
+  "url": "https://zenn.dev/otinpan/articles/a2215fcf315987",
+  "source": "Zenn",
+  "summary": "参考文献 ゲームエンジンアーキテクチャ第3版 Vulkan Tutorial (Rust) Khronos Vulkan Tutorial はじめに まずはじめに、間違ってることを書いてたらすみません。LLMに、自作ゲームエンジン「KaniVolcanoEngine」を使ってシューティングゲームを作ってもらったことに…",
+  "publishedAt": "2026-10-18T13:25:22.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "aceb72f9464c",
   "title": "GoogleのAIによる概要を非表示にする方法、ウェブフィルタとudm=14",
   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZlltRTIwbmh2OGk3T2daYzJfRG9EVVF4SmNuRGhCYkI0ZEs0Y0RLTkNJVG1jUERUNlZxdmt6STN5bGZ3a2MtYzRwNW1RNnhUb0FuZlhxdVA3NEhpMFlVUFNnWmxEbWRVeG1YX0N6aHBBQWFHQl9ZdzFDQlF1MHQ2NHJVZVdEczRaM3QwUw?oc=5",
   "source": "Pasquale Pillitteri",
   "summary": "",
   "publishedAt": "2026-10-18T13:21:53.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a5cd8760fa2e",
+  "title": "IAPを既存セッションから使う：手動CLIとフック導入を分ける",
+  "url": "https://zenn.dev/partial_stds/articles/68e1fb9a15e2f1",
+  "source": "Zenn",
+  "summary": "IAP（Interaction Accommodation Protocol）は、目的・完成条件・実成果を対応づけ、AIや周囲が仕事へ戻る支援をしやすくするために開発している仕組みです。今回はIAP自身の導入文書を直す仕事に、既存のCodexセッションからCLIを明示的に呼ぶ方法を使いました。 READMEではフック…",
+  "publishedAt": "2026-10-18T13:18:25.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d8e762755688",
+  "title": "スカートは、膝下丈で壊れる③ 歩けないでいい。縄だもん",
+  "url": "https://zenn.dev/n416s/articles/skirt-cloth-3-nawa",
+  "source": "Zenn",
+  "summary": "! VRM の人物のスカートを、揺れ物（SpringBone）から外して、自分で作った記録です。全 3 回の ③（ほかの回：①、②）。 地の文は著者が書き、言い切ります。AI（手を動かした側。Claude）が、囲みと絵の帯で、横から突っ込みます。AI は、確かめた事しか言いません。 同じ物を AI に作らせるための仕…",
+  "publishedAt": "2026-10-18T13:14:23.000Z",
   "image": "",
   "categories": [
    "other"
@@ -233,6 +365,33 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5ec1f2e5868e",
+  "title": "なぜ既存のChromeにタスク用Workspaceを作るのか",
+  "url": "https://zenn.dev/beatapi/articles/37fda1795918b7",
+  "source": "Zenn",
+  "summary": "ブラウザー操作ツールはすでにいくつもあります。新しく作る理由を考えるとき、どんな操作コマンドを増やすかより先に、どの作業環境を残したいのかを決める必要がありました。 私はCodex、Claude Code、Cursorを使い分け、ときにはクラウド上のエージェントも利用します。残したいのは普段のChromeとそのログイ…",
+  "publishedAt": "2026-10-18T12:33:44.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2cd8353e1b88",
+  "title": "Claude Haiku 4.5 → 5.5 で答えはどう変わる？同じ100問を11日間聞き比べた",
+  "url": "https://zenn.dev/aimodelrecord/articles/claude-haiku-45-to-55",
+  "source": "Zenn",
+  "summary": "Claude Haiku 4.5 は、10月29日に Claude アプリのモデル選択から外れ、Haiku 5.5 に置き換わります。API ではまだ使えますが、廃止予定日は「早くても2026年10月15日」とされていて、その日はすでに過ぎています。つまり、いつ廃止が告知されてもおかしくない状況です。 公式の移行ガイ…",
+  "publishedAt": "2026-10-18T12:29:36.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -1410,6 +1569,19 @@
   "isPR": false
  },
  {
+  "id": "cf8c252db2fa",
+  "title": "世界のAI投資が加速：",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5SWVkc2Y1NE9DenF5dVFneG5kamQ4ZXczNzJNVnpSRThUMkdDWC0tdWJOT1hGOWRHeXNuM2pfQnJLcmlFb2NHbjdwQTM2U25pZjQyQTRCR0VwRGFVRWlIQzN4MA?oc=5",
+  "source": "Vietnam.vn",
+  "summary": "",
+  "publishedAt": "2026-10-18T07:48:57.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
   "id": "5dd9bc492331",
   "title": "Copilot StudioでAIエージェント作成、最初の一歩",
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DYWNLTXJoLUVCaklXMWUzaG8yYXotZ2pRNkZvYVhDYWgtVFVHSXQ5OC1IS2cyajFQekdfazFTVS0xRUNRblNEVHZXaGtHdWxZd2ViRS1oN3RoaVRRWHpJ?oc=5",
@@ -2104,7 +2276,7 @@
  {
   "id": "a06658256e42",
   "title": "コアウィーブ苦境、AI企業の資金調達阻む恐れ－ジャンク債市場に波及",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ3pFaUZGR3pUOV9nZU84T3QzcXY5OThObU5UNEFURHdhS0w2NUtsRU1oYnNEeVhpR0NlSFNrNDF6eFV4UU1WTWZsRnd1WWVFMTI5cDkyS3JGWWh3VkZnbmtqa1p1S0ttUVRTclVlRnA5RHRyU3hNZklITEl6YlphZmVHYjNnYUlpX0lpMTd3?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oWFNRSVl5bjY3U1pxZEYtZmVFaF84aTN5SHZpNTE5c29lcUpmUGRhdklQT3FUak9scnJzbUZPMkVxWC1UR215bkFKeFBOMmN0RldXQVJZNTJNNnFHakpJaGNQclNtbndqejdhUzE1VGNxZ1NidmI0?oc=5",
   "source": "Bloomberg.com",
   "summary": "",
   "publishedAt": "2026-10-18T04:25:00.000Z",
@@ -2364,6 +2536,19 @@
   "isPR": false
  },
  {
+  "id": "63fe254a99f5",
+  "title": "Geelyは2027年から車にGoogle Gemini、Maps、Playを提供",
+  "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5VX2poRC1DUV9TUndTdURtVWJyanFKQXB2dy1Kb1MzTkx2dGxBX193UTlQRmZ5dF94cWN2UThoYk5xd9IBQkFVX3lxTE5VX2poRC1DUV9TUndTdURtVWJyanFKQXB2dy1Kb1MzTkx2dGxBX193UTlQRmZ5dF94cWN2UThoYk5xdw?oc=5",
+  "source": "VOI.ID",
+  "summary": "",
+  "publishedAt": "2026-10-18T02:55:36.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "dcf5339656f5",
   "title": "オントロジーとは？意味・ナレッジグラフとの違い・LLMでの効果",
   "url": "https://fd-x.co.jp/insights/41-what-is-ontology",
@@ -2374,19 +2559,6 @@
   "categories": [
    "model",
    "case"
-  ],
-  "isPR": false
- },
- {
-  "id": "63fe254a99f5",
-  "title": "Geelyは2027年から車にGoogle Gemini、Maps、Playを提供",
-  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9OeWpsTFhaNUExRHFoWmdkTU8xc0RiNHpKNWRpaktYdlJ0UmpheHJrbHAtNDdUVkVvZFlsLUoxc205S1VR0gFCQVVfeXFMTlVfamhELUNRX1NSd1N1RG1VYnJqcUpBcHZ3LUpvUzNOTHZ0bEFfX3dROVBGZnl0X3hxY3ZROGhiTnF3?oc=5",
-  "source": "VOI.ID",
-  "summary": "",
-  "publishedAt": "2026-10-18T02:55:14.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
@@ -3460,10 +3632,10 @@
  {
   "id": "66d18d8e0474",
   "title": "ChatGPT利用をやめた！OpenAIのCEOを演じたスパイダーマン俳優「使用を勧める人が技術を理解していない」と不信感",
-  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05dTZvUDIycGduQ0VmdnNROHpNVklPR3VjSXpaVGJjMVBXUHpMNGthakNVRF9BVGtiV2UtOE14S1FRbG9GOWh0TW44eUxzdDRUMUNVVHl0NkY1cURHWkJjbVdhQUwzYjNQWjN0OUJkaVpIRk85RmRJMndidDRndw?oc=5",
-  "source": "デイリースポーツ",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2SUdtbDJIbTB5ZVktOGdPUXFoeEZvMWxVcEpCVTJ0cUVueVJzZXRIN3otTUZwekwyWWpVWU8wb09xbTM5S0djNlk2QVZ3TWp2dmF0SUl6LU5yUEp1ek8zLUFBU0pRQVhNLXFZTlVmS1RVcXd3R2pneGxETURtV2s?oc=5",
+  "source": "Yahoo!ニュース",
   "summary": "",
-  "publishedAt": "2026-10-17T23:50:00.000Z",
+  "publishedAt": "2026-10-17T23:50:02.000Z",
   "image": "",
   "categories": [
    "other"
