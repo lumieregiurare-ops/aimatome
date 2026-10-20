@@ -1,5 +1,57 @@
 [
  {
+  "id": "634d98873681",
+  "title": "書き出した音源を渡す前に、サンプルレート・ピーク・ラウドネスを別々に測る",
+  "url": "https://qiita.com/creatunealex/items/2b53fa831aeb5c87b937",
+  "source": "Qiita",
+  "summary": "AIで作った音源を他の人に渡すとき、いちばん揉めるのは音質の好みではなく「数値の前提が違う」ことです。同じファイルを聴いているのに話が噛み合わないとき、たいてい次の3つが混ざっています。 1. サンプルレートは「変換したか」だけを見る 44.1kHzで作ったものを48kH...",
+  "publishedAt": "2026-10-20T16:46:48.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c407da58f17b",
+  "title": "AIは曖昧な「不適切表現」を検出してライブ配信ポロリを防げるのか？ Jev・SAMで検証してみた",
+  "url": "https://qiita.com/amanoese/items/67e5831a34e64bf7bae4",
+  "source": "Qiita",
+  "summary": "概要 生成したフィギュア動画で、Jev・SAM・SAM Agentによる検出とモザイク処理を比較しました。 「SNSに不適切なところ」という曖昧な指示と、露出部位を具体的に指定した場合の結果を紹介します。 まずはモザイク動画と結果 左上が元映像、右上がSAM、左下がSA...",
+  "publishedAt": "2026-10-20T16:42:31.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "41c58a93ff1d",
+  "title": "WordPressで12言語のAIメディアを作る：AI Syncsの非同期処理とキャッシュ設計",
+  "url": "https://qiita.com/yukimh/items/3a0bed25c90da64b9a92",
+  "source": "Qiita",
+  "summary": "AIを使ったメディアを作るとき、記事生成APIの呼び出しだけでは解決しない問題があります。生成中に管理画面を閉じたらどうするか、翻訳中に原文が変わったらどうするか、公開した記事とキャッシュの内容をどう揃えるか。運用を続けるには、こうした処理のつなぎ方が必要になります。 私が...",
+  "publishedAt": "2026-10-20T16:37:42.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1277c6983243",
+  "title": "【教育訓練給付金対象】BBT大学「実践型生成AI活用キャンプ」第9期カリキュラムを刷新",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZV3FndzhwcFRQUVdVanM0VjZLM0pjeW1FZEZGS2VzbkEtNGNSRnFkcVRNNVQyLUtFV0lzaUt0N3piZ1JvMlAtcWlXWjlPb2NQVnZVWmtSYUV6XzI0cVBwUjl6UmtvbjlnU1RsblVMOGl0M01sNDM0dnMyVQ?oc=5",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-10-20T16:30:55.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b1b670e32f41",
   "title": "サイバー攻撃の影に中国系のAIエージェント「ARTEX」。止まらない情報漏えいの被害は警察や国の事業でも【news23】",
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mWFJwSnRmY0pGM2IxaUhCd2RQRjN3N21sbWlTRXNFa1Q3R29FSzVqTGI3NVZWT0lSRE1zZWxCd3QyS3ZJRnNfYjExVVJQQ2JOWlNURUlwMA?oc=5",
@@ -22,6 +74,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2dc80bf1a929",
+  "title": "Knexus、Google Cloudの政府サービス向けGeminiによりエンタープライズAI変革を加速",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWRTWWZjVmZ5Nkl2aERTNnRnZ21rNU1hSkRwM2dxODFKWUpidktfSkF0bjVfNWktbFA2TndZc08wTGNnaWlvU0s2RDJQb3p5cDJFZXlmcU44aGotakQyLTkwbzVMdkFIS01OMkdqdDc1ekxFa21QUF9RSmt4QXZ3LWFwaHFUeDFPVUtMUVVQUTBQOXZzX29qbzh1eUxDZ3g4ekI1bUFHS3lqaV9DX1hFX01oaXhHRFJhd3c5NGRn?oc=5",
+  "source": "Moomoo",
+  "summary": "",
+  "publishedAt": "2026-10-20T15:54:00.000Z",
+  "image": "",
+  "categories": [
+   "policy"
   ],
   "isPR": false
  },

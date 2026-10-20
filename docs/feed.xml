@@ -5,8 +5,36 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-20T16:30:22.793Z</updated>
+  <updated>2026-10-20T17:00:19.456Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>書き出した音源を渡す前に、サンプルレート・ピーク・ラウドネスを別々に測る</title>
+    <link href="https://qiita.com/creatunealex/items/2b53fa831aeb5c87b937"/>
+    <id>https://aimatome.gamelab.website/#634d98873681</id>
+    <updated>2026-10-20T16:46:48.000Z</updated>
+    <summary>Qiita ／ AIで作った音源を他の人に渡すとき、いちばん揉めるのは音質の好みではなく「数値の前提が違う」ことです。同じファイルを聴いているのに話が噛み合わないとき、たいてい次の3つが混ざっています。 1. サンプルレートは「変換したか」だけを見る 44.1kHzで作ったものを48kH...</summary>
+  </entry>
+  <entry>
+    <title>AIは曖昧な「不適切表現」を検出してライブ配信ポロリを防げるのか？ Jev・SAMで検証してみた</title>
+    <link href="https://qiita.com/amanoese/items/67e5831a34e64bf7bae4"/>
+    <id>https://aimatome.gamelab.website/#c407da58f17b</id>
+    <updated>2026-10-20T16:42:31.000Z</updated>
+    <summary>Qiita ／ 概要 生成したフィギュア動画で、Jev・SAM・SAM Agentによる検出とモザイク処理を比較しました。 「SNSに不適切なところ」という曖昧な指示と、露出部位を具体的に指定した場合の結果を紹介します。 まずはモザイク動画と結果 左上が元映像、右上がSAM、左下がSA...</summary>
+  </entry>
+  <entry>
+    <title>WordPressで12言語のAIメディアを作る：AI Syncsの非同期処理とキャッシュ設計</title>
+    <link href="https://qiita.com/yukimh/items/3a0bed25c90da64b9a92"/>
+    <id>https://aimatome.gamelab.website/#41c58a93ff1d</id>
+    <updated>2026-10-20T16:37:42.000Z</updated>
+    <summary>Qiita ／ AIを使ったメディアを作るとき、記事生成APIの呼び出しだけでは解決しない問題があります。生成中に管理画面を閉じたらどうするか、翻訳中に原文が変わったらどうするか、公開した記事とキャッシュの内容をどう揃えるか。運用を続けるには、こうした処理のつなぎ方が必要になります。 私が...</summary>
+  </entry>
+  <entry>
+    <title>【教育訓練給付金対象】BBT大学「実践型生成AI活用キャンプ」第9期カリキュラムを刷新</title>
+    <link href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZV3FndzhwcFRQUVdVanM0VjZLM0pjeW1FZEZGS2VzbkEtNGNSRnFkcVRNNVQyLUtFV0lzaUt0N3piZ1JvMlAtcWlXWjlPb2NQVnZVWmtSYUV6XzI0cVBwUjl6UmtvbjlnU1RsblVMOGl0M01sNDM0dnMyVQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#1277c6983243</id>
+    <updated>2026-10-20T16:30:55.000Z</updated>
+    <summary>ニコニコニュース</summary>
+  </entry>
   <entry>
     <title>サイバー攻撃の影に中国系のAIエージェント「ARTEX」。止まらない情報漏えいの被害は警察や国の事業でも【news23】</title>
     <link href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mWFJwSnRmY0pGM2IxaUhCd2RQRjN3N21sbWlTRXNFa1Q3R29FSzVqTGI3NVZWT0lSRE1zZWxCd3QyS3ZJRnNfYjExVVJQQ2JOWlNURUlwMA?oc=5"/>
@@ -22,25 +50,11 @@
     <summary>Qiita ／ 概要 参照動画（リファレンス）で「動き」を、写真で「誰・何が映るか」を指定して動画を生成するワークフローをまとめます。テキストのプロンプトだけでは伝えにくいダンスやジェスチャー、カメラワークを再現したいときに向いています。 2つの使い方 モーショントランスファー: ...</summary>
   </entry>
   <entry>
-    <title>2026年10月20日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-    <link href="https://qiita.com/ennagara128/items/19da01cfd8b63abfd018"/>
-    <id>https://aimatome.gamelab.website/#a4d3c6bfe1a0</id>
-    <updated>2026-10-20T15:39:24.000Z</updated>
-    <summary>Qiita ／ 前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 CVE-2026-99999（PwnEscap...</summary>
-  </entry>
-  <entry>
-    <title>「自作ツール」はAI Nativeの必要条件になる</title>
-    <link href="https://qiita.com/nekoya404/items/2aac09096f97f141bea6"/>
-    <id>https://aimatome.gamelab.website/#06c3b744c96f</id>
-    <updated>2026-10-20T15:36:41.000Z</updated>
-    <summary>Qiita ／ こんな経験、ありませんか？ Claude CodeやCodexを全社に入れて少し楽にはなったけど、ワークフロー自体は昔とあまり変わらない。 Notion・JIRA・SlackでいろんなAIを使っているのに、AIの効果をいまいち実感できない。 世の中の「AI Native...</summary>
-  </entry>
-  <entry>
-    <title>AIスクレイパーとは？構築済み・プロンプト型の選び方と、抽出結果を検証する手順</title>
-    <link href="https://qiita.com/cynthia-brightdata/items/7323908fd88cfc47de73"/>
-    <id>https://aimatome.gamelab.website/#cd79686f093a</id>
-    <updated>2026-10-20T15:35:29.000Z</updated>
-    <summary>Qiita ／ AIスクレイパーとは、AIがWebページの内容を解析し、商品名や価格などの項目を自動で抽出してCSVやJSON形式で出力するツールです。始め方は以下の3ステップです。 対象サイトに構築済みの...</summary>
+    <title>Knexus、Google Cloudの政府サービス向けGeminiによりエンタープライズAI変革を加速</title>
+    <link href="https://news.google.com/rss/articles/CBMivgFBVV95cUxPYWRTWWZjVmZ5Nkl2aERTNnRnZ21rNU1hSkRwM2dxODFKWUpidktfSkF0bjVfNWktbFA2TndZc08wTGNnaWlvU0s2RDJQb3p5cDJFZXlmcU44aGotakQyLTkwbzVMdkFIS01OMkdqdDc1ekxFa21QUF9RSmt4QXZ3LWFwaHFUeDFPVUtMUVVQUTBQOXZzX29qbzh1eUxDZ3g4ekI1bUFHS3lqaV9DX1hFX01oaXhHRFJhd3c5NGRn?oc=5"/>
+    <id>https://aimatome.gamelab.website/#2dc80bf1a929</id>
+    <updated>2026-10-20T15:54:00.000Z</updated>
+    <summary>Moomoo</summary>
   </entry>
   <entry>
     <title>「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など</title>
@@ -57,11 +71,11 @@
     <summary>日本経済新聞</summary>
   </entry>
   <entry>
-    <title>Claude Code のセッション同士でメッセージを送り合うなどスラッシュコマンドに無い機能6つ</title>
-    <link href="https://zenn.dev/yohakucode/articles/claude-code-features-without-slash"/>
-    <id>https://aimatome.gamelab.website/#3e159bca42ea</id>
-    <updated>2026-10-20T14:45:04.000Z</updated>
-    <summary>Zenn ／ Claude Code では、/ を打つと使えるコマンドが一覧で出ます。ところが、この一覧に出てこないのに、言葉で頼むだけで使える機能があります。 私も、Claude Code のセッション同士でメッセージを送り合えることを、最近になって知りました。この記事では、そういう機能を6つ紹介します。どれも、私が使っている …</summary>
+    <title>Google Geminiによる核融合予想研究は歴史的な反証を拡張したが、AIだけで成し遂げたわけではない</title>
+    <link href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTdvdUx1S3ljV1h4dEZuQW9UT1NqTlZlaWJiVnc2b2ZrTmJmdUIwX25HOU1xb3NDSXI4UHhOM0xMbWM2enFrN3lNWURNeGNUWmRUenRvb0tNWU4za0hnYWlvT3JhOHFNMFhyRFhfNkVfSHlIeWJJbnZDOGNFY3VFNDhHYnRIWFp6TEVTdTl2TEhBOGdfdkwzdm9Fc2JjZVh1S2ljVTQ5WHhfZmVs?oc=5"/>
+    <id>https://aimatome.gamelab.website/#cf4d7fe58edc</id>
+    <updated>2026-10-20T14:54:55.000Z</updated>
+    <summary>remio</summary>
   </entry>
   <entry>
     <title>llm-d 1.0公開 Red Hat、IBM、Google、NVIDIAが賭ける「AIの本当のコストは推論」</title>
@@ -69,6 +83,13 @@
     <id>https://aimatome.gamelab.website/#a789bab779c8</id>
     <updated>2026-10-20T14:42:01.000Z</updated>
     <summary>Martin Cid Magazine</summary>
+  </entry>
+  <entry>
+    <title>LINEに送った写真と音声メモを、自宅のPCが文字にしてくれるようにした</title>
+    <link href="https://zenn.dev/hilopon/articles/line-local-ai-photo-voice-capture"/>
+    <id>https://aimatome.gamelab.website/#80f7095d3e7a</id>
+    <updated>2026-10-20T14:37:43.000Z</updated>
+    <summary>Zenn ／ 会議のホワイトボードを写真に撮る。帰り道に「来週までに見積り」と声で残す。ここまでは誰でもやっています。問題はそのあとで、撮った写真も録った声も、二度と開かない。私のスマホには、読み返されたことのない音声メモが何十本も眠っています。 そこで、LINEに写真か音声を送るだけで、自宅のPCが文字に起こして、日記用のリポジ…</summary>
   </entry>
   <entry>
     <title>AI同士の依頼は英語の電報調、私への報告は日本語だけ。レビューの返事は418→167トークンに</title>
@@ -211,13 +232,6 @@
     <summary>Reuters</summary>
   </entry>
   <entry>
-    <title>AI発展へ国有企業設立、中国 習氏主導の新区に本社</title>
-    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE1VWHo3X1FUa3EyM0Z4X1F0RTlDREJKNzlXTjduVVZDSEFteWRHQ0RITEZ1T0hBUWc4Nm9VbWdRN1pFaVhacHdjQkxaazFPLURSd3FpenJ0TjNPcXZrNnk3SDJTcDA2bXJQR0FhLXVfQ2Rjd0RL0gF0QVVfeXFMTVVYejdfUVRrcTIzRnhfUXRFOUNEQko3OVdON25VVkNIQW15ZEdDREhMRnVPSEFRZzg2b1VtZ1E3WkVpWFpwd2NCTFprMU8tRFJ3cWl6cnROM09xdms2eTdIMlNwMDZtclBHQWEtdV9DZGN3REs?oc=5"/>
-    <id>https://aimatome.gamelab.website/#e5dcc3e95462</id>
-    <updated>2026-10-20T12:25:05.000Z</updated>
-    <summary>Infoseek</summary>
-  </entry>
-  <entry>
     <title>個人開発の自律型AIヘッジファンドが、世界最大の『awesome-quant（⭐️15,000+）』に公式採択されるまでの全記録</title>
     <link href="https://zenn.dev/prompter_note/articles/f2f1f9ed0b8edf"/>
     <id>https://aimatome.gamelab.website/#ef67d7608230</id>
@@ -295,11 +309,25 @@
     <summary>Zenn ／ はじめに AIが進化するほど、人間の仕事は減るはずです。 ところが、実際にAIを使ってシステムを構築していると、奇妙な現象が起こります。 AIエージェントが増える。管理するファイルが増える。確認する画面が増える。ルールが増える。 作業を減らすためにAIを導入したはずなのに、今度はAIを管理する仕事が生まれてしまう。 …</summary>
   </entry>
   <entry>
+    <title>Windows版Bloomフィルタを自作</title>
+    <link href="https://zenn.dev/ai_marin/articles/e9ad651c0bad17"/>
+    <id>https://aimatome.gamelab.website/#c9f1b3571acd</id>
+    <updated>2026-10-20T11:28:16.000Z</updated>
+    <summary>Zenn ／ datasketchのMinHashLSHは、メモリ消費が半端なかったため、LSHBloomで重複処理を試みた。が、datasketchのMinHashLSHBloomはLinux用。そこでWindows版Bloomフィルタを自作してみた。 def optimal_bloom_params(n: int, fp: f…</summary>
+  </entry>
+  <entry>
     <title>医療用AIシステムに先端半導体＝ラピダス参加の研究機関や北大など(時事通信)</title>
     <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0FheEhSMVhLbGxMZk5FYUNhOW9hT19tTmd4d2c5V25PZ2FtQldzbTBZUjB0czQ0bFFIdUNIaW9OVjJET0JXMXdURk04LVBnRTJlZ3NRUDZnUFBhbHVrQjUtcWo2QThpc2t1LWptcVNfUFR3QnNTZms3STVQOTk2Mi0xb0p0cEk?oc=5"/>
     <id>https://aimatome.gamelab.website/#6e906080b72f</id>
     <updated>2026-10-20T11:10:40.000Z</updated>
     <summary>Yahoo!ファイナンス</summary>
+  </entry>
+  <entry>
+    <title>OpenAIエージェント暗号資産インシデント：別のウォレットのテストネットETHを使用</title>
+    <link href="https://news.google.com/rss/articles/CBMingFBVV95cUxOZ3RMM3RjdjZrT212Ukc0QVF5S0hWMWY3T0tFcjEtbE92QjlpaG9mbXRLWkhoUVBMc2hmWnVqdDB6Tnh2cTR0QkJ0bDNXNEpvTDE2eVBWMlY5MWN1M2NfbkEzOHNXXzdGa05HZG9xYnJlLWhZVzBQNkktMGJVLTN3Q0VWbzBJUEFhYVQzcXRmT2ZhaE11OU8wVzlfVjRmUQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#604e1469ec3a</id>
+    <updated>2026-10-20T10:54:56.000Z</updated>
+    <summary>remio</summary>
   </entry>
   <entry>
     <title>OpenAIのGPT-Live、録音不要の音声作成とDecisions連携を追加 日本語の新音声も</title>
@@ -316,45 +344,17 @@
     <summary>財経新聞</summary>
   </entry>
   <entry>
+    <title>ローカル LLM のエージェントを箱に入れても、名前の問い合わせは外へ出た。DNS の記録で気づいて止める</title>
+    <link href="https://zenn.dev/maruhana/articles/local-llm-agent-dns-query-watch"/>
+    <id>https://aimatome.gamelab.website/#f7698745e729</id>
+    <updated>2026-10-20T10:44:19.000Z</updated>
+    <summary>Zenn ／ ! 先に、この記事の要約（専門用語なし） ローカルの LLM に、PC の操作（コマンドの実行やファイルの読み書き）をさせている。モデルに悪い仕込みがあった場合に備えて、エージェントを外へ通信できない箱に入れた それでも、ドメイン名を IP アドレスに変える「名前の問い合わせ（DNS）」だけは箱の外へ出た。名前の中に…</summary>
+  </entry>
+  <entry>
     <title>リコー、LLMの有害な内容を判定する新しいセーフガードモデルを開発</title>
     <link href="https://news.google.com/rss/articles/CBMifEFVX3lxTFBkVUxMWHpDNEFUbmFiZVBKRVR5aGhLS29PaFFScGJQX0s2S2ZkVkNGdzFDMTQ1a01hbGstVmdyajc5ZG5zQ25JbUxNLXVNaUp5Unk2WE9Vd0pmWENxM3k3Q3VGVlZPRXg4NUh3UFFiSFlJV3NMUHZKV0d0WEPSAXxBVV95cUxQZFVMTFh6QzRBVG5hYmVQSkVUeWhoS0tvT2hRUnBiUF9LNktmZFZDRncxQzE0NWtNYWxrLVZncmo3OWRuc0NuSW1MTS11TWlKeVJ5NlhPVXdKZlhDcTN5N0N1RlZWT0V4ODVId1BRYkhZSVdzTFB2SldHdFhD?oc=5"/>
     <id>https://aimatome.gamelab.website/#644b95eb2ea8</id>
     <updated>2026-10-20T10:38:00.000Z</updated>
     <summary>ｄメニューニュース</summary>
-  </entry>
-  <entry>
-    <title>Tabで次のコマンドを見つけて選ぶだけ：PowerShellでzenn-cliコマンドを自動補完</title>
-    <link href="https://zenn.dev/ctenopoma/articles/powershell_command_completer"/>
-    <id>https://aimatome.gamelab.website/#80d5af012959</id>
-    <updated>2026-10-20T10:35:05.000Z</updated>
-    <summary>Zenn ／ PowerShellのコマンド ファイルパスをCLIで入力するとき、Tabで候補を出してくれますが、よく使うzenn-cliコマンドも自動補完してほしい。 Ubuntuだとやってくれるあれ。 Windowsでも設定すればできるようになり、少し触ってみた結果を報告します。 結構便利なのですが、意外とできること知られてい…</summary>
-  </entry>
-  <entry>
-    <title>第１回これからAIを導入する企業のためのAI活用入門・実践セミナー</title>
-    <link href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uSWVUclo4VUR4UVJRR0F6WFpXbm9lMjlid2UwM3M5c1QxdW11Tnpya3R5NzNVbGVaSWlqNEUtRm1RNlRpT1g5WDdjX09xeEZWOFhhc2ItWS1SckJrR25XY25KLWU?oc=5"/>
-    <id>https://aimatome.gamelab.website/#8fe4812dba83</id>
-    <updated>2026-10-20T10:31:34.000Z</updated>
-    <summary>公益社団法人 関西経済連合会</summary>
-  </entry>
-  <entry>
-    <title>Agent Skillsは本当に効果があるのか？ABCプロンプトで検証してみた</title>
-    <link href="https://zenn.dev/amane/articles/4aa832b32c8500"/>
-    <id>https://aimatome.gamelab.website/#18e1a8897499</id>
-    <updated>2026-10-20T10:30:58.000Z</updated>
-    <summary>Zenn ／ あなたが入れたそのスキル、危険ですよー。でも、本当に危険なのは、そんなスキルを入れちゃう人間の判断能力なのかもしれませんね…… Agent Skillsってどんなものですか？ みなさんは、Agent Skillsを知っていますか？ たぶん、とても高度な難しい魔法のようなもので、自分には解き明かせないけど役に立つ何かだ…</summary>
-  </entry>
-  <entry>
-    <title>GeminiやChatGPTへの読み込みも一発！「0秒読書」が実現する爆速リサーチ＆キャプチャ革命</title>
-    <link href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jRl84b1lNVlRjS2pUVVpzem9uVnF1elhnRDBjQmtUOXdOaGhkeC05c0RuT1QzRGctY2xiMkNkUU1CYzR6M0dUSmNXMm0?oc=5"/>
-    <id>https://aimatome.gamelab.website/#98b6238e2ea2</id>
-    <updated>2026-10-20T10:23:08.000Z</updated>
-    <summary>DXマガジン</summary>
-  </entry>
-  <entry>
-    <title>Data Preparation Agentでデータクレンジングを任せる</title>
-    <link href="https://zenn.dev/web_benriya/articles/bigquery-data-preparation-agent"/>
-    <id>https://aimatome.gamelab.website/#61101cc40224</id>
-    <updated>2026-10-20T10:12:21.000Z</updated>
-    <summary>Zenn ／ BigQueryのデータ前処理で時間がかかる理由 BigQueryに取り込んだ生データをそのまま分析に使えることは少ない。実務では次のような前処理が必要になる。 NULL値や空文字の扱いをカラムごとに検討する 日付や金額のフォーマットがソースによって異なる 重複レコードを特定して除外するロジックを考える 外れ値の閾値…</summary>
   </entry>
 </feed>
