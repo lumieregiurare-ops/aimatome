@@ -12,5 +12,18 @@
    "case"
   ],
   "isPR": false
+ },
+ {
+  "id": "bd457fd5f98c",
+  "title": "AIエージェントにサーバーを触らせる前に入れた5つの安全装置と、その限界",
+  "url": "https://zenn.dev/himori_ops/articles/8c28db7d119e81",
+  "source": "Zenn",
+  "summary": "AIエージェント（自分でコマンドを実行できるAI）に、サーバーの作業を手伝わせ始めました。便利な反面、取り返しのつかないコマンドを打たれると困ります。なので、任せる前に先に安全装置を作りました。 この記事では、実際に入れている5つの仕組みと、それでも防げないことを書きます。使っているのは Claude Code です…",
+  "publishedAt": "2026-10-20T15:02:16.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
  }
 ]
