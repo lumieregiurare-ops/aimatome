@@ -1,5 +1,45 @@
 [
  {
+  "id": "5c97a9b05dd0",
+  "title": "Ast.pm 最初のAST構築から計算と評価",
+  "url": "https://qiita.com/johnSmith7701/items/dc169e8c61115a96370e",
+  "source": "Qiita",
+  "summary": "数式を計算するプログラムは、文字列を左から順番に計算すればよいわけではありません。 例えば 2*(3+4)-5 では、括弧の中を先に計算し、次に乗算、最後に減算を行う必要があります。 今回は、Perlで書かれた Ast.pm を題材に、数式からAST（抽象構文木）を構築し、...",
+  "publishedAt": "2026-10-20T20:53:25.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dfe30db927e8",
+  "title": "棚マクロの100本ノック、44分で完成してそのうち5本を採用した話 ── AIに「3時間かけろ」と頼んだら10分で終わったので無茶振りを投げてみた",
+  "url": "https://qiita.com/shu15511551/items/a5175732c74b16326666",
+  "source": "Qiita",
+  "summary": "はじめに 先日、以下の記事を投稿しました。 Claude と私が心血を注いで作り上げた Excel VBA 専用 MCP サーバー「excel-manager」を土台に、Google の AI（Gemini）を走らせるための「掟（AGENTS.md）」を徹底的に研ぎ...",
+  "publishedAt": "2026-10-20T20:52:01.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "43d2b247dede",
+  "title": "【200社超導入】「良記事」を再現するAIレシピ",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTRWVaX280WnNKOFpvdUZEbHR6b3RfdWFSQjNhbHB1TTVIYUdGQ09kYWJOcXI1T2RiZ2w3bHpRWG5yWC12X3NmcDNiVzV3RWVOcmJz?oc=5",
+  "source": "NewsPicks",
+  "summary": "",
+  "publishedAt": "2026-10-20T20:30:01.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "e6e9cc453c18",
   "title": ".npmignoreを置くと.gitignoreは使われない：.envと鍵がnpmパッケージに入るのを npm pack --dry-run で確認",
   "url": "https://qiita.com/supportapp3/items/fa4f271888e6f6899100",
@@ -206,6 +246,60 @@
   "image": "",
   "categories": [
    "business",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5a833d6dadac",
+  "title": "AIコーディングのAPIキーが狙われている OpenCodeのキー流出とインフォスティーラー「Aoki」から学ぶ対策",
+  "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/21/news011.html",
+  "source": "ITmedia AI+",
+  "summary": "AIコーディングツールの認証情報を盗むマルウェアと、保存されたAPIキーが流出した可能性のあるサービスの侵害が、同じ週に公表された。盗まれたキーで何が起きるのか、手元のキーをどう守るかを整理する。",
+  "publishedAt": "2026-10-20T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e0ed25e53738",
+  "title": "AIデータセンター投資は活況、だが「その先」は？ なぜ活用が進まないのか",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FSWZ2ai02WTZMZVprQXdwZ295emZ4NTFrX09RRVllbFh0Z2tVRzV1SDdsZHBLenlUd1VVcVBPUlVOMEZHY0dWWnJzb1p0WkVfYU5ROEZ4ZWVxek1YV1dEd1dWMFRFZ2JoczkwcHR3bzlZZw?oc=5",
+  "source": "ITmedia",
+  "summary": "",
+  "publishedAt": "2026-10-20T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9699af7c1952",
+  "title": "AIエージェントで「ERPの魔改造」復活の懸念 せっかくのクリーンコアが崩壊",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92elpsV2xCcUhlNnN1NjZncHJURVVERkpkOXFEamxJRXc0UUNXS3JCQjZ2d3NwRW5oTGhvMlVScEVFZHppYmU5Ml9hTmJjX3FTODdMTkFWZmtXU1hZMlg1SDRXQm9abG9vMnJvWmh5NEc?oc=5",
+  "source": "TechTargetジャパン",
+  "summary": "",
+  "publishedAt": "2026-10-20T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "afbc3721b5e0",
+  "title": "政府 ＡＩエージェント導入 資料検索や文書作成 自動化",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5Q1RIY0dHbVRqMzdxenVtSnhQS2JLTTBjMzh1TXRRQl9wLUFzLUZIWXVzX3FfRVU2OHlJd3hCTmFscXR0NUI1NXRVY2JTUDBsQnBrNTlia2E5TGg3bklVWlRzaw?oc=5",
+  "source": "読売新聞",
+  "summary": "",
+  "publishedAt": "2026-10-20T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "policy",
    "case"
   ],
   "isPR": false
@@ -707,6 +801,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3d9d638b9041",
+  "title": "Claude活用でMMM分析が変わる AIで「人間では不可能な領域」へ",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHRaT3ppU1pabndJdVA5SE1ydmdlQ3FESm5uYWlpaTZnUzdrSlp2a29XSXd1Zm0wVXJoM1otWFdUSDRzbTJuY2FWRXVPY3huUU9MejRoTDlzNktzYkk2bVBxXy11VXduMFlybDFYNFlQRTd6TW5BeGx4djA4a1VqM0poR1JCb2tnSndCSg?oc=5",
+  "source": "日経クロストレンド",
+  "summary": "",
+  "publishedAt": "2026-10-20T15:00:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
   ],
   "isPR": false
  }
