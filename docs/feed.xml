@@ -5,8 +5,22 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-21T14:30:20.166Z</updated>
+  <updated>2026-10-21T15:00:22.706Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>Claude Codeの自動再開のあと、古い画面に入力すると会話が二つに分かれる。送信を止めるフックを作った</title>
+    <link href="https://zenn.dev/twinharness/articles/resume-guard-stale-terminal"/>
+    <id>https://aimatome.gamelab.website/#067d6eb3c335</id>
+    <updated>2026-10-21T14:42:32.000Z</updated>
+    <summary>Zenn ／ AI の使用上限（一定の利用量に達すると、回復するまで使えなくなる制限）で作業が止まったとき、回復の時刻に会話を自動で再開させる仕組みを作りました。ところが、再開は画面に出ないところで進むので、止まったままの古いターミナル画面（コマンドを打ち込む黒い画面）は、そのことを知りません。そこへうっかり指示を打つと、同じ会話…</summary>
+  </entry>
+  <entry>
+    <title>Nvidiaが「ロボット版ChatGPT」を宣言…LG電子・Bear Roboticsがエコシステムに参加</title>
+    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9kb2dpUDVHbm9ZdGwwSC1wLThLVzBNLVhHS3YxWGtpcDBMOHItbFVqQXlQc05MUDB4Z2psaUlMdGN1MVhWblAzeVlZNUN3djBwN0NFdjFZYmV6T09IbGRWM3FVbzVtdEUyZTBNVWtoRFlWWnB5?oc=5"/>
+    <id>https://aimatome.gamelab.website/#41ac1a0abd80</id>
+    <updated>2026-10-21T14:35:00.000Z</updated>
+    <summary>BigGo ファイナンス</summary>
+  </entry>
   <entry>
     <title>リモート MCP サーバーの 45% が 4 週間でツール定義を変更していた — 記録をデータセットとして公開</title>
     <link href="https://qiita.com/qwezzy721/items/b71aaeaae84fcb360fe6"/>
@@ -36,6 +50,34 @@
     <summary>はてなブックマーク ／ が、「23時にパッチが公開されたら、それをAIで解…</summary>
   </entry>
   <entry>
+    <title>生成AI世界市場の主要プレイヤー</title>
+    <link href="https://news.google.com/rss/articles/CBMiSkFVX3lxTE83UE1WMThhRXFGMDE2OV9sQW03cWJldV91Q01LeE1ZUVJCbE1RZFA1ZHZlOHJ0V19zREF4cVMtZUhsZjNPQ0wwbENB?oc=5"/>
+    <id>https://aimatome.gamelab.website/#f921efeda2ad</id>
+    <updated>2026-10-21T14:02:30.000Z</updated>
+    <summary>pando.life</summary>
+  </entry>
+  <entry>
+    <title>AIエージェントに「実装しながら考える」をさせない。技術負債を減らす計画書作成プロンプト</title>
+    <link href="https://zenn.dev/kazuki_izutani/articles/1709552ca099f1"/>
+    <id>https://aimatome.gamelab.website/#57adfe52805c</id>
+    <updated>2026-10-21T13:56:29.000Z</updated>
+    <summary>Zenn ／ はじめに Claude Code などのコーディングエージェントに実装を任せていると、既存の共通関数を使わずに似た関数を新たに作ったり、他の箇所とは違う方法でエラー処理をしたりすることがあります。 これらの原因の多くは、実装前の計画のあいまいさにあります。計画に未決定や要検討の項目が残っていると、エージェントは、実装…</summary>
+  </entry>
+  <entry>
+    <title>金融K線専用の基盤モデルKronosにBTC/USDTの値動きを予測させてみた</title>
+    <link href="https://zenn.dev/matsushima_a/articles/day-022-kronos-btc-price-forecast"/>
+    <id>https://aimatome.gamelab.website/#468b0478c508</id>
+    <updated>2026-10-21T13:56:07.000Z</updated>
+    <summary>Zenn ／ AAAI 2026に採択された金融ローソク足(K線)専用の基盤モデル「Kronos」を、実際にBTC/USDTの1時間足データで動かし、予測結果を実際の値動きと突き合わせてみた。結論から言うと、CPUだけでも十分実用的な速度で動く一方、方向性(上がるか下がるか)の予測力については、今回の検証範囲ではコイン投げ程度にと…</summary>
+  </entry>
+  <entry>
+    <title>Claude Code の AskUserQuestion にフックで答える（スマホからも）</title>
+    <link href="https://zenn.dev/dawon/articles/c21789f4cb0b6f"/>
+    <id>https://aimatome.gamelab.website/#af7f714016dc</id>
+    <updated>2026-10-21T13:47:01.000Z</updated>
+    <summary>Zenn ／ Claude Code はときどき AskUserQuestion ツールで選択式の質問をしてきます（「どのフレームワークにしますか？」など）。ターミナルの前にいないと、そこで止まったままになります。 フックのドキュメントには -p モードで答える方法（PreToolUse フックが allow と答えを入れた up…</summary>
+  </entry>
+  <entry>
     <title>Cloudflare Clairicでレシート画像読み取りデモを作ってみた話</title>
     <link href="https://qiita.com/takeenoki/items/6482b23ad5d3f50de2d1"/>
     <id>https://aimatome.gamelab.website/#38a6836bfca5</id>
@@ -55,6 +97,13 @@
     <id>https://aimatome.gamelab.website/#146771076ca4</id>
     <updated>2026-10-21T13:30:00.000Z</updated>
     <summary>映画.com</summary>
+  </entry>
+  <entry>
+    <title>AI にほかの AI へ相談させていたら、返事を誰も読んでいなかった</title>
+    <link href="https://zenn.dev/claire_ai/articles/gaibu-ai-iriguchi"/>
+    <id>https://aimatome.gamelab.website/#25b658165c28</id>
+    <updated>2026-10-21T13:25:49.000Z</updated>
+    <summary>Zenn ／ 「codex や Gemini に投げてることが監視アプリ上でわからない＆返ってきても放置が多い」 2026-09-07、作業を任せている AI（Claude Code）の動きを見ていて、こう言われた。 ! 🔑 具体的な中身（全体の作り・数字・直し方）は、こちらの記事に書いています この記事では概要だけを書いていま…</summary>
   </entry>
   <entry>
     <title>OpenAIがChatGPTの広告を新たに26カ国に拡大 執筆 - Investing.com</title>
@@ -78,6 +127,13 @@
     <summary>Infoseek</summary>
   </entry>
   <entry>
+    <title>reasoning_effortが接続先で変わるときの3つの失敗と対処</title>
+    <link href="https://zenn.dev/orca_forge/articles/openai-compatible-reasoning-effort"/>
+    <id>https://aimatome.gamelab.website/#eb2da3b9f6a2</id>
+    <updated>2026-10-21T13:06:32.000Z</updated>
+    <summary>Zenn ／ 📝 この記事は forge.workstyle.tech に掲載した記事の転載です。 OpenAI互換の接続先でも、同じ欄名が同じ動作を意味するとは限りません。reasoning_effortをクラウド、自前のvLLM、中継サーバーに送ると、値の拒否や逐次応答の空など、異なる結果になりました。400の本文と接続先ご…</summary>
+  </entry>
+  <entry>
     <title>これが視界に入った瞬間、1秒以内に「AIだ！」と思ったけど我々は一体何に「AIっぽさ」を感じているのか→文字や色味以外にも判別ポイントがある？</title>
     <link href="https://togetter.com/li/2761175"/>
     <id>https://aimatome.gamelab.website/#fff3480782d4</id>
@@ -99,11 +155,11 @@
     <summary>Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</summary>
   </entry>
   <entry>
-    <title>仏暴動の偽画像を海外政治家が拡散 マクロン大統領「生成AI作成で事実無根」と非難</title>
-    <link href="https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxUlh5eGxJSVozYTVwakVuR3A3OXR1V3F5bDllQ1FsVTRwRGdwa0YzZ0dlMVJQSERPd09qUzZ6dHZuOFBJRHdFTnF2eld3ck5vUU01Umdn?oc=5"/>
-    <id>https://aimatome.gamelab.website/#d4304aa42004</id>
-    <updated>2026-10-21T13:03:00.000Z</updated>
-    <summary>KAB 熊本朝日放送</summary>
+    <title>仏暴動の偽画像を海外政治家が拡散 マクロン大統領「生成AI作成で事実無根」と非難（テレビ朝日系（ANN））</title>
+    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1obXZrYlhFalpDck1xYjAwZFVLdnZpYUoyU2t6MTJ6UVludVF1SGRpVWUtNjZGRUZqYTVXck1Hci1tdEZHQy1KbURRUlNwamxZRTJ6V1B4NGs0dG84VkM4blozM0F4OXROb3lRX0tnT2NWWWtWQVBVTFV4Mzk4Q28?oc=5"/>
+    <id>https://aimatome.gamelab.website/#6f703d43c2ed</id>
+    <updated>2026-10-21T13:03:59.000Z</updated>
+    <summary>Yahoo!ニュース</summary>
   </entry>
   <entry>
     <title>AIを活用した自動ショッピングは、企業と消費者の双方から障壁に直面している。</title>
@@ -118,6 +174,20 @@
     <id>https://aimatome.gamelab.website/#aaefbd665bfa</id>
     <updated>2026-10-21T12:59:32.000Z</updated>
     <summary>Qiita ／ 基本の考え方 「は」= 話題提示（「〜について話しますよ」とテーマを出す） 「が」= 主語の特定（「誰／何が」をはっきり示す） 例文1：自己紹介 私は田中です。 「は」を使うと、「私について言えば」という話題の提示になります。すでに相手が「あなたは誰？」と知っている前提で...</summary>
+  </entry>
+  <entry>
+    <title>Claude Code×Claude in ChromeでUIテストを自動化する【指示の書き方とスキル化】</title>
+    <link href="https://zenn.dev/suekichi_system/articles/claude-code-chrome-ui-testing"/>
+    <id>https://aimatome.gamelab.website/#18019ad37105</id>
+    <updated>2026-10-21T12:56:25.000Z</updated>
+    <summary>Zenn ／ 🚀 はじめに AIに実装を任せても、画面を開いて動作を確かめるのは人の仕事のまま、という状態になっていないでしょうか。 この記事では、Claude Code と Claude in Chrome を連携して、画面の確認（UIテスト）までAIに任せる方法を紹介します。 Claude Code と Chrome をつな…</summary>
+  </entry>
+  <entry>
+    <title>AI駆動開発のためのWebプロジェクト初期構築ガイド</title>
+    <link href="https://zenn.dev/h_kamikawa/articles/007d98ac98bb3f"/>
+    <id>https://aimatome.gamelab.website/#578a00dfeadf</id>
+    <updated>2026-10-21T12:53:42.000Z</updated>
+    <summary>Zenn ／ はじめに 個人開発・クライアントワークで、AIエージェントを前提としたWeb開発環境を構築するための標準手順。 本格的な機能開発を開始する前に、ローカル環境・GitHub・インフラ・CI/CD・初回デプロイ・公開確認まで完了させる。 これにより、開発開始後は機能実装に集中できる。 技術スタック アプリケーションの種類…</summary>
   </entry>
   <entry>
     <title>Athena、無検閲のローカルLLMを活用したAIエージェントが企業システムの攻撃検証を担う「Athena</title>
@@ -141,11 +211,25 @@
     <summary>ニコニコニュース</summary>
   </entry>
   <entry>
+    <title>LLMは「何年の情報か」を一貫して認識できているのか？ 米国スタンフォード大学 AI Lab の研究から考える</title>
+    <link href="https://zenn.dev/syoshida07/articles/56555330b47aa2"/>
+    <id>https://aimatome.gamelab.website/#6a39d3f49c10</id>
+    <updated>2026-10-21T12:42:08.000Z</updated>
+    <summary>Zenn ／ 米国スタンフォード大学の Stanford AI Lab(SAIL)は、COLM 2026で発表される研究成果の一つとして Do Language Models Consistently Encode the Current Year? を発表したした。 研究は言語モデルの「時間認識」に焦点を当てており、LLMが現在…</summary>
+  </entry>
+  <entry>
     <title>OpenAI、GPT-6 AstraをGoogle Cloudで提供へ 米大手クラウド3社すべてを制覇</title>
     <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBGaVVWZkR3ZVBSZ2lIWld0a2FNajBCckdQZkQzUF9MRXN6dXJiVV9OcU1VZG5rcXRuYU95ZVh6Y3dpWHppa1ctSVNSWVhHSHhONElqT0lPMGtCTjlLWjlTS2pGR1AxTVJlSUtkdmQzRFlrSENs?oc=5"/>
     <id>https://aimatome.gamelab.website/#d44d4dfba570</id>
     <updated>2026-10-21T12:35:00.000Z</updated>
     <summary>BigGo ファイナンス</summary>
+  </entry>
+  <entry>
+    <title>Claude Code 10月リリースを導入判断で読む：Haiku 5.5・effort指定・hooksのonFailureをどう入れるか</title>
+    <link href="https://zenn.dev/joinclass/articles/claude-code-oct-2026-release-adoption"/>
+    <id>https://aimatome.gamelab.website/#7114e4f56336</id>
+    <updated>2026-10-21T12:34:40.000Z</updated>
+    <summary>Zenn ／ なぜこの記事を書くのか 当社（合同会社ジョインクラス）では、書籍の執筆、売上集計、朝のダイジェストなどを claude -p のヘッドレス実行で回しています。人が見ていない時間に動くので、Claude Codeのリリースは「便利な新機能」ではなく、コストと事故率が変わるかどうかという目で読む必要があります。 2026…</summary>
   </entry>
   <entry>
     <title>Gemini 4 Argon Carbon の目撃情報：同名で新たな重量？</title>
@@ -167,6 +251,13 @@
     <id>https://aimatome.gamelab.website/#2f3a411a377b</id>
     <updated>2026-10-21T12:19:07.000Z</updated>
     <summary>PR TIMES</summary>
+  </entry>
+  <entry>
+    <title>LLMの評価を楽にしたいので、Pydantic Evalsを使ってみる</title>
+    <link href="https://zenn.dev/straydog/articles/915146b34d876a"/>
+    <id>https://aimatome.gamelab.website/#37d8b733b71c</id>
+    <updated>2026-10-21T12:17:34.000Z</updated>
+    <summary>Zenn ／ はじめに ここ1年ほど、LLMの調整をする中で、特に大変だったのが品質の確認です。調整のたびに結果を評価し直す必要があり、その繰り返しがしんどくなることも多くありました。評価用ライブラリがいくつも登場しているのも、同じような苦労をしている開発者が多いからではないかと思います。 また、JevのようなDecisionモデ…</summary>
   </entry>
   <entry>
     <title>Eleven Realtime v1 Max 対 Gemini 3.8 Live：より高速で、推論はより鋭く、価格は5.7倍</title>
@@ -197,6 +288,13 @@
     <summary>Yahoo!ファイナンス</summary>
   </entry>
   <entry>
+    <title>個人開発を、役割ごとの AI ボットと Devin で分担して回したい</title>
+    <link href="https://zenn.dev/kyto64/articles/ai-bot-dev-env"/>
+    <id>https://aimatome.gamelab.website/#9faaf94349da</id>
+    <updated>2026-10-21T12:00:09.000Z</updated>
+    <summary>Zenn ／ 検証環境: 2026 年 10 月時点 ボットの基盤: Grok Bot（役割ごとに複数のボットを立てている） 実装とレビュー: Devin（個人向けの有料プラン） PR レビュー: Codex（自動レビュー＋@codex review） GitHub Pro 背景: 個人開発のリポジトリが増えてきた。拡張機能、ライ…</summary>
+  </entry>
+  <entry>
     <title>今回の協力により両社は共同投資を通じてサムスン電気世宗·釜山事業場にAI半導体パッケージ基板専用生産ラインを増設する。</title>
     <link href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIWnZTUzBnNG1VQVoxNWg3VXhtODVnblF6eE8wekJYYWttbWJuMkdZRGlaR2cyVEtXdkllWHVnMHhJY205X0Etb05hYWEzb0k?oc=5"/>
     <id>https://aimatome.gamelab.website/#eaaa1f9e06f8</id>
@@ -204,11 +302,32 @@
     <summary>매일경제</summary>
   </entry>
   <entry>
+    <title>AI開発が終わらない問題を、ハーネスの視点で考える</title>
+    <link href="https://zenn.dev/enyugi/articles/8357ee1a1388f1"/>
+    <id>https://aimatome.gamelab.website/#c8d59bc80ece</id>
+    <updated>2026-10-21T11:48:40.000Z</updated>
+    <summary>Zenn ／ AIにコードを書いてもらえるようになっても、開発を進めるための管理や検証まで、自動でなくなるわけではありません。 私自身、非エンジニアとしてAIでサービスを作り、リリース予定を3か月遅らせても、理想完成の状態に届かなかった経験があります。 そのときの問題を考える手掛かりになったのが、AIエージェントの「ハーネス」です…</summary>
+  </entry>
+  <entry>
+    <title>生成AIにバイナリを解析させる。MCP連携リバースエンジニアリング搭載のC++製ネイティブエディタ「Zume Editor」無料ベータを公開</title>
+    <link href="https://zenn.dev/smolt_dev/articles/846d9d696f0ca8"/>
+    <id>https://aimatome.gamelab.website/#0eae2d84e2dd</id>
+    <updated>2026-10-21T11:45:42.000Z</updated>
+    <summary>Zenn ／ はじめに Zume Editor は、C++ でフルスクラッチ開発しているネイティブのテキスト／コード／バイナリ(HEX)エディタです。描画は Windows が Direct2D/DirectWrite、macOS が Core Text、Linux が GTK4/Pango と、各 OS のネイティブ API を…</summary>
+  </entry>
+  <entry>
     <title>東南アジアの生成AI普及率58%に グーグルなど調査</title>
     <link href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1DY2twekxRZjl2c1BXREw0RWI5dV9KclEwbDJ2OHVwc1pyT2pCWVhfTnRpVFBnN1dBVm9qRE5pRERoQmpFX2dnbjJvRk1IN01pZ3lxakJqb01XV241cURjNXJHMTlqN25uNlBIRg?oc=5"/>
     <id>https://aimatome.gamelab.website/#0aeb69e508b3</id>
     <updated>2026-10-21T11:45:00.000Z</updated>
     <summary>日本経済新聞</summary>
+  </entry>
+  <entry>
+    <title>Claudeの日本語推敲スキルyomiyasuを含む3種の選び方</title>
+    <link href="https://zenn.dev/sunsun_eng/articles/claude-japanese-proofreading-skill-yomiy"/>
+    <id>https://aimatome.gamelab.website/#ec0badca5e97</id>
+    <updated>2026-10-21T11:44:24.000Z</updated>
+    <summary>Zenn ／ Claudeの日本語推敲スキルyomiyasuを含む3種の選び方 この記事の要点 yomiyasu は、Claude で日本語の文章を読みやすく推敲するために話題になった新しいスキルです。詳細は参考記事（https://qiita.com/inoyu-…</summary>
   </entry>
   <entry>
     <title>政府 人手不足の現場でAI活用加速 規制・制度の見直しも</title>
@@ -232,129 +351,10 @@
     <summary>AT PARTNERS</summary>
   </entry>
   <entry>
-    <title>生成AIで全自動化→急増する不正アクセス 地方も狙われる時代に…どう対応すれば? 専門家「被害をできるだけ減らす方法を取ることが必要」（ｔｙｓテレビ山口）</title>
-    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1veU5sN0F2RmY4cVNKOTRtbnFWZGE5cFBuTWNyZ1VrR1p0aXl6UmVlYUs1bEs4QXo5UGZMNXJwbnhaUVhqWTZvZjdWT1hvaFNVNG9sUUhGdU1GNUswMjZibm9rdmxBVS1pdFdlZEdxTURsZ3d5OHQ2d3hScEpydE0?oc=5"/>
+    <title>生成ＡＩで全自動化→急増する不正アクセス 地方も狙われる時代に…どう対応すれば？ 専門家「被害をできるだけ減らす方法を取ることが必要」</title>
+    <link href="https://news.google.com/rss/articles/CBMiYEFVX3lxTFBueGRUVDdqbFBOOFgyRy1uUkhMcTN0TGZTU2g1cDJESUdKZGxuc25wNWxkSE54dFBObThyRWVrMnFSV3ZfLWUzc0owdFJNUDJVTjVsNEZCZ0lLVWU4ZnR3UQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#40227bf6c1af</id>
-    <updated>2026-10-21T11:30:33.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
-  </entry>
-  <entry>
-    <title>GEICOのフォード・プライアー氏、AIエージェントの「ウォー・ルーム」でレガシー移行計画を1日・トークン費用1,000ドルに短縮したと語る</title>
-    <link href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fOHgzb3JZSFNzV2Y0YXpaclg5anpHVWJSTmFnYjNYbUFlVlhkN3dsQVFUQVRNa055MVd4MVBqVmJuWVEtc21oMElrdlhBcndNMTlDc3FxMlR5Zw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#bfc047b0fc0f</id>
-    <updated>2026-10-21T11:08:00.000Z</updated>
-    <summary>BigGo ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>OracleがAIエージェントスタジオを業界向けアプリケーションに展開 執筆 - Investing.com</title>
-    <link href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1sRmk2LWptU2RwdGVZbXZvbGE0TWRBN0dmUUpiN00xYUd0eXlZYVVhR3RUbFBqNXpHOGlPTDN4WGJRZExDdEhiaTVMUVNYd2dWelk4bWVlU2VXQmJvRDRjOFZwSVc2OVdtRW9LX2JBZTg?oc=5"/>
-    <id>https://aimatome.gamelab.website/#be186546bf08</id>
-    <updated>2026-10-21T11:04:00.000Z</updated>
-    <summary>Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</summary>
-  </entry>
-  <entry>
-    <title>Anthropic、ClaudeがNIST楕円曲線5種のシード生成法を解明 1997年の時刻が手掛かり</title>
-    <link href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uNGFHdnhQb0ZrWFlzTHo2ZDR2Z3pQaEw0MGhadTR0dG5CWUJvMWJDSVU0NTNaWUxpSktvV3J0cTZzLV9PT2J4Z1loaVhGejM4MkhVQi1ZQ1lqRjhwdF9vM3MzRQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#ea41cb8c6bb8</id>
-    <updated>2026-10-21T11:02:27.000Z</updated>
-    <summary>NOVAIST</summary>
-  </entry>
-  <entry>
-    <title>AI録音イヤフォン「Plaud One」 タスク実行のAIエージェント搭載</title>
-    <link href="https://www.watch.impress.co.jp/docs/news/2150136.html"/>
-    <id>https://aimatome.gamelab.website/#408525fc5c1c</id>
-    <updated>2026-10-21T11:00:07.000Z</updated>
-    <summary>Impress Watch ／ PLAUDは、AI議事録デバイスのブランド「Plaud」の新製品として、イヤフォン型の「Plaud One」を発表した。さまざまな作業をこなすAIエージェント機能を統合し、サービス面で大幅にアップデートを図っている。価格は44,000円。数量限定で2026年中に発売され、21日から事前予約の受付を開始している。「Pl…</summary>
-  </entry>
-  <entry>
-    <title>WhatsAppのヘルプページにAIへ向けた「規制当局への連絡を勧めるな」という隠しメッセージが仕込まれていた</title>
-    <link href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBiY3EzdUtiTlphdUxpZW40QnkwNXB4dlR6emUxaTJLZERmWTFwMjNrM0kxYjJUTzZPblR0LXk1TllhRXhhc1VUVjdWRDVIY2JRN1NzQWh2Vm5kRzAzRHNzMmVPdTIxTy1lR2NabjUyOUxwekoyaGc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#9d90ec6de169</id>
-    <updated>2026-10-21T11:00:00.000Z</updated>
-    <summary>GIGAZINE</summary>
-  </entry>
-  <entry>
-    <title>エヌビディア、AIエージェントを安全に動かす企業向け参照設計「OpenShell」を発表</title>
-    <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zdkNFODlwQ2tHSTZtbmd0b0N1T0xGVF9JaEdsOW9NSGxGMDdoZE5ZLTFzSm42R2wwZEQ3RnM1al82ZllEeThoVDFmaU1qUkZ4RHY4?oc=5"/>
-    <id>https://aimatome.gamelab.website/#c37811d81c37</id>
-    <updated>2026-10-21T10:56:00.000Z</updated>
-    <summary>ビジネス+IT</summary>
-  </entry>
-  <entry>
-    <title>ガバメントAI「源内」</title>
-    <link href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IR184RU9sdjZzMktVTVMyaFhxTUN6cEw2Mm43MGlHaUZRQzFxU3hHa0E0TktCUG81cVhrdDFyQW1WSl8zS3lLRGh1YVZ4alNmX2c?oc=5"/>
-    <id>https://aimatome.gamelab.website/#1ad26920994f</id>
-    <updated>2026-10-21T10:46:51.000Z</updated>
-    <summary>デジタル庁</summary>
-  </entry>
-  <entry>
-    <title>OpenAIがAI創薬スタートアップ買収、AnthropicやGoogleとの競争激化</title>
-    <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iX01GUHVXcl92clRfemFIVUttajhKWWZfdjd3cHpod0ljeVdJd2MxX2w0M3RMNW50VVRHMkZGSDhEdHVydU1LRl9OaTlnT0hGYklB?oc=5"/>
-    <id>https://aimatome.gamelab.website/#22064b11c54e</id>
-    <updated>2026-10-21T10:37:32.000Z</updated>
-    <summary>ビジネス+IT</summary>
-  </entry>
-  <entry>
-    <title>銀行業務へのAI導入：効率性と信頼は両立しなければならない。</title>
-    <link href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS1hka3FDZ3NDc3NRTURFa01Hcm9jVjNHX0hEbEdrNWhMN3BDWVN1Mlpta0JwQVl0S1RUWVQ1RXRBU09Eczl0QjJMeTY0Q2VpaG9zSlNYSkUwMU1aeGZlZzRCXzBjdTVSUUNLR2pzdE1OZHdaZ3cwTzNqRTNfaWxBVEFIc2U3NXhfem13?oc=5"/>
-    <id>https://aimatome.gamelab.website/#39feb1500c47</id>
-    <updated>2026-10-21T10:37:11.000Z</updated>
-    <summary>Vietnam.vn</summary>
-  </entry>
-  <entry>
-    <title>セキュリティ大丈夫なん？ ChatGPTの広告、ターゲティング方法が判明（ギズモード・ジャパン）</title>
-    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1zRDBBcTlwdU12X3BSWlNqQTVsSVJnYkNxZEEwTGNhY0FhNmxYRE5iQVNFQURkZmFGVzlLSF8tMFRyUXZyM2VQNG04TlJJZWdxZTVISF9pOTd5UVBKTVN1UktGSWhZV2RXR2dnb0xVbUwwRHE1Wl96R3R5dzFvdEU?oc=5"/>
-    <id>https://aimatome.gamelab.website/#fb2cd9657433</id>
-    <updated>2026-10-21T10:30:01.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
-  </entry>
-  <entry>
-    <title>生成AI悪用で1.6億件超の情報流出 不正アクセスと戦う「ホワイトハッカー」育成現場に迫る 講師「人材は全く足りていない」</title>
-    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBrSkMwY2ZnNmZnemZjRlZxV3l3eXZkQ1BMTVAtVjhfYjdaOEZjSlJ4NEk0c1lUVjl2bnVmR041Q1hTSG1EallDTXIzaFlCT0hJQzB5LWJGZC1zWFVBSXR1RmJWSEdwZGwzWEs4aWs4UTZ3VUszMUVZTXpoY1dHYXM?oc=5"/>
-    <id>https://aimatome.gamelab.website/#36aaf35387e4</id>
-    <updated>2026-10-21T10:28:14.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
-  </entry>
-  <entry>
-    <title>SpaceXのAIブーム：ネオクラウド企業の命綱か、それとも単なる一息か？</title>
-    <link href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVXFBOWIyVy0wNDJSNWIxY1ZqU2tlSzZkcWhSMV9ZX1dSYXRHV1ZDeURScHYxOWVQbjRqYU9FQW02TDZMdzNUVElRY1Y4MFNzREtEMzByYkFDRS0tLVdMYlIyU3lzQnRKZ01WLUo0TDE4MmdFYndpWVlHSUV2VGdrYjRld1kyTXRwZHFUb1FBWlJCWEhKRHVvUUF1RTFRSUxZWXBRVS1KRm44UQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#13ef3e579d3c</id>
-    <updated>2026-10-21T10:23:19.000Z</updated>
-    <summary>Moomoo</summary>
-  </entry>
-  <entry>
-    <title>Cyber Verification Program（Anthropic）の申請方法を手順ごとに解説</title>
-    <link href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlpGWnlrTlZ6aEVrcTNoamJ5RXR5aXZLN0NLbzdwWXFBSnNmcjZfSGd6MXlNU25NUy1GRHM3V1I5M05ENFJ2U0l2OERTTHE0TE9PUmYwWEc1LS0wNjlRdXpJUERnWTJkOU4yVlZGSjhSRXpiTlRWSVlqTWI5eVJFN3pCZDhWQkxaVmoxN0VGY3NqTWpqSThMZg?oc=5"/>
-    <id>https://aimatome.gamelab.website/#08f74c4dfc63</id>
-    <updated>2026-10-21T10:16:48.000Z</updated>
-    <summary>Pasquale Pillitteri</summary>
-  </entry>
-  <entry>
-    <title>Gemini「Nano Banana」アイコン突如刷新🍌</title>
-    <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQNDhXeEtWNEgyVWtxOXZpUFRtMmJyVkRsNzNMa1RzR2hNdkkySjhqVWt2bXNqZTBtRlpZOGtrRjllMTVzSnpETFE4QU1pX1BESVFXaDlfRmhLQjJpWV8tUHYwZFg1dHFOaWZ0TDZkUjNyNmZqSDJ2Tm9MMlFGYy1rSmhpU1BaMHc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#7f1c2296fc5b</id>
-    <updated>2026-10-21T10:15:35.000Z</updated>
-    <summary>Jetstream</summary>
-  </entry>
-  <entry>
-    <title>出産、育児の悩み相談して 生成ＡＩ活用「チャットボット」実証実験開始／八戸</title>
-    <link href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ib3NwVFRLR1BMb1hFdzRScTlQb3hnN3BKUWRrNkxzZnFYUmdyTVV5M3VjTTV0Zko2UE9McE9ldkQxMHBCUHFMWjhady1CSGtaNlJqNXRCMjBuLW9IRXVST0lra2N4OHc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#c7b75684fdf9</id>
-    <updated>2026-10-21T10:01:07.000Z</updated>
-    <summary>デーリー東北</summary>
-  </entry>
-  <entry>
-    <title>読売３３３、２５０円高の５万２３４７円…スペースＸの決算の影響受けＡＩ・半導体関連株で買い</title>
-    <link href="https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtMDVNYnZMeldzY0J5d0hnOEdhY2U3MENIb01ac3Q1bFg2Wmx6eE5YcUVSTDBMUjVZZk1SU2s0NVVoeDV6OVAtVExrSnVwZ3dnZUFLbkdjUEF2QUZzNXJpa3NwT1o?oc=5"/>
-    <id>https://aimatome.gamelab.website/#aacd3a59e782</id>
-    <updated>2026-10-21T10:01:00.000Z</updated>
-    <summary>読売新聞</summary>
-  </entry>
-  <entry>
-    <title>米写真販売ゲッティ、破産申請＝生成AI画像との競争激化(時事通信)</title>
-    <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOMi10STd0TlFIaktaVllkZmdPMlN5b1U4Rm5PUnVIY2JnNF9IdmMwTHZlWGxfUXRLV010YWsxQ1VNOGpIc1dkZi0yay04bFRqUDAtZy1mTUpsT3p0THRweFRjdlZKWXVrOHcwUkdHN1JFQXhDMHRVS1BfNFJzVTcwMG9odDZiZzg?oc=5"/>
-    <id>https://aimatome.gamelab.website/#b7b90ad4230b</id>
-    <updated>2026-10-21T10:00:24.000Z</updated>
-    <summary>Yahoo!ファイナンス</summary>
+    <updated>2026-10-21T11:30:00.000Z</updated>
+    <summary>TBS NEWS DIG</summary>
   </entry>
 </feed>
