@@ -1,5 +1,18 @@
 [
  {
+  "id": "12cc38bc596f",
+  "title": "Viteの.envはVITE_を付けるとビルドに入る：loadEnvの書き方次第でDB_PASSWORDもシェルの環境変数もdistに入った",
+  "url": "https://qiita.com/supportapp3/items/dc041b3603e2ebdb146a",
+  "source": "Qiita",
+  "summary": "結論 Vite では VITE_ で始まる変数は、ビルドした JS（dist/）にそのまま入ります（Vite公式）。.env に VITE_API_KEY と書いてコードで参照すると、値が dist/assets/*.js に平文で入りました。.env.local に...",
+  "publishedAt": "2026-10-21T20:13:44.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "a3ea8bf22c9e",
   "title": "半導体メモリーの27年、市場拡大続き競争激化 中国2社が台風の目",
   "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03740/100800014/",
@@ -118,6 +131,113 @@
   "isPR": false
  },
  {
+  "id": "a3b5f77669da",
+  "title": "AGS、最新モデル搭載 生成AIサービス機能拡充",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGU1NIbGF4dzcwZVpwbXZfUjhUeHcyWkZkN1lnZzMzUmxlVU11NkFLeVp4eFV5cFFWa0E4dGY5akV2b3VuQjZHSFlBWVBnRUJFRXJqY180RTg?oc=5",
+  "source": "日刊工業新聞 電子版",
+  "summary": "",
+  "publishedAt": "2026-10-21T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "190200e2de28",
+  "title": "RAGで「データをAIに送る」運用が限界を迎えている理由",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03dWd3R1NJRWxZSnFfOGt0dDlrSFRZVERsU0l1NHNkTDh5QWZoSHlqcGV4WDZKQ2ROMXFpeklRN2dFdHB2NmEwM05NRlY1dEM1enBCMGR4WFBka3VQTGFYUmg3NjNrZ3htOTl4YjVBTUg?oc=5",
+  "source": "TechTargetジャパン",
+  "summary": "",
+  "publishedAt": "2026-10-21T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e7a52249daf7",
+  "title": "建設業のAI活用はなぜ「メール作成」止まりなのか 調査に見る“浸透の壁”：「AIの効果なし」と感じる層が4割超",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZLXJVUG9fMWVETXFiQThodGhaTnpncnFTMldYMDByODBISUk2ejYtbkxuc3RMRGdKSjg3SXd0Q0VHRE8zbWVEUVpsaFN5QTVoSkQyWXdFVmlBRjVyc04xSENtYnJ2WWJCZ0RNRENMam0?oc=5",
+  "source": "TechTargetジャパン",
+  "summary": "",
+  "publishedAt": "2026-10-21T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "07d492365841",
+  "title": "テックファンド、セキュリティーの脆弱性を検知するAIエージェント",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15NG94VVY0c1kxdWRXOWZNX0k1a0dubEx4Uk1zVi1hcDJiWEdodGtyV3BLZ3Bwbnh3Q0hwQ1NhYkcwZGoydGN1OWJDSWwtNml2WmJrTF8tSjhkVm1yc21jRHM0NUt2SXc4SnhzTA?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-10-21T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2508f6a8daa2",
+  "title": "「ＡＩ・デジタル改革原則」、政府が策定へ…活用と安全対策を強化｜Infoseekニュース",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vb29fMWY5MHNpLTZhVWVOR3VOZEpLZWI4SXRpaDZmaEx0bndvRnJZNi1TRzlxZGVweWo4OFppN1M2LTRIU05ibGd6V0lHdzFlYTh5QnFwRUtGbWJjR08zRV9pQkIySGtGWVRpMENsOGZ6Zw?oc=5",
+  "source": "Infoseek",
+  "summary": "",
+  "publishedAt": "2026-10-21T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7a87d245f1c3",
+  "title": "AIが変えた半導体市場 シリコンサイクルは終わるのか",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR3JpSTdhRHh1d1FSaWVCUFA2dXJodWFXZW8yYU1DM05EWUdWZjdydnExSkF3RGhkRkJNcTJBY1VMczhrdWpwZ1VaY3hsV0h4SHlJZ2Rsa2ZJaXFoc3ZjYTF6SVgtZDJOMDQycmZjUlRzUHVidWxzVGNISlRsd3FjNEJSZWFfU1k?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-10-21T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ff7bc2f7725d",
+  "title": "山田製作所、AI導入を加速 指針を策定し定型業務で活用",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qZS1ETjRTTGZzanl4U3Y4MlQ1ZTdRaFprMTN6cmZSMGRlMldOODhPRkxJS2RIcnREVFVWTzlQRXFCS3FkUDk5djdUN2NVdXlhb2t4TjU4VHU?oc=5",
+  "source": "日刊工業新聞 電子版",
+  "summary": "",
+  "publishedAt": "2026-10-21T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8d6d906a11a9",
+  "title": "ＡＩ導入、知識学んで きらんで２６日に経営セミナー",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNem9JSWEtT09DQUdFOXdLUF9TOE9uUU81V2l2U3Rxak5OMHQzZGFsU0xpNjRiLV95SjZCZkZ1UUdhMDh0V2tVVmRVTQ?oc=5",
+  "source": "47NEWS",
+  "summary": "",
+  "publishedAt": "2026-10-21T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "96dceb0fb18c",
   "title": "日本語で探せる Agent Skills マーケット「cccskills」を公開。AI エージェント向けスキル約9.5万件を日本語で検索・比較",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EaVNTb21SN0hxNTFZN201STlkZnBBYS1tVkNITmF2b004M0VzTE5QZ3piRm13MnhhU0xkV0RXZXNHbE5jc1hyLXRpTmhER2dUSEhQRUU3RG1Pc0RvTTFSRHFpZUJnOUc5Z2c?oc=5",
@@ -163,6 +283,19 @@
   "source": "Jetstream",
   "summary": "",
   "publishedAt": "2026-10-21T18:24:52.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "274c3a57f559",
+  "title": "GeminiによるXRP予測：10月末に1.25〜1.42ドルに収まる確率60％",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXM2ZIeUV0b3ppNDNTbDd5NjlPZnpwVXlyb3VueUlLcHJuQ09ZRnY2UDdoaGxhbGNOUVNIWjQ1RUNqZjM4UWw4dUotTE1nVW1nTTl0TER5dWVLX2UwcVRXMFBsZHFNaDFVQzRqcEdOWU9TZUNt?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-21T18:19:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -261,6 +394,20 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f314d7647c45",
+  "title": "AI資金調達に暗雲、アジア半導体・部品銘柄にリスク－投資減速を警戒 フォトギャラリー | TBS CROSS DIG with Bloomberg",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPek1yM3N6V0hscTNIOHp4UDRnNWN4VGF1MHBNYUVEV1h4elh1M3pHQm9LZThJQWNWcmM1VEl6MVZmVk83ME9aOWwyM3dLLUU1MTF2U2JxWnFzdjhBTVNwaFItYmJvZFUxc2xnSmpweEpRRjRkQUs4dU5NT0x4ZnBJWXhfR0xiR28?oc=5",
+  "source": "TBS NEWS DIG",
+  "summary": "",
+  "publishedAt": "2026-10-21T17:07:32.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
   ],
   "isPR": false
  },

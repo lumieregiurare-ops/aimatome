@@ -5,8 +5,15 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-21T20:00:21.656Z</updated>
+  <updated>2026-10-21T20:30:20.134Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>Viteの.envはVITE_を付けるとビルドに入る：loadEnvの書き方次第でDB_PASSWORDもシェルの環境変数もdistに入った</title>
+    <link href="https://qiita.com/supportapp3/items/dc041b3603e2ebdb146a"/>
+    <id>https://aimatome.gamelab.website/#12cc38bc596f</id>
+    <updated>2026-10-21T20:13:44.000Z</updated>
+    <summary>Qiita ／ 結論 Vite では VITE_ で始まる変数は、ビルドした JS（dist/）にそのまま入ります（Vite公式）。.env に VITE_API_KEY と書いてコードで参照すると、値が dist/assets/*.js に平文で入りました。.env.local に...</summary>
+  </entry>
   <entry>
     <title>半導体メモリーの27年、市場拡大続き競争激化 中国2社が台風の目</title>
     <link href="https://xtech.nikkei.com/atcl/nxt/column/18/03740/100800014/"/>
@@ -71,6 +78,62 @@
     <summary>日経クロステック ／ ソブリンAI（人工知能）とは、国や企業が外部に依存することなく、自国・自社のデータや技術基盤を用いて自立的に開発・運用するAIシステムを指す。AIの社会実装が進み、AIで扱うデータの主権や技術的な自立性確保が急務となっていることから注目されるようになった。</summary>
   </entry>
   <entry>
+    <title>AGS、最新モデル搭載 生成AIサービス機能拡充</title>
+    <link href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGU1NIbGF4dzcwZVpwbXZfUjhUeHcyWkZkN1lnZzMzUmxlVU11NkFLeVp4eFV5cFFWa0E4dGY5akV2b3VuQjZHSFlBWVBnRUJFRXJqY180RTg?oc=5"/>
+    <id>https://aimatome.gamelab.website/#a3b5f77669da</id>
+    <updated>2026-10-21T20:00:00.000Z</updated>
+    <summary>日刊工業新聞 電子版</summary>
+  </entry>
+  <entry>
+    <title>RAGで「データをAIに送る」運用が限界を迎えている理由</title>
+    <link href="https://news.google.com/rss/articles/CBMicEFVX3lxTE03dWd3R1NJRWxZSnFfOGt0dDlrSFRZVERsU0l1NHNkTDh5QWZoSHlqcGV4WDZKQ2ROMXFpeklRN2dFdHB2NmEwM05NRlY1dEM1enBCMGR4WFBka3VQTGFYUmg3NjNrZ3htOTl4YjVBTUg?oc=5"/>
+    <id>https://aimatome.gamelab.website/#190200e2de28</id>
+    <updated>2026-10-21T20:00:00.000Z</updated>
+    <summary>TechTargetジャパン</summary>
+  </entry>
+  <entry>
+    <title>建設業のAI活用はなぜ「メール作成」止まりなのか 調査に見る“浸透の壁”：「AIの効果なし」と感じる層が4割超</title>
+    <link href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZLXJVUG9fMWVETXFiQThodGhaTnpncnFTMldYMDByODBISUk2ejYtbkxuc3RMRGdKSjg3SXd0Q0VHRE8zbWVEUVpsaFN5QTVoSkQyWXdFVmlBRjVyc04xSENtYnJ2WWJCZ0RNRENMam0?oc=5"/>
+    <id>https://aimatome.gamelab.website/#e7a52249daf7</id>
+    <updated>2026-10-21T20:00:00.000Z</updated>
+    <summary>TechTargetジャパン</summary>
+  </entry>
+  <entry>
+    <title>テックファンド、セキュリティーの脆弱性を検知するAIエージェント</title>
+    <link href="https://news.google.com/rss/articles/CBMibEFVX3lxTE15NG94VVY0c1kxdWRXOWZNX0k1a0dubEx4Uk1zVi1hcDJiWEdodGtyV3BLZ3Bwbnh3Q0hwQ1NhYkcwZGoydGN1OWJDSWwtNml2WmJrTF8tSjhkVm1yc21jRHM0NUt2SXc4SnhzTA?oc=5"/>
+    <id>https://aimatome.gamelab.website/#07d492365841</id>
+    <updated>2026-10-21T20:00:00.000Z</updated>
+    <summary>日本経済新聞</summary>
+  </entry>
+  <entry>
+    <title>「ＡＩ・デジタル改革原則」、政府が策定へ…活用と安全対策を強化｜Infoseekニュース</title>
+    <link href="https://news.google.com/rss/articles/CBMickFVX3lxTE5vb29fMWY5MHNpLTZhVWVOR3VOZEpLZWI4SXRpaDZmaEx0bndvRnJZNi1TRzlxZGVweWo4OFppN1M2LTRIU05ibGd6V0lHdzFlYTh5QnFwRUtGbWJjR08zRV9pQkIySGtGWVRpMENsOGZ6Zw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#2508f6a8daa2</id>
+    <updated>2026-10-21T20:00:00.000Z</updated>
+    <summary>Infoseek</summary>
+  </entry>
+  <entry>
+    <title>AIが変えた半導体市場 シリコンサイクルは終わるのか</title>
+    <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPR3JpSTdhRHh1d1FSaWVCUFA2dXJodWFXZW8yYU1DM05EWUdWZjdydnExSkF3RGhkRkJNcTJBY1VMczhrdWpwZ1VaY3hsV0h4SHlJZ2Rsa2ZJaXFoc3ZjYTF6SVgtZDJOMDQycmZjUlRzUHVidWxzVGNISlRsd3FjNEJSZWFfU1k?oc=5"/>
+    <id>https://aimatome.gamelab.website/#7a87d245f1c3</id>
+    <updated>2026-10-21T20:00:00.000Z</updated>
+    <summary>日本経済新聞</summary>
+  </entry>
+  <entry>
+    <title>山田製作所、AI導入を加速 指針を策定し定型業務で活用</title>
+    <link href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qZS1ETjRTTGZzanl4U3Y4MlQ1ZTdRaFprMTN6cmZSMGRlMldOODhPRkxJS2RIcnREVFVWTzlQRXFCS3FkUDk5djdUN2NVdXlhb2t4TjU4VHU?oc=5"/>
+    <id>https://aimatome.gamelab.website/#ff7bc2f7725d</id>
+    <updated>2026-10-21T20:00:00.000Z</updated>
+    <summary>日刊工業新聞 電子版</summary>
+  </entry>
+  <entry>
+    <title>ＡＩ導入、知識学んで きらんで２６日に経営セミナー</title>
+    <link href="https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNem9JSWEtT09DQUdFOXdLUF9TOE9uUU81V2l2U3Rxak5OMHQzZGFsU0xpNjRiLV95SjZCZkZ1UUdhMDh0V2tVVmRVTQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#8d6d906a11a9</id>
+    <updated>2026-10-21T20:00:00.000Z</updated>
+    <summary>47NEWS</summary>
+  </entry>
+  <entry>
     <title>日本語で探せる Agent Skills マーケット「cccskills」を公開。AI エージェント向けスキル約9.5万件を日本語で検索・比較</title>
     <link href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1EaVNTb21SN0hxNTFZN201STlkZnBBYS1tVkNITmF2b004M0VzTE5QZ3piRm13MnhhU0xkV0RXZXNHbE5jc1hyLXRpTmhER2dUSEhQRUU3RG1Pc0RvTTFSRHFpZUJnOUc5Z2c?oc=5"/>
     <id>https://aimatome.gamelab.website/#96dceb0fb18c</id>
@@ -99,25 +162,18 @@
     <summary>Jetstream</summary>
   </entry>
   <entry>
+    <title>GeminiによるXRP予測：10月末に1.25〜1.42ドルに収まる確率60％</title>
+    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBXM2ZIeUV0b3ppNDNTbDd5NjlPZnpwVXlyb3VueUlLcHJuQ09ZRnY2UDdoaGxhbGNOUVNIWjQ1RUNqZjM4UWw4dUotTE1nVW1nTTl0TER5dWVLX2UwcVRXMFBsZHFNaDFVQzRqcEdOWU9TZUNt?oc=5"/>
+    <id>https://aimatome.gamelab.website/#274c3a57f559</id>
+    <updated>2026-10-21T18:19:00.000Z</updated>
+    <summary>BigGo ファイナンス</summary>
+  </entry>
+  <entry>
     <title>リーガラ、5.5億ドル調達 評価額88億ドル ARR2億ドル超の法務AI、アトレイデス主導</title>
     <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0RUNKRjVsZ3VpSS02QlFVc19nenpUb3VEUnZHNU1ueVBWOVJHVkNmeUVJcG8wdW43ZXFtN1FnMzdCaHFJd0VFS0NWb1VVOGtZMnR3?oc=5"/>
     <id>https://aimatome.gamelab.website/#6508ccff54d3</id>
     <updated>2026-10-21T18:17:00.000Z</updated>
     <summary>ビジネス+IT</summary>
-  </entry>
-  <entry>
-    <title>オラクルとアストラゼネカ、治験患者探しにAI導入で提携</title>
-    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE13aGNXbXdNU1JvaXNCSUFSZGFKa21OQ2xZMXpXeFlKdk1yRmRKczNTbkh0cFhhN2ZvalBHQW5VSGgyc1VCQkpxZkFiTGplTUFuUFlIXzlrcXpJZDBJQ1FRQVF3b1JIVnJBcWtxczNHRGZ3YzNX?oc=5"/>
-    <id>https://aimatome.gamelab.website/#20421523784d</id>
-    <updated>2026-10-21T18:15:00.000Z</updated>
-    <summary>BigGo ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>株式会社Curentioraを設立、全国訪問型の中小企業向けAI支援ブランド「中小企業AI研究所」を展開</title>
-    <link href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5wLUQyUlpOeW80dmUwc3Vmb1BESzA0YmZKSXBTTXRpZTNKdUJIdjYydGdxY0pVajJnSnVFZWNwbmlqYk9KRkwyejFTeE84VWRTVE1Ecmc5Y0dERWZMcGRJZlYxNHdMY0RxUGRRd2hPVkZJRkNobVVfci1uQQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#d511669e1511</id>
-    <updated>2026-10-21T17:45:36.000Z</updated>
-    <summary>ニコニコニュース</summary>
   </entry>
   <entry>
     <title>AIが脆弱性を発見する時代、セキュリティ対応できる組織をどう育てるか ― php2shellから考える人材育成と技術投資</title>
@@ -146,6 +202,13 @@
     <id>https://aimatome.gamelab.website/#7621c4c07b68</id>
     <updated>2026-10-21T17:08:59.000Z</updated>
     <summary>Infoseek</summary>
+  </entry>
+  <entry>
+    <title>AI資金調達に暗雲、アジア半導体・部品銘柄にリスク－投資減速を警戒 フォトギャラリー | TBS CROSS DIG with Bloomberg</title>
+    <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPek1yM3N6V0hscTNIOHp4UDRnNWN4VGF1MHBNYUVEV1h4elh1M3pHQm9LZThJQWNWcmM1VEl6MVZmVk83ME9aOWwyM3dLLUU1MTF2U2JxWnFzdjhBTVNwaFItYmJvZFUxc2xnSmpweEpRRjRkQUs4dU5NT0x4ZnBJWXhfR0xiR28?oc=5"/>
+    <id>https://aimatome.gamelab.website/#f314d7647c45</id>
+    <updated>2026-10-21T17:07:32.000Z</updated>
+    <summary>TBS NEWS DIG</summary>
   </entry>
   <entry>
     <title>AWSのEMEA地域責任者によると、規制や資金調達、スキル不足がAIの導入を妨げているため、欧州ではスタートアップの流出が懸念されているという</title>
@@ -209,13 +272,6 @@
     <id>https://aimatome.gamelab.website/#524af84c8805</id>
     <updated>2026-10-21T16:09:56.000Z</updated>
     <summary>OrcaRouter</summary>
-  </entry>
-  <entry>
-    <title>VirtualBoxでLinux-AI OS 1.0 Starをインストールする手順【Windows 11】</title>
-    <link href="https://qiita.com/sora404/items/5a4aadefade18d729651"/>
-    <id>https://aimatome.gamelab.website/#f9e123596248</id>
-    <updated>2026-10-21T16:00:49.000Z</updated>
-    <summary>Qiita ／ はじめに Linux-AI OSを試すため、Windows上のVirtualBoxにインストールしました。 今回は、インストールから起動までの手順についてまとめます。 仮想マシン上でLinux-AI OSを動かしたい方の参考になれば幸いです。 1. 検証環境 項目...</summary>
   </entry>
   <entry>
     <title>Google、CarPlay の Google マップに Gemini を追加。米国で利用可能、グローバルでも展開中</title>
@@ -300,61 +356,5 @@
     <id>https://aimatome.gamelab.website/#067d6eb3c335</id>
     <updated>2026-10-21T14:42:32.000Z</updated>
     <summary>Zenn ／ AI の使用上限（一定の利用量に達すると、回復するまで使えなくなる制限）で作業が止まったとき、回復の時刻に会話を自動で再開させる仕組みを作りました。ところが、再開は画面に出ないところで進むので、止まったままの古いターミナル画面（コマンドを打ち込む黒い画面）は、そのことを知りません。そこへうっかり指示を打つと、同じ会話…</summary>
-  </entry>
-  <entry>
-    <title>OpenAI、GPT-6 AstraとCodexをGoogle CloudのModel Gardenで提供へ - ニュースと統計</title>
-    <link href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFRuR211QXRzS3h3Q01TRHNnT2wySzl5V2lKdGdXZVdZZzBVUjdZaGZYeTRNWk5YSDNRZFVra2F1SjVzeGJsRWxsNWRxRjNmdmxCcDc2cndvUDdXb3FEQ2JyYXdKeGpmaU5JOUNxZ2N2R2kyeDFleEFTYjQwd194bTNGTng0NlZ0OERyT01pc3ZPeTRsU09PSUw1MEV4U0w0NHg4?oc=5"/>
-    <id>https://aimatome.gamelab.website/#848bd49a4067</id>
-    <updated>2026-10-21T14:41:26.000Z</updated>
-    <summary>IndexBox</summary>
-  </entry>
-  <entry>
-    <title>Nvidiaが「ロボット版ChatGPT」を宣言…LG電子・Bear Roboticsがエコシステムに参加</title>
-    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9kb2dpUDVHbm9ZdGwwSC1wLThLVzBNLVhHS3YxWGtpcDBMOHItbFVqQXlQc05MUDB4Z2psaUlMdGN1MVhWblAzeVlZNUN3djBwN0NFdjFZYmV6T09IbGRWM3FVbzVtdEUyZTBNVWtoRFlWWnB5?oc=5"/>
-    <id>https://aimatome.gamelab.website/#41ac1a0abd80</id>
-    <updated>2026-10-21T14:35:00.000Z</updated>
-    <summary>BigGo ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>OpenAI：低リソースのプログラミング言語でコーディングを進化させるには、動作の維持が必要</title>
-    <link href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQcnRhT0pfcWg0Wm1HSDBJRXJvbkY5U2RGVEFRbUxISF9BUlZkY0hwZy1OeS16UTBSbEJvbGNWT2J3NFk2MVhOQjhjN28wUmdqRlpQVFFxMDZMalFKZmJqVnNOeUltUEZLck1NYXZORUdEM0ZKbjFaM2YzakVZbnFkbjhmTGNnTVg4T3NQN1ZtNWpuX1BXalhtd0Y2d0lfZGR3MDczeXZCTnNmcDY3MHc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#199ec78ce507</id>
-    <updated>2026-10-21T14:13:49.000Z</updated>
-    <summary>remio</summary>
-  </entry>
-  <entry>
-    <title>OpenAIのGPT-6 Astra、安全監視を勝手に外して「外していない」と虚偽回答</title>
-    <link href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPODMtYmUyU1p0Sl92Y0stQzlHMEtETWN1NUw1MnBndXloTnRia0pybGxtV05fMXpKQzZVLXNfbENQLWFRU3NHOWRyYzNpLWx4RDhrcUZ4U1oyR3FGOHAzQkEyZ2xEMERVS1plRmlwTDhHTGI1Y0pGX2gtajR4MzNzMXlnbDg5X3hhOXFPVw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#e9f0c798f4d4</id>
-    <updated>2026-10-21T14:08:51.000Z</updated>
-    <summary>Martin Cid Magazine</summary>
-  </entry>
-  <entry>
-    <title>【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみよ…</title>
-    <link href="https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html"/>
-    <id>https://aimatome.gamelab.website/#239f31c67008</id>
-    <updated>2026-10-21T14:07:21.000Z</updated>
-    <summary>はてなブックマーク ／ が、「23時にパッチが公開されたら、それをAIで解…</summary>
-  </entry>
-  <entry>
-    <title>AIエージェントに「実装しながら考える」をさせない。技術負債を減らす計画書作成プロンプト</title>
-    <link href="https://zenn.dev/kazuki_izutani/articles/1709552ca099f1"/>
-    <id>https://aimatome.gamelab.website/#57adfe52805c</id>
-    <updated>2026-10-21T13:56:29.000Z</updated>
-    <summary>Zenn ／ はじめに Claude Code などのコーディングエージェントに実装を任せていると、既存の共通関数を使わずに似た関数を新たに作ったり、他の箇所とは違う方法でエラー処理をしたりすることがあります。 これらの原因の多くは、実装前の計画のあいまいさにあります。計画に未決定や要検討の項目が残っていると、エージェントは、実装…</summary>
-  </entry>
-  <entry>
-    <title>金融K線専用の基盤モデルKronosにBTC/USDTの値動きを予測させてみた</title>
-    <link href="https://zenn.dev/matsushima_a/articles/day-022-kronos-btc-price-forecast"/>
-    <id>https://aimatome.gamelab.website/#468b0478c508</id>
-    <updated>2026-10-21T13:56:07.000Z</updated>
-    <summary>Zenn ／ AAAI 2026に採択された金融ローソク足(K線)専用の基盤モデル「Kronos」を、実際にBTC/USDTの1時間足データで動かし、予測結果を実際の値動きと突き合わせてみた。結論から言うと、CPUだけでも十分実用的な速度で動く一方、方向性(上がるか下がるか)の予測力については、今回の検証範囲ではコイン投げ程度にと…</summary>
-  </entry>
-  <entry>
-    <title>Claude Code の AskUserQuestion にフックで答える（スマホからも）</title>
-    <link href="https://zenn.dev/dawon/articles/c21789f4cb0b6f"/>
-    <id>https://aimatome.gamelab.website/#af7f714016dc</id>
-    <updated>2026-10-21T13:47:01.000Z</updated>
-    <summary>Zenn ／ Claude Code はときどき AskUserQuestion ツールで選択式の質問をしてきます（「どのフレームワークにしますか？」など）。ターミナルの前にいないと、そこで止まったままになります。 フックのドキュメントには -p モードで答える方法（PreToolUse フックが allow と答えを入れた up…</summary>
   </entry>
 </feed>
