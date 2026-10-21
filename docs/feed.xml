@@ -5,7 +5,7 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-21T16:30:29.937Z</updated>
+  <updated>2026-10-21T17:00:25.419Z</updated>
   <author><name>AI matomechatter</name></author>
   <entry>
     <title>OpenAIはChatGPTにおける広告配信対象国をさらに26カ国に拡大した。</title>
@@ -16,10 +16,10 @@
   </entry>
   <entry>
     <title>PHPの脆弱性、OpenAIのAIで発見 「同様の発見、今後数カ月で急増」</title>
-    <link href="https://news.google.com/rss/articles/CBMiekFVX3lxTE9TWVpFaHpqN2EwNTk2Rm5WTXc0YnQ5c0Q5UFQtVC1PRVhybW0xLU5XRDEzNmphSDM3S3FGMERGUF9EZWVGbThuRlFKRjZoZGNwbkVRZ0hyeWxjaWxmUkhaVndHNXRGemt3N2RpNmQ1MDRUVDJEUkZ5TVdB0gF_QVVfeXFMT0RDVG1qWlMtYUVpVzMtQ3Rhb2hGbE1PdVE5ckZLY0RoeFl4cWpfXzdGdjBsQ25mdGJMamRUQmoxMUdJeHdKU3VLREdfYU9GSUJDUmI5SmJkSjlTNjU4bXE5amV5WWJobnJjcU1Cc2tNOExLYUEyeXBXRndCZUdvZw?oc=5"/>
+    <link href="https://www.itmedia.co.jp/aiplus/article/2610/22/2000002482/"/>
     <id>https://aimatome.gamelab.website/#496577d01be6</id>
-    <updated>2026-10-21T16:14:54.000Z</updated>
-    <summary>Infoseek</summary>
+    <updated>2026-10-21T16:12:28.000Z</updated>
+    <summary>ITmedia AI+ ／ 米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。</summary>
   </entry>
   <entry>
     <title>OpenAIは、自社の制御不能なエージェントが100以上の組織に接触したと発表した</title>
@@ -113,6 +113,13 @@
     <summary>日経メディカル</summary>
   </entry>
   <entry>
+    <title>Claude Codeの自動再開のあと、古い画面に入力すると会話が二つに分かれる。送信を止めるフックを作った</title>
+    <link href="https://zenn.dev/twinharness/articles/resume-guard-stale-terminal"/>
+    <id>https://aimatome.gamelab.website/#067d6eb3c335</id>
+    <updated>2026-10-21T14:42:32.000Z</updated>
+    <summary>Zenn ／ AI の使用上限（一定の利用量に達すると、回復するまで使えなくなる制限）で作業が止まったとき、回復の時刻に会話を自動で再開させる仕組みを作りました。ところが、再開は画面に出ないところで進むので、止まったままの古いターミナル画面（コマンドを打ち込む黒い画面）は、そのことを知りません。そこへうっかり指示を打つと、同じ会話…</summary>
+  </entry>
+  <entry>
     <title>OpenAI、GPT-6 AstraとCodexをGoogle CloudのModel Gardenで提供へ - ニュースと統計</title>
     <link href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNZFRuR211QXRzS3h3Q01TRHNnT2wySzl5V2lKdGdXZVdZZzBVUjdZaGZYeTRNWk5YSDNRZFVra2F1SjVzeGJsRWxsNWRxRjNmdmxCcDc2cndvUDdXb3FEQ2JyYXdKeGpmaU5JOUNxZ2N2R2kyeDFleEFTYjQwd194bTNGTng0NlZ0OERyT01pc3ZPeTRsU09PSUw1MEV4U0w0NHg4?oc=5"/>
     <id>https://aimatome.gamelab.website/#848bd49a4067</id>
@@ -169,18 +176,18 @@
     <summary>Zenn ／ AAAI 2026に採択された金融ローソク足(K線)専用の基盤モデル「Kronos」を、実際にBTC/USDTの1時間足データで動かし、予測結果を実際の値動きと突き合わせてみた。結論から言うと、CPUだけでも十分実用的な速度で動く一方、方向性(上がるか下がるか)の予測力については、今回の検証範囲ではコイン投げ程度にと…</summary>
   </entry>
   <entry>
+    <title>Claude Code の AskUserQuestion にフックで答える（スマホからも）</title>
+    <link href="https://zenn.dev/dawon/articles/c21789f4cb0b6f"/>
+    <id>https://aimatome.gamelab.website/#af7f714016dc</id>
+    <updated>2026-10-21T13:47:01.000Z</updated>
+    <summary>Zenn ／ Claude Code はときどき AskUserQuestion ツールで選択式の質問をしてきます（「どのフレームワークにしますか？」など）。ターミナルの前にいないと、そこで止まったままになります。 フックのドキュメントには -p モードで答える方法（PreToolUse フックが allow と答えを入れた up…</summary>
+  </entry>
+  <entry>
     <title>OpenAI、ChatGPT広告を26カ国で追加展開 対象は89カ国に拡大</title>
     <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE0yTHd4cEdENmNiTUc4dHdsaDItSzhLOWdGQzBGUXBHbzFOb241WUZmTEpuR3pEdldLN3g5VGlCcmFyVERkZTRPT1o3YU1Lc3JMZEdqcTFicTRLZm5Ka0tpT2pWREN5T2lRSzRQTm94OHlXZWhI?oc=5"/>
     <id>https://aimatome.gamelab.website/#97d574ba84d4</id>
-    <updated>2026-10-21T13:38:39.000Z</updated>
+    <updated>2026-10-21T13:39:09.000Z</updated>
     <summary>BigGo ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>OpenAI、26市場への拡大によりChatGPT広告の提供国を89カ国に拡大</title>
-    <link href="https://news.google.com/rss/articles/CBMilwFBVV95cUxNNTViX01pLWlGSUM3Wml1M29aS2VPSV8wZF9lNVQ0bkw3TWQ4bkxlOEpkWHpnTFRhSkd4M3Q3clFMNUt6UlNHR3pOUXZNV2VyMWczRE0xcjZNay1ZX2FiMHJWVHZiTU1OcF81MjZlVUFCdm82blRWOWw3WHNqOTdVYWZwcVpLZkZGMV82OGMtdWNuaTFNR2p3?oc=5"/>
-    <id>https://aimatome.gamelab.website/#1e4409631300</id>
-    <updated>2026-10-21T13:30:38.000Z</updated>
-    <summary>Unite.AI</summary>
   </entry>
   <entry>
     <title>生成AI企業のCEO、AIが俳優に取って代わると発言</title>
@@ -190,11 +197,11 @@
     <summary>映画.com</summary>
   </entry>
   <entry>
-    <title>OpenAI：最先端モデルがGoogle Cloud Marketplaceで購入可能に</title>
-    <link href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjZNc3VnUW9mRG5PemZZanBNZkFTNW1hWTNidjF2ZUNlekZtVDBOWU5MWFhWT2hxaTNGRXpvREUwanBuLUh3YUd2enY0dFduX1ROQlBJcmNub0FhRGJrV2tQeE0tck5jc1dVTHZQcDNMb2hHQjdBWHE0U2RiR2hsV1lqZU9menhvVklRYkowdnR5b3htY2JBNWNnRDFSc3hhM3V2TDNrZ3hBcXIxMGxV?oc=5"/>
-    <id>https://aimatome.gamelab.website/#751dd810db92</id>
-    <updated>2026-10-21T13:21:59.000Z</updated>
-    <summary>Moomoo</summary>
+    <title>AI にほかの AI へ相談させていたら、返事を誰も読んでいなかった</title>
+    <link href="https://zenn.dev/claire_ai/articles/gaibu-ai-iriguchi"/>
+    <id>https://aimatome.gamelab.website/#25b658165c28</id>
+    <updated>2026-10-21T13:25:49.000Z</updated>
+    <summary>Zenn ／ 「codex や Gemini に投げてることが監視アプリ上でわからない＆返ってきても放置が多い」 2026-09-07、作業を任せている AI（Claude Code）の動きを見ていて、こう言われた。 ! 🔑 具体的な中身（全体の作り・数字・直し方）は、こちらの記事に書いています この記事では概要だけを書いていま…</summary>
   </entry>
   <entry>
     <title>OpenAIがChatGPTの広告を新たに26カ国に拡大 執筆 - Investing.com</title>
@@ -211,6 +218,13 @@
     <summary>ニコニコニュース</summary>
   </entry>
   <entry>
+    <title>アムール株式会社、生成AI活用普及協会（GUGA）のシニアパートナーに参画｜Infoseekニュース</title>
+    <link href="https://news.google.com/rss/articles/CBMickFVX3lxTFBVU0VXczZ2Y0YyUHI1TXBsTW43UXNhd1RwYUsxQjQ5ekFub0dlc3FGd0tBSzM3VDh3MlI3WXdkZnhNUzdRcm5maVBKdTU1Ukl2c0hGYkhIQ0RTR1B4V3NXbEk4LVpHaWRULXU5Und4UkhfUQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#119cab43740e</id>
+    <updated>2026-10-21T13:10:02.000Z</updated>
+    <summary>Infoseek</summary>
+  </entry>
+  <entry>
     <title>reasoning_effortが接続先で変わるときの3つの失敗と対処</title>
     <link href="https://zenn.dev/orca_forge/articles/openai-compatible-reasoning-effort"/>
     <id>https://aimatome.gamelab.website/#eb2da3b9f6a2</id>
@@ -223,6 +237,13 @@
     <id>https://aimatome.gamelab.website/#fff3480782d4</id>
     <updated>2026-10-21T13:05:29.000Z</updated>
     <summary>はてなブックマーク</summary>
+  </entry>
+  <entry>
+    <title>個人向けAIエージェントが全ネットワークで「ブロック」される：MetaのMuse、字節跳動の豆包が相次いでプラットフォームの門番に阻まれる</title>
+    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5NN3NmdjBOY2hoZlBYNWZFdkM1YkJrZDBFc2dKR0Q1aEFuOWI5VlZKdGZiUmt1TGZPRXNIVGhfU1hsQ01MU3NSekkybnVTanE3ejlyNS0wRXRZWWNyenRoUlltX25XWXpmdW9BSFdhMlRzQVNU?oc=5"/>
+    <id>https://aimatome.gamelab.website/#1c417e13f1dd</id>
+    <updated>2026-10-21T13:05:00.000Z</updated>
+    <summary>BigGo ファイナンス</summary>
   </entry>
   <entry>
     <title>SentinelOne、AIエージェント向けセキュリティ検知プラットフォームを発表 執筆 - Investing.com</title>
@@ -253,11 +274,25 @@
     <summary>Vietnam.vn</summary>
   </entry>
   <entry>
+    <title>Claude Code×Claude in ChromeでUIテストを自動化する【指示の書き方とスキル化】</title>
+    <link href="https://zenn.dev/suekichi_system/articles/claude-code-chrome-ui-testing"/>
+    <id>https://aimatome.gamelab.website/#18019ad37105</id>
+    <updated>2026-10-21T12:56:25.000Z</updated>
+    <summary>Zenn ／ 🚀 はじめに AIに実装を任せても、画面を開いて動作を確かめるのは人の仕事のまま、という状態になっていないでしょうか。 この記事では、Claude Code と Claude in Chrome を連携して、画面の確認（UIテスト）までAIに任せる方法を紹介します。 Claude Code と Chrome をつな…</summary>
+  </entry>
+  <entry>
     <title>Nvidia、AIエージェントを統制する企業向けセキュリティ設計「OpenShell」を公開</title>
     <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBVaVBXQlh4bVNvdVVyUk1pdG11VFA2R3RNWGFfQllzeXFqSy1YdEszSjJyLTNqUU9ZRnQ5S3JEaHpURVJhNjJCVGY5c3VSb0E4X21IN0tlNlNIOFM1WEIxZ3k0bHFhWUlQNDRiaXY3T2NwN2Jm?oc=5"/>
     <id>https://aimatome.gamelab.website/#3dfc576fd2d4</id>
     <updated>2026-10-21T12:55:00.000Z</updated>
     <summary>BigGo ファイナンス</summary>
+  </entry>
+  <entry>
+    <title>AI駆動開発のためのWebプロジェクト初期構築ガイド</title>
+    <link href="https://zenn.dev/h_kamikawa/articles/007d98ac98bb3f"/>
+    <id>https://aimatome.gamelab.website/#578a00dfeadf</id>
+    <updated>2026-10-21T12:53:42.000Z</updated>
+    <summary>Zenn ／ はじめに 個人開発・クライアントワークで、AIエージェントを前提としたWeb開発環境を構築するための標準手順。 本格的な機能開発を開始する前に、ローカル環境・GitHub・インフラ・CI/CD・初回デプロイ・公開確認まで完了させる。 これにより、開発開始後は機能実装に集中できる。 技術スタック アプリケーションの種類…</summary>
   </entry>
   <entry>
     <title>Athena、無検閲のローカルLLMを活用したAIエージェントが企業システムの攻撃検証を担う「Athena</title>
@@ -295,6 +330,13 @@
     <summary>BigGo ファイナンス</summary>
   </entry>
   <entry>
+    <title>Claude Code 10月リリースを導入判断で読む：Haiku 5.5・effort指定・hooksのonFailureをどう入れるか</title>
+    <link href="https://zenn.dev/joinclass/articles/claude-code-oct-2026-release-adoption"/>
+    <id>https://aimatome.gamelab.website/#7114e4f56336</id>
+    <updated>2026-10-21T12:34:40.000Z</updated>
+    <summary>Zenn ／ なぜこの記事を書くのか 当社（合同会社ジョインクラス）では、書籍の執筆、売上集計、朝のダイジェストなどを claude -p のヘッドレス実行で回しています。人が見ていない時間に動くので、Claude Codeのリリースは「便利な新機能」ではなく、コストと事故率が変わるかどうかという目で読む必要があります。 2026…</summary>
+  </entry>
+  <entry>
     <title>Gemini 4 Argon Carbon の目撃情報：同名で新たな重量？</title>
     <link href="https://news.google.com/rss/articles/CBMic0FVX3lxTFBsM2FSY01PRjJEdEZGRUJEdmMtWFg0c3ZpSjVGbEpLZ2RjdVcwRFhNazB1ZjdZekprOGFiY2NUUFhpR3RyNVZqWk0wdUxVRkVrcnowUHRJbXo3cTJyUWRnb2xueW5LRXNKdlBiMC1jbWRiSHM?oc=5"/>
     <id>https://aimatome.gamelab.website/#475e59052f69</id>
@@ -314,47 +356,5 @@
     <id>https://aimatome.gamelab.website/#2f3a411a377b</id>
     <updated>2026-10-21T12:19:07.000Z</updated>
     <summary>PR TIMES</summary>
-  </entry>
-  <entry>
-    <title>LLMの評価を楽にしたいので、Pydantic Evalsを使ってみる</title>
-    <link href="https://zenn.dev/straydog/articles/915146b34d876a"/>
-    <id>https://aimatome.gamelab.website/#37d8b733b71c</id>
-    <updated>2026-10-21T12:17:34.000Z</updated>
-    <summary>Zenn ／ はじめに ここ1年ほど、LLMの調整をする中で、特に大変だったのが品質の確認です。調整のたびに結果を評価し直す必要があり、その繰り返しがしんどくなることも多くありました。評価用ライブラリがいくつも登場しているのも、同じような苦労をしている開発者が多いからではないかと思います。 また、JevのようなDecisionモデ…</summary>
-  </entry>
-  <entry>
-    <title>Eleven Realtime v1 Max 対 Gemini 3.8 Live：より高速で、推論はより鋭く、価格は5.7倍</title>
-    <link href="https://news.google.com/rss/articles/CBMifEFVX3lxTE5yOGlBcnh2SU5STThVU19oVkUtSTZrUjlaYXJ4cEJPUVE2ODFpamRBdmhpME1zSkZuTTgtcWI4YTRhRXdHTUlVMUk1ODU5X2ZVQnZRWWt1dk55b3N3bjJyUmRVT1hxNUFyRno0N05zdzVLM19BRFVPRWFoOGk?oc=5"/>
-    <id>https://aimatome.gamelab.website/#f67a12d7861c</id>
-    <updated>2026-10-21T12:12:05.000Z</updated>
-    <summary>OrcaRouter</summary>
-  </entry>
-  <entry>
-    <title>自らのユーザーを学習するバイオニックAI義手——パトリック・ピラルスキー博士｜TechSurge: Deep Tech VC Podcast</title>
-    <link href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yNWNFbWRqaTF0RG1DX1FoUURtaTB4V3BQYW1GWThYTnNjQ2NYOHdJNG5sODlka0k3N0lwcWtWaWFEM3lIdnhTUkRrZWJsVnFvVmFTZVJfTHBPT0dSQ0E?oc=5"/>
-    <id>https://aimatome.gamelab.website/#3e8089a57772</id>
-    <updated>2026-10-21T12:08:14.000Z</updated>
-    <summary>BigGo ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>マイクロソフトが監視AIを発表、「AIを監視するAI」が必要に？ 米国による中国AI「DeepSeek」排除も【AIニュース3選】</title>
-    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5fQlFGdDJZblFhRWZVRmRBTjRpUW9Oc09TcGFBTDl2WG5JR3QyS3cxVlJSb1p6WjlxOXgzeTJKckRMZmYyTThKR2FaaUNhZVpOT0pia296NVRMR2VZbEgtWjRfd2ppWGdXZFVWdkpzaTMzVWlSZVI1SWkwU1paN0U?oc=5"/>
-    <id>https://aimatome.gamelab.website/#3b68f7b7c6e8</id>
-    <updated>2026-10-21T12:03:09.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
-  </entry>
-  <entry>
-    <title>キヤノン、露光装置の生産倍増＝27年、AI半導体需要拡大で(時事通信)</title>
-    <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNNHlkLVp6amlkTzJ1NVVDa3ZsSzlNNEQ4NmE5VmhydGVlYlVndHc3X1I5UnVJTWZkdWl4cEZySHViT0J6MjVBNldUQzg1MVp5RlRaTDQ5b2Noa3dUWU1NcWFfUlNvZE9jNUQ0MUlWeTFuX1dORWVCNzZjYmh4bnlSV2J2QU5HRUk?oc=5"/>
-    <id>https://aimatome.gamelab.website/#e511f7c25e7e</id>
-    <updated>2026-10-21T12:00:24.000Z</updated>
-    <summary>Yahoo!ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>今回の協力により両社は共同投資を通じてサムスン電気世宗·釜山事業場にAI半導体パッケージ基板専用生産ラインを増設する。</title>
-    <link href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIWnZTUzBnNG1VQVoxNWg3VXhtODVnblF6eE8wekJYYWttbWJuMkdZRGlaR2cyVEtXdkllWHVnMHhJY205X0Etb05hYWEzb0k?oc=5"/>
-    <id>https://aimatome.gamelab.website/#eaaa1f9e06f8</id>
-    <updated>2026-10-21T11:57:16.000Z</updated>
-    <summary>매일경제</summary>
   </entry>
 </feed>
