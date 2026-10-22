@@ -1,5 +1,45 @@
 [
  {
+  "id": "b68c520a7c6a",
+  "title": "APIキーを export するとシェル履歴に平文で残る：先頭スペースが効く条件と history -d -2 で消す方法（bashで確認）",
+  "url": "https://qiita.com/supportapp3/items/1e02584be1add8b7f1a2",
+  "source": "Qiita",
+  "summary": "結論 export OPENAI_API_KEY=sk-... のようにキーをコマンドに直接書くと、bash はその行を ~/.bash_history に平文で保存します。curl -H \"Authorization: Bearer ...\" も同じでした（筆者の環...",
+  "publishedAt": "2026-10-22T20:11:59.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e7a0dbcede50",
+  "title": "信越化学、富士フイルムも…生成AIを支える半導体素材に「日本の勝機」がある企業の実名",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iNjFsVE5VSXkzX2djZFdfRHJId1FmcXZ1emJBNm5UdVdtdXV5RGRlbG5yMzM4X3JvSUFJVDZpcGxtUVg0XzR2aU1zUlJXTnM?oc=5",
+  "source": "現代ビジネス",
+  "summary": "",
+  "publishedAt": "2026-10-22T20:05:16.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "066c6fc0b49f",
+  "title": "最新人型ロボ導入 茨城県、フィジカルAI推進 研究・人材育成に活用",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aUG1JLVpWSU9wYTlfa1NNNWRlczdmOW8wRzJ4cFpsMmJaSGJHNlA1SlpPZnkxcmZ5U0ctR0x1SDg3MTJSTDloajRuVGFGa2VzU0pNZUhzWUFXWl9PV1ZYdFRUVXpBeUNPc0psSVVHdFo3Vjg?oc=5",
+  "source": "茨城新聞クロスアイ",
+  "summary": "",
+  "publishedAt": "2026-10-22T20:03:45.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "4126cc7e7cb6",
   "title": "生成AIの学習用基盤で存在感増すUDP、データロスを防ぐあの手この手を詳説",
   "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03797/101300005/",
@@ -160,6 +200,73 @@
   "isPR": false
  },
  {
+  "id": "93a338fb4dd8",
+  "title": "AIエージェントにコスト増のリスク、PCで自分専用AIが使える技術が続々",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmdWX08zcVpuQk56TURQUE5JMTU3N1RuTmI3U0w1b05BNDdoakl2QkZXaF9Pa3llWDFxSFI3NmhrLUdKczlEZDVsOElEYXBIbm0tZFVINVpoYml3dTc1ejJPR2hnYVE0anZqS2gyY2swVTZGR1RpNkRiMnVOQUd2QThzbG1nNVJwel85NzhhVDIwS2c?oc=5",
+  "source": "日経クロステック Active",
+  "summary": "",
+  "publishedAt": "2026-10-22T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ae63a8dafdae",
+  "title": "第316回 AI相場の崩壊前夜か？ 中国半導体メーカー「CXMT」が引き起こすDRAM市場の大改編：頭脳放談",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50cEFLMEFRZTNLRHY1ZzNkUHFvU3hDLXM1WHZhZFZXcF9ZYl9BX093NnN2Zi04SlhPZGpKSXhLR0h1OWJWMkdQOTdlQkNLbUh3SFJxdkVENW1XWHo2Z0RLcjhsSWJkTlotR0dHcERMekxLdw?oc=5",
+  "source": "ITmedia",
+  "summary": "",
+  "publishedAt": "2026-10-22T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f4993f7660ed",
+  "title": "AI悪用で激増中のサイバー攻撃に企業はどう対応すべきか、「2つの急所」と方向性を専門家が解説",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DR1lQem1ORkh4akZWM25rQ3daQThOblBtb2Q0X3EyNjdTaGwxVW5vbXlGLUplYmhpQjhtSjJYdDREY0ttdWNFWVp1YkPSAU9BVV95cUxObldwU3dVNkZxcHdFWDBXcFZpVmhoUkt5VWk4TWtQbXNkOElxTTlWNzcyb0dvbzBfMnd0Vi0wYXJvZm1DeElIb0h3RWU2SnVj?oc=5",
+  "source": "ダイヤモンド・オンライン",
+  "summary": "",
+  "publishedAt": "2026-10-22T19:55:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "455132eb57d5",
+  "title": "Gemini「パーソナル インテリジェンス」Google マップ追加&カレンダー連携強化",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa2hjWWZtdVUzdGVyUDZ6ZmlLcU8yV08tU1FtWDZRTFhPN2F5RnM3RVNQNlN3d0ZMbGVFLWFZM0J3dXZvV3JaX0JHclh3ZWpjWnM2ZU1UWjhiX1RNck9CVVczVF9Xb2VGdHJiMTJlXzFKN2RZSHVpUG1QdDQtNU9kYW9sWWJUU2xwTFRUb0Q3VlQ?oc=5",
+  "source": "Jetstream",
+  "summary": "",
+  "publishedAt": "2026-10-22T19:53:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "cff24343b046",
+  "title": "ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00SEFGY18xTWNudmVZcUVQQ2JmczJZeDI1QThMMWNPZkRTeFhMMF96MjMwUXMtQ09WVGJiSms3cGxzazFlUHpMVFhPTmlGN0dJWVpycno3Q3hHOHZSOS1rMVNOQ1A5ZDJ4VEJtZnRLTlJ5R0lkVDA0alJfTE0?oc=5",
+  "source": "GIGAZINE",
+  "summary": "",
+  "publishedAt": "2026-10-22T19:34:05.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "5d96f7ab7c70",
   "title": "Gemini「予約アクション」位置情報/通知トリガー実装へ【アプリ解析】",
   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazNXQmFFeGhrei1hTHRObXo2NUE4YlgxTTlkNFhUdF9aM29leDVVZE5BV2dTdVg1OVpvQnAtY2M0eU0tZ0ZKbThDdmJ0NFdHUnk2cU5QeXlTZGtLdjlHVllFNEcxTmMxcDNJY1BrMmxKeHVGcEFtamU3LWR3Nkkzd01ZZi1YMVRWaWo2bFhYSVA2b2JaNUlkSV9tRnN0bUdnTVZjRU9B?oc=5",
@@ -183,6 +290,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "87d34849525f",
+  "title": "『HelloBoss』、日本初*の仕事探しに特化したパーソナルAIエージェントのβ版を無料提供開始！音声でヒアリングを行い、70万件超の求人提案から応募準備までAIが伴走",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ySFd5Vl9BWVV6dU52Q1BRQnAwT2d2ZmpwaVVoa2tVZVhZWTZVZWRzcm5DaVlTOThzMzBXUTgxWHBiNkhaWHhzS1FZQnEzRjZxYTNoMnZra1N0MVRycnFqb0tmclNDbXVhcExn?oc=5",
+  "source": "時事ドットコム",
+  "summary": "",
+  "publishedAt": "2026-10-22T19:10:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -291,6 +411,19 @@
   "isPR": false
  },
  {
+  "id": "bb8485df3cce",
+  "title": "OpenAI：Uberは本日、ChatGPTの全社展開を開始すると発表",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUVhneE9VUm9ualdkaXRKaUpadXkyMUlYVTVDUWVwSlhoVU1pTFQ0V1pPR2VhQ1A2N1VHcklMdS0xTWp4S29nTEtxRVpVeWZaMU1Ud0NOQmRfMXNNTkt0SlByeXprdHdWTldKQnZYLWc4d200VGY4T0JNR2dHa0g1Y2NyUmtSQURpMURHTzk0WjRQQ0Y3RVBrazJ6TzZZaVpKbUd6alk0RGxOM3h1SEtQdjNpMnNTUQ?oc=5",
+  "source": "Moomoo",
+  "summary": "",
+  "publishedAt": "2026-10-22T17:48:08.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "50e5af04b044",
   "title": "Claude Consoleで組織単位のweb fetch無効化とドメイン制限が可能に|400エラー対策",
   "url": "https://qiita.com/picnic/items/2e6773bdaa4cc420a11a",
@@ -366,20 +499,6 @@
   "image": "",
   "categories": [
    "business"
-  ],
-  "isPR": false
- },
- {
-  "id": "cff24343b046",
-  "title": "ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある",
-  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE00SEFGY18xTWNudmVZcUVQQ2JmczJZeDI1QThMMWNPZkRTeFhMMF96MjMwUXMtQ09WVGJiSms3cGxzazFlUHpMVFhPTmlGN0dJWVpycno3Q3hHOHZSOS1rMVNOQ1A5ZDJ4VEJtZnRLTlJ5R0lkVDA0alJfTE0?oc=5",
-  "source": "GIGAZINE",
-  "summary": "",
-  "publishedAt": "2026-10-22T16:30:45.000Z",
-  "image": "",
-  "categories": [
-   "model",
-   "product"
   ],
   "isPR": false
  },
@@ -652,7 +771,7 @@
  {
   "id": "16d7f31890f9",
   "title": "ChatGPTの推奨率が2倍超に デジマ担当者が読むべき記事10選",
-  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPak9MZm40cS1sWlJENk84Mk5sZWFlal9IUVdncjVSa092TmU5RzByNEkwU09TY3AtcjVxTy1rbm1xZl9MZmVWZXEweHlmak1taVJEcVJZMFlNVnAtLVlFdmNHV0FWX1otWm40eHlxY3ZmeEw3ajZNT3c5bzVSa2VVRXRHVjAzczNBUk4tUDYxMTZBci1mSlE?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR0xUc0d4RVMyZ0dDZUM3YmNOQ1ZOdXBHMnVoc0JzeW1nb2Y1bUJ6WVMxdWNoM2tUVlFLNUN0WktUa3AtbjZMZXFSY2F1c0JrMmllS1Q1NHJfS0pTVEtTVXhTMm14cmRZcUIwYkJSTU5ZYXExMXlaWmdobTlRUllNY3QyM1laQkFTcmE4aWM4bw?oc=5",
   "source": "日経クロストレンド",
   "summary": "",
   "publishedAt": "2026-10-22T15:00:00.000Z",
