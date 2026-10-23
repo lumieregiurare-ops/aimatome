@@ -1,5 +1,18 @@
 [
  {
+  "id": "eb3f64997d7f",
+  "title": "AI に「前回の続き」を任せたら、何をするはずだったかが毎回消えていた",
+  "url": "https://zenn.dev/claire_ai/articles/hikitsugi-iriguchi",
+  "source": "Zenn",
+  "summary": "AI（Claude Code）との会話は、長くなると区切って新しく始め直す。そのたびに、前の会話から「次にやること」を引き継がせていた。 ! 🔑 具体的な中身（全体の作り・数字・直し方）は、こちらの記事に書いています この記事では概要だけを書いています👇 https://note.com/claire_ai/n/…",
+  "publishedAt": "2026-10-23T14:47:14.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "66de4dc3cea8",
   "title": "パナソニック、禁止の生成AIに従業員ら33万人の情報送信",
   "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxNN2dYLTZJUl9SZVJOZ184enIxRU1YZjhhM1E3ZURDSUVQTHJydzUzdW1jTE9oUmdaY2Vuem1iVWdlWXk4LUFKdW5CRXR0NWo2ZTdqMDdTdEpoODFRbmJ2aFhLcHl6Z1k2SXNWSTBZX1pmWk5uR1R3V1Q5UHhZRml1OW1aNWZNZWhHUHNUb0MwWnM5N3F4VGhhSFo3R2xtMDdUeGFwMExNQ3RTUXRIeWVVRlp4NkdBQVZxTFktaHVScnUxTmhpZDlNSGVLUDJURG9JWHFwYkZSblR6U3M5LVQteWh4RnBOa1dBU00tVHdnNmFnUGtROFVhQTlrTktWQ2wwVlJTaHFoUndzeFBtNVp4NG9KM3NFeWZZVl9DUVZFbWVyQXFJRC1McnVhOXFLRVpmVEVUTUNkMm9NTEE2ZFV1YWJPRmduYXdtTkt3YTRFNDBkUi1GcF9YVVhJZ2pqaEhaZDFlTTF6cVNLT2JTd3ZiNjZ5MEtraU5OZnpZMGhWNTNObFczX3duNTlxdUtFUHdj?oc=5",
@@ -9,6 +22,34 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "56fcdf69e7c8",
+  "title": "PLC の知識はあるけどコードは書けない私が、Claude Code にサーボのシミュレータを作らせた 1 日【非公式】",
+  "url": "https://zenn.dev/xlmen/articles/33a73874f91dd0",
+  "source": "Zenn",
+  "summary": "! この記事で紹介するシミュレータは非公式の学習用ツールです。三菱電機株式会社とは関係がありません。数値は実機の値ではない簡易モデルで、ラダーや設定値を実機の PLC・サーボに書き込まないでください。 この記事で書くこと FA（工場の自動化）の PLC やサーボについて、おおまかな知識はあるけれど、コードは書けない私…",
+  "publishedAt": "2026-10-23T14:37:41.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f1274a500eaa",
+  "title": "複数行の指示が2行目以降消えた。Claude Code・CodexとWindowsで踏んだ10の罠",
+  "url": "https://zenn.dev/twinharness/articles/windows-traps-ai-scripts",
+  "source": "Zenn",
+  "summary": "AI に Windows 用のスクリプトを書かせると、コードは正しそうなのに、エラーも出さずに動かないことがあります。改行の入った依頼が最初の1行で切れる、日本語の入ったスクリプトが文字化けして構文エラーになる、タスクが登録した日にしか動かない、といった具合です。 私は、AI の開発支援ツール（Anthropic の…",
+  "publishedAt": "2026-10-23T14:36:23.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
   ],
   "isPR": false
  },
@@ -35,6 +76,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a78021409a74",
+  "title": "「怠惰なシニア開発者」をClaude Codeに演じさせたら本当にコードは減るのか(ponytail実測)",
+  "url": "https://zenn.dev/matsushima_a/articles/day-024-ponytail-lazy-senior-dev",
+  "source": "Zenn",
+  "summary": "要約 GitHub Trendingで急上昇していたDietrichGebert/ponytail(MITライセンス)は、コーディングエージェントに「最も怠惰なシニア開発者」を演じさせ、新しいコードを書く前に既存コード・標準ライブラリ・プラットフォーム標準機能の再利用を優先させるルールセット(スキル)。 公式ベンチマ…",
+  "publishedAt": "2026-10-23T14:08:22.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -87,6 +141,45 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0b82ec94a9c0",
+  "title": "Grok Botをカジュアルに使う",
+  "url": "https://zenn.dev/yufuyu/articles/b9abe2ac2e02ee",
+  "source": "Zenn",
+  "summary": "はじめに こんにちは～ゆふゆです。 最近AIエージェントのサービスが色々と登場していますが、今回は「Grok Bot」を触ってみたので備忘録がてら紹介します。 Xなどを見ると「Grok Botを使って業務効率化！」とか、「Xを調査させて新規事業開拓！」とか意識の高い使い方をよく見かけますが…プライベートではメールがロ…",
+  "publishedAt": "2026-10-23T13:35:04.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bfb8c8ef31bf",
+  "title": "AIに並行開発させたら、ブラウザテストのデータが衝突した話",
+  "url": "https://zenn.dev/3su3/articles/aaabea6298ca53",
+  "source": "Zenn",
+  "summary": "AIに開発を任せるようになって、並行して進められる作業が増えました。 ひとつのタスクをAIが実装している間に、別のAIに調査してもらったり、違う機能を進めてもらったり。 人間が全部手を動かしていた頃と比べると、ずいぶん効率が良くなった気がします。 ……が。 コードの作業場所を分けたからといって、テスト環境まで分離され…",
+  "publishedAt": "2026-10-23T13:27:13.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bd8f6963b59e",
+  "title": "AI副業の難所は制作じゃなかった。12本作って、再生の6割は2本だった",
+  "url": "https://zenn.dev/anikuma/articles/ai-sidehustle-90days-report",
+  "source": "Zenn",
+  "summary": "AIで解説動画を作る副業を、別名義で90日やった。結果はこうなった。 指標 90日目標 最終値 長尺動画 12本 12本 YouTube 登録者 100人 2人 総再生 — 631回 X フォロワー 1,000人 0人 実費（X API費のみ） $100以内 $2.82 投下時間 週2〜3h 約24h（概算・週平均約…",
+  "publishedAt": "2026-10-23T13:15:59.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -489,19 +582,6 @@
   "isPR": false
  },
  {
-  "id": "46848df782b5",
-  "title": "シーメンス・ヘルシニアーズ、エヌビディアと放射線治療AIで協業 治療計画作成を支援",
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQNGJ5S0xpY1htTnozb0xmb3BGT1dFY3p2ZWNqeThIZ2FHc1dpY3MxZUxSWFRKMks5WGwyQkF3QzNrWXFQd2lMdGVBbWhWU2dDQUcyZzJpcXFQeUNXZVhTdA?oc=5",
-  "source": "医療テックニュース",
-  "summary": "",
-  "publishedAt": "2026-10-23T11:19:07.000Z",
-  "image": "",
-  "categories": [
-   "business"
-  ],
-  "isPR": false
- },
- {
   "id": "69521b2fc9a5",
   "title": "Ruby はプログラマーを幸せにする。では AI も幸せにするのか？ LLM の中を覗いて確かめた",
   "url": "https://zenn.dev/geeknees/articles/e144c89d066189",
@@ -668,6 +748,20 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0d8f4a52d1ce",
+  "title": "来週（10/26～30）の日経平均株価の予想レンジは、6万～6万5000円！ キオクシアやアドバンテストなどAI･半導体株の決算と、日米の金融政策の動向に注目！",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fb0F0VzVWZ0tTU0luR2NCeGxYMGVxdWFFcHBQcGpZX1k2Mm1zQnF3UklVTER4UTBjbXZmTXR4OFJiNnY2NllwWjFjQmRHa0d3UkdR?oc=5",
+  "source": "ダイヤモンド・オンライン",
+  "summary": "",
+  "publishedAt": "2026-10-23T10:45:00.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
   ],
   "isPR": false
  },
@@ -1424,19 +1518,6 @@
   "isPR": false
  },
  {
-  "id": "5fca229532ed",
-  "title": "「弁護士一人と生成AIで、どこまでできるか」 事務員ゼロ、地方事務所の挑戦",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSVc5TlpFQU92Y196VW5JR3poVjFZNzNtTjd6T01ld3BaWS1yQVQtNFY5OVdpZHRpRlZMOFVYZ2N2cnNLZ1FSZkRUb1NyeVpOUFdWUDMxZ0NWU2J3Skx6N1o5dVFyNy13b1VveThDRzNwZUp2LTMwMzFvbTRzUl9ZNm03MUJhUWhESHN3M1h3?oc=5",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-10-23T08:21:01.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "7372d6c78185",
   "title": "Uberは「ChatGPT Work」の導入を全従業員3万人に拡大",
   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TcVFiYXNOODhrd3RPbzNGdWtQX2MxMlBsamRKa1BTVFA4YkVSMmtaMzlDWTRiV1hhWndqdk91VkFkRHFDLTJwSTFrRElyME1IdEtXbTl5ZnlEdw?oc=5",
@@ -1500,6 +1581,19 @@
   "categories": [
    "policy",
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "46848df782b5",
+  "title": "シーメンス・ヘルシニアーズ、エヌビディアと放射線治療AIで協業 治療計画作成を支援",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQNGJ5S0xpY1htTnozb0xmb3BGT1dFY3p2ZWNqeThIZ2FHc1dpY3MxZUxSWFRKMks5WGwyQkF3QzNrWXFQd2lMdGVBbWhWU2dDQUcyZzJpcXFQeUNXZVhTdA?oc=5",
+  "source": "医療テックニュース",
+  "summary": "",
+  "publishedAt": "2026-10-23T08:03:45.000Z",
+  "image": "",
+  "categories": [
+   "business"
   ],
   "isPR": false
  },
@@ -1673,6 +1767,19 @@
   "isPR": false
  },
  {
+  "id": "5fca229532ed",
+  "title": "「弁護士一人と生成AIで、どこまでできるか」 事務員ゼロ、地方事務所の挑戦",
+  "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZTEN2QS1MT1BFSHBONlQ5eWJieWNUZWxJVTZJSEZ2SkVLNl9TMHNNTUI5WGNVRFYzR1VrMF9tYWJEQldNckhZZjNzUkc?oc=5",
+  "source": "弁護士ドットコム",
+  "summary": "",
+  "publishedAt": "2026-10-23T07:43:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "1fdf44fef656",
   "title": "AIへの資金調達への懸念から、アジアの株式相場は3カ月ぶりの安値圏で推移している",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0bFlGcVRVT0hFXzFsZ0tNb0dxUW5KbmNZdUNwaEtZenpzRi1DV1JHb3hkelFHLV93VnBBZURFMlVIYXh4YkpiZUlIUTFkWnNOLWh6X0p3cm9WWHhIcWVPeVEtZVJTVHlmcU9NTjFRc3pEV280NEJz?oc=5",
@@ -1727,8 +1834,8 @@
  },
  {
   "id": "0ef43320c86e",
-  "title": "中国系グループによる大規模AIエージェント攻撃 Microsoftが報告（Impress Watch）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVYWNlNmdUd3FZR2lpVkhTY2FsMXVWOG1zUXJWUGlka1FMdHAtQWlIcjFqVlF4ajcwVnlET2o2Q3ptVGhsSEtJVkNNTzBabjhJcWFhQlZ3TXVQNWRPeXJYVmdGX1pGM1ZaNzJPQ1BhY2VTQ0ZzT2VoSmtXdDFBZWM?oc=5",
+  "title": "中国系グループによる大規模AIエージェント攻撃 Microsoftが報告 (Impress Watch)",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYld4eTRsTHM2VlV0cjdZVHpsYW9BckdvV3pwVi1yblNjck5hTm1fV1lKNWgxRUV6Q2p3WnI1dTFvTTU1dDJKRnJxX3Y1SGdLYjZZSW1JOU5Ddm9GUkJKTl9BV25zREo5NDljZnVBaHVoWUE4bEFJWUJKYVIzZEhMamRRNml3TG5ZOHJuZGhn?oc=5",
   "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-10-23T07:34:39.000Z",
@@ -1893,6 +2000,19 @@
   "categories": [
    "case",
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "166769ab174d",
+  "title": "日経平均続落 売り一巡後はAI・半導体株下げ止まり、内需株シフトも",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Jb01MN0kteDhjWkluckEzUFdjOUJRYVQ1dzlkR0htLTJGOWUtWkl6Rmx4ZFFzak5lTlo1YU5iUDVoZm9oMWxxQjcxN3FQN1ZVc2xvNA?oc=5",
+  "source": "日経CNBC online",
+  "summary": "",
+  "publishedAt": "2026-10-23T07:07:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
@@ -4336,6 +4456,20 @@
   "isPR": false
  },
  {
+  "id": "fb2697ab1bf7",
+  "title": "アングル：ＡＩ投資、米中間選挙でリスク増大 民主党勝利でデータセンター規制も | ロイター",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aN3Z1eVhoM0pmSDVPcThkZVNxYkg1YkZ0RXd6bnBjcDJLREhuT2c3eFV3Q3MtRU5OYnBsTFE4V1JqS01WVjVuN1g1OEQzSEpyalVqdjd4TUR5ZDRYRkthWkRkdE1pUlZocHlEQ3VBYkpvaTJ5NUQxcC0wX2VXUVk?oc=5",
+  "source": "Reuters",
+  "summary": "",
+  "publishedAt": "2026-10-23T02:56:53.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "64f760dd8260",
   "title": "アングル：ＡＩ投資、米中間選挙でリスク増大 民主党勝利でデータセンター規制も｜Infoseekニュース",
   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VWnQxMVdGUmU5LVo1cFJSQUMwYnhvejVPVlp6d1N1ckhfVkktSlZjaHIyWnhtU09PcTVhQlZUcEVtU280bkRCcHNHUUdjYjlZUFhiZHBoQjdiY2w4enBtZUxOZFhtb2NBSHZrM0V3?oc=5",
@@ -4354,20 +4488,6 @@
   "title": "アングル：ＡＩ投資、米中間選挙でリスク増大 民主党勝利でデータセンター規制も",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMjFkdkp0VXBJclpuY0JhMlMzZFBxWEdJbE5HS2hkd2Q5ek1MNkMwS0JTX09uVDZGakRTNFFaemtzVElGSHBGR2oxMGVwOVIyT2czRFl2OF9TWjNFN19WajBTTjNObmxGM3NSSno3Um9uMnlzRFNHWXYwTXBXbWxndjJwWdIBgwFBVV95cUxOMjFkdkp0VXBJclpuY0JhMlMzZFBxWEdJbE5HS2hkd2Q5ek1MNkMwS0JTX09uVDZGakRTNFFaemtzVElGSHBGR2oxMGVwOVIyT2czRFl2OF9TWjNFN19WajBTTjNObmxGM3NSSno3Um9uMnlzRFNHWXYwTXBXbWxndjJwWQ?oc=5",
   "source": "ｄメニューニュース",
-  "summary": "",
-  "publishedAt": "2026-10-23T02:56:00.000Z",
-  "image": "",
-  "categories": [
-   "business",
-   "policy"
-  ],
-  "isPR": false
- },
- {
-  "id": "fb2697ab1bf7",
-  "title": "アングル：ＡＩ投資、米中間選挙でリスク増大 民主党勝利でデータセンター規制も | ロイター",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aN3Z1eVhoM0pmSDVPcThkZVNxYkg1YkZ0RXd6bnBjcDJLREhuT2c3eFV3Q3MtRU5OYnBsTFE4V1JqS01WVjVuN1g1OEQzSEpyalVqdjd4TUR5ZDRYRkthWkRkdE1pUlZocHlEQ3VBYkpvaTJ5NUQxcC0wX2VXUVk?oc=5",
-  "source": "Reuters",
   "summary": "",
   "publishedAt": "2026-10-23T02:56:00.000Z",
   "image": "",
