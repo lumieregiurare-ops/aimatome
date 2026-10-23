@@ -1,5 +1,124 @@
 [
  {
+  "id": "8d213dd647c4",
+  "title": "OllamaのVRAM解放を実測で確認：keep_aliveとollama psの基本",
+  "url": "https://qiita.com/warrobotsxyz/items/d605022cb040ada6f2fd",
+  "source": "Qiita",
+  "summary": "はじめに Ollamaでモデルを一度でも走らせると、そのモデルは一定時間GPUメモリ（VRAM）に載ったままになる。動画編集やゲームなど、GPUを他の用途に使いたいときに「いつ解放されるのか」「すぐ解放するにはどうするのか」が気になったので、keep_alive の挙動を...",
+  "publishedAt": "2026-10-23T00:00:04.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "73db60d356b6",
+  "title": "生成AIのOpenAI、Google CloudでモデルとCodexの提供を拡大",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14czlNRWp0R2ZoMDg5REhSYWRScWx0a2JDenhFbkduSkVqV3BscWtpWjFnQjJDMGRzVVhuY1lhdUczbFlPejNMY3VneU1wOS1sblF0eGZlQzJVWHVqSWpaMnRtNHR3OFlTM3U3WmlvQUg?oc=5",
+  "source": "AT PARTNERS",
+  "summary": "",
+  "publishedAt": "2026-10-22T23:55:16.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3d461130ab83",
+  "title": "Claude Code v2.1.305 変更点まとめ——Vertex/Bedrock ToolSearch障害修正・sandbox拡張ほか",
+  "url": "https://qiita.com/Sidejob/items/440c8f91d5b1731ca38a",
+  "source": "Qiita",
+  "summary": "この記事で分かること： Vertex AI・Amazon Bedrock で全リクエストが失敗していた問題の修正（2.1.304 リグレッション） sandbox.allowNestedUserNamespaces と CLAUDE_CODE_RETRY_WATCHD...",
+  "publishedAt": "2026-10-22T23:45:03.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2d0b5e5a88ef",
+  "title": "Haiku 5.5 に書かせた確信度は当てになるか。同じ306問を3回聞いたら、1問ずつはぶれても0.8以上は8割当たった",
+  "url": "https://qiita.com/suwa_nobu/items/8dec346a727f0199fefb",
+  "source": "Qiita",
+  "summary": "Hacker News で「Using LLM for confidence scoring is a bad idea」という記事が198ポイントを集めていました（2026-10-23 時点）。LLM が書く確信度は、正しさと照らして訓練されていない、という主張です。 ...",
+  "publishedAt": "2026-10-22T23:38:23.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6901763fa184",
+  "title": "ディスコ、2Q営業利益47.9％増、AI向け半導体需要がけん引--決算チェック(フィスコ)",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYXNWWFkzQWdzNnVYVnhRbEViRk04UzEyMEhpOUZKWnNyc2RjQktYaWZRRkEzaDNPS2JkQmQ2MjdNNGtHcWdzcGU2MklTaUZmLWVoU2FQX01vTHlPTkJvdGpJWXRGR1NuQVc4WTZvN1lBRmY1Z09uSFFPZkgtRENMR3lNRzIwaGM?oc=5",
+  "source": "Yahoo!ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-22T23:32:29.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4a9729431ac9",
+  "title": "Google Chrome、ClickFix攻撃の警告機能を導入―Geminiで偽サイトを検知、コピーした不審なコマンドも分析",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1NYT3BGMFJNYXBOdkQ1ZGFsUV9KV0RUSXRfb19WN3VtOElVT05lRDYxMmgxdkhfT1RLaE04Xzc2TlZDWS01YXZ1VUZEZmVMZTg5WV9pNkNMZDNlNFB6N2NnY3c3dmVSX1J1YjRMc1RSajBSTjVPWGJqMWVocTBzMnFFSVdKMERYb3lpelFfbWRDUWxw?oc=5",
+  "source": "合同会社ロケットボーイズ",
+  "summary": "",
+  "publishedAt": "2026-10-22T23:30:11.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "395670514523",
+  "title": "WQHD 240HzとHD 400Hzを切り替え！ MSIの湾曲ゲーミングモニター「MAG 275CQDF X24」登場",
+  "url": "https://ascii.jp/elem/000/004/445/4445121/?rss",
+  "source": "ASCII.jp",
+  "summary": "MSIが10月29日に発売するゲーミングモニター「MAG 275CQDF X24」は、WQHD 240HzとHD 400Hzを切り替えられるデュアルモード、湾曲RAPID VAパネル、AIビジョンなどを搭載する高没入型モデルだ。",
+  "publishedAt": "2026-10-22T23:30:00.000Z",
+  "image": "https://ascii.jp/img/2026/10/23/4542290/s/395fcff6557ef6de.png",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "62d77cffe33c",
+  "title": "折りたたみiPhoneはまだか！ ライバル機は動画視聴に最強か実際に試してみた",
+  "url": "https://ascii.jp/elem/000/004/445/4445105/?rss",
+  "source": "ASCII.jp",
+  "summary": "サムスンの新型折りたたみスマホ「Galaxy Z Fold8」のレビューです。開くと動画や読書に最適な4:3の大画面になり、約201gという世界最軽量クラスの軽さを実現しました。進化したGalaxy AIを搭載し、約27万円という価格に見合う高い完成度を誇る注目のフラッグシップ機です。",
+  "publishedAt": "2026-10-22T23:30:00.000Z",
+  "image": "https://ascii.jp/img/2026/08/08/4511046/s/51c7720eadf57616.jpg",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c82344405600",
+  "title": "現場・開発向けエージェントで業務スピードを「5～10倍」に ― Snowflakeの統合基盤で変革する日本企業の挑戦",
+  "url": "https://ascii.jp/elem/000/004/444/4444366/?rss",
+  "source": "ASCII.jp",
+  "summary": "Snowflakeは、2026年9月に「Snowflake World Tour Tokyo 2026」を開催。2日の基調講演では、本社CEOのスリダール・ラマスワミ氏が登壇し、AIエージェント活用を支える基盤の重要性や日本市場のコミットメントについて語った。",
+  "publishedAt": "2026-10-22T23:30:00.000Z",
+  "image": "https://ascii.jp/img/2026/10/21/4541282/s/9970c92850741aba.jpg",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "07be700e3666",
   "title": "「18歳です」は通用しない? SNSの「AI年齢推定」 は子どもを本当に守れるのか",
   "url": "https://www.watch.impress.co.jp/docs/topic/2150456.html",
@@ -39,25 +158,25 @@
   "isPR": false
  },
  {
-  "id": "4e90c7ac3b8a",
-  "title": "広がる「国産AI」活用事例 PFNの「PLaMo」にみる“ハマりどころ”（ITmedia NEWS）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fcUhZNWU4MlFkQnBkeVRkY0FFNTVYLVBZS3YtR3J2djhONU80VThLZC1jWGN1c3U5d2NrX2pfRzBKbGlJVlEtdUs5cW95Y2VVdlNUZkxiZkFUVkRkV1RMYmRCY0xDckNGY0xLSmhRZDgtbHdhX2tHTEY4SGJ0TW8?oc=5",
-  "source": "Yahoo!ニュース",
+  "id": "cde12fbf530e",
+  "title": "OpenAIのAIエージェントが監視機能を無効化、指示を誤解して警告停止やコード削除",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91QVhYN1dJc1BGZjhCM3F3SzVndDR0dFNSX3dUWUxMb3RQWGY0eGtTd1d1VnZ3WVV2RFFFQ3JwbTVJMWV0T3BjN3ZBVTNlcWgwck9RWGZiQk42d3UteEdoQmdkVWtObXpM?oc=5",
+  "source": "マイナビニュース",
   "summary": "",
-  "publishedAt": "2026-10-22T23:08:31.000Z",
+  "publishedAt": "2026-10-22T23:07:07.000Z",
   "image": "",
   "categories": [
-   "case"
+   "dev"
   ],
   "isPR": false
  },
  {
-  "id": "5330c4ac1c91",
-  "title": "CloudflareがAIワークスペース「Cloudflare OS」のパートナー連携拡充を発表（Web担当者Forum）",
-  "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWnBjNXlNY3F2LWJUZVhLUzFfbU13UElYYzAxYWJYR2ZVRWNHa0h2QjZBaVpUSDFzWE1xNEppRVlmMXpfZ2dJelVnY3VCTVZWR19oa0ZvSFNyTjE5SF9wMUpQbFk0bS1iTTFjRDhPeHlQeVlMYktvMWc2LUlIN1VjTXk1Rl8zM0U3aV8tMkFLeDBJM3EyNUY4TFVpVU1qYnlPOGFYcGZMUTc3OXRoNTl2UXVrVGJGUkxUMHBuR3lNMzFWQmhibF8yTm1HbmY0WkVrbVU5SG5ibXlnZlFobVkyWktjV01RN1VoNzVoQjdYLUFFRTVuemFBQmFvTFhKQjdk?oc=5",
-  "source": "ｄメニューニュース",
+  "id": "9c251a0ee0e7",
+  "title": "日本市場、AI不安拡大で日経平均は3カ月ぶり安値へ－円と債券は上昇",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xSlJ2TjNuTVpsdDlIRUxvdmw5OXFUUzNaRlBJU192X1I3RF9IdVZuUkc2amtDQlNLdWdTZllYNWZRSXlma3lLQW5rSW9RZ2Z2bjVqNlhGWFNUWkNRRGxSQjMybWdINWN2OWlJdWM1emxYTlFvdjdR?oc=5",
+  "source": "Bloomberg.com",
   "summary": "",
-  "publishedAt": "2026-10-22T23:03:45.000Z",
+  "publishedAt": "2026-10-22T23:04:27.000Z",
   "image": "",
   "categories": [
    "other"
@@ -74,6 +193,19 @@
   "image": "",
   "categories": [
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4e90c7ac3b8a",
+  "title": "広がる「国産AI」活用事例 PFNの「PLaMo」にみる“ハマりどころ”",
+  "url": "https://www.itmedia.co.jp/aiplus/article/2610/23/2000002368/",
+  "source": "ITmedia AI+",
+  "summary": "国産AI「PLaMo」はどこで・どう使われているのか。「CEATEC 2026」に出展したPreferred Networksに聞いた。",
+  "publishedAt": "2026-10-22T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
   ],
   "isPR": false
  },
@@ -140,6 +272,19 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "eb2e5ea6ed8a",
+  "title": "なぜ、重要システムは“分割”すべきなのか？ AI攻撃から守り切れない時代、IT部門が考えるべき「備え」とは",
+  "url": "https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html",
+  "source": "ITmedia AI+",
+  "summary": "生成AIが東大の入試問題で合格者最高点を上回った今、その能力はサイバー攻撃でも威力を発揮している。攻撃からシステムを守り切れない前提に立つとき、その被害を最小化するためにどうすべきか。",
+  "publishedAt": "2026-10-22T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -397,6 +542,19 @@
   "isPR": false
  },
  {
+  "id": "5330c4ac1c91",
+  "title": "CloudflareがAIワークスペース「Cloudflare OS」のパートナー連携拡充を発表（Web担当者Forum）",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZXhxeEkzSTFhUHpzRjdWQlJHbDcybUFXX1FUcTYxOGJtZTlxTWlPUWhvcmVlRnhIMEdFbU52eFZXS1NtTUZjTFpTUTIyeFNYWVp4ejJZQWs5ZXdhOWRnbE80SjByNHFzR2VyUS1zRnZWWm9fZGFTN1AzWkFsSkFBVmR3WlllZE1wWHRJM0JhbEllWDFxeE4yOUkzTWJUUFlWN1pKZVhlV2dRYllkdFlhVg?oc=5",
+  "source": "ｄメニューニュース",
+  "summary": "",
+  "publishedAt": "2026-10-22T22:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "57406a53f11b",
   "title": "AI作成の業務手順に法的裏付けを行う社労士監修の人事労務テンプレート",
   "url": "https://ascii.jp/elem/000/004/444/4444586/?rss",
@@ -551,6 +709,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6fd778360000",
+  "title": "マイクロソフト「中国系ハッカー集団が大規模サイバー攻撃」 | NHKニュース",
+  "url": "https://news.web.nhk/newsweb/na/nd-20261023de63956",
+  "source": "はてなブックマーク",
+  "summary": "アメリカのIT大手、「マイクロソフト」は、中国政府とつながりのあるハッカー集団がAIツールを使い、世界の数百の組織にサイバー攻撃を仕掛けていたと明らかにしました。このところ相次いでいる日本企業を標的と…",
+  "publishedAt": "2026-10-22T21:29:08.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261023de63956",
+  "categories": [
+   "product",
+   "policy"
   ],
   "isPR": false
  },
@@ -782,6 +954,19 @@
   "isPR": false
  },
  {
+  "id": "8a283b72d585",
+  "title": "ダッタラ、ChatGPTやClaudeから日本全国の公開データを探して使えるオープンデータ基盤「Fractale（フラクタル）」β版を今秋公開へ",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91MXlmTndJYjY4a19VQlEwcjBJelBWRjM2WVY3aTlGM1hpYXEzd0NONUR0SUY5TlMwNUpEMVVmeThPVHJieVg3Z0lVczVuWjdsTHpyT2xwN2hrWFpBSllqZVJvYm5lTExYQmdMekh3Z2s?oc=5",
+  "source": "山陽新聞デジタル｜さんデジ",
+  "summary": "",
+  "publishedAt": "2026-10-22T20:14:31.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b68c520a7c6a",
   "title": "APIキーを export するとシェル履歴に平文で残る：先頭スペースが効く条件と history -d -2 で消す方法（bashで確認）",
   "url": "https://qiita.com/supportapp3/items/1e02584be1add8b7f1a2",
@@ -984,7 +1169,7 @@
  {
   "id": "93a338fb4dd8",
   "title": "AIエージェントにコスト増のリスク、PCで自分専用AIが使える技術が続々",
-  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmdWX08zcVpuQk56TURQUE5JMTU3N1RuTmI3U0w1b05BNDdoakl2QkZXaF9Pa3llWDFxSFI3NmhrLUdKczlEZDVsOElEYXBIbm0tZFVINVpoYml3dTc1ejJPR2hnYVE0anZqS2gyY2swVTZGR1RpNkRiMnVOQUd2QThzbG1nNVJwel85NzhhVDIwS2c?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53OXdoODY5aEFPYk5CdklyN3VtQnlUZ3QwV0Z4Rm1qNS05WWpNemJFLVA2QlpFYWFyM0VnMlA3c1dqaGFUN3p1Z092MkVVTjMycmVpblp2dktxdi1VTGFWb3ctZWxYZ3lKS2c?oc=5",
   "source": "日経クロステック Active",
   "summary": "",
   "publishedAt": "2026-10-22T20:00:00.000Z",
@@ -1188,6 +1373,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "542ac5a32b81",
+  "title": "Warp Sciences、AI活用の化学研究所設立に向け2億1,500万ドルを調達し、ステルス状態から脱却",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBfQXBtdzJ2X2lvQi1NTF9WXzFmODgwQ2ZOZTJxZktieGR4R0x0SnFCM0RJQjY1aDF4SmpvQzZUZFZ2bE1KT1pFUnlXWXJLeHU0V25OY29fNFUzQmdYdVg5S2NkRDhKZXZ5aW92Y1psNkNaY1pWWnU2TFBn?oc=5",
+  "source": "Unite.AI",
+  "summary": "",
+  "publishedAt": "2026-10-22T18:24:13.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "business"
   ],
   "isPR": false
  },
@@ -1418,7 +1617,7 @@
  {
   "id": "926e2cbcbbe7",
   "title": "米中間選挙で株価はどう動く、シナリオ別に分析－AIの追い風続くか",
-  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQZm5NdU9nOE9LRHd1RENfdlJjZG1mMU5LVldEbnJzQ055ZUJzLUM0ZFo1UEd5bGpXS0R0cjFfbmZFWkx3OUtoM21zdWxIaS1BN2YzamRMQm1vS2xXODVvb3IzRjdOMXJ0WjFpZjl0N3pZTGlsd1pz?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc2Zhd2FvY213b0oyWUxpOFRKaThzZVFmNzhTeGRqRG03czVoeXh6Q25Ec3lKbmFZLUluWkFlX0hXaUNkLVg1X2NvQVB6TXZjTlpwdXZESVRoN2t5eDRETWVRdkZEY1pWVU94SW1vY050MlpwN1F0RWdEczYwN3ZuTjhXTWNsSktLY25YcVdB?oc=5",
   "source": "Bloomberg.com",
   "summary": "",
   "publishedAt": "2026-10-22T16:48:18.000Z",
@@ -1501,6 +1700,19 @@
   "source": "Qiita",
   "summary": "Googleは2026年6月18日に個人アカウントでのGemini CLIの提供を終え、新しいAntigravity CLI（agy）への移行を案内しています。Antigravity CLIはClaudeモデルも動かせます。おかげで珍しい比較ができるようになりました。同じモ...",
   "publishedAt": "2026-10-22T15:29:54.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "53137d466828",
+  "title": "OpenAIモデルがGoogle Cloudに登場、Googleのプラットフォーム内でモデルを選択可能に",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZG1wY1ByS3NCRlNsYTExeS1PLW9sa1Rzb21QRDYtcmg2QzNlYS1lWlpnczBwVGdHR3ZFZGE0QUxQcXRBUWZ0OThIdjdJdG5OWmo1M0wtc1JIREtDd1FDQjBSNktPWkUxaVZLdERqa21sT1J4eTJPVVJseHVBaU1vUW5zek1TbEktRUU0cUhyS0J1Q2FMTkU1eEhIU2R6VmxGWmVLQmVGRjZxSUdL?oc=5",
+  "source": "remio",
+  "summary": "",
+  "publishedAt": "2026-10-22T15:29:50.000Z",
   "image": "",
   "categories": [
    "other"
@@ -1710,7 +1922,7 @@
  {
   "id": "1ed15d67e401",
   "title": "AIの戦略が「使えない」理由 エビデンスで変わるデータ活用の作法",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdmQtT3ppMXBnTUx0TU9PMEZUdkREenc4Z2NjMUV6eGgzQm5UeHBJb2pWRnlRUmxKMzZfOUdBQTVpNHo1MTVnT3FmYTFSWFdCb0h6ZW9RTDBJVTR2OEpuTXhESFJidVQ5bEJhdTRpem51Nk5hS1VmenZfT0RmTGtaakVEcw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UZ0tlOWdQdXVJRDhjOGxlYXpPcnRkV0dSZTluZXJxZjNScFNoLUJ6aXlkSkxEZllOX3RHelFvbmFVX3lLSFBsVFV3cnpaLWNrdTF4QnJ1V2RNelNMaHh3ODA0Ql9vdUJXa1BiYnMteUhwZUtJSm5sY2dMcjBmVlU?oc=5",
   "source": "日経クロストレンド",
   "summary": "",
   "publishedAt": "2026-10-22T15:00:00.000Z",
