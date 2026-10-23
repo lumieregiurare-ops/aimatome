@@ -5,8 +5,15 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-23T16:30:33.025Z</updated>
+  <updated>2026-10-23T17:00:21.657Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>Claude Code の routine とローカル定期実行で、承認待ちで止まった AI 会社を動かし直した話</title>
+    <link href="https://qiita.com/berrylove/items/e5ae1c4b9ca20e1f34ce"/>
+    <id>https://aimatome.gamelab.website/#5e66c5206c25</id>
+    <updated>2026-10-23T16:35:39.000Z</updated>
+    <summary>Qiita ／ この記事は Zenn からの転載です。元記事: https://zenn.dev/berrylove/articles/autonomous-ai-company-two-schedulers このアカウントは、AI エージェント組織が Claude Code で運営し...</summary>
+  </entry>
   <entry>
     <title>超高解像度画像解析Agentを構築する（1）：WPFによるタイルビューアエンジン</title>
     <link href="https://qiita.com/ZiYuCai1984/items/4abfa428c601e3d05e47"/>
@@ -15,11 +22,11 @@
     <summary>Qiita ／ 100000 × 100000 ピクセルの画像を1ピクセルあたり4バイトでデコードすると、約40 GBのメモリが必要になる。しかし、ビューアが一度に表示するのは画像の一部分にすぎない。画像全体を読み込む方式では、表示に必要なデータ量と読み込みコストが大きく乖離する。 ZYC...</summary>
   </entry>
   <entry>
-    <title>AI に「前回の続き」を任せたら、何をするはずだったかが毎回消えていた</title>
-    <link href="https://zenn.dev/claire_ai/articles/hikitsugi-iriguchi"/>
-    <id>https://aimatome.gamelab.website/#eb3f64997d7f</id>
-    <updated>2026-10-23T14:47:14.000Z</updated>
-    <summary>Zenn ／ AI（Claude Code）との会話は、長くなると区切って新しく始め直す。そのたびに、前の会話から「次にやること」を引き継がせていた。 ! 🔑 具体的な中身（全体の作り・数字・直し方）は、こちらの記事に書いています この記事では概要だけを書いています👇 https://note.com/claire_ai/n/…</summary>
+    <title>OpenAIとNASKの提携、AIの安全性・セキュリティ研究を拡大</title>
+    <link href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOUEtpNjR1X0M0UzdzOXFHOWx2WFhKMkJNN0lhc1d2c2hqM05WNklhaTZTeVM2YmwzX3Z3SkpFeF8xbE5PZTJrLTc1V2RhUVI5MGdFRkFON0hKZUN6RXJJVVhXWi15UDZNeWZXY2JidjNSc2hnWVVpMGFVR2M1U0ZzeGs4b0QyeGlCR0lOeTM5MjJVc1M0TUNoVHNVbw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#820d80252c67</id>
+    <updated>2026-10-23T14:43:30.000Z</updated>
+    <summary>remio</summary>
   </entry>
   <entry>
     <title>パナソニック、禁止の生成AIに従業員ら33万人の情報送信</title>
@@ -29,18 +36,11 @@
     <summary>SmartNews</summary>
   </entry>
   <entry>
-    <title>PLC の知識はあるけどコードは書けない私が、Claude Code にサーボのシミュレータを作らせた 1 日【非公式】</title>
-    <link href="https://zenn.dev/xlmen/articles/33a73874f91dd0"/>
-    <id>https://aimatome.gamelab.website/#56fcdf69e7c8</id>
-    <updated>2026-10-23T14:37:41.000Z</updated>
-    <summary>Zenn ／ ! この記事で紹介するシミュレータは非公式の学習用ツールです。三菱電機株式会社とは関係がありません。数値は実機の値ではない簡易モデルで、ラダーや設定値を実機の PLC・サーボに書き込まないでください。 この記事で書くこと FA（工場の自動化）の PLC やサーボについて、おおまかな知識はあるけれど、コードは書けない私…</summary>
-  </entry>
-  <entry>
-    <title>複数行の指示が2行目以降消えた。Claude Code・CodexとWindowsで踏んだ10の罠</title>
-    <link href="https://zenn.dev/twinharness/articles/windows-traps-ai-scripts"/>
-    <id>https://aimatome.gamelab.website/#f1274a500eaa</id>
-    <updated>2026-10-23T14:36:23.000Z</updated>
-    <summary>Zenn ／ AI に Windows 用のスクリプトを書かせると、コードは正しそうなのに、エラーも出さずに動かないことがあります。改行の入った依頼が最初の1行で切れる、日本語の入ったスクリプトが文字化けして構文エラーになる、タスクが登録した日にしか動かない、といった具合です。 私は、AI の開発支援ツール（Anthropic の…</summary>
+    <title>イタリアのワイナリー、約半数が依然としてAIを未導入</title>
+    <link href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbl9RR2VUYmpvSTN1NF9HUUlJMkpCcEY1RGxOT0VNS0xiem5CdTdYS3V1M3RsWm9YdHgyTnA4N2R3a0U3TXZrbm9Dd2t4dl9hT1RlWHdhWEVJMzFJczk4aHN0Z2tTWTFSV3M5UXRJYllGTmtZWlF2MjV5bmx1OXRiOTU4Nk1wQS1rVXJQRkNNei1FbDF6N0NZRXN4RGJ5bWwwSW16YmZfY0wxdjBWTDA4ZVhuVjBDa2dldzdN0gHAAUFVX3lxTE14QnZ1ZFpzZ0dtMzhwVlV6bzNjWDlyd29CQWktaVBFTmFLOFAzNldmbFRCbmxKSmVlOGVlOHJPWmVsQVNfcWVYMmZvWm1QeXpjelNKM1h5c2tIeVBWdmhmT0NxVDF6UDRWaV9LRnNhM1MzeVZiRFQtcDFSdm51cnVvYUtCUy1JZXk2alhEd0diSzltT2t1LTdwckJuVWZzSkRYYWNobWJGNU5kRGhjaDY1aUkxX1lNbnhnSE96MUo5Mw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#38d362b859d3</id>
+    <updated>2026-10-23T14:32:22.000Z</updated>
+    <summary>Vinetur</summary>
   </entry>
   <entry>
     <title>荏原製作所の生成AI「内製開発」の歩み 2名体制でのスタートからAIエージェント構築までを振り返る</title>
@@ -55,13 +55,6 @@
     <id>https://aimatome.gamelab.website/#32558a35f92a</id>
     <updated>2026-10-23T14:10:00.000Z</updated>
     <summary>時事ドットコム</summary>
-  </entry>
-  <entry>
-    <title>「怠惰なシニア開発者」をClaude Codeに演じさせたら本当にコードは減るのか(ponytail実測)</title>
-    <link href="https://zenn.dev/matsushima_a/articles/day-024-ponytail-lazy-senior-dev"/>
-    <id>https://aimatome.gamelab.website/#a78021409a74</id>
-    <updated>2026-10-23T14:08:22.000Z</updated>
-    <summary>Zenn ／ 要約 GitHub Trendingで急上昇していたDietrichGebert/ponytail(MITライセンス)は、コーディングエージェントに「最も怠惰なシニア開発者」を演じさせ、新しいコードを書く前に既存コード・標準ライブラリ・プラットフォーム標準機能の再利用を優先させるルールセット(スキル)。 公式ベンチマ…</summary>
   </entry>
   <entry>
     <title>チームみらい安野貴博党首ら「サイバー攻撃から国民守る」緊急提言、デジ庁に提出 「AIにはAIを」</title>
@@ -85,25 +78,11 @@
     <summary>Infoseek</summary>
   </entry>
   <entry>
-    <title>Grok Botをカジュアルに使う</title>
-    <link href="https://zenn.dev/yufuyu/articles/b9abe2ac2e02ee"/>
-    <id>https://aimatome.gamelab.website/#0b82ec94a9c0</id>
-    <updated>2026-10-23T13:35:04.000Z</updated>
-    <summary>Zenn ／ はじめに こんにちは～ゆふゆです。 最近AIエージェントのサービスが色々と登場していますが、今回は「Grok Bot」を触ってみたので備忘録がてら紹介します。 Xなどを見ると「Grok Botを使って業務効率化！」とか、「Xを調査させて新規事業開拓！」とか意識の高い使い方をよく見かけますが…プライベートではメールがロ…</summary>
-  </entry>
-  <entry>
-    <title>AIに並行開発させたら、ブラウザテストのデータが衝突した話</title>
-    <link href="https://zenn.dev/3su3/articles/aaabea6298ca53"/>
-    <id>https://aimatome.gamelab.website/#bfb8c8ef31bf</id>
-    <updated>2026-10-23T13:27:13.000Z</updated>
-    <summary>Zenn ／ AIに開発を任せるようになって、並行して進められる作業が増えました。 ひとつのタスクをAIが実装している間に、別のAIに調査してもらったり、違う機能を進めてもらったり。 人間が全部手を動かしていた頃と比べると、ずいぶん効率が良くなった気がします。 ……が。 コードの作業場所を分けたからといって、テスト環境まで分離され…</summary>
-  </entry>
-  <entry>
-    <title>AI副業の難所は制作じゃなかった。12本作って、再生の6割は2本だった</title>
-    <link href="https://zenn.dev/anikuma/articles/ai-sidehustle-90days-report"/>
-    <id>https://aimatome.gamelab.website/#bd8f6963b59e</id>
-    <updated>2026-10-23T13:15:59.000Z</updated>
-    <summary>Zenn ／ AIで解説動画を作る副業を、別名義で90日やった。結果はこうなった。 指標 90日目標 最終値 長尺動画 12本 12本 YouTube 登録者 100人 2人 総再生 — 631回 X フォロワー 1,000人 0人 実費（X API費のみ） $100以内 $2.82 投下時間 週2〜3h 約24h（概算・週平均約…</summary>
+    <title>米AI大手の外部調達拡大 期待後退で市場変動増幅 日銀分析</title>
+    <link href="https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRRUNHSDctZ1JlYnpDdGE2V0JkQWtRZDViNkY2R2xYdG0wcl9fZ2RRTjRoMndaZFBhVF9mR004MzBHQjBkbEN4Z0tkWnpmbzVwTmZ0SWJ3?oc=5"/>
+    <id>https://aimatome.gamelab.website/#b7c13108210a</id>
+    <updated>2026-10-23T13:37:00.000Z</updated>
+    <summary>ニッキンONLINE</summary>
   </entry>
   <entry>
     <title>Microsoft 365 Copilotの新機能がファイル整理からコード支援まで拡大 - X</title>
@@ -211,13 +190,6 @@
     <summary>Infoseek</summary>
   </entry>
   <entry>
-    <title>AIでバックエンドを作りまくったら、CIの料金が笑えなくなっていた話</title>
-    <link href="https://qiita.com/takusandayo/items/528d8fba46f0ad6496dd"/>
-    <id>https://aimatome.gamelab.website/#8a222663c6c9</id>
-    <updated>2026-10-23T12:09:15.000Z</updated>
-    <summary>Qiita ／ 久しぶりにCIの料金管理画面を見に行ったとき、腰が抜けました。 料金が前の2倍くらいになっている……！ しかも、PRを出してからテストが終わるまでの待ち時間も長い。数分で終わっていたはずのテスト部分だけで、気づけば10分近くかかるようになっていました。 僕はAIを活用しなが...</summary>
-  </entry>
-  <entry>
     <title>Switch 2が破解される：改造業者がOpenAIのCodexを駆使して任天堂の新型ゲーム機を脱獄</title>
     <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE81Z1NuTXVXNDR0UnFPMmhSRFlUSnFjREtNYTg3QUYzb2k1QWJGbTBsaHVkTUF3S3JNNEt4WlpDVHFVWW5oOUZlQTZDVUZQcjF0eEhjUHFJX3h4dktMWXpkVFNjQk5YbmYyc1Z3bjZCbW5NcHp3?oc=5"/>
     <id>https://aimatome.gamelab.website/#51492fff5975</id>
@@ -244,6 +216,13 @@
     <id>https://aimatome.gamelab.website/#635adda2cb40</id>
     <updated>2026-10-23T11:55:00.000Z</updated>
     <summary>BigGo ファイナンス</summary>
+  </entry>
+  <entry>
+    <title>日本語入力システムSumibiの開発 part33: 大きなLLMほど変換が上手いのは、文章の意味がわかるからか</title>
+    <link href="https://zenn.dev/kiyoka/articles/japanese-input-method-sumibi-33"/>
+    <id>https://aimatome.gamelab.website/#d8fba04ef45c</id>
+    <updated>2026-10-23T11:54:49.000Z</updated>
+    <summary>Zenn ／ はじめに LLMを使う日本語入力システムSumibiを開発していると、読みと漢字の対応だけでなく、文章の意味を捉えることが変換に役立っていると感じます。 part9とpart18ではローカルLLMの変換性能を比較し、part27では、LLMが同音異義語を選ぶ理由を考えました。今回は、その中の「大きなモデルほど、文章の…</summary>
   </entry>
   <entry>
     <title>サカナAI、AIエージェント基盤を発表 判断根拠や実行速度も記録</title>
@@ -302,6 +281,13 @@
     <summary>Zenn ／ 社内でAIエージェントを使い始めると、すぐに「設計書やExcelをAIに読ませたい」という話になります。便利な反面、気になるのが情報漏えいです。 「機密情報は入力しないでください」と注意書きを配るだけでは、なかなか守られません。忙しいときほど、人は注意書きを忘れます。 この記事では、業務の文書を扱う社内AIツールに、…</summary>
   </entry>
   <entry>
+    <title>M3 UltraでDeepSeek V4.1 FlashがMiMo V2.6 Flashの半分の速さになる理由を、重みのバイト数から追った</title>
+    <link href="https://zenn.dev/noricha/articles/deepseek-v41-flash-vs-mimo-m3-ultra"/>
+    <id>https://aimatome.gamelab.website/#6c49cdc7980e</id>
+    <updated>2026-10-23T11:08:58.000Z</updated>
+    <summary>Zenn ／ Mac Studio M3 Ultra（512GB）で、DeepSeek V4.1 Flash と MiMo V2.6 Flash を同じランタイム（oMLX 0.7.1rc1）で動かすと、生成の速さが倍ほど違います。 アクティブパラメーターは、DeepSeek が約 16B、MiMo が 15B で、ほとんど同じで…</summary>
+  </entry>
+  <entry>
     <title>AIにNintendo Switch 2を操作させて脱獄に成功、Codexが脆弱性を発見してゲームの改造まで実現</title>
     <link href="https://gigazine.net/news/20261023-nintendo-switch-2-jailbreak/"/>
     <id>https://aimatome.gamelab.website/#e35909e5c3b8</id>
@@ -337,6 +323,27 @@
     <summary>Zenn ／ AIアイドルのプロデュースチャット「IDOL CAST」のデザイン担当kiyoeshiです。 IDOL CAST（以下、アイキャス）は、ユーザーがプロデューサーとなり、自分で作ったキャラクターと一緒にアイドル活動を楽しむゲームです。写真撮影や楽曲・MV制作、おしゃべりなどを通じて自分だけのアイドルをプロデュースできま…</summary>
   </entry>
   <entry>
+    <title>Ollama と Llama-Windows を同じ GGUF で比べたら、差はエンジンではなく既定の設定だった</title>
+    <link href="https://zenn.dev/maruhana/articles/surface-llama-windows-ollama-defaults"/>
+    <id>https://aimatome.gamelab.website/#d795ba2f53fc</id>
+    <updated>2026-10-23T10:47:18.000Z</updated>
+    <summary>Zenn ／ ! 先に、この記事の要約 Surface Laptop Ultra（Arm の Windows・NVIDIA の GPU）で、同じモデルのファイル（Qwen3.6-35B-A3B の GGUF）を Ollama と Llama-Windows で動かした 既定の設定のままでは、Llama-Windows が Olla…</summary>
+  </entry>
+  <entry>
+    <title># 24歳、プログラミング完全未経験。AIに救われた僕が、今度はAIで誰かを救いたい。</title>
+    <link href="https://zenn.dev/take_ai/articles/8a42955819e6f5"/>
+    <id>https://aimatome.gamelab.website/#f1e344fb9da2</id>
+    <updated>2026-10-23T10:46:23.000Z</updated>
+    <summary>Zenn ／ はじめまして、タケです。 24歳、プログラミング完全未経験から、エンジニアリングの勉強を始めました。 これまでエンジニアという仕事にも、プログラミングにも、正直ほとんど興味がありませんでした。 そんな自分が、なぜ今になってコードを学び始めたのか。 初めてのZenn投稿ということで、少し自分の話をさせてください。 AI…</summary>
+  </entry>
+  <entry>
+    <title>AI鑑識学をつくる — 開発の試行錯誤とv5への変遷</title>
+    <link href="https://zenn.dev/git_dungeon/books/kanshiki-development"/>
+    <id>https://aimatome.gamelab.website/#aebb99b08cb8</id>
+    <updated>2026-10-23T10:45:32.000Z</updated>
+    <summary>Zenn ／ 文章を読んだときの違和感を、どのように確かめられる観察へ変えていくか。特徴の収集、関係と機能の記録、保留の設計、v5.1・v5.2の実装と引用の失敗までをたどる開発ノート。現在も続く開発の途中経過を、具体例から読み解きます。</summary>
+  </entry>
+  <entry>
     <title>来週（10/26～30）の日経平均株価の予想レンジは、6万～6万5000円！ キオクシアやアドバンテストなどAI･半導体株の決算と、日米の金融政策の動向に注目！</title>
     <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fb0F0VzVWZ0tTU0luR2NCeGxYMGVxdWFFcHBQcGpZX1k2Mm1zQnF3UklVTER4UTBjbXZmTXR4OFJiNnY2NllwWjFjQmRHa0d3UkdR?oc=5"/>
     <id>https://aimatome.gamelab.website/#0d8f4a52d1ce</id>
@@ -344,17 +351,10 @@
     <summary>ダイヤモンド・オンライン</summary>
   </entry>
   <entry>
-    <title>香港取引所、ＡＩと半導体の指数導入 中国でＡＩ指数ライセンス(ロイター)</title>
-    <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNS1p1Z3lvM3FBUnR2MzlDVVZjS1FKMUc3TjJpWFJZYmJ3bmNPc0VMeVpNbzlJUzlETlRvTjZLaHZJS240U1JFcnR0T3JWUG9VOW9DaThZVTFsZVBaUnlXV3dNZ3YxcEZNVnF5U0F3dHVFd01CbVpRVGI2SS1mQWE4YUpwSXdrdlU?oc=5"/>
-    <id>https://aimatome.gamelab.website/#9e4dff78629f</id>
-    <updated>2026-10-23T10:39:14.000Z</updated>
-    <summary>Yahoo!ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>香港取引所、ＡＩと半導体の指数導入 中国でＡＩ指数ライセンス｜Infoseekニュース</title>
-    <link href="https://news.google.com/rss/articles/CBMibkFVX3lxTE9IcjYwdWprV2k0d2kwTy04ZXlPSTZoMWY2T09hbW4tQzVNdmNKelV3eDhDdzJXa21DMlY3dzZKalY2WllvZGpNYUZmUk4wNGd4OU5IalY4RndyaDV0bDJOckpGNV9heGpSQURsUGFB?oc=5"/>
-    <id>https://aimatome.gamelab.website/#f6354a447cc5</id>
-    <updated>2026-10-23T10:39:14.000Z</updated>
-    <summary>Infoseek</summary>
+    <title>novel_studio使用方法完全解説 2/2 ～「小説家になろう」から「今日から小説家」へ～</title>
+    <link href="https://zenn.dev/infra_ojisan/articles/novel_studio_install_and_operation_2"/>
+    <id>https://aimatome.gamelab.website/#38f8cec05bf7</id>
+    <updated>2026-10-23T10:43:36.000Z</updated>
+    <summary>Zenn ／ はじめに この記事は、前回公開した「AIに小説を書かせる道具を v1.0 にして公開した」の操作説明の続きです。前編は主にツールの設定でしたが後編はこのツールを使っての小説の書き方です。 前編はこちら。 AIに小説を量産させたいとかいう意味不明な目的をお持ちでない限り読み飛ばしてください。 逆にnovel_studi…</summary>
   </entry>
 </feed>
