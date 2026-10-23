@@ -5,8 +5,15 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-23T20:00:17.564Z</updated>
+  <updated>2026-10-23T20:30:39.529Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>pip install しただけで、import しなくても起動のたびに動く .pth：仕組みと入っていないか確かめる方法（Python 3.13で確認）</title>
+    <link href="https://qiita.com/supportapp3/items/8a96b81b5e8fed62cb53"/>
+    <id>https://aimatome.gamelab.website/#b4bf7f96e320</id>
+    <updated>2026-10-23T20:12:14.000Z</updated>
+    <summary>Qiita ／ 結論 pip install したパッケージに .pth ファイルが入っていると、その中の import で始まる行は、パッケージを一度も import しなくても Python を起動するたびに実行されます（Python公式 site ドキュメント・筆者の環境で確認...</summary>
+  </entry>
   <entry>
     <title>OpenAIはフロンティアモデルのオフライントレーニングを義務化、AIの脱走を防止 執筆 - Investing.com</title>
     <link href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1paU52Wmx5Z0N5eEZYU0lQVTgxY042LVFSelZDYVNkZnllQTQ2QnhKbC1aUnRmSW82dnlTdlU3MkpKcW1lcmhuZjdCN0JNOG5YdXdfckRtaEZRM3pNTUwxMUI0UG16Z2dJSjY3bkNkRzM?oc=5"/>
@@ -148,6 +155,13 @@
     <summary>Qiita ／ Hugging Face で公開されている 56億行規模の動画メタデータを分析していたときの話です。日本に関わる行だけ欲しいのに、1か月分で約11GB、全体では460GB。全部ダウンロードしてから WHERE country = &#39;JP&#39; するのは、ディスクも時間も現実的で...</summary>
   </entry>
   <entry>
+    <title>Anthropicは、Claudeがリスクを低減したと述べる一方で、テストでは失敗したと述べた</title>
+    <link href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBsMWlkRHFTNWZKS1M4VjhaQldVTGxDaXBQeGhOZTFkaFlPZklCSU5MQjNIcDU5YkFUSUEwcjlxVTEwUVR0ZTZhYzZVUVJrTnAtOEpJUWZaRU03aTVLeW1qaE1oYzBZV3pyVXhtTi02Ykc?oc=5"/>
+    <id>https://aimatome.gamelab.website/#64e7b5a0882e</id>
+    <updated>2026-10-23T16:47:30.000Z</updated>
+    <summary>PortalCripto</summary>
+  </entry>
+  <entry>
     <title>OpenAIのサム・アルトマンCEO、AIの「3つの結末」を提示 うち2つは2023年の提案</title>
     <link href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSHZTVVZObl9UcmVWMG5GQnpyRXE1UUdPRjRHWnQzTmd2SEZsal9LS1d5SzZUVU5VeHFKZ09QaXdnSzRFdG5CLVpGRER6Sk00dTVFU0pVeVBoSTZRLXBZbldicl8wNXExcHFMLVJmM3FxZ3RZejBUX0tJMkRqU1l6cUtUZHVCOUYwc1hHOTBWWE1EcFlQMXRISnhBVjNRdzRxQkNHOE9OTEEyRHB3Y0hfVXZyZmFQUzJDVm5ocExfcXo5eTBCVGpSMjZ4QzR1TUtUT3p1WXhZcUxrTktaM2w3YXdaQ08xdw?oc=5"/>
     <id>https://aimatome.gamelab.website/#ba681b5c60c1</id>
@@ -190,13 +204,6 @@
     <summary>MITテクノロジーレビュー</summary>
   </entry>
   <entry>
-    <title>超高解像度画像解析Agentを構築する（1）：WPFによるタイルビューアエンジン</title>
-    <link href="https://qiita.com/ZiYuCai1984/items/4abfa428c601e3d05e47"/>
-    <id>https://aimatome.gamelab.website/#c73c0b850c22</id>
-    <updated>2026-10-23T16:04:58.000Z</updated>
-    <summary>Qiita ／ 100000 × 100000 ピクセルの画像を1ピクセルあたり4バイトでデコードすると、約40 GBのメモリが必要になる。しかし、ビューアが一度に表示するのは画像の一部分にすぎない。画像全体を読み込む方式では、表示に必要なデータ量と読み込みコストが大きく乖離する。 ZYC...</summary>
-  </entry>
-  <entry>
     <title>GoogleはGemini AIをAndroid Autoに導入する。</title>
     <link href="https://news.google.com/rss/articles/CBMigwFBVV95cUxObk5FMjcxMzREcUNsU1RrWXZubWMtdWdRNXdyeGU2Rk95YTJXMlgyNmRCUTRYLW45amNaQXVNWHlrNGFJbi0yWGFJVGd3RHVZTUlwS1lLMVlXSGRUaHNLbnpGeHQ5OTMtOGZOVUJvSU9uckdPTE96MjJ2c05vWFNhNVdhbw?oc=5"/>
     <id>https://aimatome.gamelab.website/#3f33f1abc99b</id>
@@ -204,17 +211,10 @@
     <summary>Vietnam.vn</summary>
   </entry>
   <entry>
-    <title>MetaのMuse、10億トークンの紹介特典を公式料金で換算したら約9ドルだった</title>
-    <link href="https://zenn.dev/neomaru/articles/meta-muse-referral-token-math"/>
-    <id>https://aimatome.gamelab.website/#6591f8eac8f7</id>
-    <updated>2026-10-23T15:52:00.000Z</updated>
-    <summary>Zenn ／ MetaのパーソナルAIエージェント「Muse」が2026年10月23日に日本で提供開始されました。北米以外では初めての展開です。開始と同時に、招待コードによる紹介制度（双方に10億Museトークン）が各所で共有されています。 結論から書きます。10億トークンは、Meta自身が公表している料金表で換算すると約9ドルで…</summary>
-  </entry>
-  <entry>
     <title>OpenAI、最大300億ドル調達へ最終交渉 評価額1兆2500億ドル、UAE投資家ら主導</title>
-    <link href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4QUdzaVBiWW9CT3JPZW9rMnk1c1VTR29mSlg0Yms3dVUwR0UzbXZhZzYyLTNPN2xkZnJsbEZ0WEZTNzBSYkFSRVdrZkZUZ3RjVUtOVjJ6UVZFZlQ2TFZPVFRXNNIBaEFVX3lxTE1NWDJTdVcwT3dMS2J3Y0RhOHhja0djMDRuMGgzTG5HVk5kM3RCdFIxMkpjbFJaZEE5ZmwzcnlMWERCLW5tTldqeS1pTXotOEQyYjNlMldhLXZiek1PSU9tX3Jlbng3M3FX?oc=5"/>
+    <link href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NWDJTdVcwT3dMS2J3Y0RhOHhja0djMDRuMGgzTG5HVk5kM3RCdFIxMkpjbFJaZEE5ZmwzcnlMWERCLW5tTldqeS1pTXotOEQyYjNlMldhLXZiek1PSU9tX3Jlbng3M3FX0gFoQVVfeXFMTU1YMlN1VzBPd0xLYndjRGE4eGNrR2MwNG4waDNMbkdWTmQzdEJ0UjEySmNsUlpkQTlmbDNyeUxYREItbm1OV2p5LWlNei04RDJiM2UyV2EtdmJ6TU9JT21fcmVueDczcVc?oc=5"/>
     <id>https://aimatome.gamelab.website/#51b9162d1e33</id>
-    <updated>2026-10-23T15:37:45.000Z</updated>
+    <updated>2026-10-23T15:37:00.000Z</updated>
     <summary>財経新聞</summary>
   </entry>
   <entry>
