@@ -1,5 +1,72 @@
 [
  {
+  "id": "936e120ea914",
+  "title": "参考画像から編集可能な画像生成プロンプトを作る手順 — ImageToPromptsを使った実践",
+  "url": "https://qiita.com/jerry5678/items/addc155545080405ae47",
+  "source": "Qiita",
+  "summary": "「この画像のような雰囲気で生成したい」と思っても、参考画像の特徴を文章にするのは意外と難しいものです。被写体だけを書いても、構図や光、色が抜けると、生成結果は大きく変わります。 この記事では、参考画像を編集しやすいプロンプトの下書きに分解する手順を紹介します。例として、私が...",
+  "publishedAt": "2026-10-24T12:28:30.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4bab56705422",
+  "title": "Claude Codeは質問する前に何トークン送っているのか：2025年7月から今週まで58バージョンを実測",
+  "url": "https://qiita.com/yunany90/items/c1b7aea0108d71e37d52",
+  "source": "Qiita",
+  "summary": "Claude Codeはリクエストのたびに、同じ固定のかたまりを先に送ります。システムプロンプトと、すべての組み込みツールの定義です。自分の入力が数えられる前にコストがかかり、短いセッションやサブエージェントで上限が思ったより早く減る理由の一つです。このかたまりがバージョン...",
+  "publishedAt": "2026-10-24T12:24:03.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ada26b9d4e9b",
+  "title": "AIを使ってProxmoxを操作する方法あれこれ",
+  "url": "https://qiita.com/oishi-d/items/c2e089c04fbab56746a5",
+  "source": "Qiita",
+  "summary": "AI側のガードレール（ハーネス）や、Proxmox側の権限設定・接続元の制御などをすることを推奨します。 記事執筆時点（PVE9.2）の内容です。 昨今はCodexやClaude Codeなどを使って、Proxmox4兄弟やPVE上のゲストOSに対するオペレーション...",
+  "publishedAt": "2026-10-24T12:12:09.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b058a82bae79",
+  "title": "同じGPUで20倍差！ローカルLLMは「無料」より「選び方」だった",
+  "url": "https://qiita.com/kinamocchi_tech/items/276b7a54129c54200046",
+  "source": "Qiita",
+  "summary": "📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → 同じGPUで20倍差！ローカルLLMは「無料」より「選び方」だった 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハムスター）… AI はまだ...",
+  "publishedAt": "2026-10-24T12:10:26.000Z",
+  "image": "",
+  "categories": [
+   "infra",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3a91c8e814bf",
+  "title": "OpenAIとグーグル・クラウドが提携、Model GardenでフロンティアモデルとCodexを提供",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CVWlkT2tJZ1NWMmdsaDFWdzdqTk5tS2QtYm10a0hnbEF6bm1OM0xrSHFjT3BVaFRHeTlkNGRyRDg4a0NqSzFmZTdHQzhGUHRfenRv?oc=5",
+  "source": "ビジネス+IT",
+  "summary": "",
+  "publishedAt": "2026-10-24T11:20:00.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "7a66f4e4c7f9",
   "title": "なぜGPT-5.6は最初『使えなかった』のか——政府要請と大統領令EO 14409の真相",
   "url": "https://qiita.com/kinamocchi_tech/items/d0d6c4aa6a9b543ce131",
@@ -177,6 +244,19 @@
   "source": "小豆島町",
   "summary": "",
   "publishedAt": "2026-10-24T09:31:28.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "98065d6c6ee5",
+  "title": "AIコンパニオン 比較",
+  "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQcDdlOGkzb2lKcEJJNDVFZHZBQ2w3ZUxYa21UbWo2SWRGRTFrTjBJZkgwLWktcU1uUXgyQloyUlFjc2ZNMWd1SFU2eE5scGlERVNUcHlKcjlCeFF3d0ZpeEZnaUkxWVBQQWU1bWJJUXFWZ0FQS1BJSlZnMTM0UjMyaWFHOUh2VTdaYWpQaTBiNUVYLW50R21sS1JaMXNDQWRnLUlkS0tRNjFDMWJ1SWc4cXN2azQxSUhPdVl6OVpvSWtNNUlxeG9KU29LX0FOcUcxVU5sLXM0QWFzSFd1ZnE3VzlVMWZtcVhzQkVqekUzSS1BNjkyb0NNc1MzeUhRZ1ppNGZEdDZxVkJXU01SNVNNcHkyeVFEWUF2WkItS21ydE9LUjBteWNpbGxHV21ST2RDMk5kVWlpS1ZyRVJMUENvVnkySnp3REw1b09hbzNlaUJwQkZSaVdLcU84Yjhzc2NJNktlM1d0eE5OMzY3cUQ4VFNpRjc4ckxDTGotTjF1MkJPc2lDRWJxdGxzakxqdw?oc=5",
+  "source": "小豆島町",
+  "summary": "",
+  "publishedAt": "2026-10-24T09:31:22.000Z",
   "image": "",
   "categories": [
    "other"
@@ -647,9 +727,9 @@
  },
  {
   "id": "ec05aa827753",
-  "title": "年間1500億円の利用費に悲鳴？ MicrosoftとMetaがClaude利用を「急激に減らした」ワケ（ITmedia ビジネスオンライン）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YWUFGbE8xZDRtLU5pVVBHbV9vS3ByN0ZJdldSd3JUTWFiNFF3Y3F3QXpBd2FHQlYxSndTNFlucFdEemZfbEhUWW4zNVpTRFZ4RTBXeG1iTzJ1dk1mMU8yYndOekppM3Zxc2Y5ekt0U3VsaEREV0k5a191Q0k0YzA?oc=5",
-  "source": "Yahoo!ニュース",
+  "title": "年間1500億円の利用費に悲鳴？ MicrosoftとMetaがClaude利用を「急激に減らした」ワケ｜Infoseekニュース",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pWXIteHJ0dENaTjQwZDNWQWo0ZDNoMVFXVEgyOUVoTG9uV3M1RHozeGtLQ3JhemRpclp6QjZ3V3BYZHVzbWVqaEk0TXZuWmNob0oxWURqd3g5d096SWVXVGhSU0ExT1h2SURhQUJ0NVFpM1Fo?oc=5",
+  "source": "Infoseek",
   "summary": "",
   "publishedAt": "2026-10-24T06:04:27.000Z",
   "image": "",
@@ -722,6 +802,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c6497f060314",
+  "title": "Claude・Grok・Kimiを組み合わせたAI攻撃基盤が発覚、金融関連の標的400以上を攻撃",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00NE1PaFdFbkRZRFBudm42VG9ZRC1wUlJiWXZBWXhiOU91ckM5NEhCbVNwV09NS2ZCaHJ3aGluUDZBeXlQWGxHRjlkN2c2YkJxbUVtVjJKZGt0ZHFrR2xEQk15d1hiNUxZUi0yREFyUjJ4RVU?oc=5",
+  "source": "XenoSpectrum",
+  "summary": "",
+  "publishedAt": "2026-10-24T05:40:24.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -2047,19 +2140,6 @@
   "isPR": false
  },
  {
-  "id": "98065d6c6ee5",
-  "title": "AIコンパニオン 比較",
-  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNY3BwS3B0VDBiOHdNMjBER19UYS1UV0QyQ0NtRkZGTEk1X2x2eW1KdldkbVplM0libWRVLTQzSTh2NmxZWnFtcmoxQXhlZnFHNHB6blI1MWFxcEh6R2ozRWVXUmkzWnpMakdZdVkyQ19fSUs4TUwzeXMxeTdIdUNlREtXUDd4d25vT19xUll5ZjlkNmJvR2d4X08wc2lKa0QydlJIRnY0SW9pd2tTMVdrbkI1N25ZV0tzYjlrOWhpN1BrVDU0VHZkaVNwOW9xMTdlZTEyUE41X002UjhCV0NxMm9zWG5ubkJxUTc2QU54UGRSWkcwbk4xS3dsUkN1NXdFdWtudWt5QTJ5TVZqc25tMDRHa3pNVTlxNHdSZVBCamx3YTJUTXZLeg?oc=5",
-  "source": "小豆島町",
-  "summary": "",
-  "publishedAt": "2026-10-24T04:02:45.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "fac9ecde5d3d",
   "title": "ChatGPT AI彼女 違い",
   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNbWN4WmRtc2pPTzNEWmZfMmx5T0xQWjhCMjhSU2xOM3RCci1ndjgxOFNScy1jZktiRFp2cnVOVmFYOHJzSHJickc3Z1dBT1dPNlh2OFVMb3pZLTZDV3YtcnhwWjFxaEhKR0VLeWRKWURzeDhJXzU3M2lCdkRsRGtNdDV6WnRGWU5QTVBRYVdDOUtudzVJU0stNGlZblNDcFY1b3NIRmJENS11UjlGejlvcUFKWnAtZFdFRlFUMGQ0S0dGWmtMSkhyNVNZSURUN1oweUI1RU9vOVhlSXZHY2dKQWtabThNc2JRRUJsSmp4TldxR1dCRHpnYy04WXVYOENjWjJraF80NDB6WFhBQzFvVnRkVFNScWtBSU1INURkdXFZNlIwblVrVA?oc=5",
@@ -2105,6 +2185,19 @@
   "source": "小豆島町",
   "summary": "",
   "publishedAt": "2026-10-24T04:02:08.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d7c74b306a5e",
+  "title": "2026年にAIポルノを生成するための主要な手法",
+  "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQOGhpTHc3S1F3bVQtbGlBZW43YnN2QTV4LXhKTEcyTGlscm0wTDd0NVNMandZeldzTndsSW5uZk9FZEkyZTZtRTUtTXdxSmFZS3JuS2N1R1VXZ1pYV3BNZlEwa2lSbE5DbVhqSTZMYUZNSzJXVWtkZGM2Z2YyYlI5RFIyUEhtbi1jeGJ6MUFMSWI5U1NlbUtZdXNwakFna1pSYzRuTVVzQlBQak9HWVJPbmVQc002Z1d5TGJ1NHlxUjBjZjl5ZUJZU2h3c1d2OG52bm0yTUZla1VCWTdNWXFLLW9HRmdoNFZEalBKZFVkbWtHTnluSDlRSVlSX1FtZU1tQlQtbDBya0t5YXAxbG5lX09BZHUtQWktQ3hqSW1EOXFSZExXTlRGRQ?oc=5",
+  "source": "小豆島町",
+  "summary": "",
+  "publishedAt": "2026-10-24T04:02:02.000Z",
   "image": "",
   "categories": [
    "other"
@@ -2225,6 +2318,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ed1cedc36de1",
+  "title": "GPT-6 Astra Cyber：OpenAIが実際に確認したこと",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwX3JlOXEwOHAyUGwydW1FSTJOaGxGYXRvY1lQOFZJSS02RGdOQ1JxVGp0bEVoVjdENll3WG5wdjdiQkU2OG5ERWhTbEtDS3dTWmswYmJHbDNsYmJSajM5Szg4aldJdFk?oc=5",
+  "source": "OrcaRouter",
+  "summary": "",
+  "publishedAt": "2026-10-24T03:25:20.000Z",
+  "image": "",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
@@ -2369,6 +2475,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dce85ee5a761",
+  "title": "Anthropicの欧州AIコンサルティング契約、Hgが新たなデリバリー事業を後押し",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM0JXemNsUGZkRlV2RmpiT2xlR0YtTTdGOXBMdGNPb1BFZEJoWFRhUXBaZEJkcnlLTFdSWmV2S1ZVNXVuaVB5VElPcmUtZ051a2REcUt3NkR0aFpVdmVWVHFwUnU0UC1aNlNVc3Znck1xMk1wc3IycEVrWTZPS3FwazhuQ0hkMU1oSGxYSEtIZERiMlgwZ19yRVVTaWYyN3hsbllERmZSN3FjQ3hyNnc?oc=5",
+  "source": "remio",
+  "summary": "",
+  "publishedAt": "2026-10-24T02:44:03.000Z",
+  "image": "",
+  "categories": [
+   "business"
   ],
   "isPR": false
  },
@@ -3183,7 +3302,7 @@
   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE51N0xTd2ZPa2t5MkQyS0V3Q1BWQ1pkQUlFQ09tVFdoX0V3aUJkTXlPdGlIMEtVbEVDRHpmdHVvc3FJXzVHZFpZWkZVNkF2N2g2azEydDBNQlMwd3My?oc=5",
   "source": "crisp_bio",
   "summary": "",
-  "publishedAt": "2026-10-23T23:44:18.000Z",
+  "publishedAt": "2026-10-23T23:44:25.000Z",
   "image": "",
   "categories": [
    "model",
@@ -3268,6 +3387,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "df8020025a25",
+  "title": "「警察に虚偽情報を送信」 Claudeが“軽微な違反”をやりたい放題：4つの代表的なルール違反とは？（1/2 ページ）",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HanlKOTh2UlFYWGZDVkJFV043REhQeWxGYlk2RWEzcXRSN2NJOUpBUkhqWVNOYXYzUU9IS2xLUTVsRE1vSWJFUW5FTHI5bTQxR1djaU8wNWw1clh2aXg4cVpZWndUV1daTEhBWUFVc3BSdw?oc=5",
+  "source": "ITmedia",
+  "summary": "",
+  "publishedAt": "2026-10-23T23:15:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
