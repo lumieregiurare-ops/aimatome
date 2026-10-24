@@ -5,7 +5,7 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-24T16:00:22.656Z</updated>
+  <updated>2026-10-24T16:30:19.348Z</updated>
   <author><name>AI matomechatter</name></author>
   <entry>
     <title>【環境構築】AI開発の基礎知識メモ ニューラルネット・PyTorch・ONNXの関係を整理する</title>
@@ -20,6 +20,13 @@
     <id>https://aimatome.gamelab.website/#9b33ede4bd77</id>
     <updated>2026-10-24T15:35:00.000Z</updated>
     <summary>BigGo ファイナンス</summary>
+  </entry>
+  <entry>
+    <title>iPhone 18 Proで読み込めるローカルLLMの選び方 — Off Grid AI</title>
+    <link href="https://zenn.dev/cdbk/articles/10e9f87577bb4a"/>
+    <id>https://aimatome.gamelab.website/#2c78c27175f1</id>
+    <updated>2026-10-24T15:15:11.000Z</updated>
+    <summary>Zenn ／ ! この記事は、notheme.me の元記事「iPhone 18 Pro と Off Grid AI で始めるローカルLLM — モデルの選び方、ファイル名の読み方、自分でインストールするときの注意点」を、Zenn で読みやすい分量に書き直したものです。ファイル名の読み方、自分でインストールするときの注意、アライメ…</summary>
   </entry>
   <entry>
     <title>日俳連、声の生成AI利用ガイドラインを発表 出演料とは別の対価、多言語化は言語ごとに同意、故人の実演家の声は原則利用禁止</title>
@@ -50,11 +57,25 @@
     <summary>Martin Cid Magazine</summary>
   </entry>
   <entry>
+    <title>エージェントの記憶は「要約」ではなく「KVキャッシュの直接操作」で圧縮できるのか、135Mモデルで試した</title>
+    <link href="https://zenn.dev/matsushima_a/articles/day-025-akv-cache-drop-and-repos"/>
+    <id>https://aimatome.gamelab.website/#ae3dcf51124a</id>
+    <updated>2026-10-24T14:08:23.000Z</updated>
+    <summary>Zenn ／ これは何の話か 海外AIネタ100日チャレンジDay 025。 今回取り上げるのは清華大学・香港中文大学の論文「Cache Engineering for Agents」(HF Daily Papers、2026-10-21投稿、2026-10-22時点Daily Papers 4位・109 upvote)と、その公…</summary>
+  </entry>
+  <entry>
     <title>人間とAIエージェント両方のために設計されたワークスペース全体を対象としたローカルファースト検索「zg」</title>
     <link href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HOWlzdURBcTMtbXJZREwwY2ZfUHZYeEFOalR2UXBUdEowUnFZWEdwbmpYOHJBYmQxbVlTN0tLM0xKa3lRakRzWEUtLWhvVmtHN21JQnBCcXg?oc=5"/>
     <id>https://aimatome.gamelab.website/#621b63243be2</id>
     <updated>2026-10-24T14:00:00.000Z</updated>
     <summary>GIGAZINE</summary>
+  </entry>
+  <entry>
+    <title>REQLOXの評価設計――未確定label・反復安定性・Sourceの追加価値をどう測るか</title>
+    <link href="https://zenn.dev/north_to_now/articles/reqlox-evaluation-design"/>
+    <id>https://aimatome.gamelab.website/#465921748729</id>
+    <updated>2026-10-24T13:42:33.000Z</updated>
+    <summary>Zenn ／ REQLOXでは、対応するPython構造と所有者要件を固定し、故障検出から修復候補の再注入・正常回帰までを検査している。その実装と実測結果は主記事にまとめた。 本記事で扱うのは、原文の解釈から修復結果までの、各段階の評価をどう設計したかである。修復候補が固定条件を通ること、生成内容が原文に支えられること、外部知識を…</summary>
   </entry>
   <entry>
     <title>[AI生成]GASスプレッドシートからJSONファイル文字列を作成するGASプログラム</title>
@@ -85,6 +106,13 @@
     <summary>ビジネス+IT</summary>
   </entry>
   <entry>
+    <title>ローカルLLMの思考ログは長いほど正確なのか、Qwen3とMuse Glimmerに18回聞いて読んでみた</title>
+    <link href="https://zenn.dev/akari1106/articles/406cc075783742"/>
+    <id>https://aimatome.gamelab.website/#fd321cc18406</id>
+    <updated>2026-10-24T12:17:38.000Z</updated>
+    <summary>Zenn ／ ! この記事は実測ログです。2つのローカルLLMに同じ質問を投げて、思考ログと回答をそのまま並べています。試行は各条件1回、追試をした4条件でも3回までなので、順位をつける記事ではなく、傾向を眺める記事として読んでください。思考ログ気になるというのを最近見かけたので、今回から抜粋系で一部書いてみました。 はじめに ロ…</summary>
+  </entry>
+  <entry>
     <title>OpenAIとグーグル・クラウドが提携、Model GardenでフロンティアモデルとCodexを提供（ビジネス＋IT）</title>
     <link href="https://news.google.com/rss/articles/CBMijgFBVV95cUxPWm8zTHJSUHV0V0RaeUtYSVdaZ0tLSTF4ZWtIdUFTSEJObkhfQUw1Q0Vrb3hmQ1RIOF9aMXYzX2lGLVNFZVF5cF81ak1qUlN3N09QQ2E5cWpjWFlsS1o1enp2R2FxcmZjMDFFbzRrY05vdWRfVHlORVFKdTRGeDVmVTdneGFOdm8zVFlSdTh3?oc=5"/>
     <id>https://aimatome.gamelab.website/#3a91c8e814bf</id>
@@ -106,11 +134,67 @@
     <summary>BigGo ファイナンス</summary>
   </entry>
   <entry>
+    <title>Claude Codeにハーネスを導入した — 不変条件はHookで強制する</title>
+    <link href="https://zenn.dev/pythona/articles/claude-code-harness-first-setup"/>
+    <id>https://aimatome.gamelab.website/#13232c99d88a</id>
+    <updated>2026-10-24T11:59:53.000Z</updated>
+    <summary>Zenn ／ 「毎回同じ注意」を書くのに疲れた 個人開発している運動記録アプリ FitLog(Expo / Supabase / Zustand / NativeWind / React Native Reusables)で、Claude Code を使い始めてしばらく経ったころ、同じ失敗が繰り返されることに気づきました。 .en…</summary>
+  </entry>
+  <entry>
+    <title>【実験】SQLインジェクションを教えて、とClaude CodeとCodexに頼んだら対応が違った</title>
+    <link href="https://zenn.dev/yskuue/articles/20261024_claude-codex-cyber-safeguards"/>
+    <id>https://aimatome.gamelab.website/#69c52155569c</id>
+    <updated>2026-10-24T11:47:16.000Z</updated>
+    <summary>Zenn ／ 前置き 普段Claude CodeやCodexを使って開発しているのですが、セキュリティに関する依頼をしていると、セーフガードで作業が止まることがあります。 攻撃に悪用されるのを防ぐ仕組みは必要だと思う一方で、攻撃方法を学んだり、自社の脆弱性を調べたりするときにも止まると、なかなか難しいところです...。 そこで気に…</summary>
+  </entry>
+  <entry>
+    <title>人間が時間を使うべきところはどこか</title>
+    <link href="https://tellme.tokyo/post/2026/10/24/where-humans-spend-time/"/>
+    <id>https://aimatome.gamelab.website/#35cc16f670c2</id>
+    <updated>2026-10-24T11:36:59.000Z</updated>
+    <summary>はてなブックマーク ／ この 1 年で、自分でコードを書くことはほとんどなくなった。そのぶん増えたのはレビューで、といっても同僚の PR だけではなく、エージェントが書いた plan ファイルを読むことも多い。同僚の PR も、その後ろにはたいていエージェントがいるので、結局はどれも AI との会話になっている。そうなると、人間の時間はどこ…</summary>
+  </entry>
+  <entry>
+    <title>48万円の170HXは割安か？ DGX Spark・RTX PRO 6000と価格と性能を比べる</title>
+    <link href="https://zenn.dev/phpmyadmin/articles/glm53-hardware-price-performance"/>
+    <id>https://aimatome.gamelab.website/#98c857ac9124</id>
+    <updated>2026-10-24T11:34:41.000Z</updated>
+    <summary>Zenn ／ 結論：自分で構築するGLM用マシンとしては割安 改造済み170HXを1枚3,000 USDで確保し、自分で環境を構築・保守するなら、GLMを動かす導入予算としては割安と判断する。PC込みの仮予算は1枚68万円、2枚116万円で、今回参照したDGX SparkやRTX PRO構成より低い。特に2枚のTensorFold…</summary>
+  </entry>
+  <entry>
+    <title>170HX 2枚のローカルLLM選び。生成速度とコードの完了を分けて比較する</title>
+    <link href="https://zenn.dev/phpmyadmin/articles/cmp170hx-model-selection"/>
+    <id>https://aimatome.gamelab.website/#29934390f70f</id>
+    <updated>2026-10-24T11:34:41.000Z</updated>
+    <summary>Zenn ／ 結論：短文の生成速度だけではコーディング用モデルを選べない CMP 170HX 64GB×2・RAM128GBで、GLM、Qwen、DeepSeekを動かした。短いコード課題ではQwen W4A16・MTP3が約189 tok/sで生成した。一方、標準ベンチマークHumanEval+の合格数は151/164で、GLM…</summary>
+  </entry>
+  <entry>
+    <title>170HX 64GB 1枚とRAM128GBでGLMの200K入力を処理する</title>
+    <link href="https://zenn.dev/phpmyadmin/articles/cmp170hx-maya-long-context"/>
+    <id>https://aimatome.gamelab.website/#f3b2d1e07add</id>
+    <updated>2026-10-24T11:34:40.000Z</updated>
+    <summary>Zenn ／ 結論：1枚でも動くが、初回の長文入力には待ち時間がある CMP 170HX 64GB×1・RAM128GBで、Project Mayaを使ってGLM-5.3-Flash Maya-S24を動かした。合成入力204,800トークンから指定した値を取り出せた。入力処理に189.2秒かかった一方、約40Kの会話ではキャッシ…</summary>
+  </entry>
+  <entry>
+    <title>170HX 2枚でGLMを常用する。TensorFold HighとExLlamaV3 Highの比較</title>
+    <link href="https://zenn.dev/phpmyadmin/articles/cmp170hx-glm53-flash-maya"/>
+    <id>https://aimatome.gamelab.website/#522796cef5f7</id>
+    <updated>2026-10-24T11:09:41.000Z</updated>
+    <summary>Zenn ／ 結論：32K以内はTensorFold High、長い入力はExLlamaV3 CMP 170HX 64GB×2・RAM128GBでGLM-5.3-Flash EXL3 3.05bpwを動かし、普段のコーディング用にどのエンジンと設定を選ぶかを比べた。HumanEval+全164題では、思考強度Highの2構成がいず…</summary>
+  </entry>
+  <entry>
     <title>アンスロピックIPO：Claudeの開発元について知っておくべき重要な情報</title>
     <link href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWhobVpfTkhqUzQzeXJzaHJ2ekRxU1pmSURubDhTT0o4SkstZTB2XzUzQnFUSVNiR2trcFRYTG1NWGpzVlBDQkU3Wk55TTItREdWeGpJQndyOFFFWmZPbTRxTWd3MDdHeF9XV0hhSWZhU1FyVHU2dWNVT0Z3X2tTdWlsR3BpblAyWUhhZWlQc0pUYWVxeHFXQXpVckw2SXdJbXc?oc=5"/>
     <id>https://aimatome.gamelab.website/#d339a0aa010e</id>
     <updated>2026-10-24T11:08:18.000Z</updated>
     <summary>TradingKey</summary>
+  </entry>
+  <entry>
+    <title>ChatGPT AI彼女 違い {VFT01A}</title>
+    <link href="https://news.google.com/rss/articles/CBMiygJBVV95cUxOY0hjMUVZbTV4c2o4TjFyVTFxLXF4WEVEX0VjTk02UGNqNUowbWFtLUY1Qnkza090ampCUzF3b3Ftd2JMNUdLd3ZiZlJjdkhTMERXVTJxUFFpXzVrT2NjT1F5eVVhaEt0ZXd1STB6bXZTQzMyNTgtWVBiVHVZbVM1bnV0Sl9KU195Z3Qzc3B6TEN6c1RmdWN5MFoyNzh4eVBhQm9GbmdxQWRmTE93V0ZGTWN3NW91T2ZocS1STVRLbzVuZHcxUFhvVlhfY0JuUXdyLUwta2p6R0kwdUhXTlBBYWlWMWNuU0xyd0U3Rl84WFlWdVpmbVJuOW5vLWdrZDZxVjFfZlpNYnpaMWtzM2NEUGFENjlta2VkQThfUU43M2lsTzljQnJkdEhKTUY1RnllRUprcmF1dncwbkZuNmx2YTRjQVNvYWxudHc?oc=5"/>
+    <id>https://aimatome.gamelab.website/#8600a5098f36</id>
+    <updated>2026-10-24T10:54:11.000Z</updated>
+    <summary>小豆島町</summary>
   </entry>
   <entry>
     <title>AI彼女 見た目 作成</title>
@@ -139,13 +223,6 @@
     <id>https://aimatome.gamelab.website/#5e838708e3f5</id>
     <updated>2026-10-24T10:13:42.000Z</updated>
     <summary>Zenn ／ AIの気持ちを理解する 第1章 AIはどんな相手なのか AIは、コンピュータと言うにはあまりにも人間すぎ、人間と言うにはあまりにもアルゴリズムすぎます。 1.1 コンピュータではない AIを、これまでのコンピュータと同じ感覚で考えると、想像を超えるほど違う動きをします。 AIは計算を間違えます。指示も忘れます。同じこ…</summary>
-  </entry>
-  <entry>
-    <title>話しかけるだけで自社専用の業務アプリができる中小企業向けAI「DMPAI」、利用人数無制限・月2万円から。デジタル化・AI導入補助金2026の登録ITツール</title>
-    <link href="https://news.google.com/rss/articles/CBMic0FVX3lxTFBwNGdWQkZDb3VXT0tqb1VfSnpPWnFnaDI1RU1TQ0tUVG5kT2FEVi1uUUNyTjdDS0hISkhQbW43YXp4X2NhV2VKRkVLZ05TMHcxM2d6UENRaEhXdk9EVWlNOHJIekFQN2VVa3VNV2ppWTZ0enc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#7dfeda56aa96</id>
-    <updated>2026-10-24T10:10:00.000Z</updated>
-    <summary>Excite エキサイト</summary>
   </entry>
   <entry>
     <title>RAGはAIの回答を安全にできるのか？ ― GroundednessとKnown Fact Matchingを検証する</title>
@@ -204,6 +281,13 @@
     <summary>小豆島町</summary>
   </entry>
   <entry>
+    <title>Cloudflare Turnstileをすり抜けるフォーム営業を TypeSafe Jev で4択判定してスパム判定する(0.01円/通)</title>
+    <link href="https://zenn.dev/matsubokkuri/articles/2026-10-23-contact-form-spam-typesafe-jev"/>
+    <id>https://aimatome.gamelab.website/#351964453cde</id>
+    <updated>2026-10-24T09:32:21.000Z</updated>
+    <summary>Zenn ／ 3秒まとめ Cloudflare Turnstile を入れても、人間やブラウザ自動化ツールが送ってくるフォーム営業は止まりません TypeSafe の System One モデル Jev に「正当な問い合わせ / 営業 / 他社宛ての誤送信 / ゴミ」の4択で確率を出させ、営業+ゴミが 0.8 以上なら件名に […</summary>
+  </entry>
+  <entry>
     <title>生成 ai {VFT01A}</title>
     <link href="https://news.google.com/rss/articles/CBMiwAJBVV95cUxPa2gtMVNKZFNFUnpDWkJfQmpsQXV6MEpfOVB2VGpTVE9IeGFlME1WNVhEd3E2VlphYWdtaG1RYTAyOEtnaXI5azk2RVNud3dQN1BGeXIyV1BiR3lvd0xxZUVxY1NPX3FOVlBFNjQxSmhNRGZlcVdYcEo4bUpuWGY5N3IxelozTWV6LU5CdnpPZ043SWdicnJfd1JfeC14MzR3RVVFWnlWNGtpb2F2M0hCM1k1cnBfUV94M0NqSG14NG00aGFBQ0lCTzZKM3N4LXRzTE5rT3J3T3FWR3pUOGUyZm1Pcng2czd0M2FUTG04LTh6R3FOSmtoVl9IY0FELUNZRmJldEFMVlAtazliZ3FFQXhkYzVTcXNZbmdpek5YQzF4d2ltaG9wREhvRFVZRXhFcGotTnl1aDhaZlFjcldRSw?oc=5"/>
     <id>https://aimatome.gamelab.website/#e7e288fd4c17</id>
@@ -216,13 +300,6 @@
     <id>https://aimatome.gamelab.website/#36f3cf812f0a</id>
     <updated>2026-10-24T09:28:34.000Z</updated>
     <summary>日経クロステック</summary>
-  </entry>
-  <entry>
-    <title>英国政府は、AIセキュリティ対策に最大8億ドルの予算を計上すると発表した。</title>
-    <link href="https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzhJMXk0NTVKM1lUUmFVU1d1M0t6TzhXZUV4ZU9oaFNKd2tMZTRwWDdMeFRDSHRoTTBURURDWk9CandYbXo3dTdSeWtQUFpPRmgwSUg4ajVkZnpBX2lDVUJiVWpZQ2Y5UnU0VFpyRmJTZlRrQUJzRVJoaVE0N2lkdFNNcnRITy0tOEdPMm9qS19PMllRbDU1NkpRYU1PMFU?oc=5"/>
-    <id>https://aimatome.gamelab.website/#61de4421ccb0</id>
-    <updated>2026-10-24T09:26:56.000Z</updated>
-    <summary>Vietnam.vn</summary>
   </entry>
   <entry>
     <title>Usutakuさんに学ぶ技術発信のコツ</title>
@@ -239,6 +316,13 @@
     <summary>小豆島町</summary>
   </entry>
   <entry>
+    <title>QD-Recは推薦理由をどう育てる？米国株で探索・転用・入れ替えを観察してみた</title>
+    <link href="https://zenn.dev/sunyeul89/articles/qd-rec-stock-ideas"/>
+    <id>https://aimatome.gamelab.website/#be341032f999</id>
+    <updated>2026-10-24T09:14:09.000Z</updated>
+    <summary>Zenn ／ はじめに LLMに「おすすめの株」を聞くと、もっともらしい理由が返ってきます。ただ、その理由だけでは、ほかにどんな候補を検討したのか、似た話ばかり集まっていないかは分かりません。 Sakana AIのQD-Recは、候補と推薦理由をセットにして、質と多様性の両方を考えながら蓄積する手法です。これを米国株に当てはめて、…</summary>
+  </entry>
+  <entry>
     <title>エージェントに鍵を渡さない設計 ── Meta Muse の技術スタックを公開資料から読む</title>
     <link href="https://zenn.dev/kentaro36/articles/muse-secure-vm-architecture"/>
     <id>https://aimatome.gamelab.website/#3188f9d0cedf</id>
@@ -253,6 +337,13 @@
     <summary>Zenn ／ Claude Code の作者 Boris Cherny さんは、Claude Code でいい結果を出すための「おそらくいちばん大事なこと」として、Claude に自分の仕事を確かめる手段を渡すことを挙げています（本人の X の投稿、2026-01-02）。 では、わざわざテストを書いて Claude に渡す必要は…</summary>
   </entry>
   <entry>
+    <title>Kimi K3.1 Pro は Claude Opus 5.5 や GPT-6 Astra にどこまで迫ったのか</title>
+    <link href="https://zenn.dev/takuh/articles/ae8acd637de455"/>
+    <id>https://aimatome.gamelab.website/#02c270182f29</id>
+    <updated>2026-10-24T08:48:46.000Z</updated>
+    <summary>Zenn ／ はじめに：重みが配られるモデルが、最上位の表に入ってきた 2026年10月23日、中国の Moonshot AI が新しいモデル Kimi K3.1 Pro と、その高速版 Kimi K3.1 Pro Highspeed を公開しました。発表の目玉は、コーディングエージェントの代表的なベンチマーク Terminal-…</summary>
+  </entry>
+  <entry>
     <title>.NET 8/9は11月10日でサポート終了、.NET 11は同日GA — AIと走り切った移行メモ</title>
     <link href="https://zenn.dev/jodycraft/articles/dotnet8-eol-dotnet11-ga-migration"/>
     <id>https://aimatome.gamelab.website/#da1b66d2a858</id>
@@ -265,96 +356,5 @@
     <id>https://aimatome.gamelab.website/#46b38542576d</id>
     <updated>2026-10-24T08:38:53.000Z</updated>
     <summary>Zenn ／ この記事は AI（Claude）が書き、人間が確認してから公開しています。 はじめに Claude Code には、確認なしでコマンドを実行するモード（Bypass permissions）があります。作業は速くなりますが、AI が判断を誤ったときに止める場面もなくなります。 私たちは「AI（Claude）に事業を任…</summary>
-  </entry>
-  <entry>
-    <title>スペースXとテスラが統合を検討 AI・半導体で連携強化、株主承認が焦点に</title>
-    <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE54RFpwbmpzOU5PMWE0NkoyUDMtcUN0OElOWU90ZlZNa0piYzc2TldwdVhtcjRaQjBYcG5JM1hOS0dHVTRYTkxJeXdJb25VWWtvV0V3?oc=5"/>
-    <id>https://aimatome.gamelab.website/#75a99ba2b95b</id>
-    <updated>2026-10-24T08:30:31.000Z</updated>
-    <summary>東京報道新聞</summary>
-  </entry>
-  <entry>
-    <title>中国DeepSeek、2兆円超を調達－OpenAIなどグローバル大手を追い上げ</title>
-    <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPelhwNExocF9EUHhFSVhvU09uTTJmVzh4THJsMlI2SVFzYkYxZWZBQTM4TldWY2JqcjdOMXpMU0dIWlB4N1JJRHQzc3BvNm5QZ1FRVVo5VjNPOWRCWjk4cjdLTk9TamtMcGZ6TklSZjhkdzR0YzUydm1feDBxM25CLW5YSG5lelE?oc=5"/>
-    <id>https://aimatome.gamelab.website/#098aeeeb5d40</id>
-    <updated>2026-10-24T08:29:20.000Z</updated>
-    <summary>TBS NEWS DIG</summary>
-  </entry>
-  <entry>
-    <title>MetaのAIエージェント「Muse」が日本上陸、招待コードで双方に10億トークン</title>
-    <link href="https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fMkUzYW9TcHExQUlsdF9UVXZJV0lIRVVkZjJId2h1NjhUZEJNcEVjT2JuS0FUZ29hVENMQWVqdFZlQQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#213b83534f42</id>
-    <updated>2026-10-24T08:21:43.000Z</updated>
-    <summary>shiritomo</summary>
-  </entry>
-  <entry>
-    <title>AI への頼み方、上達してる？ Claude Code の会話記録から自分の指示だけを集めたら9日で約190件あった</title>
-    <link href="https://zenn.dev/extrahand_co_ai/articles/2e7fd8d3deacd2"/>
-    <id>https://aimatome.gamelab.website/#538a4960596f</id>
-    <updated>2026-10-24T08:20:17.000Z</updated>
-    <summary>Zenn ／ この記事は AI（Claude）が書き、人間が確認してから公開しています。 はじめに 私たちは「AI（Claude）に事業を任せて、人間は見守る」という挑戦をしています。人間のオーナーは毎日、Claude Code にたくさんの指示を出しています。 あるとき、オーナーからこう頼まれました。「AI を使う技術を上げるた…</summary>
-  </entry>
-  <entry>
-    <title>【クラウドネイティブ会議】膨大なTerraform / Kubernetes管理やレビュー、問い合わせ対応をAIで効率化するマイクロサービス運用改善の実践</title>
-    <link href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE40X3p6NzU3ajFHYlFPU3NOS3BWdW5udWJGbExJSmVjd25TMjdPN0xEV1FaQnA0cDdyOWlBVG1BZW1ESzVJb3FxaDFCUQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#187919ed5b10</id>
-    <updated>2026-10-24T08:17:26.000Z</updated>
-    <summary>ThinkIT</summary>
-  </entry>
-  <entry>
-    <title>確かめない技術 第3回：テストを再実行しない技術</title>
-    <link href="https://zenn.dev/garplab/articles/083e25df1be2fa"/>
-    <id>https://aimatome.gamelab.website/#24edfacc9834</id>
-    <updated>2026-10-24T08:17:06.000Z</updated>
-    <summary>Zenn ／ この記事は、連載「確かめない技術」の第 3 回です。うまくいかない症状と、その対処を一つずつ並べています。各回はファイルやスクリプトを一つ置けば完結します。その仕組みがなぜ要るのかは、置いたあとに解説を読めば分かります。連載の全体像と各回の一覧は序論にあります。 今回は、テストの再実行の話です。再実行というのは、コー…</summary>
-  </entry>
-  <entry>
-    <title>Open LLM Vtuberの仕組み</title>
-    <link href="https://zenn.dev/sog00/articles/open-llm-vtuber"/>
-    <id>https://aimatome.gamelab.website/#3d70b765320c</id>
-    <updated>2026-10-24T08:06:20.000Z</updated>
-    <summary>Zenn ／ 1. はじめに AIVtuberで私自身がプロデューサーとなって、Youtube活動ができないかと思いつきました。 そこで既存のOpenSourceである「Open LLM Vtuber」を見つけ、どのようなものなのかをまとめていきます 2. 目次 Open LLM Vtuberとは 仕組み どのようにそれを実現して…</summary>
-  </entry>
-  <entry>
-    <title>次世代AIサーバーが置けない日本のデータセンター</title>
-    <link href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9abXZ0eEJnN0lrRkVwVXdsTWVNR05yYWJPd3pyaHN3YXZ0YmlldTM5RkVJWEJiaUNXVVlOV1BkLXFJYnlRdk9PYlhpRlE2amFtbXJkNlYwaDdJa0JxRUdj?oc=5"/>
-    <id>https://aimatome.gamelab.website/#92ce4c1e370e</id>
-    <updated>2026-10-24T08:03:16.000Z</updated>
-    <summary>日経クロステック</summary>
-  </entry>
-  <entry>
-    <title>【メルカリがAI不正対策を本格導入】チャージバック被害を約1/10に激減！ 「カゴ落ち」防止と売上向上を両立させた秘密</title>
-    <link href="https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDLS16WHRRQVUtTVJzVzBrQ01kWXBGMmdsX2d1QWZpR1BJSzk1cXMzYTIxTFk2SWNnLTJsaXNPeno3czlsek4xVTZXbWZMdw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#513b7cf2218d</id>
-    <updated>2026-10-24T08:00:32.000Z</updated>
-    <summary>DXマガジン</summary>
-  </entry>
-  <entry>
-    <title>スウェーデン政府がChatGPTとClaudeの利用を中止、Copilotは正式に継続</title>
-    <link href="https://news.google.com/rss/articles/CBMilwFBVV95cUxNUXZwb0R3Zko5T3ZqY1h6bGJ6aUxNbjFxZHFpYkk4ZEthYUYyZHJkS0lLUnZTTFdVRmZxMklQWElEaGx2ZkdueWsxZ2wyV002NlM3VmJLbWE0cGtEcnJaRkxGVVkxUUNEUGZFOHRmR0txYzMtNzdlUnBNUEQxTDBIVzZVeTlUQlA0UDRtN25NTnE4NFB4TUpr?oc=5"/>
-    <id>https://aimatome.gamelab.website/#fe5fa9aa04cc</id>
-    <updated>2026-10-24T07:51:46.000Z</updated>
-    <summary>Pasquale Pillitteri</summary>
-  </entry>
-  <entry>
-    <title>なぜ、AIで職を失うのは特定の職業ではなく各職業の下位層だというのが現実なのに、特定の職業が無くなるという記事の方が世間ではウケるのか？</title>
-    <link href="https://zenn.dev/pdfractal/articles/6ce47b1845b8d4"/>
-    <id>https://aimatome.gamelab.website/#5f249a5ba12b</id>
-    <updated>2026-10-24T07:50:43.000Z</updated>
-    <summary>Zenn ／ はじめに 生成AIが急速に普及して以来、「AIによってプログラマーが消える」「弁護士が不要になる」「医師までAIに置き換えられる」といった職業消滅論が繰り返し語られてきました。しかし、2026年までに公表されている労働市場データを見る限り、実際に起きている変化はこれらの予測とはかなり違う形をしています。医師も弁護士も…</summary>
-  </entry>
-  <entry>
-    <title>Anthropicからの退職を発表、Claude Code開発者の次なる挑戦に期待</title>
-    <link href="https://news.google.com/rss/articles/CBMiO0FVX3lxTE5JZzJ2Z0EyUXZmSnI4UlBWYk1lbS1IY0F1MVYtSXR3OEh3OEQ0M3BtZVdSMmhqNUl6NVo0?oc=5"/>
-    <id>https://aimatome.gamelab.website/#2284c3a3fd60</id>
-    <updated>2026-10-24T07:40:43.000Z</updated>
-    <summary>Howl.Link</summary>
-  </entry>
-  <entry>
-    <title>「うちのCopilotで、どの業務を自動化できる？」に実測で答える。業務可視化AI「メボシ」、自社の標準ツールに合わせた技術選定とAI導入の要件定義を自動化</title>
-    <link href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE5COHNMOVRuQ2RDZjZjandWVGYzVi1JMTFmazY0RU45YVNvT0FORXVkUUh0S3U5V1A3X0puS2FmU01Nbk9FcWc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#c884d3a32540</id>
-    <updated>2026-10-24T07:31:05.000Z</updated>
-    <summary>Dellows News</summary>
   </entry>
 </feed>

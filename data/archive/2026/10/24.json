@@ -144,6 +144,20 @@
   "isPR": false
  },
  {
+  "id": "465921748729",
+  "title": "REQLOXの評価設計――未確定label・反復安定性・Sourceの追加価値をどう測るか",
+  "url": "https://zenn.dev/north_to_now/articles/reqlox-evaluation-design",
+  "source": "Zenn",
+  "summary": "REQLOXでは、対応するPython構造と所有者要件を固定し、故障検出から修復候補の再注入・正常回帰までを検査している。その実装と実測結果は主記事にまとめた。 本記事で扱うのは、原文の解釈から修復結果までの、各段階の評価をどう設計したかである。修復候補が固定条件を通ること、生成内容が原文に支えられること、外部知識を…",
+  "publishedAt": "2026-10-24T13:42:33.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "7fb58e71f878",
   "title": "[AI生成]GASスプレッドシートからJSONファイル文字列を作成するGASプログラム",
   "url": "https://qiita.com/shizuoka_miyako_19911118/items/5f295b845f836f6e35fa",
@@ -374,6 +388,19 @@
   "isPR": false
  },
  {
+  "id": "69c52155569c",
+  "title": "【実験】SQLインジェクションを教えて、とClaude CodeとCodexに頼んだら対応が違った",
+  "url": "https://zenn.dev/yskuue/articles/20261024_claude-codex-cyber-safeguards",
+  "source": "Zenn",
+  "summary": "前置き 普段Claude CodeやCodexを使って開発しているのですが、セキュリティに関する依頼をしていると、セーフガードで作業が止まることがあります。 攻撃に悪用されるのを防ぐ仕組みは必要だと思う一方で、攻撃方法を学んだり、自社の脆弱性を調べたりするときにも止まると、なかなか難しいところです...。 そこで気に…",
+  "publishedAt": "2026-10-24T11:47:16.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "fc2af6d3ffbd",
   "title": "OpenAI、ネット遮断でAI学習へ。鍵を守る動きが続々",
   "url": "https://zenn.dev/sugawara_ai/articles/ai-news-20261024",
@@ -393,6 +420,73 @@
   "source": "Zenn",
   "summary": "この記事の要点 Microsoft Defenderが有効でもマイニングされることはある。 監視設定やユーザーの行動が影響する場合が多い。 予防策として定期的な監査とログ分析が重要。 はじめに 最近、Microsoft Defenderが有効な開発マシンで…",
   "publishedAt": "2026-10-24T11:39:36.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "35cc16f670c2",
+  "title": "人間が時間を使うべきところはどこか",
+  "url": "https://tellme.tokyo/post/2026/10/24/where-humans-spend-time/",
+  "source": "はてなブックマーク",
+  "summary": "この 1 年で、自分でコードを書くことはほとんどなくなった。そのぶん増えたのはレビューで、といっても同僚の PR だけではなく、エージェントが書いた plan ファイルを読むことも多い。同僚の PR も、その後ろにはたいていエージェントがいるので、結局はどれも AI との会話になっている。そうなると、人間の時間はどこ…",
+  "publishedAt": "2026-10-24T11:36:59.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftellme.tokyo%2Fpost%2F2026%2F10%2F24%2Fwhere-humans-spend-time%2F",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "98c857ac9124",
+  "title": "48万円の170HXは割安か？ DGX Spark・RTX PRO 6000と価格と性能を比べる",
+  "url": "https://zenn.dev/phpmyadmin/articles/glm53-hardware-price-performance",
+  "source": "Zenn",
+  "summary": "結論：自分で構築するGLM用マシンとしては割安 改造済み170HXを1枚3,000 USDで確保し、自分で環境を構築・保守するなら、GLMを動かす導入予算としては割安と判断する。PC込みの仮予算は1枚68万円、2枚116万円で、今回参照したDGX SparkやRTX PRO構成より低い。特に2枚のTensorFold…",
+  "publishedAt": "2026-10-24T11:34:41.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "29934390f70f",
+  "title": "170HX 2枚のローカルLLM選び。生成速度とコードの完了を分けて比較する",
+  "url": "https://zenn.dev/phpmyadmin/articles/cmp170hx-model-selection",
+  "source": "Zenn",
+  "summary": "結論：短文の生成速度だけではコーディング用モデルを選べない CMP 170HX 64GB×2・RAM128GBで、GLM、Qwen、DeepSeekを動かした。短いコード課題ではQwen W4A16・MTP3が約189 tok/sで生成した。一方、標準ベンチマークHumanEval+の合格数は151/164で、GLM…",
+  "publishedAt": "2026-10-24T11:34:41.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f3b2d1e07add",
+  "title": "170HX 64GB 1枚とRAM128GBでGLMの200K入力を処理する",
+  "url": "https://zenn.dev/phpmyadmin/articles/cmp170hx-maya-long-context",
+  "source": "Zenn",
+  "summary": "結論：1枚でも動くが、初回の長文入力には待ち時間がある CMP 170HX 64GB×1・RAM128GBで、Project Mayaを使ってGLM-5.3-Flash Maya-S24を動かした。合成入力204,800トークンから指定した値を取り出せた。入力処理に189.2秒かかった一方、約40Kの会話ではキャッシ…",
+  "publishedAt": "2026-10-24T11:34:40.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "522796cef5f7",
+  "title": "170HX 2枚でGLMを常用する。TensorFold HighとExLlamaV3 Highの比較",
+  "url": "https://zenn.dev/phpmyadmin/articles/cmp170hx-glm53-flash-maya",
+  "source": "Zenn",
+  "summary": "結論：32K以内はTensorFold High、長い入力はExLlamaV3 CMP 170HX 64GB×2・RAM128GBでGLM-5.3-Flash EXL3 3.05bpwを動かし、普段のコーディング用にどのエンジンと設定を選ぶかを比べた。HumanEval+全164題では、思考強度Highの2構成がいず…",
+  "publishedAt": "2026-10-24T11:09:41.000Z",
   "image": "",
   "categories": [
    "other"
@@ -423,6 +517,19 @@
   "categories": [
    "model",
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8600a5098f36",
+  "title": "ChatGPT AI彼女 違い {VFT01A}",
+  "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOY0hjMUVZbTV4c2o4TjFyVTFxLXF4WEVEX0VjTk02UGNqNUowbWFtLUY1Qnkza090ampCUzF3b3Ftd2JMNUdLd3ZiZlJjdkhTMERXVTJxUFFpXzVrT2NjT1F5eVVhaEt0ZXd1STB6bXZTQzMyNTgtWVBiVHVZbVM1bnV0Sl9KU195Z3Qzc3B6TEN6c1RmdWN5MFoyNzh4eVBhQm9GbmdxQWRmTE93V0ZGTWN3NW91T2ZocS1STVRLbzVuZHcxUFhvVlhfY0JuUXdyLUwta2p6R0kwdUhXTlBBYWlWMWNuU0xyd0U3Rl84WFlWdVpmbVJuOW5vLWdrZDZxVjFfZlpNYnpaMWtzM2NEUGFENjlta2VkQThfUU43M2lsTzljQnJkdEhKTUY1RnllRUprcmF1dncwbkZuNmx2YTRjQVNvYWxudHc?oc=5",
+  "source": "小豆島町",
+  "summary": "",
+  "publishedAt": "2026-10-24T10:54:11.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -502,20 +609,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "7dfeda56aa96",
-  "title": "話しかけるだけで自社専用の業務アプリができる中小企業向けAI「DMPAI」、利用人数無制限・月2万円から。デジタル化・AI導入補助金2026の登録ITツール",
-  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwNGdWQkZDb3VXT0tqb1VfSnpPWnFnaDI1RU1TQ0tUVG5kT2FEVi1uUUNyTjdDS0hISkhQbW43YXp4X2NhV2VKRkVLZ05TMHcxM2d6UENRaEhXdk9EVWlNOHJIekFQN2VVa3VNV2ppWTZ0enc?oc=5",
-  "source": "Excite エキサイト",
-  "summary": "",
-  "publishedAt": "2026-10-24T10:10:00.000Z",
-  "image": "",
-  "categories": [
-   "product",
-   "case"
   ],
   "isPR": false
  },
@@ -638,6 +731,19 @@
   "isPR": false
  },
  {
+  "id": "351964453cde",
+  "title": "Cloudflare Turnstileをすり抜けるフォーム営業を TypeSafe Jev で4択判定してスパム判定する(0.01円/通)",
+  "url": "https://zenn.dev/matsubokkuri/articles/2026-10-23-contact-form-spam-typesafe-jev",
+  "source": "Zenn",
+  "summary": "3秒まとめ Cloudflare Turnstile を入れても、人間やブラウザ自動化ツールが送ってくるフォーム営業は止まりません TypeSafe の System One モデル Jev に「正当な問い合わせ / 営業 / 他社宛ての誤送信 / ゴミ」の4択で確率を出させ、営業+ゴミが 0.8 以上なら件名に […",
+  "publishedAt": "2026-10-24T09:32:21.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "0b247af8c6bd",
   "title": "MHAってなんだ？ — 8つの頭に分ける理由と、PyTorchで黙って壊れる3つの罠",
   "url": "https://qiita.com/GeneLab_999/items/da172b649bdd690e8420",
@@ -755,6 +861,19 @@
   "isPR": false
  },
  {
+  "id": "be341032f999",
+  "title": "QD-Recは推薦理由をどう育てる？米国株で探索・転用・入れ替えを観察してみた",
+  "url": "https://zenn.dev/sunyeul89/articles/qd-rec-stock-ideas",
+  "source": "Zenn",
+  "summary": "はじめに LLMに「おすすめの株」を聞くと、もっともらしい理由が返ってきます。ただ、その理由だけでは、ほかにどんな候補を検討したのか、似た話ばかり集まっていないかは分かりません。 Sakana AIのQD-Recは、候補と推薦理由をセットにして、質と多様性の両方を考えながら蓄積する手法です。これを米国株に当てはめて、…",
+  "publishedAt": "2026-10-24T09:14:09.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3188f9d0cedf",
   "title": "エージェントに鍵を渡さない設計 ── Meta Muse の技術スタックを公開資料から読む",
   "url": "https://zenn.dev/kentaro36/articles/muse-secure-vm-architecture",
@@ -818,6 +937,20 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "02c270182f29",
+  "title": "Kimi K3.1 Pro は Claude Opus 5.5 や GPT-6 Astra にどこまで迫ったのか",
+  "url": "https://zenn.dev/takuh/articles/ae8acd637de455",
+  "source": "Zenn",
+  "summary": "はじめに：重みが配られるモデルが、最上位の表に入ってきた 2026年10月23日、中国の Moonshot AI が新しいモデル Kimi K3.1 Pro と、その高速版 Kimi K3.1 Pro Highspeed を公開しました。発表の目玉は、コーディングエージェントの代表的なベンチマーク Terminal-…",
+  "publishedAt": "2026-10-24T08:48:46.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
   ],
   "isPR": false
  },
@@ -1028,6 +1161,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "18732dc6b5bb",
+  "title": "MacBook Air（M5）でローカルLLM環境を構築してみた",
+  "url": "https://zenn.dev/saaaku/articles/localllm-in-macbookair",
+  "source": "Zenn",
+  "summary": "はじめに MacBook Air（M5、メモリ24GB）にローカルLLM環境を構築して「とりあえず動かしてみる」という記事です。 結論として、今回はgemma4を使ったのですが、軽量なモデルでも思ったより回答までに時間がかかるなという印象です。 （普段ClaudeCodeを使っているので、期待値が高すぎたのかも。） …",
+  "publishedAt": "2026-10-24T07:45:41.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -1295,6 +1441,19 @@
   "categories": [
    "infra",
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "52483f276371",
+  "title": "OpenAIなど、1946体のAIでマウス脳データを32分で再解析 創薬仮説を公開",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uVHN0eDJnV2lGSFJ2NDVmN3A3Zl80cGd0eFZ0N3J2V1pmZk1IS1hESG5TZzVtdWtSN2xnUnJnQUNtNDE1RmJHMVJKR3pLd1dNbnF4VTZNWm5IYjNNSmxSXzlTd9IBaEFVX3lxTE51REVlYWhZTERpcG9vbDA3Z1I0WnZCU3hsSkhRb0JYQi1LcGU4WHZWRjh3VUxFR0dUa2lzTDdxVU1QSUcyU3lsSTF0NDlVNkdJZUdwWE5mNG1FelNIZzEwOENkUnpGSnRl?oc=5",
+  "source": "財経新聞",
+  "summary": "",
+  "publishedAt": "2026-10-24T05:56:30.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -2420,6 +2579,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7dfeda56aa96",
+  "title": "話しかけるだけで自社専用の業務アプリができる中小企業向けAI「DMPAI」、利用人数無制限・月2万円から。デジタル化・AI導入補助金2026の登録ITツール",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwNGdWQkZDb3VXT0tqb1VfSnpPWnFnaDI1RU1TQ0tUVG5kT2FEVi1uUUNyTjdDS0hISkhQbW43YXp4X2NhV2VKRkVLZ05TMHcxM2d6UENRaEhXdk9EVWlNOHJIekFQN2VVa3VNV2ppWTZ0enc?oc=5",
+  "source": "Excite エキサイト",
+  "summary": "",
+  "publishedAt": "2026-10-24T04:10:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
   ],
   "isPR": false
  },
@@ -4591,19 +4764,6 @@
   "isPR": false
  },
  {
-  "id": "a9eb27cede6a",
-  "title": "原菜乃華、一番身近な友達はChatGPT 裏切られたエピソード告白「課金をストップして友達をやめようかなと」",
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnZUVrVVl0SE5jandoT2tSV3VNNHU1VllWNEJTaEJZZGpRQkNRMUdsLXBBUmk4UUNoTkRsZ3RBdWZ1NzBldnItMUVXQkhMSlJERTVDemJ1bHFRa3ZMVXVzTEZzT2g?oc=5",
-  "source": "山陽新聞デジタル｜さんデジ",
-  "summary": "",
-  "publishedAt": "2026-10-23T21:12:01.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "37a716ebd542",
   "title": "‍‍‍プライバシーと安全機能がある生成AIによるポルノコンテンツの情報",
   "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxNSkpjVEFjSjYtcE9KazNnVTNKeHViZTI5VVVkZGUzYm5fRTFvV0FLUUtxVjBwV2NRdkl3TzdmTzhfVUN4d2NrY051MFo5N3ZiVU4wSGRyWTRrQmxTWmdoejd5VnZVVENxamp5WnhfNzlXOG1mbG1xN200NnRtTWtxTk5OTjdHUnBvRnJXUjUwY3lObThQalo5MDVXcmJLRU5nQUNKb0JjMFpxRHB0cVluc3F6OU9yTjlON0lDdVp2Y0xBSGVVRE9Fbjc0cURjWWFMT3pucW1HSnMzWmF6TmRlZkpHRUFUZzRIOWk5VldfZzZFaEJuRWhac05jMmdUZzdSTXBlbG12WEhJNHEydXg3MTY5ZVZYS0d4NEtCTnFtdTFZaUFxVlFOXzlxaVVCZUlMQnVhUFlqb1NOaklFMEdoZWg2eU9mS1FWREVIZXQ3bDhQdGIteTFuU1Y5ejVDdklfeUo5Z0ZkUUlZWXl0N1NNb1JtVFBFNVYyejRLbHNPTWF5Z1N0MGFSWHo4YTJYZ0tiYmlHOTlDWnA?oc=5",
@@ -4924,6 +5084,19 @@
   "source": "Unite.AI",
   "summary": "",
   "publishedAt": "2026-10-23T19:12:44.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a9eb27cede6a",
+  "title": "原菜乃華、一番身近な友達はChatGPT 裏切られたエピソード告白「課金をストップして友達をやめようかなと」",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ObkhhOUJDelNHQ1Z5TEJRbHBXcVFYVVRldTJPdGV1OVRlRTd1RmhsbkF5S0RuM3hiZ2FTSVNObEJpSlhOV0JoSDdVQ3FPMGJmWGVwUVZlRF9XVFpxYm1FWA?oc=5",
+  "source": "山陽新聞デジタル｜さんデジ",
+  "summary": "",
+  "publishedAt": "2026-10-23T19:04:34.000Z",
   "image": "",
   "categories": [
    "other"
