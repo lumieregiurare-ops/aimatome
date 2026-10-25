@@ -1,5 +1,98 @@
 [
  {
+  "id": "0ea4b3bafd05",
+  "title": "LiteLLM 1.107.0 のマルウェア ― AI 開発者が 5 分で確かめることと、次から 3 日待つ設定",
+  "url": "https://zenn.dev/persimmoq/articles/litellm-1-107-0-compromise-check",
+  "source": "Zenn",
+  "summary": "2026 年 10 月 21 日、PyPI の litellm に、情報窃取型のマルウェアが入った版（1.107.0）が公開されました。2026 年 3 月の事案とは別の、2 度目の侵害です。PyPI からは削除済みで、安全な版は 1.106.2 です。 LiteLLM は、Claude や GPT など複数のモデル…",
+  "publishedAt": "2026-10-25T04:27:40.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e85b96a4c116",
+  "title": "見た目は、言葉で変えられます",
+  "url": "https://qiita.com/oosawak@github/items/65c6b9d828bd8a551e6a",
+  "source": "Qiita",
+  "summary": "この記事は、Lyre3 GamesのTechブログに載せた記事の転載です。ブログ版はこちらです。 前回の記事で、ホームページの仕組み（Markdown CMS）を、自由に使える形で公開しました。 今日はその続きで、「見た目を変える」手順を書いておきます。 手順が書いて...",
+  "publishedAt": "2026-10-25T04:26:10.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0d882d56a695",
+  "title": "オーパス先生が作れない・作らなかったマクロを、なぜゴンちゃんが作ったのかという話 ── 0.17秒の数式修復に隠された「4つのアルゴリズム」と「育てる型」",
+  "url": "https://qiita.com/shu15511551/items/9621b38ce08ca54ebfb8",
+  "source": "Qiita",
+  "summary": "はじめに 今朝、一本の記事を公開しました。 会話だけで UserForm を組み替え、そのフォームの［マクロ撃ち］ボタンを押したら、シートの #DIV/0!（ゼロ除算エラー）が AI との通信すら挟まず、手元の VBA マクロだけでわずか 0.17秒 で直ってしまっ...",
+  "publishedAt": "2026-10-25T04:21:30.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "782e74249f34",
+  "title": "1枚0.3秒!!Cloudflareの爆速抽出モデルClairicを試してみた",
+  "url": "https://qiita.com/kikuziro/items/3f23603152b409d4a6ca",
+  "source": "Qiita",
+  "summary": "🎬 取引文書を 爆速分類→テキスト抽出 書類の画像をまとめてアップロードして分類から項目の抽出まで流れる様子です。シュバババーっと仕分けして内容を抽出してくれています。この記事では検証内容や結果について記載していきます。 👀 対象読者 Cloudflareの\"Cle...",
+  "publishedAt": "2026-10-25T04:17:10.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "52102294f452",
+  "title": "配線完了、ERC／DRC／未配線オール0 — それでもCM4ボードを『製造可能』と言わない理由",
+  "url": "https://qiita.com/tomoya-creater/items/346dee8c320c487020e9",
+  "source": "Qiita",
+  "summary": "Raspberry Pi CM4 用 Mini-ITX IO Board を、AIエージェント（Codex が KiCad CLI 経由で設計）が作る開発ログの第2回です。 第1回（Qiita／dev.to 英語版）では「ERC 0件・DRCエラー244件・未配線1,464...",
+  "publishedAt": "2026-10-25T04:14:58.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "886aef2abf89",
+  "title": "オークファンMCPサーバー、買取の価格調査時間を生成AIが大幅に短縮",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzYzhyQ3RwSC1mQjk1RjYwb2JJV0hUdnQtRmxoWWliTktOOTVCcnhhdVNOalNVcUNvYmtTbFNZVTEtTDFFQjZMNy1XZ3ZZU2J5cEFCRi1oaXF6RlVrYU4xNmdOUQ?oc=5",
+  "source": "リユース経済新聞",
+  "summary": "",
+  "publishedAt": "2026-10-25T04:03:32.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b501781e6e6d",
+  "title": "ＡＩは人類を滅亡させるのか、その確率は何％？ グーグル・ディープマインド開発チームを率いるスタンフォード大教授に聞いた",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12Z0FOcEdPSHdOTG9UN0hlcTdfLUpIbmFoaGtVYVUwc2xKZS1UcnR4TWlhYnNiWTJjbXp1YlJscjE5c3g2dEdIeTdYVzlkaS1JZ0J4T2JJWTJ2QW9NUkE?oc=5",
+  "source": "沖縄タイムス社",
+  "summary": "",
+  "publishedAt": "2026-10-25T04:00:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "941f2a52d3cb",
   "title": "電話メモをAIに整理させるとき、先に決めておくのは「期日と確認先の欄」",
   "url": "https://qiita.com/satoshimizuhara/items/05a37260d0c4dc2249bc",
@@ -26,6 +119,19 @@
   "isPR": false
  },
  {
+  "id": "cb767d8f665b",
+  "title": "なぜ、生成AI時代ほど『マリオ』『ポケモン』の価値が高まるのか･･･億り人ゲーム投資家が語る“勝ち組ゲーム会社”の条件",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55ZXBCdTJwajRIaExTWjNFVXlwcjRkTWduOHdYbkV2QWdMa2hCV2xucmFoVGdyY1FfbW5YWHY3bFp5eDNGNC05UDg2dVBYTnVkd1VHaHBqUm8td2hGSURPdjlRamV2X1NheHJtZUpwWTlrRC1nMEJRU01PSGtuWWs?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-25T03:10:02.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f73f008a98b1",
   "title": "ChatGPTに「答えを教えないで」と頼んだら、勉強がはかどった。学習モードで使える、コピペOKのプロンプト5つ",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR19jc2xtNmhpTDF3NDF0dDljRy1YMzhjRURkSGlTRVJoSFNGT3AySzE4NmtNRkwwTEdMQXdQdFRIaUpqVEFPbUM0TjRUQ0dPalFEUXFPOWc3cUhIUVJYZm5ab2xHRkdfaElEZkVQaTIwRGJLTFJwbmVYQ24tN1RVeHpNR096bmQxME84M0R0MkN5RmJxTmxDT1lFc3VqYy1vZkE4MEdtNEVCRUE?oc=5",
@@ -35,6 +141,32 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6e9770956b17",
+  "title": "ケアしておきたい生成AI使用リスクQ&A【デジタル＆AIギア 完全ガイド】",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1MUUx4dXF2WmxNcDJydVVCQnh6RXlIU3JQQWVkNjdYdDU1RWRXOGRSY2NSelNUeWs0MlM2NGlLRTdPR1pod1RfLWRMMnB1d0NXNkpXUQ?oc=5",
+  "source": "GoodsPress Web",
+  "summary": "",
+  "publishedAt": "2026-10-25T03:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "19e34a49fecf",
+  "title": "AIエージェントは「忘れる」と伸びる？ 履歴を捨てて最良の成果物から再開する手法",
+  "url": "https://zenn.dev/takuh/articles/e32addf1c98769",
+  "source": "Zenn",
+  "summary": "はじめに：長く走らせるほど、AIエージェントは慎重になる Claude Code や Codex に「このコードをもっと速くして」と頼み、何度も改善を繰り返させた経験はないでしょうか。最初の数回は大胆に書き換えて目に見えて良くなるのに、しばらくすると数行いじるだけになり、最後には「これ以上の改善は難しいです」と言い出…",
+  "publishedAt": "2026-10-25T02:56:31.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -92,6 +224,19 @@
   "isPR": false
  },
  {
+  "id": "f36227bddc66",
+  "title": "屠光紹氏：中国は資金不足ではなく科技資本が不足、AI競争は「忍耐強い資本」の補位を求める",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZcnkxM1JYM1luZFVPR1NXWmJTTU9DRE53TktLZDM4ajEwYlh5bng5bjJ5dXFjdU14NHIyX3RjX2k1YVdRakRyUVpKZ1FBcUlSUndnYnNSTE1uMTJGVjNjY0FRcmk5MTF0YnFlenFUeXd4RHpE?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-25T02:35:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "797d52e45dbf",
   "title": "ブラウザで試す Ghost Filter Prank AI video（Kavel）",
   "url": "https://qiita.com/hanshs474/items/33612b74ba0c3fb053f2",
@@ -141,6 +286,19 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "919aa7a6855a",
+  "title": "なぜ「Agent AI」は「AI Agent」と翻訳されるのですか？",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fQUF4MWREQWVRQnlnYVhLTkV5akp5dWl5VURaamJ0RTlWcEZRa1RGLUFGM1JGR0sxTGxiWXNsWHF4eHJvbkIxcDlfcFNQUEdxbW8xOGZZMUlrem9RZWZvWUpxRm42blNQdk1mNDh3bw?oc=5",
+  "source": "Vietnam.vn",
+  "summary": "",
+  "publishedAt": "2026-10-25T02:25:12.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -220,6 +378,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a6e5ed69fa3a",
+  "title": "【ＡＩ自殺対策】悩み受け皿、導入手探り",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SbjJKWVZpOS1KYW5FN0gyUFJZckpLbm05ZkhJNXRGNnI3X3NJaVZET2hIQnVJM1FUOFgtWVNhcl8ydmd4SWlqenB1NXJuSTNhWXhwYjlGTGFWRGc?oc=5",
+  "source": "下野新聞社",
+  "summary": "",
+  "publishedAt": "2026-10-25T01:55:58.000Z",
+  "image": "",
+  "categories": [
+   "case"
   ],
   "isPR": false
  },
@@ -306,19 +477,6 @@
   "title": "【ＡＩ自殺対策】悩み受け皿、導入手探り 法改正後押し、依存懸念も",
   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0NUJBZlZ1dXBlRnFZQTZYRVVpWDNIdjg2X2NpRlVXTmhjNXh6U2d3SS1yWl9KTGpwTGVYaHVXR2RtQjY3bkdURE9ERFZNbnl5OUE5ZDNSV2RLMlZmRlE?oc=5",
   "source": "沖縄タイムス社",
-  "summary": "",
-  "publishedAt": "2026-10-25T01:30:00.000Z",
-  "image": "",
-  "categories": [
-   "case"
-  ],
-  "isPR": false
- },
- {
-  "id": "a6e5ed69fa3a",
-  "title": "【ＡＩ自殺対策】悩み受け皿、導入手探り",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOM3IzYjNjY3hWVVdyTmpLWS1nT3hOaklyejBzT0Z4MXVNckMxREVtQVFSOFJjNFktMXVBU0hmYjU2MGh0ZTFDRUZUMGFPRk04QV9SaFZSbGxMQ3M?oc=5",
-  "source": "山陰中央新報デジタル",
   "summary": "",
   "publishedAt": "2026-10-25T01:30:00.000Z",
   "image": "",
@@ -1012,6 +1170,20 @@
   "isPR": false
  },
  {
+  "id": "7dfeda56aa96",
+  "title": "話しかけるだけで自社専用の業務アプリができる中小企業向けAI「DMPAI」、利用人数無制限・月2万円から。デジタル化・AI導入補助金2026の登録ITツール",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvRF9iTTlXUWxWaHExblFLNWRwYlFxOUhadzhyNHBpWlF2RFVqNUtTTG9jcm9IZmZ4OHdkd3FvMkdRanhYRWdQbER5dGh2UlVsaGdfa0JBTjBObDhpV2pmb0pwYTVHcFludUJTMTRscmhBUDQ?oc=5",
+  "source": "Excite エキサイト",
+  "summary": "",
+  "publishedAt": "2026-10-24T22:10:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "d1ffc733eb36",
   "title": "Metaの「Muse」、6週間で1,000万人…Naver・KakaoもショッピングAIの収益化に苦慮",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0bVZfazZKS1pPbnFoUGtrWkl5NVRyTFE1djVHbUhMZUloZkg4U1dBTW1nQWVfOVFZdXFWbFBKTzEzVDFDdEI4cXNZeHA0NHZZTEl0d21adkNJbklQUTJlenhRLUpydGk3S2pCR0VZU1Z6RG5w?oc=5",
@@ -1097,6 +1269,19 @@
   "source": "FC東京オフィシャルホームページ",
   "summary": "",
   "publishedAt": "2026-10-24T21:53:16.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "023b1bbc0620",
+  "title": "‍‍‍NSFW AIジェネレーター｜無料で画像＆動画生成 ai",
+  "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQQW54aDZYZmhQd3J3MTJjTVI0MkhoVDNkcS1pX2k5TXRKaW9vbW5uMDZ6VnJsYmZTM1JtcVp0ak1FYzhKWTZRZXlpaE1DLUhoZVdHTndaSXNCdXJselFCVDE2Y2ItZmthbGJfYVU5RTlYcXhNR3JIb2hQN1YwWkM0VUQweXEzZEd4djNBOVRTZm5KbUxza2J6SVY4RThBY2ZrM0FPTDRENV9PakZlcXhCZ3hhQzltV1JpWnRBSmVOaTgwWmNPM3FDLUJFdS0tbHgxWk5JR2RseHp5emhTQ3NiYU13dnlranpWZVJlMXNXakgzS1dKdkpFM3lUQ1J3M3lhaDNqVnQwNnV6akVLUHh1RDBVdzFuaVJteFoyS0Q4alNYZWpEaDZ3elBQUlFnR0JIZm5hMHFqSGs3Z3ZSLVRYQjF0WkN4RWpzUWIzX3ZXMmVWcEhqaE5DMWNhZw?oc=5",
+  "source": "FC東京オフィシャルホームページ",
+  "summary": "",
+  "publishedAt": "2026-10-24T21:53:06.000Z",
   "image": "",
   "categories": [
    "product"
@@ -1467,6 +1652,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4005675fd74b",
+  "title": "‍‍‍エロ 画像 生成 ai",
+  "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWU1QN0VKbFVwOWFpU09PUTBDakw3YWxTV25FdjMwNXVyMmJrQjhYc3VWdm8tNnRBbVRVcmRiMkVVb2xBeGg1dnNEbEJZaVhWbnowaWRWVmg3bXQ5c21hMVdqX1NWbE43N21TMDRZVDkwMndxNDdZNjZ2U0VvNGViQm5fOUxhLWR3aVRiR05tcThkUXBhc2lYS0FCYTB3dG5qVGlQVFBrczhQWGpNWW9TOVZhZk1IMUNaMmR6aHA4bUdZS1RZdktkUkg4RjRraXh0YnVCZGlRa3QwbXE5eDg0dWlWOThYam1GQVF3dWs0RUptLTlrQk5qWU1ESXpmNmFUOGpQOV8yXzVtRkRLOXc?oc=5",
+  "source": "FC東京オフィシャルホームページ",
+  "summary": "",
+  "publishedAt": "2026-10-24T20:22:57.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
