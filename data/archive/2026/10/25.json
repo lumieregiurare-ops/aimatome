@@ -1,5 +1,18 @@
 [
  {
+  "id": "a6d418cfa620",
+  "title": "石油とガスにおける AI世界シェアランキング",
+  "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5wLXNQZnBCNHhrQjJHNGNDSHlPVHNCSklTVzRXakl3V2tiMmhhd092MEtlVUFoYmlEMjBvM3l2YUxUSXN1dVI5S2ZR?oc=5",
+  "source": "pando.life",
+  "summary": "",
+  "publishedAt": "2026-10-25T07:06:57.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "2837f1831f96",
   "title": "メタのAI「Muse」が日本上陸、利便性とプライバシーを両立する「10の対策」",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oT0lacXhyUzdWcUNJWEd4cFBXRTc4QUdwY0piVU0wQmUySktHTEJqNlBxb0dpZVJvZThlZFF5T2dhTEptc3ZqdmFkQWdzTjNPUkx0bzZmOTM4UVpld3lJZkRjdHpNREUwYmg0YXZsYVpYbDNIMnZSWFM5ekRyTHc?oc=5",
@@ -92,6 +105,47 @@
   "isPR": false
  },
  {
+  "id": "e16367ace73a",
+  "title": "SKILLは魔法ではない：大規模改修でAIエージェントをフル活用して見えたこと",
+  "url": "https://zenn.dev/inaki/articles/2ab775d3f48c81",
+  "source": "Zenn",
+  "summary": "はじめに ウォーターフォール型の大規模なシステム改修で、各工程（設計工程〜リリース前まで）でAIエージェント（GitHub Copilotなど）を全面的に使いました。一番の学びは、SKILLの価値を私たち自身が誤解していた、ということです。 当初はSKILLを「AIエージェントを強くする魔法」のように考えていました。…",
+  "publishedAt": "2026-10-25T05:42:05.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "513ab4fe698d",
+  "title": "スト6のフレームメーターでシミー練習を自動採点しようとして、やめた話",
+  "url": "https://zenn.dev/shiryutech/articles/sf6-frame-meter-shimmy",
+  "source": "Zenn",
+  "summary": "スト6のトレーニングモードで練習したシミーを録画して、合否や反応の速さを自動で採点するツールを作ろうとしました。AI にコードを書いてもらいながら約3か月続けて、完成させる前にやめました。 この記事は、その失敗談です。 「フレームメーターを読めば、動画の解析はすぐ済む」と思って始めたこと 手探りでメーターを読んでいっ…",
+  "publishedAt": "2026-10-25T05:40:32.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "388d1a7d351e",
+  "title": "AIエージェントを24時間動かす自宅PC2台をつなぐ前に、セキュリティ点検で見つけた穴と直し方",
+  "url": "https://zenn.dev/noirai/articles/67abedcce206ff",
+  "source": "Zenn",
+  "summary": "この記事で書くこと 自宅のPC2台を Tailscale と SSH でつなぐことにしました。1台はノートPCで、Claude Code などのAIエージェントを24時間動かします。もう1台は画像生成用のGPU機で、必要なときだけ起こします。 つなぐ前に、2台のセキュリティ点検をしました。点検も修正もAIエージェント…",
+  "publishedAt": "2026-10-25T05:34:18.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "05e0bd3571eb",
   "title": "中小企業のSNS・ブログ運用を自動化するWellSkate AIの活用例",
   "url": "https://ascii.jp/elem/000/004/445/4445522/?rss",
@@ -118,6 +172,33 @@
   "isPR": false
  },
  {
+  "id": "2f37d6673428",
+  "title": "Grok Botで動画チームを組んで、チャンネルを自動運用している実録：プロンプト全文と失敗31件",
+  "url": "https://zenn.dev/masafumi_ai/books/grokbot-video-team",
+  "source": "Zenn",
+  "summary": "Grok BotでBotを役割ごとに分け、動画の企画・台本・音声・動画・予約・公開確認・計測を回している記録です。各Botの設定文、CEO役のBotが送った依頼文、ルーティン、チェックリスト、画面5パターンのスタイル仕様書、失敗から足した31行を全文で載せています。公開と予約の最後のOKは人間が出しています。",
+  "publishedAt": "2026-10-25T05:27:14.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b248ee7d8c13",
+  "title": "Grok BotでBot 8体の動画チームを組んだ。自動で回せた所と、人間が止めた所",
+  "url": "https://zenn.dev/masafumi_ai/articles/00009-grokbot-video-team-intro",
+  "source": "Zenn",
+  "summary": "「勝文のAI現場」の勝文です。エンジニア歴10年以上、フリーランス6年以上のAIエンジニアです。 Grok BotでBotを役割ごとに分けて「動画チーム」を作り、YouTubeショートとTikTokのチャンネルを運用しています。この記事は、その全体像を無料でまとめたものです。設定文・依頼文・ルーティン・スタイル仕様書…",
+  "publishedAt": "2026-10-25T05:27:12.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "afa8228c3b53",
   "title": "韓国Samsung、下半期GSATで19系列会社の人材確保…半導体・AIに注力",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XVVFZVFNOaUZfWnhPYzI1RjdzWS02SEFXdG1Ga1NmMi04X3RFVzRhTndYSmV6QzFONlJWVjFxR2pjLU5udllWdzVQSkcxVGEzOFZuT3dQeWtJQVJmYmJaX0trV3NxS0VMRkVfWS1Zd3VkN2tm?oc=5",
@@ -127,6 +208,45 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "66b3ad7e0ec7",
+  "title": "AI同士の受け渡しが3日間1件も届かなかった —— 指示の抜けと、Slackが足す書式の二重の詰まり",
+  "url": "https://zenn.dev/ai_shihan/articles/416037d5ea74bf",
+  "source": "Zenn",
+  "summary": "私は副業の広報を、AIの席に分けて任せています。X の見張りは Grok の Bot（「X担当」と呼んでいます）、投稿や記帳は Claude Code の「広報部」の席、PC 側の道具づくりは「開発部」の席です。席どうしは Slack の1つのチャンネルで受け渡しをします。 10/21 に、新しい受け渡しを1本足しま…",
+  "publishedAt": "2026-10-25T05:22:15.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "02fcd9f5105f",
+  "title": "2026年版：自分の Mac アプリの移り変わりと、今使っている4つのアプリ",
+  "url": "https://zenn.dev/nomu/articles/af1934812c1881",
+  "source": "Zenn",
+  "summary": "今の自分の Mac の Dock に置いているアプリは、この 4 つだけです（Finder とゴミ箱を除く）。 この記事の Dock の画像は、どれも自分で作った mydock で作っています。 アプリを減らそうと思ったことは、一度もありません。自分がずっと求めていたのは速さで、速さを追いかけていたら、いつの間にか …",
+  "publishedAt": "2026-10-25T05:18:50.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "532ca5603143",
+  "title": "AIをいじめる人がいる？その行動から見える、人とテクノロジーの距離",
+  "url": "https://zenn.dev/aqiu/articles/eb9be7108d9c51",
+  "source": "Zenn",
+  "summary": "「AIをいじめる人がいる？」という問いは、少し変に聞こえるかもしれない。AIには痛みも自尊心もなく、画面の向こうで返事を生成しているだけだからだ。それでも、わざと無理な命令を繰り返したり、失敗を笑ったり、人格を持つ相手のように責め続けたりする行動を見ると、私たちはその振る舞いを「いじめ」に近いものとして考えたくなる。…",
+  "publishedAt": "2026-10-25T05:17:05.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -146,8 +266,8 @@
  {
   "id": "7d0f8f599f07",
   "title": "「AI意思決定モデル」群雄割拠、OpenAIやクラウドフレアなどJev以降20モデルが登場",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uWTdOc25BdGlxZjl1bGZJb2gySGprU1dzS0QzVDNhbWxKam1sWmNMc21mSmJWb21obEt4ZWRpRkhsUlgxMFkySU5ib2VDc1lFazFRVFQyUEdCV1F6bHhhV2NMRy00azY1QXhIcUJ5Q25ON01HZXVlT1J1UVlfLXc?oc=5",
-  "source": "Yahoo!ニュース",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aUW5LTXRxVVg0SGhrSXQ3MzAzZnRNYnVMNWg5Ujg5S1lCSk10U3lDcGZudDM5RjVPYmdkLUgxQm8tc3U1Z0ZZb2NER09CTmwzNllJd1RRVjNCZw?oc=5",
+  "source": "Forbes JAPAN",
   "summary": "",
   "publishedAt": "2026-10-25T05:00:00.000Z",
   "image": "",
@@ -206,6 +326,32 @@
   "categories": [
    "infra",
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1ace8371092c",
+  "title": "Claude Code の deny を Windows 実機で測ったら、思っていたより効いていなかった",
+  "url": "https://zenn.dev/shingokumon/articles/95dff2530556ce",
+  "source": "Zenn",
+  "summary": "Claude Code に本番の Supabase を触らせています。settings.json の deny には DROP も rm -rf も .env も書いてあります。 書いてあるだけで、効いているかどうかは測っていませんでした。 そこで2026年9月に、Windows の実機で1行ずつ確かめました。思って…",
+  "publishedAt": "2026-10-25T04:41:49.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b1b03dae0402",
+  "title": "モチーフとは？AI作曲で「曲の目印」を一つ決める方法",
+  "url": "https://zenn.dev/creatunealex/articles/f12d3f3d7f7cbc",
+  "source": "Zenn",
+  "summary": "モチーフは、曲の中で繰り返したり変形したりできる短い音楽のアイデアです。数音の音程の動き、短いリズム、あるいはその組み合わせが目印になります。曲全体のメロディーを書き切らなくても、「またあの形が戻ってきた」と感じられる材料を一つ決めることはできます。 CreatuneチームのAlexです。今回は、展示映像に使う歌のな…",
+  "publishedAt": "2026-10-25T04:37:40.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -766,8 +912,8 @@
  {
   "id": "fed4c60c3123",
   "title": "AI投資に巨額マネー、社債発行は過去最高…これはバブルか革新か 問われる収益化と“チキンレース”の行方",
-  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2NkloOVhVVHpKcm0zNzQ3SFZKMVVudFplekV6MmJOTWJlUDNQc25HekhDaEMySTBscUNZWG4zT3NqTWJHVEVrRTdOOEhmM2lGX2NCVTR0d0NheEhKMHNYcVBSNS1Hc3FVcG55MU9n?oc=5",
-  "source": "au Webポータル",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jMVMxcGdON0ZsMW52blJBSmliZ2dtbzlhOGswY1BENVczOGl4bTljQzJTOEt2cGRoWVNIUHdET0lla2NMc3pPZFdsMldpQk1xYlBUTGM3NnM1ZXR3RVppWEVvZFlTMknSAWxBVV95cUxNMXVQajNTU2stYWlObGs4dmtDMTZpb1c4ZklRSU81eW94aFVrczlCWDdPRWwzZWJuLWdlZXFIUVNrTThnamd6YzNfanhIM0dvck5vVzVtc0ZpbHMxay05RmNHZVl2U2JYTW9raUc?oc=5",
+  "source": "Infoseek",
   "summary": "",
   "publishedAt": "2026-10-25T02:15:00.000Z",
   "image": "",
@@ -921,11 +1067,11 @@
  },
  {
   "id": "42398270499d",
-  "title": "AIもネットのジャンク情報を学ぶと「脳が腐る」と判明",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fQU9qRkUzNE82Znp5SDY5b09PNHlTdzBVcWdHRU42S3FOREk4cDhweGFLZVplWUh3Q2RVaUJnUWNwSUlRY1FEdm1Xa1plWGktU3hmUG95bjZaU1U?oc=5",
-  "source": "ナゾロジー",
+  "title": "AIもネットのジャンク情報を学ぶと「脳が腐る」と判明（ナゾロジー）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UNGh6VWxZcUtfUXFESnBJcXoyVG5zaVY0RWVVY2REZ1g3YkZxNDR2NTF6eTItS0wzWUZRTUhockl3cV9FR3RocVA1ekhXRVk4SXpuSDZvNnpkbFFiMjFBQWxCbE9Oa012dVk3UTNWSkdqMV9UMmpTcTBzcUlVUjg?oc=5",
+  "source": "ｄメニューニュース",
   "summary": "",
-  "publishedAt": "2026-10-25T01:32:25.000Z",
+  "publishedAt": "2026-10-25T01:30:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -1105,8 +1251,8 @@
  {
   "id": "80cb6458bb25",
   "title": "エヌビディアと仏ミストラルAI、半導体から航空機まで「製品設計のAI化」を狙う",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SZEREMFhxZzl2SUFacEFTazBVZnNpTF80UUk4amdDRUQ5T3V5MGU3RVgtN2pZU3BLSzhFOU1VRXk1eXBJOFZXT2JmQ1FmODlyTF9GRFl1XzZVT21jdkRpajdybnZmWnNUTGVybEdVWlM0SEFXVUZXY1NfNWxyaGc?oc=5",
-  "source": "Yahoo!ニュース",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UazNaZDVBcTRjZFgwTUZ6NVlQWnlwY291M1VSMjVqY2JobzhMM215cnY1NkhYd3dIZjJibjQ3VGNYRmU5RjZXVU5lbk1mampuaWxGTTFNcWkzdw?oc=5",
+  "source": "Forbes JAPAN",
   "summary": "",
   "publishedAt": "2026-10-25T01:00:00.000Z",
   "image": "",
@@ -1431,6 +1577,20 @@
   "isPR": false
  },
  {
+  "id": "99af143e54c5",
+  "title": "AnthropicのAIが偽アカウントで開発者を欺こうとした：安全性評価で発覚した衝撃の行動",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yUDQxYlQxU3FERDNBM3d6TnhTcnBydGM5UUJlSUtsX0lRa0p3bWI5cTR3OWh2cGtoeW16WDY2cHRHaEJNcUdpdWduQUxDQzFBT25jQldmdXRzQ3BYUkpIMTRfZXhFMFNneHNUbVRaVmdLQQ?oc=5",
+  "source": "XenoSpectrum",
+  "summary": "",
+  "publishedAt": "2026-10-25T00:02:46.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b8089cfcc86b",
   "title": "話の途中で割り込んでも大丈夫 ChatGPT Voiceの紹介動画を各国向けにアレンジ、日本版は「オバチャーン」とAIが関西弁で掛け合い",
   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54UXlsaHAtQk00SGZhTXExQ3d1b3hSNEFyejZ4NklMSW5IS19pYUZORFNjUVhaTjhVRm1mTkNSV3E5VE1WeEZCY0FkTGFzR2VPQktEeUpLNjdscFQ0c0ZJLUE4aWtZUXA4YUZv?oc=5",
@@ -1505,6 +1665,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "09cd0acf4292",
+  "title": "サイバー攻撃でAI活用加速 侵入後の展開や分析も自動化",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3BWVGxDLU1jYkZGcE54R0ZKMmVXRHQwaGtrRUJQUFA1Y3VLT0pQTlNVR2djYnFQWWxZQlVqeXVBdXdjYUlETTdkby1qLWRTdUg3ZG50RGlIaXY2X2I3UDdGckwwRGdCUFdNZldtNU1JT2tCME1Zb2E0NGJ6RV9pejRad2tTSlByX0hxTUhDeDhiM0RRQ0JtQUFJdmNZbFFkVHRJcF9mZGhGQ1FPXzc3NVRn?oc=5",
+  "source": "디지털투데이",
+  "summary": "",
+  "publishedAt": "2026-10-24T23:22:46.000Z",
+  "image": "",
+  "categories": [
+   "case"
   ],
   "isPR": false
  },
@@ -2320,6 +2493,19 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "af47852b2199",
+  "title": "2026年にローカルAIに最適なノートパソコン：ラボテスト済みランキング",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5UGhIc2Q3TDdEdzdYeFh6WWtLS2M3MS0yUW9lN1hjS0ZyRGNORkd6a0hiclNqenJHQl9hWDRoSXFpc2RLdTh3eHh4SUZDMVNxVG44OGVJQzZiQ1IwMF9QUFByWVfSAWpBVV95cUxObXloc1Q0UC1hSFdDRGRGWlZleTlXZUdzVW56cjVhX1JEamV0NTlCY005RV81V3VlMnhvZVBMUmQ1dHhMeE5wYWVvd1NRVUVmaUM2Wk9nSWt2cTdzUHZuUzJaWHNGM3J0X0h3?oc=5",
+  "source": "StorageReview.com",
+  "summary": "",
+  "publishedAt": "2026-10-24T20:06:14.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
