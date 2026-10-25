@@ -1,5 +1,31 @@
 [
  {
+  "id": "941f2a52d3cb",
+  "title": "電話メモをAIに整理させるとき、先に決めておくのは「期日と確認先の欄」",
+  "url": "https://qiita.com/satoshimizuhara/items/05a37260d0c4dc2249bc",
+  "source": "Qiita",
+  "summary": "電話メモは、書いた本人には読めるが、他人にはほぼ読めない文書だ。走り書きで、略語ばかりで、「伝えたつもり」で書かれている。人間同士でも読めないものを、AIに渡して要約させても、要約は要約のままで終わる...",
+  "publishedAt": "2026-10-25T03:41:54.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5eaf51db7846",
+  "title": "ロブチェンの三冠達成なるか！？ChatGPT等のAIと共に菊花賞を予想（花岡貴子） - エキスパート",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZWt0eGJma2R6SUg5bkpjOU1qelJ5QnRSWWswa2VCY3RFbVJOSkI4ZlBFZlpZeFZyTnFGSVFhLUxCZl9oWHo2NHBwZUdZdnpBWFZKaVgtT3VQdk04RGg2TllPV2Z2WC1NT2RSTHFucFJOM2xuSDFteU54MEJIVzljUUlQY042VVhv?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-25T03:28:25.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f73f008a98b1",
   "title": "ChatGPTに「答えを教えないで」と頼んだら、勉強がはかどった。学習モードで使える、コピペOKのプロンプト5つ",
   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR19jc2xtNmhpTDF3NDF0dDljRy1YMzhjRURkSGlTRVJoSFNGT3AySzE4NmtNRkwwTEdMQXdQdFRIaUpqVEFPbUM0TjRUQ0dPalFEUXFPOWc3cUhIUVJYZm5ab2xHRkdfaElEZkVQaTIwRGJLTFJwbmVYQ24tN1RVeHpNR096bmQxME84M0R0MkN5RmJxTmxDT1lFc3VqYy1vZkE4MEdtNEVCRUE?oc=5",
@@ -250,12 +276,25 @@
   "isPR": false
  },
  {
+  "id": "fca344bb45e2",
+  "title": "確率の海にクロックを打つ：通信工学型「フレーム同期アテンション」によるLLMのコンテキスト整合制御",
+  "url": "https://zenn.dev/nanashi_os/articles/94bd8331ae3e64",
+  "source": "Zenn",
+  "summary": "はじめに 大規模言語モデル（LLM）と対話を重ねる中で、システムが「過去に確定した事実（イベントログ）」と「未来の単なる確率的予測（仮説）」を同一の時系列平面上で混同し、コンフリクト（ハルシネーション）を起こす現象に直面することがあります。 「過去に起きた絶対的な事実」を提示しても、モデルは確率的な重み付け（Soft…",
+  "publishedAt": "2026-10-25T01:38:14.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "42398270499d",
-  "title": "AIもネットのジャンク情報を学ぶと「脳が腐る」と判明（ナゾロジー）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UNGh6VWxZcUtfUXFESnBJcXoyVG5zaVY0RWVVY2REZ1g3YkZxNDR2NTF6eTItS0wzWUZRTUhockl3cV9FR3RocVA1ekhXRVk4SXpuSDZvNnpkbFFiMjFBQWxCbE9Oa012dVk3UTNWSkdqMV9UMmpTcTBzcUlVUjg?oc=5",
-  "source": "ｄメニューニュース",
+  "title": "AIもネットのジャンク情報を学ぶと「脳が腐る」と判明",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fQU9qRkUzNE82Znp5SDY5b09PNHlTdzBVcWdHRU42S3FOREk4cDhweGFLZVplWUh3Q2RVaUJnUWNwSUlRY1FEdm1Xa1plWGktU3hmUG95bjZaU1U?oc=5",
+  "source": "ナゾロジー",
   "summary": "",
-  "publishedAt": "2026-10-25T01:30:00.000Z",
+  "publishedAt": "2026-10-25T01:32:25.000Z",
   "image": "",
   "categories": [
    "other"
@@ -403,6 +442,19 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4422cebfb0eb",
+  "title": "生成AIの条文引用をe-Govの原文と照合し、95点未満は公開させない",
+  "url": "https://zenn.dev/hyconsulting/articles/article-1792890035450",
+  "source": "Zenn",
+  "summary": "環境・前提 実行環境: Cloudflare Workers（compatibility_date = \"2026-06-01\"）＋ D1（SQLite） 言語: TypeScript 5.7 系、デプロイは wrangler 4.123.0 テスト: Vitest 4.1.10（Node.js 24.14.1 上で…",
+  "publishedAt": "2026-10-25T01:00:40.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -655,6 +707,19 @@
   "isPR": false
  },
  {
+  "id": "dd3b15e1c026",
+  "title": "同じ段落を10言語で送ってみた: 日本語は英語の何倍トークンを払っているのか（オープンモデル4種で実測）",
+  "url": "https://zenn.dev/runcrate/articles/0ce2f3c0b25a38",
+  "source": "Zenn",
+  "summary": "Runcrate チームが自社の API を使って実測し、書いた記事です。 LLM の API は「100万トークンあたり何ドル」で課金されます。ところが、同じ内容でも言語によってトークン数が変わります。日本語で使うと実際には英語の何倍払っているのか、モデルによってどれだけ差があるのかを、オープンモデル4種で実測しま…",
+  "publishedAt": "2026-10-25T00:05:05.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3d3084f27f9f",
   "title": "デジタル庁、「源内」でAIエージェント環境を提供開始｜政府職員約18万人対象、安全基準「源内基準」も公表",
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4d1lMQVBBQzd2VHBRM1NySG56VHQ3SkNmTVM0NzBFWnMyZVNIWXBFMWNRNUEyUzNiYlhfWFRPUzlZMDRIbDBJY2ZOZ0ZFM0tYTnRN?oc=5",
@@ -702,6 +767,19 @@
   "source": "Zenn",
   "summary": "はじめに 数年前、社内の需要予測をscikit-learnで組んでいた。勾配ブースティングに落ち着いて精度も出たので、自分としては満足していた。ところがレビューで「なぜこのモデルなのか」と聞かれて、まったく答えられなかった。チートシートの分岐をたどった結果です、としか言えなかった。 そのときにはっきり自覚したのが、自…",
   "publishedAt": "2026-10-25T00:03:09.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b8089cfcc86b",
+  "title": "話の途中で割り込んでも大丈夫 ChatGPT Voiceの紹介動画を各国向けにアレンジ、日本版は「オバチャーン」とAIが関西弁で掛け合い",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54UXlsaHAtQk00SGZhTXExQ3d1b3hSNEFyejZ4NklMSW5IS19pYUZORFNjUVhaTjhVRm1mTkNSV3E5VE1WeEZCY0FkTGFzR2VPQktEeUpLNjdscFQ0c0ZJLUE4aWtZUXA4YUZv?oc=5",
+  "source": "Ledge.ai",
+  "summary": "",
+  "publishedAt": "2026-10-25T00:01:18.000Z",
   "image": "",
   "categories": [
    "other"
@@ -1585,6 +1663,19 @@
   "categories": [
    "model",
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "505e2b861cdf",
+  "title": "Ubuntu で LLM 推論で CPU メモリかつかつまで確保させたいメモ",
+  "url": "https://zenn.dev/syoyo/articles/d1c4ee4ea2a9e2",
+  "source": "Zenn",
+  "summary": "対象: Ubuntu 24.04 and 26.04 64GB メモリつんどるけど 57 GB くらいまでしか確保できへｎ なんでぇ? とりま kho=off https://docs.kernel.org/admin-guide/mm/kho.html Kexec Handover. GPU とか IB 向けにメモ…",
+  "publishedAt": "2026-10-24T17:48:40.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
