@@ -5,14 +5,21 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-25T18:30:18.588Z</updated>
+  <updated>2026-10-25T19:00:19.282Z</updated>
   <author><name>AI matomechatter</name></author>
   <entry>
-    <title>常駐型AIチャットエージェントが自分の発言の誤りに気づいたときの訂正設計</title>
-    <link href="https://zenn.dev/hach/articles/chat-agent-self-correction-retraction-design"/>
-    <id>https://aimatome.gamelab.website/#c24971af1cfa</id>
-    <updated>2026-10-25T18:11:44.000Z</updated>
-    <summary>Zenn ／ チャットに常駐するAIエージェントは、過去の発言が後から誤りだと判明する場面を避けられません。参照していた情報が古かった、複数の根拠を取り違えた、あるいは単純にLLMの生成が事実と食い違っていた——原因は様々ですが、共通するのは「もう送信済みのメッセージをどう訂正するか」という問題です。実行済みの操作を取り消すロール…</summary>
+    <title>トークン代 9 割減？プロンプトキャッシュの仕組みと効果の実測 — 保持時間が過ぎるとコスト 11 倍に</title>
+    <link href="https://qiita.com/songchong/items/7144594b0ad9529a168b"/>
+    <id>https://aimatome.gamelab.website/#69187c73da6c</id>
+    <updated>2026-10-25T19:00:26.000Z</updated>
+    <summary>Qiita ／ AI エージェントの料金の話では、よく「プロンプトキャッシュで入力が 9 割安くなる」と言われます。上の図のとおり、キャッシュから読む料金は、Claude Sonnet 5.5 で通常の入力の 0.05 倍（95% 引き）、OpenAI の GPT-5.6 以降と Gem...</summary>
+  </entry>
+  <entry>
+    <title>AI に資料を毎回貼るな！ファイル・SKILL・AGENTS.md 活用でトークン課金最大 6 割減？ 6 つの方法を試してみた</title>
+    <link href="https://qiita.com/songchong/items/235bed0f8c72f268477e"/>
+    <id>https://aimatome.gamelab.website/#89e34f28fac2</id>
+    <updated>2026-10-25T19:00:21.000Z</updated>
+    <summary>Qiita ／ 我々が運営する IT連携マップの技術ガイド（プロンプトキャッシュとは など）では、「前のやり取りと先頭が同じ部分はキャッシュから読まれ、料金が大きく下がる」という仕組みを解説してきました。プロンプトキャッシュは、AI エージェントと AI サービス側（Anthropic ...</summary>
   </entry>
   <entry>
     <title>インターネット考古学：置き去りにされた「Web遺産」を掘り起こせ！</title>
@@ -27,6 +34,13 @@
     <id>https://aimatome.gamelab.website/#dbf25c3ad52e</id>
     <updated>2026-10-25T17:27:36.000Z</updated>
     <summary>Qiita ／ こんにちは！2ちゃんねる互換掲示板システム「 つゔぁいちゃんねる（2ch.biz） 」の開発録、第43回です。 前回（第42回）では、データベースに過去ログを一切持たないまま、たった1つの整数カウンターを使って「出鱈目なID」と「過去に終了した部屋」を高精度に見分けるアルゴ...</summary>
+  </entry>
+  <entry>
+    <title>マレーシアは、AIとテクノロジー分野に500億ドルの投資を呼び込む可能性がある。</title>
+    <link href="https://news.google.com/rss/articles/CBMijwFBVV95cUxNRmhvX1V2ZjIyUk04ZUtUX0NQT05LMmk2WVR6T09wUkVSbGljaDY5VmRvc0llMHFlRElCZWluNG5MRkIyQThvSDkxVmZvYlVaRFJaSDdhU2tlaUJsMG04ODNJV1dSdGZCUUZCQzFBeUxLaFpWMmVWV1pPenhaS3Z4MTV2YkxGRmNhbTQ4U3IzRQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#83c416f9da99</id>
+    <updated>2026-10-25T17:18:12.000Z</updated>
+    <summary>Vietnam.vn</summary>
   </entry>
   <entry>
     <title>OpenAIの「Bel」とは 10兆パラメーター超のうわさ</title>
@@ -57,20 +71,6 @@
     <summary>Zenn ／ ! 本日の技術トレンドでは、基盤モデル単体から「自己改善・自己進化型AIエージェント」への本格的なシフト、OpenAIによるAstral買収に伴うPythonツールチェーンの再編、およびAIモデルの安全性・ガバナンスを巡る動向が注目の中心となっています。 自律進化型AIエージェントの現場適用とエンタープライズ展開 A…</summary>
   </entry>
   <entry>
-    <title>エンジニア書類選考をClaude Codeで効率化する完全ガイド──ルーブリック設計からAI活用まで</title>
-    <link href="https://qiita.com/mnoguchi/items/32f9095a294140aadb18"/>
-    <id>https://aimatome.gamelab.website/#d090609d339d</id>
-    <updated>2026-10-25T16:31:03.000Z</updated>
-    <summary>Qiita ／ はじめに 書類選考、消耗していませんか？ 「この人、スキルは合ってるけど実績が薄い気がする」 「さっきと同じ基準で判断できているか自信がない」 「30枚読み終わる頃には最初の候補者の印象が薄れている」 「採用基準を聞かれても、うまく言語化できない」 エンジニア採用の書類選...</summary>
-  </entry>
-  <entry>
-    <title>WordPressでも、EmDashでもない ― Muse × GitHub × Markdown CMS という第三の選択肢</title>
-    <link href="https://qiita.com/oosawak@github/items/a0eba6657eaa53827e41"/>
-    <id>https://aimatome.gamelab.website/#7922c3789d4c</id>
-    <updated>2026-10-25T16:22:29.000Z</updated>
-    <summary>Qiita ／ （この記事は、Techブログに掲載したスライド付き記事のQiita版です。完全版はこちら: https://oosawak.github.io/tech/#/post/tech/doko-de-ugokasu ） AIがWebサイトを運用する時代の話が、現実味を帯びてきまし...</summary>
-  </entry>
-  <entry>
     <title>GoogleとOktaで実現するAIエージェント時代におけるセキュリティ対策​ - イベント・セミナー - Key Technology｜CTC - CTC</title>
     <link href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wZlNEenpnaENXVmN4cWt2UDZmeDAtRF9zSlM3dEhBTzJEeGY4aEktOXJyMUZyMkZlRlA5UkZyeWtwUEpJbTBLMGhkaW9zWW81alh3Z2o0M0xWNnhq?oc=5"/>
     <id>https://aimatome.gamelab.website/#ff0ec6bc0d2e</id>
@@ -97,13 +97,6 @@
     <id>https://aimatome.gamelab.website/#e84e2a52ebc1</id>
     <updated>2026-10-25T15:27:00.000Z</updated>
     <summary>Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</summary>
-  </entry>
-  <entry>
-    <title>おい！あなたのGPU演算能力制限されてますよ👽 gpu-unlock</title>
-    <link href="https://zenn.dev/minecode/articles/b4b9f7babcd56d"/>
-    <id>https://aimatome.gamelab.website/#99fa09c2da9b</id>
-    <updated>2026-10-25T15:05:59.000Z</updated>
-    <summary>Zenn ／ おい！あなたのGPU演算能力制限されてますよ👽 最近、gpu-unlockが話題ですね。 素人ながら調べてみると、いろいろ面白かったので備忘録としてなんとなくまとめます🌎 1. 「gpu-unlock」って何？ 端的に言うと、GeForceシリーズのGPUのリミッター解除をするLinuxカーネルモジュールです。 …</summary>
   </entry>
   <entry>
     <title>「NovelAI Diffusion」2次元/ケモノ系キャラに特化した画像生成AIモデル</title>
@@ -328,6 +321,13 @@
     <id>https://aimatome.gamelab.website/#d45b4aae76f4</id>
     <updated>2026-10-25T12:30:00.000Z</updated>
     <summary>ライフハッカー</summary>
+  </entry>
+  <entry>
+    <title>‍‍‍エロ動画生成ai {a01GG}</title>
+    <link href="https://news.google.com/rss/articles/CBMirwJBVV95cUxNSVBYRDVRbTVGOEpkMmRRU3d0a1pOSmVvSnc2bjNWUXZRYzFoekxSSTFOZ0xDNEo1QllUdElTajhycEhMYXAyRlREd1VvdmN2SzFlMUxmSmRUVUg5M1NDWDAzcHhZZkpkeW1YWnpfOVhUaGNBN3BBQVhHR2FGb0YzMWV0OTJJejBTejBsTk40RmNyeGViU0xuUFYyZnJ1WWh0V1hFWm9TQ1hJeTl1QkNPbUVHMGtBdEhqVzVuanBGOF8yd3Vmel9ocVFxN1NmRXpvWXloMDdWTXBnclZjT1BYbTF5NEkwTHp3VktCeEl6WE1vcF92b0NHejY5M0RWSl9lN0wzdTdvTElrcHpScVluTmlMd1JYaVVqa2F3Tkg4UXMxVVlSM3BaNXdnWUI5bEE?oc=5"/>
+    <id>https://aimatome.gamelab.website/#07a47c5ababa</id>
+    <updated>2026-10-25T12:08:12.000Z</updated>
+    <summary>FC東京オフィシャルホームページ</summary>
   </entry>
   <entry>
     <title>本当は難しいディレクトリトラバーサル対策 ― 「../ を禁止する」だけでは足りない</title>
