@@ -5,8 +5,15 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-24T23:30:16.904Z</updated>
+  <updated>2026-10-25T00:00:17.537Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>AIエージェントにRaspberry Pi CM4用Mini-ITXボードを設計させた2日間 — ERC 0件・486条件の電源解析と、まだ勝てていない電源設計</title>
+    <link href="https://qiita.com/tomoya-creater/items/b5b88a2d2e23ead4d5a7"/>
+    <id>https://aimatome.gamelab.website/#d059a7348d19</id>
+    <updated>2026-10-25T00:00:27.000Z</updated>
+    <summary>Qiita ／ TL;DR: AIコーディングエージェント（Codex）に、Raspberry Pi CM4用のMini-ITX I/OボードをKiCad CLI経由で2日間設計させてみた。回路図ERCはエラー0、5V電源レールは486条件のDC解析を通過、配線も始まった。一方で電源設計は...</summary>
+  </entry>
   <entry>
     <title>Claude Codeのクロスセッションメッセージングで「別セッションに仕事を頼む」を実装する</title>
     <link href="https://qiita.com/joinclass/items/e957bd69e0221a40b170"/>
@@ -57,13 +64,6 @@
     <summary>AFPBB News</summary>
   </entry>
   <entry>
-    <title>AI日報 2026年10月25日：OpenAIが訓練からインターネットを遮断、Googleは100万TPU契約</title>
-    <link href="https://qiita.com/lhjjjk4/items/6fadad888763b022229c"/>
-    <id>https://aimatome.gamelab.website/#a37c3bf4d249</id>
-    <updated>2026-10-24T22:23:23.000Z</updated>
-    <summary>Qiita ／ OpenAIが今年最大級の安全方針転換を公式に確認し、Anthropicは史上最大級の計算資源契約を交わしました。さらにこの1週間で、Google・AWS・Anthropicの3社がエージェント基盤を前進させ、コードエディタのエージェントは自らアプリを操作して検証するまで...</summary>
-  </entry>
-  <entry>
     <title>ネット遮断でもAI同士が秘密通信に成功、OpenAIの実験が暴いた「隔離」の限界</title>
     <link href="https://news.google.com/rss/articles/CBMie0FVX3lxTE5YaWVSYVVQellHM1dRa1ZTN1RIXzFRUHEzVlFFaEVMQlEzbnU3RVcxY0RCdmMzcUdBMnotb0s2bGNuSkdqcExJbWI5VXgwSzZ5aTNqY2lyb3BZdUtnNC0wNm53NWZ4dXZOcUJmRkZTb0U2TmVfcXRTOUJSRQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#854e5bd6ae13</id>
@@ -103,13 +103,6 @@
     <link href="https://news.google.com/rss/articles/CBMiiANBVV95cUxObFJDZXpLT1RkMFlKNEtTTkJYQ3NfSTZRbDJBMWxXM2w1VVZhNkhkbWY3YnBiRmtzTUhxbXVxdkplaWxVZnVJWEJDLWFRb1NZTHZwSWhPdmNzV2RodDFhUjhLZUJKZFFCbnVvVHJxem1EOVVBUEZRcmF4Q0hqa0xsejFTYnNYcl9HbWhMenRlY3ZkUnc3NHpPbDJZYy1KbU51cTd1M3ljRDZULWwyRFdVYkpLUGhZd1dYeG5xTGh4ZmVDYWx3RVVIN0cyT2U0UHUzQV9fcUNlYnVQU2ctdzhBYlE5LWs2SkFMQnk5X1RySjhKWDVCQU91UnlGcGUzSUdtQzl4MEhJWTRleXFyalRmNVBpRTgtMHNuYnZiRGVrLU1nUnhEaG1vZ2liY3Z6aEE4SGNqZ1dOVkdEUkxIeElHT29kYjRBdzFhaFFNcUdZbDQ1elJPclN2YW9mNTVUcmMzVDR6Smo2VjdSbjgyYlRIQjBUSlN2blprWUMzRkJkYzZFb19jSEkwYg?oc=5"/>
     <id>https://aimatome.gamelab.website/#8eed2f8d543f</id>
     <updated>2026-10-24T21:57:16.000Z</updated>
-    <summary>小豆島町</summary>
-  </entry>
-  <entry>
-    <title>‍‍‍AI彼女 生成 ai</title>
-    <link href="https://news.google.com/rss/articles/CBMiygJBVV95cUxOUVYzQUdSY3JESzhidUF1MWZsXzN4b2JIZHJlSWNGNXV2YkJ5WEdqR0EtY1RCZk5aV0trV1d2cnBHZkRDbUp0MWRSVTVsQ3VJRVNWdlRaRWNaX0JZLVFRNmJ2a0Nnd3pXYTFLdWFmYmJnWDB5bzRQUktENVpHTEdXeF9YM1Q3TWtORVlzN0dhS25jcExRbHEzdUpZSHhZNzZqaWloUG1jTWRmRGFEbDY0WjRPLWNpMWtwODdZcG93bFpPb0pOVDhwMUthNXpqSDNwS0dtaXVaQ2RGdVBjeHNqS1BLUnRrQnVEa0F1cHNMbzBIWWx2SFNBLXhmdmw5a1FlWUJlVXJKbVRzLUxSc2pLd1ZvTjIxcU5mSjZZUHljeV9VWFVSYjNVRDM5WjFTS096UTF3N2szUF92X1ppV292a3dGZ3liU0hCc0E?oc=5"/>
-    <id>https://aimatome.gamelab.website/#b2b3aa9abb29</id>
-    <updated>2026-10-24T21:56:57.000Z</updated>
     <summary>小豆島町</summary>
   </entry>
   <entry>
@@ -162,13 +155,6 @@
     <summary>小豆島町</summary>
   </entry>
   <entry>
-    <title>‍‍‍無料の動画生成AI：オンラインでテキストから動画生成</title>
-    <link href="https://news.google.com/rss/articles/CBMikANBVV95cUxOLWNiT2FwX0xVNnJoc09tRHFQU3lDeFFjUjhZT1o3LXM0bE9vMGttUHVLUXBzc3dSZjZiZFJKZzVpS3dhTlRoblowaXZEbm0tRFVCOU9UVXR5a1d4a3poSlhmaU5DMFFVeVFFaWVUQlZwZHdVUV8xUU1YNjNSNVdibHloVGVleTZkeHZub2p2d2pQQUwybHRxSGQxZmYyZGlQM0JJWU9KU2tUcTJZdjFrZ3NyTDZkYnFNcHBlZVNvTExaN0JHdHhvZW9oU2ozNWVJRHRFclFSS3N0dWhGRjJwc1F6alpmSHpNeFU2UlhMX3ZldW5lRm5BdDc5ZE1MNnBMRHpYcFBxZ0g0V0Nyc3ZTbVJZZXZQZ1BRYkhURXJhNXdZd19qTWpfbjVTM0lWbzV6UFp5bzNpWFpIbEppODVycEVMTkdlMGtvVEcxb2RKWUU4amlPbEJaWFlfVW5yODVyWk4wNUtTZlR6SU0wSnNmVW9ZS1JORW51Z1F0VUNVS3RiZTh5aUZ4T2owQm5GTzZS?oc=5"/>
-    <id>https://aimatome.gamelab.website/#0a6022c1f87a</id>
-    <updated>2026-10-24T21:39:36.000Z</updated>
-    <summary>小豆島町</summary>
-  </entry>
-  <entry>
     <title>‍‍‍画像生成AIおすすめ8選｜選び方と注意点</title>
     <link href="https://news.google.com/rss/articles/CBMiggNBVV95cUxNckEzX0tWRGJnaURGMklLMzJMUGVDS2FVRG96S1NubzlSMll5WUhmUkN3bVhyb0hyU3VHNHNTaUdGeHlkYjVFS0NCWnpMNEJic3dFMldLci10VV80X3A4V2l1V3Y2dXdKYWNod3BqT2pQR09TMTczSHFsSy1vNTNnWGY4Z3pISWdObFNYcmxNSFJTNGdoMER3Zk5SY1cwNTZWU0ZnZjJNVW9lVGJHZUF3R1piZ1dob1NCYndpbEF4aHB5aTNqVnhsenYxNkJYN2c0c1NCLVJDTWoycmVVMUlnLXB2MGZ0N1hFSElreXlxSHNrQndfWndFM0JrVXhFcWtVTWpFQWFjZG1BV2xZaUFxSERYSEhVbm1XdENmQUZEZEFNc292QUdGb3BOaWtoS2Fsdy1kYkVxTFZ1eWpTQzNoTVRqN3hmSk5SMFFZaUJRNWRsVHotUk9WbXdxS2NQcGZtZUtjLTZVekdjZURLNWlaN0djbTEtRVB6LThRbGRKc1RIdw?oc=5"/>
     <id>https://aimatome.gamelab.website/#2fc39a8f34e9</id>
@@ -187,13 +173,6 @@
     <link href="https://news.google.com/rss/articles/CBMingNBVV95cUxPZ2oweEpKcW5GLWRvellOc04wc0xaY0pfbDFmX1I3Rm8tWFJzVXlYeHMzOE9FVnNTMkVtTmtKaExxVkpNdFo4ODJhd0sxZ2dSWW1fM01OdFJGUkZrUU5jWFVFN1ZNTGk0MWNBX1ZQbkkxNnRod1Z1Smo0cTcxVUxmcEZ0TWlsYjJheFB4aXZmd2xMdXE0UVEwdl9uR29iSzBxUWltY1R5Sjg4WW1wSS1TU3dLTWxvUmQ2eHdOM1BOcXJSNlIxek9nQzc0WUo1Si1rSjRQNWhkTV9jRWYya3RlVjQ0Z3U3YVRNcXdEZkFrZHA1QlJpdUxfOFJQN1BzYjhHSEIyT3ZMbERweHZaVHA3OXdXTHVrX2kzSUEyVUFxWG5HRFF6OFdsVFJCTWtPRkU4WUMwN1lpM2hnLTR1T2dvbGNReGd2Q3FocVZJWFpOaWhGUFpyY2F6Y2MyRkFKaFliR3plMjFndUlPWUZ3YWhZbmxiSk5Tekl0TXB3ZHFhQk13Q2k2UnpSSUZRZFBjVl9Db0xPYUpyMGtRdEZNbmc?oc=5"/>
     <id>https://aimatome.gamelab.website/#77b0fd5dd3b9</id>
     <updated>2026-10-24T21:39:06.000Z</updated>
-    <summary>小豆島町</summary>
-  </entry>
-  <entry>
-    <title>‍‍‍アニメ動画作りにおすすめの動画生成AIは</title>
-    <link href="https://news.google.com/rss/articles/CBMi-AJBVV95cUxObGJla2ZCbi1VNjlkRVdOSkhkeHdlN1dmUmduUE9Jcy1QWlVMeVFJMjExRmlKSUgwVXFhb0VHb2twcDE3cExWOHBxUTZIM19sR3dvQWJzdFQ0eVRhTjAwRHE0SUFmaE9qQ3JXU29BcjhxQ1oyMUc5YUxjUDRnc05GbEtEUmp0ejdIanNnRTd6Z3JhYnhEcmxqc29NYWVZaWFLVHc4WExBYWJxTVh1MWppZmZNaXlEckR2S0Q5UmhsSE5jNEFYcF9xSzFxRmhpRXppS3dSR0RpaXVaTlU5U2h6SWYwTzZTbUdiR0VvMWJTTDE5SG95aHdlVjhiLWsxcXRIYVJaejkyTUdCMDFUWlhoaFdoakEyUGdBLWE5YzlDN1d4Ni1ZcG5wY0lZOXFDMWNEeFZ3Y0hfVG54LUJZX285TXZJS21qY2dtbE1BcmFfVWtYTWtZYkJ3N0lmdlJsVnNnclpZYUoyQnhFWWVzX1I5QVZDNG1KV2FL?oc=5"/>
-    <id>https://aimatome.gamelab.website/#31d448b138f9</id>
-    <updated>2026-10-24T21:39:01.000Z</updated>
     <summary>小豆島町</summary>
   </entry>
   <entry>
@@ -218,11 +197,11 @@
     <summary>ITmedia</summary>
   </entry>
   <entry>
-    <title>‍‍‍最強の無料動画生成AIツール5選【 2026 年版】</title>
-    <link href="https://news.google.com/rss/articles/CBMiqgJBVV95cUxObHdHZDM1c0NuNXg3ZU05blNkdmNtODV3anJ1dmR5TEpHWDFUcGZGcXFZZ2dCV2VxcDhCb1FOSjcxWTJ6bHQ4eXotVzJ1VnQ1YlFqajh4d0plbkF5bjdsWVVuN2RFU2M2UDZROXVBUXVWZ2cySzV5QVZ0VWdPRWxzRXdvLTVaa3BXR3ZJZWJtRjVtUEdWeEZ1TDh6WWl3X1NQWTdjSXRYZEdRWEFqY2pORWZsaFVtTXZUY1A2ZGJGc0M0cF9LdjNFV1BqWlQxRHdOY05zM0pHMGlOdWhnMm9pV29EMTMxMXdnXy1OekFSX2g3TjJrM01FbFh0R215bW9wTW4wTTFjOTBPZi1PYmNJbWxOZDZqYkR2VGkzdVFsRTFZS0ZDU3hBVmV3?oc=5"/>
-    <id>https://aimatome.gamelab.website/#37e402ad927e</id>
-    <updated>2026-10-24T20:25:40.000Z</updated>
-    <summary>小豆島町</summary>
+    <title>Python・JavaScript・LLVMを1つの言語で：AI向け新言語「Jac」の野心と限界</title>
+    <link href="https://news.google.com/rss/articles/CBMickFVX3lxTE80eXE2OTRDbE9fYXpxWVdFajV0OFREbnlSZGJoWmVORXQteG42ZkwtLVpmQjlSakVtbE11ejFXNUNTc01ISFpidWlLR0dubThKLWRidVczaXB4aXBnLW5DQi1La2NsNG84QXlmMllfNjVsdw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#59a2cdba5f30</id>
+    <updated>2026-10-24T20:46:50.000Z</updated>
+    <summary>XenoSpectrum</summary>
   </entry>
   <entry>
     <title>すごいベンチャー【17】LENZO／日本発の次世代AI半導体に挑む</title>
@@ -302,6 +281,13 @@
     <summary>Moomoo</summary>
   </entry>
   <entry>
+    <title>監査法人の生成AI活用に関する実態調査</title>
+    <link href="https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOVEw1MExybVdyVXVLa2RDSVdROFo3ZG94Q2tZNlgwZ3pXc01Ca211WUk0blF4QUhQd1N3d0VpcjZZWlNkR29HLVJ6eUtvTU5BUEE?oc=5"/>
+    <id>https://aimatome.gamelab.website/#6789dba01c17</id>
+    <updated>2026-10-24T15:23:25.000Z</updated>
+    <summary>山陽新聞</summary>
+  </entry>
+  <entry>
     <title>元Twitter CEOが語る、AIエージェントを1万倍過小評価している理由｜Sourcery</title>
     <link href="https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQU1p3bDNTaDdlSlhBUzFxNFctTG1tREVsR3E5SjJIcmFpNmRaczd5a0RNdUw5eDZnV3J2WDE3c3B4emRKbFk2cld4ZDlRNUs2bTBmNXZveVc5SERwbVE?oc=5"/>
     <id>https://aimatome.gamelab.website/#4ff2a6149846</id>
@@ -356,5 +342,19 @@
     <id>https://aimatome.gamelab.website/#a719f3b03eea</id>
     <updated>2026-10-24T14:53:49.000Z</updated>
     <summary>Zenn ／ この記事では、2026年10月までの攻撃の状況からAIで何が変わったかを読み取り、攻撃者がAIを使うことが当たり前になる前提で、組織が取るべき対策を考えます。 2026年に起きていること 公開済みの脆弱性の早い悪用 Google Threat Intelligence Groupの分析では、実環境で新たに悪用が確認さ…</summary>
+  </entry>
+  <entry>
+    <title>Utopaiの資金調達、20超のプロジェクトを抱えるAI映画スタジオを後押し</title>
+    <link href="https://news.google.com/rss/articles/CBMingFBVV95cUxNWmtlUGotUVh5T3pYRklPVmFJYlpja1FSQmlKX2U5SDdhMGV4eUVyaldJOE9yTmJYMk9HVmFDdlFoOFVhVXdPUXN5cElvams5Z1A1bTk4NmZmWXBMWGt2Uy1OY1M3NzVkZXhYcUtBRS12cjYwNFJkbFhqaVRRT3l3N1Mzb043dWt3cGxoQVlOUXRGV0NjMmxQTW9fSmdRUQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#370c59642489</id>
+    <updated>2026-10-24T14:52:01.000Z</updated>
+    <summary>remio</summary>
+  </entry>
+  <entry>
+    <title>SentinelOneのAIセキュリティ拡充、Oppenheimerが成長余地を評価</title>
+    <link href="https://news.google.com/rss/articles/CBMingFBVV95cUxPWnRINjVhNVlYckZMamJVd2NPenFmQUZDeG1KNUg0Q1RLQWEwZVFPTUk5S19vWS1FN2NSWG83YUpqVUVUazYtaC1hQktmMmc3SXItQ3lIM1VrUGlvQ2t0MllfRUczek9ON3NaenVNT2x6QUlQMEVKNUpacUpfeHd0RGphUFdTLWIyV0JsRVdVNTc1bFNDNE9uX0NpQUprUQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#4fff230452dd</id>
+    <updated>2026-10-24T14:47:01.000Z</updated>
+    <summary>remio</summary>
   </entry>
 </feed>
