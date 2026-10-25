@@ -5,8 +5,15 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-25T18:00:18.044Z</updated>
+  <updated>2026-10-25T18:30:18.588Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>常駐型AIチャットエージェントが自分の発言の誤りに気づいたときの訂正設計</title>
+    <link href="https://zenn.dev/hach/articles/chat-agent-self-correction-retraction-design"/>
+    <id>https://aimatome.gamelab.website/#c24971af1cfa</id>
+    <updated>2026-10-25T18:11:44.000Z</updated>
+    <summary>Zenn ／ チャットに常駐するAIエージェントは、過去の発言が後から誤りだと判明する場面を避けられません。参照していた情報が古かった、複数の根拠を取り違えた、あるいは単純にLLMの生成が事実と食い違っていた——原因は様々ですが、共通するのは「もう送信済みのメッセージをどう訂正するか」という問題です。実行済みの操作を取り消すロール…</summary>
+  </entry>
   <entry>
     <title>インターネット考古学：置き去りにされた「Web遺産」を掘り起こせ！</title>
     <link href="https://qiita.com/lemonIN/items/427895a7906eaedc4efc"/>
@@ -64,6 +71,13 @@
     <summary>Qiita ／ （この記事は、Techブログに掲載したスライド付き記事のQiita版です。完全版はこちら: https://oosawak.github.io/tech/#/post/tech/doko-de-ugokasu ） AIがWebサイトを運用する時代の話が、現実味を帯びてきまし...</summary>
   </entry>
   <entry>
+    <title>GoogleとOktaで実現するAIエージェント時代におけるセキュリティ対策​ - イベント・セミナー - Key Technology｜CTC - CTC</title>
+    <link href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE8wZlNEenpnaENXVmN4cWt2UDZmeDAtRF9zSlM3dEhBTzJEeGY4aEktOXJyMUZyMkZlRlA5UkZyeWtwUEpJbTBLMGhkaW9zWW81alh3Z2o0M0xWNnhq?oc=5"/>
+    <id>https://aimatome.gamelab.website/#ff0ec6bc0d2e</id>
+    <updated>2026-10-25T16:01:44.000Z</updated>
+    <summary>CTC - 伊藤忠テクノソリューションズ</summary>
+  </entry>
+  <entry>
     <title>本番DBは9秒で消えた――AIエージェントの安全は「指示」だけに任せられない</title>
     <link href="https://zenn.dev/kotakotahiro/articles/111c2f74a72d16"/>
     <id>https://aimatome.gamelab.website/#7911e4ec3881</id>
@@ -85,6 +99,20 @@
     <summary>Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース</summary>
   </entry>
   <entry>
+    <title>おい！あなたのGPU演算能力制限されてますよ👽 gpu-unlock</title>
+    <link href="https://zenn.dev/minecode/articles/b4b9f7babcd56d"/>
+    <id>https://aimatome.gamelab.website/#99fa09c2da9b</id>
+    <updated>2026-10-25T15:05:59.000Z</updated>
+    <summary>Zenn ／ おい！あなたのGPU演算能力制限されてますよ👽 最近、gpu-unlockが話題ですね。 素人ながら調べてみると、いろいろ面白かったので備忘録としてなんとなくまとめます🌎 1. 「gpu-unlock」って何？ 端的に言うと、GeForceシリーズのGPUのリミッター解除をするLinuxカーネルモジュールです。 …</summary>
+  </entry>
+  <entry>
+    <title>「NovelAI Diffusion」2次元/ケモノ系キャラに特化した画像生成AIモデル</title>
+    <link href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBpZHY2MGIwSWU1cGZNYU9IZUtrQTlCNVZwVUNBS0VXZTNmWEhQOUJjUE1naGMxRWk5TUpiZ05XbmJEeDJoYXFCR0JNOGstTTFkYjBMX0k0RTQ1Sk9GZEZmckdpX21raHJEYVdrcQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#b8dc22bc55ab</id>
+    <updated>2026-10-25T15:05:00.000Z</updated>
+    <summary>窓の杜</summary>
+  </entry>
+  <entry>
     <title>AIキャラに人間味を出すために ─ 忘れる・気分が揺れる・会わない間に暮らす・相槌は早く</title>
     <link href="https://zenn.dev/alt_tanuki/articles/fb9ae0966bd791"/>
     <id>https://aimatome.gamelab.website/#6effc86f6612</id>
@@ -95,6 +123,13 @@
     <title>OpenAI、資金調達の目標評価額引き下げ 投資家が難色</title>
     <link href="https://news.google.com/rss/articles/CBMid0FVX3lxTE1aNEFKVnNvcnJiSlVZY0NoTG5qalBqM2xGVFRWZFdaQ3VQa25OWnM1WUxWa3Y2Yk1Kb2V3dEhUdllLeFpwRC1PQUdjSXBTMWlPWm1JR2l6dnV4clhOc1ltTFRpSUpyRng2djZBUG95TElOYUpyaDdN?oc=5"/>
     <id>https://aimatome.gamelab.website/#61f5a0406728</id>
+    <updated>2026-10-25T15:00:00.000Z</updated>
+    <summary>日本経済新聞</summary>
+  </entry>
+  <entry>
+    <title>Metaの命運託されたAIの神童、アレクサンダー・ワン氏</title>
+    <link href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9wOGc0dUtSa2xaa1BDdURKbWpuY0h2ZlFReDBLaFhaakVJano3MFlFTzBObGUzUkQzTVRSeV82Y1lWS2J6V3liOGlQRmFsTjVnenl5aE82NjcyMTdpaUxKUzVIaWItdTduQ0ZYd3VjeF9WTjZqWkU0?oc=5"/>
+    <id>https://aimatome.gamelab.website/#fb14526b5cd5</id>
     <updated>2026-10-25T15:00:00.000Z</updated>
     <summary>日本経済新聞</summary>
   </entry>
@@ -218,6 +253,13 @@
     <summary>Zenn ／ ! この記事はLLMの校正を受けながら人間が執筆しました ソフトウェアエンジニアであれば、業務でも趣味でもAIエージェントを活用されている方は多いかと思います。コーディングから最近では3Dモデリングまで、LLMができることは増え続けている印象です。 そんなAIエージェントたちに、仕事の代わりにゲームをさせてみたらどう…</summary>
   </entry>
   <entry>
+    <title>ChatGPTに性癖バトルを挑んだら「コンセント」と回答されワンターンで参った「たしかにエロい」「こいつらAIだしなぁ…」</title>
+    <link href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE5sR3U2Mzc3RDNVMTJkOG1PUGpCanM2MWdOR1loc3VtaXFzWllNRVBabGs2SnRJSDBoODdOQ2xmLWlYODFCV1E?oc=5"/>
+    <id>https://aimatome.gamelab.website/#531b2a61bac2</id>
+    <updated>2026-10-25T13:19:14.000Z</updated>
+    <summary>Togetter</summary>
+  </entry>
+  <entry>
     <title>OpenCodeでローカルLLMを長時間連続コーディングさせる設定</title>
     <link href="https://zenn.dev/phpmyadmin/articles/opencode-local-llm-cache-stalls"/>
     <id>https://aimatome.gamelab.website/#b011ff28e7ae</id>
@@ -302,59 +344,17 @@
     <summary>Zenn ／ TL;DR skillが使われるかどうかは2段階で決まる。1段目は「descriptionを見て候補に入るか」、2段目は「その場でモデルが実際にそのskillを読むか」である。 description一覧だけを見せて選ばせ…</summary>
   </entry>
   <entry>
+    <title>画像3 / 4＞話題の「ChatGPT」はマッチングアプリのプロフィールにも有効？プロの恋愛コーチに見せてみた</title>
+    <link href="https://news.google.com/rss/articles/CBMibkFVX3lxTE5oNnoyUk83NHo1clByVWRuQ0VJYy1TSFA2dzhaTUFpakhBR2pyOE5yV3NnWTRISXg3U2M3OUpISkpnRWZmRF9qcUpBZHllRWRlUHVGWGZ0UjBWa3YyUDE0d3hHQVpsN0hWcTlsM1pR?oc=5"/>
+    <id>https://aimatome.gamelab.website/#ae4028043611</id>
+    <updated>2026-10-25T11:37:49.000Z</updated>
+    <summary>ウォーカープラス</summary>
+  </entry>
+  <entry>
     <title>Codexの探索手順をSkill化して比較した — Lean Routingの設計と4回の試行</title>
     <link href="https://zenn.dev/kimuradaichisi/articles/ai-coding-lean-routing-agentforge"/>
     <id>https://aimatome.gamelab.website/#9ea565454eaf</id>
     <updated>2026-10-25T11:33:28.000Z</updated>
     <summary>Zenn ／ Codexのコード探索を制御するため、rgやGitなどの決定的な操作を優先し、必要な場合だけ深い調査に進む工程Skillを作成した。名前は Lean Routing。Claude Code、Codex、Gemini CLIで共通利用できる工程Skill群、AgentForgeの一つとして公開している。 実装後、通常の…</summary>
-  </entry>
-  <entry>
-    <title>Issueを立てるとAIが実装とレビューを回すファクトリーを個人で作って分かったこと</title>
-    <link href="https://zenn.dev/z_maruhira/articles/agentcells-tips"/>
-    <id>https://aimatome.gamelab.website/#4883d34e7384</id>
-    <updated>2026-10-25T11:30:53.000Z</updated>
-    <summary>Zenn ／ 個人でも作るものが多いので、Issueを立てたら自動で進んでくれる仕組みが欲しくなりました。仕事でもこういう仕組みを作っていますが、個人で一から作り直すと別の学びもありそうだったので、agentcellsという名前で作り始めています。 https://github.com/y-hirakaw/agentcells 工…</summary>
-  </entry>
-  <entry>
-    <title>生成AIに「テキスト誘導の仕組み」を聞いてみた（CLIP/T5・cross-attention・CFG）</title>
-    <link href="https://zenn.dev/tkpurine/articles/text-guidance-in-diffusion"/>
-    <id>https://aimatome.gamelab.website/#dbcbeae8d31c</id>
-    <updated>2026-10-25T11:27:21.000Z</updated>
-    <summary>Zenn ／ はじめに 前回の拡散モデル入門で、テキスト→画像は「テキスト条件＋CFGでプロンプトへの忠実度を制御する」と一言で描きました。今回はその箱の中身を深掘りします。テキスト誘導は3段階です。 テキストを数値化する（text encoder：CLIP / T5） 除去ネットに注入する（cross-attention＝Tra…</summary>
-  </entry>
-  <entry>
-    <title>分類できないメモを、既定フォルダへ書かない</title>
-    <link href="https://zenn.dev/bricks/articles/unknown-note-category-stops-write"/>
-    <id>https://aimatome.gamelab.website/#3ba796ee245c</id>
-    <updated>2026-10-25T11:17:00.000Z</updated>
-    <summary>Zenn ／ ノートを内容別のフォルダへ整理しても、保存するコードが以前の共通フォルダを既定値にしていれば、次の保存で古い置き場を作り直せます。 自作のAIアシスタントには、案件を指定すれば案件別に、指定しなければ共通の場所へ追記するツールがありました。ノートを内容別カテゴリへ整理したあと、この「省略したら共通へ」という動きを残さ…</summary>
-  </entry>
-  <entry>
-    <title>OpenAIのIPOについて知っておくべき重要事項</title>
-    <link href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTG00SGY1bm5rUUxOemdQcVpFcGlwWW9vWkU0WlZQU29CekhpN1d3b3dUSGswc1NSbEJUOEt6MHNaQnZLd0hOVmszRGtHWGl3UlpiTGRZcDNDQmE0Zy1aWEVpLTZaVWM2MWQzMy1Xdkt0UzllMUFOdWh6NWI2QjV0QWFuR1JQWU1ucGZpTFVvMXhWaFZhN0xiZ1ZmQ3J4d3RaYThKNXBNQ3U?oc=5"/>
-    <id>https://aimatome.gamelab.website/#2451696c3f18</id>
-    <updated>2026-10-25T11:10:11.000Z</updated>
-    <summary>TradingKey</summary>
-  </entry>
-  <entry>
-    <title>テレンス・タオ氏、AI数学競争を痛烈批判：大量の証明が「有害な廃棄物」と化す</title>
-    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBOY2VvaE5sSEhvaU1rd0tKamRsMU5GNE1TTFk5WEVlczNndEE0TER0U2lleVVvTGU4T255V3dqWEFIelhpc2xJRDFNZTJjdWtKV1J5d1J0aDZpR3o3ajJOTGMxcFRkMWY3d1A4UENCd2paenhr?oc=5"/>
-    <id>https://aimatome.gamelab.website/#698288e4f201</id>
-    <updated>2026-10-25T11:05:00.000Z</updated>
-    <summary>BigGo ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>AI時代の罠：求められていないものを、速く作る</title>
-    <link href="https://zenn.dev/chris_probably/articles/f6ffe71678cde1"/>
-    <id>https://aimatome.gamelab.website/#2cc52713a72b</id>
-    <updated>2026-10-25T11:04:13.000Z</updated>
-    <summary>Zenn ／ 機能のリリース速度は確実に上がっている。 AIコーディングツールのおかげで、以前なら数週間かかっていた実装が数日で終わる。 でも、プロダクトの成長指標は動いていない。なぜだろうか。 「速く作れば勝てる」は、100年前に否定されている 1920年代、ヘンリー・フォードは世界最速の生産ラインを持っていた。組立ラインの発明…</summary>
-  </entry>
-  <entry>
-    <title>無料のAI診断サイトを作ったら、使われるほどお金が減る仕組みになっていた</title>
-    <link href="https://zenn.dev/lnkiai/articles/d5942b2f251e7d"/>
-    <id>https://aimatome.gamelab.website/#7f223fd3b879</id>
-    <updated>2026-10-25T10:59:42.000Z</updated>
-    <summary>Zenn ／ こんにちは、いのりです。 個人開発で「あなたをAIモデルに例えると？」というAI診断サイトを公開したところ、6000人以上の方に診断してもらえました！やったー！！＼(＞ヮ＜)／ しかし、これだけ多くの人に使ってもらっても、なんと収益は0円でした。それどころか、API費用が増えてお金が減る仕組みになっていました…！大赤…</summary>
   </entry>
 </feed>
