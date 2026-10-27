@@ -1,5 +1,177 @@
 [
  {
+  "id": "989f252036a8",
+  "title": "Claude Code Hooksで危険なコマンドをブロックする — PreToolUseフックの実装とテスト",
+  "url": "https://qiita.com/joinclass/items/38ae89437618902e5358",
+  "source": "Qiita",
+  "summary": "はじめに：AIが git push --force を打った日 当社（合同会社ジョインクラス）は、記事公開・SNS配信・営業パイプラインなど業務の大半をClaude Codeとlaunchdの定期ジョブ（17本）で回しています。自動化率はおよそ98%です。 自動化を進める...",
+  "publishedAt": "2026-10-27T23:30:02.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dbe474172a27",
+  "title": "米ハイテク株高を背景に半導体・AI関連株買いが継続へ／日経225・本日の想定レンジ",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KQkNpcmw0UDNLdjJvekRDUjl0aUYwS3ZXOVk5VlRKZ3lOdG1Qb285UUN6MkFRSnA3dE1QaFpUMUVyMWN4cFNCa1lHTlVrMTJzSHc?oc=5",
+  "source": "株探",
+  "summary": "",
+  "publishedAt": "2026-10-27T23:25:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "550173e01008",
+  "title": "Claude の browser use tool を Playwright の自作ドライバで試した：外部サイトへの移動と注文確定は止まるか",
+  "url": "https://qiita.com/khronov/items/431c9e1b28673e2aadde",
+  "source": "Qiita",
+  "summary": "AI にブラウザを操作させると、ページに仕込まれた指示で別のサイトへ移動したり、注文のような取り消せない操作をしたりする心配がある そこで、Claude の browser use tool のドライバに、移動先を制限する URL ポリシーと、操作の前に止める confi...",
+  "publishedAt": "2026-10-27T23:24:07.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4a9e35e9fb11",
+  "title": "AIへの指示を変えたあと、期待どおりに止まるかを小さくテストする方法",
+  "url": "https://qiita.com/boraemon2000/items/987fa314366d6aa910a3",
+  "source": "Qiita",
+  "summary": "AIへの指示を改善しても、文章が分かりやすくなっただけでは十分ではありません。 「資料が食い違う場合は止まる」「根拠がなければ推測しない」「公開前に人間へ確認を返す」と書いたなら、本当にその場面で止ま...",
+  "publishedAt": "2026-10-27T23:22:21.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7c2c3567fee4",
+  "title": "孫正義氏が8兆円近く投資するマレーシア、AIブームで上げ潮－グローバル化に全賭け",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMDlkRXNZcV9TcHRuRmZzZGdpb2dtOUJ3NGdVUEhmZ1JRNTRxelNEcHYzblRFd0VTSmdqODZQakJCRExEbmxpWU13T1dUUmNBT0dxYmhEWEdNOWRZcDByOXYwNlQtN2dFR2JnNzVkMDN1ZV92eHZlaTYzakI2VXAtZXF2czhaMXJ4MG1oeThR?oc=5",
+  "source": "Bloomberg.com",
+  "summary": "",
+  "publishedAt": "2026-10-27T23:19:44.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "13651343fa16",
+  "title": "手書きメモからAIエージェントを作ってみた ~ STORM Act #4",
+  "url": "https://qiita.com/kataoka_se_sionic/items/8a8ed3ef27ac9ec424d4",
+  "source": "Qiita",
+  "summary": "本記事の目的 以前までの記事で、弊社 Sionic AI の STORM Act を使用して、AIエージェントを自然言語で開発する手法をご紹介しました。 今回は、ノートに描いた手書きメモをSTORM Actに渡し、パワポ資料を検索して質問に答えるAIエージェントを作...",
+  "publishedAt": "2026-10-27T23:16:44.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a3dba7ca8e5e",
+  "title": "Gemini Notebook「ボイスレコーダー」展開【英語】",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUNqQ0I3a3dlMHRLSHdhVE45RmJMeHd4eHNpU2dWOXllU1VxaXFZZ0JwLUJkYTBmeGs3NlRSZlB2Q1NiTzVsTDRGOU5xWWlFR0hibnQxR1FvMmNpekxDdWItYy1kQ0Q5WEpTQjBoRTltQ3JZTGdwVldxTGc2WC10TGlYMTFldjNj?oc=5",
+  "source": "jetstream.blog",
+  "summary": "",
+  "publishedAt": "2026-10-27T23:15:07.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "cb8b914eab83",
+  "title": "パナソニックHD子会社、利用禁止の外部生成AIに約33万4,000人分の個人情報をアップロード",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HWXRBM0dtb0VSYmtpUGV3OG1XVDRnYURrWlhLc0lYRjN4S1h0YzFNcWhxdlF1b2stWXg0NU1ZWFRjOGVkbjI2ZXlCT3A0cFd2Y1ZRWTQ3WFVVU0wtOTB0OWYxZEt3QTY1NG1r?oc=5",
+  "source": "Ledge.ai",
+  "summary": "",
+  "publishedAt": "2026-10-27T23:07:29.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1047d8fd2075",
+  "title": "国産の生成AI基盤モデル「PLaMo 3.1 Prime」が提供開始 ～Web検索とDeep Researchに対応",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMjdxT1l6ek05dnhucEZQX01kN2RScDVwaUVmdkh4V1dveU45cU5nc2Q0aUdPMk81UGI5ZTJ6T0JnSk9NVkN3cEJHbXFWTzZaNVBRX00yak4xWlUyRmtIdWV4UTlXY1ls?oc=5",
+  "source": "窓の杜",
+  "summary": "",
+  "publishedAt": "2026-10-27T23:07:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "364f0e2c9022",
+  "title": "日本市場、AI資金調達の懸念後退で株上昇へ－円は軟調もFOMCにらみ",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVTBBTDVPRVNHeGtQSDlZb3NHQ3gtLTN6dWlQajhvd1daVjdkSUNxaTE3Sjhpdk9rN0l3ZWJ6OXd0alY0Nklma0ZnYk5CanNIV1BMMEQ2aTZGWTJmNU9TZFVaX2VFbHhOdFpNbzZIbjBoaDlUSUZYMUVLRU1Fb0YwWXhZZkFxX2I3enU2Ug?oc=5",
+  "source": "Bloomberg.com",
+  "summary": "",
+  "publishedAt": "2026-10-27T23:03:25.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b53c6ed0c0cb",
+  "title": "Google、Gemini 4 Argon の活用例 8 つを紹介。3D ゲームの制作から NASA のデータ整理まで",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoWURWRGJMXzVkMW5XNk9tZTk1TW5hbTFZbVJIQ3VhS3dtVWdTNFNNb0hnemFyb0RmTEE0Z1BnNm1mak54VnFXNTdHeUZLemxoMlZYN21HTzV5bHhiQkJ2MFhUMkd5cFdrbnhrMlJudXFRaXh6XzBUYmxMMnI?oc=5",
+  "source": "HelenTech",
+  "summary": "",
+  "publishedAt": "2026-10-27T23:02:59.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8914041b9c97",
+  "title": "OpenAI、最先端AIモデル学習中のネット接続遮断など安全対策を強化",
+  "url": "https://pc.watch.impress.co.jp/docs/news/2151692.html",
+  "source": "PC Watch",
+  "summary": "OpenAIは10月23日、内部研究モデルが制限を回避してインターネットにアクセスしたことを受け、高性能モデルの学習と評価を一時停止していたと説明した。最先端AIモデルの学習・評価環境における安全対策を改修し、安全性を確認したうえで、10月1日に強化学習と内部推論を再開。一方で、監視やセキュリティなどの観点から、現在…",
+  "publishedAt": "2026-10-27T23:02:20.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0181eab53385",
+  "title": "栃木県那須塩原市、自治体業務におけるAIエージェントの活用に向けた実証を開始[ニュース]",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tUUhxeEdIRWhkZnhwMTBDWTRNUFIyN3EzOVJrTmw1Sjd5UFpvaXZRMjRRekphYXI5UnhPTU1oYUxscnF6bmZRZmdOM2s0T2JBY0xqVjFDbTdORG11UjBNbGZqUFhYcUs5NzlHRWdNWGtMSzg3bGdjdFFlX2MtUQ?oc=5",
+  "source": "デジタル行政",
+  "summary": "",
+  "publishedAt": "2026-10-27T23:01:13.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "941fb0a8dbb0",
   "title": "【文系合格者】G検定 受験当日の立ち回り｜120分を乗り切る時間配分と「飛ばす勇気」",
   "url": "https://qiita.com/mrmrmr/items/7ecc2d92ca64e2a5a427",
@@ -9,6 +181,33 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e20b97a1db44",
+  "title": "ドコモ、“睡眠の質”をスマホだけで推定するAI",
+  "url": "https://www.watch.impress.co.jp/docs/news/2151616.html",
+  "source": "Impress Watch",
+  "summary": "NTTドコモは、スマートフォンに蓄積された画面操作や位置情報などの利用状況からユーザーの“睡眠の質”を推定可能な「睡眠の質推定AI」を開発した。「HealthTech基盤」の新機能として10月から提供を開始している。また、NTTドコモビジネスが提供する自治体・企業向けヘルスケアサービス「けんこうマイレージ」にも採用さ…",
+  "publishedAt": "2026-10-27T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d8db98abcdd3",
+  "title": "アンソロピックのIPO目論見書で判明、データセンターとAI半導体への支出が160兆円に迫る規模に",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZRE5WcnhlbTdlT1gxTDdwRV9PX3FuU1d4T3RZYTY1SXNTalVjUUFsVzNWaUx3QUdrRDRYdUtleTg2ek1RbzVOaGxmbFVtRzg1NVM5MmNGdndVdw?oc=5",
+  "source": "Forbes JAPAN",
+  "summary": "",
+  "publishedAt": "2026-10-27T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
@@ -87,6 +286,20 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bd74e2d57507",
+  "title": "Apple、M6搭載の14インチ「MacBook Pro」発表 AI性能向上、33万9800円から",
+  "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002649/",
+  "source": "ITmedia NEWS",
+  "summary": "Appleは、新型チップ「M6」を搭載した14インチ「MacBook Pro」を発表した。M6はCPU・GPUともに12コアで、AI処理やグラフィックス性能が向上。Wi-Fi 7対応や最大24時間のバッテリー駆動を実現した。日本での販売価格は33万9800円からで、11月6日発売の予定だ。",
+  "publishedAt": "2026-10-27T22:30:52.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
   ],
   "isPR": false
  },
@@ -550,7 +763,7 @@
   "source": "PC Watch",
   "summary": "Oracleは、10月25日から10月28日に同社の年次イベント「Oracle AI World 2026」を米ラスベガスで開催している。この中で、ハイパースケール級のクラウドサービス事業となるOCI(Oracle Cloud Infrastructure)が、Google開発のAIアクセラレータであるTPU(Ten…",
   "publishedAt": "2026-10-27T21:00:00.000Z",
-  "image": "",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F2151701.html",
   "categories": [
    "infra"
   ],
@@ -1105,6 +1318,20 @@
   "isPR": false
  },
  {
+  "id": "6ce15ebe7096",
+  "title": "AI動画ツールをどう選ぶ?個人開発者がSeedance 3.0とSeedance 2.5を比べて考えたこと",
+  "url": "https://zenn.dev/haruto_makes/articles/3abbd2788c18ce",
+  "source": "Zenn",
+  "summary": "🤔 なぜ「選び方」の話をするのか AI動画生成ツールは毎月のように増えています。使い方の記事はたくさんありますが、「自分の用途にどれが合うか」をどう判断するかの記事は意外と少ない。そこで今回は手順ではなく、選定の考え方を整理してみます。題材にしたのは https://seedance3.si/ で、同じサイト内で複…",
+  "publishedAt": "2026-10-27T19:12:47.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "81565d6a28ee",
   "title": "グーグルDeepMindのペイジ・ベイリー氏、6万ドルの自律走行トラクターが現場投入される中でロボティクスには「ChatGPTの瞬間」が必要と語る",
   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91azVUaTY2M1pnbElhM2FFc3NwcndZZjFMVjduRlVIYTBwcm1qMWdnQVp5MnRiZDlYa2VoMDl0R1AtbG9nVmhVTXFNMnBkazhwem0tOUxtNkM5Zw?oc=5",
@@ -1114,6 +1341,32 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "41cd6a1b907f",
+  "title": "note で有料記事を売り始めたかった。でも、何を設定すれば売っていいのかが分からなかった",
+  "url": "https://zenn.dev/claire_ai/articles/note-yuuryou-iriguchi",
+  "source": "Zenn",
+  "summary": "副業で、AI（Claude Code）を使った作業の記録を記事にしている。2026年10月、その記事を note で有料で売り始めることにした。 ! 🔑 具体的な中身（全体の作り・数字・直し方）は、こちらの記事に書いています この記事では概要だけを書いています👇 https://note.com/claire_a…",
+  "publishedAt": "2026-10-27T19:07:19.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "11e233cc290f",
+  "title": "Downloadsでclaudeを起動すると乗っ取られうる。私のPCも危うい設定だった",
+  "url": "https://zenn.dev/hoshiorange/articles/44-downloads-folder-agent-launch",
+  "source": "Zenn",
+  "summary": "「この ZIP の中身、ちょっと見てほしいな」。そう思って、ダウンロードフォルダでそのまま claude や codex を叩いたことはありませんか。2026年10月、「Downloads フォルダでコーディングエージェントを起動すると乗っ取られうる」という報告が話題になり、気になって自分の PC を点検したら、Co…",
+  "publishedAt": "2026-10-27T19:04:18.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -1151,6 +1404,19 @@
   "source": "ビジネス+IT",
   "summary": "",
   "publishedAt": "2026-10-27T18:58:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ee49179cd31d",
+  "title": "nginx のうしろに AI の門番を置く: 攻撃リクエストを自動で審査する vigilant-heron を10分で試す",
+  "url": "https://zenn.dev/chataclaw/articles/b6ac462ef7c7b3",
+  "source": "Zenn",
+  "summary": "つぎのリクエストがあなたのサイトに届いたとする。 GET /?id=1%20UNION%20SELECT%20password%20FROM%20users シグネチャの WAF なら UNION SELECT のルールで落とせる。 しかし攻撃の書き方は工夫され続けるので、ルールを足しても、書き方を変えられた一撃は通…",
+  "publishedAt": "2026-10-27T18:48:59.000Z",
   "image": "",
   "categories": [
    "other"
@@ -1223,6 +1489,33 @@
   "isPR": false
  },
  {
+  "id": "e53c3b55c95c",
+  "title": "グーグルの未発表「Gemini 5」、自らコードを書き換えるAIへの期待高まる",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mbFFEeHJ1UGdhZk1Ba011LWdKaUVmMTdDS1ZFNzZHWnpJV3QySlQtOUptMFZ4UzRYR0VHZlRIWmJCY0RvR0JTeVBmTm5xSXhmR0hvNXoyX3VOY01ObFhJdVowUXVlUENCa1Awb050Q0hka3Bo?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-27T18:28:00.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "430550ecc267",
+  "title": "【実験ログ】LLMのコンテキスト限界領域におけるアテンション制御と非同期マルチエージェント対話の実証",
+  "url": "https://zenn.dev/notonao/articles/81b04760a7711f",
+  "source": "Zenn",
+  "summary": "はじめに ※投稿者は技術専門家ではなく、本文はAIによって作成したものです。本人の意図せぬ過剰な表現が入っている可能性があります。ご了承ください。 大規模言語モデル（LLM）のコンテキストウィンドウが拡大を続ける現代において、長文処理に伴う指示の忘却（Lost in the Middle）や、文脈の長期化による出力精…",
+  "publishedAt": "2026-10-27T18:14:11.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "9b1e4d7d9736",
   "title": "ドイツ株27日 続伸、AI・半導体関連に買い 仏株も上昇",
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4WFhmcW1TTGs4eUZBSXhGaFMwU0NZLXFzTVRoc2NobUVDUXFDTnZfMDFzZG1aWmxkdmZRdE91VE14dUlObVdEZzQwdnI1MmJjbFc0ZnlheFNSajNfeER3SEFneXhINS1kUEg4Zg?oc=5",
@@ -1288,6 +1581,19 @@
   "isPR": false
  },
  {
+  "id": "9741f454dd57",
+  "title": "株式会社足利銀行、AIによる商談の記録・解析を行う「ナレッジワークAI商談記録」を導入",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXOE5BMl9CejlfV3hUYkY2M2prcndnRjNWc2JHVHBMRXlNQXRmam1MbWFMbG9sa0IzWFc0WkZUZVRGamxiUzN3ZWEybmRRaUIwQ0hBR2hMaGI4TlQ5TEh6S2Z5a1JwN01HLUdfUGVIc3M5Tm5XOTl1LTVUVQ?oc=5",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-10-27T17:45:19.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "7bacae36a226",
   "title": "Claude Fable 5とは？性能・料金・使い方やMythos 5との違いを解説",
   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UWmszX2lWVHNOTHgtUGVkUGo4QXZuTTlvZ3dFX2dJQUhyYTJXeUx4alBPaGN2dURZSVlQZkhNcUNHcGo0QUZQcy1tanV4QXpkYlNWYVA5MlY5UQ?oc=5",
@@ -1298,19 +1604,6 @@
   "categories": [
    "model",
    "dev"
-  ],
-  "isPR": false
- },
- {
-  "id": "430550ecc267",
-  "title": "【実験ログ】LLMのコンテキスト限界領域におけるアテンション制御と非同期マルチエージェント対話の実証",
-  "url": "https://qiita.com/notonao00/items/748c995755dbc7c65faf",
-  "source": "Qiita",
-  "summary": "はじめに ※投稿者は技術専門家ではなく、本文はAIによって作成したものです。本人の意図せぬ過剰な表現が入っている可能性があります。ご了承ください。 ＜本文＞ 大規模言語モデル（LLM）のコンテキストウィンドウが拡大を続ける現代において、長文処理に伴う指示の忘却（Lost ...",
-  "publishedAt": "2026-10-27T17:39:29.000Z",
-  "image": "",
-  "categories": [
-   "case"
   ],
   "isPR": false
  },
@@ -1350,6 +1643,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "059fa346b8b1",
+  "title": "AI巡る混乱も「不可抗力」に、PEが債務の逃げ道模索－貸し手は反発",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DVmowcGc0RUpDbFhwVW1Ld0ItdDJPSk81TENGUVB6U0R0SXdlSTRIaVhHSHpzdndBNDR5MHV3cFZNVmZPMVo4bmZKaTgzdlFndldOUWM5NFl1anJzYzBtOHpldDdETE1qQXlPRXctOVVOU1VEUmVR?oc=5",
+  "source": "Bloomberg.com",
+  "summary": "",
+  "publishedAt": "2026-10-27T17:08:16.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -1622,7 +1928,7 @@
   "source": "Publickey",
   "summary": "Anthropicが開発しているJavaScriptランタイムの「Bun」の新機能として、Prettier互換のフォーマッタ搭載が発表されました。 2026年10月22日付けでリリースされたBun v1.4.4に搭載されたPrettier互換のフォーマッタは「bun fmt」コマンドで起動します。 その上でPrett…",
   "publishedAt": "2026-10-27T15:27:52.000Z",
-  "image": "",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fjavascriptbunprettier300prettier.html",
   "categories": [
    "product"
   ],
@@ -1802,6 +2108,19 @@
   "isPR": false
  },
  {
+  "id": "8197a0786437",
+  "title": "ＡＩ半導体確保に６兆円超、スペースＸ がリース",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jVjA4UVAtTHNLem5lZEpWYU0xQnpqVFNmcGxwUjFSODhnQXFrVHRkMFBHdFFORTZkTDkyNDdGZThJdjQyMFE?oc=5",
+  "source": "NNAアジア",
+  "summary": "",
+  "publishedAt": "2026-10-27T15:03:16.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "47f5f89efbeb",
   "title": "AIに効かせるガードレールとして、RuboCop設定をRails本体と比較して見直した話",
   "url": "https://zenn.dev/tsukulink/articles/342ac67c88c490",
@@ -1837,19 +2156,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "8197a0786437",
-  "title": "ＡＩ半導体確保に６兆円超、スペースＸがリース",
-  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jVjA4UVAtTHNLem5lZEpWYU0xQnpqVFNmcGxwUjFSODhnQXFrVHRkMFBHdFFORTZkTDkyNDdGZThJdjQyMFE?oc=5",
-  "source": "NNAアジア",
-  "summary": "",
-  "publishedAt": "2026-10-27T15:00:00.000Z",
-  "image": "",
-  "categories": [
-   "infra"
   ],
   "isPR": false
  },
