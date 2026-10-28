@@ -1055,12 +1055,12 @@
   "title": "ローカル LLM のエージェントが外へ送ろうとしても困らないように組む。守りと確かめ方と残る穴",
   "url": "https://zenn.dev/maruhana/articles/local-llm-agent-hermes-egress-defense-check",
   "source": "Zenn",
-  "summary": "! 先に、この記事の要約（専門用語なし） AI の会社 Cohere が、ある公開モデルが試験の環境から外のクラウドへ試験用の文字列を送ろうとし、止められた、と報告した。報告自体が「ごくまれ」「悪意かどうかは分からない」と留保している 自分も、Surface でローカルの LLM のエージェント（Hermes）を動か…",
+  "summary": "! 訂正（2026-10-28）：公開直後に、「手元で組むときのコマンド例」の 5 番（icacls）を、PowerShell でそのまま動き、読み取りだけを確実に付け直す形に差し替えました。3 番の curl の終了コードの説明も補いました。 ! 先に、この記事の要約（専門用語なし） AI の会社 Cohere が…",
   "publishedAt": "2026-10-28T10:53:53.000Z",
   "image": "",
   "categories": [
    "product",
-   "infra"
+   "dev"
   ],
   "isPR": false
  },
@@ -2145,6 +2145,19 @@
   "isPR": false
  },
  {
+  "id": "1014d5115137",
+  "title": "AIの導入から“成果”へ デル新社長のジョン・ロボトム氏が掲げる「日本への貢献」と実行力（ITmedia PC USER）",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0pxcUo2T3pEY3lJd1ZDdUw5R1dQTy1MZmVGUEQ2NkFZLWlBcGdGVzZxNDBxRnBtN3RMekFId2RUQWNwXy03d3RULW1LRURkcHJUVkcySThBVS1vZkJQcG1oY0FIWVo1YjgxbV8zR0VOMVFoT1M0MVFnQTN3Ny14MFlXWTlpWHNk?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-28T08:40:08.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "8df9b97343e4",
   "title": "Anthropic、1人社長の創薬企業を買収 「Claude」で小児難病の治療研究",
   "url": "https://japan.cnet.com/article/35254099/",
@@ -2168,19 +2181,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "1014d5115137",
-  "title": "AIの導入から“成果”へ デル新社長のジョン・ロボトム氏が掲げる「日本への貢献」と実行力（1/5 ページ） - ITmedia PC USER",
-  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8teUdqdzNHNTdKRnlLSjFicU5oUm9CQ28zekFDcURwNzJMc0NjTVF4ZzlScXdPS2p2Q1hmZXRHZUtic0VxalNiSkxwREV6YXVxUFc0bDctUXVPZ25XMzc5akNnUnQxTERFVW83bkQ1SdIBaEFVX3lxTE9td201RFJyWlFNQjBwc2JlN2IwWVZwUE1kTS1yTzN1a2hiQm5NOW8xQXBtcWFLV0J1dlJwNG1wbno3YmpndUlJWEN1N0R5OUQ3Q04wMEhhbElOdVYyeGVkelNqZ3BlX0NN?oc=5",
-  "source": "ITmedia",
-  "summary": "",
-  "publishedAt": "2026-10-28T08:35:00.000Z",
-  "image": "",
-  "categories": [
-   "case"
   ],
   "isPR": false
  },
@@ -2463,8 +2463,8 @@
  },
  {
   "id": "1c4c9407f3bf",
-  "title": "7割が「シャドーAI」未対策 Gartner提言・メルカリ事例に学ぶ、正攻法：もう一度読みたい「対策見直し」ニュース（3/3 ページ）",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OZ2lSaGc0c0pZR2dPQmdjRkgwRFFIVGFzX1hETGIzVGlZSHlmRW1YUUQwek9iNE90eVN0Y2Y1NzdDMUhldXBFX1lJSjVzVXZLbnh4cmVyemcxVnBGeEhqeXIydXUxTkltVDVNUFBUMUx6cUYw?oc=5",
+  "title": "7割が「シャドーAI」未対策 Gartner提言・メルカリ事例に学ぶ、正攻法：もう一度読みたい「対策見直し」ニュース（2/3 ページ）",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tcF9mV2luaDhpZnRXNTFQejlqOWhDRUNPNWJtcF94bGVLdG54d21pQUJ3QWg4eFFzejVNbTVSQnV2RGZLTE5EZkhrSnVFZUUtNmVVTVJEam85bjZrcUMwNmtKUXdQbEc3MnNmbTZJR2M3MmM4?oc=5",
   "source": "ITmedia",
   "summary": "",
   "publishedAt": "2026-10-28T08:15:00.000Z",
@@ -2568,7 +2568,7 @@
  {
   "id": "a04ca5f542e7",
   "title": "中国の新たな輸出規制が、同国のAI分野における「至宝」を囲い込む",
-  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wZEVrMVJpZUl1eUJqNWZxOVZfOGQ3aENDc250X21IMTVrMEVadkpNcXZpR2dEMllGNVFxaDdLam84a2FiNXlOc2o3VWxiallmelE0QlFEdldzOEpLMUdDVXF3ckxRcXJPdEhxSFdISm80YjBaWDh3?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45eTdwNWplakM0aDhPNXU4OVppMjhqWWZTZ2VualQ3bWpjOWVkci15a1NvTExqY0xFVEFqekpENG5reUw5UW1EOTRPc0p2Y0pQanlvaGk0T2RwY3VNSXcxSVhkeHc3Rk80LVFFcUdtRUFqbEF5OXNEdg?oc=5",
   "source": "TradingView",
   "summary": "",
   "publishedAt": "2026-10-28T08:02:45.000Z",
@@ -2884,11 +2884,11 @@
  },
  {
   "id": "1d52e037f31d",
-  "title": "マレーシア、空港で1210万ドル相当のＡＩ半導体押収 密輸組織関与か（ロイター）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ScUNOSFN4aW8tSmdPRDNZdW5iMkJNYTdlNmlhWXhXdEVoQm9oRXBwQ2JUX3o0a1JYTFN4X0lueU1WdHdiZVlQNjRpaXBobC1keGE2N1JZbFg5VVh1eEEzZU9xQVFlbk1uUWJJQnNUcVFscTR6bjMxRnRCRmhsRE0?oc=5",
-  "source": "Yahoo!ニュース",
+  "title": "マレーシア、空港で1210万ドル相当のＡＩ半導体押収 密輸組織関与か",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aYVYyVmFTRTlzbjlQb1U5a05RTkR6ZEdoYko4UHNZSF91eXp4UkdCbXdJczdvYzZyNHNJbWJkY0tBZTRhR3hOb3VfSm1rQzJ2MjNfNGN4N0p5VTlrUDFEOTJsZUZCYXJkT1g0OTFrY2d3dmhCSXRBdlhDODdfa1k?oc=5",
+  "source": "Reuters",
   "summary": "",
-  "publishedAt": "2026-10-28T07:22:43.000Z",
+  "publishedAt": "2026-10-28T07:23:43.000Z",
   "image": "",
   "categories": [
    "infra"
@@ -4166,6 +4166,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f0c95b843a12",
+  "title": "GX 半導体関連-日本株式【2644】：今の株価の理由は？値動きの背景をAIが解説",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRNDhKcXRWSGJnNTBSb1k1dHBNSXc4dWlaMVJLdEt0S29uZHZtWWQyVkVGdTRUWWRFQ3FqX19TQUFLUmJ1UDZCb2dUT0dweWlIaWVFS3lvdGtfSUVnSGZN?oc=5",
+  "source": "Yahoo!ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-28T05:06:46.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
   ],
   "isPR": false
  },
@@ -7602,15 +7616,15 @@
  {
   "id": "61e57f16a6f2",
   "title": "【TechSuite株式会社】【業界特化調査 第27弾】AI検索パートナーズ、VC・融資支援・資金調達コンサル選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜首位の登場率12.5%",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pMW1kM2lSb1JKTUdyRk1zUW5KVXZPS2tQNkNfWmdyU09lczE4aU1JZG1adkhJQ05GdG1EaFF2OXI4VGRtb2VtX1k4bDJhdWdDWXk5UmV5NU5VT1dQTENpQmJacGtIM29fRlE?oc=5",
-  "source": "PR TIMES",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yMjU5UmFfamo2R2tHN2VvSW5YbXBKVUlYWHdkWjhnM3BNMlJFQzQyMTk4VDh2bXk0a3NvUlltcDMxRnNtVG1kb092U3FHQ0hJSVhYM3FSWjRRWlVjUHlXZVdabkZyMWdnZnlFeE1CSE9TdzM3cHE2NXRLdw?oc=5",
+  "source": "産経ニュース",
   "summary": "",
-  "publishedAt": "2026-10-28T00:00:02.000Z",
+  "publishedAt": "2026-10-28T00:00:00.000Z",
   "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
   "categories": [
    "business"
   ],
-  "isPR": true
+  "isPR": false
  },
  {
   "id": "fa2ff3b54ef1",
@@ -10335,6 +10349,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b1bc1d6a9170",
+  "title": "「舵取り役に人間はいない」 – AIエージェントに企業全体の運営を任せるデラウェア州の法案",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa0NTY1BudmlZclVzb25oNXVsME9mUk5JY3AwckZvUEw5cm5LVlNZLWVFYlEtXzFPNmRrcXBSa0J3TWhYcmxFcEMtRFZjSDVLTXFpeFdINHZadGgwejRNbE5IcWpUQ0UyMDNoOFNCZms4M2RpYXdCRWsyc2xQUjlPOUVTMFBhSTZHeFc4aTI5c0I?oc=5",
+  "source": "Mezha.net",
+  "summary": "",
+  "publishedAt": "2026-10-27T16:00:00.000Z",
+  "image": "",
+  "categories": [
+   "policy"
   ],
   "isPR": false
  },
