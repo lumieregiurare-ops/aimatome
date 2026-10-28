@@ -1,5 +1,31 @@
 [
  {
+  "id": "05437ea0fb68",
+  "title": "手のひら画像から線を説明する：娯楽向けビジョン×LLMパイプラインの注意点",
+  "url": "https://qiita.com/palmreader/items/cd0f9d0ef29ce840ea1c",
+  "source": "Qiita",
+  "summary": "スマホで手のひらを撮って結果を読む——手軽な体験の裏では、ビジョンモデルと説明文生成のつなぎ方、そして「何を約束しないか」の境界設計が重要です。本稿では公開されている日本語の説明を手がかりに、Palm Reader のような娯楽向けパイプラインを組むときのメモを残します。手...",
+  "publishedAt": "2026-10-28T15:48:41.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c9260f6a845c",
+  "title": "OpenAIがGoogleのTPUを購入する準備、コンパイラ技術者を募集",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTTBfZ2htb0I1eTBEbnJDRkdvRUlBRU4tMElTa0ZwTFFZYnJseTZ3LV9SNUZRMkhlVGd1S0RjUGZsUS0zX1ZSZ19ybGZfbC1tbU05LXE1RHFtTWp2N2NMLXl4M3JUeE44U0pwMGhUTHJ5Zk9ZWDF1NWo0NmFZcEs1OHVMbw?oc=5",
+  "source": "Pasquale Pillitteri",
+  "summary": "",
+  "publishedAt": "2026-10-28T15:43:20.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "d499e93153c3",
   "title": "オラクル、社員が業務アプリをAIで自動作成、Oracle Cloud上で共有できる「Oracle App Composer」発表。Oracle AI World 2026",
   "url": "https://www.publickey1.jp/blog/26/aioracle_cloudoracle_app_composeroracle_ai_world_2026.html",
@@ -13,15 +39,42 @@
   "isPR": false
  },
  {
-  "id": "13e9a7401d41",
-  "title": "Amazon、“生成AI”アシスタント「Alexa＋」日本上陸。早期アクセス無料",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xc1ZwcU1FUWJEZ3RzZHZSS1NpNkhrLTVkRlZaRGZwUXllcHZ3dnBSS3pldEtkbVZPY0hiMTlHODNDNGZwbkkzbmNpR0psc1ZkN3dZMW1DcUlRSnl0TXEtdWdRYmJyaTBaUDZjWkpmQk1ScVZJMXZIcHIwTdIBgAFBVV95cUxNSnMxbXZtUlNTbXRMckNaTXF2TG9Zc0x4NVdXV0lvSnlpN2ZqejNSeFBCT3g3UHBmRXZVdzI3Z1c1STc5WVhwVGVzTzhlLURrcHF0bEMzaWNOQUhiVUdGLW55UDNWdXp2eHdidWlUNGtEelFqWFRWd0NfLUNTdHBLYw?oc=5",
-  "source": "ｄメニューニュース",
+  "id": "84df89ad7d8c",
+  "title": "物語から歌詞を組み立てる：パーソナライズ曲ギフトのプロンプト設計メモ",
+  "url": "https://qiita.com/oncesong/items/d101b257764121dce861",
+  "source": "Qiita",
+  "summary": "記念日や誕生日に「棚から買えるものではない」贈り物を探すと、体験設計が難しいことに気づきます。写真やメッセージカードは手軽ですが、相手の名前や二人だけのエピソードを繰り返し聴ける形に残すには、生成パイプライン側の制約整理が必要です。ここでは公開されている日本語の説明をもとに...",
+  "publishedAt": "2026-10-28T15:38:39.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4e549eeacfe6",
+  "title": "Uravation、「画像・動画・音楽 生成AI",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aM2FmWktiSG9kZFRtQ2FaRzlwckRpY2ZDSUhTRE9YMENzbEp6R3NtUVpvYTU0Wm90b3NNQmMxa2xoMS1XZENkdWNzd0lzLUpGNUtkV0xwVWgwQllLVkJ5Q2lhY19CUQ?oc=5",
+  "source": "ニコニコニュース",
   "summary": "",
-  "publishedAt": "2026-10-28T15:15:06.000Z",
+  "publishedAt": "2026-10-28T15:15:28.000Z",
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9d3341fb894e",
+  "title": "Ubuntu で desktop しつつ GPU local LLM 実行のための RAM/GPU リソース削減メモ",
+  "url": "https://zenn.dev/syoyo/articles/91662b2305f2d6",
+  "source": "Zenn",
+  "summary": "ブラウザ開いたり terminal 開いたりしつつも local LLM 動かしたい 3D graphics もだけど, Windows と比べると GPU 処理に負荷かかると Desktop windowing(X11, Wayland)が遅くなったりしたり, desktop app で結構 VRAM 使っていたり…",
+  "publishedAt": "2026-10-28T15:14:27.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "infra"
   ],
   "isPR": false
  },
@@ -52,12 +105,64 @@
   "isPR": false
  },
  {
+  "id": "0f0f130ae8e4",
+  "title": "スキャナーはコンテナへ、AIには承認を。OSSのASM基盤「OASM」の設計を読み解く",
+  "url": "https://zenn.dev/mizhm/articles/b9e9955b60c5bd",
+  "source": "Zenn",
+  "summary": "! 筆者は OASM の開発メンバーです。この記事では機能紹介よりも、「どう作っているか」「なぜそうしたか」を、実際のコードを引用しながら書きます。コードは執筆時点の main ブランチのものです。 なぜ「外から見える資産」なのか 警察庁の集計では、2026年上半期のランサムウェア被害報告は123件で、半期として過去…",
+  "publishedAt": "2026-10-28T15:08:39.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "08dabf9c170f",
+  "title": "中央銀行、ＡＩ の資金調達リスクに警鐘",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB1OFNTbzhXZDdjX1Z4YlJKQXg5bjJvTHNWUmtTb0Y0Snh5SDdYdFlnZzlac1BPVEFoaU9xbmF2M19iMjc3akE?oc=5",
+  "source": "NNAアジア",
+  "summary": "",
+  "publishedAt": "2026-10-28T15:05:05.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
   "id": "85aab930de14",
   "title": "アマゾン、生成AIで喋るAlexa+の早期アクセス開始。終了後は月3000円、プライム会員は無料",
   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSSElZOVBhdWQ5aUpRdG9ZWXVRT0Ywb0p0bmhpSjU3b2Z6QVY5MHJuVWxrZmlacm83Wk1HRHl1VnRuYkluMjhLYkY5Smtla3FNTkF5SVJUTTNYY29hdmc3cDdLNUdzR0U?oc=5",
   "source": "テクノエッジ TechnoEdge",
   "summary": "",
   "publishedAt": "2026-10-28T15:03:58.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "cbbd45c9bbcb",
+  "title": "Amazon、生成AI搭載の次世代パーソナルアシスタント、「Alexa+」を国内で提供開始",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcnMxVGt0ZE50aXFzSV9wVDlEelhSdEZFT09US2dzSTl2NTZIcU1kYVBFaTE3MlpIRUFuVjlCdVJSem5sZXZSckp0eEVsNnd1Slg5VkgzS1VSWW5FVlhRZTkzTmJqOFV2YXZKZjBDVXJyZWNMQUFnSG45MmV1Nks0aA?oc=5",
+  "source": "About Amazon Japan",
+  "summary": "",
+  "publishedAt": "2026-10-28T15:03:53.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b40737c98e6a",
+  "title": "AIは私の「証明されました」を疑わなかった ── 統計の素人が、AIと一緒に仮説を殺すまで",
+  "url": "https://zenn.dev/charat55/articles/ai-auditor-keiba",
+  "source": "Zenn",
+  "summary": "はじめに 前回の記事「競馬AIを作り込んだら、市場の粗いコピーになった」で、私は次のことを書いた。 当日の確定オッズに対して、お金になる情報は見つからなかった。 途中でエッジに見えるものが何度も現れ、検証するたびに消えていった。 この記事は、その検証の裏側の話だ。 私は統計の専門家ではない。検定の名前も、ほとんどはA…",
+  "publishedAt": "2026-10-28T15:03:19.000Z",
   "image": "",
   "categories": [
    "other"
@@ -84,6 +189,19 @@
   "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-10-28T15:01:31.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "13e9a7401d41",
+  "title": "Amazon、“生成AI”アシスタント「Alexa＋」日本上陸。早期アクセス無料",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPLU85YjQ1Y3Z4SzZZU0p3Z0N2Q1BJQkRQTzNKUlY0NGdrVVA0d25yNHVJX3FfY3hlQ1llTmlUd0tEeW5GelYxRExqUW1Ib1YxMWpsTloxbVhLTUl6R2NORnlvOA?oc=5",
+  "source": "AV Watch",
+  "summary": "",
+  "publishedAt": "2026-10-28T15:00:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -171,26 +289,13 @@
  {
   "id": "9a2beeb7cdbb",
   "title": "【11月特集予告】ChatGPT、Claude、Geimni、3大AIプラットフォーム徹底比較、新想起ランキング、EC攻略法",
-  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzk5VUJSSWYya2F1U1I3N3dyRHpMRk9Za3N4VXRkQlpaRkZNbUNlb19CdGxPdGVBT1dEQURJeUtHZ2lSQll0OWROaDMwTmY5Ym9kd3Z1Z04yNzhOQ0RTMXcwNEhaNy1IeFdUMGZ2eHYxOFRoM1UzWjJjM3JIWDVvYWF5THFfSjRzUExr?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQUROM2plcFBTckJNTlhVT3NWWi1ZNEJVWHI3SjZYcnA4ZHR3NlJ0eXJzVHM3UW1zcmE2aWtTMkxoMjhPVzZKVFFSLVBoUGMwYXphRDBLWE54bGl0Y0h6ekRLUzVldmE0b3FsUXB2b2ZTR0oyd3JXcVJjTFFpY01SekdxU3luWWFLZVFz?oc=5",
   "source": "日経クロストレンド",
   "summary": "",
   "publishedAt": "2026-10-28T15:00:00.000Z",
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "08dabf9c170f",
-  "title": "中央銀行、ＡＩの資金調達リスクに警鐘",
-  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB1OFNTbzhXZDdjX1Z4YlJKQXg5bjJvTHNWUmtTb0Y0Snh5SDdYdFlnZzlac1BPVEFoaU9xbmF2M19iMjc3akE?oc=5",
-  "source": "NNAアジア",
-  "summary": "",
-  "publishedAt": "2026-10-28T15:00:00.000Z",
-  "image": "",
-  "categories": [
-   "business"
   ],
   "isPR": false
  }
