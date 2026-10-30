@@ -5,28 +5,49 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-10-30T11:30:19.949Z</updated>
+  <updated>2026-10-30T12:00:22.377Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>MCPツールの権限設計と危険なツール呼び出しを防ぐ実践ガイド</title>
+    <link href="https://qiita.com/aidocs/items/79f61f86f3da8698bf4a"/>
+    <id>https://aimatome.gamelab.website/#e2e143c0197c</id>
+    <updated>2026-10-30T12:00:07.000Z</updated>
+    <summary>Qiita ／ MCP（Model Context Protocol）では、LLMが外部のAPI、データベース、ファイルシステムなどを操作できます。便利な一方で、ツールを追加するだけでモデルに強い権限を与えてしまう危険があります。 結論から言うと、readOnlyHint などのメタデータ...</summary>
+  </entry>
+  <entry>
+    <title>開発途中でAIモデルやエージェントを替えても品質を落とさない：リポジトリに残す3原則</title>
+    <link href="https://qiita.com/lumichy/items/2165d8f0dd84cc5e351a"/>
+    <id>https://aimatome.gamelab.website/#be543496a919</id>
+    <updated>2026-10-30T11:47:56.000Z</updated>
+    <summary>Qiita ／ AIコーディングエージェントを使った中〜大規模な開発では、途中でモデルやエージェントを替えなければならない場面が必ず出てきます。 コストの見直し、新しいモデルの登場、利用できるプロバイダーの変更、レートリミット（利用上限）への到達、あるいは社内で使うツールの変更（Clau...</summary>
+  </entry>
+  <entry>
+    <title>「使い捨てだからOK」はAIに通じなかった話</title>
+    <link href="https://qiita.com/scottlz0310/items/afcc23ffd7dea8c9f588"/>
+    <id>https://aimatome.gamelab.website/#02d2d4810cec</id>
+    <updated>2026-10-30T11:46:44.000Z</updated>
+    <summary>Qiita ／ 私のリポジトリには AGENTS.md があり、「Node ではなく Bun を使う」と定めています。それでも AI（Claude）は、作業の最初の段階で Node を選びました。 Renovate を実行しようとしたところ、Renovate がこの環境の Node（v26...</summary>
+  </entry>
+  <entry>
+    <title>ターゲットはインバウンド富裕層 富山空港で導入検討 観光案内するAI搭載車 富山県</title>
+    <link href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1cDllZlMxSzc3TDRDcXJueTJEcmpyWU9IQjRlbXBLaE5MTGxzbWwwQWdzWFp6bE1SX1hkeHFvcjB3d1pJblpHQ012bzdiUWRWeW1BZVJfY0lLdjJKa25HVG5tQVh1amd40gFuQVVfeXFMT3ZLX1Fpckh4OUp2S1JmQlgxUXlvQ0hBZkthaXh4NlU1TGV1TmIyUmJzVnd1ZWlPNjVBYW5BM2d6bjFwYjlQYTM5U0ZUQlAzLW5ZeDczeGIxQmN0WEJSOUFXQXRfaG1wTjhORFMxcUE?oc=5"/>
+    <id>https://aimatome.gamelab.website/#06019c66e370</id>
+    <updated>2026-10-30T11:40:00.000Z</updated>
+    <summary>Infoseek</summary>
+  </entry>
+  <entry>
+    <title>ドル円157円台、米中間選挙「ブルーウェーブ」警戒で上値重く AI規制強化がドル売り要因に</title>
+    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBWWklaTVJnbm5vWEkxMzA4RGJvc2hKOW4xTmc2WG5TNUZnV3ZTTTFIVUtxdENHVWc1bXI5dUJMR29OQUpTU1ZLdVZRT21FUzlwbEZJWTlwVGg3WWJCdHZNTFdzbjFtdW5kWTBVSHFwSTJXTXFr?oc=5"/>
+    <id>https://aimatome.gamelab.website/#f9b149be5547</id>
+    <updated>2026-10-30T11:26:00.000Z</updated>
+    <summary>BigGo ファイナンス</summary>
+  </entry>
   <entry>
     <title>最新技術トレンドから見る「信頼性の担保」と「知識の構造化」について</title>
     <link href="https://qiita.com/Necoze/items/e456fdd2a10837517327"/>
     <id>https://aimatome.gamelab.website/#e83bc7071a2e</id>
     <updated>2026-10-30T11:15:58.000Z</updated>
     <summary>Qiita ／ 最近の技術動向をいくつか見てみると、「信頼性の担保」と「知識の構造化」というテーマが浮かび上がってきます。今回は、セキュリティの根幹に関わる認証技術の進化と、高度なAI資格試験の攻略という二つの視点から、現状の技術的な課題とアプローチについて考察していきます。 1. 証明...</summary>
-  </entry>
-  <entry>
-    <title>Copilot Studioをもっと知る(要件定義編)</title>
-    <link href="https://qiita.com/YukiSaku_2FC/items/752b0bad91bf89404d01"/>
-    <id>https://aimatome.gamelab.website/#a94a0a715171</id>
-    <updated>2026-10-30T11:13:48.000Z</updated>
-    <summary>Qiita ／ はじめに 私は普段デザイナーとして働いていて、最近はCopilot StudioでAIエージェントを作ることに挑戦しています。この記事はシリーズの9本目です。 デザイナー畑の方で、これからAIに触ってみようとしている方に向けて書いています。 前回の記事： https://...</summary>
-  </entry>
-  <entry>
-    <title>AI生成の楽曲を配信し続けるための下回り：メタデータ管理と申請前チェックの自動化</title>
-    <link href="https://qiita.com/kab_ai_lab/items/7eaafd1e456c05a46fe9"/>
-    <id>https://aimatome.gamelab.website/#24df825e00e7</id>
-    <updated>2026-10-30T11:12:38.000Z</updated>
-    <summary>Qiita ／ こんにちは。集中してたはずが、気づいたら机の配線を全部組み直してました。ADHD社長です。 本業は音楽まわりの仕事をしていて、AIで生成した楽曲の配信運用も担当しています。本記事では楽曲そのものではなく、生成後から公開までの運用をどう実装寄りに整えたかを書きます。生成の話は...</summary>
   </entry>
   <entry>
     <title>重さは899g、メモリは32GB！ 軽さも中身も妥協しないASUS「Zenbook SORA」がAmazonタイムセールに</title>
@@ -57,20 +78,6 @@
     <summary>DXマガジン</summary>
   </entry>
   <entry>
-    <title>AvatarCraft AIで写真から短い発話動画を作る：5サンプルで確認した入力条件と評価手順</title>
-    <link href="https://qiita.com/carolluoyiyi/items/6bdd21ea23624266367c"/>
-    <id>https://aimatome.gamelab.website/#2968cba88cd9</id>
-    <updated>2026-10-30T10:54:56.000Z</updated>
-    <summary>Qiita ／ この記事で扱うこと 静止画の顔に音声を合わせて動画化するツールを選ぶとき、デモの印象だけでは実運用の判断が難しい。入力画像の条件、音声の用意、生成後の確認、クレジットの見積もりを分けて見る必要がある。 本稿ではAvatarCraft AIのTalking Photoを使い...</summary>
-  </entry>
-  <entry>
-    <title>Anthropicのエージェント型AIに関するCISO向けガイドと、それ自体の欠落</title>
-    <link href="https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xd0xBZ0FLT0dRVk1FZkxVT3BFWDdqNUZXYW5ZdTJxdUVwR1NRVk5nRHZHTkFNdG1kdUN3S3ltNVNXbEl2R0hVdzRPbEJnWUJHUzZpc1FuYUFzOFhQUEZJcmZNLTVOYVBzQUZjUlg3Rl9TVS15RGk4ZjdZQlVvdw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#9c37964d84a6</id>
-    <updated>2026-10-30T10:53:26.000Z</updated>
-    <summary>OrcaRouter</summary>
-  </entry>
-  <entry>
     <title>国内AIエージェントの社会実装動向と自律的暴走を抑止するサイバーセキュリティ・ガバナンスの最前線</title>
     <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE85S1h3c2VVR0tJWklLcXNQRDJFTWFNS3Z3eVNjSkFXYm43STF6VWpBSmFfOGxxalJ6ZTVIU09vSG1PRkRFSlVYZ1FuSHpyRGlqcms4?oc=5"/>
     <id>https://aimatome.gamelab.website/#913cd2542fe7</id>
@@ -83,6 +90,13 @@
     <id>https://aimatome.gamelab.website/#c7360424a314</id>
     <updated>2026-10-30T10:49:11.000Z</updated>
     <summary>FNNプライムオンライン</summary>
+  </entry>
+  <entry>
+    <title>キオクシア中間純利益、前年同期比37倍の2.2兆円 AI半導体の堅調が追い風</title>
+    <link href="https://news.google.com/rss/articles/CBMidkFVX3lxTE50TTNUZjVBZVVya1dRbVBTRUxpU1p1SEZiekloSnY4bDNpMDVzaThaSWk3Q2VwelFHSW9IWVZsa2JyNDNUTkRtS0tSN0pTQ0ZwOTNFclZTSVVxYVVfSGRWVnpPcmFOTkY3SllGTXdPeHFhb2tKTXc?oc=5"/>
+    <id>https://aimatome.gamelab.website/#a2476f932b1f</id>
+    <updated>2026-10-30T10:41:45.000Z</updated>
+    <summary>産経ニュース</summary>
   </entry>
   <entry>
     <title>AI生成曲検知 JASRACが導入検討</title>
@@ -113,6 +127,13 @@
     <summary>Unite.AI</summary>
   </entry>
   <entry>
+    <title>CopilotでClaudeが使える？仕組みと設定方法を解説</title>
+    <link href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uVzNQb0pnNUZ1VG5HMHdjYlZoRV9qNlhHNVlMcTFaSnhEaEVJRk1xVnNPNDFoMEd4eXV6d2FHUHR4ejFCQV8wMXVJY0J1TXdsNW52bkt0QnRZVnZScGNnRXM4NA?oc=5"/>
+    <id>https://aimatome.gamelab.website/#d372ddc50236</id>
+    <updated>2026-10-30T10:15:23.000Z</updated>
+    <summary>AIsmiley</summary>
+  </entry>
+  <entry>
     <title>〔決算〕NGK、今期業績予想を上方修正＝AI半導体需要の高まりで(時事通信)</title>
     <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPUDVtb3RmTG02dENzLVZOWWpQbTdscmFwS0E3WHB1S1R4Rnc1M3FnNVc2akJkbng5ajNTYV93ZXhNWGVuZ2pFaUFmOVhOYklfdnZjZkZYMVN2UVp4cVVpcGJ1R2FMTm5hcjRHS1B0c1dMQWJScGZaS2E2eU5sN2VIR0R6bVZRVUE?oc=5"/>
     <id>https://aimatome.gamelab.website/#62e3d95b1819</id>
@@ -132,6 +153,13 @@
     <id>https://aimatome.gamelab.website/#e8689a3d3b5f</id>
     <updated>2026-10-30T10:02:19.000Z</updated>
     <summary>@DIME アットダイム</summary>
+  </entry>
+  <entry>
+    <title>AIエージェントの新潮流、「スキル」「ループ」「ハーネス」</title>
+    <link href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MTVZXZktqaVJ3VlJUVzgzVGtYWGhmREg5Zk5hSG5CUElYenVVbjFRR2pkWElBZExiVGdHMmpkOHI5M0hHcHR4LXJXd3k0RHd0UVZ5aVllbEttSFpGVGFR?oc=5"/>
+    <id>https://aimatome.gamelab.website/#e08f09f9fae3</id>
+    <updated>2026-10-30T10:02:12.000Z</updated>
+    <summary>日経クロステック</summary>
   </entry>
   <entry>
     <title>【Sakana AI CEOに直撃】 元Google研究者が語るグローバルAIの現在地 ／世界のAI勢力図／ChatGPT登場から3年で激変／日本の勝ち筋は？／AI主権は？／日本の防衛とAI</title>
@@ -162,18 +190,11 @@
     <summary>BigGo ファイナンス</summary>
   </entry>
   <entry>
-    <title>Linuxの重大脆弱性「CVE-2026-98432」 Claudeが二段階の遠隔攻撃を実証</title>
-    <link href="https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqNUlEallYYmpFMUM2N0x2eWN4WTdOQ3BOUy1tZjVDbzRBeU9zWlJHRExMTkFYaWlNUG1rTVhidi1QUDRuVkRQWFIxYnhYQUVhdnJFVlhpVGl2LTFzZTVaSEtZVlA?oc=5"/>
-    <id>https://aimatome.gamelab.website/#04008a4b3ba6</id>
-    <updated>2026-10-30T09:54:49.000Z</updated>
-    <summary>NOVAIST</summary>
-  </entry>
-  <entry>
-    <title>生成AIを使わない“人の手で作ったゲーム”を集めた世界規模のインディーゲームショーケース「Games Without AI」始動！11月25日配信へ</title>
-    <link href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CY0MxZ3I0UWdscmFwMl9nS2lIcC1ETXh5Y3hvcXN1WWpad1RBc3BPT0F5ZmJkVmYtWlBTTHlIR2ZXcXdacjJNaGJkZzBkUEFzU19LQWxrOHFmYTdva0YxaEJpQU5wUQ?oc=5"/>
+    <title>生成AIを使わない“人の手で作ったゲーム”を集めた世界規模のインディーゲームショーケース「Games Without AI」始動！11月25日配信へ（Game Spark）</title>
+    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTFA3ZG52ZU5ZOGhMRUQyNGhqdnNUam9CR05hSm1HUEt5VGt5RHhuVEpTRGdzMXNWMEpQcE1mVWpUcnpZUHJXMUZ6Rk1zUmc4MFJLRGUwRFhQZWFxcTdpX0E2V0NzcXRBZHg2M09VR19mbUxvM1dMYkItTHltUEw2b0E?oc=5"/>
     <id>https://aimatome.gamelab.website/#78146e5d0847</id>
     <updated>2026-10-30T09:45:02.000Z</updated>
-    <summary>Game*Spark</summary>
+    <summary>Yahoo!ニュース</summary>
   </entry>
   <entry>
     <title>複数ツールに分散した採用業務を一つに。Zoth Consulting、応募から面接着座までを最速化する採用AI「ゾスAI」を提供開始</title>
@@ -246,13 +267,6 @@
     <summary>日本経済新聞</summary>
   </entry>
   <entry>
-    <title>AI時代の新人教育 18社の試行錯誤</title>
-    <link href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CMmFDY3NnRVpfTTNuYXlzYmNOOWM0THhuVWpmeDZFV3BDVFU2OXVDTlNVYUNnMDZzYzdTTjlYZWJXNldMUzdqc0EtckFjMzhVOEFOUHctS29XRWVvZkdR?oc=5"/>
-    <id>https://aimatome.gamelab.website/#dcde04500e7f</id>
-    <updated>2026-10-30T09:22:40.000Z</updated>
-    <summary>日経クロステック</summary>
-  </entry>
-  <entry>
     <title>日経平均株価 一時1900円安 AI・半導体銘柄が下落</title>
     <link href="https://news.google.com/rss/articles/CBMickFVX3lxTE9GMlE2eGU1RmZYWHRueUdXUWxEUVRqQjNNUk0xTWtGR2FPdmVVakdlbUszcHhnbFJWLVlTem5FT1NzNV8yMkw0a2ZyOHQ0cUFReExzMEF1RDNYcHN5THE0RkJEXzFjN1I2Y1lSWkJrYl9ZZw?oc=5"/>
     <id>https://aimatome.gamelab.website/#721771ddc14a</id>
@@ -286,13 +300,6 @@
     <id>https://aimatome.gamelab.website/#66d1111f8499</id>
     <updated>2026-10-30T09:14:38.000Z</updated>
     <summary>株式会社インプレス</summary>
-  </entry>
-  <entry>
-    <title>サイバー防衛とコーディングが大幅進化！Googleが新世代モデル「Gemini 4 Carbon」を発表</title>
-    <link href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KRUlqT1hBZVczeVlVblVfWTZIT2NtRGJuTVlNajVaZzZwdEpwWGo5eFNNbzZ1X0tMNC1qUFFmRnhaNUExZG5KV2JnbU1XTEE?oc=5"/>
-    <id>https://aimatome.gamelab.website/#8a3edddcc2a2</id>
-    <updated>2026-10-30T09:14:29.000Z</updated>
-    <summary>DXマガジン</summary>
   </entry>
   <entry>
     <title>AIニュースを1時間追う前に、「明日から自分の仕事でどう使えるか」を10分だけ。経営者向けPodcast「岡田崇の毎日AIニュース『聴いたら寝ろ。』」配信中</title>
@@ -337,24 +344,17 @@
     <summary>ASCII.jp</summary>
   </entry>
   <entry>
+    <title>Geminiがチャット内で文書の生成・プレビュー・編集が可能に PDFやスライドにも対応</title>
+    <link href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlaFJUNHFRd3hGTVdmcFg1MHRTTVNRel9wMGJ4YUg0LUpZNk1BYmM2bXpiSUJTOGpRdEZtNmdHUkhqaERjZEk5TWI4eXdDemZVQVp6dEJGQ3A2elNCVkZ2bGN3TXRTaFZh?oc=5"/>
+    <id>https://aimatome.gamelab.website/#6b46f1158c41</id>
+    <updated>2026-10-30T09:00:35.000Z</updated>
+    <summary>ニコニコニュース</summary>
+  </entry>
+  <entry>
     <title>全12曲を収録！ Switch 2版『時のオカリナ』連動の電子オカリナ</title>
     <link href="https://ascii.jp/elem/000/004/447/4447338/?rss"/>
     <id>https://aimatome.gamelab.website/#8db329cac2c0</id>
     <updated>2026-10-30T09:00:00.000Z</updated>
     <summary>ASCII.jp ／ Amazon.co.jpにて、任天堂が11月5日に発売する『ゼルダの伝説 時のオカリナ』の音声認識機能と連動するライセンス商品「エレクトリック 時のオカリナ」が予約受付中です。HORI製で価格は7981円です。</summary>
-  </entry>
-  <entry>
-    <title>【ＡＩ開発減速】ライバル企業、異例の同調 実効性ある規制は未知数</title>
-    <link href="https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnclNZbnNaREJJa1FCSUhqYWo1OEVobWlGUDVLRzduYnNPLWRoRUdkQk0wNm55NUxxc3dQMnNvOUt6bVAtWTViSHk0OTZ2SEZKTEE?oc=5"/>
-    <id>https://aimatome.gamelab.website/#4ab169220478</id>
-    <updated>2026-10-30T08:57:25.000Z</updated>
-    <summary>山陽新聞</summary>
-  </entry>
-  <entry>
-    <title>国会答弁支援AIを導入 霞が関 職員の負担軽減へ</title>
-    <link href="https://news.google.com/rss/articles/CBMiS0FVX3lxTFBUenJlX2ktdTlDNVZHSF91NTRJOW0zaTNwUFFpUkwtX09RRUZ1ZmV5QjkxRjVsb2VBYUJ2TUdrNm1ULXBfb0pyN25rNA?oc=5"/>
-    <id>https://aimatome.gamelab.website/#53293c8b68ff</id>
-    <updated>2026-10-30T08:57:02.000Z</updated>
-    <summary>47NEWS</summary>
   </entry>
 </feed>

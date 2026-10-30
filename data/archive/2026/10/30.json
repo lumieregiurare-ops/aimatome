@@ -1,5 +1,71 @@
 [
  {
+  "id": "e2e143c0197c",
+  "title": "MCPツールの権限設計と危険なツール呼び出しを防ぐ実践ガイド",
+  "url": "https://qiita.com/aidocs/items/79f61f86f3da8698bf4a",
+  "source": "Qiita",
+  "summary": "MCP（Model Context Protocol）では、LLMが外部のAPI、データベース、ファイルシステムなどを操作できます。便利な一方で、ツールを追加するだけでモデルに強い権限を与えてしまう危険があります。 結論から言うと、readOnlyHint などのメタデータ...",
+  "publishedAt": "2026-10-30T12:00:07.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "be543496a919",
+  "title": "開発途中でAIモデルやエージェントを替えても品質を落とさない：リポジトリに残す3原則",
+  "url": "https://qiita.com/lumichy/items/2165d8f0dd84cc5e351a",
+  "source": "Qiita",
+  "summary": "AIコーディングエージェントを使った中〜大規模な開発では、途中でモデルやエージェントを替えなければならない場面が必ず出てきます。 コストの見直し、新しいモデルの登場、利用できるプロバイダーの変更、レートリミット（利用上限）への到達、あるいは社内で使うツールの変更（Clau...",
+  "publishedAt": "2026-10-30T11:47:56.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "02d2d4810cec",
+  "title": "「使い捨てだからOK」はAIに通じなかった話",
+  "url": "https://qiita.com/scottlz0310/items/afcc23ffd7dea8c9f588",
+  "source": "Qiita",
+  "summary": "私のリポジトリには AGENTS.md があり、「Node ではなく Bun を使う」と定めています。それでも AI（Claude）は、作業の最初の段階で Node を選びました。 Renovate を実行しようとしたところ、Renovate がこの環境の Node（v26...",
+  "publishedAt": "2026-10-30T11:46:44.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "06019c66e370",
+  "title": "ターゲットはインバウンド富裕層 富山空港で導入検討 観光案内するAI搭載車 富山県",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1cDllZlMxSzc3TDRDcXJueTJEcmpyWU9IQjRlbXBLaE5MTGxzbWwwQWdzWFp6bE1SX1hkeHFvcjB3d1pJblpHQ012bzdiUWRWeW1BZVJfY0lLdjJKa25HVG5tQVh1amd40gFuQVVfeXFMT3ZLX1Fpckh4OUp2S1JmQlgxUXlvQ0hBZkthaXh4NlU1TGV1TmIyUmJzVnd1ZWlPNjVBYW5BM2d6bjFwYjlQYTM5U0ZUQlAzLW5ZeDczeGIxQmN0WEJSOUFXQXRfaG1wTjhORFMxcUE?oc=5",
+  "source": "Infoseek",
+  "summary": "",
+  "publishedAt": "2026-10-30T11:40:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f9b149be5547",
+  "title": "ドル円157円台、米中間選挙「ブルーウェーブ」警戒で上値重く AI規制強化がドル売り要因に",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWWklaTVJnbm5vWEkxMzA4RGJvc2hKOW4xTmc2WG5TNUZnV3ZTTTFIVUtxdENHVWc1bXI5dUJMR29OQUpTU1ZLdVZRT21FUzlwbEZJWTlwVGg3WWJCdHZNTFdzbjFtdW5kWTBVSHFwSTJXTXFr?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-30T11:26:00.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "e83bc7071a2e",
   "title": "最新技術トレンドから見る「信頼性の担保」と「知識の構造化」について",
   "url": "https://qiita.com/Necoze/items/e456fdd2a10837517327",
@@ -145,6 +211,19 @@
   "isPR": false
  },
  {
+  "id": "a2476f932b1f",
+  "title": "キオクシア中間純利益、前年同期比37倍の2.2兆円 AI半導体の堅調が追い風",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50TTNUZjVBZVVya1dRbVBTRUxpU1p1SEZiekloSnY4bDNpMDVzaThaSWk3Q2VwelFHSW9IWVZsa2JyNDNUTkRtS0tSN0pTQ0ZwOTNFclZTSVVxYVVfSGRWVnpPcmFOTkY3SllGTXdPeHFhb2tKTXc?oc=5",
+  "source": "産経ニュース",
+  "summary": "",
+  "publishedAt": "2026-10-30T10:41:45.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3cc1f267bdba",
   "title": "AI生成曲検知 JASRACが導入検討",
   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwQVZLZ21ndU9iWDY5NjlGd1B5ZURhenVreWJ5bU9lYjFJdGx5UERGYUV0ZTRrbWpuRlhUQUpmcXp6cklYNkkzRi1Ocnp6THYt?oc=5",
@@ -197,6 +276,19 @@
   "isPR": false
  },
  {
+  "id": "d372ddc50236",
+  "title": "CopilotでClaudeが使える？仕組みと設定方法を解説",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uVzNQb0pnNUZ1VG5HMHdjYlZoRV9qNlhHNVlMcTFaSnhEaEVJRk1xVnNPNDFoMEd4eXV6d2FHUHR4ejFCQV8wMXVJY0J1TXdsNW52bkt0QnRZVnZScGNnRXM4NA?oc=5",
+  "source": "AIsmiley",
+  "summary": "",
+  "publishedAt": "2026-10-30T10:15:23.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "62e3d95b1819",
   "title": "〔決算〕NGK、今期業績予想を上方修正＝AI半導体需要の高まりで(時事通信)",
   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUDVtb3RmTG02dENzLVZOWWpQbTdscmFwS0E3WHB1S1R4Rnc1M3FnNVc2akJkbng5ajNTYV93ZXhNWGVuZ2pFaUFmOVhOYklfdnZjZkZYMVN2UVp4cVVpcGJ1R2FMTm5hcjRHS1B0c1dMQWJScGZaS2E2eU5sN2VIR0R6bVZRVUE?oc=5",
@@ -233,6 +325,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e08f09f9fae3",
+  "title": "AIエージェントの新潮流、「スキル」「ループ」「ハーネス」",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MTVZXZktqaVJ3VlJUVzgzVGtYWGhmREg5Zk5hSG5CUElYenVVbjFRR2pkWElBZExiVGdHMmpkOHI5M0hHcHR4LXJXd3k0RHd0UVZ5aVllbEttSFpGVGFR?oc=5",
+  "source": "日経クロステック",
+  "summary": "",
+  "publishedAt": "2026-10-30T10:02:12.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -330,9 +435,9 @@
  },
  {
   "id": "78146e5d0847",
-  "title": "生成AIを使わない“人の手で作ったゲーム”を集めた世界規模のインディーゲームショーケース「Games Without AI」始動！11月25日配信へ",
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CY0MxZ3I0UWdscmFwMl9nS2lIcC1ETXh5Y3hvcXN1WWpad1RBc3BPT0F5ZmJkVmYtWlBTTHlIR2ZXcXdacjJNaGJkZzBkUEFzU19LQWxrOHFmYTdva0YxaEJpQU5wUQ?oc=5",
-  "source": "Game*Spark",
+  "title": "生成AIを使わない“人の手で作ったゲーム”を集めた世界規模のインディーゲームショーケース「Games Without AI」始動！11月25日配信へ（Game Spark）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3ZG52ZU5ZOGhMRUQyNGhqdnNUam9CR05hSm1HUEt5VGt5RHhuVEpTRGdzMXNWMEpQcE1mVWpUcnpZUHJXMUZ6Rk1zUmc4MFJLRGUwRFhQZWFxcTdpX0E2V0NzcXRBZHg2M09VR19mbUxvM1dMYkItTHltUEw2b0E?oc=5",
+  "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-10-30T09:45:02.000Z",
   "image": "",
@@ -686,6 +791,19 @@
   "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6b46f1158c41",
+  "title": "Geminiがチャット内で文書の生成・プレビュー・編集が可能に PDFやスライドにも対応",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlaFJUNHFRd3hGTVdmcFg1MHRTTVNRel9wMGJ4YUg0LUpZNk1BYmM2bXpiSUJTOGpRdEZtNmdHUkhqaERjZEk5TWI4eXdDemZVQVp6dEJGQ3A2elNCVkZ2bGN3TXRTaFZh?oc=5",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-10-30T09:00:35.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -1044,6 +1162,19 @@
   "isPR": false
  },
  {
+  "id": "43e489c94e5a",
+  "title": "Anthropic膨張",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xTU5nLXBzZXFRbHRnM01GX205UkhRdTFGRXpUaE5jTVhpUmdaUmEweVpub1NzY3lySFpXTzN3alZ5eUFPZHgwZllVT0dTZ1JtOVpvX01nOVdLb25odl9j?oc=5",
+  "source": "日経クロステック",
+  "summary": "",
+  "publishedAt": "2026-10-30T08:08:53.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "145c83702221",
   "title": "パナソニック、AI・半導体関連事業に920億円投資 国内外で生産・開発体制を強化",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CMjNoS3FwZEV4MUlXSTE3ZjZhRmhZTk5ENFl5Vlh1S3VndUhHWmEzbkNLNmRla0ZNaUk4NHpRS1ptUVJYbTVxMTM3cXIwbmhydDc3TmJMbmxXaVFBU08xUDF2ZU11aHJK?oc=5",
@@ -1211,19 +1342,6 @@
   "summary": "",
   "publishedAt": "2026-10-30T08:00:00.000Z",
   "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-  "categories": [
-   "product"
-  ],
-  "isPR": false
- },
- {
-  "id": "6b46f1158c41",
-  "title": "Geminiがチャット内で文書の生成・プレビュー・編集が可能に PDFやスライドにも対応",
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oTjZlZ20tZ0w5ZWptUGVqaTh3UUUwLUNmOUEyQ01UNFFoY1ZLWXYzSVRCU0lybVlMd0JCSG5wRUtPbDZNSVMzRU1ZWEZIZEtnSFlORmRMMXdkT25Ha2pJY1RqSmFmZ9IBZkFVX3lxTE5oTjZlZ20tZ0w5ZWptUGVqaTh3UUUwLUNmOUEyQ01UNFFoY1ZLWXYzSVRCU0lybVlMd0JCSG5wRUtPbDZNSVMzRU1ZWEZIZEtnSFlORmRMMXdkT25Ha2pJY1RqSmFmZw?oc=5",
-  "source": "リアルサウンド",
-  "summary": "",
-  "publishedAt": "2026-10-30T07:57:46.000Z",
-  "image": "",
   "categories": [
    "product"
   ],
@@ -2404,6 +2522,19 @@
   "isPR": false
  },
  {
+  "id": "a61f10e8b43d",
+  "title": "Gemini Enterprise app（ビジネス向け Gemini）とは？機能・料金・AI developer tools と最新動向【2026 年 10 月版】",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45OGlvVzd0ckc1MV8xM1FWVlZWeWZkTWtzSFJValhnLXFyc0wzaWQxTDdDUHhhRnVXZERmN3JaZjlkeFpDX1VSWFpQMGNTcnM?oc=5",
+  "source": "クラウドエース株式会社",
+  "summary": "",
+  "publishedAt": "2026-10-30T06:00:55.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "736b2a980f2b",
   "title": "【随時更新】Inter BEE 2026 AWS ブースのご案内：人が創り、人が決める。AI エージェントが支える次世代放送局",
   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwOEgwcFZUbWE3b0wzcktTVlpNc2Z1ZUMwUmFPUlVxQ3h0VG5wX19PVmVXYXpFSlVIaGRCRTEwR1pmOF9ZNm9tQzFqNk1pX0ZBdnVXcDZuanBwM2lzZ1ExZnZPMVhmaVZ1NVhfX3A5V2lIVndJei0yTHdTNEo2Zw?oc=5",
@@ -2610,19 +2741,6 @@
   "source": "AdverTimes.（アドタイ） by 宣伝会議",
   "summary": "",
   "publishedAt": "2026-10-30T05:39:41.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "a61f10e8b43d",
-  "title": "Gemini Enterprise app（ビジネス向け Gemini）とは？機能・料金・AI developer tools と最新動向【2026 年 10 月版】",
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45OGlvVzd0ckc1MV8xM1FWVlZWeWZkTWtzSFJValhnLXFyc0wzaWQxTDdDUHhhRnVXZERmN3JaZjlkeFpDX1VSWFpQMGNTcnM?oc=5",
-  "source": "クラウドエース株式会社",
-  "summary": "",
-  "publishedAt": "2026-10-30T05:36:33.000Z",
   "image": "",
   "categories": [
    "other"
@@ -3425,8 +3543,8 @@
  {
   "id": "b0e5271983f5",
   "title": "Geminiエージェントは変化する世界にどう対応するのか - Google Cloud Agentic AI Summit開催",
-  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UaWJKYUptajYzQlNfUUtqUmZ3RmlUeXFtbm9DSGtEWU8zUm1pSDFIdVZxWnFXU2VqdUZkZ2t4SlptZFlPYTByVlZTLTNHQUVjVUU0SkxYSl9aelc0TzZvR1owYjkxQ1I2RUxsVXZCZDMwdHR3ZGVr0gF8QVVfeXFMTS1RSkt4cURmWkFTSmlmdTAxcDFpSjNKM05iMldIb25GMjlHTllPeFBsNEpXQlJlaTMtcUc0R1V5R2pqR2txT051WFRoNTdCYVc0QTBreGgzWGNmQUpiUElZenVzYks4eFNQckx1enFKazZka2hyaGJOS1lYcQ?oc=5",
-  "source": "ｄメニューニュース",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCdlliNjlYNEdfV3hyaGRxRmZmRV9rN3RTVFpRVldqRXYwbk5ZVFZGdl9UTUotNVNkNVNaRk1iSDJaeDVfd1JtVGl1bG9xSjMzZzBXRm43dUpmS0o4X2JEcWFFY1pLUVBX?oc=5",
+  "source": "マイナビニュース",
   "summary": "",
   "publishedAt": "2026-10-30T04:00:00.000Z",
   "image": "",
@@ -4044,10 +4162,10 @@
  {
   "id": "c945e37b553e",
   "title": "OpenAI、Google TPUの直接購入を計画か 独自チップと並行して調達先を多様化",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQZGs5ZEhrbGdsdWJST3hFZGpqN0N0YndkaTFydk9LYTh6QzFpMnRkWmt5SkRsamcwS184VnEzVGU5emh0UFBDNUZrUDgzZ29mXzRNUmpIN25PMWJJVnFVelE4Tm5COHhZ0gFoQVVfeXFMUFBkazlkSGtsZ2x1YlJPeEVkamo3Q3Rid2RpMXJ2T0thOHpDMWkydGRaa3lKRGxqZzBLXzhWcTNUZTl6aHRQUEM1RmtQODNnb2ZfNE1Sakg3bk8xYklWcVV6UThObkI4eFk?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QTG9fSHJjcGxCTU1ydVRYbzJaaGd2bWRINHd0U3FZYUNhUXpOUUh6NGR4akNMUDVyczFDcFB6M3owUVV6NjFSLThDMVRxQVlWanNxbXhyYWxEWUJZc1hDUG4zb9IBaEFVX3lxTFBQZGs5ZEhrbGdsdWJST3hFZGpqN0N0YndkaTFydk9LYTh6QzFpMnRkWmt5SkRsamcwS184VnEzVGU5emh0UFBDNUZrUDgzZ29mXzRNUmpIN25PMWJJVnFVelE4Tm5COHhZ?oc=5",
   "source": "財経新聞",
   "summary": "",
-  "publishedAt": "2026-10-30T03:04:00.000Z",
+  "publishedAt": "2026-10-30T03:04:12.000Z",
   "image": "",
   "categories": [
    "infra"
@@ -4624,6 +4742,20 @@
   "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1357524-file.jpg",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3f92d1b5721a",
+  "title": "AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開",
+  "url": "https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/",
+  "source": "はてなブックマーク",
+  "summary": "OpenAIは2026年10月29日、AIが指示に反する行動を取っていないかを別のAIで監視するシステムの詳細を公開しました。開発中のAIが隔離環境を脱出して外部サービスに不正アクセスした事件を受け、監視対象を拡大するとともに不審な行動を段階的に調査する仕組みを導入したとのことです。 How we detect fr…",
+  "publishedAt": "2026-10-30T02:45:57.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261030-openai-detect-frontier-model-misalignment%2F",
+  "categories": [
+   "product",
+   "case"
   ],
   "isPR": false
  },
@@ -5576,19 +5708,6 @@
   "isPR": false
  },
  {
-  "id": "3f92d1b5721a",
-  "title": "AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開",
-  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdHNIcGdFSTl2ZEJwdTkwZ01UQWxpNW90TWhZSXlMSFVUMlUxSmYzSVk5QlZaMjY4YlRSWjhrZmZvQWp5ZHFSTG9vTDlzdThKc0NqYkJBZkFfYmpaSG82SEtMTUh5YzZodGlONl9kSmNURHQ2bDFmSmVVMlhPOFZBRXh2NA?oc=5",
-  "source": "GIGAZINE",
-  "summary": "",
-  "publishedAt": "2026-10-30T01:30:00.000Z",
-  "image": "",
-  "categories": [
-   "product"
-  ],
-  "isPR": false
- },
- {
   "id": "8d58c9599220",
   "title": "ローカルLLM study5: Ornith-1.5-9Bをstudy2〜4の手法で深掘りする",
   "url": "https://zenn.dev/tkpurine/articles/local-llm-study-005-ornith-1-5-deep-dive",
@@ -6082,7 +6201,7 @@
  {
   "id": "aa9ad95659bd",
   "title": "月5万円以内で使えるWebサイト向け生成AIチャットボット12製品を比較！データの国内保存の明記は4製品",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RZHRrVXB5R1RyYUdEYlBaV285MDVmb1V0RzN2ajRCVk94eGp5cTByamx5bjctYnU4RjNqdUhIaGVsa1RfOVVNZ3dIOXBPRE5HYkJjOEdYUV9kX1U?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JR2ltRHRkaERsQzRoQkoxTWhfekg2MmJ4T3p0ZEV3ZnhfcXJUcHltRVg2dlY1V0pUbEsxcTR4bnNuY3Z4dVdpQVpjRTZjQV9OajNmRnhfYkFjSnFmTUE?oc=5",
   "source": "valuepress",
   "summary": "",
   "publishedAt": "2026-10-30T01:00:00.000Z",
@@ -6119,19 +6238,6 @@
   "isPR": false
  },
  {
-  "id": "0d7af3c4beb6",
-  "title": "「ChatGPT」のPro/Business Premiumプランで「Work」「Codex」の利用枠が2倍に（窓の杜）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wdnpWV1YzVk9YVkpDV1hWVWJaVHIzQ3hUU2p0QWVrbkpJekpXclgzTGdKMG9UTDlLX2xBOEMyc1gwdlVVc3IzYnNWYkl3MDRob2dPOVBWZGVtZTUxREFYNVFRbzcwWFJUMGdWbXJHRlQ0TnBDVXViZVJoWW9GSDA?oc=5",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-10-30T00:55:00.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "23aeeb3a8d2c",
   "title": "現代自動車グレンジャー、言葉を理解するAIを搭載···フォーティーツードット「グレオAI」初のOTA",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVnRNY3RsTU55aktXdm1zQ3BPcDExRmFIRTBtelZkNnMxdXAzZ241YVZ6b2JhTllUMEU1ZDNOQ2V5blRQSjJCd2ljQzIteDJXWTVlU2E3RmpSSmZsWU9ZMFg5MnBGcF9mM28tSGFISE9EdEZocnBkOTREYi14czZ4aDNCSQ?oc=5",
@@ -6154,6 +6260,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dc3ad96acfe1",
+  "title": "生成AIに入れちゃダメな情報、わかってますか？ 不正アクセスだけじゃない情報漏洩の原因 (アスキー)",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0xtYzE2dmhZYmNvREZKTWFNZEh5SE4tMDRKX1ZKcVl6TUFib19YYm5jM21JaVdueWs0QXZzWXZXWWl5NlB6R3BNMDM1N3ROVHo1RXZ0OXZfN0tERms2LWdGTjVaN3VqMXVTQTZsODZEbEtoa1M1elZ5ZTRIYnJRWGNCS2ZISW9RRGF4TFd3?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身につけて欲しい。第77回は、生成AIへの入力やアップロードによる情報漏洩の事例から、生成AIに入力してはいけない情報…",
+  "publishedAt": "2026-10-30T00:48:10.000Z",
+  "image": "https://ascii.jp/img/2026/10/27/4544044/s/c1c967d6eb48725f.jpg",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -6218,6 +6337,19 @@
   "source": "Chosunbiz",
   "summary": "",
   "publishedAt": "2026-10-30T00:36:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0d7af3c4beb6",
+  "title": "「ChatGPT」のPro/Business Premiumプランで「Work」「Codex」の利用枠が2倍に",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZUTF2d1JLNThDZVl6NW5NblZNRHkwTmpaeWVPMl9sTy1va1doa08zNDB4RDZ3YUoxYUZieHV3djZySGNoc28tTVBaaWJtN3RBcWd1c1VCbzF1Mm5lZlkzRHpGVlFiLS1l?oc=5",
+  "source": "窓の杜",
+  "summary": "",
+  "publishedAt": "2026-10-30T00:35:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -6550,19 +6682,6 @@
   "summary": "",
   "publishedAt": "2026-10-30T00:00:00.000Z",
   "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "dc3ad96acfe1",
-  "title": "生成AIに入れちゃダメな情報、わかってますか？ 不正アクセスだけじゃない情報漏洩の原因",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11QjVjN1ZvS1ZsRVN4UllydUhlYUVVc2NPSHc5Y2tiZmhYalAzMzZhYkFEdmZoM0NjTWVibzdZZElxSnNQU3NjQTJ0UGI5c2RldXJUNA?oc=5",
-  "source": "ASCII.jp",
-  "summary": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身につけて欲しい。第77回は、生成AIへの入力やアップロードによる情報漏洩の事例から、生成AIに入力してはいけない情報…",
-  "publishedAt": "2026-10-30T00:00:00.000Z",
-  "image": "https://ascii.jp/img/2026/10/27/4544044/s/c1c967d6eb48725f.jpg",
   "categories": [
    "other"
   ],
