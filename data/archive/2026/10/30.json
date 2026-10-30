@@ -1,5 +1,84 @@
 [
  {
+  "id": "f5afe22f111b",
+  "title": "AIに「カバレッジを上げろ」と命じると、なぜ `coverage_boost.test` が錬成されるのか？――境界分離としてのテスタビリティ強制論",
+  "url": "https://qiita.com/scottlz0310/items/170ac42abe5a738c7d2d",
+  "source": "Qiita",
+  "summary": "AIエージェントに実装からテスト作成までを任せる現場が増えてきました。 しかし、AIに「テストカバレッジ80%以上を達成して」と指示したとき、以下のような光景に遭遇したことはないでしょうか。 アサーションが expect(true).toBe(true) や assert...",
+  "publishedAt": "2026-10-30T12:58:51.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dea70d4c790f",
+  "title": "AIで既存HTMLにFAQを追加する方法：ページ全体を再構築しない編集",
+  "url": "https://qiita.com/htmldrag/items/c90eecd4665a806ac913",
+  "source": "Qiita",
+  "summary": "クイックアンサー（TL;DR）：周囲のスタイルやレイアウトを壊さずに既存のHTMLページにAIでFAQセクションを追加するには、4段階の範囲限定ワークフローを実践します。 **検証済み事実の整理：**元のページに記載されている確定情報のみから、訪問者が意思決定に必要な5...",
+  "publishedAt": "2026-10-30T12:52:53.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "244a273b4f8f",
+  "title": "中身はハイエンド、姿はタブレット！ 64GBメモリー搭載のASUS「ROG Flow Z13」が5万円引き",
+  "url": "https://ascii.jp/elem/000/004/447/4447090/?rss",
+  "source": "ASCII.jp",
+  "summary": "ASUSの13.4型ゲーミングPC「ROG Flow Z13（GZ302EA-AI916C64G）」がAmazonのタイムセール対象。参考価格509,800円から10％オフの459,800円で販売中。Ryzen AI MAX+ 395と64GBメモリーを搭載し、キーボードを取り外せばタブレットとしても使える。ハイエン…",
+  "publishedAt": "2026-10-30T12:50:00.000Z",
+  "image": "https://ascii.jp/img/2026/10/30/4545951/s/442b2d79dd367700.jpg",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "365f65b7de1e",
+  "title": "アルトマン氏がローカルAIを拒否、PCのDRAMは無駄遣いだと主張",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa0NfOWhIRmxKRGNiV01Ya2g1Zzh2UUJXeEo5cWVXeXE3VjBvUlRpYVVNelRUTGFUSEZCUHJXdFp2NTAzdVo3ZEVPU2RTRGlpSEdxNWVSY1VFZEdVd2xiWGxSRlk2b2RDNmpxVTZUOXhIUzdrWENnX1pIYTFpNkRwVA?oc=5",
+  "source": "Pasquale Pillitteri",
+  "summary": "",
+  "publishedAt": "2026-10-30T12:41:26.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "24ce613390ea",
+  "title": "449MBの決定モデルで、問い合わせチケットをローカルで振り分ける",
+  "url": "https://qiita.com/nikolovv/items/ce89c97b50a758295803",
+  "source": "Qiita",
+  "summary": "チャットモデルでテキストを分類しようとすると、だいたい次のような流れになります。プロンプトの最後に「JSONのみで回答してください」と書き、返ってきた文字列をパースし、「はい！カテゴリは以下の通りです：」から始まってしまったときのためにリトライ処理を入れる。これでも動きます...",
+  "publishedAt": "2026-10-30T12:33:55.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "396097024bdb",
+  "title": "AI OCR（経理改革）もChatGPT codexでやってみた",
+  "url": "https://qiita.com/mnoda/items/bde215ac6de79f142d2a",
+  "source": "Qiita",
+  "summary": "請求書等を読み取って読み取った内容をまとめる、システム入力させることは容易に可能 経理入力担当は必要なくなると実感。システム入力に必要なマスタ変換も自動でやってくれます。ExcelやCSVとして転記も可能。 私の検証結果ではChatGPT、Copilot、Gemini、...",
+  "publishedAt": "2026-10-30T12:30:38.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "58d6d8aceeab",
   "title": "AI融資が急増、ムーディーズは2027年から2029年のリファイナンスリスクを警告",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMC1iODBfOWpoQ01Lb3JSX3QyZWVBUXJ5TFVkNncxNDA1M0tPM1VvUGZKanlQS3ZoMERQWHdPY3lRT2wxMjBzX0hINGl6WEdRVVVVUzktYUdRU1ZvenFmNmZyNDc5WGF3ZGJ6SDJYMTljRFFpMm94RE13akxZVVp2ZWVzd09SUWh3SFYyLTZMamtqT3JFeDRmLXV1VkpPcWt4QjdKWlo5dlBRV0t6U2c?oc=5",
@@ -225,6 +304,19 @@
   "isPR": false
  },
  {
+  "id": "e5f78bfada34",
+  "title": "ChatGPTで写真加工・イラスト生成のやり方とプロンプトを解説",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zSDR6d0gwblp6SHdRXzZ0bFNtQXpiMzdCYzRoVGh0OFA1Z3ZtaDJQY1JxNy1fNXhuSEdmbE5uT2lobTExNVJBem85YVlTc0RhcUJOU25MeWs4VHJ4SFJGVlJ6WDBTQmNDVGFZWndNQ3oyeUttVTVNUURR?oc=5",
+  "source": "AIsmiley",
+  "summary": "",
+  "publishedAt": "2026-10-30T10:57:21.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "2968cba88cd9",
   "title": "AvatarCraft AIで写真から短い発話動画を作る：5サンプルで確認した入力条件と評価手順",
   "url": "https://qiita.com/carolluoyiyi/items/6bdd21ea23624266367c",
@@ -291,6 +383,19 @@
   "isPR": false
  },
  {
+  "id": "63e6f4a32007",
+  "title": "Claudeに学習させない設定方法と安全な使い方を徹底解説",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VTXFrX05COENhQU1qU0lLbEFPQklRX280dXNrZDFMNWtHMW4tT2xIZW5udTRmWjhBdklrNVZ3S3REWnFZdGlyZ1M4emRlZG1ObDhhdFFXV1Y2VFU?oc=5",
+  "source": "AIsmiley",
+  "summary": "",
+  "publishedAt": "2026-10-30T10:40:41.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "92082f23f035",
   "title": "キオクシア中間純利益37倍 AI半導体堅調2・2兆円",
   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mdl9jbUxPSzdhdTFrUjd4LXhqUzVJRjdTNXdhbXU4VjlpU1VSNzc3dGsxRldzNEJ2YUhfS2RCbC1Ea3ZVT1ltYm5aeHYxOVFhbGt1LWJrbDEyQQ?oc=5",
@@ -313,6 +418,19 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "68e9072f530a",
+  "title": "GPT-Realtime-2とは？OpenAI新音声3モデルの違い・料金・使い分けを徹底解説",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vS2FBdnM2SzBGVW1YV2FTY0JmUGk1MTZHTkxMMUNLWGNURlkwdDUydlZKdlpVQlYwa19rTlQ3OGl1UFE5SW04ZW5SNXdDbzRycTdSenhETXM2T3ZNSmhJT20wb3Y5eDItZU1BZ0FOQ28?oc=5",
+  "source": "AIsmiley",
+  "summary": "",
+  "publishedAt": "2026-10-30T10:23:29.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -496,6 +614,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c050c373892d",
+  "title": "国産LLM「Sarashina3.2 mini thinking」登場 APIで思考の深さを3段階に制御",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wYlFkM3FmNnZ2T3hnNlFzSXJ6LWJfa1YwdVFQRVpUdU9iYVZERGFmX21jS01QNi1MQjZrMi01VXJRNXMyUm1uY2hlWVdVMHlSSjVwaUxENmVVVk55bEVTbzFhdFVDNjRxclFZ?oc=5",
+  "source": "NOVAIST",
+  "summary": "",
+  "publishedAt": "2026-10-30T09:51:35.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -814,7 +945,7 @@
   "source": "PC Watch",
   "summary": "NVIDIAは10月28日、文字起こしや翻訳、話者分離をサポートしたオープンウェイト(モデルの重み)のAIモデル「Nemotron 3.5 Transcribe」を発表した。文字起こしは40言語、英語との相互翻訳は31言語、話者分離は13言語に対応し、最大1時間の音声を処理できる。ベースモデルはHugging Fac…",
   "publishedAt": "2026-10-30T09:07:01.000Z",
-  "image": "",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F2152693.html",
   "categories": [
    "product",
    "infra"
@@ -858,6 +989,19 @@
   "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6b46f1158c41",
+  "title": "Geminiがチャット内で文書の生成・プレビュー・編集が可能に PDFやスライドにも対応",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlaFJUNHFRd3hGTVdmcFg1MHRTTVNRel9wMGJ4YUg0LUpZNk1BYmM2bXpiSUJTOGpRdEZtNmdHUkhqaERjZEk5TWI4eXdDemZVQVp6dEJGQ3A2elNCVkZ2bGN3TXRTaFZh?oc=5",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-10-30T09:00:35.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -1402,19 +1546,6 @@
   "isPR": false
  },
  {
-  "id": "6b46f1158c41",
-  "title": "Geminiがチャット内で文書の生成・プレビュー・編集が可能に PDFやスライドにも対応",
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oTjZlZ20tZ0w5ZWptUGVqaTh3UUUwLUNmOUEyQ01UNFFoY1ZLWXYzSVRCU0lybVlMd0JCSG5wRUtPbDZNSVMzRU1ZWEZIZEtnSFlORmRMMXdkT25Ha2pJY1RqSmFmZ9IBZkFVX3lxTE5oTjZlZ20tZ0w5ZWptUGVqaTh3UUUwLUNmOUEyQ01UNFFoY1ZLWXYzSVRCU0lybVlMd0JCSG5wRUtPbDZNSVMzRU1ZWEZIZEtnSFlORmRMMXdkT25Ha2pJY1RqSmFmZw?oc=5",
-  "source": "リアルサウンド",
-  "summary": "",
-  "publishedAt": "2026-10-30T07:57:46.000Z",
-  "image": "",
-  "categories": [
-   "product"
-  ],
-  "isPR": false
- },
- {
   "id": "1019af71367c",
   "title": "北京金融科技産業連盟が15機関と共同提言：AIエージェントは無断で金融クライアントを操作してはならない",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BUmZEZjF5WGdZSFA3UmlYVXJLb1VudWdFT041V3RsbkFya1BoNXRNaTk3YjUxLUg0MDVVZDlpeEswYVNYcnIzb2VWVjJ6c0dYT3VwWTFLNzBtNTdZOFk1QUluZ2xfM096UXZ1ZHVzRkdBZXhu?oc=5",
@@ -1863,6 +1994,19 @@
   "isPR": false
  },
  {
+  "id": "da407c0e20a5",
+  "title": "日経平均 4日ぶり反落 1369円安の6万3290円 米ハイテク株安でAI・半導体が大幅安 一時1900円超安",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmWEh0X2tudDc2VU80VGpnV3lkbVRuQ3Q5b0lYbklKc3RCOHMxckpBcEV1Nk9hMUQtenMteGRRZW5IZnFqS3hwcFVvZkdUR3gxdzJvZQ?oc=5",
+  "source": "日経CNBC online",
+  "summary": "",
+  "publishedAt": "2026-10-30T07:07:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "456282718f4d",
   "title": "東京株式（大引け）＝１３６９円安と４日ぶり大幅反落、ＡＩ・半導体など売り膨らむ",
   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zN2l2MWRmYWg3YWpPMXdfSjBpX2xIczBfTVE0TzAwQTVxOFhKblQwVGpSdTFwV0N1cW1aOEpTZ2tydnVCMHc?oc=5",
@@ -1960,7 +2104,7 @@
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sSHdyQmJnOC11VzVNUWQ3bUFWRVZKRzNTUWFiSkpYRGgyakxPTlZfQmlKaW42Z0l4T3hISDBCTkROY1BkV2ZidzUta0U3MW1kZXRsVHowTzRsN25hU1Bz?oc=5",
   "source": "AdverTimes.（アドタイ） by 宣伝会議",
   "summary": "",
-  "publishedAt": "2026-10-30T06:53:46.000Z",
+  "publishedAt": "2026-10-30T06:54:47.000Z",
   "image": "",
   "categories": [
    "other"
@@ -2109,6 +2253,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9058ddbd7534",
+  "title": "ERROR ログ1行から障害の一次対応を下準備する Claude Code スキルを作った - RAKUS Developers Blog | ラクス エンジニアブログ",
+  "url": "https://tech-blog.rakus.co.jp/entry/20261030/errorlog",
+  "source": "はてなブックマーク",
+  "summary": "楽楽請求の開発チームに所属している takayama です。 本番環境で ERROR ログのアラートが届いたとき、最初の時間を何に使っていますか。 私は、過去の Issue を探したり、障害対応シートに情報を書き写したりする作業に、その時間の多くを使っていました。 そこで、ERROR ログを1行渡すだけで一次対応の下…",
+  "publishedAt": "2026-10-30T06:33:29.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftech-blog.rakus.co.jp%2Fentry%2F20261030%2Ferrorlog",
+  "categories": [
+   "product",
+   "dev"
   ],
   "isPR": false
  },
@@ -2444,7 +2602,7 @@
  {
   "id": "d39f5602d52a",
   "title": "【写真】国会答弁の作成支援するＡＩ導入 政府職員の負担軽減、デジタル庁",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xeHZIMHV2QVJwZzFwYnBWbkJtVERsd0JXbnlKRnZMZ2pKWnNyNFRodlFxTjJiQm15bzUzNWNjd25HSHM3Z3V2T0lsSUItLUxkWTZPYTJSUjQtZ25sUVZ3WFVoM0pnUW8?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iVmhlU2FHUFR4RHRVc0tXam5jZFFLdXIyN21GMVM0a3dzY1R4SXNEbmt3T185X25Lb1o5TFpudUlrYTFlRGdqQV9ER09DeC12eDRGcXJDN2l2SC0tbzBVeDNPSW5DRXhy?oc=5",
   "source": "南日本新聞",
   "summary": "",
   "publishedAt": "2026-10-30T06:05:16.000Z",
@@ -2830,7 +2988,7 @@
  {
   "id": "94da8d0fab44",
   "title": "AI予言者ファンド、分散型ネオクラウドへの投資勧誘－国防総省も注目",
-  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qSVpZMzNxR3JuSUJZbG1zT0hDME1weHN1OTNmbjhwTWdtTXNBNGhKYlMyalRSZzctdHoyLVhGXzVsc05hdGJwa0tOMGE3dDNLUTRzYmZyYmgwMWxQdjZtR0J6SVFOSUdFODJCRkN4cUFZYWpPQTE0?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnV4bUsweEVMWk1rTXVHV2FLcS1vNjRXcVhfbjBYOFRTNlRVUnAtdnlyc1Z3S1dRTndSTHlqSXRMZ3J5ZTJXWjJPTzNaR21FaHFaUG5Ib0hPank3Z3JjT2RzYTR4bFhJWmpCaEhQUHVoNjI2NkRGRndORFdTOHp0a1hmVTVFMEZUcnl2bVpR?oc=5",
   "source": "Bloomberg.com",
   "summary": "",
   "publishedAt": "2026-10-30T05:27:00.000Z",
@@ -4229,10 +4387,10 @@
  {
   "id": "c945e37b553e",
   "title": "OpenAI、Google TPUの直接購入を計画か 独自チップと並行して調達先を多様化",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QTG9fSHJjcGxCTU1ydVRYbzJaaGd2bWRINHd0U3FZYUNhUXpOUUh6NGR4akNMUDVyczFDcFB6M3owUVV6NjFSLThDMVRxQVlWanNxbXhyYWxEWUJZc1hDUG4zb9IBaEFVX3lxTFBQZGs5ZEhrbGdsdWJST3hFZGpqN0N0YndkaTFydk9LYTh6QzFpMnRkWmt5SkRsamcwS184VnEzVGU5emh0UFBDNUZrUDgzZ29mXzRNUmpIN25PMWJJVnFVelE4Tm5COHhZ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQZGs5ZEhrbGdsdWJST3hFZGpqN0N0YndkaTFydk9LYTh6QzFpMnRkWmt5SkRsamcwS184VnEzVGU5emh0UFBDNUZrUDgzZ29mXzRNUmpIN25PMWJJVnFVelE4Tm5COHhZ0gFoQVVfeXFMUFBkazlkSGtsZ2x1YlJPeEVkamo3Q3Rid2RpMXJ2T0thOHpDMWkydGRaa3lKRGxqZzBLXzhWcTNUZTl6aHRQUEM1RmtQODNnb2ZfNE1Sakg3bk8xYklWcVV6UThObkI4eFk?oc=5",
   "source": "財経新聞",
   "summary": "",
-  "publishedAt": "2026-10-30T03:04:12.000Z",
+  "publishedAt": "2026-10-30T03:04:00.000Z",
   "image": "",
   "categories": [
    "infra"
@@ -5763,7 +5921,7 @@
  {
   "id": "6a6fd5b5bdd1",
   "title": "AIの拡大が社会にもたらした「新たなリスク」、各国の対応は足並み揃わず…AI規制のあるべき姿",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Dd0xnTHpUclFMZ0F3ZEFLdnd2TWFIVG9JS3NGTDAwTnVpMWtNX25SX1EwTElvc0NSclVJVVlQNjlPbWpWQzdGcC1NZEF2QVRsc1loNVgwRU9XQQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Wk02Y1REcW5NS2xsQ3JELUNsSDFMTHZhSlVHdDhpbTFFUGJpRVhzalJVcjlMVEMwb2VOaVhNU0QwRGtoTmZvS1J1X09YMWZBanhud0dPdGRtR0JMdVJKa0dmMk82UFU?oc=5",
   "source": "ニューズウィーク日本版",
   "summary": "",
   "publishedAt": "2026-10-30T01:31:00.000Z",
