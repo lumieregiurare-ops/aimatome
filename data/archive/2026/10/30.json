@@ -13,20 +13,6 @@
   "isPR": false
  },
  {
-  "id": "bd02c5f39002",
-  "title": "プライバシー重視メール「Proton Mail」の開発企業はAIの導入に突き進んでおりCEOが社員を日常的に叱責",
-  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fZm9ub3BmNGdzc3JfMjhkZFUtNXQ0Mm1kaHJpck5TaWhiTFRkRHNOb3FDOHpQdl9Oem50blFMY0RseGI0TUtwenhKVXFuMmNxblptaUtCU0QwSUlzbHc?oc=5",
-  "source": "GIGAZINE",
-  "summary": "",
-  "publishedAt": "2026-10-30T14:33:16.000Z",
-  "image": "",
-  "categories": [
-   "policy",
-   "case"
-  ],
-  "isPR": false
- },
- {
   "id": "33db113a4dd7",
   "title": "台湾華語: 人工知能エンジニアリング動向とモデル最新情報",
   "url": "https://qiita.com/maszkot5/items/982a97328e0a0ee83871",
@@ -50,6 +36,19 @@
   "categories": [
    "product",
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f1e344fb9da2",
+  "title": "# なぜ、AIはコードや文章と違ってイラストの部分修正は未だに超苦手なのか？",
+  "url": "https://zenn.dev/pdfractal/articles/0d8ae641944ceb",
+  "source": "Zenn",
+  "summary": "はじめに 2022年頃と比較すると、AIによるイラスト生成の品質は驚くほど向上しました。かつては人物の手指や顔の構造が破綻することも珍しくありませんでしたが、現在では複雑な構図や衣装、背景を備えた完成度の高いイラストを、最初の指示だけで生成できるようになっています。ところが、生成されたイラストに対して「この線を一本消…",
+  "publishedAt": "2026-10-30T14:26:34.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -91,6 +90,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9b7fc8c0e498",
+  "title": "AIエージェントの『メモリの税』は本当に起きるのか、自作データで検証した",
+  "url": "https://zenn.dev/matsushima_a/articles/day-031-agent-memory-tax-vs-benefit",
+  "source": "Zenn",
+  "summary": "今日のネタ元 Hugging Face Daily Papersに掲載されていた以下の論文を検証した。 \"Memory Tax: Dissecting the Net Value of Agent Memory\" https://huggingface.co/papers/2610.34073 (arXiv:2610…",
+  "publishedAt": "2026-10-30T14:12:39.000Z",
+  "image": "",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
@@ -144,6 +156,46 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bd02c5f39002",
+  "title": "プライバシー重視メール「Proton Mail」の開発企業はAIの導入に突き進んでおりCEOが社員を日常的に叱責",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fZm9ub3BmNGdzc3JfMjhkZFUtNXQ0Mm1kaHJpck5TaWhiTFRkRHNOb3FDOHpQdl9Oem50blFMY0RseGI0TUtwenhKVXFuMmNxblptaUtCU0QwSUlzbHc?oc=5",
+  "source": "GIGAZINE",
+  "summary": "",
+  "publishedAt": "2026-10-30T14:01:22.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e36aa05c06b3",
+  "title": "文章のAIっぽさを抑えるプロンプト",
+  "url": "https://imoz.jp/scraps/202610_humanizer.html",
+  "source": "はてなブックマーク",
+  "summary": "最近の大規模言語モデル（LLM）を使っていると、コーディング能力が高まる一方で、文章の流暢さは失われていると感じます。短い説明でも細かく見出しを付けたり、具体例の後に同じ結論を言い直したりして、個々の文は読めても説明の流れが途切れることがあります。 その一方で、指示に...",
+  "publishedAt": "2026-10-30T14:00:14.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fimoz.jp%2Fscraps%2F202610_humanizer.html",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5b26823b4cb9",
+  "title": "日本語はなぜトークンを食う？ 漢字がバイトに割れる仕組みを tiktoken で数えてみた",
+  "url": "https://zenn.dev/lecto/articles/717bdd29651bd8",
+  "source": "Zenn",
+  "summary": "はじめに 同じ意味の文なのに、日本語で書くと AI の料金が高くなる。そんな話を聞いたことはありませんか？ AI（大規模言語モデル）は、文章を文字や単語ではなく トークン という単位で数えています。料金も、一度に読める量（コンテキストの長さ）も、このトークンの数で決まります。 この記事では、 トークンとは何か 同じ意…",
+  "publishedAt": "2026-10-30T13:44:29.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -517,6 +569,20 @@
   "isPR": false
  },
  {
+  "id": "229b882793f4",
+  "title": "中古GPUでローカルLLM環境を作る価格更新 2026年11月版",
+  "url": "https://zenn.dev/phpmyadmin/articles/used-server-gpu-local-llm-202611",
+  "source": "Zenn",
+  "summary": "前回（2026年8月）の記事で、中古サーバ用GPUを使ったローカルLLM環境の費用を試算した。今回は価格の更新と、その後に出てきたソフトウェア側の変化をまとめる。調査日は2026年10月30日である。構成やベンチマークの詳細は前回の記事を参照してほしい。 前回から価格はどう変わったか 前回記事で使った2026年8月の…",
+  "publishedAt": "2026-10-30T11:44:00.000Z",
+  "image": "",
+  "categories": [
+   "infra",
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "14b48f584360",
   "title": "AI協働：FRB Launch続々報 — マウスを動かしたくなくて、リモコンが生まれた話（笑）",
   "url": "https://zenn.dev/frb_tamasub/articles/ai-collaboration08-frb-launch-remote-experience",
@@ -570,6 +636,19 @@
   "isPR": false
  },
  {
+  "id": "b553d5e79dfa",
+  "title": "VRAM 6GB／12GBで動いたローカルLLMの実測値まとめ（llama.cpp・Ollama）",
+  "url": "https://zenn.dev/localai_lab/articles/b7edb5aec36142",
+  "source": "Zenn",
+  "summary": "VRAM 6GB の GPU（6,144 MiB）と GeForce RTX 4070 12GB でこれまで測ってきたローカルLLMの値を、1か所に集めました。数字はすべて元記事の実測値です。この記事のために測り直したものはありません。速度の測り方や VRAM の数え方は記事ごとに違うので、表の各セルに測り方を添えて…",
+  "publishedAt": "2026-10-30T11:33:01.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f9b149be5547",
   "title": "ドル円157円台、米中間選挙「ブルーウェーブ」警戒で上値重く AI規制強化がドル売り要因に",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWWklaTVJnbm5vWEkxMzA4RGJvc2hKOW4xTmc2WG5TNUZnV3ZTTTFIVUtxdENHVWc1bXI5dUJMR29OQUpTU1ZLdVZRT21FUzlwbEZJWTlwVGg3WWJCdHZNTFdzbjFtdW5kWTBVSHFwSTJXTXFr?oc=5",
@@ -579,6 +658,19 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ae46aca0af3f",
+  "title": "翻訳AIの訳を逆翻訳し、数字・否定・訳抜けをPythonで照らす",
+  "url": "https://zenn.dev/rakuwork_kobo/articles/back-translation-diff-numbers-negation-python",
+  "source": "Zenn",
+  "summary": "外国人スタッフ向けの手順書を、生成AIや翻訳サービスでベトナム語やネパール語に訳した。けれども、訳文が合っているかを自分では読めない。よく使われるのが逆翻訳です。元の文は見せずに訳文だけを日本語に戻してもらい、戻った文を元の文と並べます。 ただ、20行の手順書でも、元の文と訳し戻した文を目で見比べると、数字1つ・「〜…",
+  "publishedAt": "2026-10-30T11:18:16.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -716,6 +808,20 @@
   "isPR": false
  },
  {
+  "id": "0dbd7ee88de5",
+  "title": "vLLM・SGLang・TensorRT-LLMをクラウドGPUで動かしたら、それぞれの個性が見えてきた",
+  "url": "https://zenn.dev/yuya0408/articles/llm-serving-engines-on-l4",
+  "source": "Zenn",
+  "summary": "この記事で分かること Qwen3-8Bを、L4 24GB 1台の上でvLLM・SGLang・TensorRT-LLMに載せ、同じリクエストを送った。揃えたつもりの条件が、5か所で揃っていなかった。どれもベンチマークの数字に入り込む。 速さの順位は載せない（速さは自分の条件で測ってほしい）。すべてこの版・L4（sm_8…",
+  "publishedAt": "2026-10-30T10:56:02.000Z",
+  "image": "",
+  "categories": [
+   "infra",
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "2968cba88cd9",
   "title": "AvatarCraft AIで写真から短い発話動画を作る：5サンプルで確認した入力条件と評価手順",
   "url": "https://qiita.com/carolluoyiyi/items/6bdd21ea23624266367c",
@@ -797,10 +903,10 @@
  {
   "id": "92082f23f035",
   "title": "キオクシア中間純利益37倍 AI半導体堅調2・2兆円",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mdl9jbUxPSzdhdTFrUjd4LXhqUzVJRjdTNXdhbXU4VjlpU1VSNzc3dGsxRldzNEJ2YUhfS2RCbC1Ea3ZVT1ltYm5aeHYxOVFhbGt1LWJrbDEyQQ?oc=5",
-  "source": "北海道新聞デジタル",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lV3VfN216MFJNSkFqcy1BaW9IQkNVQVFaUGlaTzd6NkdkQkx3TWZiV01PeUZGT1Vwc0YzRHp5c2JJVzlOVF9TaFpOS0NkZm40eXNQX1RR?oc=5",
+  "source": "西日本新聞me",
   "summary": "",
-  "publishedAt": "2026-10-30T10:40:03.000Z",
+  "publishedAt": "2026-10-30T10:32:12.000Z",
   "image": "",
   "categories": [
    "infra"
@@ -862,10 +968,10 @@
  {
   "id": "794bd8694f8b",
   "title": "AI分野での資金調達により、Meta（META）への投資判断が変わる可能性がある",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTm50akVWRjZBSlVaNG9RZ19ieEpUUGxQTEx1M1JMVmJDT3A0cENyajdjTWVhX280UURRNWhFdnZQQlJES01WNjJTU3ZBM3puTVNmcnNzY1RNWXphUWZ3N1A1aTlfUm5aaThoMHVwajJvTlc5V051cHVURTVFbW41WUhEeklhTHlBNGh4QkhWYWNIZ1JoajlVMNIBmAFBVV95cUxOTm50akVWRjZBSlVaNG9RZ19ieEpUUGxQTEx1M1JMVmJDT3A0cENyajdjTWVhX280UURRNWhFdnZQQlJES01WNjJTU3ZBM3puTVNmcnNzY1RNWXphUWZ3N1A1aTlfUm5aaThoMHVwajJvTlc5V051cHVURTVFbW41WUhEeklhTHlBNGh4QkhWYWNIZ1JoajlVMA?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQejNwZDJrMHU2MkNpWEpPc3p3Z0hscmU0OTRYYVBWcWw4MVFIa0pfa3hiRk9jRC1iZTctT0lyZ2E0c21qMHBZRWVyMEoySEhwOHprdnN5MmgyRndJSnBkMVg1SVVadV92eXd1REZPeHctaWhSajB0UkJCQTd2SkcyTGZIVnFaa0NrRHp1LXE2Mmt3cXPSAZgBQVVfeXFMTk5udGpFVkY2QUpVWjRvUWdfYnhKVFBsUExMdTNSTFZiQ09wNHBDcmo3Y01lYV9vNFFEUTVoRXZ2UEJSREtNVjYyU1N2QTN6bk1TZnJzc2NUTVl6YVFmdzdQNWk5X1JuWmk4aDB1cGoyb05XOVdOdXB1VEU1RW1uNVlIRHpJYUx5QTRoeEJIVmFjSGdSaGo5VTA?oc=5",
   "source": "Simply Wall St",
   "summary": "",
-  "publishedAt": "2026-10-30T10:16:10.000Z",
+  "publishedAt": "2026-10-30T10:16:07.000Z",
   "image": "",
   "categories": [
    "business"
@@ -1529,7 +1635,7 @@
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IQmxEQUd1UkFLazA3bjE0V1BadF8tbGt4NVZvQWZWVDhxRkxoWXA4Ynd0UHpyRTg4aHhkcm91bGZINjY2djZzcVNrS0VJMGpDWUxhNGNLV3RYcThHZ1lBb2pURTFfZnRMQmppOTNsaHJYZ0J2?oc=5",
   "source": "BigGo ファイナンス",
   "summary": "",
-  "publishedAt": "2026-10-30T09:00:51.000Z",
+  "publishedAt": "2026-10-30T09:01:14.000Z",
   "image": "",
   "categories": [
    "case"
@@ -3118,19 +3224,6 @@
   "isPR": false
  },
  {
-  "id": "7e4f5b808d6d",
-  "title": "国会答弁の作成支援するＡＩ導入",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IWnRHeVlFNUt1VnA3d1ppMXhqRjFHUkFQQjUzTk14TExLVEdaZWhKcVhQNXpUbzNPV1FZNGlCOVMwSTEyV0tHYWk1dWF5NjdLNVB4ZG04RHZtZG8?oc=5",
-  "source": "下野新聞社",
-  "summary": "",
-  "publishedAt": "2026-10-30T06:15:30.000Z",
-  "image": "",
-  "categories": [
-   "case"
-  ],
-  "isPR": false
- },
- {
   "id": "63f4b0c7fbb0",
   "title": "国会答弁の作成支援するAI導入 政府職員の負担軽減、デジタル庁",
   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xNmU1VnRoYWlJcFZZMlJhVy00Rm1NVmtWVnVWSTE4NXhhQ2xTOVRvb2pYbnRUNDJ5OVhWcmhiZkZRRy10WkdDTjRqVGRMTlhQbzBkbEJqNC16dw?oc=5",
@@ -3236,6 +3329,19 @@
   "isPR": false
  },
  {
+  "id": "7e4f5b808d6d",
+  "title": "国会答弁の作成支援するＡＩ導入",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LWnAzYjVhVDNPbHN2Y2huVE1FSWRKMTduNk9PbjNSU3lUcHAyYVZ3NTNVRDZCalctazNpSXFnUm9LSHlSU1FXaTNPUzFySVFkWnZxZnNWdEJjdw?oc=5",
+  "source": "中国新聞デジタル",
+  "summary": "",
+  "publishedAt": "2026-10-30T06:05:16.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "d39f5602d52a",
   "title": "【写真】国会答弁の作成支援するＡＩ導入 政府職員の負担軽減、デジタル庁",
   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iVmhlU2FHUFR4RHRVc0tXam5jZFFLdXIyN21GMVM0a3dzY1R4SXNEbmt3T185X25Lb1o5TFpudUlrYTFlRGdqQV9ER09DeC12eDRGcXJDN2l2SC0tbzBVeDNPSW5DRXhy?oc=5",
@@ -3287,6 +3393,19 @@
   "image": "",
   "categories": [
    "policy",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "10d594fb11d4",
+  "title": "今年の輸入博 AIエージェントを導入して会場の円滑な通信を確保＝上海",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02dnBacmhhX0VKR0JXN1JhZXRzT3YxTVFZdVV4Q2xldHBiZzVHVUNmS2VRdmt3dUpjY1lJdWJUVlNjUEZrR0R3V2ptNWM2Z2dfUkdiV3RDTzNYWjFUeHB1TW1pUTNiZw?oc=5",
+  "source": "CGTN Japanese",
+  "summary": "",
+  "publishedAt": "2026-10-30T06:04:56.000Z",
+  "image": "",
+  "categories": [
    "case"
   ],
   "isPR": false
@@ -3623,7 +3742,7 @@
  {
   "id": "94da8d0fab44",
   "title": "AI予言者ファンド、分散型ネオクラウドへの投資勧誘－国防総省も注目",
-  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qSVpZMzNxR3JuSUJZbG1zT0hDME1weHN1OTNmbjhwTWdtTXNBNGhKYlMyalRSZzctdHoyLVhGXzVsc05hdGJwa0tOMGE3dDNLUTRzYmZyYmgwMWxQdjZtR0J6SVFOSUdFODJCRkN4cUFZYWpPQTE0?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRnV4bUsweEVMWk1rTXVHV2FLcS1vNjRXcVhfbjBYOFRTNlRVUnAtdnlyc1Z3S1dRTndSTHlqSXRMZ3J5ZTJXWjJPTzNaR21FaHFaUG5Ib0hPank3Z3JjT2RzYTR4bFhJWmpCaEhQUHVoNjI2NkRGRndORFdTOHp0a1hmVTVFMEZUcnl2bVpR?oc=5",
   "source": "Bloomberg.com",
   "summary": "",
   "publishedAt": "2026-10-30T05:27:00.000Z",
@@ -4873,19 +4992,6 @@
   "categories": [
    "business",
    "infra"
-  ],
-  "isPR": false
- },
- {
-  "id": "10d594fb11d4",
-  "title": "今年の輸入博 AIエージェントを導入して会場の円滑な通信を確保＝上海",
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02dnBacmhhX0VKR0JXN1JhZXRzT3YxTVFZdVV4Q2xldHBiZzVHVUNmS2VRdmt3dUpjY1lJdWJUVlNjUEZrR0R3V2ptNWM2Z2dfUkdiV3RDTzNYWjFUeHB1TW1pUTNiZw?oc=5",
-  "source": "CGTN Japanese",
-  "summary": "",
-  "publishedAt": "2026-10-30T03:12:29.000Z",
-  "image": "",
-  "categories": [
-   "case"
   ],
   "isPR": false
  },
@@ -6557,7 +6663,7 @@
  {
   "id": "6a6fd5b5bdd1",
   "title": "AIの拡大が社会にもたらした「新たなリスク」、各国の対応は足並み揃わず…AI規制のあるべき姿",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Dd0xnTHpUclFMZ0F3ZEFLdnd2TWFIVG9JS3NGTDAwTnVpMWtNX25SX1EwTElvc0NSclVJVVlQNjlPbWpWQzdGcC1NZEF2QVRsc1loNVgwRU9XQQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Wk02Y1REcW5NS2xsQ3JELUNsSDFMTHZhSlVHdDhpbTFFUGJpRVhzalJVcjlMVEMwb2VOaVhNU0QwRGtoTmZvS1J1X09YMWZBanhud0dPdGRtR0JMdVJKa0dmMk82UFU?oc=5",
   "source": "ニューズウィーク日本版",
   "summary": "",
   "publishedAt": "2026-10-30T01:31:00.000Z",
