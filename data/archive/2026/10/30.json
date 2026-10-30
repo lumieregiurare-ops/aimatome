@@ -1,5 +1,18 @@
 [
  {
+  "id": "9b6aabd372eb",
+  "title": "Jamf CLIを自然言語でサクッと操作する",
+  "url": "https://zenn.dev/shogohs/articles/4d5260cf1bf1b5",
+  "source": "Zenn",
+  "summary": "セットアップ Jamf CLIのセットアップ方法は複数ありますが、このうちJamf Pro ダイレクトセットアップは非推奨とされているので、本稿ではJamf Platform Gateway セットアップを使用します。 # Jamf Platform Gateway セットアップ jamf-cli platform …",
+  "publishedAt": "2026-10-30T14:51:01.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "9d3fabbd7b75",
   "title": "AIのための資金調達競争",
   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UWXhDMVhLVFphc0RoUXFqMmJvakNfbzlaa0puOUJ6U0hNQm5VaU1vR294eC04N0tvSlBJSnd6U2ZZTlRFUy1FT201M0ZFOHRGQmhucmNBSW1Ecm1tOE1xdno4d1BLQWR3Ujl0RmtB?oc=5",
@@ -9,6 +22,19 @@
   "image": "",
   "categories": [
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "55b305dfcec0",
+  "title": "短尺I2Vのはしご：live見積まで落とす手順",
+  "url": "https://zenn.dev/mixvioai/articles/a7a792ae9cfb44",
+  "source": "Zenn",
+  "summary": "Tech 向け記事です。MixVio の Image-to-Video で、短尺・低解像度のはしごをチームの既定にし、Generate 直前の live 見積確認までをチェックリスト化します。ソース静止画の疑似コード検証（別角度）とは役割を分け、ここでは「設定はしご＋見積＋1変数再試行」に絞ります。事実は MixVi…",
+  "publishedAt": "2026-10-30T14:32:18.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -107,6 +133,19 @@
   "isPR": false
  },
  {
+  "id": "22f63a86e08c",
+  "title": "古い記録をAIに渡すとき、3つの日付を分ける理由",
+  "url": "https://zenn.dev/build_anotherme/articles/c433b4055e025d",
+  "source": "Zenn",
+  "summary": "昔の会話や資料を、後からAIの記憶にまとめて入れる。そんなとき、「この情報はいつのことか」と「AIはいつそれを知ったのか」がずれることがあります。出来事の日付だけを見ていると、過去のある時点でAIが何を知っていたのか、取り違えるかもしれません。 まず、後から取り込むと何が混ざるのか たとえば、古い会話ログに「4月から…",
+  "publishedAt": "2026-10-30T14:11:38.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "78437c457383",
   "title": "AIの進歩：最新モデルと開発動向",
   "url": "https://qiita.com/maskot1977/items/1c5697fc19c9c46f0ef1",
@@ -174,6 +213,19 @@
   "isPR": false
  },
  {
+  "id": "29c62136bc83",
+  "title": "会話を引き継ぐ道具を4つ読み比べたら、自分の道具だけ鍵を伏せていなかった",
+  "url": "https://zenn.dev/shoujiki_panman/articles/session-relay-compare-and-redact",
+  "source": "Zenn",
+  "summary": "AIの会話を別のAIへ引き継ぐ道具を、自分の session-relay を含めて4つ、READMEで読み比べました。ChatGPTのdots（常に動いているエージェント）から会話を預けられるのは、session-relay だけでした。一方で、会話に混ざったAPIキーを伏せていないのも、session-relay …",
+  "publishedAt": "2026-10-30T14:01:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "e36aa05c06b3",
   "title": "文章のAIっぽさを抑えるプロンプト",
   "url": "https://imoz.jp/scraps/202610_humanizer.html",
@@ -209,6 +261,46 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c54e3d239708",
+  "title": "エージェント（AI）とは？自律的に行動するAIをわかりやすく解説",
+  "url": "https://zenn.dev/tkrndisk/articles/g-kentei-ai-agent-tech",
+  "source": "Zenn",
+  "summary": "はじめに エージェント（Agent）は、AI研究における重要な概念で、環境を認識し、自律的に意思決定し、行動を実行するシステムを指します。1990年代より計算機科学の中心的研究対象となっており、ロボット、ゲームAI、シミュレーションなど多様な応用があります。 定義 エージェント： 環境から入力（センサー信号）を受け取…",
+  "publishedAt": "2026-10-30T13:36:56.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e1e8793433b0",
+  "title": "【小学5年生でもわかる】AIエージェントってなに？",
+  "url": "https://zenn.dev/tkrndisk/articles/g-kentei-ai-agent-kids",
+  "source": "Zenn",
+  "summary": "エージェントとは、「自分で考えて、自分で行動するAI」という意味です。 想像してみてください。ゲームの中で、NPCキャラクター（コンピュータが操作するキャラ）がいますね。人間プレイヤーから指示されなくても、「あ、敵が来た、逃げよう」とか「今のうちにお店で買い物しよう」とか、自分で判断して行動します。 そういう「自分で…",
+  "publishedAt": "2026-10-30T13:36:56.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4fbea518a966",
+  "title": "同じ6工程を工程ごとに6回に分けたら、達成件数は30/30で同じまま、料金1.55倍・所要1.85倍になった",
+  "url": "https://zenn.dev/numarn/articles/task-steps-split-vs-one-request-handson",
+  "source": "Zenn",
+  "summary": "X で、検定試験の練習問題を見かけました。「複雑な仕事をAIに依頼します。より適切なプロンプト設計は どれ?」という問いに、「すべての作業を曖昧な一文で指示する」「『いい感じにやって』と任せる」 「作業を工程ごとに分けて順番に処理させる」の3つが並んでいます。設問自体には数値が1つも無いので、 どれが正解かという話は…",
+  "publishedAt": "2026-10-30T13:33:58.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -253,6 +345,19 @@
   "isPR": false
  },
  {
+  "id": "a04dc09a6398",
+  "title": "Claude Codeの点検が16日間、嘘をついた",
+  "url": "https://zenn.dev/pcnotonari/articles/4b6b18838f1d15",
+  "source": "Zenn",
+  "summary": "ホームページの記事が、10月2日から16日間、1本も増えていませんでした。毎週金曜に自動で2本書いて公開する仕組みを動かしていて、その仕組みは毎回「終わりました」と答えていました。 神戸で中古のパソコンを直して貸しています。記事を書く手が空いていないので、週2本の更新はClaude Codeの担当です。 先に書きます…",
+  "publishedAt": "2026-10-30T13:06:34.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "95eb482efbb1",
   "title": "Claude Codeでは専門家が86%の選択でエージェントに従った",
   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzlMU1pTVFF4UkFEeHM2N0g3dFdJemM0TFNVS0dBX25sSEJTVG1nQ1VadEoxMjJGb3N0TVFaWmw1bXhqbEZFYmtMUktuRzZmVVhIaUo0eTY4dHowRkJsWi1aLUFNVDY0THpuZVhDLUlEQ01LcmNqWjMzRHhENWU3WnRrQWgtUkZDWUE?oc=5",
@@ -280,6 +385,19 @@
   "isPR": false
  },
  {
+  "id": "dea70d4c790f",
+  "title": "AIで既存HTMLにFAQを追加する方法：ページ全体を再構築しない編集",
+  "url": "https://zenn.dev/htmldrag/articles/a49bf5186423a2",
+  "source": "Zenn",
+  "summary": "クイックアンサー：周囲のスタイルやレイアウトを壊さずに既存のHTMLページにAIでFAQセクションを追加するには、4段階の範囲限定ワークフローを実践します。 **検証済み事実の整理：**元のページに記載されている確定情報のみから、訪問者が意思決定に必要な5〜6問（準備、納期、納品形式など）を抽出します。 **挿入位置…",
+  "publishedAt": "2026-10-30T12:57:12.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "1587c77b1ec4",
   "title": "ChatGPTで画像生成できない原因は？症状別の対処法を徹底解説",
   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fXzhjWmNKRTRKbms4N2JOZUpqMGptdEFQM29aV3dpWkI1b3RxMWlxTVVsRTRYMEZQYzMxbDR2UVpjZ2Z4US1QMnpaaEVKbm5jLW1DM0RXUlUtVTZBWU1yNFJ0M3lDMEdGRkUxRkV3?oc=5",
@@ -299,19 +417,6 @@
   "source": "AIsmiley",
   "summary": "",
   "publishedAt": "2026-10-30T12:52:55.000Z",
-  "image": "",
-  "categories": [
-   "dev"
-  ],
-  "isPR": false
- },
- {
-  "id": "dea70d4c790f",
-  "title": "AIで既存HTMLにFAQを追加する方法：ページ全体を再構築しない編集",
-  "url": "https://qiita.com/htmldrag/items/c90eecd4665a806ac913",
-  "source": "Qiita",
-  "summary": "クイックアンサー（TL;DR）：周囲のスタイルやレイアウトを壊さずに既存のHTMLページにAIでFAQセクションを追加するには、4段階の範囲限定ワークフローを実践します。 **検証済み事実の整理：**元のページに記載されている確定情報のみから、訪問者が意思決定に必要な5...",
-  "publishedAt": "2026-10-30T12:52:53.000Z",
   "image": "",
   "categories": [
    "dev"
@@ -903,10 +1008,10 @@
  {
   "id": "92082f23f035",
   "title": "キオクシア中間純利益37倍 AI半導体堅調2・2兆円",
-  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9lV3VfN216MFJNSkFqcy1BaW9IQkNVQVFaUGlaTzd6NkdkQkx3TWZiV01PeUZGT1Vwc0YzRHp5c2JJVzlOVF9TaFpOS0NkZm40eXNQX1RR?oc=5",
-  "source": "西日本新聞me",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mdl9jbUxPSzdhdTFrUjd4LXhqUzVJRjdTNXdhbXU4VjlpU1VSNzc3dGsxRldzNEJ2YUhfS2RCbC1Ea3ZVT1ltYm5aeHYxOVFhbGt1LWJrbDEyQQ?oc=5",
+  "source": "北海道新聞デジタル",
   "summary": "",
-  "publishedAt": "2026-10-30T10:32:12.000Z",
+  "publishedAt": "2026-10-30T10:40:03.000Z",
   "image": "",
   "categories": [
    "infra"
@@ -1029,6 +1134,32 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9e90d5be40b7",
+  "title": "クロス・マーケティングG、生成AI開発の「ちょっと」を12月に完全子会社化",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GWW14c0RDYXlXUTh5Y1E0eGw1NmdteENoZzhYLVIxS2ZIMUVBSWJKUTV6RmJxaGIxZFMtdXF0RF9sc2FTb0dOYTdmTU04RWQxeGNwNTdZUnlnMkFZUngydDhyUzJsSS1jOUxVSGdjWHdMclBs?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-30T10:06:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "480b242249c7",
+  "title": "鴻海、オープンAIと新提携を準備 劉会長「AIバブルではない」と強調",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PTlN5b3B3eXFhaG1ObF85LXN5TU44amNUUWlQblJNRDJjWjFuZV9iTHQ2QklXVDdpTXgyaEVBdk55dmtvTmNTSEl6RllxSUZJSjRuOEl5eDdJVy12ZmZ4UENaQUpGTE91bDE2TmVvNTlSTWMw?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-30T10:05:00.000Z",
+  "image": "",
+  "categories": [
+   "business"
   ],
   "isPR": false
  },
@@ -1186,6 +1317,19 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b8f0c1b4a585",
+  "title": "劉揚偉氏、オルトマン氏との会談を認める 鴻海とOpenAIが新協力協議中、来年売上高は2桁成長を目指す",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XNFFDclRBbTZvRjJGWDRFakhBQVZIdWo5TDFpdzdQRzFOeFRpU052X0VhLUdrMElpdFBvMWZaVkhmdjhMdjRSX28xREgxRW0xaGR1NUpoMXFoZmFoczhfN3VaY044Rm5mVk9NeE42M3Zib09z?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-30T09:55:00.000Z",
+  "image": "",
+  "categories": [
+   "business"
   ],
   "isPR": false
  },
@@ -5143,10 +5287,10 @@
  {
   "id": "c945e37b553e",
   "title": "OpenAI、Google TPUの直接購入を計画か 独自チップと並行して調達先を多様化",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QTG9fSHJjcGxCTU1ydVRYbzJaaGd2bWRINHd0U3FZYUNhUXpOUUh6NGR4akNMUDVyczFDcFB6M3owUVV6NjFSLThDMVRxQVlWanNxbXhyYWxEWUJZc1hDUG4zb9IBaEFVX3lxTFBQZGs5ZEhrbGdsdWJST3hFZGpqN0N0YndkaTFydk9LYTh6QzFpMnRkWmt5SkRsamcwS184VnEzVGU5emh0UFBDNUZrUDgzZ29mXzRNUmpIN25PMWJJVnFVelE4Tm5COHhZ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQZGs5ZEhrbGdsdWJST3hFZGpqN0N0YndkaTFydk9LYTh6QzFpMnRkWmt5SkRsamcwS184VnEzVGU5emh0UFBDNUZrUDgzZ29mXzRNUmpIN25PMWJJVnFVelE4Tm5COHhZ0gFoQVVfeXFMUFBkazlkSGtsZ2x1YlJPeEVkamo3Q3Rid2RpMXJ2T0thOHpDMWkydGRaa3lKRGxqZzBLXzhWcTNUZTl6aHRQUEM1RmtQODNnb2ZfNE1Sakg3bk8xYklWcVV6UThObkI4eFk?oc=5",
   "source": "財経新聞",
   "summary": "",
-  "publishedAt": "2026-10-30T03:04:12.000Z",
+  "publishedAt": "2026-10-30T03:04:00.000Z",
   "image": "",
   "categories": [
    "infra"
@@ -6663,7 +6807,7 @@
  {
   "id": "6a6fd5b5bdd1",
   "title": "AIの拡大が社会にもたらした「新たなリスク」、各国の対応は足並み揃わず…AI規制のあるべき姿",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Wk02Y1REcW5NS2xsQ3JELUNsSDFMTHZhSlVHdDhpbTFFUGJpRVhzalJVcjlMVEMwb2VOaVhNU0QwRGtoTmZvS1J1X09YMWZBanhud0dPdGRtR0JMdVJKa0dmMk82UFU?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Dd0xnTHpUclFMZ0F3ZEFLdnd2TWFIVG9JS3NGTDAwTnVpMWtNX25SX1EwTElvc0NSclVJVVlQNjlPbWpWQzdGcC1NZEF2QVRsc1loNVgwRU9XQQ?oc=5",
   "source": "ニューズウィーク日本版",
   "summary": "",
   "publishedAt": "2026-10-30T01:31:00.000Z",
