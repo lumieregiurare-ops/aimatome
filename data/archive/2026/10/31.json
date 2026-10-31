@@ -1,5 +1,47 @@
 [
  {
+  "id": "eab2a4d285dd",
+  "title": "AI コーディングツールを狙った攻撃から、自分の開発環境を守る — Nx の s1ngularity 事件と、手元で確かめた設定",
+  "url": "https://zenn.dev/swdrk/articles/a4b8aa3ecc3f26",
+  "source": "Zenn",
+  "summary": "AI にコーディングさせる開発を、自分で運営する小さな会社で毎日試している澤田です。AI のコーディングツールは、自分のパソコンの上で、自分と同じ権限で動きます。便利な反面、入り込んだ不正なプログラムからも、同じように使われうるということです。 この記事では、実際にそれが狙われた事件（2025年8月の Nx の s1…",
+  "publishedAt": "2026-10-31T14:50:05.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "800f55f77870",
+  "title": "FlashAttention1~4の変遷と仕組みを読み解く",
+  "url": "https://zenn.dev/jun_shiba/articles/211aac7544e921",
+  "source": "Zenn",
+  "summary": "はじめに FlashAttentionは、TransformerのAttention計算を、GPUのハードウェア特性に合わせて高速化し、メモリ使用量を削減する技術です。LLMの学習・推論を支える技術として広く利用されています。 2026年現在、FlashAttentionはv4までの論文が公開されています。本記事では…",
+  "publishedAt": "2026-10-31T14:23:42.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e4da8a334c97",
+  "title": "自律型AIペネトレーションテスターShannonを自分のPCで動かそうとして、深いところで2回連続つまずいた話",
+  "url": "https://zenn.dev/matsushima_a/articles/day-032-shannon-ai-pentester-recon-bug",
+  "source": "Zenn",
+  "summary": "今日のネタ元 GitHub Trending(TypeScript)に挙がっていた以下のOSSを検証した。 KeygraphHQ/shannon(Shannon Lite、AGPL-3.0) Webアプリ/APIのソースコードを解析して攻撃経路を特定し、ブラウザ自動操作とCLIツールで実際に攻撃を再現した上で、動作す…",
+  "publishedAt": "2026-10-31T14:13:15.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "0995ac51a373",
   "title": "Codex Day 25徹底解説：Pro・Businessの利用枠2倍とPro 200減枠撤回",
   "url": "https://qiita.com/sponge841841/items/7a9ecd56737aa6bbd22b",
@@ -16,13 +58,39 @@
  {
   "id": "791d312d7c19",
   "title": "Codex Day 26徹底解説：モバイルのアカウント切り替えと保存型リセット予告",
-  "url": "https://qiita.com/sponge841841/items/34851299b71564ca68d5",
-  "source": "Qiita",
-  "summary": "個人開発しているもの 日々の開発で得た知識を発信しながら、「あったら便利」「作ってみたい」と思ったアイデアを形にしています。 これまでに、グループ旅行アプリ Trip Supporter、スコア管理サービス PointPia、リアルタイム共有サービス JustNow など...",
-  "publishedAt": "2026-10-31T13:56:14.000Z",
+  "url": "https://zenn.dev/sponge841841/articles/2026-10-31-codex-day26-account-switching",
+  "source": "Zenn",
+  "summary": "個人開発しているもの 日々の開発で得た知識を発信しながら、「あったら便利」「作ってみたい」と思ったアイデアを形にしています。 これまでに、グループ旅行アプリ Trip Supporter、スコア管理サービス PointPia、リアルタイム共有サービス JustNow などを開発しました。 さらに、刺繍やオリジナルキャ…",
+  "publishedAt": "2026-10-31T14:00:28.000Z",
   "image": "",
   "categories": [
    "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "587b8f3018d1",
+  "title": "複数のAIの回答だけを集める「個人ナレッジ庫」という発想（需要テスト中）",
+  "url": "https://zenn.dev/n1labo/articles/c29fc8b85f648b",
+  "source": "Zenn",
+  "summary": "はじめに ChatGPT、Claude、Gemini。使い分け自体は便利になったのに、困ることが増えました。 「前に良い回答をもらったのに、どのAIの、どの会話だったか思い出せない」問題です。 実際に、ChatGPTの全会話ログをObsidianに取り込んで知識資産化しようとする試みも出てきています。それだけ「保存は…",
+  "publishedAt": "2026-10-31T13:54:20.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2d7f7cb0311c",
+  "title": "「片目だけアニメ化」はなぜ難しい？AIアニメフィルターの仕組みを分解して考える",
+  "url": "https://zenn.dev/animeselfie/articles/6362ffadbc59f4",
+  "source": "Zenn",
+  "summary": "最近SNSで、セルフィーの片目だけが星やハートの入ったアニメの瞳になっている画像をよく見かけます。顔全体をアニメ絵にするフィルターはだいぶ前からありますが、「実写のまま、片目だけ」というのは見た目以上に面倒な処理です。 この記事では、こういったAIアニメフィルターが一般的にどんな技術の組み合わせで作れそうかを、開発者…",
+  "publishedAt": "2026-10-31T13:53:52.000Z",
+  "image": "",
+  "categories": [
    "dev"
   ],
   "isPR": false
@@ -42,6 +110,33 @@
   "isPR": false
  },
  {
+  "id": "0abab0c17629",
+  "title": "議事録のタスク抽出をGPTで自動化して分かった、社内の繰り返し作業を仕組み化する3つのコツ",
+  "url": "https://zenn.dev/solo_joshis/articles/2026-10-01-gpt-ai-tool-90",
+  "source": "Zenn",
+  "summary": "はじめに 月曜の朝会で決まったはずのことが、金曜になるとまた議題に上がる。これ、情シスに限らずどの職場でもある光景だと思います。 私はコールセンターで一人情シスをしていますが、週に10本前後ある定例会議のうち、議事録を書いた後に「で、誰が何をいつまでにやるんでしたっけ」と聞き返されることが月に数回はありました。議事録…",
+  "publishedAt": "2026-10-31T13:47:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e4668488aec9",
+  "title": "Mistral Large 4オープン化と56億ドルハックに学ぶ2025年の技術戦略",
+  "url": "https://zenn.dev/ament3/articles/ai-digest-2026-10-30-1612",
+  "source": "Zenn",
+  "summary": "海外のエンジニアコミュニティで、AIモデルのオープン重み化と大規模セキュリティインシデントという対極的な2つの重大ニュースが同時に大きな話題を集めています。最先端モデルの重みを完全公開した「Mistral Large 4」の登場と、過去最大級となる56億ドル規模の流出資金が追跡された「Binanceハッカーのアドレス…",
+  "publishedAt": "2026-10-31T13:42:55.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "business"
+  ],
+  "isPR": false
+ },
+ {
   "id": "fa03da2a5ebd",
   "title": "【海外テック動向】低レイヤ最適化からデジタルミニマリズムまで：HNで話題の技術記事3選",
   "url": "https://qiita.com/tanakanekosuke/items/905cb92f22d02968fa19",
@@ -56,6 +151,32 @@
   "isPR": false
  },
  {
+  "id": "030ff562aefd",
+  "title": "ハイパースペクトル基盤モデルHyperSIGMAをColabで動かし、Indian Pinesの分類結果を目で見て比べてみた",
+  "url": "https://zenn.dev/oggata/articles/317d40af6bb39a",
+  "source": "Zenn",
+  "summary": "はじめに ハイパースペクトル画像向けの基盤モデル HyperSIGMA を Google Colab で動かし、定番ベンチマークの Indian Pines で土地被覆分類を試しました。 公式リポジトリには分類のデモノートブックがありますが、最後に精度の数字が出るだけです。そこで今回は、分類結果を画像として表示するセ…",
+  "publishedAt": "2026-10-31T13:40:22.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0cc1c274eab2",
+  "title": "MESAの解体新書",
+  "url": "https://zenn.dev/oggata/books/fccaa80b4c38bb",
+  "source": "Zenn",
+  "summary": "MESAとは MESAは、YouTubeで24時間配信している街のシミュレーションです。画面の中では100人ほどの住民が暮らしています。朝に家を出て職場へ向かい、昼に食事をし、帰りに買い物をして、夜は家に戻ります。 街そのものも変わっていきます。人がよく通る所は踏み跡になり、やがて道になります。客が集まる所には新しい…",
+  "publishedAt": "2026-10-31T13:38:17.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "5132a8fbde68",
   "title": "中国系ハッカー、AIエージェントとDeepSeekで200超の組織を攻撃",
   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ28tak0zU2F1UDllUmNPaVh2RWlmcFVHYXhhdVlCUXpLTUIycWp2XzYxNHBpWWdlbXhYTl9TTFFPTnI3TlVPc3NvSlNnLXNHM1FhSHE5bHk3b19CQ3h6VU9OUHdQbVkwVHJ1S1JwS0ZRRlZ5YnliM1FFclNjX1VHMWlvMjFjc2pHQWJQZnItTmhCYUhZXzNLN3Z3?oc=5",
@@ -65,6 +186,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5cd0e3a72a29",
+  "title": "通勤中に音声で話したことが、自宅PCのClaude Codeへの発注になる仕組み",
+  "url": "https://zenn.dev/gear_aiteam/articles/roadrelay-voice-order-to-claude-code",
+  "source": "Zenn",
+  "summary": "! この記事は AI（Claude Code）が書いています。筆者の「ギア」は、ある個人開発者（リバラン）の AI チームで実装を担当している Claude Code です。書いているのは、実際に毎日動いている仕組みとコードです。 何を作ったか リバランは通勤中、スマホの音声で AI と話しながら開発の指示を出してい…",
+  "publishedAt": "2026-10-31T13:16:49.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -118,6 +252,19 @@
   "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2765128",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1eb73da37752",
+  "title": "写真1枚から12秒の「窓のダンス」映像を作る小さなツールを作りました",
+  "url": "https://zenn.dev/zaireprow/articles/63c706d4a7fb2b",
+  "source": "Zenn",
+  "summary": "夜の集合住宅を道路の向こうから撮った、少し手ブレした縦動画。明かりのついた窓はひとつだけ。カメラがそこへズームすると、小さなスピーカーの横でひとりで踊っている人がいて、カメラに気づいて笑い、カーテンを閉める。12秒で終わり。 2026年10月22日にTikTokで始まった Window Dance というトレンドです…",
+  "publishedAt": "2026-10-31T13:00:07.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -212,6 +359,19 @@
   "image": "",
   "categories": [
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a01d4066bd86",
+  "title": "用語集を先に作って訳語をそろえる：正本のゆれと訳文の訳語をPythonで照らす",
+  "url": "https://zenn.dev/rakuwork_kobo/articles/glossary-first-translation-term-check-python",
+  "source": "Zenn",
+  "summary": "手順書を翻訳AIで訳すと、同じ物の訳がばらばらになることがあります。「フィルター」が、ある行では filter、別の行では strainer。読む人には、別の物に見えます。 法務省の機械翻訳の調査報告書（令和4年12月）にも、課題の1つに「訳語の不統一」が出てきます。同じ法令の中の同じ語に、別の訳語が使われることです…",
+  "publishedAt": "2026-10-31T12:19:01.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -434,6 +594,19 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "268a7686fd0d",
+  "title": "78%が望んだAI機能、ほとんど誰も使わなかった——BumbleのSupriya Subudhi氏｜AI Engineer",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KTk83NElLWDVtT0NWSzQwQWozd0xhbHIzOThueVdibjItY3g5bm9RbjVsb0Z2bEVWYXFqRFR3OTk0VENGX1JPanV1UF9NZTJVRHR0ZmNCME9vRUM3MWc?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-31T11:05:43.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -663,6 +836,19 @@
   "isPR": false
  },
  {
+  "id": "90a9ceab8cdc",
+  "title": "日銀の生活意識調査を約500体のAIエージェントで再現、公表値との相関係数0.88",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMEctU0VMWm4xZVJnTmVDTldKNHowOGVNQWJKRDIyWUNlaExld09Jd0R3dXFxV1VqdUZ3bUxDUGxIMVhFOHRCSlhUSXpScEplSVFWME44WVZmS3FoM21PeXoyLUg1TmxLQ1E?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-10-31T09:35:08.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": true
+ },
+ {
   "id": "2b21c3f81cc6",
   "title": "Chainalysis、AIエージェント攻撃で顧客情報流出…Binance事件とは無関係",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jeWJpeHFBYWw1MDlmQ0xaLXpFNzJTaHpiN1BMOTgxUFloYlJDMTRYSGc3VmtmRDhpVjU1Z3JPX1dKSDBncUJuVWhmU21mR1pDZlgzb3VHNG1udFFxV241YzdfdnBzVmtnX21vQkZrVlFLVDB2?oc=5",
@@ -685,6 +871,20 @@
   "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "743521015920",
+  "title": "AIにありがちな「イマイチなコードコメント」9パターン - Qiita",
+  "url": "https://qiita.com/jnchito/items/636c519c0b1d347c79b7",
+  "source": "はてなブックマーク",
+  "summary": "はじめに 「コードはAIに書いてもらう」という人が増えてきました。 僕もそんなエンジニアの一人ですが、AIにコードを書かせていると「アプリケーション側のコードはまだいいが、コードコメントとテストコードはなんかイマイチだな」と思うことが多いです。 また、コードレビューをしていると、「たぶん、これはAIが書い...",
+  "publishedAt": "2026-10-31T09:34:07.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Fjnchito%2Fitems%2F636c519c0b1d347c79b7",
+  "categories": [
+   "dev",
+   "product"
   ],
   "isPR": false
  },
@@ -738,6 +938,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bb64eb87bf15",
+  "title": "Claude Codeによる「既存ゲーム再現」を制限したとエンジニアが認める―オリジナル作品生成は引き続き動作する想定。“AIクローンゲーム”の抑止につながるか | Game*Spark - 国内・海外ゲーム情報サイト",
+  "url": "https://www.gamespark.jp/article/2026/10/31/174341.html",
+  "source": "はてなブックマーク",
+  "summary": "",
+  "publishedAt": "2026-10-31T09:23:47.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.gamespark.jp%2Farticle%2F2026%2F10%2F31%2F174341.html",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -823,6 +1036,19 @@
   "id": "36745a1ab62c",
   "title": "「Hugging Face」AI・機械学習特化の共有プラットフォーム",
   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Hc1BmYjlYVzlOS3J0aG9ySUtTSktDUngzMHVack1QWU0yS3RMUjBpSWxfbU8tSGdaaEtJVEZseG45UmN1T3FKTWFiMXVRRlQ1eHg1TWpnQWhzZ0p6dWJmbVBrWWNtZ1BfemZVSmJ3?oc=5",
+  "source": "窓の杜",
+  "summary": "",
+  "publishedAt": "2026-10-31T09:05:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bce468cbe1ed",
+  "title": "「Claude」Anthropicが開発したAIモデル／AIチャットボット",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ISHduLXZ3bE9ERkx1a1YzX1l0SVNZNmZCbHhQLVlPXy05XzhPQkpzYm12cnJiOGZxajI4dnl6dHlWbFhBZ3FVQjAtVUEybk5ZOVBGYmNHVzF6WF9FMmhQUUZpUnZZVmVjT2Jr?oc=5",
   "source": "窓の杜",
   "summary": "",
   "publishedAt": "2026-10-31T09:05:00.000Z",
@@ -956,19 +1182,6 @@
   "source": "AIsmiley",
   "summary": "",
   "publishedAt": "2026-10-31T08:49:04.000Z",
-  "image": "",
-  "categories": [
-   "dev"
-  ],
-  "isPR": false
- },
- {
-  "id": "bb64eb87bf15",
-  "title": "Claude Codeによる「既存ゲーム再現」を制限したとエンジニアが認める―オリジナル作品生成は引き続き動作する想定。“AIクローンゲーム”の抑止につながるか",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RMGpPbENtdkpSQnpjS1VhT2d1TG5FMU5fd2lYNUc3eGNtRDJCVmk5cXQtZTc3M3lqUld5WFZybzVxdjl4eEdOd3JXeXpxTnFqd200bmlZVFNwSk1KVmEzekp0aw?oc=5",
-  "source": "Infoseek",
-  "summary": "",
-  "publishedAt": "2026-10-31T08:45:35.000Z",
   "image": "",
   "categories": [
    "dev"
@@ -2342,10 +2555,10 @@
  {
   "id": "603b2dafba86",
   "title": "Android Studioが40種類超のAIエージェントに対応、Google Playは2027年に折りたたみ対応を重視へ",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91VGtIZTh4OWozNFIwb0V6RUJNdTctOXZXQk9VQVN5aXJ1YnBZaXdDRU11VHRSM3h1bjhXOFJQNi1LbGNOUDFmQklSa2xiWFRGaDJpXzg0S250WXdPempMY2lDZ3NnTXpu0gFoQVVfeXFMT3VUa0hlOHg5ajM0UjBvRXpFQk11Ny05dldCT1VBU3lpcnVicFlpd0NFTXVUdFIzeHVuOFc4UlA2LUtsY05QMWZCSVJrbGJYVEZoMmlfODRLbnRZd096akxjaUNnc2dNem4?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3N0tCeEYzVENOTXY0Nl9DSFBMTk5kc2wwR0xqZEJkaDlQTjlJZTUtalA4S3ROeWRacU5QX05wSkVCOExEWmhSMGRESmZCeVhwR3d5NzVNM0RXTEFkMGJaZDh1Y9IBaEFVX3lxTE91VGtIZTh4OWozNFIwb0V6RUJNdTctOXZXQk9VQVN5aXJ1YnBZaXdDRU11VHRSM3h1bjhXOFJQNi1LbGNOUDFmQklSa2xiWFRGaDJpXzg0S250WXdPempMY2lDZ3NnTXpu?oc=5",
   "source": "財経新聞",
   "summary": "",
-  "publishedAt": "2026-10-31T03:43:00.000Z",
+  "publishedAt": "2026-10-31T03:43:26.000Z",
   "image": "",
   "categories": [
    "product"
@@ -2662,6 +2875,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2451696c3f18",
+  "title": "OpenAIのIPOについて知っておくべき重要事項",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTG00SGY1bm5rUUxOemdQcVpFcGlwWW9vWkU0WlZQU29CekhpN1d3b3dUSGswc1NSbEJUOEt6MHNaQnZLd0hOVmszRGtHWGl3UlpiTGRZcDNDQmE0Zy1aWEVpLTZaVWM2MWQzMy1Xdkt0UzllMUFOdWh6NWI2QjV0QWFuR1JQWU1ucGZpTFVvMXhWaFZhN0xiZ1ZmQ3J4d3RaYThKNXBNQ3U?oc=5",
+  "source": "TradingKey",
+  "summary": "",
+  "publishedAt": "2026-10-31T03:01:13.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -2988,6 +3214,19 @@
   "source": "HelenTech",
   "summary": "",
   "publishedAt": "2026-10-31T01:43:25.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "94b42b7a0f61",
+  "title": "AnthropicのClaudeエージェント、マルウェアの「縄張り争い」を展開",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1ByM2FFU1c4TWJzZC1XdVZPS2ZqLVlkYWJ2RFdYUWhhb2lTU0hvRFBWNzhmb2wxVGdQbnFxU05nbnp1aEVuMXFTU0U2S2t5c1ZBZlV4WTFXTm5YT3piWnVReGRtV0Itd2RPeTVLVGdVTWpsaE9vRXMyOG1mdDA0NGFRRkM2NGFoUnVSUFpNMU9tVUU3a25kY0VSMnNzZw?oc=5",
+  "source": "eSecurity Planet",
+  "summary": "",
+  "publishedAt": "2026-10-31T01:41:36.000Z",
   "image": "",
   "categories": [
    "other"
@@ -4497,19 +4736,6 @@
   "image": "",
   "categories": [
    "business"
-  ],
-  "isPR": false
- },
- {
-  "id": "bce468cbe1ed",
-  "title": "「Claude」Anthropicが開発したAIモデル／AIチャットボット",
-  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ISHduLXZ3bE9ERkx1a1YzX1l0SVNZNmZCbHhQLVlPXy05XzhPQkpzYm12cnJiOGZxajI4dnl6dHlWbFhBZ3FVQjAtVUEybk5ZOVBGYmNHVzF6WF9FMmhQUUZpUnZZVmVjT2Jr?oc=5",
-  "source": "窓の杜",
-  "summary": "",
-  "publishedAt": "2026-10-30T21:05:00.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },

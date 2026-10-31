@@ -1,5 +1,32 @@
 [
  {
+  "id": "62553703b4b5",
+  "title": "AI効果とは？AIが上手になるほど『AI』と呼ばなくなる現象をわかりやすく解説",
+  "url": "https://zenn.dev/tkrndisk/articles/g-kentei-ai-effect-tech",
+  "source": "Zenn",
+  "summary": "はじめに AI効果（AI Effect）は、コンピュータ科学者ダグラス・ハフスタッターが1985年に提唱した概念です。AIが何かの問題を解決すると、その解決策は「AI」ではなく「単なるコンピュータプログラム」と見なされるようになるという、AI評価の相対性を指摘する用語です。 定義 AI効果： 何らかの問題解決がコンピ…",
+  "publishedAt": "2026-10-31T15:28:55.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9e3adc8642f8",
+  "title": "【小学5年生でもわかる】AI効果ってなに？",
+  "url": "https://zenn.dev/tkrndisk/articles/g-kentei-ai-effect-kids",
+  "source": "Zenn",
+  "summary": "AI効果とは、「コンピュータが何かができるようになると、人間はそれを『AI』と呼ばなくなってしまう」という現象です。 例えば、昔、メールを自動で分類することはとても難しいと思われていました。だから、「スパムメールを自動判別するのはすごいAI技術だ！」と言われていました。 でも今、メールの自動分類は当たり前になってしま…",
+  "publishedAt": "2026-10-31T15:28:55.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "68239917c581",
   "title": "AWS試験を初めて英語で受けて分かったこと",
   "url": "https://qiita.com/kenken38/items/bd9ac1951e42b4fb8aa7",
@@ -13,15 +40,56 @@
   "isPR": false
  },
  {
+  "id": "ec582936dd56",
+  "title": "AIを10窓並行で回してたら頭がパンクしたので「進行板」を作った",
+  "url": "https://zenn.dev/sato_ken/articles/46f7f1f7a1e856",
+  "source": "Zenn",
+  "summary": "AIに働かせたら頭が混乱ｗ アラ還老害エンジニアです。コードはもう書きません、というか職業病の腰と首のヘルニアと腱鞘炎で書くのが辛くなったのでコードは殆どAIに書かせています。 今の体制は、 Claude のチャット（作戦担当） Claude Cowork（作業担当） Claude Code（実装担当） Codex（…",
+  "publishedAt": "2026-10-31T15:18:23.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "2a101fa2fa20",
   "title": "TISIと北海道中央バス、AIを活用したモビリティ型音声ガイドを共同開発 定期観光バスで11月4日から運用開始",
   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZLVdaclIzdmxaNjBEUklRcks3S1NVRnJndzJLV1Y2Tk9aMzlQWXZQcWVNS0JyNWZmcW9RWTFYdVhXWGgzWU43TW56eFFmTGNVLTRTeGhWSUo5NHM?oc=5",
   "source": "ループバウンド",
   "summary": "",
-  "publishedAt": "2026-10-31T15:12:35.000Z",
+  "publishedAt": "2026-10-31T15:12:26.000Z",
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7fd3d8c10c70",
+  "title": "AI Hack提供のAIO分析ツール「AI Hack」が最新AIモデル「Claude Haiku 5.5」「Gemini 4 Argon」「Gemini 3.5 Flash Lite」に対応",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Yd2FtZW5wUWJqeWJfNnpDeDV3UkJVMmRJZ3FRYU4ta2lPaFNhcTd5bmQzSW9pdTI0LWxyMU9GS0d4ZTBvTHYwS3VlX2dKTFptd2ZQS19wTmdMMHFNbmpXVERXWWY0cHZ3NVJBa3dieDcwVkJy?oc=5",
+  "source": "Excite エキサイト",
+  "summary": "",
+  "publishedAt": "2026-10-31T15:10:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b3e21232e043",
+  "title": "従量課金APIでtimeoutしても「0円」と決めつけない——unknown cost・lease・reconcileの設計",
+  "url": "https://zenn.dev/asagiman/articles/metered-api-unknown-cost",
+  "source": "Zenn",
+  "summary": "従量課金APIをagentから呼ぶとき、危険な実装があります。 request ↓ timeout ↓ 失敗した ↓ cost = 0 ↓ retry クライアント側では自然に見えます。 しかし、timeoutが証明しているのは、こちらが待つのをやめたことだけです。 provider側では、 requestを受理済み…",
+  "publishedAt": "2026-10-31T15:03:04.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
   ],
   "isPR": false
  }
