@@ -1,5 +1,45 @@
 [
  {
+  "id": "9d731bd150bd",
+  "title": "プロンプトインジェクションを再現して防御策を比較検証する",
+  "url": "https://qiita.com/hono_ai_labho/items/4b2166ec76641fea07f0",
+  "source": "Qiita",
+  "summary": "生成AIをアプリケーションに組み込むと、ユーザー入力や外部文書に含まれる「命令らしい文章」が、開発者の意図した指示を上書きしようとすることがあります。これはプロンプトインジェクションと呼ばれる代表的な攻撃です。 今回は、ローカルで再現しやすい単純な例を使って、どの防御策が有...",
+  "publishedAt": "2026-11-01T12:56:31.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bb7c4d6d618d",
+  "title": "muse+grok+Scriptableで自分専用ニュースまとめを作ってみた",
+  "url": "https://qiita.com/eri1600/items/1dc522be2aab57501c03",
+  "source": "Qiita",
+  "summary": "はじめに 皆さん、twitter(旧X)で時間溶かしてますか？私は1日に36時間くらいtwitterとにらめっこしています。 最新情報、特にLLMまわりは流れが速すぎて、タイムラインを眺めているだけでは追いつけませんよね。かといって自分で定期的に検索しに行くのもめんどくさ...",
+  "publishedAt": "2026-11-01T12:41:06.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "cbebd972a549",
+  "title": "Google ADK の telemetry schema v2 に移行したら分析基盤が全滅した話",
+  "url": "https://qiita.com/toyama0919/items/ad145691fac9a6e8bb34",
+  "source": "Qiita",
+  "summary": "Google ADK 2.7 → 2.13 へのアップグレードついでに、telemetry schema を v2（OpenTelemetry GenAI semantic...",
+  "publishedAt": "2026-11-01T12:34:41.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "a95307adf1c8",
   "title": "ケーキ屋が、親に激怒。子どもの誕生日ケーキのために「AIで注文書を作成」...。AI生成での注文を禁止するも\"賛否両論\"に",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GMS1oejFNZERVdmF2cGo2dmp5T2FSb1M1OFFqb0F1QktKVGoxVFlFaGxZSnkxeDRDLXY2ZkZKTERscmNnTS0wam5NeDJ0THdWejlIMmdrQktOOHkzdFI0NTdPX2NkRGZMT25pa3Y2WXgwN1doTkxMUDR1ZkJ2bFE?oc=5",
@@ -84,12 +124,11 @@
   "title": "Claude と ホワイトボードで話そう！ (GRWB powered by Excalidraw)",
   "url": "https://zenn.dev/good_relax/articles/4319ae2a1db391",
   "source": "Zenn",
-  "summary": "なぜ？ やっぱ、会議はホワイトボードやろ？ Claudeとも絵で語りたいやん？ なにした？ gr-whiteboard (略称: GRWB)という Claude Code のプラグインを作った。 人間がホワイトボードに書いた内容を、Claude Code が読んで、同じボードに返事を書く ホワイトボードサーバーはロー…",
+  "summary": "なぜ？ やっぱ、会議はホワイトボードやろ？ Claudeとも絵で語りたいやん？ なにした？ GoodRelax Whiteboard (略称: GRWB)という Claude Code のプラグインを作った。 人間がホワイトボードに書いた内容を、Claude Code が読んで、同じボードに返事を書く ホワイトボード…",
   "publishedAt": "2026-11-01T11:57:36.000Z",
   "image": "",
   "categories": [
-   "product",
-   "infra"
+   "product"
   ],
   "isPR": false
  },
@@ -173,19 +212,6 @@
   "isPR": false
  },
  {
-  "id": "2808bcb9a3e5",
-  "title": "人工知能(AI)企業の資金調達圧迫が現実化している。 莫大な投資が必要な状況で「金脈硬化」に対する憂慮がそれだけ大きくなっている。 AI企業の代表走者であるオープンAIは、投資約定額が当初の目標の半分..",
-  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHNXd0S256WHZsNzd0d0FjOTBTcU1ZcFE3UTE3aEhjdnREdGNfOS1PcDlLLU5QVHhsQTRhYlA3bkVrTk5rVkFINkl5Tmp4cDg?oc=5",
-  "source": "매일경제",
-  "summary": "",
-  "publishedAt": "2026-11-01T11:13:09.000Z",
-  "image": "",
-  "categories": [
-   "business"
-  ],
-  "isPR": false
- },
- {
   "id": "9b7e6d40c08e",
   "title": "AI協働：FRB Launch続報 — リモコンから始めると、PC操作が気持ちよくなった話（笑）",
   "url": "https://zenn.dev/frb_tamasub/articles/ai-collaboration09-frb-launch-remote-workflow",
@@ -235,6 +261,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e118558b4d9d",
+  "title": "DeepSeek、オープンソースの「スーパーエージェント」コーディングツールを公開 AnthropicのClaude Codeに直接挑戦",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HWTZzOHFQU2UzT3ZzZ3p4WXd6V2MwUmQzZWN5Ynp1XzFkQm1PdGZkUWdxTTl6OE1EaGRSV3VXcWl5ZWhCS0tTREd4S093NWtLcnJzak5fWFQ4d3FLazAxU09MSzB0REhxTjJYTWNrZVl0Slla?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-01T10:51:20.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -418,6 +457,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "82c7de135fd3",
+  "title": "無料で完全にWindowsでローカル動作できるElevenLabs代替ツール「VoiceStudio」、音声クローン・音声デザイン・動画吹き替え・音声入力・文字起こし・オーディオブック作成を多言語で可能",
+  "url": "https://gigazine.net/news/20261101-voicestudio/",
+  "source": "はてなブックマーク",
+  "summary": "短い録音から人物の声を再現する音声クローン・文章による新しい声の設計・動画の多言語吹き替え・音声の文字起こし・長文を読み上げるオーディオブック制作などAIによる音声処理にはさまざまな機能があります。こうした機能を1つのアプリから利用でき、音声モデルの切り替えやAIエージェントとの連携にも対応するほか、...",
+  "publishedAt": "2026-11-01T09:19:34.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261101-voicestudio%2F",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -643,6 +695,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2808bcb9a3e5",
+  "title": "人工知能(AI)企業の資金調達圧迫が現実化している。 莫大な投資が必要な状況で「金脈硬化」に対する憂慮がそれだけ大きくなっている。 AI企業の代表走者であるオープンAIは、投資約定額が当初の目標の半分..",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBweV9zRVpMRE9zM1ZVeVBJTDdjVVBfMTc3a2sxcjloR0JVYjR4Q1hGbEYtUUlvVkNTUXVVUUpwVmJWUVcxbGF3OGJuVmQ3SDg?oc=5",
+  "source": "매일경제",
+  "summary": "",
+  "publishedAt": "2026-11-01T08:29:15.000Z",
+  "image": "",
+  "categories": [
+   "business"
   ],
   "isPR": false
  },
@@ -1059,19 +1124,6 @@
   "isPR": false
  },
  {
-  "id": "e118558b4d9d",
-  "title": "DeepSeek、オープンソースの「スーパーエージェント」コーディングツールを公開 AnthropicのClaude Codeに直接挑戦",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HWTZzOHFQU2UzT3ZzZ3p4WXd6V2MwUmQzZWN5Ynp1XzFkQm1PdGZkUWdxTTl6OE1EaGRSV3VXcWl5ZWhCS0tTREd4S093NWtLcnJzak5fWFQ4d3FLazAxU09MSzB0REhxTjJYTWNrZVl0Slla?oc=5",
-  "source": "BigGo ファイナンス",
-  "summary": "",
-  "publishedAt": "2026-11-01T06:25:00.000Z",
-  "image": "",
-  "categories": [
-   "product"
-  ],
-  "isPR": false
- },
- {
   "id": "809d11ed9c4c",
   "title": "Anthropicの「Claude」がApple CarPlayの音声対話に対応。iPad/iPhone Duo向けに2画面分割UIを導入し、複数アカウント切り替えも解禁",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTWUxZmc5Qk1adlJHem8wdjBRU3pGNkt6ZUxPb2tGSVBPVHl0YVNVZnhRTEVNdUlLQVNNMUt2RnRMdUt0UWZmdXZzQXFVR04xR3dnQUN2TTV6dk9WRjhPR0hGRmR2cFcwd21kV0NiOE95RVR3SC02VlNPSmd2Ti1KSFItRQ?oc=5",
@@ -1439,6 +1491,20 @@
   "isPR": false
  },
  {
+  "id": "6d873892df4d",
+  "title": "がばいAIコンサルティング、企業の安全なAI活用を支援する新サービスを提供開始",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xZHRTVDVZbHYzT3pMVG0tYUtCa2ZzU0M4Y0hyZEVKankwYkhPQ2QwaEVvbzZZLThEYVpHcjluRTBmMERUbnZnVU5oaFJfTjFtZTFxM1ZJX3cwbXhSX2VVdnc4elg?oc=5",
+  "source": "Dellows News",
+  "summary": "",
+  "publishedAt": "2026-11-01T04:40:39.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "376c0fb04f4c",
   "title": "介護特化型 業務効率化AIツール「noman」、株式会社ツクイの居宅介護支援事業所へ導入ー記録業務の負担軽減により「働きやすい環境」と「質の高いケア」を両立",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NWGdPaGFJYngzRHdRRG9XVHNsZkRqeEcwV3o2azlSQ3UwSWdfbG8xVzVKdElVMHJrbl9VWHZnYmFLUVF6U21HdHJkUk5wSGItYUpfeUY5N0VlMGJaWXZDVVJqSmhWaTBUWk1SOHpqOW9HUQ?oc=5",
@@ -1501,19 +1567,6 @@
   "image": "",
   "categories": [
    "business"
-  ],
-  "isPR": false
- },
- {
-  "id": "ecfd771fc51b",
-  "title": "韓国輸出、半導体ブーム追い風に高い伸び続く－AI需要が経済けん引",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfY0stQi1BaHFuOEJLNm9zaWZDZXdNeFQ5eHdKdnotSEVWaUUwU0RjbUxyaFZ6M3YzNkJaVzUyVTBWQXpDSkllUnlSNVhkM3BwSUFjZzJzZEJJU3AwOExud0pjZ0VWcXRKal9JMWpKQU5qMHVC?oc=5",
-  "source": "TBS NEWS DIG",
-  "summary": "",
-  "publishedAt": "2026-11-01T04:30:00.000Z",
-  "image": "",
-  "categories": [
-   "infra"
   ],
   "isPR": false
  },
@@ -2066,6 +2119,19 @@
   "image": "",
   "categories": [
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ecfd771fc51b",
+  "title": "韓国輸出、半導体ブーム追い風に高い伸び続く－AI需要が経済けん引",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QSDdlTmFERVhvNy1SU3NaemNjb0RFNVBwbm85QVgxNXJQQXZKRnRCeWV4ODdfLUN1M1Z3MTdjZ2tPLTVwOGRkem5udDJkeDRxMEhnNjB5cWExRTZEMm1FaXhidTU5di00UmhEYnYyYlRLMXNXWGc4?oc=5",
+  "source": "Bloomberg",
+  "summary": "",
+  "publishedAt": "2026-11-01T01:42:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
@@ -2968,6 +3034,20 @@
   "isPR": false
  },
  {
+  "id": "311262d9e94a",
+  "title": "【セミナー開催】MyTokkyo.Aiで何ができる？ MyTokkyo.Ai導入検討者向け説明会｜研究開発・知財のための基本機能と活用事例",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xSVJXUzJldnR1alVSbnFWeXlqYjNWZTZUUnN0dmlVeUVFVjlhUXFKMVpycW5mLXhVNjBoUEZKTnE3VnFWTkpMWHdPMTN0Y0hoSWFaTUtNQU5lcEVoTlVSbmJlWDBXdGR5NENSVE9WcVM1dw?oc=5",
+  "source": "Infoseek",
+  "summary": "",
+  "publishedAt": "2026-10-31T22:10:00.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "672c1f812a75",
   "title": "クラウドファンディングが拓く遠隔医療の未来 ― 生成AIと遠隔画像診断で地域医療の課題に挑む｜嗣江建栄",
   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1acGtrRHRmLWRwSUtrVzB6LUxIOF90U1B4Y09NelMxQVdCQmdROTlUTHVRZGc5eHluV1lCR1hOQVNWMzQxM3piMlhsYmdhZ3JXVlJlX2Z0MjE0UzMzWGFnMC1vYWV2UlU?oc=5",
@@ -3768,20 +3848,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "311262d9e94a",
-  "title": "【セミナー開催】MyTokkyo.Aiで何ができる？ MyTokkyo.Ai導入検討者向け説明会｜研究開発・知財のための基本機能と活用事例",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BemFmVUtibW1yd29BUFF6enJ3Q3dTZUJYbmxSZ1psQlVrdVVpYjhwVkdySGVhUzlPUUZtSVdObnlodnRuSDdHQzB5Y2J4WWVUVjQ5YnJwWF9NTEtfUkFnUVE2VzE3MW1LMFhUY25wbTNJOXJF?oc=5",
-  "source": "Excite エキサイト",
-  "summary": "",
-  "publishedAt": "2026-10-31T16:10:00.000Z",
-  "image": "",
-  "categories": [
-   "case",
-   "model"
   ],
   "isPR": false
  },
