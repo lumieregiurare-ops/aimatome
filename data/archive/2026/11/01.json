@@ -53,6 +53,34 @@
   "isPR": false
  },
  {
+  "id": "63f3be126bb0",
+  "title": "Kiro CLIとKiro Crewを改めて入門してAWSで動かすまで",
+  "url": "https://zenn.dev/upgradetech/articles/2026-11-kiro-crew-api-key-intro",
+  "source": "Zenn",
+  "summary": "KiroはIDEだけの製品ではなくなりました。2026年11月時点では、IDE、CLI、Web、Mobile、そしてCrewの5つの入口があります。 特にCLIはAPIキーでヘッドレス実行ができるようになり、Crewは自分のマシンに常駐して仕事を進めるエージェントとして公開されました。 IDEでSpecを書いた経験は…",
+  "publishedAt": "2026-11-01T14:43:42.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "71e3d7ea0860",
+  "title": "今日の市場ブリーフィング",
+  "url": "https://zenn.dev/bambampurin/articles/2026-09-22-market-daily",
+  "source": "Zenn",
+  "summary": "日経平均65,000円突破とレーザーテック+8.7%急騰から読み解く市場指標リファレンス この記事で分かること 65,000円台に乗せた日経平均株価と米国市場の温度差 米10年債利回り4.97%の上昇下におけるVIX指数と為替の動向 レーザーテック急騰にみる半導体関連株とその他主要銘柄の明暗 主要株価指数の動きを把握…",
+  "publishedAt": "2026-11-01T14:36:54.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "6c874fd62c5b",
   "title": "OpenAIの資金調達、300億ドルの目標に対し約110億ドル、規模は200億ドルへ縮小",
   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX2RFdzJEanFXRERwc3RQLUlPVFJaWTQ0UTNsOUgzSVNBa3NCOXlpUTd1aDJjQ0dpQkllNXo3OXA5R0paSUJVZTZWaW9zREIyVk9LZGg1TEVpRXRVTVNGbTRwWmdBV2VKT05VZ0VFTWI5V2tMWHd0X19GcDYyTHhWYm1lS3VYSjcwTHc5Sl8zaDdSc0NBMlR3?oc=5",
@@ -171,6 +199,19 @@
   "isPR": false
  },
  {
+  "id": "ac8d10a7a442",
+  "title": "Agent DX 〜 AI時代にフレームワークHonoは必要か",
+  "url": "https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1",
+  "source": "Zenn",
+  "summary": "AIがユーザーになりました。我々は人間向けの開発者ではなく、AI向けの開発者体験を考えなくてはいけません。 我々は人間です。雰囲気で「フレームワークは必要ない」「フレームワークは必要」と言っても、AIの意見ではありません。人間の意見です。説得力がありません。我々人間はAIのことをもっと知らなくてはいけません。 そこで…",
+  "publishedAt": "2026-11-01T13:58:21.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "59b89f99b1aa",
   "title": "RAGのチャンキング戦略を比較する ― 固定長・再帰的・意味的分割と「親子チャンク」",
   "url": "https://zenn.dev/johnny1024/articles/93201cb4461da6",
@@ -206,6 +247,33 @@
   "image": "",
   "categories": [
    "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0cbea3c9e357",
+  "title": "Unlimited-OCR-2で完全ローカルOCRワークベンチ構築：長文PDF・数式・表もVRAM一定で爆速解析",
+  "url": "https://zenn.dev/lumichy/articles/unlimited-ocr-2-workbench-2026",
+  "source": "Zenn",
+  "summary": "社内文書や学術論文、請求書などのPDF解析をクラウドAPI（Google Cloud Document AI や Azure AI Document Intelligence、あるいは GPT-4o / Claude 3.5 Sonnet）に丸投げしていませんか？ 確かにクラウドAPIは手軽ですが、機密データの外部送…",
+  "publishedAt": "2026-11-01T13:43:36.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6d826098d7c3",
+  "title": "Coding Agent の「作り直し」と「検証ミス」を減らす：Matt Pocock Skills × pstack",
+  "url": "https://zenn.dev/ryodev/articles/469b436dee634a",
+  "source": "Zenn",
+  "summary": "最近、Coding Agent を使った開発で、Matt Pocock Skills と pstack を組み合わせて使うことが増えています。 最初は便利そうな Skill を個別に試していただけでしたが、ソースコードやドキュメント、ほかの開発者の使用例を読んでいるうちに、それぞれの設計思想にも興味を持つようになりま…",
+  "publishedAt": "2026-11-01T13:37:07.000Z",
+  "image": "",
+  "categories": [
    "dev"
   ],
   "isPR": false
@@ -264,6 +332,19 @@
   "isPR": false
  },
  {
+  "id": "d982c449998a",
+  "title": "Claude Desktopで「確認してから断定する」を全部の発言にかける——FA開発で使っている常時規則のスキル",
+  "url": "https://zenn.dev/kensho_ya/articles/claude-desktop-always-on-rules-verify-first",
+  "source": "Zenn",
+  "summary": "Claude Desktopには、STやFHマクロの書き方を決めたスキルとは別に、作業の進め方そのものを決めたスキルを1本入れている。この記事に関係するのは、そのうちの2つの部分だ。1つは成果物を作るときの工程で、仕様の分解から検証、出力の形までを決めている。もう1つは「常時規則」と名付けた節で、成果物の有無に関係な…",
+  "publishedAt": "2026-11-01T13:11:44.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "a70ce4ccdaa8",
   "title": "Clover-35B-A3B-Preview試用記：気になったのはGPUなしでの使い道",
   "url": "https://zenn.dev/gsun/articles/12e6aee2ecda07",
@@ -313,6 +394,33 @@
   "image": "",
   "categories": [
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5252f173e3f4",
+  "title": "Claude Codeに「進捗どう？」と聞くのをやめた ― 隣の画面で勝手に育つ\"きょうのボード\"",
+  "url": "https://zenn.dev/jir0/articles/4cbcdd7421f26e",
+  "source": "Zenn",
+  "summary": "複数のプロジェクトを Claude Code に委任して並行で進めていると、1日に何度も同じことをやる羽目になります。 チャット窓を切り替えて「進捗どう？」と聞く。長い返事を読む。別の窓に切り替えて、また聞く。夕方になると「今日って結局何が終わったんだっけ」とスクロールで遡る——委任した作業そのものより、状況把握のほ…",
+  "publishedAt": "2026-11-01T13:05:08.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8e6039a3438d",
+  "title": "AI生成コードのレビューで先に確認したい5つの前提",
+  "url": "https://zenn.dev/techstudiolab/articles/review-ai-generated-code-business-assumptions",
+  "source": "Zenn",
+  "summary": "AIが生成したコードはテストを通過し、画面でも期待どおりに動いている。それでも、更新してはいけない注文までキャンセルされる実装だったら、承認できるでしょうか。 AIコーディングツールを使うほど、レビュー対象のコードは増えます。細部まで確認する時間を確保するのも簡単ではありません。 私なら、実装の細部を追う前に、AIが…",
+  "publishedAt": "2026-11-01T13:04:37.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
   ],
   "isPR": false
  },
@@ -521,11 +629,12 @@
   "title": "Claude と ホワイトボードで話そう！ (GRWB powered by Excalidraw)",
   "url": "https://zenn.dev/good_relax/articles/4319ae2a1db391",
   "source": "Zenn",
-  "summary": "なぜ？ やっぱ、会議はホワイトボードやろ？ Claudeとも絵で語りたいやん？ なにした？ GoodRelax Whiteboard (略称: GRWB)という Claude Code のプラグインを作った。 人間がホワイトボードに書いた内容を、Claude Code が読んで、同じボードに返事を書く ホワイトボード…",
+  "summary": "なぜ？ やっぱ、会議はホワイトボードやろ？ Claudeとも絵で語りたいやん？ なにした？ gr-whiteboard (略称: GRWB)という Claude Code のプラグインを作った。 人間がホワイトボードに書いた内容を、Claude Code が読んで、同じボードに返事を書く ホワイトボードサーバーはロー…",
   "publishedAt": "2026-11-01T11:57:36.000Z",
   "image": "",
   "categories": [
-   "product"
+   "product",
+   "infra"
   ],
   "isPR": false
  },
@@ -718,6 +827,19 @@
   "id": "707d4705b8e5",
   "title": "NEWh、生成AI時代の事業構想・推進人材を育成する「事業構想ブートキャンプ」を提供開始",
   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1dnhVb3MxNXNDNW9vSEZFNHBhR3NhR2wxdzJoOVdITDlNcDQwdnR4aVNLV25QaFdPYldqeGNJZmtVcnowS0ZhNm55RlZPWHJJYzVyTlN0U1pudG1vbXVhUzdVLThodkRjS3FSdnF6ZFVqVm8?oc=5",
+  "source": "Excite エキサイト",
+  "summary": "",
+  "publishedAt": "2026-11-01T10:40:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4ea0c830eb56",
+  "title": "LINEヤフーコミュニケーションズ、生成AI前提の運営モデルへ転換。生成AI・自動化と業務改善により、年36万時間相当の業務拡大に対応",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HUC0yYThZNk5Rdlc0V2Q2S3BsbG9TOGF1eDlWN3FwMF92RUNWOWxpeTVMYlRLZnRianVJWWdVeXNraFdpUDhjTGRTbjZRQnR4WWJGM3BEdDhESDhKbTNUUVgzZkNrcnRaRnFHc0tDTzVkV3FG?oc=5",
   "source": "Excite エキサイト",
   "summary": "",
   "publishedAt": "2026-11-01T10:40:00.000Z",
@@ -1615,10 +1737,10 @@
  {
   "id": "c383f1819460",
   "title": "AIプラットフォームの導入は、ハネウェル（HON）の投資判断に影響を与えているのか？",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONHZlSDJTbzl5WmlaRmFvS2ZYYko0eHhJWnZJN1k1Ni1JZFpXQ0lHS25MMXg2WUp4RVhXdEZfalJqVmYyVG1GdjA4WXVvclpTLU9EYzRfNGx0Z1pGeS1TR19jc0dvV2dUMHNBOUpYblZ1WXRaZlV6Vkd2UXNiQmtiUU5PWktLalZET3psbExpUFdWSzBOWUxtbENrYTcyYVlkSl9Xa1liYWs5T2RCdGfSAa4BQVVfeXFMTjR2ZUgyU285eVppWkZhb0tmWGJKNHh4SVp2STdZNTYtSWRaV0NJR0tuTDF4NllKeEVYV3RGX2pSalZmMlRtRnYwOFl1b3JaUy1PRGM0XzRsdGdaRnktU0dfY3NHb1dnVDBzQTlKWG5WdVl0WmZVelZHdlFzYkJrYlFOT1pLS2pWRE96bGxMaVBXVkswTllMbWxDa2E3MmFZZEpfV2tZYmFrOU9kQnRn?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa2JpZm5xTGowVFRubUthLVRrU0hkSUVGRE94a3NoZDk4WVVObk9pMXlBNi10SEpTT2F0N2dUa2J6SU1RZmh3QURCc3ZYWTB2dmIzNmtYV0xVWHJPRHFCMG1jV2U1d24xcXJzUWZSN0M3UndqOUFZcGxKSGtCZEhNM0pBSnBnZGlEeEM5ZjlxQ3duckgwM0ZjV0dCcGNlQXVCbHRPaXJtQWnSAa4BQVVfeXFMTjR2ZUgyU285eVppWkZhb0tmWGJKNHh4SVp2STdZNTYtSWRaV0NJR0tuTDF4NllKeEVYV3RGX2pSalZmMlRtRnYwOFl1b3JaUy1PRGM0XzRsdGdaRnktU0dfY3NHb1dnVDBzQTlKWG5WdVl0WmZVelZHdlFzYkJrYlFOT1pLS2pWRE96bGxMaVBXVkswTllMbWxDa2E3MmFZZEpfV2tZYmFrOU9kQnRn?oc=5",
   "source": "Simply Wall St",
   "summary": "",
-  "publishedAt": "2026-11-01T06:48:29.000Z",
+  "publishedAt": "2026-11-01T06:48:28.000Z",
   "image": "",
   "categories": [
    "business",
@@ -1877,11 +1999,11 @@
  },
  {
   "id": "a1810fa96873",
-  "title": "日米豪印の外相会合 インド太平洋のAI開発に134億円拠出へ（毎日新聞）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vZU5tOXMyRjRqd240dnlmT3FLZ3Y1cmVwTEhoVjJkRXEwNXcxOWFrbG5hTnRvZlRTYmR1bW1RTFZ3MU1MU0JUNG1TTWREM2hwYXJSUjgwSktubGV2N2otZVdSVnU4WTVpYThHWmxqZVlkcFNwWXliTU5kNkhTSlU?oc=5",
-  "source": "Yahoo!ニュース",
+  "title": "日米豪印の外相会合 インド太平洋のAI開発に134億円拠出へ",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VdGxydVNEWUV4NGlwUkxpNlNQTXg4V0gxcWZwRXdxRGR3dUswZGpaRFozLWRVUkp2N3FsMk41YkFiZVVkeTM2RFcycTJZNlNjZ0FNcE91Vi0wNXcxbEZGVUhWOG5rWmhL?oc=5",
+  "source": "毎日新聞",
   "summary": "",
-  "publishedAt": "2026-11-01T05:29:59.000Z",
+  "publishedAt": "2026-11-01T05:29:46.000Z",
   "image": "",
   "categories": [
    "other"
@@ -3168,7 +3290,7 @@
  {
   "id": "84f2a72acbfd",
   "title": "SKテレコムがAX革新2.0で全社AI化推進",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kSkNQVnZfZ0F2UzdiNVFfb3llaE9wTWlGSEotS3BnUER3aFN0Nktiak9rYUVwZ2lNNFR1OXV5WktfNTJDYkphbFV5MHZMUkJySS1Nb0x0NGdCTEJ3ZzJrZnUydzVxT3lvRGFrYk1UUzd0U1B3SFk2Yzdn0gGOAUFVX3lxTFB2TndJWnRPUHhrdHFlM0xjRGs2SlJ1Qm5iV3k0SHlJNG5ueVZwMl9pX1ZjR0dKaldOU2JPMDA0SmdFWXo2bG9xc0E2Nm55aWN6WVQ1N0R0VTJNUUtRTjhibW5yZlJoTjRpM29OdFd1clZPOVREUEpZT2pNRWR6VV9FbWVtVC1zemRqYmlCU3c?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdk53SVp0T1B4a3RxZTNMY0RrNkpSdUJuYld5NEh5STRubnlWcDJfaV9WY0dHSmpXTlNiTzAwNEpnRVl6NmxvcXNBNjZueWljellUNTdEdFUyTVFLUU44Ym1ucmZSaE40aTNvTnRXdXJWTzlURFBKWU9qTUVkelVfRW1lbVQtc3pkamJpQlN30gGOAUFVX3lxTFB2TndJWnRPUHhrdHFlM0xjRGs2SlJ1Qm5iV3k0SHlJNG5ueVZwMl9pX1ZjR0dKaldOU2JPMDA0SmdFWXo2bG9xc0E2Nm55aWN6WVQ1N0R0VTJNUUtRTjhibW5yZlJoTjRpM29OdFd1clZPOVREUEpZT2pNRWR6VV9FbWVtVC1zemRqYmlCU3c?oc=5",
   "source": "Chosunbiz",
   "summary": "",
   "publishedAt": "2026-11-01T00:01:00.000Z",
@@ -3499,7 +3621,7 @@
  {
   "id": "bc1f6a44caaf",
   "title": "“テスラ超え”狙う――チューリング「完全自動運転」までの道 「GPUより速いチップ」使った開発のウラ側",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tTmxhbDNfR1FJR1BHMnBVSlRkby1mMjdCeWMwdHdqVHBvbUJ2c0s4RUpxcmlMcFNfZ0ttbXdwNExDRThqd1Qxc0ZfR1VVSlFlTmZRbFpfYl9yaG13eVBpTXFBZnpTLWxL?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtRF9Nc3FRdFUwc0p1OXFZUktGM041N2FXRGhQZ3Fpc3RseFlwQ3hReVdiYm1LT2xwS1dRdndlZGFfclo3ajl3a1F0elNOb29RNlRrdEh3S2JMZVIyRjU3TWF1RmZ2RFVyWHMwQ0prRVJSX0U?oc=5",
   "source": "ニコニコニュース",
   "summary": "",
   "publishedAt": "2026-10-31T23:03:03.000Z",
@@ -3546,19 +3668,6 @@
   "categories": [
    "product",
    "case"
-  ],
-  "isPR": false
- },
- {
-  "id": "4ea0c830eb56",
-  "title": "LINEヤフーコミュニケーションズ、生成AI前提の運営モデルへ転換。生成AI・自動化と業務改善により、年36万時間相当の業務拡大に対応",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qTU9EMEQ2TEc4bkN1VXJMaDJ5Smh0RUhxTENyeWZLbHYzamFFVksyWVI4RUFRMkZXR0phT2hoUjVFQktTc3V0TllsNmZHRlozQ00xUGFWdnVpVXRwUVVNZ1Z4c3hBb2s1Vkd5ZmhSaXc4dw?oc=5",
-  "source": "Infoseek",
-  "summary": "",
-  "publishedAt": "2026-10-31T22:40:00.000Z",
-  "image": "",
-  "categories": [
-   "product"
   ],
   "isPR": false
  },
@@ -3652,20 +3761,6 @@
   "categories": [
    "case",
    "product"
-  ],
-  "isPR": false
- },
- {
-  "id": "311262d9e94a",
-  "title": "【セミナー開催】MyTokkyo.Aiで何ができる？ MyTokkyo.Ai導入検討者向け説明会｜研究開発・知財のための基本機能と活用事例",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xSVJXUzJldnR1alVSbnFWeXlqYjNWZTZUUnN0dmlVeUVFVjlhUXFKMVpycW5mLXhVNjBoUEZKTnE3VnFWTkpMWHdPMTN0Y0hoSWFaTUtNQU5lcEVoTlVSbmJlWDBXdGR5NENSVE9WcVM1dw?oc=5",
-  "source": "Infoseek",
-  "summary": "",
-  "publishedAt": "2026-10-31T22:10:00.000Z",
-  "image": "",
-  "categories": [
-   "case",
-   "model"
   ],
   "isPR": false
  },
@@ -3900,6 +3995,19 @@
   "source": "信濃毎日新聞デジタル",
   "summary": "",
   "publishedAt": "2026-10-31T21:04:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2d4d9326f22b",
+  "title": "ヘルスケア AIのグローバル企業とシェア",
+  "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBmdi1Zb05TRXN1R1ZzUU8ybWozaXZReFVmblBBTVBoc3lVV2RoSUo3RVpaUUlDUjJJUU5yZlAyVGlDUWZoZFBjUkdB?oc=5",
+  "source": "pando.life",
+  "summary": "",
+  "publishedAt": "2026-10-31T21:02:39.000Z",
   "image": "",
   "categories": [
    "other"
@@ -4481,6 +4589,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "311262d9e94a",
+  "title": "【セミナー開催】MyTokkyo.Aiで何ができる？ MyTokkyo.Ai導入検討者向け説明会｜研究開発・知財のための基本機能と活用事例",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BemFmVUtibW1yd29BUFF6enJ3Q3dTZUJYbmxSZ1psQlVrdVVpYjhwVkdySGVhUzlPUUZtSVdObnlodnRuSDdHQzB5Y2J4WWVUVjQ5YnJwWF9NTEtfUkFnUVE2VzE3MW1LMFhUY25wbTNJOXJF?oc=5",
+  "source": "Excite エキサイト",
+  "summary": "",
+  "publishedAt": "2026-10-31T16:10:00.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "model"
   ],
   "isPR": false
  },
