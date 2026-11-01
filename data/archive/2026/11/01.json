@@ -79,6 +79,20 @@
   "isPR": false
  },
  {
+  "id": "c43c4052eef3",
+  "title": "ダウンロードもロードもできるのに0問しか解けない。Ollama公式タグの量子化崖を自分のデータ再集計で確かめた",
+  "url": "https://zenn.dev/matsushima_a/articles/day-033-quantized-llm-cliff",
+  "source": "Zenn",
+  "summary": "要約 arXiv:2609.05881「Broken on Arrival」という論文が、Ollama公式ライブラリの305タグをHumanEval+で機能検査し、7タグ(qwen2.5-coder:3b-instructのq2_K/q3_K_S/q3_K_M/q3_K_L、phi3.5:3.8b-mini-inst…",
+  "publishedAt": "2026-11-01T14:16:31.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "6436e624dc40",
   "title": "保有資産だけでなく「動いているもの」を見張る — Binance と Polymarket の事件から考える継続スキャン",
   "url": "https://qiita.com/0xNurstar/items/3d637eb36ceda350f202",
@@ -144,6 +158,46 @@
   "isPR": false
  },
  {
+  "id": "810ede40c23c",
+  "title": "ベクトル検索だけでは足りない ― ハイブリッド検索とCrossEncoder再ランキングの実装手順",
+  "url": "https://zenn.dev/johnny1024/articles/3ecdf0573f5d73",
+  "source": "Zenn",
+  "summary": "ベクトル検索は「意味の近さ」には強い一方、型番・固有名詞・エラーコードのような表記の完全一致が重要な情報を取り逃します。逆にキーワード検索（BM25など）は言い換えに弱い。実務では両方を組み合わせるハイブリッド検索が定石です。 構成は3段です 候補取得：ベクトル検索とキーワード検索で、それぞれ多め（例：各20〜50件…",
+  "publishedAt": "2026-11-01T14:00:36.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "59b89f99b1aa",
+  "title": "RAGのチャンキング戦略を比較する ― 固定長・再帰的・意味的分割と「親子チャンク」",
+  "url": "https://zenn.dev/johnny1024/articles/93201cb4461da6",
+  "source": "Zenn",
+  "summary": "RAGを作って最初につまずくのが、検索の精度です。モデルを変えても改善しない場合、原因はたいてい「チャンキング（文書の分割方法）」にあります。 チャンクが大きすぎると無関係な記述が混ざり、小さすぎると文脈が切れます。本記事では代表的な分割方法を比較します。 1. 固定長分割 一定の文字数・トークン数で機械的に切る方法…",
+  "publishedAt": "2026-11-01T13:56:47.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "489310a63acc",
+  "title": "AIにミステリを書かせるなら、書き手に真相を教えない ― 知覚の投影で「嘘をつかない錯誤」を作る",
+  "url": "https://zenn.dev/infra_ojisan/articles/ai-novel-studio-part7",
+  "source": "Zenn",
+  "summary": "はじめに このシリーズでは、AIに小説を書かせる「制作スタジオ」を作ってきました。 1本目：スタジオの組み方 2本目：書き手のモデルの選び方と、文章の余白 3本目：シリーズものを伏線の負債として管理する 4本目：書いた小説を公開するまでのエンジニアリング 5本目：AIエージェントのチームに書かせたら人狼ゲームになった…",
+  "publishedAt": "2026-11-01T13:49:40.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3bebfd32816b",
   "title": "富士フイルム、磁気テープ生産能力を5倍に 100億円投じAI時代の保存需要狙う",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VbHA3eTR0SFpqSzA1Y3NMM2xST1BxQ3JMa0F0SUxNT01lU2FoNXZZLVR5WlBDeEFCcjR0WTVvNTNKeEoxVlpDMmRNYnJvNlNkbDkzRloxcmVHTFY3czMzN2l3a3JkeVBQSVNQRXgzemJzODB1?oc=5",
@@ -153,6 +207,46 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "441767de6fe4",
+  "title": "拡散VLMの論文 LOWN を、LLaDA-V の実際の推論記録で遊べる3Dゲームにした",
+  "url": "https://zenn.dev/zguo/articles/c86799626b7ece",
+  "source": "Zenn",
+  "summary": "こんにちは、Ziyu です。 KAIST の論文「Look Only When Needed」（LOWN）を、目を閉じて飛ぶ 3D ゲームにしました。ゲームの候補の語は、論文と同じ LLaDA-V を M4 Pro の MacBook で実際に動かして記録したものです。この記事では、LOWN の判定の中身と、LLaD…",
+  "publishedAt": "2026-11-01T13:22:35.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3e51e7d40bc7",
+  "title": "Kaggle RSNA 膝MRIコンペで銅メダル：やって良かったこと・やらなきゃ良かったこと",
+  "url": "https://zenn.dev/hazy_viper/articles/rsna-knee-2026-bronze",
+  "source": "Zenn",
+  "summary": "骨軟部（骨、筋、脂肪など）は、画像診断の中でも苦手意識を持つ人が多い分野だと思う。もし AI が読んでくれるなら、任せたいと思ってしまう（最後は人間が判断するんだけど）。この苦手意識は日本だけでなく、万国共通なのかな。そんなことに思いを馳せる RSNA のコンペが先日終了した。 私のドメイン知識が活きる貴重なコンペだ…",
+  "publishedAt": "2026-11-01T13:19:17.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a70ce4ccdaa8",
+  "title": "Clover-35B-A3B-Preview試用記：気になったのはGPUなしでの使い道",
+  "url": "https://zenn.dev/gsun/articles/12e6aee2ecda07",
+  "source": "Zenn",
+  "summary": "はじめに Clover-35B-A3B-PreviewのQ4_K_Mを RTX 3060（VRAM 12GB）搭載のPCで試しました。GPUに一部の層を載せた場合の生成速度は約 7 tok/s、GPUへのオフロードを無効にした場合は約 4 tok/sでした。 要約や簡単なゲームの生成も試しましたが、GPUを使える今の…",
+  "publishedAt": "2026-11-01T13:10:28.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
   ],
   "isPR": false
  },
@@ -210,6 +304,19 @@
   "isPR": false
  },
  {
+  "id": "7a3a5dd88c2b",
+  "title": "生成AIが書いたGAS/VBAのレビュー観点チェックリスト",
+  "url": "https://zenn.dev/rakuwork_kobo/articles/ai-written-gas-vba-review-checklist",
+  "source": "Zenn",
+  "summary": "生成AIに書かせた GAS は、たいてい一度で動きます。困るのは、例外で止まらずに間違えるコードです。空の行に通知が飛ぶ、印が1行上に付く、同じメールが毎朝2通届く。エラーが出ないので、気づくのは受け取った人です。 この記事では、AIが書きそうな形の GAS を1本用意し、レビューの観点を1つずつ当てて、模擬環境で何…",
+  "publishedAt": "2026-11-01T13:00:21.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "9d731bd150bd",
   "title": "プロンプトインジェクションを再現して防御策を比較検証する",
   "url": "https://qiita.com/hono_ai_labho/items/4b2166ec76641fea07f0",
@@ -219,6 +326,34 @@
   "image": "",
   "categories": [
    "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "28e78f6c4f4f",
+  "title": "Amazon Bedrock の構造化出力を破壊しようとしてみた（失敗）",
+  "url": "https://zenn.dev/aws_japan/articles/bedrock-structured-outputs-adversarial",
+  "source": "Zenn",
+  "summary": "はじめに 構造化出力は、リクエストに JSON スキーマを渡すと、モデルの出力をそのスキーマに合う JSON に制限する機能です。アプリケーションの機能として生成 AI を組み込む時、出力形式を指定することで実装がしやすくなります。しかしプロンプトで指定するだけでは十分なスキーマ強制が難しく、従来は Pydantic…",
+  "publishedAt": "2026-11-01T12:51:18.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a373476d97aa",
+  "title": "Agentic AI 時代におけるオントロジー入門",
+  "url": "https://zenn.dev/daichidev/books/ontology-for-agentic-ai",
+  "source": "Zenn",
+  "summary": "AI Agent に社内システムを横断させると、Text-to-SQL も RAG も「データの意味の捉え違い」で止まります。 その穴を埋める道具として、RDF / RDFS / OWL / SPARQL / SHACL / 推論器 / VKG を、1 つの題材 （先月のアクティブな優良顧客の売上をレポートにして）で…",
+  "publishedAt": "2026-11-01T12:49:32.000Z",
+  "image": "",
+  "categories": [
+   "business",
    "dev"
   ],
   "isPR": false
@@ -593,12 +728,38 @@
   "isPR": false
  },
  {
+  "id": "62fa37e30104",
+  "title": "Wikipediaの編集者はどのようにしてAI生成テキストを見つけて除外しているのか？",
+  "url": "https://gigazine.net/news/20261101-wikipedia-ai-content/",
+  "source": "はてなブックマーク",
+  "summary": "あらゆるプラットフォームにAI生成テキストがあふれている中で、WikipediaではAIに記事本文を生成させたり書き換えさせたりすることを原則禁じるガイドラインが設定されています。そのガイドラインに違反するコンテンツを見つけて削除することを目的としたボランティア活動「WikiProject AI Cleanup」の創…",
+  "publishedAt": "2026-11-01T10:19:03.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fgigazine.net%2Fnews%2F20261101-wikipedia-ai-content%2F",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "859b1d7688e7",
   "title": "観光分野におけるAI：「F1レーシングカー」には、それに見合った法的枠組みが必要だ。",
   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFhacWFScnB1NXpzQnl4dVV4RWFjMVZtLWJTSU5hNWRtV0hNck9RNndES1dsM2xCQUpXRjcxc3VIWkFoWDlUb1FZRkxNRGRIOEsyWTdlVHowMmdmWm1uek9wM1h2UGNEdnFOc3I3ZXBkQ3NtQjlXeVhQYk1Fb2hTOExENWJLSFY0bmRWRnQtZ19TTmhCVHpj?oc=5",
   "source": "Vietnam.vn",
   "summary": "",
   "publishedAt": "2026-11-01T10:17:30.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6096222af5c1",
+  "title": "Mintlify CTOハンビー・リー氏：AIエージェントがドキュメントサイト閲覧の80%に、年初の10%から急増",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LUGU0emZCclZmbUlza3JkMTZVN080UjQzQ2hFM3hxNFVleHExN0hzOFVJdG9HLXpZcjlFYmhrSWxnNmlPUm9Kd3ZKdVE1UnRES0NzeF9zbGhhZw?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-01T10:11:20.000Z",
   "image": "",
   "categories": [
    "other"
@@ -632,38 +793,12 @@
   "isPR": false
  },
  {
-  "id": "6096222af5c1",
-  "title": "Mintlify CTOハンビー・リー氏：AIエージェントがドキュメントサイト閲覧の80%に、年初の10%から急増",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LUGU0emZCclZmbUlza3JkMTZVN080UjQzQ2hFM3hxNFVleHExN0hzOFVJdG9HLXpZcjlFYmhrSWxnNmlPUm9Kd3ZKdVE1UnRES0NzeF9zbGhhZw?oc=5",
-  "source": "BigGo ファイナンス",
-  "summary": "",
-  "publishedAt": "2026-11-01T10:08:00.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "44a62bc03c0a",
   "title": "OpenAI、12月からChatGPTとCodexの利用上限を一本化と確認",
   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQalFXVUVYSzVwdzVkRzJQZVlUS05IeTZvb0RtSG1ZeGg5enBHQlp1Nkl6Z1E3Zlc5OU5WaUR5Yy1SV1RNMnozNnhzWHV3WFprYUlIcncyX3drdG9PNVJjYmRpTkJyQWt4S3ExYmlhdXhraHFsaDJkTGQ4TS1CNDEyTHhLY3o5eTJteUlPclZGNDN1bk9tUVdLNGw3Zw?oc=5",
   "source": "Pasquale Pillitteri",
   "summary": "",
   "publishedAt": "2026-11-01T10:06:56.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "62fa37e30104",
-  "title": "Wikipediaの編集者はどのようにしてAI生成テキストを見つけて除外しているのか？",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rSF9qb1d4LURtb1BfVXNrZEZCSUhDcHI5YmFucGxlaHZqZEFhNzA4OUdrOXpQNy1UeWM5a0NFc0FxQXVlSVZhakVZUjdaSEVCYlk1aS1zQmx0eEVnUl9SU0Y5NUlDNUk?oc=5",
-  "source": "GIGAZINE",
-  "summary": "",
-  "publishedAt": "2026-11-01T10:00:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -815,6 +950,19 @@
   "isPR": false
  },
  {
+  "id": "1fe8b8b75fc2",
+  "title": "AIがテストで100点満点？それならテストが間違っている——バークレー研究所のロカナサン氏",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9paHpJTnl0ejhhT1hHdWg4Q3J2UE1MVnBPZlBCVjZqT1NPTGJQZWFKMk1oNlJxRzVWVU9nb2VXdVpIei1WaklVUmN1WHFvVE5FVFM1Q2plM0FjQQ?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-01T09:11:20.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f586737fc52a",
   "title": "AIの説明文を直す",
   "url": "https://qiita.com/pitaspot/items/2afa82c7ce3d56a65724",
@@ -824,19 +972,6 @@
   "image": "",
   "categories": [
    "product"
-  ],
-  "isPR": false
- },
- {
-  "id": "1fe8b8b75fc2",
-  "title": "AIがテストで100点満点？それならテストが間違っている——バークレー研究所のロカナサン氏",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9paHpJTnl0ejhhT1hHdWg4Q3J2UE1MVnBPZlBCVjZqT1NPTGJQZWFKMk1oNlJxRzVWVU9nb2VXdVpIei1WaklVUmN1WHFvVE5FVFM1Q2plM0FjQQ?oc=5",
-  "source": "BigGo ファイナンス",
-  "summary": "",
-  "publishedAt": "2026-11-01T09:08:00.000Z",
-  "image": "",
-  "categories": [
-   "model"
   ],
   "isPR": false
  },
@@ -1362,10 +1497,10 @@
  {
   "id": "c383f1819460",
   "title": "AIプラットフォームの導入は、ハネウェル（HON）の投資判断に影響を与えているのか？",
-  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONHZlSDJTbzl5WmlaRmFvS2ZYYko0eHhJWnZJN1k1Ni1JZFpXQ0lHS25MMXg2WUp4RVhXdEZfalJqVmYyVG1GdjA4WXVvclpTLU9EYzRfNGx0Z1pGeS1TR19jc0dvV2dUMHNBOUpYblZ1WXRaZlV6Vkd2UXNiQmtiUU5PWktLalZET3psbExpUFdWSzBOWUxtbENrYTcyYVlkSl9Xa1liYWs5T2RCdGfSAa4BQVVfeXFMTjR2ZUgyU285eVppWkZhb0tmWGJKNHh4SVp2STdZNTYtSWRaV0NJR0tuTDF4NllKeEVYV3RGX2pSalZmMlRtRnYwOFl1b3JaUy1PRGM0XzRsdGdaRnktU0dfY3NHb1dnVDBzQTlKWG5WdVl0WmZVelZHdlFzYkJrYlFOT1pLS2pWRE96bGxMaVBXVkswTllMbWxDa2E3MmFZZEpfV2tZYmFrOU9kQnRn?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa2JpZm5xTGowVFRubUthLVRrU0hkSUVGRE94a3NoZDk4WVVObk9pMXlBNi10SEpTT2F0N2dUa2J6SU1RZmh3QURCc3ZYWTB2dmIzNmtYV0xVWHJPRHFCMG1jV2U1d24xcXJzUWZSN0M3UndqOUFZcGxKSGtCZEhNM0pBSnBnZGlEeEM5ZjlxQ3duckgwM0ZjV0dCcGNlQXVCbHRPaXJtQWnSAa4BQVVfeXFMTjR2ZUgyU285eVppWkZhb0tmWGJKNHh4SVp2STdZNTYtSWRaV0NJR0tuTDF4NllKeEVYV3RGX2pSalZmMlRtRnYwOFl1b3JaUy1PRGM0XzRsdGdaRnktU0dfY3NHb1dnVDBzQTlKWG5WdVl0WmZVelZHdlFzYkJrYlFOT1pLS2pWRE96bGxMaVBXVkswTllMbWxDa2E3MmFZZEpfV2tZYmFrOU9kQnRn?oc=5",
   "source": "Simply Wall St",
   "summary": "",
-  "publishedAt": "2026-11-01T06:48:29.000Z",
+  "publishedAt": "2026-11-01T06:48:28.000Z",
   "image": "",
   "categories": [
    "business",
@@ -1554,6 +1689,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f3c630eacaed",
+  "title": "中国DeepSeekが自律型AIエージェント公開、Claude Codeに対抗 執筆 - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tVFB6SDNiU214Y05Zb2t3bDh1MldaUVFFT09keUpwQmVROWxtek9tUFhpYkQyaWlvU3dIbnJBR0dzTEtOSWFnY3Bjd3d5UWgtdTRjQXh4SHV0em5tX3JJTG9RbjFjVERXSXc?oc=5",
+  "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-01T05:45:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -2457,7 +2605,7 @@
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqUlR2TnIyZTVKWjluOWpEY0xUSHNGSHpJRUVKYjFmLTNreGhaYVRYdUZtUzVyaUtsSVloUTk5RTBQN0JVOEg5YkRmcjJsc2ZOTFB6ZktIZzkteFd4RGJrOUFnQmsxNGtVOXNfY1ZIbmtrZVkw?oc=5",
   "source": "BigGo ファイナンス",
   "summary": "",
-  "publishedAt": "2026-11-01T01:41:20.000Z",
+  "publishedAt": "2026-11-01T01:41:47.000Z",
   "image": "",
   "categories": [
    "other"
@@ -3206,7 +3354,7 @@
  {
   "id": "bc1f6a44caaf",
   "title": "“テスラ超え”狙う――チューリング「完全自動運転」までの道 「GPUより速いチップ」使った開発のウラ側",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tTmxhbDNfR1FJR1BHMnBVSlRkby1mMjdCeWMwdHdqVHBvbUJ2c0s4RUpxcmlMcFNfZ0ttbXdwNExDRThqd1Qxc0ZfR1VVSlFlTmZRbFpfYl9yaG13eVBpTXFBZnpTLWxL?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtRF9Nc3FRdFUwc0p1OXFZUktGM041N2FXRGhQZ3Fpc3RseFlwQ3hReVdiYm1LT2xwS1dRdndlZGFfclo3ajl3a1F0elNOb29RNlRrdEh3S2JMZVIyRjU3TWF1RmZ2RFVyWHMwQ0prRVJSX0U?oc=5",
   "source": "ニコニコニュース",
   "summary": "",
   "publishedAt": "2026-10-31T23:03:03.000Z",
@@ -3938,6 +4086,19 @@
   "source": "オッレディース",
   "summary": "",
   "publishedAt": "2026-10-31T18:28:31.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a0bc62a4558b",
+  "title": "Ep5. 株式報酬、AI冷戦、LLMのバリュエーション | BG2 with Bill Gurley, Brad Gerstner, & Bob Mylod｜BG2Pod",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jT2ZnQklVU0UzSkpiVUQwOGpxUVFJLUJycWM1d0RURXpmTk5mTFlMVTc5VW93dG9BSHR6REZfMk4ySHZHdnlBQzF6NDJ3amFtNXo2bjFHdWRRbmVENkE?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-10-31T18:24:12.000Z",
   "image": "",
   "categories": [
    "other"
