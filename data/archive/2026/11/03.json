@@ -1,5 +1,98 @@
 [
  {
+  "id": "5aaf9d6ba31d",
+  "title": "Claude Code v2.1.312——企業ゲートウェイ運用に関係する変更まとめ",
+  "url": "https://qiita.com/Sidejob/items/abad145825f04501914d",
+  "source": "Qiita",
+  "summary": "この記事の結論：v2.1.312はEntra IDのOIDCクレーム対応、managed settings取得の不具合修正、大きなCLAUDE.mdの上書き問題修正など、企業環境での安定稼働に関係する変更を複数含む。Bedrock・Vertex・Foundry・Mantl...",
+  "publishedAt": "2026-11-03T10:30:04.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "68483b3075d2",
+  "title": "AIツール障害切り分けチェックリスト（TCP/TLS/HTTP）",
+  "url": "https://qiita.com/Julita/items/cf5e41c979fbcddd34c2",
+  "source": "Qiita",
+  "summary": "「落ちた気がする」をチケット化すると、再現手順のないノイズが増えます。このメモは、開発・運用デスク向けの短いチェックリストです。監視製品の代替ではなく、黒箱シグナルの読み順の共有が目的です。 横断の入口には...",
+  "publishedAt": "2026-11-03T10:29:30.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1a91313042a4",
+  "title": "固定プロンプトで速くなる？続いてRealtime APIのセッション管理を検証してみた",
+  "url": "https://qiita.com/kataoka_se_sionic/items/6bba5fb79fcbc93d1f22",
+  "source": "Qiita",
+  "summary": "この記事の目的 以前、システムプロンプトを毎回送らずに、会話の先頭にだけ送る（固定化）することで、対話の高速化が実現できるのではないか？という記事を書きました。 結果的に、大きな成果は出せなかったのですが、引き続き調べていくと OpenAI Realtime API...",
+  "publishedAt": "2026-11-03T10:28:50.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8c0725480d20",
+  "title": "【AI超入門④-⑤】PyTorchでニューラルネットワークを作る データの準備から学習・評価まで",
+  "url": "https://qiita.com/riku1220/items/cdaf48d1bf5b343f8222",
+  "source": "Qiita",
+  "summary": "最初に 前回は、勾配降下法について解説しました 損失関数で予測と正解のズレを測り、誤差逆伝播法で勾配を計算し、重みやバイアスを更新する 最後には、小さなニューラルネットワークも動かしました 前回の記事はこちら 今回は、その続きを見ていきます 前回は、学習に使っていない入力...",
+  "publishedAt": "2026-11-03T10:26:56.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "76332dd0e007",
+  "title": "ChatGPT のロック済みチャット｜見られたくない会話を隠す #Shorts",
+  "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBBb043Sk5rei11SE5zYlkxQjVBM20zMExuV21xS2laYnVpc3lWOC10b3p5dXhQZFdzTS1WOFJPYnc3Zw?oc=5",
+  "source": "YouTube",
+  "summary": "",
+  "publishedAt": "2026-11-03T10:20:33.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "96cba6f5030a",
+  "title": "生成AIの発達でサイバー攻撃が「時短」 今年度すでに2億6000万人分漏えい…個人や企業に求められる対策とは",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeTNuWGVsYlhhWlgzZWhNZ2k3dEZLai1VVzBxMXIwN055YkQyMFltSGt1STFFV1JzQnU1U0FDSFJjZ2NBeE8xWEgzc3dXQ0VIN25LN1ZSX2otaVptWDdWRklRNjdXUWpBY0lmdDZvcWpjUXlTQWVYRnpMRHgzV0xfdkM4RVVSVFk?oc=5",
+  "source": "日テレNEWS NNN",
+  "summary": "",
+  "publishedAt": "2026-11-03T10:14:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "62527d6d4ed2",
+  "title": "Mujin イオンがフィジカルAI搭載ロボ導入 | ロジスティクス | ニュース",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BaU13aGZ6QW85eUxJU0k3SEthal9XVmVtczhkYjM3cEplYWtkeTUwQ2sxdk1XNzBtcmxmNXlRTlNhTnczTzlQUmN2RmdkWFZTT0JQcnBTQjhVQjBFbzhPVlFRVG5hLS1GSGc?oc=5",
+  "source": "Daily Cargo電子版",
+  "summary": "",
+  "publishedAt": "2026-11-03T10:02:52.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "078129abfb34",
   "title": "OpenAI 互換 API でテキスト・画像・動画モデルを一本化する（ToAPIs）",
   "url": "https://qiita.com/syoriamany179/items/2ddfa9c71e97b8848dbc",
@@ -39,6 +132,19 @@
   "isPR": false
  },
  {
+  "id": "fccc0842767b",
+  "title": "“フェイクの応酬” アメリカ中間選挙まもなく投票開始 トランプ政権に“逆風” 「生成AI用いた政治広告」8割超が共和党",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4cnhVUjJZZTJmckNZbGpzSThUNjl1LUppSS1nRkxsanNOSEdoaURCeVY1ekIwZ3gxWm96T0ZvN2IxWGxOT3FQYXZTY1MzV215UDA2WkxlZHhzZjdOajRLOTd0bmNMdzA3VFpWVF9B?oc=5",
+  "source": "ｄメニューニュース",
+  "summary": "",
+  "publishedAt": "2026-11-03T09:50:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "66b5c1780dbc",
   "title": "【2026年最新】ChatGPTの経理・総務での活用｜チャットで済む4つの作業と、請求書・仕訳・入金確認など「毎月くり返す作業」の仕組み化",
   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1McDJKcExLRnYtMWRPRW5YNENTaUdqa3hVMjhCZVF2X1Zta1JoYmRrdG1udFZmWDctcVhmUnNYSXVaM2JZLWg1TTQtT0Y5YXdfekpHUl81YWpyWmIyRzFLNkQ0aWdSTll2VXBOMlFB?oc=5",
@@ -48,6 +154,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9ff0ca86fa76",
+  "title": "テンセント混元がHyra 2.0を大々的に発表、AIエージェントを科学大規模モデルとハードコア研究開発に全面的に参加させる",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnN0s2eTRGNEF0Y1hSVzJnTkc2ejhkM0dyTGpkU2U5dGtNakNhV2R0NVFlMjRiSzdQNXFjbzhTV21NUVIzQU9jZllQOWpldw?oc=5",
+  "source": "AIBase",
+  "summary": "",
+  "publishedAt": "2026-11-03T09:37:25.000Z",
+  "image": "",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
@@ -105,6 +224,19 @@
   "isPR": false
  },
  {
+  "id": "77b0fd5dd3b9",
+  "title": "‍‍‍動画生成AIでアニメーション制作を手軽に！おすすめ12選を紹介",
+  "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQZ2VIaHpxNHdKYk9VSU9PYTZVeU9MOUtlalFUYlllNGF6a0szUjdhbk9XUk5odXZ1Zk9LSURCellwUGRhQTdUX2FvdDByZHF6TlJVU3prcmloQ2hBSzFPRU5uVkNDekpKTlh3UzJ4NEJ2a2xNbERoSmJKUXE2bHFiV08yRkxCM2pxU3JDYmxZZzdRR3BnbXMxZDNoUlNQV0ZEOUhmTW1JNVJndzdHZDBVb28xWEhmNkI2NU13dFRRVDJMRXRybEh2TGRUNmh6aF9VVTU1T1BOZkR5RlRvTE54MUZOVlRGSUZoTGFKQkxhSHJrb2lIeEN1b2FjaVU0dlowMzQ0RVNRV2FCb1JHNjlmd1k0aXp6amhPbnFka0RvV1NzY0R5R1N5VHZyQ3JmUnZfWlhxRkYzVTIwZWlJM3BMdGlLVjFWVzFqYjFSVnh1RmlPdUhwUHVOTnBrWHlqTXB4Z0Z4QVdSU2ZhakZxa1h1WU1fZGpMM3RW?oc=5",
+  "source": "Anayasa.gov.tr",
+  "summary": "",
+  "publishedAt": "2026-11-03T09:32:22.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "40fc9299e165",
   "title": "Anthropic『Claude Duet』発表、裏で動いて仕事を片付けるプロアクティブAIエージェント",
   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wY3pRcGlyRkZwX0NieDVQXzFvZVBYMzhHcldzeVI0YTIyaGd1NjJmMVkyeG43OWd0ZGJ0NURhNWtHM2h4cUU5RDBkVUF5QmJKRzdXQWpZSG1NVVZDbjlDRw?oc=5",
@@ -144,6 +276,32 @@
   "isPR": false
  },
  {
+  "id": "c5b1a0748491",
+  "title": "OpenAI、Git基盤を自社製「Pando」に刷新 プッシュ遅延8割減、1日1ペタバイト配信",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52OTRIa1g2c3VxeWY0QTlrVjBKNVg3TXpIVU53RUl3OTg0TG5VTkJTTFNkWE4xTUZQZ21vM2c0SmtrZXBBNUhUOGozTUthWGZoZlhJU2oyT1FHOXA4ZmVNYnh4aU9vblM4MEwwZVg3QWYyVHpC?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-03T09:25:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7219d2e9bb70",
+  "title": "‍‍‍画像生成AIおすすめ比較【2026年】 {GGG01T}",
+  "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQeFRVU1ZrYUxuT0tvX0FxT0xzaGxISFdWeGtzWVN0Nk5YSnVCUllIaG9VQTJxV1p6OXNUdVpJTGxOOEZJTG0tbm0xWjJaYUpOa1ZxTlIyTGcxNjFQT2xPc2hBYjBwNjVmZGlMblRmazNGU210S3lDb2ZEem1TR2c4cFJZck5MeGxTekNta0ZtY3hQaGJvS0l4NDdfUENLSnJQLTNGWFd6UzhEV2NoTFFIZm1nSlNDelloWlRBWGgxTGNsWEpCVGtxMjNJbUtYa194c1QxbUt3SUVvU0RWTXpGX3AtbGlRejF2U2NWV2R2TGpYdEN0ZHppaGRVbnFEYmJxemxydVNma2kzMExpUGF1NnZWZm5fbVJDaUl5NTZzZkxIQl84LVU5ZTREQVdHZEtHYmx0YzJqb0JtQ29kQ0pXc25YNDhaT0FabWc?oc=5",
+  "source": "Anayasa.gov.tr",
+  "summary": "",
+  "publishedAt": "2026-11-03T09:22:39.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3b7c0e540c03",
   "title": "‍‍‍AI導入の脱衣プラットフォーム ビデオ生成機能で比較 {GGG01T}",
   "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNakZoTGoxOHctajNDTkNnOGI1SEQxSnF5bEhsa2dyZXp3WUVxSE45NHgxd1FTS3ZnWFBvaGtHQzBlTTc0VEpWSFpNUkFzeTRSQl9sMGRWSXh1eXl1ajN5aTZHZHlUQ2FGeUFXcUppbTdtcmV2Q1dBSDFpd2RRYW10Rll2X18tTGhSR3pTRktWa216NGVod24teExEX1hwMGNKWmt3NFhCVWwzU2E1cTI1VU9FalgtVEw5WmdlMll1U3FudmJSQjVNbFhWeGNWOFNSOXZfTVFnOGV6eF9lMXZkREZaMHc2UEQ0anZfVEVNWkRianItMWNQc1ZON09FZnZEWm9JY3pBQlVnZnBwWl9DaGdZVzB0NExNT05kb0JUTUlXWkJSZXZUN0RPMEtWR3ZCeVBZTjJ6VXpXWjIyNDJHdFRrVzJLSjllWkdFLXRubnp6bDZteUE5dGdFNkhLZ3BYeW1tVg?oc=5",
@@ -153,6 +311,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4953a51a82f1",
+  "title": "‍‍‍生成AIポルノ",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPUkhPb2oyUnQtOFgxX3dNN29KZVNRU1BVQW1Ud3g2MmRwTnFzVm80QzBuUnNUTEI4S1JEMUhnVlJ6X3kzRF9fdm9NVDdGbG12SVJKSldtTlkwbHNfQjFSeUYxOFZkZ0Rvd08xSC1vU2J3RXpIYnlrcHJYVnM5LTlSeHNOdU93VEhEVFpTajlPVzNBREhqajFnRU9pU1haRGw4MmlHOUY3RDBNbWp6dU9sM1Q5Q184blByS01IdWh6QnZsYk1Oa09VeG5OdkxxZHh5c0pBYUVUOW9nR081UnEwYzBSMmJ1Z3NGU3JrTVJacEl5anFYZHhiZEZEYzRMMU5oaUJEeVVtaERKaDQzS1gyWG94clZYMzZCOFRTWEJ6elJTVlU?oc=5",
+  "source": "Anayasa.gov.tr",
+  "summary": "",
+  "publishedAt": "2026-11-03T09:21:50.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -1380,20 +1551,6 @@
   "isPR": false
  },
  {
-  "id": "c153860b430b",
-  "title": "自治体・企業のＡＩ活用支援 業務効率化へ実務導入提案 今春設立の「イノベーションセンター」",
-  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVZUxsX01YT2ZZRDZJRWxWNzJkbkNjOU9ibHVvUll4U3ByRlI0TU15MVB5YVhKT1ZjdVpqaDNtWjdRTElES1AtT3VmdFFZZVlhTEFSUGtn?oc=5",
-  "source": "岐阜新聞デジタル",
-  "summary": "",
-  "publishedAt": "2026-11-03T04:09:49.000Z",
-  "image": "",
-  "categories": [
-   "case",
-   "business"
-  ],
-  "isPR": false
- },
- {
   "id": "f6effa1ffcd0",
   "title": "OpenAI、チャット回答を超えてAIを測るLifeValを発表",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNW95RUJYVl9uWHBZRGpOUVFoQzFjMkdobWctdjlxVWFWbDZJdjFfeGJLVjFVTkJ6aFVtOGdPMllna3p3dWxxX0FjMTFBZjFST2V5Q051b1BCdm1EWmR0QWdpcUdZdTBibjdyRkE3cXRBXzNJRXpIaTRlcUdBN0N1VG0zZER5SlJ2WlZ1SjEwRkw1NDhIZUE?oc=5",
@@ -1560,6 +1717,19 @@
   "summary": "",
   "publishedAt": "2026-11-03T03:46:01.000Z",
   "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a9fa6889eb4d",
+  "title": "ゴムマリの業務AIエージェント、『売掛金管理』を提供開始",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zRFBQb2lnQzVrOFUzSllGc0t3NkhOeWJkMzVZSmE0Q1NoaVBHRzJSUEo2NUxqRXdtTDdLX3JtckNFWExaOG9NX1ZsaTFnM29HR2Vkd0UyZEN2c1F3Y3d5NlJEVU1pZTBL?oc=5",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-11-03T03:45:15.000Z",
+  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
   "categories": [
    "product"
   ],
@@ -1770,7 +1940,7 @@
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDR3lRcmUydlpkbERQUEhudE83TVZ0SFNKWUcxdzBDYjY0VXpsdmRzYkpPUklneHRmUXdoQTI2RmduZDlwRGEydDNvbmNhYWFTakQyelZrXzBEbmE5MTgySHM0VF95RFdsWUhxZzRNRlRwWXVJelRNVXFfMA?oc=5",
   "source": "Reuters",
   "summary": "",
-  "publishedAt": "2026-11-03T03:03:41.000Z",
+  "publishedAt": "2026-11-03T03:03:00.000Z",
   "image": "",
   "categories": [
    "business"
@@ -2058,10 +2228,10 @@
  {
   "id": "3f8bb52cb5cd",
   "title": "サムスンのAIグラス、12月中旬に米韓発売と報道 Geminiの保存設定も確認点に",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4ZUsyYzBKZ2lqQ0hQN0V5TlRVOTlNdkRDUk1HZ0JGazFXQ2V2eXhUamE0WHpWLTExX2hZR2FHUEFSNnNfb2l3SGxoWTB2bmxJSV8zN1ZfZzhhM3FrS0NsV2dSUdIBaEFVX3lxTE5WTXF5WkVmeXlmTkwyMnlaeHBNaU93eHBtMUQtblhrUVdRUVRoUjJTVmFHcFhNU0ZLWGoxTlBrWDdEQjlHeVNQQWI3VTVKQUFFQkdoX29mYXFqRmpqTGRSb0pORHNUT2kx?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WTXF5WkVmeXlmTkwyMnlaeHBNaU93eHBtMUQtblhrUVdRUVRoUjJTVmFHcFhNU0ZLWGoxTlBrWDdEQjlHeVNQQWI3VTVKQUFFQkdoX29mYXFqRmpqTGRSb0pORHNUT2kx0gFoQVVfeXFMTlZNcXlaRWZ5eWZOTDIyeVp4cE1pT3d4cG0xRC1uWGtRV1FRVGhSMlNWYUdwWE1TRktYajFOUGtYN0RCOUd5U1BBYjdVNUpBQUVCR2hfb2ZhcWpGampMZFJvSk5Ec1RPaTE?oc=5",
   "source": "財経新聞",
   "summary": "",
-  "publishedAt": "2026-11-03T02:21:32.000Z",
+  "publishedAt": "2026-11-03T02:21:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -2304,6 +2474,20 @@
   "isPR": false
  },
  {
+  "id": "53032ade137a",
+  "title": "自動生成AI技術を組み込む、遠隔画像診断支援サービスの全国展開でViewSend ICTとムトウが、業務提携。医療機関間連携とAI・自動化の社会実装を加速します。",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1samFQLUtxSlNhZ1FTNmxkcGdZVjZkREh4dnpiYWRFY29fUXJlYWZwTGFUVDBwYm9hX0NBTi04cWtzekVnQzNpWFVvcl9Rb0x6WEhoVnJ2YU5XRGtpS0RLZHl6RVJDc3lHb0gxTFJNUDNQY0ExN3JyQQ?oc=5",
+  "source": "RBB TODAY",
+  "summary": "",
+  "publishedAt": "2026-11-03T01:46:05.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "60568c36d045",
   "title": "GitHub EnterpriseにGitHub Copilotが含まれるプランが登場",
   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb3h5R1dvRDE4WDR3LWg3bjhsd2RENUxuMFRQdWhPc2I4REM2Q1gzWHF3QmpEOTh0aWM0cnk5Zk5oZFh2dGNteGZCb2RMSzljcVNfcHo5aU4yeWV5WmhjNWN2aVRLVEI1cU1OUm1SdmJzY1ZORWhXZ0dUNFRMaUhfeDdGU3QyYlFvODVNVHRkOXRxNUdv?oc=5",
@@ -2339,19 +2523,6 @@
   "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1357944-file.jpg",
   "categories": [
    "product"
-  ],
-  "isPR": false
- },
- {
-  "id": "53032ade137a",
-  "title": "自動生成AI技術を組み込む、遠隔画像診断支援サービスの全国展開でViewSend ICTとムトウが、業務提携。",
-  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPVkVFNUxGb0UxbjJFX2VKNWNrS1Joa2tWVmExWHVXaW42T3h2QmxFbE5vTlJreUhYZmt2ZGVEc2tpVi1jU2pzcEREemZXTmFnQy1HTEVlbzRTTm8zb2VqV2N0TTFrT28?oc=5",
-  "source": "JIJICO",
-  "summary": "",
-  "publishedAt": "2026-11-03T01:38:45.000Z",
-  "image": "",
-  "categories": [
-   "business"
   ],
   "isPR": false
  },
@@ -2681,19 +2852,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "a9fa6889eb4d",
-  "title": "ゴムマリの業務AIエージェント、『売掛金管理』を提供開始",
-  "url": "https://ascii.jp/elem/000/004/448/4448020/?rss",
-  "source": "ASCII.jp",
-  "summary": "",
-  "publishedAt": "2026-11-03T01:00:00.000Z",
-  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-  "categories": [
-   "product"
   ],
   "isPR": false
  },
@@ -3260,6 +3418,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3a701035ad00",
+  "title": "ChatGPT・Claude・Gemini をひとつの画面で、月1,500円から 中小企業向けAIワークスペース「AITUKAO（エーアイ・ツカオ）」を提供開始",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLNG1xSFkxUjZQY1Z4UVk0M1Q2amxqZjlyUFFpbTRTUU9QcHMtRzVRcFZrOElKS2ZqUGtQUjNmb2pSZHhoM1dORDJxbnF0UE81NGtqbkJfUDAtYzkwcTZCcUlRd3NJUFlua0hHeUN0cTQ4dw?oc=5",
+  "source": "Infoseek",
+  "summary": "",
+  "publishedAt": "2026-11-02T23:40:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -4393,6 +4564,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c153860b430b",
+  "title": "自治体・企業のＡＩ活用支援 業務効率化へ実務導入提案 今春設立の「イノベーションセンター」",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVZUxsX01YT2ZZRDZJRWxWNzJkbkNjOU9ibHVvUll4U3ByRlI0TU15MVB5YVhKT1ZjdVpqaDNtWjdRTElES1AtT3VmdFFZZVlhTEFSUGtn?oc=5",
+  "source": "岐阜新聞デジタル",
+  "summary": "",
+  "publishedAt": "2026-11-02T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "business"
   ],
   "isPR": false
  },
