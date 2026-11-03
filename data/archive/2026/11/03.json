@@ -1,5 +1,44 @@
 [
  {
+  "id": "ec94f0dacabc",
+  "title": "PythonとSQLiteで二重取込を防ぐ、変更行は止める",
+  "url": "https://qiita.com/eiri_ai/items/256acf543e2dab111afb",
+  "source": "Qiita",
+  "summary": "ターミナルで同じ取込を2回動かす。1回目は1件登録、2回目は0件。ここまでは順調でした。ところが、同じ受注IDの金額を変えても、エラーなしで0件になった。 「重複したら無視する」だけの処理を、僕は業務の取込には使いたくありません。再実行で増やさないことと、訂正データを握りつ...",
+  "publishedAt": "2026-11-03T03:28:43.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6fa9b0665e6f",
+  "title": "〖AI News まとめ〗生成AI ニュースレポート — 2026-11-03",
+  "url": "https://qiita.com/aakan/items/c73679db0e0abfb46ca6",
+  "source": "Qiita",
+  "summary": "生成AI ニュースレポート — 2026-11-03 収集日時: 2026-11-03 対象期間: 過去48時間（直近情報を中心に） 記事数: 24件 主要ニュース 1. OpenAIのPando：CodexがGitを超えた理由 ソース: Planet AI ...",
+  "publishedAt": "2026-11-03T03:21:23.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7fe268ed9904",
+  "title": "LLMへのシステムプロンプトを固定化することで反応速度の向上と使用するTOKEN量を減らせる？",
+  "url": "https://qiita.com/kataoka_se_sionic/items/ee9f293f18b1a1fdc2b4",
+  "source": "Qiita",
+  "summary": "この記事の目的 AI チャットボットのようなユースケースの場合、AIに システムプロンプト を渡し、ユーザーからのメッセージ をどう扱うかを指示します。 ユースケースに依存しますが、ユーザーメッセージよりもシステムプロンプトがはるかに大きく支配的なケースが多いのではないか...",
+  "publishedAt": "2026-11-03T03:04:01.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "662f189721d0",
   "title": "現在の軍事技術でAIの価値を解説",
   "url": "https://qiita.com/good59548/items/34849c22eee8a5836216",
@@ -866,6 +905,19 @@
   "image": "",
   "categories": [
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b5dca9428925",
+  "title": "米アンソロピック 売り上げ13倍もAI開発への支出は140兆円余に | NHKニュース",
+  "url": "https://news.web.nhk/newsweb/na/nd-20261103de69869",
+  "source": "はてなブックマーク",
+  "summary": "アメリカのAI開発企業「アンソロピック」はIPO＝新規株式公開に向けた書類の改訂版を公表し、ことし1月から9月までの売り上げが去年の同じ時期の13倍となったことを明らかにしました。一方、AI開発に必要…",
+  "publishedAt": "2026-11-02T23:52:35.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fnd-20261103de69869",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
