@@ -1,5 +1,176 @@
 [
  {
+  "id": "d5d5ae3af0a4",
+  "title": "PoCを本番運用に乗せる時に必要だったもの — 監視・リトライ・コスト上限【bash + launchd実装付き】",
+  "url": "https://qiita.com/joinclass/items/21a65082b5a8594b9d8a",
+  "source": "Qiita",
+  "summary": "はじめに：PoCは「動いた日」が一番危ない 当社（合同会社ジョインクラス）では、Claude Code を中心に記事公開・SNS配信・営業パイプライン・朝のダイジェスト生成などを launchd のジョブ17本以上で回しています。自動化率はおよそ98%です。 ただ、最初か...",
+  "publishedAt": "2026-11-03T23:30:02.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "32d28a96a48c",
+  "title": "ACompany、OpenAIやNVIDIAも注力する機密AI（Confidential AI）で国内の市場形成、技術開発を主導へ",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByb3RsSmpCUzZ6SVhqREM2VHJCcXl4MVR4M3R3TEZBR3hkU2d4UVdZbXJOR1VrQmhZMnFkSnVHdjQ2NjFkaTNIWXlwT1MweUlBWDNjemJaZHktR0U?oc=5",
+  "source": "ペイメントナビ",
+  "summary": "",
+  "publishedAt": "2026-11-03T23:20:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3be67398767f",
+  "title": "なぜNTTは「小型LLM」にこだわるのか 国産AI「tsuzumi 2」に込めた狙い（ITmedia エンタープライズ）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04Z2dqWU1NUGdLU2diSXNxYWVIYmkxQ1JFalpoYlNyRTdDck5TY3BFOXlvRmFGY3U1QXNvSDVTdlV2NW5RbmZabWRoV3dKakgtTkk5MVNGczRCUkFvMHFnOWk0RXFWSWhlYmtmNF9OQnkzSmZmdmdPREdJcXhqQU0?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-03T23:13:11.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1cb1af2a255c",
+  "title": "AI動画を公開して大丈夫？ 類似性チェックと判断記録を支援する新サービス",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1uQ1lkYUFRRUlfVjVIRHJoSEZUbXlPQUxURnBFSWdZS3RHY1NicU5kc3VJRnRQSjdPZjluNTdUVHI0OHNqOWJsTXp3RQ?oc=5",
+  "source": "DXマガジン",
+  "summary": "",
+  "publishedAt": "2026-11-03T23:13:02.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e61542261a87",
+  "title": "Google、生徒用の「学校用アカウント」で検索やGeminiを標準オフに",
+  "url": "https://japan.cnet.com/article/35254328/",
+  "source": "CNET Japan",
+  "summary": "Googleは11月3日、小中高校などの児童・生徒が使う学校用アカウントについて、学校管理者が有効にするまで、Google検索やGeminiなどを利用できない設定に変更する方針を発表した。学校側による各サービスの利用管理を強める。",
+  "publishedAt": "2026-11-03T23:10:00.000Z",
+  "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1358048-file.jpg",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "cb1ac7e07dc6",
+  "title": "AI・クラウド アップデートまとめ（2026/11/04）",
+  "url": "https://qiita.com/hathibei7/items/55fc36e7b5f6467cef47",
+  "source": "Qiita",
+  "summary": "こんにちは、八兵衛です。 前回（11/03 朝）のまとめ以降、約 1 日分の発表をまとめました。 ハイライト OpenAI がバグバウンティの報酬を引き上げ：中・高・重大の各等級の報酬レンジの中央値を、平均すると 4 倍超に。いちばん上の「例外的な」発見の枠は、ボーナ...",
+  "publishedAt": "2026-11-03T23:09:42.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9eb4a353c675",
+  "title": "学校教員もＡＩエージェント活用を 大垣北高校で体験会",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Gc3g5bUU5clUzckpRRlJnbkpCa1pYQU5oaTJNUG9hZERvYVpNeEF2eDZ4N1BzWW5QbEdaY0lvUy1Cd2xpVjZkMHI4bUdPUUd5UFlXUnNB?oc=5",
+  "source": "岐阜新聞デジタル",
+  "summary": "",
+  "publishedAt": "2026-11-03T23:09:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b69d1c2809ab",
+  "title": "仕事は速くなったのに、なぜか疲れる？ 生成AI利用者の56％が「AI疲れ」、抹茶の飲用率に約3.3倍の差",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT1Bvb2pWcmNaVGxsSFl4YVAwYzRuRHIxVl9nXzJsRVk5TVFBdDN2UUN3cE9vbnY2MHZ1NlZENnFlREVxdTRvZk5Ib0ZnN3hmdXRnT05CV09HODROS29oTWhwWEhVOGEzUS1VNG5ZOFp4RUZxcWdXVFZBWF9qWk5fRUp6cjkzWWxCbklJV3BDRF9xdHdiWkdHdVEyYjI2TDV1MVAtSl9MSDNzMEREVlJucmlheDgzbGtBVWpab0ZGS1hLdC1Qd3JRLWJoRVJFd9IBfkFVX3lxTE9IWFQ2Y2Via3J5emhMWWQ0ajhOYjl2ZjZLTHQ0dWpWeks1RXozRHpUS1lxa3FScVpQSXl2UnR6N0tDVnE2aW42U1VwMlA5Tm5GbWRiclBMOEpjX0JqU2ZuYkhvSUJlMTRjSXg4OHQxbTREV2Ric1NUa2xCUDhEQQ?oc=5",
+  "source": "ｄメニューニュース",
+  "summary": "",
+  "publishedAt": "2026-11-03T23:08:50.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "acb69fabb5bf",
+  "title": "Deep Blueは本当に要ったのか——200MHz Pentium ProでStockfishがKasparov級に届くまで",
+  "url": "https://qiita.com/homhom44/items/6ce1e948c621483b53b5",
+  "source": "Qiita",
+  "summary": "1996〜97年にIBMのDeep Blueがカスパロフを破った出来事は、長く「専用機と総力戦の勝利」として語られてきた。だが、Nicholas Carlini は2026年の記事で、その前提を揺さぶる。200MHz の Pentium Pro に現代版 Stockfish...",
+  "publishedAt": "2026-11-03T23:05:42.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "aba5ffdc21a4",
+  "title": "Claude Mythos 5・Opus 4.7・Sonnet 4.6 の生成テキストにウォーターマークが付与される",
+  "url": "https://qiita.com/picnic/items/90e908e9079a2733594c",
+  "source": "Qiita",
+  "summary": "はじめに 2026年11月3日のリリースノートで、Claude Mythos 5・Claude Opus 4.7・Claude Sonnet 4.6 が生成したテキストに、Anthropic のテキスト透かし(ウォーターマーク)が入ることが発表されました。対象は、ドキュメ...",
+  "publishedAt": "2026-11-03T23:05:18.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6e7c4298439c",
+  "title": "米OpenAI、ウーバーのヘーゼルベーカー社長を広報部門責任者に起用（TBS CROSS DIG with Bloomberg）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wcGVqWlY3b2wtTmc2R2RhT0RtRVphWDlxenRRVE01eFQ4OWxwb0VUZDRfU2FLd1hUSGZUb2x6MExNNGtEaDV6aFdSTXRnbVludzdZVDB5ckxiLU56UUk3US1kckNqdlQ1YjUzX1Yycm9DaTc1NFRoY3B3bU1tZ0U?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-03T23:00:10.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "90470f087e20",
+  "title": "既存セキュリティの死角--SaaSと生成AIが変える「ブラウザーの現実」",
+  "url": "https://japan.zdnet.com/article/35254287/",
+  "source": "ZDNET Japan",
+  "summary": "EDR、DLP、SSEなど、多くの企業はこの10年、特にコロナ禍を境に、ネットワークとエンドポイントの両面から防御を積み上げてきました。本稿では前後編の2回で、何が見えなくなっているのかを整理し、対策の選択肢の1つとして注目される「ブラウザー側での防御」を業界動向とあわせて紹介します。",
+  "publishedAt": "2026-11-03T23:00:00.000Z",
+  "image": "https://japan.zdnet.com/storage/2026/04/14/74c76bfe8327acd49b495f415f050263/t/184/138/d/260423_aiagnetrisks_as_1280.jpg",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4350ee3c81d8",
+  "title": "AI相場は第2ステージへ！今こそ仕込むべき｢5大国策テーマ｣",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZM3k3bmlDNGluUmVoQThTQjVDTExOMS1UaXZya0E4M3l3b2FwSEZSLVB1UGJBb29YOUc2U05yemhTMGxVbEExc1JXSmVfM0xrOUtvYUxhYw?oc=5",
+  "source": "四季報オンライン",
+  "summary": "",
+  "publishedAt": "2026-11-03T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "58635fff322e",
   "title": "Netflix、気分で作品を探す「AI Discover」を米で試験導入 テレビ向け",
   "url": "https://japan.cnet.com/article/35254327/",
@@ -68,9 +239,9 @@
  {
   "id": "161a2d13b8ce",
   "title": "Google、学校の生徒向けAI機能を原則オフへ 「AIなしのGoogle検索」は選べず批判も",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qSmU5TFBRNnZTYkdWTlQ3LVdqc015MVAwSEJEcmtudmxIeUpibkpCSjBxN21pbF9TRnVWNHh6dV8yTEl1MkZHcDQxRnp5aVJlMWtQZkVLOHRNRDJYUFBtVHl6YlVBakh2WGc?oc=5",
-  "source": "ITmedia",
-  "summary": "",
+  "url": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
+  "source": "ITmedia AI+",
+  "summary": "Googleは、K-12（幼稚園から高校まで）の生徒向けアカウントで生成AI「Gemini」や「Google検索」などを原則オフにすると発表した。管理者が有効化できるが、検索のAI機能のみを無効にはできず、AIを禁じる学校では検索自体が利用不可となる点が批判を集めている。",
   "publishedAt": "2026-11-03T22:31:04.000Z",
   "image": "",
   "categories": [
@@ -569,7 +740,7 @@
  {
   "id": "7b249a1f397c",
   "title": "AMD売上高見通し、市場予想上回る－AI半導体需要が急増",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPanhld0RiWERxbjZBMk0xS3BOenBYanVEV2NyLVQwckNIamlNQ3M0QnBJQV9QeWxsNnhJRzBCT0RJSDNzMFpGSjhhVU9LM3BFMkN4bHVLSkJZRmlWeDdGdk8waHNObkRyRkt5WG9XWjhxaW9MTVU1U0NSMkEtcEFIZm9ZelRZc2ZmVkJCSnlB?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVd0E5NU1qZlBzb3BDdm9sSm11MUVRN3VTaENwRDJnZjFHOEFQRWhjZFJtQ3FaNC11S0ZnOC1uTjAzZkxnOGxaS014aWRXN3dGbnNiOVlGdmo1cjZkaUVyQ3dvYzQ2SUNtaHN0V1RULUdaNzNTX0Nz?oc=5",
   "source": "Bloomberg.com",
   "summary": "",
   "publishedAt": "2026-11-03T21:25:08.000Z",
@@ -662,6 +833,19 @@
   "id": "4bafa6a66d18",
   "title": "「Llama」Metaが開発したオープンソースの大規模言語モデル",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtc0lRNEdEakdmS3c0bVpMaDRLVGdoakhqY3d0NDFncDk5c0d4UmgzWk1Xcm9JM29WWExkZjdfUUhXRGVBQU5jQVd1MXByS1dRTFpmcG5zZ2JCTmdERGpmTG9obDRXX1BXWXc?oc=5",
+  "source": "窓の杜",
+  "summary": "",
+  "publishedAt": "2026-11-03T21:05:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "61560ff6d895",
+  "title": "「TripoSR」1枚の画像から高速で3Dモデルを生成するAIモデル",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhbDc2cmpkM2VYdDcyMnVFU2p4WDVYalhRczdLMDhRTndnQUF3elVDNHoweWRqek5QYU52M2E5dXlXdU1jY1dFNE9EVWRhMVVBV3BJTlE3aVNsMjFSbzN6cUdCTGtGei15SFU0WA?oc=5",
   "source": "窓の杜",
   "summary": "",
   "publishedAt": "2026-11-03T21:05:00.000Z",
@@ -1159,6 +1343,19 @@
   "isPR": false
  },
  {
+  "id": "946046cb4a2e",
+  "title": "大成建設、1400トンの重機を自動運転 誤差2ミリ未満でトンネル掘削",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LWTJMdHlFQUk4Z0NsS3NucERZY2s0aTNDWHU3V1I1Q0JDSDE4V2syMy10TWdJNkJSWFEtWFdGM3hyb05CMXNHUFhQQkJ5aG1maWMzZm84bUpxcmRpUGdYX3c4Vk9XOVlFMU44YQ?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-03T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "09dd3f0eef02",
   "title": "Itch.io、数テラバイトのAI低品質コンテンツを削除、「AIなし」検索フィルターを導入",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HWVQ3bDR2RERhS2VmeEFnalBqZU9YX2V6QU9nZ1dCaDRQVG84N0lmYzNPSlVnSHNqX3JRY2JpZ0FyMnRQblphVWoxcmdnYWp6NzdWSEo1bEIxTkdXTmVXU05DYXlpMFlaMWlreXI0SDAzYUFH?oc=5",
@@ -1606,6 +1803,19 @@
   "isPR": false
  },
  {
+  "id": "dcd377fbe118",
+  "title": "日本の医師の51%「治療法選択に生成AI活用」 デロイト調査",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VTWt4R0tMRzZqNUFVWkM0MVROa2o1Q3AtVTA1MEptTXpsMFRLalZ2clhWT0QyNHk1dUhVbXM0VzFCaTBRQ3g5MmpTQUJTMkplUFAwNzluSi1BaEQydkhpU1RvYTdpSDRiY2x0Yg?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-03T17:00:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "9316cefbda36",
   "title": "ARIA、ラック規模のAI推論テストにLumaiの光演算サーバーを選定",
   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE12dEFQNUZyb1RSTkk4cFJVX3R6LWI4OER6bG9oZVltSGFHODQ0cDdiczlnRFdPN204VXg4MUpYSGlRQ1g0OGZERVFSb2JCLTlqa1ZZTlFOLXVMRzBuLXV6TE5sUVhIQkd0WTU2Wnh4Rk8ydzMtM0pFaHE3Wk8?oc=5",
@@ -1727,7 +1937,7 @@
   "id": "4a2fe75b5704",
   "title": "Anthropic、公式ページで非表示の「Mythos 5.5」を表示",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fUExHcFY1aVk5ZkNOSGZmdGw3cmMzWmlpRlZsQmZfRkN2VjhpZWNKaGxOaW02Nkt4d21ac2tDRm1peDVsTjQtQ0R5ZFlIQ3JzRFYzXzNMVjlCQWtuamo5YUZXdHFGc1V3UzF2ZmZEVWNSVlVCa2c?oc=5",
-  "source": "portalcripto.com.br",
+  "source": "PortalCripto",
   "summary": "",
   "publishedAt": "2026-11-03T16:05:30.000Z",
   "image": "",
@@ -1944,7 +2154,7 @@
   "source": "Publickey",
   "summary": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、AIエージェント時代に対応した大幅な性能向上を実現することを明らかにしました。 性能向上はGitHubの基盤をMicrosoft Azureへ移行し、コンピュートとストレージを分離する新…",
   "publishedAt": "2026-11-03T15:16:22.000Z",
-  "image": "",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fgithub180aigithub_universe_2026.html",
   "categories": [
    "model",
    "product"
@@ -1958,7 +2168,7 @@
   "source": "Publickey",
   "summary": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、より高度なコードレビューを行う新機能「Copilot Code Review Max」を発表しました。 GitHub Copilotは以前からコードレビューのための機能「Copilot …",
   "publishedAt": "2026-11-03T15:14:57.000Z",
-  "image": "",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.publickey1.jp%2Fblog%2F26%2Fgithubcopilot_code_review_maxgithub_universe_2026.html",
   "categories": [
    "product",
    "dev"
@@ -1968,7 +2178,7 @@
  {
   "id": "7194087ba9a0",
   "title": "公共交通計画に生成ＡＩ 日本２社が共同開発、試作版公開",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NRUNMcDhncUhfZFQyYmZrVE9oNGFINVR6VEZDN1d1dDk3VFJ6N2xaYnU2bFNySUljM3oxTVQ1c1YzMXJ1c3RjeW9mU0I5dmtRbTNGYUtMeGd4aTdwTFR6TC1Raw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rUWk4MjV5TlR5QW5mdWVGdlBLcjE3cjEyc2s1OWtZbmM0VVd2TE00bHdaVG16LWFPREVUUnh3bTdUNnptNnNvN3FHOEUzOGxhLU9KTUprV0dHYmlUbUE?oc=5",
   "source": "じゃかるた新聞",
   "summary": "",
   "publishedAt": "2026-11-03T15:14:26.000Z",
