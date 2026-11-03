@@ -1,5 +1,98 @@
 [
  {
+  "id": "75589888e1ce",
+  "title": "GPT-5.6 SolとClaude Opus 4.8でCSVインポートツールを一度書いて使い回す実測",
+  "url": "https://qiita.com/whitemarshall/items/d334bbb15d0189d51d92",
+  "source": "Qiita",
+  "summary": "Excelから書き出した商品CSVをデータベースや別サービスへ流し込む作業は、週に一度でも繰り返すなら手作業では持ちません。価格を桁落ちなく整数化し、不正な行を拒否し、失敗したときに前回のproducts.jsonやCSV原本を壊さない。この辺りは、使い捨てのスクリプトで...",
+  "publishedAt": "2026-11-03T15:54:09.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2f6a0db58148",
+  "title": "OpenAI、12月からChatGPT・Work・Codexの利用枠を統合へ 「トークン課金制」への移行も発表",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80VUlmNjRucmI3RXppcUFmVDNhcWNMLXp6d2o1QTI0YmNjNFhPQXNqb3hVWmU1bWhqTWI5Q0FXaV9xakV0UDlOY0xBWnJlYWJpOHlDTE9CVnd6cHVhUzBtRWVZRlRiWnVmbE4wMjE2N1FnYmtfSXhXVHMtNk5vMkE?oc=5",
+  "source": "Mashdigi",
+  "summary": "",
+  "publishedAt": "2026-11-03T15:51:49.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2c181b8b1b71",
+  "title": "幹部の55％が挙げる文脈不足、スノーフレークがAIエージェントの暴走と費用を一括統制",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HN3RGMU5fbTh0eW1RZmtXaEg1MDM5VHI3VTFrSWdDc0dPeE53QkZyQ3FpV2lWNDBTZWt5aDlsOFNZemNnUEt1YXc1QWhVQ3VTRkNn?oc=5",
+  "source": "ビジネス+IT",
+  "summary": "",
+  "publishedAt": "2026-11-03T15:43:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e3c29ed762b4",
+  "title": "AIアシスタント「Muse」のスラッシュコマンド全8件。ドキュメントには無かったけど、アプリの「/」メニューにあった",
+  "url": "https://qiita.com/satouyoshiaki/items/7501138427292871f595",
+  "source": "Qiita",
+  "summary": "はじめに AIアシスタントの Muse を毎日使っています。ある日、「使用量やトークンの残り、リミットを確認するコマンドって無いの？」という話になりました。Claude Code には /usage や /cost、Gemini CLI には /stats のようなコマン...",
+  "publishedAt": "2026-11-03T15:33:34.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a71b0f6ae7f2",
+  "title": "SKテレコム、社員が作ったAIエージェント5000個超",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM3ZaWGprZUw1eVB6ZFltX2VjRjZoOUJJcmhuQWRkTUN2QlhkVEUwSWZCdF9pUzI5Zmw5R0paaEZXSVI1ZHpDWWlpWWxYczNOM1Rpb0ZpVkdneVBvTUdaaWxxQ0JLQTM4YS1XOXBBX2x2clFQb2xBaGZDUXpiMkM5ZQ?oc=5",
+  "source": "조선일보",
+  "summary": "",
+  "publishedAt": "2026-11-03T15:33:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "47c92e6f34b8",
+  "title": "クラウドストライク、AI新興2社を約780億円で買収 暴走エージェントを止める「キルスイッチ」も投入",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KNDlabTNybXI3REtRMXhwNW10elc0LVFGTlhuZUotMEN2ZU9sNUNvM21XUmhlX0tZckd0NkhQX2J6UDFKcWNiOUtqTXlXbW9zaHhfMml5aWJ6UERCS1BXOXJtMDRLN1F6N0x5R0Z1UDBiZi1B?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-03T15:25:00.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "fef1fad1aaaf",
+  "title": "AIエージェントのガバナンスとは？構築6ステップと社内規程・体制の作り方",
+  "url": "https://ainow.ai/2026/11/04/278500/",
+  "source": "AINOW",
+  "summary": "部署ごとにAIエージェントが増え、監査部門から「誰が権限を承認し、誰が止めるのか」と問われて答えに詰まっていないでしょうか。本記事では、AIエージェントのガバナンスで決めるべき6つの要素と、体制づくりから社内規程までの構... The post AIエージェントのガバナンスとは？構築6ステップと社内規程・体制の作り方…",
+  "publishedAt": "2026-11-03T15:22:08.000Z",
+  "image": "https://ainow.ai/wp-content/uploads/2026/11/thumbnail-3.jpg",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "e5a23e05df8d",
   "title": "GitHubが従来比180倍のスループット性能向上を実現へ、来年初頭に。AIエージェント時代に対応。GitHub Universe 2026",
   "url": "https://www.publickey1.jp/blog/26/github180aigithub_universe_2026.html",
