@@ -131,12 +131,39 @@
   "isPR": false
  },
  {
+  "id": "48ecf0ff6c85",
+  "title": "GPUなしでAbliteration CLI『Heretic』を動かし、拒否率とKL発散を実測した",
+  "url": "https://zenn.dev/matsushima_a/articles/day-036-heretic-abliteration-cpu-smoke-test",
+  "source": "Zenn",
+  "summary": "これは何を試した記事か Heretic という、LLMの拒否挙動(いわゆる検閲・安全性アラインメント)を再学習なしで抑制するPython製CLIツールを実際に動かし、処理前後の拒否率とKL発散(元モデルの出力分布からのズレ)を数値で確認した記事である。 筆者の環境にはGPUがなく、READMEが前提にしているRTX …",
+  "publishedAt": "2026-11-04T14:18:14.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "babef508526f",
+  "title": "Genesis で水と砂をシミュレーションする",
+  "url": "https://zenn.dev/oggata/articles/13c100345ed318",
+  "source": "Zenn",
+  "summary": "第3部では、ロボットを 水と砂の中 に入れます。Go2 と H1 に浅瀬（川）を渡らせ、砂丘を登らせ、Go2 には砂場を掘らせます。 この章では、まず Genesis で水と砂をどう表すかを見ます。そして、第3部全体を決める大きな壁 ― 水と砂のシミュレーションは、強化…",
+  "publishedAt": "2026-11-04T14:15:08.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "c060d48b8ff3",
   "title": "和から、生成AIの60講座以上が月額11,880円で学び放題の「和からの生成AIパス会員」を本格開始 ライブ講座への無料参加・月例会・学習相談も",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zSGt3VEhSRW44UFd4Qm50bmtocVRTd1huSTgzQmxBNXo2bEx1R1dlMXdYNFgweVRhTWNVRkdVM2gzQkxFYWgtQkpnWWJiQkNSSGlLRy1hbURXaUtHS296WDJzR3VnRGJCeldwSEoteTVJUQ?oc=5",
-  "source": "Infoseek",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uWFh2OElsdUhCNy1wQl9ZQkxWSmhvenNieGJoX01ReGpnazlSWnpHcGRYU0ZYdlEyYVNyRkdLbkdoaTQ4XzNsUXJobGo3Z1B6Z2RkcFpVSlJwanNZMkZVa0VQVDhzV2JLcEpwWEpDM3VBZjBXS09Dcg?oc=5",
+  "source": "RBB TODAY",
   "summary": "",
-  "publishedAt": "2026-11-04T14:10:00.000Z",
+  "publishedAt": "2026-11-04T14:10:02.000Z",
   "image": "",
   "categories": [
    "other"
@@ -171,6 +198,34 @@
   "isPR": false
  },
  {
+  "id": "c9045677414c",
+  "title": "科学AIの信頼性は、LLMの推論だけでは決まらない",
+  "url": "https://zenn.dev/ai_practitioner/articles/ea4de984a1d12d",
+  "source": "Zenn",
+  "summary": "科学AIの設計で重要なのは、LLMにすべての計算を任せることではない。 LLMが研究手順を組み立て、専門ツールが計算を実行し、その結果を人間が検証できる形で残す。この役割分担が、実用的なScientific Agentを考える出発点になる。 Cheminformatics Skillsの設計 Google DeepM…",
+  "publishedAt": "2026-11-04T13:44:05.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0b39628a8fd4",
+  "title": "2026年版 ローカルLLMに必要なVRAMの目安（Qwen3.8 27B / 24GB vs 32GB）",
+  "url": "https://zenn.dev/harkbox/articles/e1a7a10c40c91d",
+  "source": "Zenn",
+  "summary": "新しいオープンモデルが出るたびに「自分のGPUで動く？」と悩むので、具体的な数字で整理します。 VRAM = 重み + KVキャッシュ + バッファ GGUFのファイルサイズ＝必要VRAMではありません。コンテキスト長に応じてKVキャッシュが増えます。 例：Qwen3.8 27B（GGUF、4Kコンテキスト） 量子化…",
+  "publishedAt": "2026-11-04T13:43:16.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "c7716d5771e0",
   "title": "AI導入で電話業務の時間はどれだけ減るか。ContactX、登録不要の「費用対効果シミュレーター」を公開",
   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yWTA4bHpRcTh4THVmNlpUSWEwRUZFMkdCQjhvLWVSNTREMkh1cjBxYkJXVEdieEZjNzJ1bEpuUmhjNDVMaklUZjJURGNtcUZNYU5IbGtwZDFfTFd5VUVMdGRaQ3M3RkVWc0tB?oc=5",
@@ -185,16 +240,28 @@
   "isPR": false
  },
  {
-  "id": "251dcd76a9d6",
-  "title": "学校で「Google検索」が使えなくなる？ 生徒向けAI機能の波紋、AIがAIを解析・編集する衝撃研究【週末AIニュース3選】",
-  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16UHlaSV9zd0ZhelIyMEhVN2R3LU9ranBpcHd3Yk1iMGt4a2JCQlM0dmFFTGI0TVNMdFVIQmc0N1MzU20wQkxTRXBsTVlHZHNIQVVOWTBvWjloVmlKU2hPdmNuNW4wN0JwNkFCd3RnYlBndXRUbUE?oc=5",
-  "source": "ニコニコニュース",
-  "summary": "",
-  "publishedAt": "2026-11-04T13:30:33.000Z",
+  "id": "4a0d570cdff2",
+  "title": "Claude認定資格を日本語で受ける前に確かめる8つのこと（受験資格・申し込み・改訂）",
+  "url": "https://zenn.dev/aishigoto/articles/cert-claude-exam-checklist-ja",
+  "source": "Zenn",
+  "summary": "※ この記事はClaude Code（AI）を使って執筆し、内容は公式ドキュメントで確認しています。 Claudeの認定資格は日本語でも受験できます。ただ、申し込みの条件や当日の決まりには、ほかのIT資格と違う点がいくつかあります。たとえば、個人のメールアドレスでは申し込めません。 この記事では、Anthropic …",
+  "publishedAt": "2026-11-04T13:36:58.000Z",
   "image": "",
   "categories": [
-   "model",
-   "case"
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "28195331459f",
+  "title": "AI協働：パソコンでかなフリック入力使う人なんているの？（笑）",
+  "url": "https://zenn.dev/frb_tamasub/articles/ai-collaboration11-frb-kana-flick-press-conference",
+  "source": "Zenn",
+  "summary": "! はじめに — 今回もおちゃらけてごめんなさい（笑） 前回に引き続き、今回もFRB研究所の架空の記者会見というコント形式でお届けします。 冒頭からおちゃらけてしまって、ごめんなさい（笑）。 でも、実際に取り組んでいることは、わりと真面目です。これはAIと一緒に小さな違和感を拾い、次の発想が生まれる過程を観察する「思…",
+  "publishedAt": "2026-11-04T13:24:35.000Z",
+  "image": "",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
@@ -261,6 +328,19 @@
   "image": "",
   "categories": [
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e553ca8eb5d7",
+  "title": "Claude Code 2026年10月のアップデートまとめ:Mods、Code Review、Haiku 5.5",
+  "url": "https://zenn.dev/orivanai/articles/claude-code-2026-10-updates",
+  "source": "Zenn",
+  "summary": "! 2026年10月の Claude Code の変更から、すでに使っている人が知っておきたいものに絞ってまとめました。対象の版は 2.1.287〜2.1.316 です。すべての変更は、公式の Changelog にあります。 10月の要点 主な更新点 Mods(モッズ、2.1.287):ツールを使う、画面を描くとい…",
+  "publishedAt": "2026-11-04T13:15:04.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -491,6 +571,20 @@
   "isPR": false
  },
  {
+  "id": "b1a1b8277a48",
+  "title": "Godot のゲームに AI で効果音を入れる方法（ElevenLabs・sfxr などとの比較つき）",
+  "url": "https://zenn.dev/zivaengine/articles/512c0785718b9d",
+  "source": "Zenn",
+  "summary": "この記事は https://ziva.sh/blogs/godot-ai-sound-effects の日本語版です（英語の原文は Ziva.sh が 2026年11月4日に公開）。 Godot のゲームに AI で作った効果音を入れるいちばん手早い方法は、Godot エディタの中で動く AI エージェント Ziva…",
+  "publishedAt": "2026-11-04T12:46:30.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "c2f77776e577",
   "title": "学習なしでLLMの思考ループは直せるのか——重みを2か所編集する研究を、自宅のDGX Sparkで追試した",
   "url": "https://zenn.dev/sodeyama/articles/tech-weight-edit-thinking-loop",
@@ -500,6 +594,19 @@
   "image": "",
   "categories": [
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f9f448bdf8a1",
+  "title": "複数AIレビューで、モデルと「何を見るか」を分けている",
+  "url": "https://zenn.dev/honabochi/articles/ai-review-votes-and-evidence",
+  "source": "Zenn",
+  "summary": "Codexに二つの役割を頼むと、違うことを言ってくれる。けれど、どこか親戚ぐらい似ている感じもある。 体感としては、二人というより1.5人ぐらい。人数を測った話ではなく、考え方の近さについての感覚です。 別の視点を借りたいので、必要な場面ではClaudeやGeminiも通しています。ただ、モデルを変えるだけで、欲しか…",
+  "publishedAt": "2026-11-04T12:36:59.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -565,6 +672,19 @@
   "image": "",
   "categories": [
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2f1cd2b129a0",
+  "title": "AIに設計をループで回させたら、検証60回・人間への確認73件だった話",
+  "url": "https://zenn.dev/neko_kawaii/articles/ba06d105b9e416",
+  "source": "Zenn",
+  "summary": "はじめに 要件から詳細設計までを AI にループで回させる仕組みを作り、検証用の題材で全10フェーズを1周しました。結果は、検証60回、人間への確認73件、前のフェーズへの差し戻し4回です。 もともと私は、要件から実装までの設計手順を Markdown の設計フレームワークとしてまとめていました。これを「AI が作り…",
+  "publishedAt": "2026-11-04T12:28:19.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -661,6 +781,20 @@
   "isPR": false
  },
  {
+  "id": "251dcd76a9d6",
+  "title": "学校で「Google検索」が使えなくなる？ 生徒向けAI機能の波紋、AIがAIを解析・編集する衝撃研究【週末AIニュース3選】",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zRlVJY0RrYUZIdFBZUlVjbkZFYlcyeGtLTUEzSHlNa1M1c1FkTGE0aGNPZ2EyOXNmamp6UWFyaThxR0xMakhnUE93ejhpcWszOVJwTUM0bUdSazNiWE5UbTUwci1lMzRUTURlajdKb0NxRG4xeW9yYTRDTll6ODQ?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-04T12:01:16.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "455c43358d5a",
   "title": "浅草の老舗銭湯、引き継いだのは26歳起業家と元ソフトバンクの異色コンビ。AI時代こそ「体で仕事を作る」",
   "url": "https://www.businessinsider.jp/article/2611-yue-sento-asakusa-succession/",
@@ -728,7 +862,7 @@
  {
   "id": "e2a4df327885",
   "title": "【米中間選挙】民主党が上下両院で過半数確実 劣勢トランプ氏は「拒否権」示唆で徹底抗戦か、AI・半導体株など日本への影響は?【Nスタ解説】（TBS NEWS DIG Powered by JNN）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tUGRlTW9jb1RSRVRuS0pMUzdyQll4NGFqbVN2VzFlSVhXb0NxVjI1cFEwV0VEcEM3NHFYTWdwOU1zZUM1VlpRQlgtb2E5TWxqQkQ2cEF2LTcyaDhBUTBQWlhPY0IxTkozcUwwcy14bHNhdGxqN2pwWWQwZkZ6RlU?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQak1hTDc2ZjRXMlJUNllON2Z5Uzc5T1lPUW92d2tDUGdCeGdTY2FQdHdteGF2b2EybzA1Q0ozaUttaUdtS0ZEQlZLUXZFbmlqNXluUnkxZ0FuWUc2OXlWZ1VRbXJsU3puT1BHSVpxMWJXYi1mY3duazA4WmpoTTZXR3RVa1o3Rk9j?oc=5",
   "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-11-04T11:48:17.000Z",
@@ -900,8 +1034,8 @@
  {
   "id": "3fa829bd3a76",
   "title": "中国のiPhoneにApple Intelligenceがやってくる。パートナーはアリババのAI",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPb2F0a3FoX2lmY094V1NWMDZINWt0MmFWeWdPU25YbFc1RzVIbzRQMmx6NVVIclRYTE5YeHhBTjJONU56eFNxanhkY2ZDODh1RVo5ZlhoRU9IUDFkYUhWbUlVLXMwUG1YcDRJRjdFaXZ6d050aWgtOA?oc=5",
-  "source": "Gizmodo",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9OckphallZUWR4QjFSUnd2ZjdTdEl4cGNkQk5vbmFCNWFJUEhBcV9mWlFzR1hqMHlHaW10MzQzVDcwTjFUVXE1SExHUWtZd1Byd2c2bTlrYmVsMkhGSkt6R0FMVkFyR1QyUUxxdVRUSDhzQWRnZFhsak1ReFk?oc=5",
+  "source": "UQライフ",
   "summary": "",
   "publishedAt": "2026-11-04T11:15:00.000Z",
   "image": "",
@@ -4199,7 +4333,7 @@
  {
   "id": "ae16c62e4468",
   "title": "アジア株 テキサス民主党勝利、AI規制懸念 トランプは事実上敗北認める",
-  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53R0ZYQXZEZldYaHR3MTNobU1GWVdaMlgwWWlrem5vS3dXeDJCZl9MdGJxS1FBRGY1bG5FdVd5SS1Ud0t3YjRMNkF2SmZnYmt6R04xb0ttVGxmMWx1bkdSazRR?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LZ3lNWXZ3NFBvTDZUeHhZLUIwdGh2ZS13eDZUa2ZOZ1BRQWJYenhjUDBkMEJEb2xoa3pXX1cyem1LeFducjhfV1MyNGNOX281b0JlRGF2V1RGa1lhZUxKcA?oc=5",
   "source": "株探",
   "summary": "",
   "publishedAt": "2026-11-04T05:25:00.000Z",
@@ -6497,7 +6631,7 @@
  {
   "id": "6b17d4669fd4",
   "title": "1,000億パラメータ未満モデルが155.9億ドルの成長機会を主導、LLM市場は325億ドルへ急伸",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0X1hSU3RWUWxXQ3dIeTdfNS04R3I4VTY1Ylh6dHM1SHh0Z3kwX2gzb1NsOWVTVUwxd2pZem1NOXkyZ0ZFem9FRHpJa3RWaGlzTUhjRm9nX0hrYkQ1VjJiUDNSUldVQmttTjRkazdRWUl2WGNieHJRVzNNcw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CUS1abVJ6SW1KcnprVmtKcmhyMml2bXRMUjVNN1oyNzVPZC1rLWE2Q2NfbElBdFhhWENpQ1pLNjJTMEFhQmxKZVB2bDR4X1I1NTZCbEJubG9xdzBpeG9GMEtzVEt3NGJfM0RUdXlpN2dZN0Q2MlE?oc=5",
   "source": "ニコニコニュース",
   "summary": "",
   "publishedAt": "2026-11-04T02:00:31.000Z",
