@@ -5,21 +5,35 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-04T18:30:23.257Z</updated>
+  <updated>2026-11-04T19:00:24.727Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>OpenAIがPierre買収とGPT-5.6 CyberのGovCloud提供を発表</title>
+    <link href="https://qiita.com/picnic/items/c8a211995f81b457af55"/>
+    <id>https://aimatome.gamelab.website/#a2b659ed7ab7</id>
+    <updated>2026-11-04T18:55:05.000Z</updated>
+    <summary>Qiita ／ はじめに 2026年11月4日、OpenAIから2件の発表がありました。 Pierre Computer Company, Inc. の買収:Codexで「コードを書く・理解する・レビューする」ためのツールを広げるのが目的です。 Daybreak Red が AWS...</summary>
+  </entry>
+  <entry>
+    <title>Gemini 3.8 TTS の Voice remixing とは?自然言語でボイスを作る方法</title>
+    <link href="https://qiita.com/picnic/items/f75ee04be1a2371feed1"/>
+    <id>https://aimatome.gamelab.website/#c977f077d9d6</id>
+    <updated>2026-11-04T18:53:52.000Z</updated>
+    <summary>Qiita ／ はじめに 2026年11月4日、Gemini API の Gemini 3.8 TTS 向けに Voice remixing がリリースされました。既存のプリビルトボイスや、Voice design で作ったボイスを自然言語の指示で変更し、新しい独立した保存済みボイスとし...</summary>
+  </entry>
+  <entry>
+    <title>Claude Code v2.1.318 破壊的変更まとめ：ランナーログ・IDE拡張・deniedMcpServers</title>
+    <link href="https://qiita.com/picnic/items/6984d8e59c0e8b52dfab"/>
+    <id>https://aimatome.gamelab.website/#d19a6e58c69b</id>
+    <updated>2026-11-04T18:52:39.000Z</updated>
+    <summary>Qiita ／ はじめに Claude Code v2.1.318 がリリースされました。新機能（Claude apps gateway の assume_role 対応など）に加え、運用中の環境を壊しうる破壊的変更が3件含まれています。さらに、共有ネットワークホームでの設定消失、セッシ...</summary>
+  </entry>
   <entry>
     <title>サイボウズ「大企業におけるAI活用実態調査」第3弾を公開 ー AIエージェントを導入している企業は6割超。</title>
     <link href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OdGlaUmFZNkJ6UTluRExiWVRIZV96eWVJZVZqUXdlbU1xMlhXLUVxV0pPTmlaVjMyakRLZ2Q5Y0lGZmEydDFJLVR2UVpJVVhKSnpNYlEzZFN1bkQyVldsRTZtSGViQQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#fa7c4ea4c2e4</id>
     <updated>2026-11-04T18:15:21.000Z</updated>
     <summary>ニコニコニュース</summary>
-  </entry>
-  <entry>
-    <title>MCPツール定義の「スキーマ税」でトークンが溶ける！「全32ツール一括投入」vs「オンデマンド検索」で入力92.7%削減</title>
-    <link href="https://zenn.dev/tappers/articles/ai-labo-e14-progressive-tool-search"/>
-    <id>https://aimatome.gamelab.website/#58483e3258ce</id>
-    <updated>2026-11-04T18:13:21.000Z</updated>
-    <summary>Zenn ／ ! 本記事は、SNS（X / Threads）や海外エンジニアコミュニティで提唱されている「AIコーディングエージェントの実践設計パターン」を、完全オフラインの隔離サンドボックスVM上で 同一モデル・同一初期課題（非公開テスト20ケース）を用いて定量A/Bテストした実証シリーズ（AI Labo 検証シリーズ E14）…</summary>
   </entry>
   <entry>
     <title>誤差逆伝播法（バックプロパゲーション）の仕組み</title>
@@ -50,27 +64,6 @@
     <summary>BigGo ファイナンス</summary>
   </entry>
   <entry>
-    <title>Godot 4 で AI を使って 3D モデルを作る：Blender 連携・インポート設定・ツール比較</title>
-    <link href="https://qiita.com/Ziva/items/651ed9b7a115cb253127"/>
-    <id>https://aimatome.gamelab.website/#ad24bedd5c67</id>
-    <updated>2026-11-04T17:20:11.000Z</updated>
-    <summary>Qiita ／ この記事は https://ziva.sh/blogs/godot-ai-3d-models の日本語版です（英語の原文は Ziva.sh が 2026年11月4日に公開）。 はじめに Godot で作っているゲームに 3D モデルを入れたい人向けの記事です。次の内容を扱...</summary>
-  </entry>
-  <entry>
-    <title>【Claude Code】commit巻き込み事故を3層hookで防ぐ：git-commit-scoped設計</title>
-    <link href="https://qiita.com/fukukei23/items/d37ec9d9f3a4ac9045d5"/>
-    <id>https://aimatome.gamelab.website/#355711982432</id>
-    <updated>2026-11-04T17:16:19.000Z</updated>
-    <summary>Qiita ／ はじめに Claude Codeに作業を任せていると、起きやすいのが「commit巻き込み事故」です。「このファイルだけcommitして」と依頼したつもりが、作業ツリーに残っていた別タスクの変更まで一緒にcommitされていた——こんな経験はありませんか。 私はClaud...</summary>
-  </entry>
-  <entry>
-    <title>高速リリースでチャットの不具合報告を見失わない：版情報・AI整理・有人担当を一つの受付台帳にする</title>
-    <link href="https://qiita.com/susie000720/items/b46b3a3e1a6e0ab5947d"/>
-    <id>https://aimatome.gamelab.website/#6f0a4415042d</id>
-    <updated>2026-11-04T17:15:09.000Z</updated>
-    <summary>Qiita ／ リリースを速く回したい。一方で、ユーザーの声を集めるために別のフォームやコミュニティを増やすと、今度は誰も担当しない窓口が増えてしまいます。 そこで既存のチャットをフィードバック入口にすると、次の問題が起きます。 「ログインできない」だけでは、どのアプリ版の報告か分からな...</summary>
-  </entry>
-  <entry>
     <title>中国・欧卡智舶が追加資金調達 自動操船AIをレジャー船へ拡大展開</title>
     <link href="https://news.google.com/rss/articles/CBMibEFVX3lxTE8tX2RKZ0JhbFpqZ1ZERlBEYzFmSDhQaEoxQjUta0p4TlIzNVZ4azFnaU80a0tyaXJaQnJ1TnJnaExtdngzU1lPOXFQRENaNG5PdmV3LWpnRHdzVE1fX010SjhGZlB1el85cFFrZA?oc=5"/>
     <id>https://aimatome.gamelab.website/#5537bf2c5100</id>
@@ -78,11 +71,11 @@
     <summary>日本経済新聞</summary>
   </entry>
   <entry>
-    <title>AstraがQwenを「外科手術」？重み0.016%の編集で何が変わったのか</title>
-    <link href="https://zenn.dev/akisayo/articles/weight-space-programming"/>
-    <id>https://aimatome.gamelab.website/#f98ca7742e8e</id>
-    <updated>2026-11-04T16:35:31.000Z</updated>
-    <summary>Zenn ／ AIが同じことをぐるぐる考えて、いつまでも答えを出してくれない。そんな経験はないでしょうか。 この困った癖を、別のAIに直してもらう。しかも、プロンプトを工夫するのではなく、モデルの重みを直接書き換えてもらう。いわば、AIによるAIの「外科手術」です。 2026年11月2日にMIT CSAILの研究者らが公開した「S…</summary>
+    <title>「Microsoft 365 Copilot向け支援サービス」を刷新</title>
+    <link href="https://news.google.com/rss/articles/CBMickFVX3lxTE9scnpDYlJDMDdId1ZaUV9XWGVSOUViVmhJeDJzVE1KVGxEZGQwZW1ZMkpJT1FUa3lnaVh4Ml84NklONV9iQ1FjVDJSNlhWcnZ2VTNzSmFpQVpDQkJCRUZ0SjV3SF9PNHZJV0I2d196MURPUQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#a713c0d2c6c2</id>
+    <updated>2026-11-04T16:40:01.000Z</updated>
+    <summary>Infoseek</summary>
   </entry>
   <entry>
     <title>OpenAIがPierreを買収、Codex開発者インフラを拡充へ 執筆 - Investing.com</title>
@@ -274,6 +267,13 @@
     <summary>Zenn ／ これは何を試した記事か Heretic という、LLMの拒否挙動(いわゆる検閲・安全性アラインメント)を再学習なしで抑制するPython製CLIツールを実際に動かし、処理前後の拒否率とKL発散(元モデルの出力分布からのズレ)を数値で確認した記事である。 筆者の環境にはGPUがなく、READMEが前提にしているRTX …</summary>
   </entry>
   <entry>
+    <title>Genesis で水と砂をシミュレーションする</title>
+    <link href="https://zenn.dev/oggata/articles/13c100345ed318"/>
+    <id>https://aimatome.gamelab.website/#babef508526f</id>
+    <updated>2026-11-04T14:15:08.000Z</updated>
+    <summary>Zenn ／ 第3部では、ロボットを 水と砂の中 に入れます。Go2 と H1 に浅瀬（川）を渡らせ、砂丘を登らせ、Go2 には砂場を掘らせます。 この章では、まず Genesis で水と砂をどう表すかを見ます。そして、第3部全体を決める大きな壁 ― 水と砂のシミュレーションは、強化…</summary>
+  </entry>
+  <entry>
     <title>和から、生成AIの60講座以上が月額11,880円で学び放題の「和からの生成AIパス会員」を本格開始 ライブ講座への無料参加・月例会・学習相談も</title>
     <link href="https://news.google.com/rss/articles/CBMickFVX3lxTE1zSGt3VEhSRW44UFd4Qm50bmtocVRTd1huSTgzQmxBNXo2bEx1R1dlMXdYNFgweVRhTWNVRkdVM2gzQkxFYWgtQkpnWWJiQkNSSGlLRy1hbURXaUtHS296WDJzR3VnRGJCeldwSEoteTVJUQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#c060d48b8ff3</id>
@@ -316,6 +316,20 @@
     <summary>Zenn ／ ※ この記事はClaude Code（AI）を使って執筆し、内容は公式ドキュメントで確認しています。 Claudeの認定資格は日本語でも受験できます。ただ、申し込みの条件や当日の決まりには、ほかのIT資格と違う点がいくつかあります。たとえば、個人のメールアドレスでは申し込めません。 この記事では、Anthropic …</summary>
   </entry>
   <entry>
+    <title>AI協働：パソコンでかなフリック入力使う人なんているの？（笑）</title>
+    <link href="https://zenn.dev/frb_tamasub/articles/ai-collaboration11-frb-kana-flick-press-conference"/>
+    <id>https://aimatome.gamelab.website/#28195331459f</id>
+    <updated>2026-11-04T13:24:35.000Z</updated>
+    <summary>Zenn ／ ! はじめに — 今回もおちゃらけてごめんなさい（笑） 前回に引き続き、今回もFRB研究所の架空の記者会見というコント形式でお届けします。 冒頭からおちゃらけてしまって、ごめんなさい（笑）。 でも、実際に取り組んでいることは、わりと真面目です。これはAIと一緒に小さな違和感を拾い、次の発想が生まれる過程を観察する「思…</summary>
+  </entry>
+  <entry>
+    <title>Claude Code 2026年10月のアップデートまとめ:Mods、Code Review、Haiku 5.5</title>
+    <link href="https://zenn.dev/orivanai/articles/claude-code-2026-10-updates"/>
+    <id>https://aimatome.gamelab.website/#e553ca8eb5d7</id>
+    <updated>2026-11-04T13:15:04.000Z</updated>
+    <summary>Zenn ／ ! 2026年10月の Claude Code の変更から、すでに使っている人が知っておきたいものに絞ってまとめました。対象の版は 2.1.287〜2.1.316 です。すべての変更は、公式の Changelog にあります。 10月の要点 主な更新点 Mods(モッズ、2.1.287):ツールを使う、画面を描くとい…</summary>
+  </entry>
+  <entry>
     <title>Parloa、AIカスタマーサービスでDeloitte Canadaと提携</title>
     <link href="https://news.google.com/rss/articles/CBMijwFBVV95cUxObVZwaW1LTERUN1FZcnZxZVZuRVZvcVFfT0pJTEZQazNqLU1rU2hEdlhmTWhlTWdyVDMzSmxCdnFuMVBuX193NmhIRUZNWi0zcFl4Qy1nMEkxTHk4ZHJuREpHZms4S01tQ2h3M19oVmJkRDY2VTNMNjdhb3dmMV9xQ01wX2JNZDYtZkg5WEJyUQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#3b71bf78bf3c</id>
@@ -342,19 +356,5 @@
     <id>https://aimatome.gamelab.website/#9cc7cf6d1db6</id>
     <updated>2026-11-04T13:05:15.000Z</updated>
     <summary>DXマガジン</summary>
-  </entry>
-  <entry>
-    <title>‍‍‍生成AIエロ画像・エロ動画作成ツール10選｜初心者向けの無料</title>
-    <link href="https://news.google.com/rss/articles/CBMijAJBVV95cUxNRllCOHJNNl9zSzBPRWpabWptdWh5dUpWM0MzdWlpV1picDd1SlREQTdQNXJyOFRzSVBRajFfU1AzQnk3X1ZMSWVjUzhocUMzbmJ3NWkyMlZpd3U5c0NIZmM2c0huQ2N0bm9lSEpQN0Q3c0sxLVNjNlVaVmFCTk9rVWQzQVNrV1ZGWXRTa01YdFFRaDNmWk5ZVi0wamlSWGZVc1VUNDgtQXRtNTVQQnRvT0lMZWNRV2RNMzJuQlRGRUNRcXRpN0NUdTliVVZ2bkZCd3VzQjBBM0o1eENlb3lCRUhUU0VyQVBMa3VTVlVVaEp4OFJXWlJiN1I1SXVSemxlQ0V0WjRNOTlDeXBa?oc=5"/>
-    <id>https://aimatome.gamelab.website/#5dde894e061c</id>
-    <updated>2026-11-04T13:04:19.000Z</updated>
-    <summary>Law.com</summary>
-  </entry>
-  <entry>
-    <title>MIT研究チームがAIがAIの重みを編集する新手法を発表、再帰的自己改善加速も</title>
-    <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwRE12ODhzN19LTmVmRW5nVVdnUlNxWWEwRFVINXNRWF9uTXJKaUFEOGRrZTNxNE5aZHRJcUFFekFzZmFqQ24xajFpZnJRamtQZ0hv?oc=5"/>
-    <id>https://aimatome.gamelab.website/#47599b5e8809</id>
-    <updated>2026-11-04T13:00:00.000Z</updated>
-    <summary>ビジネス+IT</summary>
   </entry>
 </feed>
