@@ -1,10 +1,261 @@
 [
  {
+  "id": "b9083db3c7de",
+  "title": "Claude API の Message threads で、2 ターン目からの送信量が約 1/300 になった【8ターン×2回】",
+  "url": "https://qiita.com/khronov/items/cf147246d92f2a781320",
+  "source": "Qiita",
+  "summary": "2026-11-02 に beta 公開された Message threads は、会話を API 側に一時的に置いておき、2 ターン目からは新しいメッセージだけを送ればよくなる機能 約 3.7 万トークンの資料を system に入れた 8 ターンの会話を、スレッドあり...",
+  "publishedAt": "2026-11-05T02:28:01.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f105a2abea9d",
+  "title": "レシート・請求書のOCRは、Geminiに画像を直接渡してresponseSchemaで項目を固定するのがいちばん使えた",
+  "url": "https://qiita.com/ip_technology/items/094c90405387a91a74c0",
+  "source": "Qiita",
+  "summary": "結論 レシートや請求書の項目抽出は、Cloud Vision APIで文字を拾ってから渡すより、画像をそのままGeminiに渡し、読み取る項目を responseSchema で固定する方法がいちばん使えました。Cloudflare Workers上に撮影から確認・保存ま...",
+  "publishedAt": "2026-11-05T02:21:52.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e36b79b3af5b",
+  "title": "ChatGPTの新機能「ミニアニメ生成」の作例がなんか変",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50cmpkQl9pTkotdTk5RGZPWDgxZ2c4elNCeVlYYjZPRHlQT2N0T2Z5blBaZ0VfRUFlbEJpemE5WFlnSUNiTklpM05jWUtUcHk0dGoyQ2lzQ2xOU3hvVXNDT3VNeXc?oc=5",
+  "source": "Gizmodo",
+  "summary": "",
+  "publishedAt": "2026-11-05T02:20:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b91dceb18a47",
+  "title": "動画をメールで送ろうとして、また跳ね返された朝",
+  "url": "https://qiita.com/wkj991216/items/3be16d4bf5b89ae4dc01",
+  "source": "Qiita",
+  "summary": "海外のチームと仕事をしていると、動画ファイルを誰かに渡す機会が思った以上に多い。画面収録したものを共有したり、撮ったクリップを確認してもらったり。そんな日常の中で、僕は長いあいだ、たった一つの壁に何度もぶつかっていた。それが「ファイルが大きすぎる」という、地味だけど毎回腹の...",
+  "publishedAt": "2026-11-05T02:17:08.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d47d05f88571",
+  "title": "鳥取大学公式Webサイト刷新でAI検索・RAG型生成AI「Cogmo Enterprise 生成AI」を導入｜検索を起点とする新たなWebサイト設計で、必要な情報を直感的に得られるように",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LMkRGQmpfZ3NVTFdWdmZvY3hDQUlVMk5TZnZmeklPaG0xR01XS2k5clhyeDVaTWFfQmZIT1k1RGFtR2tSX2xDcFFNaHpfN0xDUUE?oc=5",
+  "source": "調布経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-05T02:17:08.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "db88e937ad42",
+  "title": "フジテレビ ドラマ制作にAI活用 制作と技術が連携するラボ「AI Sandbox」設置",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4VzBEbVF6OWJmaHc5Y3NMQk9sWVdCamVEdnA1RHR4QkYtTjlRMUJQMGFtNURXdkdCdmVIcDhGV3VSY2M3R0VzSENQUkludFh1cHBoNHBMcnJFZw?oc=5",
+  "source": "電波タイムズ",
+  "summary": "",
+  "publishedAt": "2026-11-05T02:13:57.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e7d2fb6a512d",
+  "title": "PFN、翻訳特化の大規模言語モデル「PLaMo 3 Translate」をオープンウェイトで公開",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCWWRzc3VoN3JsZGN5WUFVa08yQ2hfc3duSEdMNkpMSU9ueXFHeEc3RDZ2NTZnU2pvc21GMnUxNlFtZmhWcUgwTzhPY1YwRVFCNFhBNktBNXJ0V0Z5WW5DZWxSMA?oc=5",
+  "source": "株式会社インプレス",
+  "summary": "",
+  "publishedAt": "2026-11-05T02:11:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d4bdd10c58b4",
+  "title": "エーアイ、ネット不要の現場向け音声対話AIを提供開始",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IbDJlX2pocm5ZUjhfWWV3ampSV3NmR0hMckwtUjdjWDFkU3EtdmhNQVJpa3A0VjFabHdHVlZ5TTJveS0zZlB6X1cxUlhEZGQ2VENv?oc=5",
+  "source": "ニュースメディアVOIX",
+  "summary": "",
+  "publishedAt": "2026-11-05T02:10:37.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "840020ddc5e9",
+  "title": "YouTube、著作権の申し立てを受けたBGMを「AI生成曲」に差し替え 提供国を拡大",
+  "url": "https://japan.cnet.com/article/35254401/",
+  "source": "CNET Japan",
+  "summary": "YouTubeは11月3日、動画のBGMが著作権の申し立てを受けた際に、AIで生成した曲へ差し替えられる機能の提供国を拡大したと発表した。米国で先行提供していた機能が、欧州経済領域（EEA）を除く多くの国で利用可能になったという。",
+  "publishedAt": "2026-11-05T02:10:00.000Z",
+  "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1358226-file.jpg",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ce0d2c62f025",
+  "title": "アカマイ、AIエージェント時代の「トークンコスト問題」とガバナンスの課題を解説",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtRnhVQmt5OEg2Z2hXNk0zUEE3dUlfVEdCdDh4Szc0VDBCVEFWaENLLU4teEhhY0RXSk9RaDVkVEhxd3BoQTc3SWxyWVp0bHpEMGo1bTdCeGxiaVB2Z0JMMWVpa0ptQjA?oc=5",
+  "source": "クラウド Watch",
+  "summary": "",
+  "publishedAt": "2026-11-05T02:08:23.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4a53ff086306",
+  "title": "OpenAI、アニメーションGIFも作れる「Images 2.6」公開",
+  "url": "https://www.watch.impress.co.jp/docs/news/2153811.html",
+  "source": "Impress Watch",
+  "summary": "OpenAIは4日(米国時間)、ChatGPT、Codex、APIにおいて画像生成AIの「Images 2.6」を導入した。これにより、ChatGPTやCodexからアニメーションGIFを作成し、画像に動きを加えられるようになる。ChatGPTやCodexの全てのサブスクリプションプランで利用可能。Webだけでなく、…",
+  "publishedAt": "2026-11-05T02:06:18.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7b4f053bbd78",
+  "title": "OpenAI、アニメーションGIFも作れる「Images 2.6」公開（Impress Watch）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tX29FRTR4X1NRRS1pLWlpb3Z4NDd1UmJEaWJMRGtvY0tfSWdNYVh6MjdrODBpRzctSGlmNmRVYUxkRnVPWkVzX0ZIcVBFNS0yZjRhUzBHTmVJTGtLblFnQk5kSXl5RW9vRzhfOWJkdkpRNWp4VlVfLUFLUjkzYkk?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-05T02:06:18.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9e242d996f17",
+  "title": "近畿大学、AI英語論文執筆支援ツール「Paperpal」を導入",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LdVdHbmZMWXNDMEtUQ2phVHNVbjJWWEZfdWx0UW9oMGZkRXRKMGkxQzRCd2NIbFN1NmVmUHhHRS1RT0I1ajhWZEI0eTNqcmRjZkFr?oc=5",
+  "source": "ICT教育ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-05T02:05:58.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "be5d2943c53b",
+  "title": "Claude Code hooks — 自動化すべき3つとやめるべき3つ、PreToolUseガード完全設定",
+  "url": "https://qiita.com/yukihayama/items/0ea3c6fc90504cd419da",
+  "source": "Qiita",
+  "summary": "Claude Codeに「古いビルドキャッシュだけ消しておいて」と頼んだ深夜、auto-acceptのまま危険な削除コマンドが走りかけていました。承認を全部手動へ戻すと今度は翌朝まで承認待ちで止まる。permissionsのallow/denyだけでは、「このパターンだけ機...",
+  "publishedAt": "2026-11-05T02:05:36.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8603929fc3da",
+  "title": "BtoB通販サービス「ASKUL」、ChatGPTのプラグイン機能に対応、連携を開始",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zUDR5ZFZDZXN1eWc4dUZ2MnFSYnVCakFGcGJOYWFYYjVNTC1PNHhtbFVhOXFNaHVJUzVyX3VOTmpiczhSQlBldmphcFNhMHZnX0stQUpIZFN5eWtKQnphWFN3RXhLTEZkLXc?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-11-05T02:00:02.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "32bfb489710e",
+  "title": "スレッドワーク、ChatGPT・ClaudeからChatworkの会話を検索・要約できる「AI連携（MCP）」を提供開始",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MR29hXzk5Z2o4ZHFvVTk0MGtJdS1TVFk3NEZPLXZtZlY3NF8xb3d1aU5JcHJ1cWtVcWs3ekhCbVlURW9Gc2ZTRWQ1OU41bXk4QmROMExCQmpRNGdlcW0yeEVGTmtxYXZ2TEE?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-11-05T02:00:02.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "e2ed016f9d3a",
+  "title": "200mmファン2基搭載で18,980円 COUGARのPCケース「MX600 MAX RGB」発売へ",
+  "url": "https://ascii.jp/elem/000/004/448/4448580/?rss",
+  "source": "ASCII.jp",
+  "summary": "COUGARのミドルタワーPCケース「MX600 MAX RGB」が11月6日に発売。200mm ARGBファン標準搭載で高い冷却性を実現し、最大400mmのGPUや360mmラジエーターにも対応する拡張性が特徴だ。",
+  "publishedAt": "2026-11-05T02:00:00.000Z",
+  "image": "https://ascii.jp/img/2026/11/05/4547959/s/2b76be06045fa6de.jpg",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "408a0d6e6382",
+  "title": "「AIを使う会社」から「AIとはたらく会社」へ。パーソルが推し進める、AIファーストな組織変革",
+  "url": "https://www.businessinsider.jp/article/2611-persol-ai-first-organization/",
+  "source": "Business Insider Japan",
+  "summary": "個人の作業効率化を超え、全社横断のAI活用を進めるには？ AI前提の事業モデル、はたらき方へと転換するには？ パーソルグループが推進する「AIファーストな組織変革」の舞台裏から、そのヒントを探ります。",
+  "publishedAt": "2026-11-05T02:00:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "947b4d18bd89",
+  "title": "OpenAI、「Images 2.6」発表 生成速度50％向上、GIFアニメの生成も可能に",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9USS1nWGZHU0N1Ulh0ZDgxcm1wb1paVndnNm02SkZncTlLcFF4YUxLT1p4dHlBZTJETE9Mdy1rQjdGR0ZVZGJKMFdjN0Q0cVFvLVVMNnAwQ2N5a05PTzRfSFpmUks1OE5yMVE?oc=5",
+  "source": "ITmedia",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:59:38.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "2376183e4394",
   "title": "PFN、スマホで動く翻訳LLM「PLaMo 3 Translate」公開",
-  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lYWlSdEJ5S05zSjFoaHFtdm5HQ2owcUVuSWxUeHJlSHNLZ05fWHZqX1BjZE45RDZtampGaU1aaFZMS0pMNUNjMEtNdEVhYVR5MTB1T09WLThuanlKVGpQdWJubw?oc=5",
+  "url": "https://pc.watch.impress.co.jp/docs/news/2153784.html",
   "source": "PC Watch",
-  "summary": "",
+  "summary": "ネットにつながっていないスマートフォンの中だけで、53言語の翻訳ができるLLMが登場した。Preferred Networks(PFN)は11月5日、翻訳特化型の大規模言語モデル(LLM)「PLaMo 3 Translate」を、オープンウェイト(モデルの重み)としてHugging Faceで公開した。ライセンスは「…",
   "publishedAt": "2026-11-05T01:56:46.000Z",
   "image": "",
   "categories": [
@@ -26,15 +277,67 @@
   "isPR": false
  },
  {
+  "id": "063588b521fb",
+  "title": "日経平均、一時800円超安 AI・半導体関連に売り膨らむ",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EZnYtM2R0Z2YzUUg5aDYtQUVacGdaV3loQlhRNEtGc1BGSlZNUFI0bmU2VG81Umxjc3FtaVBtdXdaMlQzTmxSZkVWekt1X01FeHBKSGVMV0pzNVVLc1c2bzgyclRlUzU0d1N5cg?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:47:50.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1af9f4ee4985",
+  "title": "生成AIで情報収集する人の約7割が、AIにおすすめされた商品を購入・利用｜オンライン購買における情報収集行動調査",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rTHZhRTQ1aGpmVENwcGF5SWh4UWJ1SnBaVFVUb216NkYxSFNBTU1GQWpGcGlpa2ZqQms3VG5xTTBTQVpIU1BPSGJHOGNsYW9WWnRhNFhHbDJaSGVmR0YycFh2WUxaY3Rya21N?oc=5",
+  "source": "時事ドットコム",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:46:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "2e597a7e9053",
   "title": "「あなたの農園のAI活用術、教えてください！」全国のAI実践農家を発掘するプロジェクト始動",
-  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHVFVtM0VudHRnaUU1b21Rc0w5aEVnQlU0NThhZTdqSHpZZEFUVkk3NURieVBhU2FNd1R6Yk8xZ1BpQWlYdTI2Y2pHNnpPM0F5TEJ4R1hWeDA4MkxjUkE?oc=5",
-  "source": "沖縄タイムス社",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBKaDRLMjhSNE5qcWxWVlN4SGNwUUxJRXpQNjdlZWJGRGdSVkd3N2pSWnNvdjZvMzFZOG9LSTljSGtVRFRNSEtmNHRtYkdmenhySUFIUGw4Q0hyUnhiV29UN2R0QzJpUQ?oc=5",
+  "source": "ニコニコニュース",
   "summary": "",
-  "publishedAt": "2026-11-05T01:43:05.000Z",
+  "publishedAt": "2026-11-05T01:45:12.000Z",
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3d3e9bed8da5",
+  "title": "ミツウロコグループHD、広告審査にAI審査サービス「DocumentOn」を導入",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2QWVVR2JQR2JzenlnVjFDYzk3THBqMzI5eGsxbFp4THR1ZnRFcEp6b2o3VlQ1NW95UlFSTlB1b2pFbWF0d0ctM2VuX0hoS3ZO?oc=5",
+  "source": "Biz/Zine",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:45:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6ff76f8e1c47",
+  "title": "Cat Wu、OpenAIのコア製品のプロダクトマネジメントを統括へ",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR2VGcGUzcFNOVm5aYUdVV214cW5FUzVyUGlNM1A2YkJDTFljVUZoOGQ2NG92Q2MtZ1FWVUl3andyTDRDcGQxdjZDb2U5dm92ZkJxdXBMbDlNbUV1Vk1JbV9jMkRXQ3QtdzJ5cFFXbm9LUGswY045ck9BUkNXazlzcmg2OWh5VXdVWFkwZQ?oc=5",
+  "source": "Unite.AI",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:43:03.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -159,6 +462,19 @@
   "isPR": false
  },
  {
+  "id": "1536d1fce204",
+  "title": "プラント平均稼働率90％以上を目指すAI活用／門真工場を止めずに拡張せよ！",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Zd0VfUE9EeW5hNE1sSV9nTWFOUG9wWk9vYmFvc1N0aEdrWlpTcnQxOGRyckYxQjNMVzJsTktnOW0zVFVjYUJrRkZGU244OXY5VnFPX0VWVnU5VE1YcC1IMURNZHhFT2RtNWFKQl94Zw?oc=5",
+  "source": "MONOist",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:30:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "715adbb924c9",
   "title": "グリッド、電力業務支援システムに生成ＡＩ機能を追加、計算エラーの原因を日本語で説明 - kabu-ir.com",
   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTTGtpU3ktUl92UVlnc2h3UWRqYkdQM0VDS045bFV2WS1XS0pvUmUxWGZaQTN1bjNwZHZCUzYtcURpTFdXQmEzZF9pbHNnbkdhNEpLYw?oc=5",
@@ -168,6 +484,19 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "cdb2944cea5d",
+  "title": "AI起債による米国債の需給圧迫「証拠なし」、財務省諮問委が結論",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BZmh4cno4NC1GX0l5QmdiM19ieHN2YjcyVFpDUXN1ZWtsNTJJSGs5N0RCS3NwVFYtNjFEVk9yOFMtX3Mxb3E0WFMybE5YdGVqWTYwWUxRbldKclNzLTVBM09ZM1lOUnowcl96bUVTRVc1ZXpB?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:26:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -194,6 +523,45 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e2f6733a99d2",
+  "title": "ＡＩ導入している四国企業は６割余 去年調査から大幅増",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43b2N4ZnA0bDFPcU1SS0dUV2tfbHhCQjNCbzRCRFE3WGJQZHdka29XRUpqdTFUdHpHVkN5LVl4WEk1VFI1REt5Yy1uOS1mOHh5dlpxWlZMNmxRbHdmOFFV?oc=5",
+  "source": "NHKニュース",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:25:29.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a1283b0180e2",
+  "title": "Claude Code × SessionStart/SessionEnd Hooks | セッション間の文脈を自作メモリで引き継ぐまで",
+  "url": "https://zenn.dev/yunisuta/articles/claude-code-sessionstart-sessionend-2v5are",
+  "source": "Zenn",
+  "summary": "昨日の決定を、今日のセッションがまた聞いてくる Claude Code は新しいセッションを開くたびに前日の経緯を忘れています。「なぜ A 案を捨てたか」「この repo ではテストをこう回す」を、毎朝同じ文面で説明し直している人は多いはずです。 最近はセッション間の文脈保持をうたう OSS(GitHub Trend…",
+  "publishedAt": "2026-11-05T01:24:59.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c188a0c00abe",
+  "title": "プレスリリース：［TechSuite株式会社］［業界特化調査 第33弾］AI検索パートナーズ、BPOサービス選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜観測された会社は108社（PR TIMES）",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xYkF0MFlHakVvdlV2M3U4SWhrOUlqQmw4dHFKSWpGbHZfWHNjUlhONm4ySFRubzEzS3RKaXRKbzNibWdwUjBrX29nX25ybEhuMzZKOHpPLU0yTDFFS1ZZcDF2bGI2S1Rx?oc=5",
+  "source": "毎日新聞",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:23:23.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -233,19 +601,6 @@
   "image": "",
   "categories": [
    "infra"
-  ],
-  "isPR": false
- },
- {
-  "id": "9ad6791969c7",
-  "title": "日経平均マイナス転換、韓国株急反落 AI規制強化懸念",
-  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xNzJ4TzRQRHI4elRIUkhEX2JFWDlQMVdqdjBMUVFvRXcxUnQwVHQyejg0MVlrOFVKdmdrQjktOUp1RlpMU2ZSd3BQSTJYVS0tUHc?oc=5",
-  "source": "株探",
-  "summary": "",
-  "publishedAt": "2026-11-05T01:17:00.000Z",
-  "image": "",
-  "categories": [
-   "policy"
   ],
   "isPR": false
  },
@@ -367,6 +722,33 @@
   "isPR": true
  },
  {
+  "id": "3d0ff2f136a9",
+  "title": "Claude Code のクラウドセッション入門 ─ 最初にやる設定と使い分け",
+  "url": "https://zenn.dev/takna/articles/claude-code-cloud-sessions-intro",
+  "source": "Zenn",
+  "summary": "Claude Code のクラウドセッションは、Anthropic の VM で Claude Code を動かし、結果をブランチで受け取る仕組みです。ローカルの Claude Code に慣れている人が、最初に知っておくと迷わない設定と使い方をまとめました。 手元の ~/.claude はクラウドに届きません。 自…",
+  "publishedAt": "2026-11-05T01:08:35.000Z",
+  "image": "",
+  "categories": [
+   "infra",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9ad6791969c7",
+  "title": "日経平均マイナス転換、韓国株急反落 AI規制強化懸念",
+  "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvdUw1Mk9fYkUyaGREeXFpT1BHWWgxR2tMLTZsYWdDTlVXSGtxaWdfbGhTT3MtZzV0NnpoVTZoX2lETWRhSTJGdg?oc=5",
+  "source": "みんかぶ FX/為替",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:08:29.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "fd6ee5bac25a",
   "title": "【生成AIで人手不足に対応】NICO、長岡で生産性向上セミナー開催 11月20日",
   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9vQTZnZE1JQjNQSWZjT3Z4QTdaazNJSkprQlo3SkttYkVpeFlJVEJtQ3M2YWNKSXctZDlXbkF2LVotNVJz?oc=5",
@@ -393,6 +775,19 @@
   "isPR": false
  },
  {
+  "id": "39afa4f0b025",
+  "title": "Claude Codeを装う悪意ある拡張機能がCursorで配布、SSHバックドア設置を試みる",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uV0Fnc0dWaE13SXRBSXE5ckdyUWNsNmVzUzFKNlQ0RUVmaTBjUU1acnhvdHlSRF9ReWlsMHJ3OHQ0NUZWa1ZxQzJibDFWNC1aZDhDV1dwU1EwTXc1bE9wV01ubFVOR3BF?oc=5",
+  "source": "マイナビニュース",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:05:42.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3c92582142f1",
   "title": "SMFL、ユーザーごとの業務アプリケーションを生成AIで高速に開発してSaaS型で提供",
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KSUl1WG1MRmlWWDZaRUhPQURWSS1qTFFCUnJLbHlxaW9IV1dfVldfb1BlVDVlUUplVmVDSk1Dc0ZLdm5hVl9TU2xfLU1JQjZXanI0?oc=5",
@@ -402,19 +797,6 @@
   "image": "",
   "categories": [
    "product"
-  ],
-  "isPR": false
- },
- {
-  "id": "39afa4f0b025",
-  "title": "Claude Codeを装う悪意ある拡張機能がCursorで配布、SSHバックドア設置を試みる",
-  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RVWxsR08xS0ItWkc4TWVaU2wtRzlnTmg2RlplY1VBdjZ0Wm9FTWhiSHE0VHZzTHRvc0VvRUYyMXQ2UHlaMmtnRTJ5eTZnaXVDNzlYcVFrUktsZEpsLXhqZERjb01EeGkxenNXbkZ0VE9WMGZkd0Fz0gF8QVVfeXFMTVY0bUJ5Mm1IUnF4eS0ySUEwU2NXUm5mZ0ZZeVRvNmVUNlQyTmU0QWRhaGJCTTNpYXB6Mjdycl9fYjJfcDAzVktWQmIwWkIxRXlSclpjY2VCSHZMTjdscWdoMnJudUJ3Z09Ra2VwNHBVUGU0Njc2dkNDXzYtWg?oc=5",
-  "source": "ｄメニューニュース",
-  "summary": "",
-  "publishedAt": "2026-11-05T01:05:00.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
@@ -550,6 +932,19 @@
   "isPR": false
  },
  {
+  "id": "6ace8bb93865",
+  "title": "AIにまとめて質問されるのが疲れたので、1問ずつ聞いてもらうことにした",
+  "url": "https://zenn.dev/tokium_dev/articles/single-task-inside-one-session",
+  "source": "Zenn",
+  "summary": "複雑な作業をAIに頼むと、質問をまとめて投げ返されることがよくあります。たとえば、退会機能を作ってもらおうとしたとき。 確認したい点が5つあります。 1. 退会したユーザーの投稿は、残しますか？消しますか？ 2. 退会後、同じメールアドレスで再登録できるようにしますか？ 3. 有料プランの途中で退会したら、残りの期間…",
+  "publishedAt": "2026-11-05T01:00:05.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3eb23a8879c5",
   "title": "Google Workspace環境での業務をAIでラクにする！『Gemini踏み込み活用術（できるビジネス）』を11月11日に発売",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1MVRIRnJDNG05UW5Hb29aaUdtREFyRHBxODhxQnRDajBmQlQwUS15a0ltV0hQYnZrOFpBWjQtVGoxalJSV2YwcGE3RWd3WHVQZW9BMi1pT3lfNTBEamlKemlDd21UbDJvT2c?oc=5",
@@ -564,15 +959,15 @@
  },
  {
   "id": "32061e9b7e76",
-  "title": "東大発AIスタートアップSimulacra、シードVC「ANRI」より資金調達を実施し、人の考え方や行動をAIで再現したデジタルツインの社会実装を加速",
+  "title": "東大発AIスタートアップSimulacra、シードVC「ANRI」より資金調達を実施し、人の考え方や行動をAIで再現したデジタルツインの社会実装を加速 | 株式会社Simulacraのプレスリリース",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oUDM5UjFOdjlZRnJOTmNmcVFxLXExcmYzYkRRWUl6MGNlVDE2NDdhRDA5UG5KeFZSUkw0S2E2enhEZGNUNUVab0FSaUdBUlJSWnM0N0s4N1JfalFnMkFQaW5Va1pVSE1Janc?oc=5",
   "source": "PR TIMES",
   "summary": "",
   "publishedAt": "2026-11-05T01:00:03.000Z",
   "image": "",
   "categories": [
-   "business",
-   "dev"
+   "product",
+   "business"
   ],
   "isPR": true
  },
@@ -627,6 +1022,20 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "71a81faf6953",
+  "title": "クラウドエース、共同執筆した『Gemini踏み込み活用術（できるビジネス）』がインプレスより発売",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tNG9lNTRrczN5NUp6X28zS3hsLVRiZ1ZzUmh3ZExReWRmZW1ZQVhYSGhBbmswYVJPZ1RCeTBKXzQwdk5QOGZqaldQTmFwWnhxZXFzUDlUU2J0dzV4b01ReHhaSlBlZEtneUE?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-11-05T01:00:03.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "infra"
   ],
   "isPR": true
  },
@@ -742,6 +1151,19 @@
   "source": "BigGo ファイナンス",
   "summary": "",
   "publishedAt": "2026-11-05T00:55:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6569cfad110a",
+  "title": "ＡＩ関連大量起債、米国債需要圧迫の証拠なし＝民間諮問機関",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtNTg1NTN2ejM0ZUI5bnZuRmM1UjhWYXRBbC1LTjltQzdVVnJ5NWVGWndHekZ1RGNlTjFmamlvX3JLWGhSVHMxZThvYlRIV0RSbFZ1anBvY0xwNFdIa04tUWg5TzRtWnB0WFl0WUVmT3BHeGJYSzItVXk2V0xzUQ?oc=5",
+  "source": "Reuters",
+  "summary": "",
+  "publishedAt": "2026-11-05T00:54:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -922,31 +1344,18 @@
   "isPR": false
  },
  {
-  "id": "1af9f4ee4985",
-  "title": "生成AIで情報収集する人の約7割が、AIにおすすめされた商品を購入・利用｜オンライン購買における情報収集行動調査",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15R1lQZ0VoeGE0VXZkNjVSa19vQllBTGF6T2k3Q1QxOGJCS1JtNzhQZmRXWmJNRHpKZDBBUWJCbUtkZno3OEl5aXBMbElzOG5PdzVUMVBsdmNTaUJXc01NT05FWVRrUUlLa1E?oc=5",
-  "source": "PR TIMES",
-  "summary": "",
-  "publishedAt": "2026-11-05T00:30:01.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": true
- },
- {
   "id": "7fa6e703212a",
   "title": "会話を読んで、仕事の抜け漏れを防ぐ AI エージェント「NEO」、「デジタル化・AI導入補助金2026」の ITツールに登録。導入支援と保守サポート（最大 2 年分）も補助の対象に",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iQUNXaHpkRnNZNXctSk9KdjFVdnlUY2FqTE9Md0NCUG1vXy0tX1NiWHpCYXdndnVTYlo3Nko5Z1FTanVoTnVaQnA5Yk12WmRLVzVKcEFQdkNGTUtHX1pkNHg3eEZCYVNDVFE?oc=5",
-  "source": "PR TIMES",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KcUpJZS03QTdTNVFFWFFlMWYtNGNkX05DS3FsdXEwT3FIc1RHTDRHZC1rMzRTdjZoMWdQbHQzRXpRUkpVcHRqNk5QZ0Zvd2Nvc3pvSE03dHE0X2RWUW8zbFBLbE90cWJwSzNJalJUU0RBLWhSWHRFbXh3?oc=5",
+  "source": "イザ！",
   "summary": "",
-  "publishedAt": "2026-11-05T00:30:01.000Z",
+  "publishedAt": "2026-11-05T00:30:00.000Z",
   "image": "",
   "categories": [
    "product",
    "case"
   ],
-  "isPR": true
+  "isPR": false
  },
  {
   "id": "b611f6a354e5",
@@ -1198,6 +1607,20 @@
    "other"
   ],
   "isPR": false
+ },
+ {
+  "id": "dde6da6c358e",
+  "title": "『【再放送】【事例で解説】生成AIで営業データの組織活用はどう変わるのか？』というテーマのウェビナーを開催",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvUVMwc2RFMDRteTAzOG0tMHltRTU3OG5udnUxTDR3M1VjOE1CTXU2V1V5TTBkR3k4bzlJdWFOaXRfaDl3eDJmVUg5VGNyUGthU2ZVUks5Y1lKXzFBWDgxUGVTakNTSzViY3c?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-11-05T00:00:01.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "dev"
+  ],
+  "isPR": true
  },
  {
   "id": "383b6443e884",
@@ -1509,8 +1932,8 @@
  {
   "id": "f491d315ade9",
   "title": "社長が自分の仕事でAIを使う「社長のためのAI導入」の受付を開始。株式会社ノックデザインが事前に進め方を用意し、1回4時間で伺います",
-  "url": "https://ascii.jp/elem/000/004/448/4448627/?rss",
-  "source": "ASCII.jp",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDbFBaVG1aOWJjS0VoR2JnRXdwaVM4T1VydERBVlp1cEg4TFBidElRMXZ0cTdFYXNiQ0MxM1FDTUszOU5XSU5ic2FlRHR5OGxNdWVSTVhJOVp0QnRzYXg4UkdpTkVwR09YdVBFTlhZTnVPdmtLbU5qSkI1VQ?oc=5",
+  "source": "産経ニュース",
   "summary": "",
   "publishedAt": "2026-11-04T23:40:00.000Z",
   "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
@@ -1621,6 +2044,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "029b490c9f21",
+  "title": "AI彼女 安全 性格や見た目をカスタマイズできるAIアニメ少女アプリとプライバシー設定",
+  "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPdlphQ3Rzci1JVFNmeGFPMHhhM1VEYm1RM3RrVXVYaTBpbEtqQ0lKbVh2QVpIY2hyaU9UeUYtTEppNmgtMEhlbGZNNnFBeElyMEw0dHl3VXlBazZpaWhocFpOcmxZRmVNanFYOGgtckdHYkFrUGRtYUh1eVJ5ay0tdFplVXcxMUhIVGRCaGMyM1pLTnNFUE9PcWNrUG1GRnhzN01pSDZPM04zZnB5MUhyNlRpWGZJdnlhT2hQbWxUOHlCaDZZZ2s2S3pXdGhRRk5LeV82dUV4UjQ2YkRua01jT3FINGRfWWNmMUlFY21rdUs2Y2NVRmFUeWpzQWR4YnhqRkhTaWxKYldmbkdMaDRfVmRnVW5KZkFYcUtoVFVubzlxNktLZkJYVXBSS1lEVmFGcU5nLUsycUp6cU9xSVhmSWQxVEVmNDc5QUFySjBmbG9yeGI4cU1uRk9qdnZOU0gtbG5sUGZLeTBUcm1FYWJKM25hdWxFcGl2SlN6TTZB?oc=5",
+  "source": "tagesanzeiger.ch",
+  "summary": "",
+  "publishedAt": "2026-11-04T23:29:14.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "policy"
   ],
   "isPR": false
  },
@@ -2285,6 +2722,20 @@
   "isPR": false
  },
  {
+  "id": "a8a5cbee4d66",
+  "title": "生成AIエロ画像・エロ動画作成ツール10選｜初心者向けの無料 アニメキャラをカスタマイズできるプライバシー制御付きのAIヘンタイを探す",
+  "url": "https://news.google.com/rss/articles/CBMihwVBVV95cUxOenR1Y1FscUpfLTJpSzlDQ3NFTDBYTDNLbmR3bnAtR2lRdDVyanEzZGF3MXFRSlpiYV85UERVZ3NuaHFUSnNvc1JXYVdaUEp1ekRhT0VsMVV3T285bER0R1lCU0NvR29EWEdzLU1jUmN6V01UUWFsdVBQbW1FQ0wtQlVVcEhSZkhaWkp2aWZIR2Z2b3lobmlVd2JLREdJZlBiM1BaalVjN2N0bzc5MjA3aDZYTmRJcWxCcENCaGhlb0MxUHZMUDFWeWpvLW9xUWVqVEtmWW1QWFpXb084bjZ5RFNMeFk4MWltak5lWk9ILXp5djJkQ1NUdEd1R0xGNkY5ZEJlUTFkS0lXNWdObEtKQmphTGZNR0xBaFVMZlgwYnhfX3pNZXk4RlpnOHZ5My04OXk5NERzazF3a3Q5eDdWQmJjS0Y2Ykg1Y2Y1RmY4eUpRdzFzR1dZN01fY0F1VGZSeDNtVW1icWlmbHJLXzMzaTlUNzNYSnloZlhWVXQ1M1ZOUHZhZkFtN1EwUm5DV3ExcG5GeFZHUGNjd2dkLXBiY3VoVmd5QlkxTEw1Q3dFNXQ3OHNacFlnOUtuYlVncExvR2ZsMlNaem9wSC10SlJLVjkwY2U3RnZDS0FoeXdIM180cWNzbXJlT3JLNGQtdi12XzhUdTdTc1JNa1M5TnluNkdEQVRncWRLMDNFVG90UUZYM0Z1ZTd4MnRSeVJDei1Nd2hVZFJCWHQxTUJrb1lPMGZlRWV2Wi1UeHBkMVdObVdrb01hSS1nQWNYTHQtWXh5UEQ5Nkc2U1M4OXM2b21DeC1oOEoyNkxZc2Q5Q1MtUU96Sl9xSk82RDhSQnVBLXIxWDZTakFUWQ?oc=5",
+  "source": "tagesanzeiger.ch",
+  "summary": "",
+  "publishedAt": "2026-11-04T22:42:02.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "1781795dd029",
   "title": "話し相手 AI アプリ おすすめ 機能・料金・プライバシー比較で選ぶおすすめの成人向けAI画像生成ジェネレーター",
   "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxORVFhSzlaRWFMdjJYRUZlemtRbTNSNzR0dHNQX3FGVm0waXpxcEtuS3FfcnUxaGxTOG5TampjbE5QMVo2Nnd0dE9TRVpQbElYalBTSGpmZm9DQjlrQjVuNl9IV0wxVkZ2VF9BM2JvR29aQ2FwcXhIOG1MT1Z4bEZNSjVKVVU1cTJ4WkZER0JJNkFIUHRkV0dFUmFCNkJZODcyX1RVTFh4OExUSnI3VEJkekZnNTB2QXo5MHpZSXNkaTdfM2JBc053dU5XSzIxMEI3QlBKVUJqLVJwWlFOZmtCZnpYQkU5NmRVLVVMWGhiR0xmbno3MW5JZnFkQ1VFZWVBYjV1TEF5M1dGUUZsT1dvbGFKMWMyVlNVYTdKVVJZRXNUM1VHSDV2clpCVVBXOWdDdUlpUVY2dE5MT19ROHRkd2dMSHQ3WGY2OFE3NFVwUDNsbTE4ZnlmREpKYzI0X2pscFE2Z3FUMDU4NnFrbmE4dWEwNGhlODZzVjJsbUpTQ01vTjZ3a2NUd2ljdHYwUkhsbjdfUjhTN1FvLUFXQ05PMDBkU2lkVVU3NjlIQWNBeEVWN3lnVGVaM3ptTFlZTktoRF9mZ3p2eE4xUUo3MkhITnYtM0M?oc=5",
@@ -2470,6 +2921,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c29f9b2fb666",
+  "title": "デザイン業の倒産が上半期最多、生成ＡＩだけでは語れない小規模企業の苦境 #エキスパートトピ（中村智彦） - エキスパート",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2pZOEJpd0JtZEl3akR4dHhhUzEwbE15YU5yWWxPa0kydFhVWE41bmRSOGNPVHhDblRQUDhpalY1SW1YWDdPWlBCal9wYUdTa2pjSGg1MHNzYWZId2xkeEllZnI4U19zVW5HVW1MU29EY2FrUmcyYmRSUW1EcDQ5OTdDc0VxdEcy?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-04T22:31:07.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -3173,19 +3637,6 @@
   "isPR": false
  },
  {
-  "id": "e2f6733a99d2",
-  "title": "ＡＩ導入している四国企業は６割余 去年調査から大幅増",
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43X21pdlJXbk1HQzYzWkRUYlV2Y2lQRHZtMGVlM1p4MG8tYUhWUHRiY2w5Q19pNzVvajNWZ1NLQVlocjJIMVQ1UEJGY1FIOHc3Q19sVHpJZjFzekhnNW9r?oc=5",
-  "source": "NHKニュース",
-  "summary": "",
-  "publishedAt": "2026-11-04T21:20:32.000Z",
-  "image": "",
-  "categories": [
-   "case"
-  ],
-  "isPR": false
- },
- {
   "id": "ad0d9edc28e0",
   "title": "日立デジタル新CEOが語る「AI時代の稼ぎ方」。FDEを3倍へ、売上10%増でも人員増は3%という発想",
   "url": "https://www.businessinsider.jp/article/2611-hitachi-digital-ai-business-strategy/",
@@ -3231,6 +3682,19 @@
   "source": "PC Watch",
   "summary": "",
   "publishedAt": "2026-11-04T21:07:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4bafa6a66d18",
+  "title": "「Llama」Metaが開発したオープンソースの大規模言語モデル",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtc0lRNEdEakdmS3c0bVpMaDRLVGdoakhqY3d0NDFncDk5c0d4UmgzWk1Xcm9JM29WWExkZjdfUUhXRGVBQU5jQVd1MXByS1dRTFpmcG5zZ2JCTmdERGpmTG9obDRXX1BXWXc?oc=5",
+  "source": "窓の杜",
+  "summary": "",
+  "publishedAt": "2026-11-04T21:05:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -3681,6 +4145,19 @@
   "title": "フジテレビ、27年から全ドラマの制作にAI 民放キー局で初の全面導入",
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KZ3VQQWJfa1Y1WldCWmhZX3Z0S3NYeTh5T2xTQTY5UVBQY1Bjdm9HNXlLOWN1RlR5V28zclRGSXptal9fX29OdS00cUlZSzUyRlRHaHpNdnlUX1R2ZldkS2phSGlCYjNMWDdDTQ?oc=5",
   "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-04T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8451ea018c4a",
+  "title": "アースブレイン、ICT施工導入支援 LINEでAIが伴走",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1peXc0amhyc0VfR2ZlQ0kwTTlJQkRLUnl5UFVNNmNzMC1PM01ReWVkTllnSVNRTnFiREc5SlhoMngtUy1ZdVNwUVNLLTBKMGFzT2RleWF3Ykk?oc=5",
+  "source": "日刊工業新聞",
   "summary": "",
   "publishedAt": "2026-11-04T20:00:00.000Z",
   "image": "",
