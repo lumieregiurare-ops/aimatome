@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-11-06T15:30:24.694Z",
+  "updatedAt": "2026-11-06T16:00:21.545Z",
   "site": {
     "title": "AI matomechatter",
     "tagline": "AI のニュースを、日本語の記事中心に毎日まとめています。",
     "url": "https://aimatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 513,
-  "todayCount": 2,
+  "total": 516,
+  "todayCount": 8,
   "categories": [
     {
       "id": "model",
       "label": "モデル・研究",
-      "count": 44
+      "count": 43
     },
     {
       "id": "product",
       "label": "製品・ツール",
-      "count": 113
+      "count": 114
     },
     {
       "id": "business",
       "label": "ビジネス・投資",
-      "count": 62
+      "count": 61
     },
     {
       "id": "policy",
       "label": "規制・法制度",
-      "count": 59
+      "count": 60
     },
     {
       "id": "case",
       "label": "導入事例",
-      "count": 100
+      "count": 99
     },
     {
       "id": "infra",
@@ -42,7 +42,7 @@
     {
       "id": "dev",
       "label": "開発・技術解説",
-      "count": 52
+      "count": 53
     },
     {
       "id": "other",
@@ -53,19 +53,19 @@
   "sources": [
     {
       "name": "Zenn",
-      "count": 36
+      "count": 38
+    },
+    {
+      "name": "日経クロステック",
+      "count": 32
+    },
+    {
+      "name": "BigGo ファイナンス",
+      "count": 31
     },
     {
       "name": "Yahoo!ニュース",
       "count": 31
-    },
-    {
-      "name": "日経クロステック",
-      "count": 31
-    },
-    {
-      "name": "BigGo ファイナンス",
-      "count": 30
     },
     {
       "name": "ITmedia AI+",
@@ -77,7 +77,7 @@
     },
     {
       "name": "Unite.AI",
-      "count": 11
+      "count": 12
     },
     {
       "name": "Impress Watch",
@@ -102,10 +102,6 @@
     {
       "name": "PC Watch",
       "count": 8
-    },
-    {
-      "name": "Reuters",
-      "count": 7
     },
     {
       "name": "ITmedia NEWS",
@@ -133,6 +129,10 @@
     },
     {
       "name": "はてなブックマーク",
+      "count": 6
+    },
+    {
+      "name": "Reuters",
       "count": 6
     },
     {
@@ -180,10 +180,6 @@
       "count": 4
     },
     {
-      "name": "Pasquale Pillitteri",
-      "count": 4
-    },
-    {
       "name": "ニュースメディアVOIX",
       "count": 4
     },
@@ -212,15 +208,19 @@
       "count": 4
     },
     {
+      "name": "テレ東BIZ",
+      "count": 3
+    },
+    {
       "name": "テクノエッジ TechnoEdge",
       "count": 3
     },
     {
-      "name": "Moomoo",
+      "name": "毎日新聞",
       "count": 3
     },
     {
-      "name": "毎日新聞",
+      "name": "Pasquale Pillitteri",
       "count": 3
     },
     {
@@ -248,10 +248,6 @@
       "count": 3
     },
     {
-      "name": "TBS NEWS DIG",
-      "count": 3
-    },
-    {
       "name": "JBpress",
       "count": 3
     },
@@ -276,7 +272,11 @@
       "count": 2
     },
     {
-      "name": "テレ東BIZ",
+      "name": "産経ニュース",
+      "count": 2
+    },
+    {
+      "name": "Moomoo",
       "count": 2
     },
     {
@@ -320,6 +320,10 @@
       "count": 2
     },
     {
+      "name": "TBS NEWS DIG",
+      "count": 2
+    },
+    {
       "name": "ITmedia",
       "count": 2
     },
@@ -344,6 +348,10 @@
       "count": 2
     },
     {
+      "name": "Excite エキサイト",
+      "count": 1
+    },
+    {
       "name": "野村證券",
       "count": 1
     },
@@ -357,6 +365,10 @@
     },
     {
       "name": "CGinterest",
+      "count": 1
+    },
+    {
+      "name": "https://kabu-ir.com/",
       "count": 1
     },
     {
@@ -389,18 +401,6 @@
     },
     {
       "name": "四季報オンライン",
-      "count": 1
-    },
-    {
-      "name": "労働新聞社",
-      "count": 1
-    },
-    {
-      "name": "産経ニュース",
-      "count": 1
-    },
-    {
-      "name": "スマートウォッチライフ",
       "count": 1
     },
     {
@@ -560,10 +560,6 @@
       "count": 1
     },
     {
-      "name": "ネットショップ担当者フォーラム",
-      "count": 1
-    },
-    {
       "name": "福井新聞社",
       "count": 1
     },
@@ -573,6 +569,10 @@
     },
     {
       "name": "デジタルクロス",
+      "count": 1
+    },
+    {
+      "name": "KuCoin",
       "count": 1
     },
     {
@@ -782,77 +782,6 @@
       ]
     },
     {
-      "id": "947b4d18bd89",
-      "title": "OpenAI、「Images 2.6」発表 生成速度50％向上、GIFアニメの生成も可能に",
-      "summary": "OpenAIは、画像生成AIの新版「ChatGPT Images 2.6」を発表した。画像生成速度の向上や編集精度の改善に加え、新たにGIFアニメーション作成機能や、保存した写真を別チャットで再利用できる機能を追加した。開発者向けには2種類のAPIモデルを提供し、電子透かし技術の導入など安全対策も強化している。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
-      "image": "",
-      "leadSource": "ITmedia AI+",
-      "publishedAt": "2026-11-06T10:39:26.000Z",
-      "sourceCount": 8,
-      "articleCount": 8,
-      "categories": [
-        "other",
-        "product"
-      ],
-      "keywords": [
-        "gif",
-        "生成",
-        "images"
-      ],
-      "articles": [
-        {
-          "title": "ChatGPTはGIFを作成・編集でき、ユーザーは後の生成のために参照画像を保存できます",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUHdvMFJUNzVMd0d4Y1BpWVgwQjNvZGVWVVpHRVlYN2pEd2lkWkJqODd0cEtOZ1pNS1p5VGZMZ0Z6dWZEYzloVDYzcm1LeHVwdGw2TVUwVFljajUteEJoYzZHMW1wanJvOTR4cTQ5LTBpWFhMUTE1eHJnM2VXMmllZ3RIOTc4YldYc0ptNThQeGdaVUF1NXRMNjItX2tSNGE3RXJPbw?oc=5",
-          "source": "Informat.ro",
-          "publishedAt": "2026-11-06T10:39:26.000Z",
-          "isPR": false
-        },
-        {
-          "title": "OpenAI、画像生成「Images 2.6」を公開、生成を50%高速化しGIFの作成にも対応",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Vc1VSYkxOSnhpMlVNbzZoaEZHYXFUSlp4OFMya1Nqc2NQb296OUVJemtLWTkwZTJUc1BuaktrVk1UUnlwdFV0SkpzeU9FRVJMVG9zZzY5ZjlSQUsyUkRmaHVyVFNSTHln?oc=5",
-          "source": "BRIDGE（ブリッジ）",
-          "publishedAt": "2026-11-06T01:31:06.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ChatGPTがGIFを作成、OpenAIがFlareとSunburstを備えたImages 2.6を発表",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQejJNZGV5QW5lSXYzdG1CdzJqMEFIelBsbjIxdHA3RGkzb3RpUHQ3eXVLWEtWWXg0RkU1N0J2aVpiZE9qNy1Ma1BIX2hwZnM1THVWb3ZaZWI5TGk2cDU3YmVtdlBiXzF2dU5XNEVKUjM0QksxMzRHV3NvZXQzNE0yRG92aUNzdGV0S2xEZGRyNkJxZw?oc=5",
-          "source": "Pasquale Pillitteri",
-          "publishedAt": "2026-11-05T17:34:09.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ChatGPTの画像生成が50%高速化。GIFアニメにも対応",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05RU14VzJFWFA0ak9CYVJPS2lQeEpTYlhFV3dJaHJGa0UyM3JiVVZoWHZfZjdpbm1EalhaQzRrZnZ3SzBWdms2LXZmSDFvbnEzUTJLbm1SS2xKcTZUam85MkdUaw?oc=5",
-          "source": "PC Watch",
-          "publishedAt": "2026-11-05T05:14:23.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「ChatGPT Images 2.6」が提供開始――生成速度50％向上、GIFアニメ作成にも対応（ケータイ Watch）",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GV0RpZFo4NlZqWVFsb29FVE1wV2FnWjl4eG5Pc0hRQUxucFVpazZPUmM5QlRUM1RVYXROR2o2ZnRSbXVhZnpmS1FFLUFvSzJyWXJpOTBWMVRsOFVJTEQ3WW5yOUJRaGJiVGZZMGZGRktCcjE3YWVNdDZNSDhXX1k?oc=5",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-05T04:41:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "OpenAI、「Images 2.6」を発表 ～GIFアニメーションに対応、生成速度は50％向上",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DZ1l2cVFrWHk3cWZqZTU1dDFrR0JhelB6clNxZ0wwRkZ6WWJqZl8zX2RheURHQkR1WDAwNHNJRHpfaTdCMzFtQnJRM2wtRXRMdmY2VHpHSkhNcmo2NW1LM2lLMXJ1dXll?oc=5",
-          "source": "窓の杜",
-          "publishedAt": "2026-11-05T04:03:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "ChatGPT Images 2.6がアニメーションGIFの作成に対応、APIではFlareとSunburstの新バージョンを提供",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CaWhnaEs2RmFaQmRDOW1qUlZQZXVxWURZRnBUUUR5UnkwVWNqb1RScVc0azFmaGN2OEp4bnprdE1kSEVXTXBnLWh4NHEtekdzb0hSbDJWZFNIMzlSYTA5WQ?oc=5",
-          "source": "gihyo.jp",
-          "publishedAt": "2026-11-05T03:12:57.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "4604c9bbc270",
       "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供",
       "summary": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で資金移動はできず、学習にも使われない。米国の有料プラン向けに順次提供される。",
@@ -860,8 +789,8 @@
       "image": "",
       "leadSource": "ITmedia AI+",
       "publishedAt": "2026-11-06T08:40:40.000Z",
-      "sourceCount": 8,
-      "articleCount": 8,
+      "sourceCount": 9,
+      "articleCount": 9,
       "categories": [
         "other",
         "product"
@@ -898,6 +827,13 @@
           "url": "https://japan.cnet.com/article/35254460/",
           "source": "CNET Japan",
           "publishedAt": "2026-11-05T22:48:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "Anthropic、Claude用の個人財務ツールをリリースし、ユーザーの支出を分析",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa091SGxCMXhrNjItaDMtek5IODl0UExOMHpONENhaVNoYndaeXppb1lZRklkcnYyWUdISEJOSUplamdJOTBrLUVNV3lNSWFNNmJSZ2FfTzJtTzhhdjlzRFE5U2o4UzN2QXJHaVNSamJUWGljU05adHVEMEt2b0NxdDBjRXYwaFF0YWtBMm1TZ3dCNGtaUE1SWmw2Mk15V0ZnRmpoRmhjR3V6RlI1LXNRcUVvMA?oc=5",
+          "source": "KuCoin",
+          "publishedAt": "2026-11-05T18:45:33.000Z",
           "isPR": false
         },
         {
@@ -995,6 +931,198 @@
       ]
     },
     {
+      "id": "947b4d18bd89",
+      "title": "OpenAI、「Images 2.6」発表 生成速度50％向上、GIFアニメの生成も可能に",
+      "summary": "OpenAIは、画像生成AIの新版「ChatGPT Images 2.6」を発表した。画像生成速度の向上や編集精度の改善に加え、新たにGIFアニメーション作成機能や、保存した写真を別チャットで再利用できる機能を追加した。開発者向けには2種類のAPIモデルを提供し、電子透かし技術の導入など安全対策も強化している。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/05/2000002894/",
+      "image": "",
+      "leadSource": "ITmedia AI+",
+      "publishedAt": "2026-11-06T10:39:26.000Z",
+      "sourceCount": 7,
+      "articleCount": 7,
+      "categories": [
+        "other",
+        "product"
+      ],
+      "keywords": [
+        "gif",
+        "生成",
+        "images"
+      ],
+      "articles": [
+        {
+          "title": "ChatGPTはGIFを作成・編集でき、ユーザーは後の生成のために参照画像を保存できます",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUHdvMFJUNzVMd0d4Y1BpWVgwQjNvZGVWVVpHRVlYN2pEd2lkWkJqODd0cEtOZ1pNS1p5VGZMZ0Z6dWZEYzloVDYzcm1LeHVwdGw2TVUwVFljajUteEJoYzZHMW1wanJvOTR4cTQ5LTBpWFhMUTE1eHJnM2VXMmllZ3RIOTc4YldYc0ptNThQeGdaVUF1NXRMNjItX2tSNGE3RXJPbw?oc=5",
+          "source": "Informat.ro",
+          "publishedAt": "2026-11-06T10:39:26.000Z",
+          "isPR": false
+        },
+        {
+          "title": "OpenAI、画像生成「Images 2.6」を公開、生成を50%高速化しGIFの作成にも対応",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Vc1VSYkxOSnhpMlVNbzZoaEZHYXFUSlp4OFMya1Nqc2NQb296OUVJemtLWTkwZTJUc1BuaktrVk1UUnlwdFV0SkpzeU9FRVJMVG9zZzY5ZjlSQUsyUkRmaHVyVFNSTHln?oc=5",
+          "source": "BRIDGE（ブリッジ）",
+          "publishedAt": "2026-11-06T01:31:06.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ChatGPTの画像生成が50%高速化。GIFアニメにも対応",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05RU14VzJFWFA0ak9CYVJPS2lQeEpTYlhFV3dJaHJGa0UyM3JiVVZoWHZfZjdpbm1EalhaQzRrZnZ3SzBWdms2LXZmSDFvbnEzUTJLbm1SS2xKcTZUam85MkdUaw?oc=5",
+          "source": "PC Watch",
+          "publishedAt": "2026-11-05T05:14:23.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「ChatGPT Images 2.6」が提供開始――生成速度50％向上、GIFアニメ作成にも対応（ケータイ Watch）",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GV0RpZFo4NlZqWVFsb29FVE1wV2FnWjl4eG5Pc0hRQUxucFVpazZPUmM5QlRUM1RVYXROR2o2ZnRSbXVhZnpmS1FFLUFvSzJyWXJpOTBWMVRsOFVJTEQ3WW5yOUJRaGJiVGZZMGZGRktCcjE3YWVNdDZNSDhXX1k?oc=5",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-05T04:41:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "OpenAI、「Images 2.6」を発表 ～GIFアニメーションに対応、生成速度は50％向上",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DZ1l2cVFrWHk3cWZqZTU1dDFrR0JhelB6clNxZ0wwRkZ6WWJqZl8zX2RheURHQkR1WDAwNHNJRHpfaTdCMzFtQnJRM2wtRXRMdmY2VHpHSkhNcmo2NW1LM2lLMXJ1dXll?oc=5",
+          "source": "窓の杜",
+          "publishedAt": "2026-11-05T04:03:20.000Z",
+          "isPR": false
+        },
+        {
+          "title": "ChatGPT Images 2.6がアニメーションGIFの作成に対応、APIではFlareとSunburstの新バージョンを提供",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1CaWhnaEs2RmFaQmRDOW1qUlZQZXVxWURZRnBUUUR5UnkwVWNqb1RScVc0azFmaGN2OEp4bnprdE1kSEVXTXBnLWh4NHEtekdzb0hSbDJWZFNIMzlSYTA5WQ?oc=5",
+          "source": "gihyo.jp",
+          "publishedAt": "2026-11-05T03:12:57.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "ef54a0f88618",
+      "title": "フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も",
+      "summary": "フジテレビは11月5日、2027年10月までに、同社が制作する全てのドラマで生成AIを活用できる体制を整えると発表した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002962/",
+      "image": "",
+      "leadSource": "ITmedia NEWS",
+      "publishedAt": "2026-11-06T11:47:56.000Z",
+      "sourceCount": 6,
+      "articleCount": 8,
+      "categories": [
+        "other",
+        "case"
+      ],
+      "keywords": [
+        "フジテレビ",
+        "ドラマ",
+        "生成"
+      ],
+      "articles": [
+        {
+          "title": "【『救命病棟２４時』の爆発シーンに生成ＡＩ】フジテレビ、一部工程の工数最大８０％減――ドラマ制作はどう変わる - https://kabu-ir.com/",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uU3pURFhmMTVXeGFxdGN0S1RzbEhvQU9teGdIS05qRG9KNXFvdDlGNXRuQnRkT3R5XzFpM1RNY2lYdGdabDR2WWEzOWFtbkEwSGgzQw?oc=5",
+          "source": "https://kabu-ir.com/",
+          "publishedAt": "2026-11-06T11:47:56.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【AIでドラマ制作】フジテレビ、2027年に全作品導入を表明も「これじゃない感出そう」一部で冷めた声（SmartFLASH）",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GQ08ydktmNWhzeFliUVZYWVhTMW9NODVZbmxGTGNrOXltMGtUbmVKWlJaRnZOODFjcVltYm11NHBHbnNlcmI2TWFsSjFXT1B6Mng5YncwNmFYdDJDcFo5MzAxdVRaTDFtNGotWVJXQ2dpSng5Zjl6LUJfRnJKMHM?oc=5",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-06T09:35:22.000Z",
+          "isPR": false
+        },
+        {
+          "title": "長野智子〝古巣〟フジテレビのＡＩ導入ドラマ制作にモヤモヤ「差がどんどん開いていきそう」",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2MllRRU10Z1RpODhvYnRNa0FCNHBuZFBFcWU4dW1NMkUtb0NHZjZMbjdLeUJUbHJjNHNRaTdSVmp5YkFCLVZVV3FKNFVOd3dmSFhpc0RCTXpWb3A5?oc=5",
+          "source": "東スポWEB",
+          "publishedAt": "2026-11-06T08:35:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "「救命病棟24時」の爆発事故シーンに生成AI フジテレビ、制作の一部工程で工数最大8割減（電波タイムズ）",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03ekJNYVp4ZlRqOVBLdGJmMFF0UUVmYUxQUVlWOE9LYjItRzFTTjhvWV84ZkNsc2ZxSXdSdnR2amJpVWNRYXJsZl83WVJQaTM0RHNmR21yMmlXclJJQTBab002azRFWFRQSmoxbmQ1XzdPOTFkc2tabi1wdENFaE0?oc=5",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-06T01:38:51.000Z",
+          "isPR": false
+        },
+        {
+          "title": "フジテレビ、ドラマ制作に生成AIを積極導入 27年には全ドラマ対応へ",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKNXV0amJoeHhwbWpiYXJvaTlReXd6WWthTnYyN1JlbGdPd1c1cGJNUGJtWkktSm1uZ3V0X2RoVktOWjBrRU1EaFROVzdfSXdXYTJpVkxjMHNtQzBaWDVHM1R2bW8?oc=5",
+          "source": "Impress Watch",
+          "publishedAt": "2026-11-05T07:18:01.000Z",
+          "isPR": false
+        },
+        {
+          "title": "フジ 全ドラマに生成AI導入へ",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQTWVGbzVoZnpXOVhLc3NYTV9GY1FwTVE2aWRqNlg2cC16YWJiaXpPNTlfd3dSTW1WbkREamFkVlVjSmVNQ2o3QVlDbHZfOHJv?oc=5",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-05T05:11:47.000Z",
+          "isPR": false
+        },
+        {
+          "title": "フジテレビ、全ドラマでAI活用できる体制へ 2027年10月めど 「救命病棟２４時」で先行導入",
+          "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002903/",
+          "source": "ITmedia AI+",
+          "publishedAt": "2026-11-05T04:05:02.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "c2c3ecbfcc11",
+      "title": "グーグル、「マシンスピード」で脆弱性修正する「CodeMender」などAI防御策",
+      "summary": "Google Cloudは5日(米国時間)、AIエージェント時代に向けたセキュリティ機能の強化を発表した。脆弱性を発見・修正するAIエージェント「CodeMender」に新機能を追加したほか、AIエージェントの認証、脅威の検知・対応などを強化する。",
+      "url": "https://www.watch.impress.co.jp/docs/news/2154443.html",
+      "image": "",
+      "leadSource": "Impress Watch",
+      "publishedAt": "2026-11-06T09:31:33.000Z",
+      "sourceCount": 6,
+      "articleCount": 6,
+      "categories": [
+        "product",
+        "other"
+      ],
+      "keywords": [
+        "Google",
+        "エージェント",
+        "機能"
+      ],
+      "articles": [
+        {
+          "title": "脆弱性を見つけて直すAIに検証用の隔離環境、AIエージェントには固定の鍵を持たせない。Google Cloudがセキュリティ機能を拡充",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtM3YzaUZqNk43bkVzaHltQ3pjSDhJUU5DWTZCQVRQWEZ3dGRCN2UzLVR1UXFETDl1aUgxbUlsa0xBVDRnTVZCS0NvSlRPRnhmamUwZEJNOC1tZ1IxaXNuT2xoRHpVMm8?oc=5",
+          "source": "テクノエッジ TechnoEdge",
+          "publishedAt": "2026-11-06T05:30:37.000Z",
+          "isPR": false
+        },
+        {
+          "title": "Oracle AI Database@Google Cloud の最新イノベーションでエージェント型エンタープライズを強化",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUlrVk10ZlZ5clJtZkVtZl8wdWs0RFF2Q052NElkTnBjOG9pNGhrdGdVcVZfV0NheWlzVXZkUWxCREtFNGlhS3V2SV9wd0YzS2JTbVl4UkRSMWhYTXQ1YU13c3NoQjRQcDJ0QW82V1ZlQ0NodnNIRWNsWWhOMXF4SzBMUDdIekJqLTg1NndOS2R0R3JndmJfMzI1M1pMWC1FdlVTMElVVHJtdjFreWlVRg?oc=5",
+          "source": "Google Cloud",
+          "publishedAt": "2026-11-06T04:27:50.000Z",
+          "isPR": false
+        },
+        {
+          "title": "Google、児童生徒アカウント向けAI機能を原則オフに（こどもとIT）",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wUEllSm95Z1R6czBwd3l1WDFZaFpvS1cyTHc4a2FxM29Ec2dnclBNbHJVZVdSc3Z4NW1IUnR6d2hYdVNRMDlOa3ZJWjJmS3laN2xxcXJXQV8xZkJPWTFMOXpCdEpRQzZWNGRwaWdpX0cyUWxVRmg0eUZlSy1jM28?oc=5",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-06T00:00:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "Geminiに仕事を任せて席を外せる時代へ！Googleが有料プラン向けに「タスク自動処理」機能を追加",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IR0UtTEtlR1k3blhvTGJjaFkzQUluVkt4c3lFQTdQV2dUQUtxdnZTY0d6V2ZyRENrRmpqSmFseGR1WTBmMWszLTdGLUQ3UQ?oc=5",
+          "source": "DXマガジン",
+          "publishedAt": "2026-11-05T12:03:56.000Z",
+          "isPR": false
+        },
+        {
+          "title": "【AIエージェント時代の新資格】AIエージェント・ストラテジストから見える「これから求められる人材」",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tZzJFbXBud1VZZWdtdVJObktheDlOckh2Y3YzZE1JVnJZdUFUekI4ZWFWa1FYdzBYTkZ6eEdPN2F1OGtWaDZBX0RESQ?oc=5",
+          "source": "ThinkIT",
+          "publishedAt": "2026-11-05T09:55:55.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "1bda8b746a6d",
       "title": "東京株式市場、AI規制強化への警戒で一時4300円超の暴落 6万円の大台を割り込む",
       "summary": "",
@@ -1047,106 +1175,6 @@
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QeXdSZW9VTHNmMEVfcUR0UEl3cXFZNFRTRVFXLTZkT1RZSTNQdklXQ2Vtd2FELUhyZ0VPcmcwTWRhbFhib3FvZVpoeV9iWGFQbUhKaW5haGRibVV3TFJz?oc=5",
           "source": "東洋経済オンライン",
           "publishedAt": "2026-11-04T21:00:00.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "c2c3ecbfcc11",
-      "title": "グーグル、「マシンスピード」で脆弱性修正する「CodeMender」などAI防御策",
-      "summary": "Google Cloudは5日(米国時間)、AIエージェント時代に向けたセキュリティ機能の強化を発表した。脆弱性を発見・修正するAIエージェント「CodeMender」に新機能を追加したほか、AIエージェントの認証、脅威の検知・対応などを強化する。",
-      "url": "https://www.watch.impress.co.jp/docs/news/2154443.html",
-      "image": "",
-      "leadSource": "Impress Watch",
-      "publishedAt": "2026-11-06T09:31:33.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
-      "categories": [
-        "product",
-        "other"
-      ],
-      "keywords": [
-        "Google",
-        "エージェント",
-        "脆弱性"
-      ],
-      "articles": [
-        {
-          "title": "脆弱性を見つけて直すAIに検証用の隔離環境、AIエージェントには固定の鍵を持たせない。Google Cloudがセキュリティ機能を拡充",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtM3YzaUZqNk43bkVzaHltQ3pjSDhJUU5DWTZCQVRQWEZ3dGRCN2UzLVR1UXFETDl1aUgxbUlsa0xBVDRnTVZCS0NvSlRPRnhmamUwZEJNOC1tZ1IxaXNuT2xoRHpVMm8?oc=5",
-          "source": "テクノエッジ TechnoEdge",
-          "publishedAt": "2026-11-06T05:30:37.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Oracle AI Database@Google Cloud の最新イノベーションでエージェント型エンタープライズを強化",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUlrVk10ZlZ5clJtZkVtZl8wdWs0RFF2Q052NElkTnBjOG9pNGhrdGdVcVZfV0NheWlzVXZkUWxCREtFNGlhS3V2SV9wd0YzS2JTbVl4UkRSMWhYTXQ1YU13c3NoQjRQcDJ0QW82V1ZlQ0NodnNIRWNsWWhOMXF4SzBMUDdIekJqLTg1NndOS2R0R3JndmJfMzI1M1pMWC1FdlVTMElVVHJtdjFreWlVRg?oc=5",
-          "source": "Google Cloud",
-          "publishedAt": "2026-11-06T04:27:50.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Geminiに仕事を任せて席を外せる時代へ！Googleが有料プラン向けに「タスク自動処理」機能を追加",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IR0UtTEtlR1k3blhvTGJjaFkzQUluVkt4c3lFQTdQV2dUQUtxdnZTY0d6V2ZyRENrRmpqSmFseGR1WTBmMWszLTdGLUQ3UQ?oc=5",
-          "source": "DXマガジン",
-          "publishedAt": "2026-11-05T12:03:56.000Z",
-          "isPR": false
-        },
-        {
-          "title": "【AIエージェント時代の新資格】AIエージェント・ストラテジストから見える「これから求められる人材」",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tZzJFbXBud1VZZWdtdVJObktheDlOckh2Y3YzZE1JVnJZdUFUekI4ZWFWa1FYdzBYTkZ6eEdPN2F1OGtWaDZBX0RESQ?oc=5",
-          "source": "ThinkIT",
-          "publishedAt": "2026-11-05T09:55:55.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "ef54a0f88618",
-      "title": "フジテレビ、27年に全ドラマで生成AI活用へ 一部工程で工数を最大8割削減も",
-      "summary": "フジテレビは11月5日、2027年10月までに、同社が制作する全てのドラマで生成AIを活用できる体制を整えると発表した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/06/2000002962/",
-      "image": "",
-      "leadSource": "ITmedia NEWS",
-      "publishedAt": "2026-11-06T09:35:22.000Z",
-      "sourceCount": 4,
-      "articleCount": 5,
-      "categories": [
-        "case",
-        "other"
-      ],
-      "keywords": [
-        "フジテレビ",
-        "ドラマ",
-        "制作"
-      ],
-      "articles": [
-        {
-          "title": "【AIでドラマ制作】フジテレビ、2027年に全作品導入を表明も「これじゃない感出そう」一部で冷めた声（SmartFLASH）",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GQ08ydktmNWhzeFliUVZYWVhTMW9NODVZbmxGTGNrOXltMGtUbmVKWlJaRnZOODFjcVltYm11NHBHbnNlcmI2TWFsSjFXT1B6Mng5YncwNmFYdDJDcFo5MzAxdVRaTDFtNGotWVJXQ2dpSng5Zjl6LUJfRnJKMHM?oc=5",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-06T09:35:22.000Z",
-          "isPR": false
-        },
-        {
-          "title": "「救命病棟24時」の爆発事故シーンに生成AI フジテレビ、制作の一部工程で工数最大8割減（電波タイムズ）",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03ekJNYVp4ZlRqOVBLdGJmMFF0UUVmYUxQUVlWOE9LYjItRzFTTjhvWV84ZkNsc2ZxSXdSdnR2amJpVWNRYXJsZl83WVJQaTM0RHNmR21yMmlXclJJQTBab002azRFWFRQSmoxbmQ1XzdPOTFkc2tabi1wdENFaE0?oc=5",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-06T01:38:51.000Z",
-          "isPR": false
-        },
-        {
-          "title": "フジテレビ、ドラマ制作に生成AIを積極導入 27年には全ドラマ対応へ",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKNXV0amJoeHhwbWpiYXJvaTlReXd6WWthTnYyN1JlbGdPd1c1cGJNUGJtWkktSm1uZ3V0X2RoVktOWjBrRU1EaFROVzdfSXdXYTJpVkxjMHNtQzBaWDVHM1R2bW8?oc=5",
-          "source": "Impress Watch",
-          "publishedAt": "2026-11-05T07:18:01.000Z",
-          "isPR": false
-        },
-        {
-          "title": "フジテレビ、全ドラマでAI活用できる体制へ 2027年10月めど 「救命病棟２４時」で先行導入",
-          "url": "https://www.itmedia.co.jp/aiplus/article/2611/05/2000002903/",
-          "source": "ITmedia AI+",
-          "publishedAt": "2026-11-05T04:05:02.000Z",
           "isPR": false
         }
       ]
@@ -1325,13 +1353,115 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-06T15:00:27.017Z",
-    "previousCount": 523,
-    "newCount": 23
+    "previousAt": "2026-11-06T15:30:24.694Z",
+    "previousCount": 513,
+    "newCount": 17
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-06T16:00:24.694Z",
+  "nextUpdateAt": "2026-11-06T16:30:21.545Z",
   "items": [
+    {
+      "id": "60dbae2827e1",
+      "title": "GodotでAIを使ってスプライト、ピクセルアート、タイルを作る方法",
+      "url": "https://zenn.dev/zivaengine/articles/f68112e1c7c433",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "この記事は https://ziva.sh/blogs/godot-ai-sprites の日本語版です（英語の原文はZiva.shが2026年11月4日に公開）。 Godotエディターを離れずに2Dゲームのアートを作るには、Godotの中で動くAIエージェントZivaに頼みます。「右向きの64x64のピクセルアート…",
+      "publishedAt": "2026-11-06T15:36:46.000Z",
+      "image": "",
+      "categories": [
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "cb980ae8dcbc",
+      "title": "Claude Codeに「サブエージェントを使って」と書くのはやめよう。288回測ったら見つかる量は同じでコストだけ最大221%増えた",
+      "url": "https://qiita.com/yunany90/items/631be4b879ec5e1b6b33",
+      "host": "qiita.com",
+      "source": "Qiita",
+      "summary": "Claude Code 2.1.318で新しい設定が増えました。サブエージェントのeffort（CLAUDE_CODE_SUBAGENT_EFFORT）です。検索をExploreサブエージェントに任せてeffortを上げれば、もっと見つけてくれそうです。 そこで288回測り...",
+      "publishedAt": "2026-11-06T15:31:24.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "74f5f9b8d143",
+      "title": "画像から3Dプリント用のSTLを作る：リトフェインとの違いと、約8万／約150万ポリの使い分けメモ",
+      "url": "https://zenn.dev/xer97/articles/57f76704aabcef",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "「この写真を3Dプリントしたい」には、だいたい2種類あります。写真そのものを光にかざす板にしたいのか、写っている物を裏側まである立体で欲しいのか。 ここで書くのは後者の話です。筆者は 画像からSTL（英語だと image to stl）の開発者で、作る側から見た判断のポイントをメモしておきます。 リトフェイン／ハイト…",
+      "publishedAt": "2026-11-06T15:27:46.000Z",
+      "image": "",
+      "categories": [
+        "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "4da417c4bf8d",
+      "title": "生成したスプライトシートを Godot 4 / Unity に入れるときのメモ（5アクション前提）",
+      "url": "https://zenn.dev/xer97/articles/6913c179bb40ff",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "Godot 4 系を前提に書いています。Unity はバージョンによってメニュー名が少し違うことがあります。 筆者は スプライトジェネレーター（英語だと sprite generator。全身のキャラ画像1枚から Idle / Walk / Run / Jump / Attack を作ってスプライトシートにするツール…",
+      "publishedAt": "2026-11-06T15:26:17.000Z",
+      "image": "",
+      "categories": [
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "6c043d1cb5a4",
+      "title": "AIによる政策討論は、トレードオフをどう見える化できるか",
+      "url": "https://zenn.dev/onelifevibe/articles/499672aae38832",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "政策をめぐる議論では、ひとつの施策が複数の価値と衝突することが多い。たとえば財政負担とサービスの質、短期の効果と長期の持続可能性、効率と公平性である。こうした衝突は、賛否だけで整理すると見えにくくなる。そこで注目されているのが、異なる立場を与えられた複数のAIエージェントに議論させ、その過程を記録として残すという考え…",
+      "publishedAt": "2026-11-06T15:23:07.000Z",
+      "image": "",
+      "categories": [
+        "case"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "6da222b02686",
+      "title": "どう使ってる？ 先生たちの生成AI活用術「ロイロTV 拡大版」を11/17から全5回、オンラインで無料配信",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zalVodkpUS0N0SWpSY0lYV01IMWhkYmpqbDBKQ0JjX0FCcDNQUC1lZGV4NEk3LW9YbW9pMnFCc0s3U0R2WE1FX0RVLXNOWXNEY2pWOXdmZDFUbkE3cGFOaEdhRTdJYWxnWHhiUVRVYVgwZ091?oc=5",
+      "host": "excite.co.jp",
+      "source": "Excite エキサイト",
+      "summary": "",
+      "publishedAt": "2026-11-06T15:15:00.000Z",
+      "image": "",
+      "categories": [
+        "case"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
     {
       "id": "3dd1c23350f3",
       "title": "米アマゾン、テキスト型Alexaショッピングを公開－AIエージェント競争激化",
@@ -1347,7 +1477,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "64f590c737f6",
@@ -1364,6 +1494,23 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "8426807aa65a",
+      "title": "人間3分、AI48分。これは何分の仕事か？",
+      "url": "https://zenn.dev/futoka/articles/ai-agent-effort-four-clocks",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "人間が3分で指示を出し、AIが48分かけて実装とテストを進めたとします。これは何分の仕事でしょうか。 「人がこのタスクに手をかけた時間」なら3分。「AIが稼働した時間」なら48分。指示を始めてからAIが結果を返すまで、重なりも待ちもなければ51分です。3分と48分は、実際の開発で計測した値ではなく、考え方を説明するた…",
+      "publishedAt": "2026-11-06T14:38:51.000Z",
+      "image": "",
+      "categories": [
+        "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
       "isNew": true
     },
     {
@@ -1382,7 +1529,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c71588e0f52b",
@@ -1453,6 +1600,23 @@
       "isNew": false
     },
     {
+      "id": "5ed2119bd199",
+      "title": "What is AI for? — Don’t think. Feel. と Be water.",
+      "url": "https://zenn.dev/sugitakenji/articles/af925cba5484fb",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "同じ協力関係の、もう一つの顔 「What is AI for? — AIは自分を映す鏡」では、AIを尊重して向き合う姿勢を考えました。返ってきたものを受け止め、よかったことには感謝し、意図と違うところは言葉にして伝える。そのやり取りを通じて、こちらの考えも明確になっていきます。 そこには「考えるナイフ」という比喩もあ…",
+      "publishedAt": "2026-11-06T14:09:25.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
       "id": "715d94f8ab62",
       "title": "日経平均株価5ヶ月半ぶり安値 米民主党の大勝でAI銘柄への逆風は続くのか？ 野村證券・岡崎康平",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHUlczbHhzRW44amp4NHhfMGZpMldhQk5xa2k5ZUo2RWpIY0c3bE5XOWprUmpYbUFQdmstaW5FR3R2dzdYbWh5Z0gzWGZXNTdaR3huYldFNy1mdFJIUkhz?oc=5",
@@ -1470,6 +1634,23 @@
       "isNew": false
     },
     {
+      "id": "8153d655ceea",
+      "title": "日経平均半年ぶり6万円割れ…AI半導体相場は終焉?▼脱年功序列の退職金｜ワールドビジネスサテライト（WBS）",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2YzZkZVFlQkdiNGZNX0ZMeFVpd3libERqdmRDbmZiaTN1dVJHOFVCMkh2TWlicGN5Vl9NSkxVM2ZmUGdZZ0N0ZXAzZ1Nyay15SlM1YWxFS1dzb0VI?oc=5",
+      "host": "txbiz.tv-tokyo.co.jp",
+      "source": "テレ東BIZ",
+      "summary": "",
+      "publishedAt": "2026-11-06T14:00:00.000Z",
+      "image": "",
+      "categories": [
+        "infra"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "4a81a24d99d6",
       "title": "長期化する民事裁判のスピードアップへ 民事訴訟制度の見直しに向けた初会合 生成AIの使用をめぐる意見も 法務省",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BbHY2TWlQcGNaSDZQRkc0emt2bXRiUnM4V0NJVnZXUnR0OGZvT3E0VUJTbWVmcXhDd0FaUDRfX2x1VU1ZMnlTOEV5LTd2eUFDUmZqZ0JMRjJWUlBUbWliS3RoYnM1NTdQTG1SRzVTMk5Gc2Y1LXhrVG14eDlSb28?oc=5",
@@ -1485,6 +1666,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c1a92fcd56c1",
+      "title": "SDカードをアルバムにする妻のために、元データを1バイトも触らないローカル写真管理ソフトをAIと作った話",
+      "url": "https://zenn.dev/torakichi0428/articles/5e5573b10976a0",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "はじめに：SDカードを「アルバム」にする妻と、クラウド同期の罠 このソフトを作り始めた一番最初のきっかけは、妻の写真の管理方法を知ったことでした。 趣味でカメラを触る人間からすると、写真はPCや外付けドライブに取り込み、SDカードはフォーマットして使い回すのが当たり前になりがちです。しかし妻は、「容量がいっぱいになっ…",
+      "publishedAt": "2026-11-06T13:57:58.000Z",
+      "image": "",
+      "categories": [
+        "infra"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
     },
     {
       "id": "90b41e10d37c",
@@ -1557,8 +1755,8 @@
       "isNew": false
     },
     {
-      "id": "3f9572a41e47",
-      "title": "年間数億円のSaaSを、一人ｘ半年ｘバイブコーディングでリプレイスして感じた達成感と危機感",
+      "id": "a3eccda164fe",
+      "title": "年間数億円のSaaSを、開発者一人バイブコーディングでリプレイスして感じた達成感と危機感",
       "url": "https://zenn.dev/ttake/articles/0b6c8f887b160e",
       "host": "zenn.dev",
       "source": "Zenn",
@@ -1571,7 +1769,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "28a66bc8e730",
@@ -1623,7 +1821,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "8897f5c38752",
@@ -1730,24 +1928,6 @@
       "isNew": false
     },
     {
-      "id": "14d02f0673c9",
-      "title": "Inkling 2 Smallのトレーニングと最新AI動向",
-      "url": "https://qiita.com/maskot1977/items/79acefd0e90f27df340f",
-      "host": "qiita.com",
-      "source": "Qiita",
-      "summary": "Thinking Machines社によるフロンティアモデル「Inkling 2 Small」のリリースを中心に、オープンウェイト（オープンソース重み）モデルの急速な躍進、AI研究自体の自己加速現象、そして最新のシステム・エージェント動向について広範な議論が交わされて...",
-      "publishedAt": "2026-11-06T12:26:05.000Z",
-      "image": "",
-      "categories": [
-        "model",
-        "product"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": false
-    },
-    {
       "id": "0ddc32934bcc",
       "title": "売るのはAIではなく成果だった ― 受託メニューの叩き台を作って考えたこと",
       "url": "https://zenn.dev/ai_secretary/articles/c8c24c30b32f4a",
@@ -1780,7 +1960,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "92b26028c281",
@@ -1831,7 +2011,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2d85091dc983",
@@ -1851,13 +2031,30 @@
       "isNew": false
     },
     {
-      "id": "f0b667dc69a0",
-      "title": "米民主党、ＡＩ規制法案を多数提出へ 共和党路線から転換",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KWkhmZHVsUXdhNEN5TzJjWnE4V0otN2JEVVVLSF9XeDVkdTNtU2J0NGtrU1hoeVFqVnV4UFlLbVJNbGduRklZOWVpbjZ2M1dWNjV2QU55R0JxZmMwTjdOOWY4R0hhelVjYnRIaDV5eTVWWEQxU2hzSFJkNkc5NFk?oc=5",
-      "host": "reuters.com",
-      "source": "Reuters",
+      "id": "0fab38c3fc7a",
+      "title": "【『救命病棟２４時』の爆発シーンに生成ＡＩ】フジテレビ、一部工程の工数最大８０％減――ドラマ制作はどう変わる - https://kabu-ir.com/",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uU3pURFhmMTVXeGFxdGN0S1RzbEhvQU9teGdIS05qRG9KNXFvdDlGNXRuQnRkT3R5XzFpM1RNY2lYdGdabDR2WWEzOWFtbkEwSGgzQw?oc=5",
+      "host": "kabu-ir.com",
+      "source": "https://kabu-ir.com/",
       "summary": "",
-      "publishedAt": "2026-11-06T11:45:44.000Z",
+      "publishedAt": "2026-11-06T11:47:56.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "f0b667dc69a0",
+      "title": "米民主党、ＡＩ規制法案を多数提出へ 共和党路線から転換（ロイター）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50aEVPUE40U1pxUHBvc29wVXVpMVduYmlKLWxVcEJWX0tKMVpveDZoV3F6MHFBUDdRQzVlbEh6VmpkeWNsUkJBMVczRHV2cWlHYTVPQmVBdzM4RUx3dXFwYWM2T2k1azQ0NGlyWE56bk9uYmVKSjdsanhQWmtzWlU?oc=5",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-06T11:44:22.000Z",
       "image": "",
       "categories": [
         "policy"
@@ -1916,7 +2113,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e254ccb6f3ab",
@@ -1950,7 +2147,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bd8286d8ba83",
@@ -2243,7 +2440,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ff6c3074b9f2",
@@ -2385,23 +2582,6 @@
       "isNew": false
     },
     {
-      "id": "603e3bee8c11",
-      "title": "理想形になるまでの寄り道作品",
-      "url": "https://zenn.dev/vbaman/articles/b3ca28775e71c7",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "ゲームの処理やアプリの処理を作っていると、最初に思い描いた完成形とは別に、途中で動き始めた仕組みがある。 まだ完成しているわけではない。 スタートや終了処理にバグも残っている。 それでも、少し切り出してみると、案外それだけで楽しめるものになることがある。 今回は、そんな「寄り道作品」の話…",
-      "publishedAt": "2026-11-06T09:38:26.000Z",
-      "image": "",
-      "categories": [
-        "product"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": false
-    },
-    {
       "id": "99bce09ba8d4",
       "title": "【Gemini最新モデルが登場】Google DeepMind「Gemini Omni 1.2 Flash」を一般提供！15秒の動画生成＆会話型編集に対応",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SZ3c3OExYaHZ4c3VMN1JGMW1oZ2w1N1pOLUJZa1dkWFNRU09yYkZvdWRkNHBheW1iUWNYLTlRamFVRWdLNFEwb29PSTJTQQ?oc=5",
@@ -2471,23 +2651,6 @@
       "isNew": false
     },
     {
-      "id": "2c29dad0c7fd",
-      "title": "AIに自分の使用量を聞いたら、測っていない「実測値」が返ってきた──Antigravityのログで答え合わせする",
-      "url": "https://zenn.dev/pepe_3_go/articles/antigravity-usage-ask-ai-vs-log",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "Google の Antigravity を仕事用のアカウントで使い始めたら、使用量の減りが早かった。そこで Antigravity 自身に「使用量を抑える方法は？」と聞いてみた。 もっともらしい答えが返ってきた。モデルごとの消費の倍率まで出てきて、根拠は「同じ質問で3つのモデルを交互に呼び出した結果の平均」だという…",
-      "publishedAt": "2026-11-06T09:33:01.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": false
-    },
-    {
       "id": "c2c3ecbfcc11",
       "title": "グーグル、「マシンスピード」で脆弱性修正する「CodeMender」などAI防御策",
       "url": "https://www.watch.impress.co.jp/docs/news/2154443.html",
@@ -2515,24 +2678,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f6aaad8b4c36",
-      "title": "生成AIで業務効率化しても「仕事のやりがい」が高まった人は半数未満｜労働関連プレスリリース",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55blhaWUMzM2xWZ240eUNzWUFmOHJobE1aTFE5Nmo0SlBFRUtuVVVaQ2Y0UlRwU2NQLWtZSFluN21mZ0w5eDdmcXlpSUtwbmpKYmVhLS1n?oc=5",
-      "host": "rodo.co.jp",
-      "source": "労働新聞社",
-      "summary": "",
-      "publishedAt": "2026-11-06T09:28:03.000Z",
-      "image": "",
-      "categories": [
-        "product",
-        "case"
       ],
       "isPR": false,
       "viaGoogle": true,
@@ -2592,6 +2737,24 @@
       "isNew": false
     },
     {
+      "id": "e8b35db84e79",
+      "title": "半導体・AIなど28製品を重点指定 政府が370兆円投資の実行計画",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zcXdWSnQ3cnpCSXJNbXNuTmkyX05Ud1BZcTd2QnN5UTZ0UG1IdFNQWDA4TmhzUXhsc2EwRV9hM1l6eFUxZ0xGeGE3dnhTTVNYazFZcThXazRPUVN6N3dkNWg0UXV0OG5JUzVzb0FYNnZVSUJM?oc=5",
+      "host": "finance.biggo.jp",
+      "source": "BigGo ファイナンス",
+      "summary": "",
+      "publishedAt": "2026-11-06T09:26:00.000Z",
+      "image": "",
+      "categories": [
+        "business",
+        "policy"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1bf97ee0c568",
       "title": "スマホで自由に会話できるモデルを検討してるんですが",
       "url": "https://zenn.dev/daishiro/articles/on-device-llm-english-roleplay-benchmark",
@@ -2602,24 +2765,6 @@
       "image": "",
       "categories": [
         "product"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
-      "id": "9419b7e76755",
-      "title": "ContinueとMCPを用いたObsidian自動保存およびナレッジ構造化システムの構築",
-      "url": "https://zenn.dev/pve_echo/articles/20261103_continue-mcp-obsidian-automation",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "結論（解決策） AIコーディング支援ツール（Continue）と Model Context Protocol (MCP) を連携させ、mcp-time-server と @modelcontextprotocol/server-filesystem を導入することで、チャット上の技術的知見や設計メモを自動的に日時付…",
-      "publishedAt": "2026-11-06T09:23:37.000Z",
-      "image": "",
-      "categories": [
-        "product",
-        "case"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -2746,23 +2891,6 @@
       "isNew": false
     },
     {
-      "id": "b029718d6dbc",
-      "title": "ホークスのスタメンは ChatGPT に任せるか。孫正義回の予測（#43 投稿前予測）",
-      "url": "https://zenn.dev/talks_tldr_jp/articles/tldr43-son-prediction",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "この記事は何か 海外の Tech Talk を日本語の縦型ショートに切り出し、投稿前に予測を保存してあとで実測と突き合わせています。#43 は 孫正義（SoftBank 創業者）です。前の #42 Elon Musk と同じく、一般層の著名人を試す検証回です。 ! この記事は 2026-11-05 09:36 に最初…",
-      "publishedAt": "2026-11-06T09:00:14.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": false
-    },
-    {
       "id": "a81aff2a5d59",
       "title": "生成AIで市場調査から分析、資料作成まで支援 矢野経済研究所とJAPAN AIが新サービス「YDBエージェント」を提供開始",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DLUx3OGRUS28tZGRMcDVUWThLTElPWm9WcWEzVGtnZjE3NVlzdzBjVEZhOUVObUNGNGxiNkRHc01EOEhZQUJVYU9jUGRrLWRyNUxpM0JEMWc1YW95bkJRd0hRLWF4emowbHlyS0JJSlBqUFBKQmVENVhselVHSk0?oc=5",
@@ -2795,40 +2923,6 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "18f5fef5f718",
-      "title": "GoogleのAIモードでレストランの空席探しが11月6日から｜人数と日時を伝えるだけ ぐるなび・一休・ebicaと連携",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVQ1REZ0RPZHhSZ0hvMGsyQk1mQ2RoUmJuZmQ1bU5oRGQzNU9nZDZ5Wl9NZF9iYlJncnhiY0JVVTd3UU1HZGJ2X3pvWVY?oc=5",
-      "host": "smartwatchlife.jp",
-      "source": "スマートウォッチライフ",
-      "summary": "",
-      "publishedAt": "2026-11-06T08:59:27.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "27adc86388a4",
-      "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
-      "url": "https://zenn.dev/rescuenow/articles/4c03a548cd6589",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "はじめに こんにちは、しもちです。 前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見て回ることはな…",
-      "publishedAt": "2026-11-06T08:59:24.000Z",
-      "image": "",
-      "categories": [
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
       "isNew": false
     },
     {
@@ -2986,7 +3080,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cc96563106d9",
@@ -3575,7 +3669,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c3de4c36ab0d",
@@ -3609,7 +3703,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "17898ab47180",
@@ -3626,7 +3720,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1cc0433e712e",
@@ -3782,7 +3876,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "47dd8c582e5f",
@@ -3799,7 +3893,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "c1c1d30882c5",
@@ -3901,7 +3995,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ec8eb3f98196",
@@ -3918,7 +4012,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d3be8144bd4b",
@@ -3970,7 +4064,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "45967a262555",
@@ -5006,6 +5100,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "a715cb324ab1",
+      "title": "AI・データ分析アシスタント「LTV-AIシリーズ」を提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAycDlmVzZvRjRNN3J0dmhlQktFOVAtWDVoalkwXzNxRDR6Y3RrbENBNjJ6cXJWNWFzZkdXWkl3QkhvZ3hhMDE2eHVfVE4yNFV3SkpMS3ZpWnk3a0lMa0tKM0xHaV9KMmYw?oc=5",
+      "host": "news.nicovideo.jp",
+      "source": "ニコニコニュース",
+      "summary": "",
+      "publishedAt": "2026-11-06T03:15:34.000Z",
+      "image": "",
+      "categories": [
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1144f6170eda",
@@ -6265,24 +6376,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "curated",
-      "isNew": true
-    },
-    {
-      "id": "cf084ac6b8ed",
-      "title": "【速報】日経平均株価6万円台を割る AI・半導体株中心に売り広がる（日テレNEWS NNN）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oVWtLc2FROGNfOGhieDFGMXIxVUMzLXphR0E2WHk0MkNfMWhjX3J4RUtoRXFJdjNlWElqV014b3ExTld0QjcyMDcwY3pHVFBDSFh2alAzTUpPc21ER2tiV2VLNjlYWHB6ZXg4TDFHNVptVmN6N3pyWW84QjU0TUE?oc=5",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-06T00:06:00.000Z",
-      "image": "",
-      "categories": [
-        "business",
-        "infra"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -7077,23 +7170,6 @@
       "isNew": false
     },
     {
-      "id": "6dfb4d4d75b0",
-      "title": "【今日が最終日】再現性のあるファン作り、楽天・LINEヤフーが語るAIコマースの未来、AIエージェントでEC運用事例など",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jQXhucEk1M0ZXWDIzNFZOQW82SHRyMWtyY2VpcFRvRGlsVUY0WHdFRmZnUDZ0UWN1Q2tGUWJMMkxBWDFQVklNMFlSaUpPRWdlcUo2Zktqd0RpckZv?oc=5",
-      "host": "netshop.impress.co.jp",
-      "source": "ネットショップ担当者フォーラム",
-      "summary": "",
-      "publishedAt": "2026-11-05T22:00:00.000Z",
-      "image": "",
-      "categories": [
-        "case"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "707e621a1cfb",
       "title": "新刊案内 AI導入ーー誰に責任があるのかーー 経営者のための『AIに何を任せ、人間は何を決めるのか』11月10日発売",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11S1BUaDhRR3RBQW5UVmNOUVlka0xRd3NJMER6LXlCVGhmZkhEdWxxU1JjUG9ZRU8wRFdyb212VzRyMlRNWXYxTzhxdWRCTTRmd3prUkg1WGJnYnM5OUVRODNDenhuQQ?oc=5",
@@ -7697,6 +7773,23 @@
       "isNew": false
     },
     {
+      "id": "229d9db37680",
+      "title": "Anthropic、Claude用の個人財務ツールをリリースし、ユーザーの支出を分析",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa091SGxCMXhrNjItaDMtek5IODl0UExOMHpONENhaVNoYndaeXppb1lZRklkcnYyWUdISEJOSUplamdJOTBrLUVNV3lNSWFNNmJSZ2FfTzJtTzhhdjlzRFE5U2o4UzN2QXJHaVNSamJUWGljU05adHVEMEt2b0NxdDBjRXYwaFF0YWtBMm1TZ3dCNGtaUE1SWmw2Mk15V0ZnRmpoRmhjR3V6RlI1LXNRcUVvMA?oc=5",
+      "host": "kucoin.com",
+      "source": "KuCoin",
+      "summary": "",
+      "publishedAt": "2026-11-05T18:45:33.000Z",
+      "image": "",
+      "categories": [
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a53213a840c4",
       "title": "グーグル、Geminiで手描きスケッチを作動するウェブアプリに変換可能に",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lcVJweUU5Mm93TTAxYTMtZ0FoT0I1blJOME1IUF9uZ05mMTdnRnlxSmItTTRtZHhCbWlQemdIS2FtNXZUc3piLXh2QTZKVjNESDVhdVVGXy05MXNiTlpiQmtWZGdfT3pRdFlRUnJuUGlEMUpr?oc=5",
@@ -7799,23 +7892,6 @@
       "isNew": false
     },
     {
-      "id": "48146302d577",
-      "title": "ChatGPTがGIFを作成、OpenAIがFlareとSunburstを備えたImages 2.6を発表",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQejJNZGV5QW5lSXYzdG1CdzJqMEFIelBsbjIxdHA3RGkzb3RpUHQ3eXVLWEtWWXg0RkU1N0J2aVpiZE9qNy1Ma1BIX2hwZnM1THVWb3ZaZWI5TGk2cDU3YmVtdlBiXzF2dU5XNEVKUjM0QksxMzRHV3NvZXQzNE0yRG92aUNzdGV0S2xEZGRyNkJxZw?oc=5",
-      "host": "pasqualepillitteri.it",
-      "source": "Pasquale Pillitteri",
-      "summary": "",
-      "publishedAt": "2026-11-05T17:34:09.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "d3e92c71ea60",
       "title": "GoogleのGemini Omni 1.2 Flashが一般提供を開始",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU3kwOU1ORDVYbmYydTRRampmcFc5Wml3cnlmZVphR1pEZEJBQWRhdEpBcTRoSkRNRFFhUXlFRVVIdmd1N0IzTGdTbnRMQm5qRUk4V0dXSEJyZ0lEWUU0c25peHVHTkVrQ1BTYS1xRTFNSllhb0JuMzhaSEFDbVIweks1bnFtdXBPbVNv?oc=5",
@@ -7826,23 +7902,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9f20a9c20adc",
-      "title": "OpenAI、データセンター事業の推進方法見直し－世論の反発受け",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tcVVTXzdMRkcwNVdpakNvUktwSjBYYkVQM1ZOam9tUmhSMWZyUjdTemRvQWl0Tzc0WXFXbmx6M0xhSm9DcEZPQ3BoQlU5Q1EtZklEbVRWMHNkOHVJcFJaSG9mMDY1Y1U?oc=5",
-      "host": "newsdig.tbs.co.jp",
-      "source": "TBS NEWS DIG",
-      "summary": "",
-      "publishedAt": "2026-11-05T17:08:33.000Z",
-      "image": "",
-      "categories": [
-        "infra"
       ],
       "isPR": false,
       "viaGoogle": true,
@@ -7895,23 +7954,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "9064c84a3ca9",
-      "title": "AI動画分野のユニコーン企業がまた1社増加、Sand AIが2億米ドル規模のシリーズA+ラウンドの資金調達を実施",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1dXM251RnlkQkF3Yy1YZkFSU2RqYkU2RHpMSFdsSnQxUXZpaTV5Y2Vyb2ppRnhHeFR4OFJCd28wSkhoVEpocmN0YjFiaElCZ1YyeTJxTWZVeWFpMkhIV2V3WnRndVFqS1NXN05idUJyUDM3ZjNnZEM4Wlp4MnpmZVU2aWJUVG9OZjk1LU5jTzFvUUNTTmxGSzlreHN1UTB4UzFoUg?oc=5",
-      "host": "moomoo.com",
-      "source": "Moomoo",
-      "summary": "",
-      "publishedAt": "2026-11-05T15:44:47.000Z",
-      "image": "",
-      "categories": [
-        "business"
       ],
       "isPR": false,
       "viaGoogle": true,
@@ -8364,7 +8406,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "fd6f7e518ef6",
@@ -9127,23 +9169,6 @@
       "isNew": false
     },
     {
-      "id": "096958c530fc",
-      "title": "Hajimari、Anthropic社の「Claude Partner Network」に参画。『TUKURUS』でAIを活かした開発・内製化を支援",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ibmxzdGFUTXY5ZzNROUNxWWlfU2hGVmlyU2tGVjE3WTllcTJNcWlPcllvRUtwUldUN3hTZGhBNUlVSWkxMk5XSmtrNzV3NHhLaUZjTA?oc=5",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-05T01:51:18.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "aca8c7064dc6",
       "title": "クロード・コードのプロダクト責任者がOpenAIへ移籍、Anthropic上場直前で中核チームが4人連続離脱",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTNUtlUm1jNEpqYzMzeTlwRnNreE0ycGhvWU9LcHFFakFGN3hPWXRHNENmVFAzWXBwU08tMlprcTJCaEUyQ0tnTmxoOWdDQzg5NVFCRWJCZ3FrcUxrZzdmZW5qMmEtVmJlT3BPWDZ5SDFIcFJm?oc=5",
@@ -9295,7 +9320,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "e9fcb0df3f8e",
@@ -9451,6 +9476,40 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "096958c530fc",
+      "title": "Hajimari、Anthropic社の「Claude Partner Network」に参画。『TUKURUS』でAIを活かした開発・内製化を支援",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIWC1ZOS1BWXRwZkpmQTcxN3ZHekNGVnBTZ01aUkZQVVFFQzRmbHJ1ekQ2dnJtakZSQnBDUU1GMEJyVGdZRlRTSGpSeDFUcDhRMElQZnJhZU8zOUhYMHdRNGVIU1JuT0dWWVB2UGpuSjJMaURLYUxYd3BpOA?oc=5",
+      "host": "sankei.com",
+      "source": "産経ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-04T23:30:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "c30acd16e80c",
+      "title": "Atmospheric AI、調達モデルの拡大に向け1,000万ドルのシード資金を調達",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS3VYY21pM3lBOEdMYkpPNmUyM1lpLXZFZUJ5NTJ3TmVtemlabVRreFhCMUVwcEZmTDFxQ016Rm1HcUlDRzJqZE5sWUxGZEp6S1lYSWN3RFdmR0ZTVUxKd25lWE8zZmJqLXBQMWJNZ3ZHR3dnQnB2RVNLenNVdGpGcUJ3akVPdVhnM2VEYnZOUQ?oc=5",
+      "host": "unite.ai",
+      "source": "Unite.AI",
+      "summary": "",
+      "publishedAt": "2026-11-04T22:48:03.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "00e110e12ad2",
@@ -9795,6 +9854,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "80b01c022629",
+      "title": "乱立するAIエージェント、管理ツール徹底解剖",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vUjJTcHZJRnNadkhlZHFhWnFLSHk1aWFYUHprYzRxQUt3NVBPbWlkUFpWWjNWMXNPOUQwTzVncHhLZXU5N09Zd0laUlNwTVYtMmp1MVpkb3FJVTdMazFj?oc=5",
+      "host": "xtech.nikkei.com",
+      "source": "日経クロステック",
+      "summary": "",
+      "publishedAt": "2026-11-04T16:28:22.000Z",
+      "image": "",
+      "categories": [
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "1c8daffd2666",
