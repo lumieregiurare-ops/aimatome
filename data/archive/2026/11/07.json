@@ -1,5 +1,73 @@
 [
  {
+  "id": "43b031ed1ccb",
+  "title": "8GBのVRAMをやりくりした知見は、16GBでも効いた",
+  "url": "https://zenn.dev/ace_toshi/articles/local-model-selection-by-spec",
+  "source": "Zenn",
+  "summary": "結論から ローカルLLMのモデル選定で私が最後まで基準にしていたのは、ベンチマークの知能スコアではなく「GPUに100%常駐できるか」の一点だった。 RTX 3050 8GB の環境で gemma4:12b-it-qat を動かすと、モデルがVRAMに収まらず一部の演算がCPU側へオフロードされ、GPU完全常駐の g…",
+  "publishedAt": "2026-11-06T16:21:28.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "16cd0a835b2e",
+  "title": "来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdTJncU94M1ZsWktwNTdmcXlqb29lZDV4UXN0djNTYkM4VmZ0MU53MDRlTTBPblBZUHlsY2E1ZFdVR1Y0b3VzcjlwRFJiNmhJdDdV?oc=5",
+  "source": "ダイヤモンド・オンライン",
+  "summary": "",
+  "publishedAt": "2026-11-06T16:02:06.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b004a895b04e",
+  "title": "AI時代にSES・フリーランスで単価が伸びる人の判断基準チェックリスト",
+  "url": "https://qiita.com/engineer-first_GH/items/771f76724dc9c793c6de",
+  "source": "Qiita",
+  "summary": "この記事で分かること AIを使っても成長・評価につながる人と、つながりにくい人の違い SES現場でコードレビュー不要論が通りにくい理由と、案件選考で見られやすい点 AIで生産性が上がっても単価が上がらない構造と、収入に反映させる環境の選び方 前提：この記事の元ネタ ...",
+  "publishedAt": "2026-11-06T16:01:52.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3e314777603a",
+  "title": "Pixel 10が米アマゾンで記録的安値、799ドルから599ドルへ Gemini搭載端末の敷居下がる",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UNzlLRzFVV1VPdklMQVNhT2lFWS0xVEZRN2NCZmtHU0x1dFdmNG1HYUowUjZobkgzYnBYN1hVV09UY25LN2JKRHRwUXQ2VHJoVWQ1bVV6Y0V4ck1jcGJsRURyajhQak54dzhod3h5TXdOMW9s?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-06T15:55:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e471c35a5efa",
+  "title": "「AIの心臓」データセンター建設に急ブレーキか…半導体・インフラ株にパニック売り",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdXJnZ2V4R080WHlsUUpYTy1pQ0lPaW4zMjYxV05QNkhwUGVhVDlWVDdodTZUSDVvaXJsWGxNUTZzQmZUTXRMb28xSFozc2ZETFl0c0xwYXV4MHpGSnUyYWNXbzg0amFGNy1IcUVZbmZ2X3drR1dRNFMyY1BPLWpsYg?oc=5",
+  "source": "조선일보",
+  "summary": "",
+  "publishedAt": "2026-11-06T15:38:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "60dbae2827e1",
   "title": "GodotでAIを使ってスプライト、ピクセルアート、タイルを作る方法",
   "url": "https://zenn.dev/zivaengine/articles/f68112e1c7c433",
@@ -67,10 +135,10 @@
  {
   "id": "6da222b02686",
   "title": "どう使ってる？ 先生たちの生成AI活用術「ロイロTV 拡大版」を11/17から全5回、オンラインで無料配信",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zalVodkpUS0N0SWpSY0lYV01IMWhkYmpqbDBKQ0JjX0FCcDNQUC1lZGV4NEk3LW9YbW9pMnFCc0s3U0R2WE1FX0RVLXNOWXNEY2pWOXdmZDFUbkE3cGFOaEdhRTdJYWxnWHhiUVRVYVgwZ091?oc=5",
-  "source": "Excite エキサイト",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVM3hlQ0t1RUQxREtpOW5OMjhSZ3F4VHQzZTg5VmZIQnQwZWFrRjNnZ1lINzhXa0ZBVUtnLWhfN0o1WXNjX0YyUkgtWmpNVGgwZTVHSUJNb1Fza0Y0emRsVlBITXFpbHlFNm5vTmlMdVV6QQ?oc=5",
+  "source": "Infoseek",
   "summary": "",
-  "publishedAt": "2026-11-06T15:15:00.000Z",
+  "publishedAt": "2026-11-06T15:15:32.000Z",
   "image": "",
   "categories": [
    "case"

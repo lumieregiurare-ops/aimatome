@@ -5,8 +5,43 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-06T16:00:21.545Z</updated>
+  <updated>2026-11-06T16:30:22.319Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>8GBのVRAMをやりくりした知見は、16GBでも効いた</title>
+    <link href="https://zenn.dev/ace_toshi/articles/local-model-selection-by-spec"/>
+    <id>https://aimatome.gamelab.website/#43b031ed1ccb</id>
+    <updated>2026-11-06T16:21:28.000Z</updated>
+    <summary>Zenn ／ 結論から ローカルLLMのモデル選定で私が最後まで基準にしていたのは、ベンチマークの知能スコアではなく「GPUに100%常駐できるか」の一点だった。 RTX 3050 8GB の環境で gemma4:12b-it-qat を動かすと、モデルがVRAMに収まらず一部の演算がCPU側へオフロードされ、GPU完全常駐の g…</summary>
+  </entry>
+  <entry>
+    <title>来週(11/9～11/13)の日経平均株価の予想レンジは､5万4000～6万円！ 暴落後の自律反発が期待される一方、米国のAIデータセンター規制の行方には要警戒！</title>
+    <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SdTJncU94M1ZsWktwNTdmcXlqb29lZDV4UXN0djNTYkM4VmZ0MU53MDRlTTBPblBZUHlsY2E1ZFdVR1Y0b3VzcjlwRFJiNmhJdDdV?oc=5"/>
+    <id>https://aimatome.gamelab.website/#16cd0a835b2e</id>
+    <updated>2026-11-06T16:02:06.000Z</updated>
+    <summary>ダイヤモンド・オンライン</summary>
+  </entry>
+  <entry>
+    <title>AI時代にSES・フリーランスで単価が伸びる人の判断基準チェックリスト</title>
+    <link href="https://qiita.com/engineer-first_GH/items/771f76724dc9c793c6de"/>
+    <id>https://aimatome.gamelab.website/#b004a895b04e</id>
+    <updated>2026-11-06T16:01:52.000Z</updated>
+    <summary>Qiita ／ この記事で分かること AIを使っても成長・評価につながる人と、つながりにくい人の違い SES現場でコードレビュー不要論が通りにくい理由と、案件選考で見られやすい点 AIで生産性が上がっても単価が上がらない構造と、収入に反映させる環境の選び方 前提：この記事の元ネタ ...</summary>
+  </entry>
+  <entry>
+    <title>Pixel 10が米アマゾンで記録的安値、799ドルから599ドルへ Gemini搭載端末の敷居下がる</title>
+    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE1UNzlLRzFVV1VPdklMQVNhT2lFWS0xVEZRN2NCZmtHU0x1dFdmNG1HYUowUjZobkgzYnBYN1hVV09UY25LN2JKRHRwUXQ2VHJoVWQ1bVV6Y0V4ck1jcGJsRURyajhQak54dzhod3h5TXdOMW9s?oc=5"/>
+    <id>https://aimatome.gamelab.website/#3e314777603a</id>
+    <updated>2026-11-06T15:55:00.000Z</updated>
+    <summary>BigGo ファイナンス</summary>
+  </entry>
+  <entry>
+    <title>「AIの心臓」データセンター建設に急ブレーキか…半導体・インフラ株にパニック売り</title>
+    <link href="https://news.google.com/rss/articles/CBMigAFBVV95cUxNdXJnZ2V4R080WHlsUUpYTy1pQ0lPaW4zMjYxV05QNkhwUGVhVDlWVDdodTZUSDVvaXJsWGxNUTZzQmZUTXRMb28xSFozc2ZETFl0c0xwYXV4MHpGSnUyYWNXbzg0amFGNy1IcUVZbmZ2X3drR1dRNFMyY1BPLWpsYg?oc=5"/>
+    <id>https://aimatome.gamelab.website/#e471c35a5efa</id>
+    <updated>2026-11-06T15:38:00.000Z</updated>
+    <summary>조선일보</summary>
+  </entry>
   <entry>
     <title>GodotでAIを使ってスプライト、ピクセルアート、タイルを作る方法</title>
     <link href="https://zenn.dev/zivaengine/articles/f68112e1c7c433"/>
@@ -44,10 +79,10 @@
   </entry>
   <entry>
     <title>どう使ってる？ 先生たちの生成AI活用術「ロイロTV 拡大版」を11/17から全5回、オンラインで無料配信</title>
-    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE8zalVodkpUS0N0SWpSY0lYV01IMWhkYmpqbDBKQ0JjX0FCcDNQUC1lZGV4NEk3LW9YbW9pMnFCc0s3U0R2WE1FX0RVLXNOWXNEY2pWOXdmZDFUbkE3cGFOaEdhRTdJYWxnWHhiUVRVYVgwZ091?oc=5"/>
+    <link href="https://news.google.com/rss/articles/CBMickFVX3lxTFBVM3hlQ0t1RUQxREtpOW5OMjhSZ3F4VHQzZTg5VmZIQnQwZWFrRjNnZ1lINzhXa0ZBVUtnLWhfN0o1WXNjX0YyUkgtWmpNVGgwZTVHSUJNb1Fza0Y0emRsVlBITXFpbHlFNm5vTmlMdVV6QQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#6da222b02686</id>
-    <updated>2026-11-06T15:15:00.000Z</updated>
-    <summary>Excite エキサイト</summary>
+    <updated>2026-11-06T15:15:32.000Z</updated>
+    <summary>Infoseek</summary>
   </entry>
   <entry>
     <title>米アマゾン、テキスト型Alexaショッピングを公開－AIエージェント競争激化</title>
@@ -218,13 +253,6 @@
     <summary>Zenn ／ ! この記事の情報は 2026年11月時点のものです。最新情報は公式サイトを確認してください。 はじめに この記事で分かること： Claude Code の始め方（VS Code の拡張機能・ターミナル） チャットで気を付けたいセキュリティ プランの選び方 この記事は3回シリーズの2回目です。Claude ファミリー…</summary>
   </entry>
   <entry>
-    <title>ChatGPTとCodexで共通利用する開発SkillをGitHubで一元管理してみる</title>
-    <link href="https://qiita.com/tokebi/items/e53a1eb65ab6f1424ff0"/>
-    <id>https://aimatome.gamelab.website/#d849b89f28a7</id>
-    <updated>2026-11-06T12:37:22.000Z</updated>
-    <summary>Qiita ／ はじめに ChatGPTで仕様を整理してGitHub Issueを作成し、Codexで実装、その後ChatGPTでPRレビューする流れで個人開発を進めています。 この運用を続けていると、毎回同じ開発ルールを指示する場面が増えてきました。 そこで、プラットフォームや言語に依存...</summary>
-  </entry>
-  <entry>
     <title>売られすぎ、でも業績は崩れていない――AI・半導体「リバウンド候補20銘柄」決算・PER・下落率で選び抜いた“次の反発の主役”</title>
     <link href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE10RWw5cVdSSWRXb0t2NGxIcEZYRUZzTHlmTlRZQUFwakNlT21oMnluQVkwZlROYllTMk4wcm01UkNzVld3cXJnU1hJSThzWDRaX1NFa3ZCaURqV0k?oc=5"/>
     <id>https://aimatome.gamelab.website/#6851019129a3</id>
@@ -281,18 +309,11 @@
     <summary>Zenn ／ 本番環境に攻撃の兆候が来ていないかを、AIエージェントが平日の朝に確認して、判定付きのレポートを作るルーティンを動かしています。 動かし始めて1週間で、判定の基準を3回変えました。最初は「何かが起きたら赤」でしたが、それだと社員の普段の作業でも毎週赤になります。最後は、何が起きたかではなく、人が動く必要があるかで色を…</summary>
   </entry>
   <entry>
-    <title>【『救命病棟２４時』の爆発シーンに生成ＡＩ】フジテレビ、一部工程の工数最大８０％減――ドラマ制作はどう変わる - https://kabu-ir.com/</title>
-    <link href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uU3pURFhmMTVXeGFxdGN0S1RzbEhvQU9teGdIS05qRG9KNXFvdDlGNXRuQnRkT3R5XzFpM1RNY2lYdGdabDR2WWEzOWFtbkEwSGgzQw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#0fab38c3fc7a</id>
-    <updated>2026-11-06T11:47:56.000Z</updated>
-    <summary>https://kabu-ir.com/</summary>
-  </entry>
-  <entry>
-    <title>米民主党、ＡＩ規制法案を多数提出へ 共和党路線から転換（ロイター）</title>
-    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE50aEVPUE40U1pxUHBvc29wVXVpMVduYmlKLWxVcEJWX0tKMVpveDZoV3F6MHFBUDdRQzVlbEh6VmpkeWNsUkJBMVczRHV2cWlHYTVPQmVBdzM4RUx3dXFwYWM2T2k1azQ0NGlyWE56bk9uYmVKSjdsanhQWmtzWlU?oc=5"/>
+    <title>米民主党、ＡＩ規制法案を多数提出へ 共和党路線から転換</title>
+    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9KWkhmZHVsUXdhNEN5TzJjWnE4V0otN2JEVVVLSF9XeDVkdTNtU2J0NGtrU1hoeVFqVnV4UFlLbVJNbGduRklZOWVpbjZ2M1dWNjV2QU55R0JxZmMwTjdOOWY4R0hhelVjYnRIaDV5eTVWWEQxU2hzSFJkNkc5NFk?oc=5"/>
     <id>https://aimatome.gamelab.website/#f0b667dc69a0</id>
-    <updated>2026-11-06T11:44:22.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
+    <updated>2026-11-06T11:45:44.000Z</updated>
+    <summary>Reuters</summary>
   </entry>
   <entry>
     <title>エージェントスキルの定量検証をしよう</title>
@@ -335,26 +356,5 @@
     <id>https://aimatome.gamelab.website/#bd8286d8ba83</id>
     <updated>2026-11-06T11:10:25.000Z</updated>
     <summary>株式会社インプレス</summary>
-  </entry>
-  <entry>
-    <title>AIによるネットワーク攻撃能力は4～5か月ごとに倍増し、プログラミングの進化速度に追いついた。防御側「パッチウィンドウ」はゼロに近づいている。</title>
-    <link href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE85UTE2SEpMZGx2VnI3cnUwZ204bHlQWjBtN0hwTnlpV2VEYXAxSHlhSERoOXBqTXpoSGN3aUVycWJKNlR5NmpfRGM1ZWU4UFB5cEFWbFNmUElHR1Zl?oc=5"/>
-    <id>https://aimatome.gamelab.website/#975a5260bbbf</id>
-    <updated>2026-11-06T11:07:23.000Z</updated>
-    <summary>深潮TechFlow</summary>
-  </entry>
-  <entry>
-    <title>AIのスキルの手順を二重管理しない：SKILL.mdを正本に、READMEは入口だけにする</title>
-    <link href="https://zenn.dev/madao1981/articles/20261021-skill-md-readme-split"/>
-    <id>https://aimatome.gamelab.website/#79161bb59f02</id>
-    <updated>2026-11-06T11:00:05.000Z</updated>
-    <summary>Zenn ／ スキルの手順を SKILL.md と README.md の両方に書いておくと、片方だけ直して食い違いが出ることがあります。スキルを改名したときも、本文や呼び出し例に旧名が残ることがあります。この記事ではその状態を作って確かめました。確かめたのは Claude Code のスキルで、コマンドや置き場所もそれに合わせて…</summary>
-  </entry>
-  <entry>
-    <title>【生成AI】伝わるプロンプトの考え方と資料作成を実践しながら学ぼう！無料セミナー「はじめての生成AI活用講座」（全2回）</title>
-    <link href="https://news.google.com/rss/articles/CBMiQkFVX3lxTFBpYXJoQXUzc2VBcVE5eTMzOHpNa2lRTjM4bUp0VVBIRWEwUjBnbi1hcUxwaGRjNHA5ZGgwZ3hvMTZKQQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#61e5b5b1080f</id>
-    <updated>2026-11-06T11:00:01.000Z</updated>
-    <summary>PR EDGE</summary>
   </entry>
 </feed>
