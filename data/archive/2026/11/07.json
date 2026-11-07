@@ -1,5 +1,58 @@
 [
  {
+  "id": "5c133294cf79",
+  "title": "PMとして、資料レビューをClaudeで3回回す仕組みにしたら、同じ指摘をされなくなった話",
+  "url": "https://qiita.com/anago__/items/17c160fe3b0cc7a1c093",
+  "source": "Qiita",
+  "summary": "はじめに PMとしてソフトウェア開発のクライアントワークをしています。資料のレビューをClaudeで3回回す仕組みを作り、一度受けた指摘を次の資料で受けずに済むようになりました。きっかけは、一緒に働いていた統括PMに資料作成が速い理由を聞いたことです。 統括PMは、資料...",
+  "publishedAt": "2026-11-07T10:30:06.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a399c2862e64",
+  "title": "osFoundryのCodeとIDEとは?AIエージェントの並列作業をマージ前に確かめる使い方",
+  "url": "https://qiita.com/tauchiii/items/6c1e68cc63f707ce37f4",
+  "source": "Qiita",
+  "summary": "金曜の夕方、個人開発のECサイトで、AIエージェントに3つのタスクを同時に頼んでいました。端数の丸め修正、割引コードの追加、価格表示のテスト追加です。3つとも「完了しました」と返ってきたものの、そのままmainに入れてよいのかは分かりません。同じ関数を2つのエージェントが書...",
+  "publishedAt": "2026-11-07T10:19:44.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b99621a39fd7",
+  "title": "【Chrome】Obsidian Web Clipperの使い方と保管庫の設定方法【備忘録】",
+  "url": "https://qiita.com/ookami_reo/items/11add8791d9a5b50c783",
+  "source": "Qiita",
+  "summary": "Obsidian Web Clipperとは？ Obsidianには保管庫というメモ帳のようなものがある。 このメモ帳にwebページをメモとして登録することができるChromeの拡張機能のこと。 Obsidian Web Clipperの追加方法 このページから拡張機能...",
+  "publishedAt": "2026-11-07T10:10:26.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "82d136ba33c4",
+  "title": "なぜAIの文章は「正しいのに読みづらい」のか？最新論文が暴いた「AI臭」の正体",
+  "url": "https://qiita.com/lumichy/items/fa746e98b5fa8f5e2326",
+  "source": "Qiita",
+  "summary": "「これは単なるアップグレードではなく、深遠な変革です。あなたを代替するのではなく、エンパワーするツールなのです——」 SNSや技術ブログ、あるいは社内ドキュメントでこうしたAI生成文（いわゆる「AI臭」「AI味」のある文章）を目にした瞬間、なんとも言えない脳の疲労感を...",
+  "publishedAt": "2026-11-07T10:06:44.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "908de6da2179",
   "title": "METRが発表、AIがAnthropicの研究速度を2倍に",
   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRU1uZndDVmFBYUNTYWNEb1JJWS1YeWRBVDlreE1oQ1VFcWFXei1UVEQ1dXVndnhCZ1Vub1ozeVNBQndkM29ZS214YldVV3oxZlJRelJld3hYLVBKOFVuMXlUbUhGWEFBZjZJck5qd2lqcFdoUWZmWk1ieGpDa2kwbC10ckdIeFU?oc=5",
@@ -265,8 +318,8 @@
  {
   "id": "6a8b68eb00a2",
   "title": "桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】",
-  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80NDdwSkpOUGY4QmVKLWk2RzJFWDJjcU1rbUVueFFKbUlEMEpSZURlYWVVMlFFeDAzcUxZNFdKUUYwYU5RZkNUZkZ6anFGOG9pSFBVMkFrdw?oc=5",
-  "source": "ファミ通",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NM19nektkbW9NQW16ZHZwb2VsbmN4TnVnVHhEWGZyX2tzLU5UWXlDckRuSXdUeHdkcTVmWHNwdlBILUN0czVvcnBmcm5IZzFtZEJKVW9OMU1XTDZGRmhTNm1yZHFsODM0dVplLUJDQncxcVR1Tlhscy1JMzhFeTg?oc=5",
+  "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-11-07T07:42:00.000Z",
   "image": "",
@@ -747,6 +800,19 @@
   "source": "Zenn",
   "summary": "はじめに 以前の記事「週末 Solo Engineer が、Claude Code に「仕事の型」を覚えさせた話」で、Claude Code の手元に「二重の安全装置」を置いていると書きました。GitHub のブランチの保護（有料の機能）を使っていないので、main への push を、Claude Code のフッ…",
   "publishedAt": "2026-11-07T04:27:20.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ee172c592127",
+  "title": "韓国のNaver・Kakao、広告運用までAIに委任へ…「広告アシスタント」競争が点火",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pSmw5emNJNkZvYmliTTJMMk9TS3owNFFqUk9PY1oyYWozR1Y4QUtTeE1LZm95RUg1VUVVT05uUlBHdlVRX0RId3FIZlBoaXVHbHVldW1sVnZyQ1VxSnJ3SldXaTBCUHk4NG80bHAtSFhGNVRR?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-07T04:25:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -1358,6 +1424,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "24cbb733d00e",
+  "title": "ChatGPTは質問に答えるだけでなく、インタラクティブなツールも作れる",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUW9oQjdyc1IxQmNabGRkUkZmT2VkQ01iUUZoejNVTGIxdnY4UTN2T0wtVGRXM2plWmxUXzlRQlNYMTByNFFPTllZeHFFSW94bHdqa3ZRR2NqZ3pjRWd3T1Vrbk9jXzFEaFgyR3VNeGt1Q29CVl9JN0xKbEJrcHY4b1FhWm0yaF9CbmUzbkJIdGdjZzNPRXpVNHBBc3ZoZw?oc=5",
+  "source": "Mezha.net",
+  "summary": "",
+  "publishedAt": "2026-11-07T02:06:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -2191,6 +2270,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "80362dd8072c",
+  "title": "上場企業、純利益43％増 AI需要、幅広く波及 9月中間（時事通信）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3Z2xkT2dxWDlLWmlnX3pGZjZzNWxveDVpeXMxdldsbldud0t5M1BkOGM1X2JMY2ZvM3EtQXhZaDh5SUNCRzBWN014S0NHcXBYZEtheVF2R1BfbThSanM1akh4TzZnVUw0Z3U3ZkNzYktBRlJOWnJvbXBqeDY2ams?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-06T23:08:00.000Z",
+  "image": "",
+  "categories": [
+   "business"
   ],
   "isPR": false
  },
