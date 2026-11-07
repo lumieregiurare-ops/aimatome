@@ -1,5 +1,85 @@
 [
  {
+  "id": "f86494c0fd30",
+  "title": "Herdr のターミナル UI は、仕事をしっかりこなす。Shepi は、その作業を Mac でもっと快適にする。",
+  "url": "https://zenn.dev/xwiox/articles/d0f5e6dca4b435",
+  "source": "Zenn",
+  "summary": "公式サイト：shepi.app 複数のAIコーディングエージェントを同時に動かすとき、難しいのはタスクの指示だけではありません。ローカルでAPIを変更するエージェント、テストを確認するエージェント、サーバでデータを処理するエージェント。誰がまだ作業中で、誰がこちらの返事を待っているのか、何度もターミナルに戻って確かめ…",
+  "publishedAt": "2026-11-07T12:50:15.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "056e363561d5",
+  "title": "なぜ企業はAI駆動開発に取り組めないのか",
+  "url": "https://zenn.dev/matsunaopen/articles/ai-driven-dev-adoption-barriers",
+  "source": "Zenn",
+  "summary": "個人の開発ではAIエージェントに実装の大部分を任せるようになったのに、会社の開発では同じようにできない。そうした状態にある開発者やテックリードがいます。 DORAの2025年の調査では、回答者の90%が仕事でAIを使っていると答えました（Google Cloud）。ただ、仕事でAIを使っていることと、実装の大部分を任…",
+  "publishedAt": "2026-11-07T12:49:06.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "581d0ea2baa9",
+  "title": "所要時間わずか 0.008秒、Excelドックが完成するもなぜか診断の道具としか見てなかったAI達の話",
+  "url": "https://qiita.com/shu15511551/items/9f60d7babe242d49b808",
+  "source": "Qiita",
+  "summary": "はじめに ―― 威勢よくぶち上げたものの、現実は甘くなかった 前回の記事で、世界中を賑わせているリバースエンジニアリングMCP「REA」の解剖思想に衝撃を受け、エクセルのシート全体を骨と病巣まで丸裸にする**『Excelドック構想』**を高らかに宣言しました。 話題の世...",
+  "publishedAt": "2026-11-07T12:46:00.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e0e81e55c7a0",
+  "title": "「実装完了」のはずが、中心機能が動いていなかった話",
+  "url": "https://zenn.dev/dev_to_earn/articles/92c1f67ad02ec2",
+  "source": "Zenn",
+  "summary": "結論 Claude Codeに睡眠アプリを作らせたところ、完了報告は「全STEP完了、ビルド・型チェックともにエラーゼロ」でした。 ところが約半年後にコードを開くと、アプリの中心だったiPhoneのヘルスケア（HealthKit）連携は、実際には動いていませんでした。 読み込もうとしていたパッケージは、npmに名前だ…",
+  "publishedAt": "2026-11-07T12:41:21.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2ce6ffa4ebb9",
+  "title": "Xのいいねとリポストを、AIブラウザで整理",
+  "url": "https://zenn.dev/zhaojiayi/articles/9549a83ebf3324",
+  "source": "Zenn",
+  "summary": "Xで「いいね」したものを、あとから見返すことがほとんどない。気づけばいいねが数百件たまっていて、何に反応していたのか自分でも分からない。 そこで「1週間に1回、自分のいいねとリポストを整理して、今週の関心の変化を眺める」仕組みが作れないかと考えた。結論から言うと、AIエージェントにAIブラウザのSkillを持たせて、…",
+  "publishedAt": "2026-11-07T12:36:09.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "af44c061e396",
+  "title": "【Meshy vs Tripo vs Hyper3D】3D生成AIはどれが良い？同じイラストで比較してみた",
+  "url": "https://zenn.dev/daichi_gamedev/articles/3dai-compare",
+  "source": "Zenn",
+  "summary": "はじめに 大手の3D生成AIであるMeshy、Tripo AI、Hyper3Dに同じイラストを読み込ませて、どれが一番使えるかを比べてみました。1年ほど前に試したときは顔がぐちゃぐちゃでまだ使えないなと思っていたのですが、今回試してみたら精度がかなり上がっていて驚きました。 比較の条件 使ったのは騎士、ソウル系の主人…",
+  "publishedAt": "2026-11-07T12:28:58.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "d1988d606465",
   "title": "Gemini のレビューは補助資料止まりだった。バグ修正 PR 40 件で Claude と匿名のレビュー対決をした（全 3 回）",
   "url": "https://qiita.com/kassyi/items/2fa07add4ba4b0957f79",
@@ -23,6 +103,19 @@
   "image": "",
   "categories": [
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8e24375838f3",
+  "title": "失敗を記録に残して設計に返す ― 「失敗記録」の育て方",
+  "url": "https://zenn.dev/ai_secretary/articles/a887c02269a13d",
+  "source": "Zenn",
+  "summary": "失敗は「なかったこと」にしない AIで副業や自動化を回し始めると、失敗は必ず出る。投稿がスパム判定を受けた、作った商品が売れなかった、タスクが夜中に止まっていた。問題は失敗そのものではなく、失敗を記録に残さず、同じところで二度つまずくことだ。 そこで私は、運用ルールのファイルの中に「失敗記録」というブロックを最初から…",
+  "publishedAt": "2026-11-07T12:00:12.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -67,6 +160,19 @@
   "isPR": false
  },
  {
+  "id": "e43bc0ae2173",
+  "title": "完成形のひとつ手前",
+  "url": "https://zenn.dev/vbaman/articles/f59f101e55ffbf",
+  "source": "Zenn",
+  "summary": "ゲームの処理やアプリの処理を作っていると、完成形よりもずっと手前で、ひとつの仕組みができあがることがある。 今回はGodotで作っている通行人の制御処理。 画面の左右から通行人が現れ、それぞれ違った速度で移動する。途中で立ち止まり、また動きだす。 見た目だけなら、左右から人が歩いてくるだけのシンプルなものだ。 ところ…",
+  "publishedAt": "2026-11-07T11:49:03.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "28d0aafe6a9a",
   "title": "米半導体株指数が12.25%急落、6年ぶり下落率―6日は反発も選挙後のAI投資減速懸念くすぶる",
   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iTmFtSzVSOVduckZrdmhKdzVkYlZvN1o0LTUtdU1EMGk3SG5RNFo4U2k1eXdLLUhUY0ctVUswVTdZX3FxQUczRkdpeFhWejlsMzEzdmZhRDMwZkx1YU5WV2dXQdIBaEFVX3lxTE0xeURtQnhySU1CeXNnaHJrVmlOVDNudlM0Rl9ETHdwOW9UcUtrQmVTS0RNMWdnNjFqdS1TQlY0Qi1RVDZXU2VCVks2UVgzY3dLOXY5M2hDM2duZHgzcGFLd3N1d2ZDbk9P?oc=5",
@@ -107,12 +213,38 @@
   "isPR": false
  },
  {
+  "id": "9edf23f1623d",
+  "title": "小学生の頃のゲームのアイデアを、コードを一度も見ずにClaudeで実装してみた",
+  "url": "https://zenn.dev/yuki_h_94/articles/de8f05e59f29b5",
+  "source": "Zenn",
+  "summary": "はじめに 小学生の頃、ノートの端っこにゲームのアイデアを書き散らしていた。ドカポンみたいなすごろくに、ドラクエみたいなRPGを混ぜたら絶対おもしろい、と思っていたのだ。でも、紙とえんぴつだけではマップもモンスターもルールも収拾がつかなくなって、いつの間にか投げ出してしまった。 それから20年。今ならAIがある。あのと…",
+  "publishedAt": "2026-11-07T11:46:39.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "baa539138afa",
   "title": "AIのオープンモデル利用率が大きく拡大中、オープンウェイトモデルとクローズドウェイトモデルの違いは何か？",
   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkZHJPalZMbGR5SVkyNGs1V3dpQ2pDNUo4WVNrUlBYSi12NDhqRlRWLW5EUGxFU0FhdVU3dElGTmRmT3h0T0tndHZuNW9abWpIbDhxcjl3VEJoSUkwT3VIT2g3TzI?oc=5",
   "source": "GIGAZINE",
   "summary": "",
   "publishedAt": "2026-11-07T11:44:16.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5b29eda32c95",
+  "title": "StringとString?は別物だった。Kotlinのnull安全にベテランが戸惑った話",
+  "url": "https://zenn.dev/shinchi007/articles/0e4631e3b27a70",
+  "source": "Zenn",
+  "summary": "連載『C言語育ちのベテランが、AI片手にKotlinとSwiftを学んだ記録』第2回 結論から言うと Kotlinで最初に面食らったのは、null安全の仕組みでした。結論を先に書くと、こういうことです。 Kotlinでは「nullが入る型」と「入らない型」が、型そのもので区別されている CやJavaの感覚で「とりあえ…",
+  "publishedAt": "2026-11-07T11:43:04.000Z",
   "image": "",
   "categories": [
    "other"
@@ -129,6 +261,33 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "63fe9810cd69",
+  "title": "データとAIエージェントで変わる「レガシー刷新」の勝ち筋",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4WXU3NDJPdkl5dUZ4U2xnSHlLR0RnNmJ0VzJwaWdGNHBXcTB4d0VIWDFfdU5kYW5JdjhxQm5MYkN5emQ4V2FhbTdkQmtJQ2xGRjN2SjlDU2FJTkFuSndv?oc=5",
+  "source": "日経クロステック",
+  "summary": "",
+  "publishedAt": "2026-11-07T11:38:13.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5fb70f206351",
+  "title": "2026年MicrosoftのAI戦略と日本への影響について考える",
+  "url": "https://zenn.dev/sunsun_eng/articles/microsoft-ai-strategy-2026",
+  "source": "Zenn",
+  "summary": "この記事の要点 MicrosoftはAIに注力し、新しい製品とサービスを推進しています。 日本市場での影響は大きく、エンジニアに新しい機会が広がります。 AIとクラウドの融合が進むことで、ビジネスモデルの変革が期待されています。 Microsoftの…",
+  "publishedAt": "2026-11-07T11:37:11.000Z",
+  "image": "",
+  "categories": [
+   "infra",
+   "dev"
   ],
   "isPR": false
  },
@@ -155,6 +314,33 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5b0bf14c86b6",
+  "title": "AIエージェント2体が実機1台を同時に触って、テストが壊れた。マルチエージェント運用に排他制御が要る",
+  "url": "https://zenn.dev/yk_studio/articles/two-agents-one-device",
+  "source": "Zenn",
+  "summary": "AIエージェントに役割を割り振ってアプリを作っています。実装、QA、デザイン、法務、秘書。それぞれ別のセッションで動いていて、並行に進むぶん速い。 8月15日、その並行性が牙を剥きました。 実装担当が絵本アプリのE2E検証を回している最中に、秘書担当がストア掲載用のスクリーンショットを撮りはじめました。同じ端末で。 …",
+  "publishedAt": "2026-11-07T11:30:09.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "051379785854",
+  "title": "室温を自動制御・監視する",
+  "url": "https://zenn.dev/kinon/articles/4c35381b3fcdc1",
+  "source": "Zenn",
+  "summary": "背景と目的 エアコンの温度指定があまり実際の室温を制御できていない 特に寝ているときに寒くなっていたり！ 既存の室温監視系（ラズパイ・AM2302）の値を元に制御したい 昔やろうとしたエアコン制御の残骸を活かしたい 手元にあったもの ラズパイ（骨董品のRaspberry Pi Model B Rev 2） エアコン（…",
+  "publishedAt": "2026-11-07T11:26:44.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -211,6 +397,33 @@
   "isPR": false
  },
  {
+  "id": "145fc8e5728e",
+  "title": "Kotlin 学習用の Todo アプリで、AI にコードを書かせないと決めた話",
+  "url": "https://zenn.dev/genkichi/articles/kotlin-todo-ai-does-not-write-code",
+  "source": "Zenn",
+  "summary": "はじめに はじめまして、げんきちです。今回が Zenn への初投稿になります！ これまでは Java を使った Web アプリケーションの開発を経験し、現在は Android アプリの開発に携わっています。 せっかく Android 開発に携わるなら、Kotlin もしっかり身につけたい！ ということで、個人でも学習…",
+  "publishedAt": "2026-11-07T10:53:47.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "41825d4a0f3e",
+  "title": "ChatGPTの開発元企業の評価額​​は1兆2500億ドルである。",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tX2RrendDVzhnazYyVVhvaXFiNGYxLS1KcGdHUkdNdDZtNVUwUGNMZU1ZMWpsSkZSbGVmVkpvdU9Cb19FdnhvcEpMdDRSSDlwN182aEdHcE9vOThxQUlNTnphbnBOTVhnTXdjOWZtSmZ1MW9xNXc?oc=5",
+  "source": "Vietnam.vn",
+  "summary": "",
+  "publishedAt": "2026-11-07T10:43:38.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
   "id": "48026eef74ee",
   "title": "【宿曜占星術 × 生成AI】いにしえの占術を、対話するAIに",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53MW55VVJzNmJXcWk4bkxYUE1fY3V5YU9OUlJrZjVlRWo4eUlMVjRGdDFLRkJwMy0tQ3FtQU1ENUlwaEVtTUJDZVdoSE9kZHBIWXNiUWhsaFNyZW1zUTFQeWpEMUxRR05QX1NWUjRsQ0hMZw?oc=5",
@@ -256,6 +469,19 @@
   "source": "Qiita",
   "summary": "はじめに PMとしてソフトウェア開発のクライアントワークをしています。資料のレビューをClaudeで3回回す仕組みを作り、一度受けた指摘を次の資料で受けずに済むようになりました。きっかけは、一緒に働いていた統括PMに資料作成が速い理由を聞いたことです。 統括PMは、資料...",
   "publishedAt": "2026-11-07T10:30:06.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c9e240ed104f",
+  "title": "Googleの大規模言語モデル「Gemini」を使いこなす",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaU9nZ0twWUpVSTlOc1B0dGItcVRzbkp0d013WU55MXJER1lEUmZIdUFReXZwbko3aXktZmJmUjBvaFloN19wYWJheUNsU1gtZm03anhRR1BRenFlYkMxeHpscG02TXg0YXBIV0ZTZjNrUlY0U1ptcG9pd2pGcFV6ckhzdmhnN2JfWEhES1gwZGNPeXJTUlhyaVg1OXlWYU1xWWpYWUxiMzUtVmxDYjd1aFVQdUVwcWJLQVlJRktkMFJRbGg4RU1INDFzS3hGZw?oc=5",
+  "source": "日経クロステック",
+  "summary": "",
+  "publishedAt": "2026-11-07T10:28:15.000Z",
   "image": "",
   "categories": [
    "other"
@@ -2368,7 +2594,7 @@
   "source": "Zenn",
   "summary": "GPT-6 AstraにQwen3.5-0.8Bの重みを編集させることができたという論文が話題です。 https://x.com/rikiyatakehi/status/2117313742891327994 Xで反応を見ていると、AstraがQwenの重みを丸ごと読み込んで、その数値の意味を理解したように受け取られ…",
   "publishedAt": "2026-11-07T00:57:13.000Z",
-  "image": "",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fnwn%2Farticles%2Fcf9fe78aa33861",
   "categories": [
    "model"
   ],
@@ -3127,19 +3353,6 @@
   "categories": [
    "product",
    "policy"
-  ],
-  "isPR": false
- },
- {
-  "id": "8e24375838f3",
-  "title": "失敗を記録に残して設計に返す ― 「失敗記録」の育て方",
-  "url": "https://qiita.com/ai_secretary/items/7ea145fc0ebe0fc777ea",
-  "source": "Qiita",
-  "summary": "失敗は「なかったこと」にしない AIで副業や自動化を回し始めると、失敗は必ず出る。投稿がスパム判定を受けた、作った商品が売れなかった、タスクが夜中に止まっていた。問題は失敗そのものではなく、失敗を記録に残さず、同じところで二度つまずくことだ。 そこで私は、運用ルールのファ...",
-  "publishedAt": "2026-11-06T22:23:02.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
