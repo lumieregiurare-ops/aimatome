@@ -1,5 +1,57 @@
 [
  {
+  "id": "622747cd0d64",
+  "title": "AIがお金を使う前にスマホで聞いてくれる「AIの財布番」を作りました",
+  "url": "https://zenn.dev/saihu/articles/951271fa23e4ea",
+  "source": "Zenn",
+  "summary": "AIにいろいろ任せるようになって、「これ、AIが勝手に課金したら止められないな」と思ったのがきっかけです。 これからはAIが買い物をしたり、サービスに申し込んだりするのも普通になっていくと思います。そうなる前に、AIのお金の使い方を自分で管理できるものが欲しくて作りました。 https://ut181749ut.gi…",
+  "publishedAt": "2026-11-07T14:53:05.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "71e3d7ea0860",
+  "title": "今日の市場ブリーフィング",
+  "url": "https://zenn.dev/bambampurin/articles/2026-09-24-market-daily",
+  "source": "Zenn",
+  "summary": "日経平均65,018円突破でも米国株が横ばいとなった3つの構造要因：2026年9月24日市場データ解析 この記事で分かること 日経平均65,000円台到達の背景にある半導体・ハイテク銘柄の牽引構造 米10年国債利回り5.16%上昇とドル円158.81円の円安が与えるマクロ的影響 上昇（レーザーテック等）と下落（トヨタ…",
+  "publishedAt": "2026-11-07T14:25:23.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ee48b50ef4df",
+  "title": "普通では撮れない運転データを作る (悪天候・災害・事故の一歩手前)",
+  "url": "https://zenn.dev/oggata/articles/7310903e55cb78",
+  "source": "Zenn",
+  "summary": "Colab: ch12_5_rare_events.ipynb 雪道でタイヤが滑る。土砂崩れで道がふさがり、車が泥にはまって動けなくなる。冠水した道に入ってしまう。 自動運転や運転支援を作るうえで、一番ほしいのはこうした場面のデータです。ところが、こ…",
+  "publishedAt": "2026-11-07T14:24:27.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f2d389d0c5a7",
+  "title": "農業×AI週間トレンド 11/4〜11/7",
+  "url": "https://zenn.dev/unagi_labo/articles/ebf13dcdc0434f",
+  "source": "Zenn",
+  "summary": "! 本記事は、生成AIを使って作成しています。 情報の収集・要約・執筆にAIを使っています。 内容に誤りを含む可能性があります。 数値や発表の詳細は、各項目のリンク先 (一次情報) でご確認ください。 挿絵は画像生成AIによるイメージ図のため、実際の製品や現場の様子とは異なります。 このブログでは、国内外の農業分野で…",
+  "publishedAt": "2026-11-07T14:23:44.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b370f2427067",
   "title": "「AIが人間に完全敗北した瞬間」――Google社員がGemini 4で動かした『時のオカリナ』移植",
   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB4Z0lEOHdWU18yNGN5VXF0cFBlREEzbm1KZ2dBQXF4REFTbWdmZlZFWlI4a1FRVEtwdlFsUFVXd0tWdw?oc=5",
@@ -9,6 +61,19 @@
   "image": "",
   "categories": [
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dae4ff0165ed",
+  "title": "Vercel Labsのagent-browserを試す: アクセシビリティツリーでAIエージェントがブラウザを操作する",
+  "url": "https://zenn.dev/matsushima_a/articles/day-039-agent-browser-accessibility-tree",
+  "source": "Zenn",
+  "summary": "概要 Vercel Labsが公開しているagent-browser(Apache-2.0)は、AIエージェントにブラウザ操作をさせるためのRust製CLIである。 スクリーンショットをVLM(視覚言語モデル)に渡す方式ではなく、ブラウザのアクセシビリティスナップショットをテキスト/JSON化し、各要素に@e1のよう…",
+  "publishedAt": "2026-11-07T14:22:50.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -35,6 +100,32 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2688c52ca949",
+  "title": "Claude Codeの操作をルールで止める仕組みと限界",
+  "url": "https://zenn.dev/tomsolog/articles/20261010-claude-code-permissions-guide",
+  "source": "Zenn",
+  "summary": "この記事で伝えたいこと Claude Codeにやってほしくない操作は、お願いではなく、ルールで止められます。ただし、止まらない操作もあります。 お願いにあたるのがCLAUDE.md（Claudeへの指示を書いておくファイル）、ルールにあたるのがpermissions（権限設定）です。permissionsは、AIの…",
+  "publishedAt": "2026-11-07T14:06:31.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0cdbe83049cd",
+  "title": "Claude CodeからAPIキーなどの秘密情報を守る設定",
+  "url": "https://zenn.dev/tomsolog/articles/20261104-claude-code-permissions-quickstart",
+  "source": "Zenn",
+  "summary": "この記事で伝えたいこと APIキーのような秘密の情報や、共有先のコードを、Claude Codeから守るための設定を紹介します。 秘密の情報は、.envというファイルに書いておくことが多いです。このファイルを読ませないようにし、変更を共有先に送る操作（git push）の前には確認を出させます。どちらも、設定ファイル…",
+  "publishedAt": "2026-11-07T14:06:11.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -1081,6 +1172,20 @@
   "isPR": false
  },
  {
+  "id": "c7978c721fd3",
+  "title": "【写真・画像】国会答弁の作成支援するＡＩ導入 政府職員の負担軽減、デジタル庁 | | 全国のニュース",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1XWFo4R1cxVkhVZURNcG02M2l2TDYyMzByZkMxbmZEYS1IOEVtWUtEaEtDdEgyQUhZWFpRem9XcFNqQmZVanh0T1lRVUFwc245dDNhT3BiZmFyVzZkNVE?oc=5",
+  "source": "佐賀新聞",
+  "summary": "",
+  "publishedAt": "2026-11-07T08:38:17.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "5c63fb25bece",
   "title": "Orca入門 ― 複数のAIエージェントを並列で動かすADEの日本語ガイド",
   "url": "https://zenn.dev/mar_kun/books/orca-ade-guide-jp",
@@ -1807,20 +1912,6 @@
   "isPR": false
  },
  {
-  "id": "c7978c721fd3",
-  "title": "【写真・画像】国会答弁の作成支援するＡＩ導入 政府職員の負担軽減、デジタル庁 | | 全国のニュース",
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DeWVJajlVRXJUbGt0Zk84Vk1TbFJtQ3pYVF9aX0RyWWVoOWZpdGthSmtRUnJyQlk3c29JOURwZlA0c1lQd0pJYlEwblpzeUxmbEI4R2FhbHgwQjI5eGJjaFAwX1U?oc=5",
-  "source": "佐賀新聞",
-  "summary": "",
-  "publishedAt": "2026-11-07T04:31:46.000Z",
-  "image": "",
-  "categories": [
-   "policy",
-   "case"
-  ],
-  "isPR": false
- },
- {
   "id": "4c28c0f489ae",
   "title": "ブランチ保護のない private リポで、Claude Code の main への push を止める守りを「割り切って」作り直した話",
   "url": "https://zenn.dev/sk8jp/articles/937288f65fcfab",
@@ -2361,6 +2452,20 @@
   "isPR": false
  },
  {
+  "id": "f1260257dde1",
+  "title": "Weight-Space Programming やってみた(やらせてみた)",
+  "url": "https://zenn.dev/nwn/articles/cf9fe78aa33861",
+  "source": "はてなブックマーク",
+  "summary": "GPT-6 AstraにQwen3.5-0.8Bの重みを編集させることができたという論文が話題です。 Xで反応を見ていると、AstraがQwenの重みを丸ごと読み込んで、その数値の意味を理解したように受け取られている場面がありました。実験でAstraがやったのは、コードを書いて対象モデルの重みや内部活性を調べ、挙動の…",
+  "publishedAt": "2026-11-07T02:39:58.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fnwn%2Farticles%2Fcf9fe78aa33861",
+  "categories": [
+   "model",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "114762bc00eb",
   "title": "AIコーチング「Skill Boost（スキルブースト）」を運営する株式会社インテンション、FM大阪『おふらじ！EX』の復活・継続放送を支援",
   "url": "https://ascii.jp/elem/000/004/449/4449531/?rss",
@@ -2780,19 +2885,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "f1260257dde1",
-  "title": "Weight-Space Programming やってみた(やらせてみた)",
-  "url": "https://zenn.dev/nwn/articles/cf9fe78aa33861",
-  "source": "Zenn",
-  "summary": "GPT-6 AstraにQwen3.5-0.8Bの重みを編集させることができたという論文が話題です。 https://x.com/rikiyatakehi/status/2117313742891327994 Xで反応を見ていると、AstraがQwenの重みを丸ごと読み込んで、その数値の意味を理解したように受け取られ…",
-  "publishedAt": "2026-11-07T00:57:13.000Z",
-  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fnwn%2Farticles%2Fcf9fe78aa33861",
-  "categories": [
-   "model"
   ],
   "isPR": false
  },
