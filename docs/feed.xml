@@ -5,8 +5,36 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-07T18:00:19.429Z</updated>
+  <updated>2026-11-07T18:30:21.539Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>ChatGPTとClaudeのサンドボックス実行テストで鍛え上げられた、超軽量エージェント通信プロトコル toai-elegant-lang v5.4.4 を公開しました</title>
+    <link href="https://qiita.com/TOAI/items/5ad1b7b165b7a1497553"/>
+    <id>https://aimatome.gamelab.website/#f4d1dc130f45</id>
+    <updated>2026-11-07T18:18:07.000Z</updated>
+    <summary>Qiita ／ 自律型AIエージェント（MCPやA2Aなど）が互いに通信する際、「冗長な自然言語」や「ネストされたJSONスキーマ」をそのままワイヤに流すと、トークン消費とKVキャッシュが爆発するという深刻な問題があります。 この課題を解決するため、ロゼッタストーンから着想を得たゼロ依存の...</summary>
+  </entry>
+  <entry>
+    <title>git を知らなくても houritsu で法改正の差分を見る方法</title>
+    <link href="https://qiita.com/program3152019/items/bbacbb1c281bc698fd80"/>
+    <id>https://aimatome.gamelab.website/#d7c4c264f1ac</id>
+    <updated>2026-11-07T18:06:41.000Z</updated>
+    <summary>Qiita ／ houritsu は日本の全法令を「改正法 1 本 = 1 コミット」の git リポジトリにしたものです（作った話）。この記事は、git を使わない人がこれを GitHub の画面だけで読むための手引きです。インストールもログインも要りません。 自分の興味だけで作ったので...</summary>
+  </entry>
+  <entry>
+    <title>日本のビジネスシーンで日々直面する5つの判定タスクで、機械的判定・LLM・判定専用モデルを比べた</title>
+    <link href="https://zenn.dev/nemolize/articles/judge-models-japanese-tasks"/>
+    <id>https://aimatome.gamelab.website/#15a5a1cd06a7</id>
+    <updated>2026-11-07T18:02:51.000Z</updated>
+    <summary>Zenn ／ LLM に「この文はおかしいか」を判定させる場面が増えました。敬語のチェック、表記のゆれ、diff に紛れた秘密情報の検出などです。判定を任せるなら、どれを選べばいいのか。正解を機械的に作れるタスクで、12 通りの判定方法を同じデータで比べました。 結論 精度なら gemini-3.7-flash。 見逃しがほぼなく…</summary>
+  </entry>
+  <entry>
+    <title>Herdr のターミナル UI は、仕事をしっかりこなす。Shepi は、その作業を Mac でもっと快適にする。</title>
+    <link href="https://qiita.com/XWIOX/items/1e32b7f79f7ea7f3373f"/>
+    <id>https://aimatome.gamelab.website/#f86494c0fd30</id>
+    <updated>2026-11-07T17:37:49.000Z</updated>
+    <summary>Qiita ／ 公式サイト：shepi.app 複数のAIコーディングエージェントを同時に動かすとき、難しいのはタスクの指示だけではありません。ローカルでAPIを変更するエージェント、テストを確認するエージェント、サーバでデータを処理するエージェント。誰がまだ作業中で、誰がこちらの返事を待...</summary>
+  </entry>
   <entry>
     <title>MetaがConductorを買収：2つのAIを分担させ、ブラウザだけでマルチエージェント連携を実現する</title>
     <link href="https://qiita.com/lhjjjk4/items/e527b80c9326ddb54514"/>
@@ -18,15 +46,8 @@
     <title>Ocient、エージェント型AI基盤で1億ドル調達 今年の売上3倍超の見込み、累計411億円</title>
     <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nZHdfenpDYllLWkxrY2tYdC1RcDExQTJGSElRamRhdWRXcE9yNlE3LVJKc0ZKdkNUVTFVUlhCZ3VJT0lNb1dqanJrc1VEN1YwUkZN?oc=5"/>
     <id>https://aimatome.gamelab.website/#c83f39e2baff</id>
-    <updated>2026-11-07T17:11:00.000Z</updated>
+    <updated>2026-11-07T17:21:20.000Z</updated>
     <summary>ビジネス+IT</summary>
-  </entry>
-  <entry>
-    <title>Cursor「Voice Chat」でエージェントと音声通話:Siri連携・Privacy Modeまで解説</title>
-    <link href="https://qiita.com/picnic/items/a380f30343fd17a4a24d"/>
-    <id>https://aimatome.gamelab.website/#fc59a90abe48</id>
-    <updated>2026-11-07T17:01:32.000Z</updated>
-    <summary>Qiita ／ はじめに Cursor が 2026-11-06 に、エージェントとリアルタイムで音声通話できる Voice Chat を公開しました。口頭で変更内容を伝えたり、エージェントの作業状況を尋ねたり、進捗を音声で聞いたりできます。 キーボードから手を離したまま指示を出し、作業...</summary>
   </entry>
   <entry>
     <title>[FT]AI導入支援で潤うインドIT企業</title>
@@ -43,11 +64,18 @@
     <summary>Vietnam.vn</summary>
   </entry>
   <entry>
-    <title>モード切替なしでローマ字・ピンイン・英単語混在文を一括変換するAI入力メソッド「UnimeType」の設計と仕組み</title>
-    <link href="https://qiita.com/unimetype/items/286ad53cd79cc7261f69"/>
-    <id>https://aimatome.gamelab.website/#f4d3921344bf</id>
-    <updated>2026-11-07T16:28:41.000Z</updated>
-    <summary>Qiita ／ なぜ「英数 / かな」のモード切替はいまだにこんなに疲れるのか？ ソフトウェア開発や日々の業務で、ターミナル・IDE・Slack・GitHub PRを行き来しながらコードやメッセージを書くとき、私たちが最も頻繁に踏む「見えない地雷」が日本語IMEのモード切替です。 kon...</summary>
+    <title>画像・動画生成スキルは「どのキーで、どこに課金されるか」で選ぶ: Claude Code 向け SKILL.md を読み比べた</title>
+    <link href="https://zenn.dev/skillselion/articles/f9e8735f6b4f1c"/>
+    <id>https://aimatome.gamelab.website/#a60558381573</id>
+    <updated>2026-11-07T16:31:51.000Z</updated>
+    <summary>Zenn ／ Claude Code に画像生成スキルを入れて「ヒーロー画像を作って」と頼むと、最初に聞かれるのはプロンプトではなく、たいていログインかAPIキーです。Claude Code 自身はピクセルを描けません。画像・動画生成スキルの正体は、どこか1社のCLIやAPIを正しく呼ぶための手順書です。 そのため、選ぶときの軸は…</summary>
+  </entry>
+  <entry>
+    <title>LLaDA論文を実装目線で読む：予測候補と次の状態を分ける</title>
+    <link href="https://zenn.dev/kas_blog/articles/20260914-llada"/>
+    <id>https://aimatome.gamelab.website/#fa8d952e21e5</id>
+    <updated>2026-11-07T16:28:44.000Z</updated>
+    <summary>Zenn ／ LLaDA（Large Language Diffusion with mAsking）は、マスクされた位置を埋める過程を繰り返して文章を生成する言語モデルです。推論を読む際は、モデルが予測した候補と、次の反復まで保持するトークンを分けて考えると理解しやすくなります。生成長と反復回数も別の設定なので、「全位置を並列に…</summary>
   </entry>
   <entry>
     <title>【宿曜占星術 × 生成AI】いにしえの占術を、対話するAIに</title>
@@ -71,6 +99,13 @@
     <summary>Excite エキサイト</summary>
   </entry>
   <entry>
+    <title>LLMの回答を安全に表示する React / React Native 向け Markdown レンダラーを作った</title>
+    <link href="https://zenn.dev/mickeyichi/articles/4fb6f931469455"/>
+    <id>https://aimatome.gamelab.website/#d513740a9c93</id>
+    <updated>2026-11-07T15:26:36.000Z</updated>
+    <summary>Zenn ／ チャット UI で LLM の回答を Markdown として表示するとき、その文字列は 信頼できない入力 です。プロンプトインジェクションを受けたモデルは、スクリプトを仕込んだ HTML、javascript: リンク、外部に情報を送る画像、細工した Mermaid の図やグラフ設定を返すことができます。しかも回答…</summary>
+  </entry>
+  <entry>
     <title>Google社員がGemini 4でゼルダの伝説 時のオカリナをiPhone Duoで動かすデモ公開 - X</title>
     <link href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE5tYVJFSEFYdjQ1a3hRdDZMV0lKMGloam5wcmIyZ0twVV9YUTExRUpZLVc0R2JjSHF6dXRlSnMzX0RsazFsanNwa0FVMDV5RnQ4dG1XVklZSQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#9ad410e4b986</id>
@@ -85,11 +120,25 @@
     <summary>shiritomo</summary>
   </entry>
   <entry>
+    <title>Vercel Labsのagent-browserを試す: アクセシビリティツリーでAIエージェントがブラウザを操作する</title>
+    <link href="https://zenn.dev/matsushima_a/articles/day-039-agent-browser-accessibility-tree"/>
+    <id>https://aimatome.gamelab.website/#dae4ff0165ed</id>
+    <updated>2026-11-07T14:22:50.000Z</updated>
+    <summary>Zenn ／ 概要 Vercel Labsが公開しているagent-browser(Apache-2.0)は、AIエージェントにブラウザ操作をさせるためのRust製CLIである。 スクリーンショットをVLM(視覚言語モデル)に渡す方式ではなく、ブラウザのアクセシビリティスナップショットをテキスト/JSON化し、各要素に@e1のよう…</summary>
+  </entry>
+  <entry>
     <title>PSIがアーロンソン＝アンバイニス予想の証明を発表、Anthropic非公開モデルを使用</title>
     <link href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlBDQWNnZkZsOTdDX0MxOUc1ZXlyd3NHbllXZWlRQnZ3QmhXU1huQ29CWEtXZ2RacVhxa1FzNW1KbzBiV292WHVrLXhaQ2lXOUtmVmQtTjZuVWRZNUd4SFhGOUh4aTRlSHFQMG5mN1h6djdiNVdqRDl1Rm1wUFM3Tkd3SQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#004848b5cd4c</id>
     <updated>2026-11-07T14:22:20.000Z</updated>
     <summary>Pasquale Pillitteri</summary>
+  </entry>
+  <entry>
+    <title>AIで仕事は回る。では、私たちはどこで育つのか</title>
+    <link href="https://zenn.dev/revo1290/articles/ai-era-where-we-grow"/>
+    <id>https://aimatome.gamelab.website/#405407018af7</id>
+    <updated>2026-11-07T13:51:06.000Z</updated>
+    <summary>Zenn ／ はじめに 設計意図を半分も理解していないのに、機能が完成する。不具合が出ても、AIが原因を調べて直してくれる。レビューもAIが通してくれる。 いま、私の周りの開発はこうして回っています。そして正直に言うと、私自身もその中にいます。 ここで考えたいのは「若手はもっと勉強すべき」という話ではありません。理解しなくても開発…</summary>
   </entry>
   <entry>
     <title>OpenAIのサム・アルトマンCEO、RAM発言は「文脈を無視された」と反論 全文を読むと半分だけ正しい</title>
@@ -113,32 +162,11 @@
     <summary>財経新聞</summary>
   </entry>
   <entry>
-    <title>Herdr のターミナル UI は、仕事をしっかりこなす。Shepi は、その作業を Mac でもっと快適にする。</title>
-    <link href="https://zenn.dev/xwiox/articles/d0f5e6dca4b435"/>
-    <id>https://aimatome.gamelab.website/#f86494c0fd30</id>
-    <updated>2026-11-07T12:50:15.000Z</updated>
-    <summary>Zenn ／ 公式サイト：shepi.app 複数のAIコーディングエージェントを同時に動かすとき、難しいのはタスクの指示だけではありません。ローカルでAPIを変更するエージェント、テストを確認するエージェント、サーバでデータを処理するエージェント。誰がまだ作業中で、誰がこちらの返事を待っているのか、何度もターミナルに戻って確かめ…</summary>
-  </entry>
-  <entry>
-    <title>なぜ企業はAI駆動開発に取り組めないのか</title>
-    <link href="https://zenn.dev/matsunaopen/articles/ai-driven-dev-adoption-barriers"/>
-    <id>https://aimatome.gamelab.website/#056e363561d5</id>
-    <updated>2026-11-07T12:49:06.000Z</updated>
-    <summary>Zenn ／ 個人の開発ではAIエージェントに実装の大部分を任せるようになったのに、会社の開発では同じようにできない。そうした状態にある開発者やテックリードがいます。 DORAの2025年の調査では、回答者の90%が仕事でAIを使っていると答えました（Google Cloud）。ただ、仕事でAIを使っていることと、実装の大部分を任…</summary>
-  </entry>
-  <entry>
-    <title>「実装完了」のはずが、中心機能が動いていなかった話</title>
-    <link href="https://zenn.dev/dev_to_earn/articles/92c1f67ad02ec2"/>
-    <id>https://aimatome.gamelab.website/#e0e81e55c7a0</id>
-    <updated>2026-11-07T12:41:21.000Z</updated>
-    <summary>Zenn ／ 結論 Claude Codeに睡眠アプリを作らせたところ、完了報告は「全STEP完了、ビルド・型チェックともにエラーゼロ」でした。 ところが約半年後にコードを開くと、アプリの中心だったiPhoneのヘルスケア（HealthKit）連携は、実際には動いていませんでした。 読み込もうとしていたパッケージは、npmに名前だ…</summary>
-  </entry>
-  <entry>
-    <title>Xのいいねとリポストを、AIブラウザで整理</title>
-    <link href="https://zenn.dev/zhaojiayi/articles/9549a83ebf3324"/>
-    <id>https://aimatome.gamelab.website/#2ce6ffa4ebb9</id>
-    <updated>2026-11-07T12:36:09.000Z</updated>
-    <summary>Zenn ／ Xで「いいね」したものを、あとから見返すことがほとんどない。気づけばいいねが数百件たまっていて、何に反応していたのか自分でも分からない。 そこで「1週間に1回、自分のいいねとリポストを整理して、今週の関心の変化を眺める」仕組みが作れないかと考えた。結論から言うと、AIエージェントにAIブラウザのSkillを持たせて、…</summary>
+    <title>osFoundryが常駐Claude Codeセッションにチャンネル履歴を二度送らない仕組み</title>
+    <link href="https://zenn.dev/bbt/articles/b94c58532e97ec"/>
+    <id>https://aimatome.gamelab.website/#9f79265dd60b</id>
+    <updated>2026-11-07T13:23:35.000Z</updated>
+    <summary>Zenn ／ osFoundryのMessageチャンネルで、常駐しているClaude Codeセッションが2回目のメンションを受けたときのユーザーターンを丸ごと載せる。ブリーフの中段だけ省いた。 You were mentioned in a team chat channel. The details are below. {…</summary>
   </entry>
   <entry>
     <title>独自のＡＩエージェントはニュース報道に役立つ ガーナ通信社社長</title>
@@ -146,20 +174,6 @@
     <id>https://aimatome.gamelab.website/#4a822f3f6d41</id>
     <updated>2026-11-07T12:33:31.000Z</updated>
     <summary>新華網日本語</summary>
-  </entry>
-  <entry>
-    <title>【Meshy vs Tripo vs Hyper3D】3D生成AIはどれが良い？同じイラストで比較してみた</title>
-    <link href="https://zenn.dev/daichi_gamedev/articles/3dai-compare"/>
-    <id>https://aimatome.gamelab.website/#af44c061e396</id>
-    <updated>2026-11-07T12:28:58.000Z</updated>
-    <summary>Zenn ／ はじめに 大手の3D生成AIであるMeshy、Tripo AI、Hyper3Dに同じイラストを読み込ませて、どれが一番使えるかを比べてみました。1年ほど前に試したときは顔がぐちゃぐちゃでまだ使えないなと思っていたのですが、今回試してみたら精度がかなり上がっていて驚きました。 比較の条件 使ったのは騎士、ソウル系の主人…</summary>
-  </entry>
-  <entry>
-    <title>失敗を記録に残して設計に返す ― 「失敗記録」の育て方</title>
-    <link href="https://zenn.dev/ai_secretary/articles/a887c02269a13d"/>
-    <id>https://aimatome.gamelab.website/#8e24375838f3</id>
-    <updated>2026-11-07T12:00:12.000Z</updated>
-    <summary>Zenn ／ 失敗は「なかったこと」にしない AIで副業や自動化を回し始めると、失敗は必ず出る。投稿がスパム判定を受けた、作った商品が売れなかった、タスクが夜中に止まっていた。問題は失敗そのものではなく、失敗を記録に残さず、同じところで二度つまずくことだ。 そこで私は、運用ルールのファイルの中に「失敗記録」というブロックを最初から…</summary>
   </entry>
   <entry>
     <title>OpenAIの最新「バグ探しAI」が強力すぎる。Firefoxの未知の弱点81件を発見</title>
@@ -176,32 +190,11 @@
     <summary>Zenn ／ PC で動かしているローカル AI（LM Studio）に「暗めのテクノを作って試聴して」と頼むと、同じ Wi-Fi にあるスマホのアプリで曲ができて鳴り出す。そんな仕組みを、Android アプリの中に MCP サーバーを入れて作りました。 アプリは、ハウスやテクノの曲を作って、つないで、ノンストップで再生する「P…</summary>
   </entry>
   <entry>
-    <title>完成形のひとつ手前</title>
-    <link href="https://zenn.dev/vbaman/articles/f59f101e55ffbf"/>
-    <id>https://aimatome.gamelab.website/#e43bc0ae2173</id>
-    <updated>2026-11-07T11:49:03.000Z</updated>
-    <summary>Zenn ／ ゲームの処理やアプリの処理を作っていると、完成形よりもずっと手前で、ひとつの仕組みができあがることがある。 今回はGodotで作っている通行人の制御処理。 画面の左右から通行人が現れ、それぞれ違った速度で移動する。途中で立ち止まり、また動きだす。 見た目だけなら、左右から人が歩いてくるだけのシンプルなものだ。 ところ…</summary>
-  </entry>
-  <entry>
     <title>米半導体株指数が12.25%急落、6年ぶり下落率―6日は反発も選挙後のAI投資減速懸念くすぶる</title>
     <link href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1iTmFtSzVSOVduckZrdmhKdzVkYlZvN1o0LTUtdU1EMGk3SG5RNFo4U2k1eXdLLUhUY0ctVUswVTdZX3FxQUczRkdpeFhWejlsMzEzdmZhRDMwZkx1YU5WV2dXQdIBaEFVX3lxTE0xeURtQnhySU1CeXNnaHJrVmlOVDNudlM0Rl9ETHdwOW9UcUtrQmVTS0RNMWdnNjFqdS1TQlY0Qi1RVDZXU2VCVks2UVgzY3dLOXY5M2hDM2duZHgzcGFLd3N1d2ZDbk9P?oc=5"/>
     <id>https://aimatome.gamelab.website/#28d0aafe6a9a</id>
     <updated>2026-11-07T11:48:30.000Z</updated>
     <summary>財経新聞</summary>
-  </entry>
-  <entry>
-    <title>小学生の頃のゲームのアイデアを、コードを一度も見ずにClaudeで実装してみた</title>
-    <link href="https://zenn.dev/yuki_h_94/articles/de8f05e59f29b5"/>
-    <id>https://aimatome.gamelab.website/#9edf23f1623d</id>
-    <updated>2026-11-07T11:46:39.000Z</updated>
-    <summary>Zenn ／ はじめに 小学生の頃、ノートの端っこにゲームのアイデアを書き散らしていた。ドカポンみたいなすごろくに、ドラクエみたいなRPGを混ぜたら絶対おもしろい、と思っていたのだ。でも、紙とえんぴつだけではマップもモンスターもルールも収拾がつかなくなって、いつの間にか投げ出してしまった。 それから20年。今ならAIがある。あのと…</summary>
-  </entry>
-  <entry>
-    <title>StringとString?は別物だった。Kotlinのnull安全にベテランが戸惑った話</title>
-    <link href="https://zenn.dev/shinchi007/articles/0e4631e3b27a70"/>
-    <id>https://aimatome.gamelab.website/#5b29eda32c95</id>
-    <updated>2026-11-07T11:43:04.000Z</updated>
-    <summary>Zenn ／ 連載『C言語育ちのベテランが、AI片手にKotlinとSwiftを学んだ記録』第2回 結論から言うと Kotlinで最初に面食らったのは、null安全の仕組みでした。結論を先に書くと、こういうことです。 Kotlinでは「nullが入る型」と「入らない型」が、型そのもので区別されている CやJavaの感覚で「とりあえ…</summary>
   </entry>
   <entry>
     <title>カデンスが専門AIモデルマエストロを発表</title>
@@ -218,13 +211,6 @@
     <summary>日経クロステック</summary>
   </entry>
   <entry>
-    <title>2026年MicrosoftのAI戦略と日本への影響について考える</title>
-    <link href="https://zenn.dev/sunsun_eng/articles/microsoft-ai-strategy-2026"/>
-    <id>https://aimatome.gamelab.website/#5fb70f206351</id>
-    <updated>2026-11-07T11:37:11.000Z</updated>
-    <summary>Zenn ／ この記事の要点 MicrosoftはAIに注力し、新しい製品とサービスを推進しています。 日本市場での影響は大きく、エンジニアに新しい機会が広がります。 AIとクラウドの融合が進むことで、ビジネスモデルの変革が期待されています。 Microsoftの…</summary>
-  </entry>
-  <entry>
     <title>波乱のAI・半導体相場をどう乗り切るか？東京エレクトロン・アドバンテストの損切りルールと次の買い場見極め術</title>
     <link href="https://news.google.com/rss/articles/CBMibEFVX3lxTE44NzRCQ1dPU2NzRU5IcHNwOTh2Q05aemtNNHYxd1VTZlRrd2tBa0t3dGdmYWwycEdfaVRqZVBmMmpMalFmUndyLTZJOHpnMTVxdjhEcW9sdUdMVnBnMWZHenl3dHdVTW5JdjlBQw?oc=5"/>
     <id>https://aimatome.gamelab.website/#681bebcd57f5</id>
@@ -239,25 +225,11 @@
     <summary>Jetstream</summary>
   </entry>
   <entry>
-    <title>AIエージェント2体が実機1台を同時に触って、テストが壊れた。マルチエージェント運用に排他制御が要る</title>
-    <link href="https://zenn.dev/yk_studio/articles/two-agents-one-device"/>
-    <id>https://aimatome.gamelab.website/#5b0bf14c86b6</id>
-    <updated>2026-11-07T11:30:09.000Z</updated>
-    <summary>Zenn ／ AIエージェントに役割を割り振ってアプリを作っています。実装、QA、デザイン、法務、秘書。それぞれ別のセッションで動いていて、並行に進むぶん速い。 8月15日、その並行性が牙を剥きました。 実装担当が絵本アプリのE2E検証を回している最中に、秘書担当がストア掲載用のスクリーンショットを撮りはじめました。同じ端末で。 …</summary>
-  </entry>
-  <entry>
     <title>日東工業、設備図面から分電盤見積情報を抽出する生成AIアプリを開発 日本IBMが支援</title>
     <link href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MWElKZkVVYjNTQ2dYRXJlSUk1TF9vWHkzRXN2ejE1SmJLUWxvT3JZdGRBOVJ4bE1QZHdRQzZIU0hKWVhnYWhMWWdmTWZxOXJHM1J4N1I1blZyQQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#751597026859</id>
     <updated>2026-11-07T11:30:00.000Z</updated>
     <summary>オートメーション新聞WEB</summary>
-  </entry>
-  <entry>
-    <title>室温を自動制御・監視する</title>
-    <link href="https://zenn.dev/kinon/articles/4c35381b3fcdc1"/>
-    <id>https://aimatome.gamelab.website/#051379785854</id>
-    <updated>2026-11-07T11:26:44.000Z</updated>
-    <summary>Zenn ／ 背景と目的 エアコンの温度指定があまり実際の室温を制御できていない 特に寝ているときに寒くなっていたり！ 既存の室温監視系（ラズパイ・AM2302）の値を元に制御したい 昔やろうとしたエアコン制御の残骸を活かしたい 手元にあったもの ラズパイ（骨董品のRaspberry Pi Model B Rev 2） エアコン（…</summary>
   </entry>
   <entry>
     <title>AI時代に求められる優秀なTechLeadの振る舞い</title>
@@ -286,13 +258,6 @@
     <id>https://aimatome.gamelab.website/#a1196f08f94e</id>
     <updated>2026-11-07T11:00:25.000Z</updated>
     <summary>X</summary>
-  </entry>
-  <entry>
-    <title>Kotlin 学習用の Todo アプリで、AI にコードを書かせないと決めた話</title>
-    <link href="https://zenn.dev/genkichi/articles/kotlin-todo-ai-does-not-write-code"/>
-    <id>https://aimatome.gamelab.website/#145fc8e5728e</id>
-    <updated>2026-11-07T10:53:47.000Z</updated>
-    <summary>Zenn ／ はじめに はじめまして、げんきちです。今回が Zenn への初投稿になります！ これまでは Java を使った Web アプリケーションの開発を経験し、現在は Android アプリの開発に携わっています。 せっかく Android 開発に携わるなら、Kotlin もしっかり身につけたい！ ということで、個人でも学習…</summary>
   </entry>
   <entry>
     <title>ChatGPTの開発元企業の評価額​​は1兆2500億ドルである。</title>
@@ -330,13 +295,6 @@
     <summary>Zenn ／ 月曜の朝、ブラウザのタブを数えてみたら、AIチャットが2つ、コーディングエージェントの入ったエディタが1つ、先週の調べものを貼ったメモアプリが1つ。どれも仕事の一部は知っているのに、全体を知っているものはひとつもありません。昼までに、同じ前提説明を3回コピペしていました。こういう「AIは便利なのに、道具がバラバラで疲…</summary>
   </entry>
   <entry>
-    <title>【個人開発】学生が作った学習ツールをフィードバックしてほしいです！</title>
-    <link href="https://zenn.dev/ko2222/articles/a22ecd74036c71"/>
-    <id>https://aimatome.gamelab.website/#b817d1f63e3d</id>
-    <updated>2026-11-07T10:14:31.000Z</updated>
-    <summary>Zenn ／ 学習機能ツールを学生ながら作ってみました！初質問なのでコレであってるのかわからないんですけど、何か間違ってたらコメント？お願いします！ ko-2222.github.io/manabilog/</summary>
-  </entry>
-  <entry>
     <title>WOODMAN、液浸冷却を活用した「HYBRID PRIVATE AI導入サービス」を提供開始</title>
     <link href="https://news.google.com/rss/articles/CBMic0FVX3lxTE5vUERfZGlZU1hGajFadjJCOUJRdE0zbElmNzdrSFk1MkJzUDRWT2FjUW1zT1NKbURhRDBacWY3T0RXcEtSSnpoSURfaWNMNTRtVnp5LUxLemZGMEZlM24wWXRMNHlFX1hkUDhjeFRkT0swN1U?oc=5"/>
     <id>https://aimatome.gamelab.website/#ff6c3074b9f2</id>
@@ -356,5 +314,47 @@
     <id>https://aimatome.gamelab.website/#8550ed70f2a3</id>
     <updated>2026-11-07T10:00:45.000Z</updated>
     <summary>はてなブックマーク ／ タイトルは釣りです（懐かしいブログ仕草） 正確には、元Wantedly CTOのkawasyさんが、ISUCON参加に向けて3ヶ月以上の試行錯誤をしたハーネスを、本番では無停止で自律的に8時間動作させて1位のスコアを叩き出したらしい。 もちろん他のチームも競技にClaude CodeやCodexなどを大活用して挑んだ…</summary>
+  </entry>
+  <entry>
+    <title>米中間選挙後、ＡＩ規制懸念が米株揺さぶる データセンター投資に逆風か 過去の中間選挙後は株価上昇</title>
+    <link href="https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyUU9zakdGWjBxdzhxMDl0dlB6T1ZfQzlibm5mNnk1Q1B2RHRFNHZlLVFCV0FOaXF2dE1PcEtXSDZnVWpWN05PcHJxcw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#6697fb020319</id>
+    <updated>2026-11-07T09:59:21.000Z</updated>
+    <summary>47NEWS</summary>
+  </entry>
+  <entry>
+    <title>METRが発表、AIがAnthropicの研究速度を2倍に</title>
+    <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNRU1uZndDVmFBYUNTYWNEb1JJWS1YeWRBVDlreE1oQ1VFcWFXei1UVEQ1dXVndnhCZ1Vub1ozeVNBQndkM29ZS214YldVV3oxZlJRelJld3hYLVBKOFVuMXlUbUhGWEFBZjZJck5qd2lqcFdoUWZmWk1ieGpDa2kwbC10ckdIeFU?oc=5"/>
+    <id>https://aimatome.gamelab.website/#908de6da2179</id>
+    <updated>2026-11-07T09:55:55.000Z</updated>
+    <summary>Pasquale Pillitteri</summary>
+  </entry>
+  <entry>
+    <title>Claude Code クラウド、依存関係とAPIキーの自動セットアップを発表</title>
+    <link href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPYlFCSWRLdmZBN3lRWU5KV3ZBY1VOeWluUnRpVW5DWmpGQTdJdDlNS1BhNjNhX3QzVUNFMFczdFhGa0lTdGxqeWdnTHZYeWpXWEdYQnctWFVWOTlvU3VzOG8weHZYQWNOZHd0M1lVSkRoRmd0cUh1cjBDb2NlazRYQkF3UVI3NEx5X1JfQW1oVQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#9541240402fa</id>
+    <updated>2026-11-07T09:51:58.000Z</updated>
+    <summary>Pasquale Pillitteri</summary>
+  </entry>
+  <entry>
+    <title>桜井政博氏、生成AIへの考えかたを示す。「いまのところは使っていない」し、「どこかへの搾取になってはいけない」。一方で現在の“大変すぎるゲーム開発”への懸念も【ファミ通40周年フェス】 | ゲーム・エンタメ最新情報のファミ通.com</title>
+    <link href="https://www.famitsu.com/article/202611/93352"/>
+    <id>https://aimatome.gamelab.website/#6a8b68eb00a2</id>
+    <updated>2026-11-07T09:49:08.000Z</updated>
+    <summary>はてなブックマーク ／ グラフィック方面での生成AIの活用については、「未だに信用を得られていない」し、「どこかへの搾取になってはいけない」。また、「自分たちで考えたほうがいまのところはよいものができる」と考えているという。 ただ、ゲーム業界全般に視野を広げると、「いまのゲームを作るのは大変すぎる」とし、「何百万本も売れて...</summary>
+  </entry>
+  <entry>
+    <title>スタンフォード大学、チャット履歴全体を記憶するAIメモリ「Memorilla」を発表</title>
+    <link href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQT2JwbEdqdlZad0p5NE90Nm44RVVPMzRnNXJEQnhUazdMeU1Qcl9LNlAwWVNDMV96cno1WEZSZk4waU1rUGs1VHUtY0pBTllMRGMzUVZUZlZBWWlCU2JnbEVwaEd5YkJKSmEwQnVIYXlVd3ZkSkpWdzMycU9PWUYzLTZQY3F2VHd3cHc?oc=5"/>
+    <id>https://aimatome.gamelab.website/#6f67c553ef07</id>
+    <updated>2026-11-07T09:41:53.000Z</updated>
+    <summary>Pasquale Pillitteri</summary>
+  </entry>
+  <entry>
+    <title>AIは開発速度をお金で買う時代へ 企業の競争力を決めるものが変わる</title>
+    <link href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ubG01MkFuS250U1FGTTBfS00xamlhRzRBZFBxQVEtWFB5RmsxTGhtZTREb0VmNmpSMlJWU2ExVThaSWI2YkoyQWYxV3pkUGszTjhoRHE2bUNHTzVlSFlqdU1zbF9nQjNk?oc=5"/>
+    <id>https://aimatome.gamelab.website/#5df7de1be5cf</id>
+    <updated>2026-11-07T09:31:57.000Z</updated>
+    <summary>株式会社エクサウィザーズ</summary>
   </entry>
 </feed>
