@@ -26,6 +26,46 @@
   "isPR": false
  },
  {
+  "id": "0299d0b325b4",
+  "title": "できるだけ無料でHuman-out-of-the-loop（HOOTL）を作ってみた",
+  "url": "https://zenn.dev/ts/articles/ee4686f0ad0309",
+  "source": "Zenn",
+  "summary": "はじめに 自宅のWindows PCで、GitHubのIssueをトリガーとして、調査・作成・別のAIによる検証・修正までを人の手を離れて進めるHuman-out-of-the-loop（HOOTL）なエージェントの仕組みを、実験しています。人が関わるのは、最初にIssueでゴールを決めるときと、最後に結果を確認する…",
+  "publishedAt": "2026-11-08T14:43:23.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2a7726ab0d9d",
+  "title": "NVIDIA/auto-ontologyを動かしたら、素朴なtext-to-SQLより遅く間違えた",
+  "url": "https://zenn.dev/matsushima_a/articles/day-040-auto-ontology-sql-hallucination",
+  "source": "Zenn",
+  "summary": "これは何を試した記事か NVIDIAが公開しているauto-ontology(Apache-2.0)は、データベースのメタデータから「オントロジー」(ビジネス用語・テーブル関係・SQL属性の集合)を自動生成し、AIエージェントが自然言語の質問を正確なSQLに変換できるようにするフレームワークである。 README・モ…",
+  "publishedAt": "2026-11-08T14:22:50.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f00d12c5ba19",
+  "title": "AI に授業ノートを作らせているけれど、理解したことにはならない",
+  "url": "https://zenn.dev/tomnotelog/articles/ai-notes-reduce-friction-before-understanding",
+  "source": "Zenn",
+  "summary": "はじめに 授業のメモと文字起こしを使って、Claude Code に整形ノートを作ってもらっています。 楽になったのは、情報を補って、読み返せる形にする作業。 ノートが出来上がったことと、私が内容を理解したことは分けています。 自分なりに作った「ノートを書く UI」。この捉え方が一番近いです。 授業中の変化 AI に…",
+  "publishedAt": "2026-11-08T14:22:38.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b062dba745c5",
   "title": "Googleがフロンティアの議論を制したい理由 | Tulsee Doshi（Geminiプロダクト責任者）｜Lenny's Podcast",
   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsbjJmMEtYOFZuNGJOQzd5cDBYMVRoQ3dha0oteGZNNFFLWFFrSkFRM2xyOUd0Z0hVeGV2eW1XWkhVTXdHWGJjdmE4MUtwdEhSWmd6SnROZ1JtT1NINUE?oc=5",
@@ -685,6 +725,19 @@
   "isPR": false
  },
  {
+  "id": "99bf6f40c172",
+  "title": "Claude Codeの「今後確認しない」が秘密情報をGitHubに漏らす — 1,122件の公開ファイルに1,379件の秘密情報 - Dev & Gadget Note",
+  "url": "https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets",
+  "source": "はてなブックマーク",
+  "summary": "Claude Codeで「Yes, and don't ask again（今後確認しない）」を選ぶと、承認したコマンドがそのままプロジェクト内の.claude/settings.local.jsonに保存されます。コマンドにパスワードやAPIキーが含まれていると、平文のまま残ります。セキュリティ企業Apiiroの調…",
+  "publishedAt": "2026-11-08T10:31:52.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fdev.ponkotsu.dev%2Fentry%2Fclaude-code-settings-local-secrets",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "93c054c14315",
   "title": "静的型付けはAIのバグを減らすか？ TypeScriptとJavaScriptで同じGit互換CLIを3本ずつ書かせて比べた",
   "url": "https://zenn.dev/torudev/articles/dd45de860fc7c3",
@@ -890,6 +943,19 @@
   "categories": [
    "dev",
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0259a1a0d1a5",
+  "title": "AIは会話の外で賢くなる？Anthropicの「ドリーミング」、複雑な調査の達成率を73%から87%に改善",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QWFdHcEItbWhKZ3ZNbjRmYUVBWWszN0ZpQjYwV1ZlSjlmLUloN2JyNThHRHhNWVpBYXdUc09KQ25sVi1oZGRFZGlTdzNydDVhUmtLVHd3MFctTWZuR2VUTTMxWjM3NXg2Vnc1QWZNNENINDcx?oc=5",
+  "source": "XenoSpectrum",
+  "summary": "",
+  "publishedAt": "2026-11-08T09:22:48.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -3031,6 +3097,19 @@
   "isPR": false
  },
  {
+  "id": "008c7fcafcbf",
+  "title": "ＡＩ相場、先行きに暗雲 米中間選挙で規制派当選―ドル売り圧力も",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GbWhuT1dCOUxEenFfTXlzbHd4b0FLTVhuVkE5ZFFLUHVkSkVrLVhUNGNMajNCNTZ6TVZodjJBdGx4V3ZmSEhtdkVDMlgyTGg5TFlqaVNkUzljaW9JV3FrbG10NA?oc=5",
+  "source": "時事ドットコム",
+  "summary": "",
+  "publishedAt": "2026-11-07T22:47:00.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "6b255d2a0213",
   "title": "犯罪者サーバーから「AI脱獄ツール」発見…OpenAIのCodex改ざん、回答に勝手な広告挿入する新手の罠（KOREA WAVE）",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96am9HdU1fRnJ2WVo2VVhJZGpla29TZ1R6OVVLY01SUl9OS1lfcFJHYk9XUWdyU3dtVHFpUXYtWnBicnJ6VEw4Yy1sOWE0LU1KOFhiNG4tTk9JZDZJd255M3FqR085ak5HYmFYRHM1Wk04cG1lek1ycC1YajdSVWc?oc=5",
@@ -3774,7 +3853,7 @@
  {
   "id": "d283571652d8",
   "title": "5G工場480カ所を建設、半数以上でAIによる高度化を実現―湖北省",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tSUhrTlk4WjBjZUlsNDMxbjd2OEFEVTJqek4xZ1g0ZnRkWVViRDdYQ3BHSVNjWG42OFJCQmpFWU8xdkRKNWZrYWpxVVhnaE1Ednh2dFBoRkxQTndZX3RINE5DdVlDSU5qSGlMcGtPXzVoYUtDUWJqWlhDdw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jdDNvc1I1NV8xT2F0ZEJpcjdEWEQxMUc0bkp1YWtpaHc3TFlPQzFWMjQ5cHd2TFUyaWxsUVhHOTNzRkVPWlJKbjc4cnRYeHcxQ01pTXBNUXN3X3ZXS3lpaF9MQVlnUjZubWpFbjh2c2VWTEQta2hyRnM5Zw?oc=5",
   "source": "ニコニコニュース",
   "summary": "",
   "publishedAt": "2026-11-07T18:03:21.000Z",
