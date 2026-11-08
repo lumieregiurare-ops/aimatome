@@ -1,5 +1,32 @@
 [
  {
+  "id": "57c74e661b80",
+  "title": "週刊 ローカルLLM＆AIコーディングツール更新まとめ（10/31〜11/6）",
+  "url": "https://zenn.dev/girigiri_se/articles/8dedadbc54a425",
+  "source": "Zenn",
+  "summary": "はじめに 今回から、ローカルLLMとAIコーディングツールの更新を、毎週まとめていくことにしました。 自分はこれまで、Qiita でローカルLLMや自宅サーバー、AIを使った個人開発の記事を書いてきました。 ただ、Ollama や Open WebUI、Claude Code などは更新がとても速く、追いかけるだけで…",
+  "publishedAt": "2026-11-08T14:00:44.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b0f4013426af",
+  "title": "変異は生成できても、テストの穴はそれだけでは見つからない",
+  "url": "https://zenn.dev/miyakona/articles/mutation-generator-needs-structural-review",
+  "source": "Zenn",
+  "summary": "AIエージェントにコードの修正を任せるとき、テストが通ったという報告だけでは、テストが変更を守れているかまでは分かりません。そこで、push前のセルフレビューに「わざとコードを壊し、それでもテストが通るか」を確かめる担当を置いていました。 この担当もAIエージェントです。実装を読み、壊した版の一覧をJSONで作り、実…",
+  "publishedAt": "2026-11-08T13:55:46.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "9a1acc181518",
   "title": "Cursorで使えるAIモデル比較 2026/11",
   "url": "https://qiita.com/yashi84/items/fe240c267037c81a12ee",
@@ -9,6 +36,45 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c08ca7ee75ee",
+  "title": "Claude の新モデルが $0 で集計されていたら、翌朝のバッチで気づけるようにした",
+  "url": "https://zenn.dev/kazusa_nakagawa/articles/202610-model-rate-check",
+  "source": "Zenn",
+  "summary": "要点 Claude Code のトークン使用量を API 料金換算で表示するモニターを自作しています。料金は手で書いた料金表から計算しているので、新しいモデルが出ると、そのモデルの分だけ $0 になります。 実際に一度、新モデルを 1 週間で 1 億 2,600 万トークン使っていたのに、その分が $0 として集計さ…",
+  "publishedAt": "2026-11-08T13:48:35.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6bf6015ed478",
+  "title": "AIに任せたXの投稿9本の表示数を、手で読んで並べた —— 問いかけの投稿がいちばん見られていなかった",
+  "url": "https://zenn.dev/ai_shihan/articles/cd25f73cbd4d6b",
+  "source": "Zenn",
+  "summary": "X の投稿は、AI の席（広報部）に任せています。下書きを読み、時刻が来たら出して、台帳に書くところまでが広報部の仕事です。3日に1回は振り返りもさせていて、どの型の投稿がよく見られたかを確かめ、次の回で変える所を1つだけ決めます。 前回の振り返りでは、この「どの型がよく見られたか」に答えられませんでした。台帳の表示…",
+  "publishedAt": "2026-11-08T13:34:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f10a6dc2f0a0",
+  "title": "『鉄拳6』から『時のオカリナ』へ (AI時代のデジタル鎖国)",
+  "url": "https://zenn.dev/yingtian/articles/41349c66554f43",
+  "source": "Zenn",
+  "summary": "1. 17年前のゲームが引き起こした価値観の衝突 2026年10月、発売から17年を迎えた一本のゲームが、日本と海外のゲームコミュニティで議論を巻き起こした。2009年にバンダイナムコゲームスが発売した、Xbox 360版の『鉄拳6』だ。 海外の開発者たちが、静的再コンパイル（Static Recompilation…",
+  "publishedAt": "2026-11-08T13:23:07.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -40,6 +106,59 @@
   "isPR": false
  },
  {
+  "id": "7c57b383c697",
+  "title": "CodexでAI駆動開発を始めて1か月、失敗から学んだこと",
+  "url": "https://zenn.dev/eliri/articles/fad5a22342fdce",
+  "source": "Zenn",
+  "summary": "はじめに 10月から約1か月間、Codexを使ったAI駆動開発に取り組みました！ ! 本記事でいう「AI駆動開発」は、AIに質問するだけでなく、CodexなどのAIコーディングツールにコードの調査や実装、修正、テストなどを任せながら進める開発として扱っています。 私はこれまで、Ruby on Railsを中心にWeb…",
+  "publishedAt": "2026-11-08T13:18:13.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "778a282ab089",
+  "title": "AI×Blenderで下絵からアニメ調の髪をモデリングした記録",
+  "url": "https://zenn.dev/yy7613/articles/921a7fe3ffffc7",
+  "source": "Zenn",
+  "summary": "はじめに この記事では生成AIと1枚の下絵からアニメ調キャラクターの髪を作る仕組みと手順を紹介します。 第1部では短い髪と片側の結びと編み込みを加えたショートを題材に下絵から髪を作る仕組みを解説します。 第2部では腰まで届く盛ったボリュームのあるウェーブしたロング髪に挑戦し、同じ仕組みが通用しなかったときにどう方法を…",
+  "publishedAt": "2026-11-08T13:14:23.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6f7d914a0bb8",
+  "title": "Claude Code Projects の使い方:統括役の Claude に、並列の作業を任せる",
+  "url": "https://zenn.dev/orivanai/articles/claude-code-projects-guide",
+  "source": "Zenn",
+  "summary": "Projects とは Claude Code の Projects は、2026年9月17日にベータ版が出た機能です。統括役の Claude と1つの会話をするだけで、Claude が作業を「スレッド」に分けて並列に進め、進み具合までまとめて管理してくれます。 これまで Claude Code で複数の作業を同時に…",
+  "publishedAt": "2026-11-08T13:14:06.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "26ba222306ff",
+  "title": "AIで作ったアプリ、画面が動いたら完成？引き渡し前の4段階",
+  "url": "https://zenn.dev/techstudiolab/articles/ai-generated-app-four-levels-of-done",
+  "source": "Zenn",
+  "summary": "AIで作った備品管理アプリにログインでき、登録も検索も動いたとします。ところが、備品を保存している途中で通信が切れました。画面には結果が表示されず、登録されたのか分かりません。 利用者はもう一度登録してよいのでしょうか。重複する可能性があるなら、確認する方法が必要です。画面が正常に動くことを確かめただけでは、利用者に…",
+  "publishedAt": "2026-11-08T13:03:11.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "7c4278d9ca46",
   "title": "弁護士に聞く！ 今のタイミングだからこそケアしておきたい「生成AI使用リスク」Q&A【デジタル＆AIギア 完全ガイド】",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZG9jME1rV0E2OVJ2RFZLZUNTbTlJenl5clQyWjNSZWxwTlAyUjRRa0pQTmhuNGwtV2JIYnRUQWRKV201TTZfNkVnM09qeXR4QnBwRElOb1A0QXpfekJocVhtbVNHcXN6Tld3OURRTU5qV3B3cWw1Y2NnSVZkVEU?oc=5",
@@ -66,12 +185,38 @@
   "isPR": false
  },
  {
+  "id": "6c24061296b3",
+  "title": "AIエージェントのAPI代に1日の上限をかけられるようにしました",
+  "url": "https://zenn.dev/saihu/articles/3f859b471899e2",
+  "source": "Zenn",
+  "summary": "AIエージェントを動かしっぱなしにして寝て、朝起きたらAPI代がすごいことになっていた、という話をときどき見かけます。ループに入ったエージェントは、止める人がいないとそのままAPIを呼び続けてしまいます。 自分でも同じことが起きるのが怖かったので、以前作った「AIの財布番」に、API代を1日の予算で止める機能を入れま…",
+  "publishedAt": "2026-11-08T12:43:39.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "aadb78db7fe9",
   "title": "deepseek-v4-pro と kimi-k3.1-pro、同じ指示で「本文が返るか」を三つの観点で確かめた",
   "url": "https://qiita.com/whitemarshall/items/e9687ca26cedd6ac3c86",
   "source": "Qiita",
   "summary": "APIの応答をパイプラインに載せるときは、リクエストが通るだけでは足りない。後続の処理に渡せる本文が返り、その内容も指示に沿っている必要がある。ステータスが成功でも、可視の回答文が空なら、画面にもログにも渡せる成果物がない。 2026-11-06（Asia/Shanghai...",
   "publishedAt": "2026-11-08T12:41:29.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "08068627bf00",
+  "title": "Anthropic、34億ドルでガス発電設備を自社購入 AI企業最大の単一エネルギー調達記録",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRQWVnQlBKVWNETU5PZWdhcGM0TmIxcDRHX2NycFAwN25WZ1QwekptQkRBS29XeE1GdFlTYjV2aFdCMi03NDFPcTRrTzh6NER3Q0xOOVhlaDZsUU5NNnVTbHduWlFoUmdiM19Nc05jU2pXTGdj?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-08T12:35:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -92,12 +237,65 @@
   "isPR": false
  },
  {
+  "id": "b0ac74e3895c",
+  "title": "孫正義が語った超知能と 70% の持論（#43 要点解説）",
+  "url": "https://zenn.dev/talks_tldr_jp/articles/tldr43-son-summary",
+  "source": "Zenn",
+  "summary": "! この記事は、Inside Blackstone（2026-10-13 公開）で孫正義が語った内容を、紹介と論評を目的に要点抽出したものです。翻訳の全文ではなく、筆者の見解を含みます。 前置き 聞き手は Blackstone の Christine Anderson です。番組は 30 分で、本人の区間は約 16 …",
+  "publishedAt": "2026-11-08T12:28:31.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f67af6521571",
+  "title": "「つながる物流」から「任せられる物流」へ――フィジカルインターネットに形式検証・AI・責任OSが必要な理由",
+  "url": "https://zenn.dev/ghostdrift/articles/eb15f1362d161b",
+  "source": "Zenn",
+  "summary": "フィジカルインターネット（PI）は、企業や業界の壁を越えて物流資源を共有し、必要な物を必要な場所へ効率よく届ける構想です。日本政府も2040年を目標にロードマップを策定し、その実現に取り組んでいます。[1] ただし、実現を妨げる問題は、空きトラックや倉庫を見つけることだけではありません。ある企業にとって効率的な配送案…",
+  "publishedAt": "2026-11-08T12:24:06.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3b2749ccd813",
   "title": "テストニ",
   "url": "https://qiita.com/hide9999/items/77c886569970eb6d81f0",
   "source": "Qiita",
   "summary": "marp: true theme: default size: 16:9 paginate: true lang: ja title: “exaBase AI研修 ② 初級” footer: “② 初級 ｜ 60分研修 たたき台 v1.0” style: | sectio...",
   "publishedAt": "2026-11-08T12:22:38.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c545d8897dc9",
+  "title": "大阪産業局・大阪府が主催する生成AIセミナーでAIリスキル代表の山原慎也が講師登壇｜満足度94.4%を達成",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FWnhwNWE3Zzg2YTVnZDZ6RVlRYWZBcTJvSk1FTEwxQXh3VWxnSlNBTUhnX2RiN3BsWXRZYlBudEhuSGNjVDZqYkdWWUZ3dFZIbTZSakpGc3kwUGxGZGxLTlZCZDJWMUwxbkpNZWZUbkl6THJl?oc=5",
+  "source": "Excite エキサイト",
+  "summary": "",
+  "publishedAt": "2026-11-08T12:10:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "00422b9fb7f6",
+  "title": "台帳を正本にした進捗ダッシュボードの作り方",
+  "url": "https://zenn.dev/ai_secretary/articles/5996bb4d88ed68",
+  "source": "Zenn",
+  "summary": "数字がバラバラだと、進捗が分からなくなる AI収益の仕組みを回し始めて2日目、気づいたことがある。記事の下書きは増える。アカウントは作った。受託メニューの叩き台もできた。なのに「いま、どこまで進んでいるのか」を聞かれると、すぐには答えられない。情報がファイルと頭の中に散らばっているからだ。 そこで私は、進捗を一画面で…",
+  "publishedAt": "2026-11-08T12:00:06.000Z",
   "image": "",
   "categories": [
    "other"
@@ -186,6 +384,19 @@
   "isPR": false
  },
  {
+  "id": "453497da8eb6",
+  "title": "PCのスリープでAIの家計チームが止まった。毎月・毎朝の自動実行で3つつまずいた話",
+  "url": "https://zenn.dev/dice_k_lab/articles/kakei-agent-team-schedule",
+  "source": "Zenn",
+  "summary": "こんにちは、Dice-K-ラボです。 前回の記事では、わが家の家計の整理を、AIエージェントの「チーム」に手伝ってもらっている話を書きました。 https://zenn.dev/dice_k_lab/articles/kakei-agent-team-overview 今回は、そのチームを決まった時間に自動で動かす話…",
+  "publishedAt": "2026-11-08T11:28:20.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "192e62ce39c9",
   "title": "ベトナムにおける人工知能のための技術基盤の構築。",
   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNThQN1dKc0h0a0VFVFk1NElPVlJsSC1TYnB1U1N6QklhS21ZdWN3QWVLcms1c2RwUjVHWG81VW5VV203YTBvNTk1ajc2ckVyMWlhUzhrQUtVYlZSWGQtOGh1YjRWSG5oeU1SLW5wSDZnMU03b2VYRnU0VDhBUUNKU01QaXY?oc=5",
@@ -212,6 +423,19 @@
   "isPR": false
  },
  {
+  "id": "e5709fe10f21",
+  "title": "Together AI レビュー：オープンモデル向けのフルスタックプラットフォーム",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmEyM3dQeENQNFlzSm9zVi16cUtfbm01TGt6ZmV0OUJoSGc0bUhkQmNUdHZlVnRrWGFSZnp0Rk9fZFVjZHg5dmZsc0xwdjhrZXBZZ2h2RXEwaFI4bHhsRGN6bHphR1dkbVB1SHhSdFgtSTJsLTVuR1dvYmc3Vi1HNzRTLV9tejQ3cnZaYU1CZlBSeXQ0Z0gw?oc=5",
+  "source": "quasa.io",
+  "summary": "",
+  "publishedAt": "2026-11-08T11:20:30.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "5edce494bcb7",
   "title": "ブルー津波の波紋が収まり、6日（現地時間）、米国証券市場で人工知能（AI）·半導体関連株の急落傾向がやや落ち着いた。",
   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFX2xqd25SYU40ZVlyR3RQZ09wdXlDcTJPMjhkbFJ2RXhOcFhFb1ZyS050a0l1a2IyYi1ldHhwaDdXZ1JicFp0ZzVEcTFCazg?oc=5",
@@ -221,6 +445,33 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5a0e034e0987",
+  "title": "危ないPRだけ人間が見て、レビューはAIにお任せ。AI自動レビューツール作りました",
+  "url": "https://zenn.dev/karamage/articles/f59f4109030d93",
+  "source": "Zenn",
+  "summary": "大量のPRのレビューで疲弊していませんか？ Claude CodeにPRを先にレビューさせて、危ないPRだけ自分に回すデスクトップアプリ「CC Auto Review」を作りました。 https://karamage.github.io/cc-auto-review/ja/ コードも公開しています https://g…",
+  "publishedAt": "2026-11-08T11:01:27.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "64f9dfe7c0a4",
+  "title": "AIの「記憶」と「権限」を分けて見直す、5項目チェック",
+  "url": "https://zenn.dev/build_anotherme/articles/27547dfe89950a",
+  "source": "Zenn",
+  "summary": "直すのは記憶？ それとも操作できる範囲？ レビューを担当するAIが「CIが緑なら問題なし」と覚えていたとします。でも、テストに通っていても変更内容を確認したいことはあります。この場合、見直すのはAIが使う評価ルールです。コードをマージできるかどうかは、別に設定する操作権限。記憶を直しても、権限まで自動で変わるわけでは…",
+  "publishedAt": "2026-11-08T10:55:10.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -512,6 +763,19 @@
   "isPR": false
  },
  {
+  "id": "9cbac2f79c8b",
+  "title": "Manago AIレビュー：よりスマートな顧客エンゲージメントを実現するエージェント型AI",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeXJSb243dFZiaEEyS3g5dHVwOFRfcHRXanoxaF84SGNuOTFzNVlSNWFTTWE5SGVOdnhwbnhQbHlFcGtzRkIwUTJKMVlzTFQ3cTd2RG14MGZ1NzRDS2lYWDdYeTRmZkQ0Z294dk4wWTVwUUVvZjdha0wxOGZFalFZZHJKY0FCUHFHcWh1SzVsV1diY3Z4cktFdlFFNmZ0QUkwSHc?oc=5",
+  "source": "quasa.io",
+  "summary": "",
+  "publishedAt": "2026-11-08T09:36:40.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f09335fd9fe1",
   "title": "韓国退職年金ETFの「分散投資」は錯覚…上位10本中8本がAI関連に集中",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vQWdBQko3U2U1TDk0RXliS2ZYaTBuQU5VeWZBc1ZQbWdhelhCVXZNczJseUJtMWF4alk1VWItODFiem04cHkzU1NIN3pLXzBVRkh4MktuY3M3ZVFUdmlCemxkX0xmVHFuQ2hzTVFhd1o3aVBC?oc=5",
@@ -547,6 +811,20 @@
   "image": "",
   "categories": [
    "dev",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "65827dae1d70",
+  "title": "BTPropを公開ログで再現し、NLIのつながりを壊して比べた――LLMの嘘検出で「つながりを疑う」BPはどこで効くか",
+  "url": "https://zenn.dev/mst_design2020/articles/8b904689df2ddc",
+  "source": "Zenn",
+  "summary": "LLMの答えの嘘（ハルシネーション）を、文どうしのつながりから見つける方法に BTProp（Hou ほか、NAACL 2025）があります。個人研究で似たこと（ルールも疑う確率伝搬）をしていたので、BTPropの作者が公開している材料をそのまま使って、同じテストで比べました。 結論を先に書きます。 論文の数字は、公開…",
+  "publishedAt": "2026-11-08T09:07:00.000Z",
+  "image": "",
+  "categories": [
+   "model",
    "product"
   ],
   "isPR": false
@@ -904,19 +1182,6 @@
   "categories": [
    "product",
    "dev"
-  ],
-  "isPR": false
- },
- {
-  "id": "07640223351e",
-  "title": "OpenAI、データセンター事業の推進方法見直し－世論の反発受け フォトギャラリー | TBS CROSS DIG with Bloomberg",
-  "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNeDk4S0xndFRDUzVjU3J1TTJfUm9DNk4xaEhjVmp6VHRoNUc0aVlVbGpLdzJCZUVxNTdicWNWZTJ0YThtMjhVSEFIak1LQnlINXQ3UzdUMU9yT0VScks1U250MFdPN2ktaTR5bU53WkRVWk41cDZRejVKWXlmb0cteVJvbDBGLXFQb25JOUpzRmJtVEtreDdnNEtxaFRnQzR2c0hnOE5QWXh3c0hzcGhGc0N5azF3b1pIcWpERG9QRnN0QkdCTHl2Nk1YRTh5VVNPT1VMWUZ3dWg4c1FJU3hjWTJvSnlEaTByWFUwZmtPMWRwcG9vNGxhUFFmaVVGYjA4NFZZTWlzc0I?oc=5",
-  "source": "TBS NEWS DIG",
-  "summary": "",
-  "publishedAt": "2026-11-08T07:34:13.000Z",
-  "image": "",
-  "categories": [
-   "infra"
   ],
   "isPR": false
  },
@@ -1977,6 +2242,19 @@
   "isPR": false
  },
  {
+  "id": "07640223351e",
+  "title": "OpenAI、データセンター事業の推進方法見直し－世論の反発受け フォトギャラリー | TBS CROSS DIG with Bloomberg",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzhJTFlaSjluZF90WlJQRVFpWUxuMGdZTW9NdVBrMVpyZmJuVUpqZ2hSUzFkNFdiMVd0ZV85RFJqUFdwSDc5YXpaT21xRjVoenhEVllTNkhjbjNkWnZ0aWJuUFhwc1hMa3FBMUg0QlRtUHRKMlVsdElOQnd3ODV3V0hKeEdtbWc?oc=5",
+  "source": "TBS NEWS DIG",
+  "summary": "",
+  "publishedAt": "2026-11-08T01:30:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3a594e6bf57a",
   "title": "フジテレビ「全ドラマAI導入」に影を落とすハリウッドの「失敗例」AIシーン乱発で視聴率が暴落する",
   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wODM2TTdiVFpWNjV6TWZudl9BcGhxbk9YanExU3lRWi12WmRWSDM5amRIdG03X1pseVpodlJtYXNybGhfUXlMOC1GWjBIVkJUVzFLNm1qUVJrS3RrWjBMOXNWQl83c1VtTVRxdHB3?oc=5",
@@ -2866,19 +3144,6 @@
   "source": "Qiita",
   "summary": "11月7日のAI業界は、派手さより「既存能力の日常化」がテーマの一日になった。OpenAIは外部セキュリティ企業を自社システムの攻撃側に招き、画像生成モデルは全プラットフォームで更新、Metaはフラッグシップエージェントの記憶能力を全ユーザーへ展開、Microsoftはエ...",
   "publishedAt": "2026-11-07T22:08:55.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "00422b9fb7f6",
-  "title": "台帳を正本にした進捗ダッシュボードの作り方",
-  "url": "https://qiita.com/ai_secretary/items/a3c72fa33ac9e29b31be",
-  "source": "Qiita",
-  "summary": "数字がバラバラだと、進捗が分からなくなる AI収益の仕組みを回し始めて2日目、気づいたことがある。記事の下書きは増える。アカウントは作った。受託メニューの叩き台もできた。なのに「いま、どこまで進んでいるのか」を聞かれると、すぐには答えられない。情報がファイルと頭の中に散ら...",
-  "publishedAt": "2026-11-07T22:08:52.000Z",
   "image": "",
   "categories": [
    "other"
