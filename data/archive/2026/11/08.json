@@ -1,5 +1,70 @@
 [
  {
+  "id": "bffcab698b93",
+  "title": "Claude Code のコミットを100行以内に分けさせる",
+  "url": "https://qiita.com/acerola_jp/items/9a5962efe449e19c75d9",
+  "source": "Qiita",
+  "summary": "Claude Code に「全モジュールに〜を追加して」と頼むと、数百行の変更が1つのコミットにまとまって出てきます。レビューする側は一度に読み切れません。AI が書く量が増えるほど、レビューの詰まりは「読む人の注意力」ではなく「変更の切り方」の問題になります。 変更を小さ...",
+  "publishedAt": "2026-11-08T02:26:47.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c374b9077905",
+  "title": "生成AIによる自動電話「ロボコール」はなぜ嫌われるのか？ 回数の多さだけではない、リアルタイムで受け答えされても「ニュアンスが通じない」（マネーポストWEB）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1udVAyTHE2OE9RNmRkOFNqdzFWeTQwU2dsZGlvVFZRVS1faWZQSWtWUUVJNTE4amhmcWlHVzhEdnNPcTZHQnlhUmRSLVZuVkV6NWY3LXRzb2xQVE9aN1pPNS1rVVFqVjYzQVlFdWRQZFpHcXN5SW8xMUhad21RMlk?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-08T02:16:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0e072bfa84df",
+  "title": "【747人の診断データ・続報】AIの使い方をチームや会社で広げている人は、繰り返し作業のAI化が「自分だけで使う人」の",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkcUpuQjdhQW1FaG5XYmdXdUVlZllNSmxLeGROTkRTalU5d0h4X1UtS256c1k4T1BjR2wxWnVlU2pGdW1uOXJlMTEyOG9CeXhIcDJBNEtqa1JmV244U2pqZzBJZFZrYXJKbncxRUZKdjRJbzF5T0xqRUpTbw?oc=5",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-11-08T02:15:11.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "236e5906be15",
+  "title": "n8nのJSON Bodyが本番データだけで400を返した — 送信前にExpressionとJSON構文を静的検証するCode nodeの完全実装",
+  "url": "https://qiita.com/yukihayama/items/6789ad7fc5fb8bd5f798",
+  "source": "Qiita",
+  "summary": "深夜23:47、本番Webhookの失敗通知が37件。APIは 400 {\"error\":\"invalid_json\"} を返し続けていました。テスト実行は緑のまま。原因は、JSON Bodyに埋め込んだ顧客名に半角引用符が入ったレコードが来たこと。Bodyの組み立てを実行...",
+  "publishedAt": "2026-11-08T02:05:51.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8c9b887f86a1",
+  "title": "AIショッピングが台頭、ただし注意が必要",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NZld0WXRTN2swY0FnMUttNng4dXgwaWhNYjgxdGpKMjlEU3hPeFowaWMtdlJrRTFQd0NoVnBHVTYwYTZPTnl4NlJjNlczdw?oc=5",
+  "source": "バロンズ・ダイジェスト",
+  "summary": "",
+  "publishedAt": "2026-11-08T02:00:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3e014ccfaf26",
   "title": "台湾華語 : アンスロピックのIPOとモデルの進化",
   "url": "https://qiita.com/maszkot5/items/4eed893a4568f5ecf629",
@@ -9,6 +74,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "390a25a9991a",
+  "title": "AIレコメンドの繰り返しで嗜好が歪む…UNIST、バイアス追跡技術「EchoTrace」を開発",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oT3hPMHB4UGFpd0FiOUpOZndybWVMeUxYT0MybEhReHNyRGt6dHUxRFhPbHc5Y1dfWG5KQUZ4TjhUdkI2RV80Uy1VbFhveURxOG16Z1lXbkxLMl9FNy1YcU05c3dQdVdUZElLTFNwV2h2VFdT?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-08T01:55:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -114,6 +192,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3ed5e8ef3d68",
+  "title": "Amazonで探す、ChatGPTが使いやすいノートパソコン10選｜持ち歩きと自宅作業で選ぶ｜スプリー | 軽やかノート",
+  "url": "https://note.com/spry_bounce_note/n/n130dd232030e",
+  "source": "はてなブックマーク",
+  "summary": "PR ChatGPTでメールの下書きを作って、ブラウザで出典を確かめて、Wordに貼り付ける。そんな作業をしていると、気になるのはAIの性能より、画面の狭さやタブを切り替えるときのもたつきだったりします。買い替えるなら、ChatGPTを開いたまま普段の仕事を進めやすい一台を選びたいところです。 ブラウザ版のChatG…",
+  "publishedAt": "2026-11-08T01:06:33.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fspry_bounce_note%2Fn%2Fn130dd232030e",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
@@ -624,7 +715,7 @@
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vbmtMSE9Pa0lyV1JHWkgxTjNaUThFZmZhN0lEYzVkMGwxX3dWalBxR28tWUQ3blpvbVpkWlJEUFJRVUhFUUhtcWltUklJSTlEdHpLZHNLWUY3aEhka05JUGZlbHlyTWIwLXpwWkFzekp2RThkNG56UlUyYm5yY2c?oc=5",
   "source": "Yahoo!ニュース",
   "summary": "",
-  "publishedAt": "2026-11-07T22:53:00.000Z",
+  "publishedAt": "2026-11-07T22:48:54.000Z",
   "image": "",
   "categories": [
    "policy"
@@ -632,25 +723,12 @@
   "isPR": false
  },
  {
-  "id": "f21e5c85ea78",
-  "title": "自律して動き、仕事を進める「AIエージェント」とは?従来の生成AIとの決定的な違い（TBS CROSS DIG with Bloomberg）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzUVFjd0ZjQzYyU0h4ZFB0NGJfdVBLNmNmQ2ZLUUdvMTNxV2htYU9ja2NlWEFrTnkyTXRYNS1Fem9aelEyNnRVMEMzREd2SEdKc3BXMlpZVHcxaERpWE5tSnZKTXhwUmVVbTBXeWJKS25HeTBEQ3RsMktqWkY0T00?oc=5",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-11-07T22:51:42.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "6b255d2a0213",
-  "title": "犯罪者サーバーから「AI脱獄ツール」発見…OpenAIのCodex改ざん、回答に勝手な広告挿入する新手の罠（KOREA WAVE）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96am9HdU1fRnJ2WVo2VVhJZGpla29TZ1R6OVVLY01SUl9OS1lfcFJHYk9XUWdyU3dtVHFpUXYtWnBicnJ6VEw4Yy1sOWE0LU1KOFhiNG4tTk9JZDZJd255M3FqR085ak5HYmFYRHM1Wk04cG1lek1ycC1YajdSVWc?oc=5",
-  "source": "Yahoo!ニュース",
+  "title": "犯罪者サーバーから「AI脱獄ツール」発見…OpenAIのCodex改ざん、回答に勝手な広告挿入する新手の罠",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiM29ETEhRcnpLY245RjhMblhDajhhaDUxbENnV1FyRzVDemQtcFpFVnFpNG41YTVFNE9rTTc3LWh6S0tWdzlhVXpXNllvYzg4NHhRbNIBVEFVX3lxTFBiM29ETEhRcnpLY245RjhMblhDajhhaDUxbENnV1FyRzVDemQtcFpFVnFpNG41YTVFNE9rTTc3LWh6S0tWdzlhVXpXNllvYzg4NHhRbA?oc=5",
+  "source": "AFPBB News",
   "summary": "",
-  "publishedAt": "2026-11-07T22:49:58.000Z",
+  "publishedAt": "2026-11-07T22:42:35.000Z",
   "image": "",
   "categories": [
    "product",
@@ -695,6 +773,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f21e5c85ea78",
+  "title": "自律して動き、仕事を進める「AIエージェント」とは?従来の生成AIとの決定的な違い（TBS CROSS DIG with Bloomberg）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzUVFjd0ZjQzYyU0h4ZFB0NGJfdVBLNmNmQ2ZLUUdvMTNxV2htYU9ja2NlWEFrTnkyTXRYNS1Fem9aelEyNnRVMEMzREd2SEdKc3BXMlpZVHcxaERpWE5tSnZKTXhwUmVVbTBXeWJKS25HeTBEQ3RsMktqWkY0T00?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-07T22:30:33.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -761,6 +852,32 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "894ec5cc2970",
+  "title": "QommonsAI活用研修を北海道佐呂間町（ほっかいどう さろまちょう）で実施- 生成AIの初導入に向け、基礎から業務活用までを学ぶ",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vT0xWN3R4ZGlpbG95S05hM2JERUJ3WW1aQ2NTSGwyX2NrZ0g3UG4xbTI1dEFab0Y4bW9lQnJqOTZzOWd0UU83YTk0QzFLYVliTVZtQWFNajdzS29RcGN3aUxiMjdSeno5WndVd0hZb204NEhr?oc=5",
+  "source": "Excite エキサイト",
+  "summary": "",
+  "publishedAt": "2026-11-07T22:10:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6c9c88424270",
+  "title": "株式会社VOST、「DX 総合EXPO/ビジネスイノベーション Japan/AI World 2026 秋」に出展",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zMWFFV0ZBTVo1OHdjRkpkMkhzVjdaY0tsX0FVOWVzZlh5LXFHUWw4Yy1TdnhHNFRjUmZzeHpfTS1RQXU1WERSajBERmZYQmlCTlQzcElLQ2dKNzVLQXRyNmtJUE9xRzA4U0Rad1lpQkFTVlE?oc=5",
+  "source": "Excite エキサイト",
+  "summary": "",
+  "publishedAt": "2026-11-07T22:10:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -1011,6 +1128,33 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "89a5151ed8bc",
+  "title": "グーグル・ディープマインドのエコノミスト、アレックス・イマス氏：数百万のAIエージェントでも2桁成長は実現しない",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56SENvbXpYMlRuWE1yTERGMHdNNnNDRjYxWlcyU1pQOE9IUlY0cVRqVTJNYmxPZ1ZTZXp6X3FDaWZVYXp0RXMyd013bG5GMmdWZHZtVHAwSzVTdw?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-07T20:08:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5d2a81e6061d",
+  "title": "米国中間選挙後のAI市場、SpaceXとAnthropicの契約が「AI構築全体の価格を再設定する」可能性＝チャマス・パリハピティヤ氏",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90STFWT21KOWd4ZVBJUG5NaTZZR2FtVk9SZGM3NzF6cXltcXZieUt5Vkh5SkRFTGxaQ1V4c2dUS2U0RU44VFJYZ1MwTTNnQlViNzVKaXBXdFJGZw?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-07T20:08:00.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "dev"
   ],
   "isPR": false
  },
