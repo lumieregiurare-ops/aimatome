@@ -1,5 +1,45 @@
 [
  {
+  "id": "18cc0e921ca0",
+  "title": "Python requests のデバッグで API キーがそのまま出る：logging DEBUG では出ず debuglevel=1 で Authorization が丸見え（実機確認）",
+  "url": "https://qiita.com/supportapp3/items/648fc00169c38050f031",
+  "source": "Qiita",
+  "summary": "結論 Python の requests で通信をデバッグするとき、logging を DEBUG にしただけなら Authorization ヘッダーの値は出ませんでした。出たのは \"GET / HTTP/1.1\" 200 のような1行だけです（2026-11-09、...",
+  "publishedAt": "2026-11-08T20:15:54.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "667cf2dc569b",
+  "title": "ＴＳＭＣ、半導体設計に自律ＡＩ 一段の効率化追求",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpeVRnSHZ3Rkt1eVNSZXFNb1VPQU9LQ1RyWEZ2SEhPQ25rXzBEc3N1WEVEd08tYWVIMTNSWUk0b1hRNzVCcm1wcERoQzYwa2VoWUFB?oc=5",
+  "source": "化学工業日報 電子版",
+  "summary": "",
+  "publishedAt": "2026-11-08T20:01:29.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "fa04eaf8f50c",
+  "title": "ＡＩやデータセンター規制法案、中間選大勝した米民主党が提出方針…トランプ氏は拒否権で対抗か",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WRXh2VU9zNFhkemcyZE5FbDc4UlV2b1YyN1hlTTV4cWRHTE9RYmJzNHdBU0VXQ2dMWXFMVW9sTVg5SE10OW5ScnZFdFJpeWhnalZZcVM0MXM4U1Y3N05HY1BB?oc=5",
+  "source": "読売新聞",
+  "summary": "",
+  "publishedAt": "2026-11-08T20:00:31.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "04c7d4833314",
   "title": "生成AIにも人間にもやさしい、Markdown記法の仕様を押さえよう",
   "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03787/100800001/",
@@ -108,6 +148,32 @@
   "isPR": false
  },
  {
+  "id": "15c55f059e43",
+  "title": "「弱気相場」入りの日経平均、下値どこまで 米AI規制の行方焦点",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zNVlVS1R0QUJRRmZBakJubzV1RHZzeW5SbG1RTFMtTERTaGNDYXNrNjA1TE0yYTY4YmMyVnhCVW1GcnF5SnhoZmxJT2gyNm1UZ2ZuUkFDRkc3TEhjWmxwWk4wWmNzUkx3NmFUcQ?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-08T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2bac3bd2a197",
+  "title": "AI国際規制は必要か G20の首脳演説で浮かぶ各国の本音",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMzhSZ1pDTEFSYTJvQkc0SnpsNTA1Z2F0UW5ZTlN4cDFSQ2xIaFVudmRkSGFiVE80TEFabU9MX0ktcjJfaHh4VlM0dkJJQll2WmR1aVZSSDJLckc1VDlmN3g1SFFKeDN0eGd1ZTRyblhLMTJneDRPZXFOT3Zqc2pBbXBmUmJTN2ZjbEF2Ng?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-08T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f253b90aaba2",
   "title": "自作MCPサーバー その3",
   "url": "https://qiita.com/ohisama@github/items/01be914e184f847f4106",
@@ -117,6 +183,19 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b6da76cd5c1e",
+  "title": "ホワイトハウスの要請、米国AI安全センターの独立性に懸念",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNkV1UGZVcnowVXFVZ0IzZUd3NUdKY0N6a3pmVjBtbGJMQlpTbzNxcTRtanA4WENveWltVE1LdENYT3dFVXFQNzVJWHRkUFltakNLWUNfckRTYTR3OTJfYWVCUlFIMzNTZDhXc3lQeW13cGM5dGk0eUFfNDNWbndHb0ZJcUtxSXBTVnhHZEFrUUY2UFZLWEItcg?oc=5",
+  "source": "Unite.AI",
+  "summary": "",
+  "publishedAt": "2026-11-08T19:34:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
