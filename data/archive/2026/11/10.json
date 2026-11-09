@@ -1,11 +1,155 @@
 [
  {
+  "id": "0ef48f46a803",
+  "title": "Claude Codeのコンテキスト枯渇を防ぐ「Thin Orchestrator」設計 — 親は読まない、パスだけ渡す",
+  "url": "https://qiita.com/joinclass/items/7159dea2ad9280ff27ac",
+  "source": "Qiita",
+  "summary": "はじめに：会話の途中から急に指示を守らなくなった 当社（合同会社ジョインクラス）は、Claude Codeで10部門分のAIエージェントを動かして会社を回しています。launchdジョブは17個以上あり、記事公開・営業パイプライン・朝のダイジェストまでほぼ自動です。 ただ...",
+  "publishedAt": "2026-11-09T23:30:08.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2389fb5a683f",
+  "title": "バーチャルバズメーカー：AIがバズるまで帰れません！",
+  "url": "https://qiita.com/lemonIN/items/1fb86c065f9600988aa1",
+  "source": "Qiita",
+  "summary": "ゲーム概要 ゲーム内容 プレイヤーは、まだ何者でもないAIに「インフルエンサー」としての命を吹き込み、SNS上で一世を風靡させることを目指す育成シミュレーションゲームです。AIのキャラクター設定から、投稿内容のテー...",
+  "publishedAt": "2026-11-09T23:29:20.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3c8ec04c9e42",
+  "title": "なぜAI生成のLPは全部同じに見えるのか：選好チューニングのモード崩壊を測定値で読む",
+  "url": "https://qiita.com/pich/items/90446f75532fab514bc8",
+  "source": "Qiita",
+  "summary": "TL;DR 25のLLMに「時間の比喩」を1,250回書かせると、アイデアは2つに収束する（Artificial Hivemind, NeurIPS 2025）。 原因は「平均化」ではなく、選好最適化の勝者総取り。同点でも一つに寄せるのが最適解になる（Lanchant...",
+  "publishedAt": "2026-11-09T23:22:44.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "65623ba0fe80",
+  "title": "重みを変えずにエージェントは「自己改善」できるのか：RSIを主張する前に確認すべき3点",
+  "url": "https://qiita.com/pich/items/a00be61b09de28b5b9a4",
+  "source": "Qiita",
+  "summary": "TL;DR RSI（再帰的自己改善）は「改良が次の改良を助ける」フィードバックループのこと。AGIや意識の別名ではない。 改良の対象はモデルの重みとは限らない。ツール、メモリ、計画ソフトウェア、学習プロセスでもよい。 「何が変わり、何が保持され、次の改良に効いたか」を...",
+  "publishedAt": "2026-11-09T23:22:13.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d1d2b958355b",
+  "title": "Microsoft、AIエージェントでRust 標準ライブラリのメモリ安全性の脆弱性を発見 safe Rustでも未定義動作、約11年間残った不具合も|セキュリティニュースのセキュリティ対策Lab",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS2dMbG52UF9LUXNfbmRDWnBHMm9XWXhqMTd1bFRjRGhiTkNaT2l6d24xcjJySGtDLURtdUFHUXFvRzJQYWR1Rl8wUzhaUzlYZVBVMUZUdGxMTS01eXZWdTlJVXV2N1VmajZWY2xFNHc2RjhFWWtxWFJEbjRaUGJfMHlNazVLN0MtQmp0dWJ5dUlvTXdPMVBLaV9WbUw?oc=5",
+  "source": "合同会社ロケットボーイズ",
+  "summary": "",
+  "publishedAt": "2026-11-09T23:15:44.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ab7e10b1edce",
+  "title": "OpenAI、AIモデル35秒以内に強制停止へ－中央管理システムで常時監視",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONldlUTdPSng5REctb3E1VEY3ZlRRZU5YN28zQ2VjaVZ4UGdTWEpFSUdWa1hBVTZfY0lYMGdCRG4xdU5XNkNYVUo0RWFFeFVJSENBeHF0U0dOdjdwUjBERGhxdVlidi1WTUpyZnQ0S1lPaFZiODlHa3VSckkxc3VsWndSLUlMWHg1NnFTYmVB?oc=5",
+  "source": "Bloomberg.com",
+  "summary": "",
+  "publishedAt": "2026-11-09T23:07:28.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e46db0f8a137",
+  "title": "Anthropic、「Claude Fable 5.2」「Claude Mythos 5.2」を発表 ～最強モデルがより高速・安価に",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iSTdzV1RqRVAtVzZ1d1pHYU15YkJKaV9HcG9vX0pyckVsZndPalRMTzBkYkt5bWhnWGY1SUtvVE42UmdIV2dBcWh1YVFJYnF5OWRfWUtHa05VMTdEQkxQV0VKMDV4NHNt?oc=5",
+  "source": "窓の杜",
+  "summary": "",
+  "publishedAt": "2026-11-09T23:04:37.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "9caa4ad86930",
   "title": "SES案件の選び方｜単価を下げてでも取りたいAI時代の判断・監督経験",
   "url": "https://qiita.com/Skillsheet-Port/items/3705e0221c1d5095d8ff",
   "source": "Qiita",
   "summary": "SES案件の選び方｜月5万円下げてでも取りに行くなら「判断と監督」の経験だ 次の案件を、単価の高い順に並べて選んでいないだろうか。 AI時代に差がつくのは、技術そのものより、その上に乗せる経験だ。 AIの出力を判断し、任せた仕事を監督する経験。 この経験が得られるなら、一...",
   "publishedAt": "2026-11-09T23:00:16.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "19b4d4c6ab9a",
+  "title": "たった一つの会話も無駄にしない ― Zoom AIが導く“会話から完了へ”の未来",
+  "url": "https://ascii.jp/elem/000/004/449/4449920/?rss",
+  "source": "ASCII.jp",
+  "summary": "ZVC JAPAN（Zoom）が年次カンファレンス「Zoomtopia ON THE ROAD 2026 JAPAN」を開催した。メインテーマは「あらゆる会話を、未来へ。～From Conversation to Completion～」。Zoomが提唱する“会話から完了へ”の世界を、最新のAIイノベーションや顧客導…",
+  "publishedAt": "2026-11-09T23:00:00.000Z",
+  "image": "https://ascii.jp/img/2026/11/09/4549872/s/cf37545be3ff71ea.jpg",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "fd7b52183621",
+  "title": "グーグル、AIモード検索でレストラン予約に対応 ぐるなび、一休など",
+  "url": "https://www.watch.impress.co.jp/docs/news/2154915.html",
+  "source": "Impress Watch",
+  "summary": "Googleは6日、Google 検索のAIモード検索において、レストラン予約検索機能を発表した。「ぐるなび」、「一休」などと連携し、AIモード検索で空席情報などをリストアップできるようになり、今後数週間で順次展開していく。",
+  "publishedAt": "2026-11-09T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c27d76db366d",
+  "title": "生成AI販促の成否を分ける文脈整備と入力。AIの言葉を顧客はどう受け止めたか、西村ジョイらが検証",
+  "url": "https://markezine.jp/article/detail/78008",
+  "source": "MarkeZine",
+  "summary": "生成AIを販促に活用する動きが広がる一方、AIが生成した言葉を顧客がどう受け止めるのかは、まだ十分に確かめられていません。本稿では、Re Data Science代表の高田悠矢氏が、香川県を中心にホームセンターを展開する西村ジョイと、流通小売業の折込チラシ制作・デジタル販売促進を支援している総合オリコミ社とともに取り…",
+  "publishedAt": "2026-11-09T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "42b0d6c29894",
+  "title": "ガートナーに聞く、AIコスト統制の最新動向 全社最適化はどこまで可能か？",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xdHliTENISkUwWkd0MERSeVE0Y044TExvUkhrT1N6RlpFckM3bnRIYlJnazdsM1BISmYzdUVMbF9oRGV2YmFOM2RqXzdnM3V2MDBsSjJMTHFEZw?oc=5",
+  "source": "EnterpriseZine",
+  "summary": "",
+  "publishedAt": "2026-11-09T23:00:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -109,7 +253,7 @@
   "id": "adbbcba7effd",
   "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化",
   "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/",
-  "source": "ITmedia NEWS",
+  "source": "ITmedia AI+",
   "summary": "Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。",
   "publishedAt": "2026-11-09T22:26:48.000Z",
   "image": "",
@@ -154,6 +298,19 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "42254498a01f",
+  "title": "損保が代理店の評価にＡＩ導入へ 三井住友海上、負担減狙い",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hNDZ6Y1BCazh4eENGdG9iWHNabkh0N1d6X1VRMVpQWnNOUjlrLXRDNUloSXNKbS1fZkl5NDQ5VDFzTWUwWDdfMGx5QXV6MFh4MUVqbFN2YnU?oc=5",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-11-09T22:18:27.000Z",
+  "image": "",
+  "categories": [
+   "case"
   ],
   "isPR": false
  },
@@ -502,6 +659,20 @@
   "publishedAt": "2026-11-09T21:48:05.000Z",
   "image": "",
   "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a22f041fd97a",
+  "title": "アンスロピック、AIエージェント1000超を指揮する新モデル公開",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2drSGppWjBOR2p3dTlxelV3TGhvT0YySU9xbl9yMUNsZksyYndjcHVtM3RWUU1LTXphMHd2UE9DWkxJTWJCVVJUMG1qNWV4Sml2TXNwdzd3WGlTQzJOVXdFbnpBbEl6NmNpUVptVW5hcnc3SlNna1NNWGwwZUZzWQ?oc=5",
+  "source": "조선일보",
+  "summary": "",
+  "publishedAt": "2026-11-09T21:43:00.000Z",
+  "image": "",
+  "categories": [
+   "model",
    "product"
   ],
   "isPR": false
