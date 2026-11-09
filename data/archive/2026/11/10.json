@@ -1,5 +1,111 @@
 [
  {
+  "id": "2e6ffe27879c",
+  "title": "axios のエラーを console.log(err) すると API キーが丸見え：redact は JSON.stringify には効いたが console.log には効かなかった（実機確認）",
+  "url": "https://qiita.com/supportapp3/items/2c356f155beca1fbf153",
+  "source": "Qiita",
+  "summary": "結論 Node.js の axios で 401 などのエラーを catch (err) して console.log(err) すると、Authorization: Bearer ... の値がそのまま出ました（2026-11-10、Node.js 24.22.1・a...",
+  "publishedAt": "2026-11-09T20:15:32.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "25a536b3ea1c",
+  "title": "Claudeの契約者にFable 5.2の無料リセット、最大3回",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSXZvMmNvSUxBT18zOFRFZHZvLVlVXzNOSktMMEVWbk5oZWlyWEg4X3d0ZnhsNjJNM0Z5UC1pU2xZSV9XaTVULVBlelpxTHo2YkZzcXI1cXhrSk50SFZtN3VoM0pQVlRXRzh1MVBtMmFsZjVHb0s4N293Wmdqb29icWUxbw?oc=5",
+  "source": "Pasquale Pillitteri",
+  "summary": "",
+  "publishedAt": "2026-11-09T20:14:37.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9639b13df0d5",
+  "title": "テスラ追いかけ米中で参入増",
+  "url": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00150/00005/",
+  "source": "日経クロステック",
+  "summary": "End-to-End（E2E）自動運転技術に参入するプレーヤーが相次ぐ。「AIモデル」「車載SoC（System on a Chip）・メモリー」「自動運転センサー」「配車アプリ」の参入企業を整理した。自動運転の二大商業地域である米国と中国が圧倒的な存在感を示す一方、日本や欧州の参入企業は少なく、E2E自動運転への出…",
+  "publishedAt": "2026-11-09T20:05:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6b003630189e",
+  "title": "「生成ＡＩ時代の組織と社会」 国際大教授 山口真一氏が講演 １８日、千葉政経懇話会１１月例会",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XMXhramJTbzVBcllGcnZGaHNYdXR4MVFYN0RVejhOUUVmd05fQVhtM0xlVUp4TmZmSTA5anpxZENlNEo3YTNHN0JhcVdMY0IwbDhRaDU5NGY?oc=5",
+  "source": "千葉日報オンライン",
+  "summary": "",
+  "publishedAt": "2026-11-09T20:04:43.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "442008332d10",
+  "title": "モメンタ、日本に急接近",
+  "url": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00150/00004/",
+  "source": "日経クロステック",
+  "summary": "End-to-End（E2E）自動運転技術が世界で最も普及する中国で台頭しているのがMomenta（モメンタ）だ。トヨタ自動車など世界の完成車メーカーが中国で採用する。米Tesla（テスラ）を追いかけ、データを収集して学習させるサイクルを高速化して急速に性能を高めてきた。世界進出にも乗り出し、日本では実験を始めている…",
+  "publishedAt": "2026-11-09T20:04:00.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5503962e2630",
+  "title": "NVIDIAに車メーカー殺到",
+  "url": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00150/00003/",
+  "source": "日経クロステック",
+  "summary": "End-to-End（E2E）自動運転で米Tesla（テスラ）の最大のライバルと考えられるのが米NVIDIA（エヌビディア）だ。AI（人工知能）モデル「Alpamayo（アルパマヨ）」などをE2Eの開発基盤として無償公開した。世界の完成車メーカーや自動運転ソフトウエア企業と巨大なエコシステム（経済圏）を形成し「プラッ…",
+  "publishedAt": "2026-11-09T20:03:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "767524c446cb",
+  "title": "人と同じ運転感覚",
+  "url": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00150/00002/",
+  "source": "日経クロステック",
+  "summary": "米Tesla（テスラ）が2026年9月初めに米テキサス州オースティンで配車サービスを始めた、ハンドルやペダルのない自動運転タクシー（ロボタクシー）「Cybercab（サイバーキャブ）」。End-to-End（E2E）自動運転技術の世界最先端と見られている。その実力はどれほどか。記者が現地で100km以上乗車したところ…",
+  "publishedAt": "2026-11-09T20:02:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ce4e16f0ba10",
+  "title": "車の稼働率10倍、収益構造激変",
+  "url": "https://xtech.nikkei.com/atcl/nxt/mag/at/18/00150/00001/",
+  "source": "日経クロステック",
+  "summary": "米Tesla（テスラ）のハンドルやペダルのない自動運転タクシー（ロボタクシー）「Cybercab（サイバーキャブ）」は、自動車産業の収益構造を大きく変える可能性を秘める。車の製造販売を収益源とする完成車メーカーは、移動サービスを提供するプラットフォーマーへの変貌を迫られる。車の使われ方が変化し販売店（ディーラー）や公…",
+  "publishedAt": "2026-11-09T20:01:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "e10f1b175067",
   "title": "日産デザイン部門の新トップ「退屈なクルマは大嫌い」 AIで内装シンプルに",
   "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03565/110500042/",
@@ -156,6 +262,85 @@
   "isPR": false
  },
  {
+  "id": "e81d0beeb733",
+  "title": "画面の中のAI、現実を知らず 「世界モデル」著名研究者",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ0d3RU9kZUpCaVhvaVNES190bV84eHZkUjZPSTkyd3lwUGRKU0J4TllaZTNkbjlIRnpheVhfVi11b0dVMjFfdDRvS25QRk5oVDRab1JkOE56ZVR6ZlI3OWxSbXlUYWpyMTRiZkdvUzdwSkVrTkNsVUd6WFVldmNBejBGTnNjaUhraXNUQg?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-09T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b4d161b2097f",
+  "title": "Microsoft Copilot Coworkを使う、複数タスクを任せて報告書作成",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS3BrOThkOEgzd2NQMWRqYTAtd1BEcEV4bjdRNkVGdHd4Y0NOVWtBMEZodkpTNXl2X3h2WUlUSGhlMDk1dlpnNlBTZGN6QmJjQXFKa0tVM0d1TWpwQ29fVEZhUTlfY0trTEoyVGJOMGlfRzZCZDVsdHJWTThXVTA1YjJtRmNrTDhTRXVvWWhoLWVRYlU?oc=5",
+  "source": "日経クロステック Active",
+  "summary": "",
+  "publishedAt": "2026-11-09T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f61648e70b96",
+  "title": "AI規制は「サイバー防御を捨てるに等しい」 ホワイトハッカーの警鐘",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZMWJFWFBraXBzY0QycnpnMFRBMU45ckUtdlhYcVFRbGRMVDRvYXFhWWdIYkc5TXlic1BxZ0RwajdPWVY1SmZreUlxOEVBYnhPNE5NSWJISDBHQ25wWkVfOVN5Nm9NRHFDZ0lpSg?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-09T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "22b62fa440b3",
+  "title": "産業春秋／米AI・データセンター規制",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9obnVORnQ3c2VuNEMwdTZFTVh3cVBwYi1kUDVTNlZBQ19uLS1IQkhteHQ2OXFLeEQ4cF9zSW0yeDdkV0x4b0llV3pKY0xZWXVUU3ppWkdfZ3M?oc=5",
+  "source": "日刊工業新聞",
+  "summary": "",
+  "publishedAt": "2026-11-09T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6a0250fbd225",
+  "title": "コアウィーブ、綱渡りの23兆円調達 「AIの中央銀行」NVIDIAと蜜月",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8ycjlOUmdNSF9xV29Fbm56ZDh2eUtSeFByYk53NGF4U0g4VWhDT19zbkpXbjRUOXo5U1Q2d2JjYkJCQWVDRllmT3l0VlZrT1hVOTZ1Mi16Z256SVhlRTgwcDBNY1V2WW4yWVNHUw?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-09T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "74d958c16a69",
+  "title": "ソフトバンクG10日決算 AI投資に逆風、財務の健全性を市場注視",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wb3p3eWF0cDYzai0wTnlqcFdMRUdZa3ZJYnhCajBEblZWazUzRzliaU5tTjk1NGFFZVZxQXB4TWtkemhQS0dwMUY5ZjlVYkRMME40RHpGNFFVOG9ZbVBDcUJ2S05Na2VLQjFRLQ?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-09T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
   "id": "88838743e737",
   "title": "Attention Is All You Need【G検定対策・技術者向け】",
   "url": "https://qiita.com/mrmrmr/items/3c213725ec25d74fc8af",
@@ -165,6 +350,19 @@
   "image": "",
   "categories": [
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "78faa77cc40f",
+  "title": "Claude Fable 5.2とMythos 5.2が登場、価格は20%下がる",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91VHhNSC1GVk9HSkVwWWZZamFJS3FjLWFrYi1hUWJiQnJhTXFUd1VqY2tOc25idUxvY2M0UlFMbWpyRG9sd2liRmdrWndzd2xycjF3eExYM0N5Sk9aUTJSOWs1dWlUa1NRSjdJV1R1S2tQVzVWeFFaUWJUUG1ZTW8?oc=5",
+  "source": "Pasquale Pillitteri",
+  "summary": "",
+  "publishedAt": "2026-11-09T19:58:27.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -650,6 +848,19 @@
   "source": "千葉テレビ放送株式会社",
   "summary": "",
   "publishedAt": "2026-11-09T15:06:35.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1144f6170eda",
+  "title": "「Microsoft Copilot」Microsoftが開発した生成AI／AIアシスタント",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hOUUxajhSaGhZNXdBQjBPTDNpenRfY3hBYnpkVzZVQVhpTGdsbjJ4LWQ4amRBWjNYdVBSbEl5WjBRWWZPaENtQUl4M2VNbFpNWUtBMjFQYjhXRUdQRFE4cEI1cnIwQUNOQnc2NXZRVQ?oc=5",
+  "source": "窓の杜",
+  "summary": "",
+  "publishedAt": "2026-11-09T15:05:00.000Z",
   "image": "",
   "categories": [
    "other"
