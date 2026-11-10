@@ -5,21 +5,49 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-10T12:00:24.747Z</updated>
+  <updated>2026-11-10T12:30:22.281Z</updated>
   <author><name>AI matomechatter</name></author>
   <entry>
-    <title>RSSからAIニュースを自動収集・重複排除・要約するPythonバッチを作る</title>
-    <link href="https://qiita.com/aidocs/items/7d60f1b1cfd0182f2778"/>
-    <id>https://aimatome.gamelab.website/#1cc4f51fb00b</id>
-    <updated>2026-11-10T12:00:10.000Z</updated>
-    <summary>Qiita ／ AI関連のニュースはRSSで取得できるものの、複数の媒体を購読すると同じ記事が何度も現れます。さらに、タイトルだけでは内容を判断しにくく、毎日すべての記事を読むのも大変です。 そこで今回は、RSSから記事を定期取得し、SQLiteで重複排除したうえで、ローカルLLMを使って...</summary>
+    <title>Voice Live APIのアバターを使い分ける - 標準・カスタム写真・カスタムビデオの設定と実装</title>
+    <link href="https://qiita.com/miyaura/items/0df516c7fc38ce83a339"/>
+    <id>https://aimatome.gamelab.website/#cd74859067e1</id>
+    <updated>2026-11-10T12:19:54.000Z</updated>
+    <summary>Qiita ／ Voice Live APIでエージェントをオリジナルのアバターで話させる Microsoft FoundryのVoice Live APIは、音声で会話するエージェントを作るためのAPIで、音声認識・応答の生成・音声合成をまとめて扱えます。そのうえで、応答を話す声とアバ...</summary>
   </entry>
   <entry>
-    <title>「2048」で高得点を出すAI開発の壁を突破！最適アルゴリズム「Expectimax」で劇的にスコアを伸ばす秘訣</title>
-    <link href="https://qiita.com/boku_research/items/4f8fd309eb4e34e1a8df"/>
-    <id>https://aimatome.gamelab.website/#6024f06a0d6f</id>
-    <updated>2026-11-10T11:34:38.000Z</updated>
-    <summary>Qiita ／ 2048ゲームのAI開発において、貪欲法では平均4000点程度で頭打ちになり、目先の最善手が将来的な詰みを招く局所最適解の問題に直面する。この問題は、不確実性（タイルのランダムな出現）を考慮せず、将来の期待値を計算していないことが根本原因である。 何が起きたか（発生した症...</summary>
+    <title>Voice LiveでFoundryのエージェントをツールとして呼ぶ - chat-supervisorパターンの使い方と前段モデルの選び方</title>
+    <link href="https://qiita.com/miyaura/items/0f8262882eb9da5a9809"/>
+    <id>https://aimatome.gamelab.website/#0ff8d83e4f49</id>
+    <updated>2026-11-10T12:19:54.000Z</updated>
+    <summary>Qiita ／ Voice LiveでFoundryのエージェントをツールとして呼んでみる話 一般的なエージェント活用シナリオにおいても最近は様々なマルチエージェント活用方法があります。例えば、挨拶や雑談のような簡単なやり取りと、製品の仕様や手続きのように専門の知識が要る質問が混ざります...</summary>
+  </entry>
+  <entry>
+    <title>Voice Live APIで会話の「間」を扱う - 先に話す・言いよどみを待つ・割り込む・待ち時間に話す</title>
+    <link href="https://qiita.com/miyaura/items/c203f01b2e1ba47701d5"/>
+    <id>https://aimatome.gamelab.website/#bb84aa709a41</id>
+    <updated>2026-11-10T12:19:54.000Z</updated>
+    <summary>Qiita ／ Voice Live APIでエージェントとの会話の「間」を扱う機能を試した話 Voice Live などのエージェントと音声会話するための仕組みを構築するときに一番困ることの１つとして応答性ではないでしょうか。ネットワークの帯域や、エージェントが長い処理を行ったりすると...</summary>
+  </entry>
+  <entry>
+    <title>Voice Live SDK 1.2.0の変更点とAPI 2026-07-15 GA - SDKに型が無い機能の分類</title>
+    <link href="https://qiita.com/miyaura/items/6147176a968786b131a5"/>
+    <id>https://aimatome.gamelab.website/#000dfbc9cedf</id>
+    <updated>2026-11-10T12:19:54.000Z</updated>
+    <summary>Qiita ／ Voice Live SDK 1.2.0で変わった点を確かめた話 Microsoft FoundryのVoice Live APIは、音声で会話するエージェントを作るためのAPIです。その.NET SDK（Azure.AI.VoiceLive）が1.2.0になっていたので...</summary>
+  </entry>
+  <entry>
+    <title>生成AIが選ぶ「学習塾」、1位は明光義塾（言及率58.9%）【2026年10月調査】</title>
+    <link href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3eFVfMUt5NXhxZUdfTGpGcElRaXVVd3VMY1AyYW5BUlEtbEtuZGpzVE9ZUG1mb2VtMkZTa09RbEs3dTFHbmhfS3JJU2djVjRZV21sQVdVUUVhMXI4R21GNldHSlNOd3NE?oc=5"/>
+    <id>https://aimatome.gamelab.website/#2db2c44fa262</id>
+    <updated>2026-11-10T12:00:37.000Z</updated>
+    <summary>ニコニコニュース</summary>
+  </entry>
+  <entry>
+    <title>オーストラリア、罰則を科す権限を持つAI安全規制機関の設置を計画</title>
+    <link href="https://news.google.com/rss/articles/CBMikwFBVV95cUxOUk1vVjVuanlUbWhMMnB1U2stSUJ0SVJlRXRtSGpHUENCRTRmYVBra2tOVUVmc3hIMXRVWXZjNzZRcE5qZnkycVQ0UTVac2txSDJqY29sbHgzMy1LYmxkRXQxXzQ3QVgyaEVqRlBCdXFYRXZZTWFRcnNFTFg0Z0szdDhzTHNqSG54R0pTNmdOdHRicnM?oc=5"/>
+    <id>https://aimatome.gamelab.website/#05691f88455d</id>
+    <updated>2026-11-10T11:36:02.000Z</updated>
+    <summary>Unite.AI</summary>
   </entry>
   <entry>
     <title>OpenAI東南アジア責任者、AI普及の中心に「日常での実用性」を据える</title>
@@ -48,13 +76,6 @@
     <id>https://aimatome.gamelab.website/#b8a9095b5ae6</id>
     <updated>2026-11-10T11:11:00.000Z</updated>
     <summary>TBS NEWS DIG</summary>
-  </entry>
-  <entry>
-    <title>Claude Fable 5.2は値下げで速くなった。それでもOpus 5.5の倍、使い分けの目安</title>
-    <link href="https://qiita.com/kinamocchi_tech/items/b6a4f5b83873cc5c294d"/>
-    <id>https://aimatome.gamelab.website/#75fe5f00370a</id>
-    <updated>2026-11-10T11:07:10.000Z</updated>
-    <summary>Qiita ／ 📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → Claude Fable 5.2は値下げで速くなった。それでもOpus 5.5の倍、使い分けの目安 🐹🦜 この記事に登場する2匹 🐹 もっちー...</summary>
   </entry>
   <entry>
     <title>イーロン・マスク、中間選挙で700億円超を無駄遣いしたことを米人気番組でコントにされる</title>
@@ -97,13 +118,6 @@
     <id>https://aimatome.gamelab.website/#852d7c49c980</id>
     <updated>2026-11-10T10:50:26.000Z</updated>
     <summary>gihyo.jp</summary>
-  </entry>
-  <entry>
-    <title>Kimi CodeにKimi K3.1 Proを追加する方法：外部モデル設定と動作確認</title>
-    <link href="https://qiita.com/whitemarshall/items/186e5621ef0457359c32"/>
-    <id>https://aimatome.gamelab.website/#8383dcf7f3e3</id>
-    <updated>2026-11-10T10:45:41.000Z</updated>
-    <summary>Qiita ／ Kimiだけを使う場合は、公式APIから始めるのが最も簡単です。複数のモデルベンダーを同じプロジェクトで切り替えたい場合は、集約APIの利用を検討できます。この記事は、APIキーを持っていて、Kimi Codeに初めて外部モデルを追加する方を対象にしています。キーがない、無...</summary>
   </entry>
   <entry>
     <title>LINEヤフー、AIエージェント「Agent i」iOS版アプリを提供開始 ウィジェットからも利用可能（ITmedia Mobile）</title>
@@ -188,6 +202,13 @@
     <id>https://aimatome.gamelab.website/#043c57886bd8</id>
     <updated>2026-11-10T10:10:39.000Z</updated>
     <summary>ニュースメディアVOIX</summary>
+  </entry>
+  <entry>
+    <title>台湾、AI半導体の対中輸出規制を強化へ－米国と足並みそろえる フォトギャラリー | TBS CROSS DIG with Bloomberg</title>
+    <link href="https://news.google.com/rss/articles/CBMifEFVX3lxTFBMM2wzOG9fSm5aZHdPZlVEVXU5WVZ3S3ZHaUFQM1ZFbVphZDNYSndTLXY2c2dISEJPNDhCdzM4R1V5TlowdXJvVUFBajFiZWxPTW9EVTFKRDU2UEU1MS1EMUVNWlc5cWx3Z1hRanNNUl92QVp4VkpKY0V6YlY?oc=5"/>
+    <id>https://aimatome.gamelab.website/#5843c71e13a9</id>
+    <updated>2026-11-10T10:08:34.000Z</updated>
+    <summary>TBS NEWS DIG</summary>
   </entry>
   <entry>
     <title>チェック・ポイントが発見したChatGPTロックダウンモードの脆弱性とその影響</title>
@@ -331,30 +352,9 @@
   </entry>
   <entry>
     <title>メガネ感覚で空間コンピューティング！ Android XRとGeminiを搭載した「XREAL AURA」が登場。95g未満のの軽さに注目！</title>
-    <link href="https://news.google.com/rss/articles/CBMidkFVX3lxTE10VF9mTmNVcTJLNmItMXVrWUhLcW9PWGQwVkFlSzViajFxNEwtTFlFY2g3SF9JZGVKSjhLVnIxMkdmRF9MWnZkUVNDZWhmZF8zeVFfT2lCUV9JZ3JxbXFZWDFqSFhmVHhOU180UUU3bjgxQURnd2c?oc=5"/>
+    <link href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wT0YwODRZVjRLd1A4dWE3YVQxSEE5Qmdqd01Da1piSmYycEpGMjNQMmxnVjVTYWZwSTViWkdBVGxvMzdwRTZVd1JlRl81eExnODZzZw?oc=5"/>
     <id>https://aimatome.gamelab.website/#65948b1a047e</id>
     <updated>2026-11-10T08:36:22.000Z</updated>
     <summary>ニコニコニュース</summary>
-  </entry>
-  <entry>
-    <title>【接客は人かAIか】「人手が一人分浮く」「3秒で会計」飲食現場でAI導入が拡大！パン屋や回転寿司で効率化が進む一方『思いやりはAIにはない』専門家が語る“人間が集中すべき仕事”とは</title>
-    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1wdGNhN1B6OVMydkJPS1c5aVdqR3ExY1ZoTHozZVBVcjhHQ0o1Ylc0TUF0czFTdWpGYnZ2NWFDbUxNNGhuVFZUQWZ5Y25UcEljb0p5amwydk1Sb1kyNXEyVWN1TUk0Zm02cEJ4RkxhaThTRTRjcjVlbXBvVk4tUzQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#4b0d0b5ffd33</id>
-    <updated>2026-11-10T08:30:02.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
-  </entry>
-  <entry>
-    <title>LINEヤフー、「Agent i」の専用アプリ公開 iPhone向け</title>
-    <link href="https://japan.cnet.com/article/35254654/"/>
-    <id>https://aimatome.gamelab.website/#3ae68a7cdb89</id>
-    <updated>2026-11-10T08:30:00.000Z</updated>
-    <summary>CNET Japan ／ LINEヤフーは11月10日、日常の疑問や相談に答えるAIサービス「Agent i」のiOS向け専用アプリの提供を開始したと発表した。商品の値下がり情報などを知らせる通知機能にも対応する。Android版も順次提供する予定だ。</summary>
-  </entry>
-  <entry>
-    <title>フジテレビがドラマ制作のAI活用を加速 中国では俳優もAI化で粗製乱造…日本のドラマ界はどうなる（エンタメNEXT）</title>
-    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE0wUUMzN2h3ak8zLV9HQ3doTlZIcXdjX2I0emdsMzZsUjhmd2lpUzF2b29McEZKWmFqQVRTNTNYbjAyajh6d0V5bW1mV1JHUHdkZF9lQkV4TWZ2TDhfUDVrZmlUc3ptcGkyRWF5QXg3ek1kVHE2VkExNnFrSTVNTlE?oc=5"/>
-    <id>https://aimatome.gamelab.website/#5a5a8e78c6fd</id>
-    <updated>2026-11-10T08:30:00.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
   </entry>
 </feed>
