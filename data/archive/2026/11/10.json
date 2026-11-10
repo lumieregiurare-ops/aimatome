@@ -1,11 +1,24 @@
 [
  {
+  "id": "56e8162fcf18",
+  "title": "AI画像編集で「生成は成功したのに結果が残らない」問題に向き合った話",
+  "url": "https://zenn.dev/coderlim/articles/650f1b108ddec3",
+  "source": "Zenn",
+  "summary": "個人開発でAI画像編集サービスを作っています。 ユーザーが画像をアップロードして、編集内容を入力すると、AIが画像を生成する。画面上の操作はシンプルですが、裏側の非同期処理は思っていたより面倒でした。 特に困ったのが、AI側では生成が成功しているのに、アプリ側には結果が保存されていないというケースです。 今回は、この…",
+  "publishedAt": "2026-11-10T14:59:46.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "40d2e6f5495d",
   "title": "安全ガードだけは、あえて参照しない。親リポ1つで7リポジトリのClaude Codeを指揮する設計",
-  "url": "https://qiita.com/tzp/items/38e194772fe4fc73c02e",
-  "source": "Qiita",
-  "summary": "はじめに 😩「web で直したスキル、admin と service にもコピーしなきゃ…」 🤔「あれ、admin の create-pr って、こんな手順だったっけ？」 😱「このリポのガード、PR のマージを止めてない…？」 AI と開発するリポジトリが増えると、こんな...",
-  "publishedAt": "2026-11-10T14:57:57.000Z",
+  "url": "https://zenn.dev/tzp/articles/705d1d29c2dc79",
+  "source": "Zenn",
+  "summary": "はじめに 😩「web で直したスキル、admin と service にもコピーしなきゃ…」 🤔「あれ、admin の create-pr って、こんな手順だったっけ？」 😱「このリポのガード、PR のマージを止めてない…？」 AI と開発するリポジトリが増えると、こんなことが起きませんか？ 1 つのリポで育て…",
+  "publishedAt": "2026-11-10T14:57:38.000Z",
   "image": "",
   "categories": [
    "dev"
@@ -15,7 +28,7 @@
  {
   "id": "0a9da289c4e8",
   "title": "TSMC､アンソロピックとOpenAIに最大5億ドルずつ投資－取締役会が承認",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONm14NEtGRHlIZVU5OU1BWnZpTV81Mmg2Wm9yVVpXc0NZNXZzWUVKbm5lYTBWNTItTklRU1AwYlo2UXlsQ1AybTBMOFRJWWdmamlpRHVGZURjUlpUdFJMbG1aRzJzam82dXowMkNuRjlEamMtd0FpVFhZbjNuOC1CR3VBQVRYS21NQnAyTExR?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQTUyRWUyNXpMZDBzVU9fNXctMVl1U0MycWsxVUVaWFMzSDBscjdiSjRaYmtDU2otdW1scUYzYXlhZzl0UmtnblBhb055dGdLTm4wdVBoUXBMWGFLODU1Rkt1UDc4Wm5jVGo2YXYtVGVTTHlUUHVjZFJrQnl0QmlDa1hoejBocmNUZlRz?oc=5",
   "source": "Bloomberg.com",
   "summary": "",
   "publishedAt": "2026-11-10T14:56:02.000Z",
@@ -52,6 +65,19 @@
   "isPR": false
  },
  {
+  "id": "909a11173461",
+  "title": "Codexが無くても: Claude Codeのサブエージェントだけで越境整合レビューを組む",
+  "url": "https://zenn.dev/shoma46/articles/claude-code-subagent-spec-consistency-review",
+  "source": "Zenn",
+  "summary": "TL;DR 型検査・lint・テストが通っても残る「境界をまたぐ意味の不整合」を探すレビューを、Claude Codeのskillとサブエージェントだけで組んだ 書いた本人のセッションには判定させない。不変条件を抽出する役と検証する役を別のサブエージェントに分け、どちらにも設計意図や会話の文脈は渡さない 抽出は観点ご…",
+  "publishedAt": "2026-11-10T14:43:01.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "164d541c3588",
   "title": "AI半導体株が15年ぶりの割安水準 売り圧力は一服か",
   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KQ2FhVDE1elJRMDFuUnR1MmxhLXRFZEF4eG5UX2duaUtqNEEtcFJZTWx6YTRZTmRaNk0yc3FqZGFZYXBiMmJwTWNiM0xxZElPU0hFT1R2NkNBNnVNbmZ2X0NCM29xZnoyZjVVSENLWU4?oc=5",
@@ -61,6 +87,19 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f5782a66d443",
+  "title": "銀行、AIエージェント費用の抑制に着手 トークン費用が増加 - ニュースと統計",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVm5aTXdNYzBSdkdQMzcwUERxUmlhX1lWUjR3Y3N1d2owM0JKb3FoMnNkaDZHRXhvRzdKV1JScXJRRlRVOWxzVjA4eHk0RUpOaGp4X3AtZ0VKbkM3bFE4ZFBNeFQ1R3ZqUTk5VjRTN1J0Y1JkNmxtTjlIbllQTFkyeDBuR25HbHVsZmdTVTVtaWRyMnZnZmlsdGJydw?oc=5",
+  "source": "IndexBox",
+  "summary": "",
+  "publishedAt": "2026-11-10T14:40:55.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -105,6 +144,19 @@
   "isPR": false
  },
  {
+  "id": "de9e725cabd4",
+  "title": "SaaSは解約すべきか？生成AIで情報システムはどこまで自作できるのかを実務家が解説する勉強会を12月15日(火)に開催",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YcTlHTk4ya3BJWmpUZDFITExLZHJPUEdkNEVUOTduVmtDbVF1YTJTZUVGNWJZY0lMa0lNSVFWR2R4WmdLdXQ0clFPaUJFd3A2eGR5OW96eXRESW9XOVY2Mms4WHNmWE5H?oc=5",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-11-10T14:21:15.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f5e93ab66ebe",
   "title": "アドビ、企業向けプラットフォーム「Adobe GenStudio」にAIエージェント機能を新たに導入",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCWjkzdjNPREpzQTUyUjh0TFA5SlFZcnBnUk14VkFRRkhBa204RDNLTEIyc0hvd2xNaUtZWktRRjZiLWFaVmNqN2hiQW45Q2VNSlk3RVJJRmlmZXdmdjNleFRjenFMRV8zc3g1QlVsT01JVzVGeUZOeGF2RQ?oc=5",
@@ -128,6 +180,19 @@
   "categories": [
    "product",
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4164aa527004",
+  "title": "Google、Drive、Gemini、検索でAdobeとの連携を拡大",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVE5UZXcyS0I5cXhCTXdaeWVkUkwwT3lVbjBEYm1OekRUT3ZOUnM4U0JOMEQ5TWFZZmdjUjJROVJPQ1Z0Mzh6NmFEd3FpTkk4Y0duREVfVmU5ME4wTTBiaEM0bmd4cEV0UUJJcWxpd1gwT0NVR0U4Z2NHUVhZWDRKMG5wb0pFQ2x6aFlxYzh3bF9zQUU?oc=5",
+  "source": "Unite.AI",
+  "summary": "",
+  "publishedAt": "2026-11-10T14:15:03.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -1624,6 +1689,20 @@
   "isPR": false
  },
  {
+  "id": "2f10bd268917",
+  "title": "美団が1.6兆パラメータのAIを商用可で公開 自社測定でClaude-Opus-5に0.7点差の指標",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SemlRQ2pvekVhUTV0aE5xZjYySHROS2ZoSXhSSk9GbWRuWnVQOVVpdTZzRGlrd1kxT21QOFBjVnhsVGR4cGRLOHN1MVB6QkU0THkw?oc=5",
+  "source": "ビジネス+IT",
+  "summary": "",
+  "publishedAt": "2026-11-10T09:16:55.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "933a1ff19441",
   "title": "【AI時代の教育】読書感想文を生成AIで書いてはいけないのか",
   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50MnQ2QnhfX0tEUnFJZVhTb252SEZWREN5d2pOY0czbXNIdEtZODV1VV84Wkttb2tMcEYzbXYwTkExWXo1NXZtZWhNZHJjX3pPcDdYLWEyYXBWMnhWdmtOSEhmU2xHQQ?oc=5",
@@ -1954,19 +2033,6 @@
   "image": "",
   "categories": [
    "case"
-  ],
-  "isPR": false
- },
- {
-  "id": "20603f9f8360",
-  "title": "アングル：「フアン氏の代わりはいない」、ＡＩ業界 最大級の擁護者失うリスク",
-  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONGsxQThrbkdoODVyZzFlcHE1cDFHQm5oNXhaeUFNd0lEMzBtTGhnMjZISV9nV2hYX1hFcENEeEc5dTRQbld4T2M2VVM2R204aWI2eUZEaDZSdFhXMUw2aWp6VFYxNXkxMENXYXJqLXFDX1VCZldKSU9yWEF6WThnZ3dHUWUydw?oc=5",
-  "source": "Reuters",
-  "summary": "",
-  "publishedAt": "2026-11-10T08:28:31.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
@@ -4752,6 +4818,20 @@
   "isPR": false
  },
  {
+  "id": "5e1e435926fe",
+  "title": "OpenAI、ChatGPT EnterpriseをAWS Marketplaceに出品、クラウド契約で支払い可能に",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vOHdBa3YxaWlBTUJtM19SbkROdGFUSlF6RFFPTmw2cy1hclBHVm5ZRzRGOTNNWU5Ca3RwRXIxVjF4dXk1bW9CNUtKdUFMYXFfVHpzMXYxMzhUbWhlVTBiYVNwWElmUTdkNXlIeHJkVllhaXVD?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-10T03:19:06.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "244566f2faca",
   "title": "Enterprise Data Governance Frameworkを設計・実装した話──『データ統治』として実装",
   "url": "https://zenn.dev/io0323/articles/c235a38aa88eae",
@@ -4761,6 +4841,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "20603f9f8360",
+  "title": "アングル：「フアン氏の代わりはいない」、ＡＩ業界 最大級の擁護者失うリスク",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONGsxQThrbkdoODVyZzFlcHE1cDFHQm5oNXhaeUFNd0lEMzBtTGhnMjZISV9nV2hYX1hFcENEeEc5dTRQbld4T2M2VVM2R204aWI2eUZEaDZSdFhXMUw2aWp6VFYxNXkxMENXYXJqLXFDX1VCZldKSU9yWEF6WThnZ3dHUWUydw?oc=5",
+  "source": "Reuters",
+  "summary": "",
+  "publishedAt": "2026-11-10T03:17:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -4801,20 +4894,6 @@
   "categories": [
    "product",
    "case"
-  ],
-  "isPR": false
- },
- {
-  "id": "5e1e435926fe",
-  "title": "OpenAI、ChatGPT EnterpriseをAWS Marketplaceに出品、クラウド契約で支払い可能に",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vOHdBa3YxaWlBTUJtM19SbkROdGFUSlF6RFFPTmw2cy1hclBHVm5ZRzRGOTNNWU5Ca3RwRXIxVjF4dXk1bW9CNUtKdUFMYXFfVHpzMXYxMzhUbWhlVTBiYVNwWElmUTdkNXlIeHJkVllhaXVD?oc=5",
-  "source": "BigGo ファイナンス",
-  "summary": "",
-  "publishedAt": "2026-11-10T03:15:00.000Z",
-  "image": "",
-  "categories": [
-   "business",
-   "infra"
   ],
   "isPR": false
  },
@@ -5013,6 +5092,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6b5f08722d87",
+  "title": "AIクラウド2強、決算発表を前に株価半減…債務とキャッシュフローが試金石",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RMkxIQWhyVHp6QlhqWExEdXl6MXktM0w2TnRUcUp3cVY1eUxUY2dSaE5pTC03TFNlRGZvTjVkQ29xN3hrTGw5NVEwN3FNaTR5X3Q0MmRsbGRTRUZQcFZDTkdEVGNiSEk3Q0o2SUJjbF84STdE?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-10T03:05:00.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
   ],
   "isPR": false
  },
@@ -6915,6 +7008,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "21472199c056",
+  "title": "生成 AI 時代に「信頼」をどう届けるか？C2PA と来歴証明の実装：Media Provenance Summit Tokyo 2026 参加レポート",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3NFZ0UGI5ZUFncXBpT1ZhaG1EVW41bmZTUWZ6M3BMWjl4WjFIbV9sb3FtWnFVTG1Ob21zM2lCckVNN0c1LWpuWl9pblhJZk5qbjhWMWhwQTljRzl2THlQOEM2enJZalZhc0lvMVJWQlJmeE9PMnc?oc=5",
+  "source": "サイバートラスト",
+  "summary": "",
+  "publishedAt": "2026-11-10T01:00:00.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
