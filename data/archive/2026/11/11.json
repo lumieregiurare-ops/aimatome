@@ -1,5 +1,57 @@
 [
  {
+  "id": "cd9666cb65e1",
+  "title": "URL にトークンを書いて git clone すると .git/config に平文で残る：git remote -v で丸見え、transfer.credentialsInUrl で止める",
+  "url": "https://qiita.com/supportapp3/items/5056f41f39af8c1f8ed0",
+  "source": "Qiita",
+  "summary": "結論 git clone https://ユーザー名:トークン@ホスト/リポジトリ.git のように URL にトークンを書いて clone すると、そのトークンは .git/config の url = 行に平文で保存されました（2026-11-11、git 2.4...",
+  "publishedAt": "2026-11-10T20:13:42.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ac450c9839a3",
+  "title": "週12億人のChatGPTが企業に門戸 自社登録とAI接客をベータ開始、広告の遷移先にも（ビジネス＋IT）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WNmZiWnBmeXVJQXRiQ0pFSDNiaUMwamEybjVBVW83eTRMSUdpOE0zeE5WZHlsUks0ZGZTM2QxNk56MDVRRmRCV1VadzlMa293Y3VpNE9PSmJ2UUhtWFpQN29Pdmx1MFRHR0paTU51cU1SOWxVOXR4N05GZzdXVVk?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-10T20:05:07.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "29dfc64bdb90",
+  "title": "Anthropic、会議に参加して議事録を作るClaude Meetingsをベータ提供",
+  "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE10N1pob2NkcGlUYzR2d2VTSy05Uy1BUDZMVUVjQnJjVXQwWkpaZ2RwdDhaTWl6RjUySmx5U3JR?oc=5",
+  "source": "ゴリミー",
+  "summary": "",
+  "publishedAt": "2026-11-10T20:03:12.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "76658c30e708",
+  "title": "生成ＡＩ活用で教育の充実へ 市内小中学校教職員が研修",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RQi1Gc2tPTWZSMFZHQWZyVmpJWVBXQ0p6OVByZ1pGMjJNN3R1TFdWVEVLV25xM1h6UTRxZG1pc3hmWHJNdFRUNmpsX1AwNnBsS0RNdXV5dmQ?oc=5",
+  "source": "沖縄八重山日報",
+  "summary": "",
+  "publishedAt": "2026-11-10T20:00:29.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "6e157d6586e4",
   "title": "生成AIと連携、LaTeXコマンドやMermaid記法を出力させよう",
   "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03787/100800003/",
@@ -53,15 +105,55 @@
   "isPR": false
  },
  {
-  "id": "ac450c9839a3",
-  "title": "週12億人のChatGPTが企業に門戸 自社登録とAI接客をベータ開始、広告の遷移先にも",
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xc1pXbUJQeGpPbXB5QUdlZzV1MDJHeXVLTWhqaVN2UkZnNTZoVzBFUy1FSXd3TkdaX1VKVGJ4VUtqSWZ1VzlKVmhyMGE0ZHh3TzBz?oc=5",
-  "source": "ビジネス+IT",
+  "id": "1459b111b3bf",
+  "title": "半導体設計がAIで構造変化 急先鋒は米新興、顧客120社超",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNenFRc255MWdYbk5hNE1NeEZLazMxRWVocHZpZG5hb0JaSnk2ekQ2MzV4UDQzY1hhTmhKSkRabnNISW1oVGtLd1UyZUNDWFhXc3hyMXpBZTZSOEdsS0o1RV9BbUNqSkdpcGJJZXFaUjNrMUtZdkZTMlV3cVdnejBUdTdJaFc4SGs?oc=5",
+  "source": "日本経済新聞",
   "summary": "",
-  "publishedAt": "2026-11-10T19:54:00.000Z",
+  "publishedAt": "2026-11-10T20:00:00.000Z",
   "image": "",
   "categories": [
-   "product"
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5b7e6092c838",
+  "title": "NotebookLMに公式APIが登場 WebページやYouTube動画の取り込みを自動化でき、MCPでAIエージェントからも使える",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95U1FnWVI2NG1sNy1ic0pXUGIxZHQxMWc5TWtqTjhiWEIzMF9xQUVJU0htbzJoS29yc05saFlwSHFBOW1RYnVpMlZURTYzYWRqSGZVdGdLQkE3TC1NZUpWNWpTd2lva213SGVIeDZMMENxdw?oc=5",
+  "source": "ITmedia",
+  "summary": "",
+  "publishedAt": "2026-11-10T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a09fe11677f2",
+  "title": "名大、LLMの理解力評価 日本語でベンチマーク開発",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjbGxfLUdVY09qX19UeDV3YTBNeVBZUEJUT1dXcWdVRElWbkIyMHZHM3BiQVNEc0hGeEc1WllMNVN5VUVPRXVPeGxNTEhYdE9IWGU0d0lHdnY?oc=5",
+  "source": "日刊工業新聞",
+  "summary": "",
+  "publishedAt": "2026-11-10T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3dd9592aff31",
+  "title": "「盗撮」→「法律で規制」が話題のAI眼鏡 海外では大ヒットなのに、日本での普及は限定的 ビジネスでの活用事例を探る",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ybEVBcVJRcXc3Rzl5bl9HNFNubjJaZV9jTEkybTdFRjRmdEZYZHVZZ0ZYekpYcDdFYUhBM1hBc3hsbjJXQU9oSTR0M1M0cGFfaEhsLXFpUWhjVThYbU5XNnFmZXJZZDZLZmc?oc=5",
+  "source": "ITmedia",
+  "summary": "",
+  "publishedAt": "2026-11-10T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "case"
   ],
   "isPR": false
  },
@@ -214,7 +306,7 @@
  {
   "id": "9e8da571bfa2",
   "title": "世界のAIアクセラレータ・AI半導体市場、2034年に2,850億米ドルへ拡大予測",
-  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJUDdJdWZ3R2tmMlRTYUVfOUoxZ08tbTdHZGNtZHJ1NEFUYUFzbVBvSk51YV9QOUxLNDY1djd6ZXdIamRydGhxel80bVBJdDg5TmpGcm42WnFUS3IyTlk4SGtuNmJqQQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yMmF2UHFOMUZnYzJBcE5hREU3eldaTHZKVjJEZ2twbEoxX2gxUWNEX2RzMXFGNFNVLUNBTVF2SkFDRloxMENNYUwxbkNodmtNbTJLRkRsRUc2bmdlSkdKM1FJcTdqaFhi?oc=5",
   "source": "ニコニコニュース",
   "summary": "",
   "publishedAt": "2026-11-10T18:45:15.000Z",
@@ -496,6 +588,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9b8f5beff254",
+  "title": "Graphon Labs、AIの永続的なメモリー基盤の拡大に向けシリーズAで3,500万ドルを調達",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOUhIRVhiME91VFhFM3hDdnI5aF9HQ0VLOGJ3MEJLTFNtRWprSXMxYlk1NDN3ZlJHX20xLTZ6S2V6bjVHazZZU04yZGxyUlVvdUFyOENydS1pLW1HTXdpcUIzck50Tm4ybXVWUExYVE5lUFd0cGxYbngwZzhJVHh5UDgxUEh0MlhWd01sOUxQeUg?oc=5",
+  "source": "Unite.AI",
+  "summary": "",
+  "publishedAt": "2026-11-10T17:14:05.000Z",
+  "image": "",
+  "categories": [
+   "business"
   ],
   "isPR": false
  },
