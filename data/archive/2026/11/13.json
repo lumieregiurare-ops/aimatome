@@ -1,5 +1,204 @@
 [
  {
+  "id": "60ab26d38283",
+  "title": "Playwrightの「ストーリー録画」でレビューを「動画を見るだけ」にする — recordVideoの実装と落とし穴",
+  "url": "https://qiita.com/joinclass/items/a9175cadfd0820f3c916",
+  "source": "Qiita",
+  "summary": "はじめに：AIが書いたコードのレビューで、人間が一番遅い 当社（合同会社ジョインクラス）は、開発の多くをClaude Codeなどのエージェントに任せています。実装は数分で上がってきますが、僕が「本当に画面がそう動くか」を確かめる作業は短くなりません。ローカルを立ち上げて...",
+  "publishedAt": "2026-11-12T23:30:07.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "26547f1ebc13",
+  "title": "Claude Code v2.1.323 解説：未知モデル1M扱い・MCP v1削除・権限穴の修正",
+  "url": "https://qiita.com/picnic/items/4703fa6a9f705974b8f4",
+  "source": "Qiita",
+  "summary": "はじめに Claude Code v2.1.323 は、実験的な Code Mode とプラグインの対応バージョン宣言（engines）を加えた大型リリースです。同時に、Bash 権限チェックやサンドボックスを回避できる穴が多数ふさがれ、設定の見直しが必要になりうる破壊的...",
+  "publishedAt": "2026-11-12T23:29:29.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "72f06173ad5c",
+  "title": "焦点：「ＡＩの銀行」エヌビディア、ブームへ資金供給後退なら深刻な事態に(ロイター)",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON3NtQWI0dThUc1h2QkkxZDFUYzRDdW1mSU1MclZVOXp5TWI4N3ZYMFB2cXVjam14VmN2cmlobXVTYVFqbngyeDA0cTE2MV9TSGRmQTlOZ29tZjhZdV8zRUtxVGc0TEFnbkNfMmhwQnBKWkNSZjJEdG5kTVRXVkkyUGJNTkhWTWc?oc=5",
+  "source": "Yahoo!ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-12T23:24:08.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9a06b2be3421",
+  "title": "Microsoft 365で「大規模障害」発生、TeamsやCopilotなど利用不能に サーバー不具合",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93aGI2c0JSTTMxRlVnN1RWbkZKRURScVYtMUpWWWY1U2FMMnNMc3VfODRhSjhDdVVlcWMya2x0U1lOSko2Tlg3elh3dVVOZXVodnNGY052blFuUQ?oc=5",
+  "source": "Forbes JAPAN",
+  "summary": "",
+  "publishedAt": "2026-11-12T23:20:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b7fc4ee17965",
+  "title": "存在しないファイルへの署名を、二人に頼んでしまった話",
+  "url": "https://qiita.com/sami-openlife/items/28b71b9b28455655e2c2",
+  "source": "Qiita",
+  "summary": "今朝、初対面のエージェントから、自分が公開した論文提出物の穴を指摘された。検証ファイル——「自分が主張している記録が本当に存在するか、誰でも確認できるようにするハッシュの鎖」——へのリンクが404を返していた。その穴自体は数日前に自分で開示していたものだった。相手の返信は率...",
+  "publishedAt": "2026-11-12T23:18:58.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8f1e0d8e7ecb",
+  "title": "マイクロソフト、OutlookやCopilotの障害復旧に取り組む－株価横ばい",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBld0xBQlAxZkJ4WXJHZVlzUWJ3aUxKS1NZUGJwT0lTUnl2c3VDaDRDTVhyRFJsemxGUGwtWk1lQlp6X3FPZnJReGdCWnN0TjBuWmVCSGk2MmVOMUdSNWdldllCTVJOcmgwVkt0dEhZNDhmV0Fz?oc=5",
+  "source": "TBS NEWS DIG",
+  "summary": "",
+  "publishedAt": "2026-11-12T23:15:00.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b9d98e386529",
+  "title": "AIで作業時間は16.7%減ったのに忙しさは変わらない…元ヤフー社長が浮いた時間より重視する一つの数字",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1eVdmUnJQUVQyTFh6V3dwNHFPV3RJcERUZEY5ZXpCLUN2Uk9QY0RzWUNLRmczXzBseU9faDVlQkNWbFFYaFZWYlg1Q2VNNWwzb095TVkxWkxjb1o4RDZJLUlSaw?oc=5",
+  "source": "Infoseek",
+  "summary": "",
+  "publishedAt": "2026-11-12T23:15:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bee337171cb4",
+  "title": "AIは「ブーメラン労働者」の波を生み出している。",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ldThsLXZrcjcxSjNndFpyellNUFJQbFJwU3l3bC1oVUxGbHF0ajZzbkhteHViTldoQVZfenhPN3N0aUszN2RoekZ4Q0FaVVR5My1peS1sMGtiR3gxcFVMdllwbVE4dHNPeVMzX2lXUTAxQQ?oc=5",
+  "source": "Vietnam.vn",
+  "summary": "",
+  "publishedAt": "2026-11-12T23:12:59.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "164dfe2a8bb1",
+  "title": "米議会、AI半導体の対中輸出規制へ政権に圧力 NVIDIA問題受け",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDUDBYV2ZwcXNyR1hJZzRVY1VpMlhEM3lTTVczUjN4NFo5R2V0YXJldUM0LWJaNlpxSXN4d2RMV0Q5UUtPQ1piVThKZ0R3d0g4a0FUYzZEaTc4UHh5OHVOb1pFWEo4X1o1bW12aQ?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-12T23:11:40.000Z",
+  "image": "",
+  "categories": [
+   "infra",
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1d7328d19e33",
+  "title": "【経営者・幹部向け無料セミナー】AIを導入しても集客成果が変わらないのはなぜか？「戦略なきAI活用」の落とし穴を解説",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fdEplaEhGNW10OUl0LUM4aFUxODk0ZnROQjdBRExQZ2hES0lhUlZNak95cXdULUdxNzRsRU1FbUN2dkZnUFBhMU1Idmt3VFVuTm5xY2NMbEQ4ZVZOTHJOeVltMzBKMThJWkE?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-11-12T23:09:26.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "dev"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "200fa2179598",
+  "title": "ビルスピアカデミー、「生成AI ／ AIエージェントフォーラム 東京 2026 秋」に登壇",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HVGZGZ01hbFFBZmJrV0djSXhRZlVOUXgxQy15UnJCcEVCcDJORHVneVV3RF91SGFiMXktS2NjTm5oazJQNzdvYWcyb210dTU2OGZIejlwN1BUMndZeG9uaFdZYkVkcmFFd3AxUGtTd2dSMzBMZGN0bDUxazDSAYIBQVVfeXFMTmRiVUVlRHVIR0FjQzFZQWtKRlQwcU9nMVdmMWtxcmZZSmpYcGRfeVFoaXNXamd6Z3RxVU02cFJnQzljNndrdUE0QzRTU2hZeGVoYV9fYTN0bWRIb2VhQzh5MUJDTjFCREtFcFo4RXZMV2pwck96eE80a1g1X2xIenVXZw?oc=5",
+  "source": "ｄメニューニュース",
+  "summary": "",
+  "publishedAt": "2026-11-12T23:08:17.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5fb50f6db9a0",
+  "title": "定時ワークフローで定型業務を自動化する：ローカルAIエージェントの使い方",
+  "url": "https://qiita.com/aiFetchly/items/a3c4c1a1830f4cf073fa",
+  "source": "Qiita",
+  "summary": "※本記事はaiFetchlyチームによる投稿です。 はじめに 毎日・毎週決まった時間に発生する定型業務は、内容は分かっているのに手間だけがかかります。請求書の整理、問い合わせの下書き作成、調査結果のまとめなど、後回しにすると溜まってしまう作業です。 aiFetchlyの...",
+  "publishedAt": "2026-11-12T23:06:22.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ae50cca740df",
+  "title": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか “新たな一手”のねらいを聞いた",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVTkgyS3RJakpMZzdTS3hwakViTkhWallhdEszUS1IazFDU0ZwMmxheTMxVlcwSmtKbTYyeFlrOUJGTlBkQnlfZ0l3WnVNbVVyallXT1c5UkNnNTRSZmQtRDBna3pod0FPZ0RmVEk5UWoxdDhOY2huMFNR0gF_QVVfeXFMTXpwbldQTDJCMkp5RGsyelJxZGFzT19ucjRXTnkxcTh3MjltUldray1iVHFVT2VnNkZ4cFR1azNJSnd6TUVyTU05bnNfa0oyeWN2WWRTSmxTOTJYOGk4WHhROWgtcTU5SDBjNHBmWXpwTXZVM0FLZFBycTNuQVg3VQ?oc=5",
+  "source": "Infoseek",
+  "summary": "",
+  "publishedAt": "2026-11-12T23:05:12.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bf564e394a23",
+  "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fTEZkMlV4UkQweC0zUEZuUG5zRUJ0TzduNExRSTJSbDVRU2NrSnotR1ZjcXRZZllJN1puZkItTEJZT2Nid2JOdGgyTlp0eVgxcUdTS3FvQXdKNVlfd3hzQlZXdkk2bDZxcUE?oc=5",
+  "source": "ITmedia",
+  "summary": "",
+  "publishedAt": "2026-11-12T23:04:46.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6aabaf12431a",
+  "title": "AI半導体の米セレブラス、堅調見通し示す-エヌビディアへの攻勢強化（TBS CROSS DIG with Bloomberg）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yQ0F4b3pUbGRFU2tweFNTRC1BdUlVZWRzTzFDeVhGd0h0eXFqYW5JbHFadHExVUJGR3Y1c1pGVXZYVVlyMnJWcnVvVWpXZ1hFdmpsdkpZaWpVSXVJUlRsckxFblNBbnJCb0I2UjdNUkItSU83TjdMTk51amhRZzA?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-12T23:04:04.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "27df591c91f8",
   "title": "【文系合格者が解説】G検定の計算問題は5パターンだけ｜畳み込み・パラメータ数・適合率を例題で攻略",
   "url": "https://qiita.com/mrmrmr/items/f5c4d2335b3a88f90ae8",
@@ -14,6 +213,59 @@
   "isPR": false
  },
  {
+  "id": "e46c68812500",
+  "title": "英会話教室5校のAI検索を独自調査！ChatGPT・Geminiなど974回答を分析、比較・解説サイトのURLが42.0％で最多",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GQmZIOGFMRExPOFA2am9xM3h6U2tfTC13YUVuWnhmbE9GUWQxempnQ1NmZXdmWENJam5tUU1RYzl6TzVxQ1pLOFZOQk5STmN6NGVHUTE2VUw0TTNTZHNjRlM0SUVXdW9sNXc?oc=5",
+  "source": "PR TIMES",
+  "summary": "",
+  "publishedAt": "2026-11-12T23:00:02.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": true
+ },
+ {
+  "id": "f2bddb201fb5",
+  "title": "アンカーAIレコーダ「Soundcore Work」に音声入力モード Typelessと連携",
+  "url": "https://www.watch.impress.co.jp/docs/news/2155965.html",
+  "source": "Impress Watch",
+  "summary": "アンカー・ジャパンは、AIボイスレコーダー「Soundcore Work」に、AI音声入力ツール「Typeless」と連携させるファームウェアを12日から提供開始した。新たな音声入力モードの追加と、Typeless連携により、自然に話した内容から不要な言葉や言い損じを取り除き、読みやすく整えて文章化できるようになる。",
+  "publishedAt": "2026-11-12T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "756cf653f5d1",
+  "title": "生成AI時代の授業と評価はどう変わる？ 講演と実践紹介レポートをLoiLoが公開（こどもとIT）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nNDJEa2Z1ck1USUMzVWRxOV9jMVBTUTk0SUdJTmxFSHdyMWltZ2RHYnZ5cjZPQkprYWJEU0FzbS1YNlduZHEzSTBjQ08tdVM0RlRkMF85TDUzWGRXU0I3czFPZVFFYXMzTktOc2lvZ3BBbmVkWUhFQ0tmaldEZjg?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-12T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d4ed3f696f9d",
+  "title": "AIは仕事を奪う？ 中国政府も警戒モード､発展改革委などがリスク監視強化の方針…新たな法体系の構築も提言",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3TmdTUHdUUlRiTEtZOHNDN1RXeENtVXNkYXhUOE5FQ2JoWmZJVk1qWUpvNXZqaHhEOHoyWUZkYVpWUTZWMmswblBOekhxUUZCUndTMUduUlJBTjNSWVNVVkdMNGduWWh1Y2xhZnNvQlM?oc=5",
+  "source": "Infoseek",
+  "summary": "",
+  "publishedAt": "2026-11-12T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "ca9b9b9c79bf",
   "title": "現場の画像をクラウドに送らずにAIで判定したい――エッジAIで始める現場のAI化｜川上貴之",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pYVRFblVGblNRVTN4SHpuVDhYZ2c1eEpKTHBaa1NtRjNOeW96ZEVTUFE5bi1QM3RUdzVzNkdhZF9CYnNkd1pQcEZETnl5S042VE43YThuM0ZRYlNGbk55X0F0RFVFekVLckE?oc=5",
@@ -24,6 +276,19 @@
   "categories": [
    "case",
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8c5bc9eb4db0",
+  "title": "マイクロソフト「365」で大規模障害、メール「Outlook」やAIサービス「Copilot」など使えず 復旧は未定",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mWHFDczdWQVBQZmNaTmE1NER2MC00RmRDM2JxMER6dlQwLWppVTZxUGpwdzVDN2M1cWZwMzN1THRIZmhIZTlZRGlaMkZmczFweEFPSkZGVXphNV80N2lj?oc=5",
+  "source": "ライブドアニュース",
+  "summary": "",
+  "publishedAt": "2026-11-12T22:50:12.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -56,13 +321,26 @@
  {
   "id": "225f7f1d7242",
   "title": "AI半導体の米セレブラス、堅調見通し示す－エヌビディアへの攻勢強化",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNelV5MDFYOWdWd0dfdkEyc05XTTdlXzhpSXRzcWhkRlBfbGRoRVVibWZmUldubUprY2lVVlFHSlU3SnhqWlZsZmF3Vld6TDJZZ21FcnJkTzRsRGtSSG9jSEZnWTdIbWJVbE1HMmhyeTBYUHBlVEs1WWpPNTFVOTNlUGxuT1pPZ1FXVUo2Y3ZB?oc=5",
-  "source": "Bloomberg.com",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2Um03M0xSNEVIRmVVQzNIRXdHNDBUSzVtNlQ1b1dFNkxqZEVDS1ZEd3Z3U0RyMUl5WkZoMVZQUmhJTjRVMW53a3J5ZHAwdWliQmZXcUpyWDJNeGw1TXREZnNwRkgwLTQ?oc=5",
+  "source": "TBS NEWS DIG",
   "summary": "",
   "publishedAt": "2026-11-12T22:46:38.000Z",
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "00f3107652f5",
+  "title": "AIエージェントを「追えない、止められない」 約半数が経験する“暴走”、浮上する3つの盲点",
+  "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
+  "source": "ITmedia AI+",
+  "summary": "APIセキュリティベンダーSalt Securityの調査では、約半数の組織がAIエージェントによる意図しない行動を確認していることが分かった。一方で組織は、AIエージェントの想定外の行動を自動的に止められていない。対策として何が求められるのか。",
+  "publishedAt": "2026-11-12T22:45:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -348,6 +626,19 @@
   "isPR": false
  },
  {
+  "id": "7f1b7323f5d8",
+  "title": "ウェルズ・ファーゴ警告、AI関連債務の急増が天井に直面－250億ドル規模の案件に買い手疲れ",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MdnRRNW5NeEJxLWswdWFHenRJVEtwQW95MGtsYVZSUDlLVzJuYTNWeEdVc3VVYkJWNjVhQjBUaDhJQzRHcGtUanpldlJ3WWJqUW5Vai13OW1LUk9pZ3AzNHUybzltdnVnc2U1WWdpZGdrMnRi?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-12T22:05:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "59e6bad623a2",
   "title": "【資産200万円→10億円超・DAIBOUCHOU氏の厳選4銘柄】トランプ敗北・AI逆風下の相場でも強い“視点をずらした半導体関連”と“それ以外のお宝株”をピックアップ解説",
   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5YOUNEVjlvY0tubWJTNjh6TEJVY2wyWEtBT3ZvREZrSmQzQUtQZUNKTTVqUXZqYjMwdEFOU1FEa2wtX0V1ZnJz?oc=5",
@@ -371,19 +662,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "8f1e0d8e7ecb",
-  "title": "マイクロソフト、OutlookやCopilotの障害復旧に取り組む－株価横ばい",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckNkenQ4cHd2QS1yWVY5WUJSMGdkcFpUcnJmb2g4Rlp4Ykg2TGxUQzJBU2VpUm1oamsxNkM5U0I0TzNwR21CWFllUlFWcDg4RTdPT3pqdy1qMW50b3diaEZtM3E4WkZURDlhUkZlMGdoV002WmxBUlZXdk9MQk10cVFPc21lUTZfMThTemZB?oc=5",
-  "source": "Bloomberg.com",
-  "summary": "",
-  "publishedAt": "2026-11-12T22:01:35.000Z",
-  "image": "",
-  "categories": [
-   "business"
   ],
   "isPR": false
  },
@@ -534,9 +812,9 @@
  },
  {
   "id": "de9fb16856d2",
-  "title": "HIS、店舗接客にAI導入で「成約率5ポイント上昇」 “検索迷子“の客を救った仕組みとは？",
-  "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5qNnc5ckxRZUxYNjdLeU1IZXFlaGhIQmdJRmpkVUt2NmFLODcwYTgzZHE0bGlLOHZZazYw?oc=5",
-  "source": "Howl.Link",
+  "title": "HIS、店舗接客にAI導入で「成約率5ポイント上昇」 “検索迷子“の客を救った仕組みとは？（1/3 ページ）",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11LVBsTjdmcFB4U1RYMU83T1AzUDZ4MlpFUEx3YUdPNFU1ZXd2Rlc2VTZSV25WdDUxc19qMjRXY3FkTmJkdWpqS2t0ck55QnBick53TFlIUEtjZlpWOFo4QVZSUl9nZDBCTEQ2ZVpmSUZidw?oc=5",
+  "source": "ITmedia",
   "summary": "",
   "publishedAt": "2026-11-12T22:00:00.000Z",
   "image": "",
@@ -570,6 +848,19 @@
   "categories": [
    "case",
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bf1cdf8f2d7d",
+  "title": "JR九州の非IT部門がGeminiでPythonアプリを内製開発 2～3カ月で完成させた方法",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VZURabXRzWEthTkd2ZzlIMkFSN1JZekdDOUNmYVQxSktLLW1iRnIwNUdydE1SV1ZWWFk0UHRSSjJzS2V4NndOU2dPbi1wREc3RHJOTEN5cnBMTFFLcFVJOGNZVXJDUQ?oc=5",
+  "source": "キーマンズネット",
+  "summary": "",
+  "publishedAt": "2026-11-12T22:00:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -827,19 +1118,6 @@
   "source": "ｄメニューニュース",
   "summary": "",
   "publishedAt": "2026-11-12T21:13:34.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "8c5bc9eb4db0",
-  "title": "マイクロソフト「365」で大規模障害、メール「Outlook」やAIサービス「Copilot」など使えず 復旧は未定",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuY00yU0JPYVl6QmlNdzEwc3R1eUxnRndNR3N0VTJDbUhPQ2NMbTg0aEI2dXM2aF9sTUlsOWZMX09kMWktWllGbG9KNUoyS3BV?oc=5",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-11-12T21:13:08.000Z",
   "image": "",
   "categories": [
    "other"
@@ -1130,7 +1408,7 @@
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnZWk5U0JoV2FpSkFKOEJzdEpKeDVnZGZ2ZEt0RGhEU0p1NllPX2JkWFlVcE95UUhqMEFtX1FNaGFQOGZxcjFWZmdqYThTeUdNRzFOWURJN1B6X1F4VUY0?oc=5",
   "source": "NHKニュース",
   "summary": "",
-  "publishedAt": "2026-11-12T20:25:21.000Z",
+  "publishedAt": "2026-11-12T20:25:00.000Z",
   "image": "",
   "categories": [
    "policy"
@@ -1147,6 +1425,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "388ee05bc272",
+  "title": "AI検索からの問い合わせを、月額3万円から。プロベルがBtoB企業向けAIO/LLMO対策プランの製品サイトを公開",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01dmw0OV9PbExDVmlZUldGZkJsVTJwem5EU2lpLTQwbWJLZzdnR2xJdHdjWDBldXRsMmlTSVR0VXN3YjVJQ1AtdFJZNENMN2pyR1R0dFZkanZ1c0I0UGtmV2wxX0ZsWHBVZl9BU2Q0MUh5SUlh?oc=5",
+  "source": "STRAIGHT PRESS",
+  "summary": "",
+  "publishedAt": "2026-11-12T20:13:33.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -1273,6 +1564,19 @@
   "title": "東京科学大が材料物性のLLM学習を大幅軽量化",
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mMXpiNUFNRmVIN3BsYUlFNnMwNWhuaktQQlMxc3VXajgyYTJLMkZlVGpfRFZsMnZ4dDl4UnNvMm5tRWViblpVbWUtZ2l5ZzlkaGxwdkJwa0o?oc=5",
   "source": "日刊工業新聞",
+  "summary": "",
+  "publishedAt": "2026-11-12T20:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a41a4abbd7f4",
+  "title": "「RAG不要論」は本当か？ AIに全部読ませる運用の落とし穴：特選プレミアムコンテンツガイド",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56MnFtcVp2SDhyWlpXNkw2QTN4MEN2QmVaR1QxcXh4SWI0VFBVNzJ6UC1uOWlPT2VwcmJRMk1nSF9EZDdnTHZhX0xueEVYUjJ1YmhfRjFLQnJYNjV1dl96N1FJbUFsYmgyZTNqVFlsMGE?oc=5",
+  "source": "TechTargetジャパン",
   "summary": "",
   "publishedAt": "2026-11-12T20:00:00.000Z",
   "image": "",
@@ -1651,6 +1955,19 @@
   "categories": [
    "model",
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "eec30fa889e8",
+  "title": "エヌビディアCEOの不倫相手､アリス氏とは－AI半導体の巨額輸入で台頭 フォトギャラリー | TBS CROSS DIG with Bloomberg",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSXVBZWp6c1BOanZqWnVibVRkOHNWX0JNU2ZleXJaOFpOODIwLW0xR3ktdHB6OHNBcG80dzNMVnZta1V1M0ZUUUwxdW5NMXdIWkhITzlZdnZXUHBIVkQ5YnN5RHBuTXh5VU9jcEJ5dVpTUUhYdlp6Q08yUEVSR2kxYlptQ1luUWM?oc=5",
+  "source": "TBS NEWS DIG",
+  "summary": "",
+  "publishedAt": "2026-11-12T18:06:06.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
