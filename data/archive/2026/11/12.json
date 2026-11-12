@@ -52,13 +52,26 @@
   "isPR": false
  },
  {
+  "id": "f5c07619992c",
+  "title": "Decision Model「Clef-Omni」を試してみる：Colabで日本語の留守番電話から最後の意向を判断する",
+  "url": "https://zenn.dev/nakanishitf/articles/be1556b7254484",
+  "source": "Zenn",
+  "summary": "画像の次は、日本語の音声を判断させてみる 以前の記事では、CloudflareのClefを使って、画像の中に猫がいるかを判定しました。 今回は、音声も入力できる Clef-Omni を使ってみます。 題材は、予約についての留守番電話です。 「キャンセルしてください」だけなら、何をしてほしいかは比較的わかりやすいと思い…",
+  "publishedAt": "2026-11-12T14:43:03.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "7dbaf7d9f898",
   "title": "NVIDIAジェンスン・フアン氏がCEO辞任",
   "url": "https://pc.watch.impress.co.jp/docs/news/2156075.html",
   "source": "PC Watch",
   "summary": "NVIDIAの取締役会は11月12日(現地時間)、ジェンスン・フアン氏が社長兼最高経営責任者(CEO)および取締役を即日辞任したと発表した。",
   "publishedAt": "2026-11-12T14:42:47.000Z",
-  "image": "",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fpc.watch.impress.co.jp%2Fdocs%2Fnews%2F2156075.html",
   "categories": [
    "infra"
   ],
@@ -87,6 +100,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "63cfcede95fe",
+  "title": "ElevenLabs代替を自称するOSS音声クローンを動かしたら、ライセンス以前に依存関係のバグで動かなかった",
+  "url": "https://zenn.dev/matsushima_a/articles/day-044-voicestudio-voice-clone-brotli-bug",
+  "source": "Zenn",
+  "summary": "これは何を試した記事か debpalash/VoiceStudio(AGPL-3.0)は、「ElevenLabsのローカル完結版」を自称する音声スタジオである。 ボイスクローン・テキストからの声質デザイン・動画の吹き替え・文字起こしなどをひとつのローカル動作アプリでまとめて行え、646言語(API上は648言語)対応…",
+  "publishedAt": "2026-11-12T14:26:40.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -182,6 +208,20 @@
   "isPR": false
  },
  {
+  "id": "820be18884ff",
+  "title": "CLAUDE.md をユーザー共通とリポジトリごとに分けて運用している話 — 何をどちらに書くか",
+  "url": "https://zenn.dev/chukidx_dev/articles/claude-md-user-and-repo-split",
+  "source": "Zenn",
+  "summary": "この記事を読むと得られること 複数の社内ツールを1人で抱えているときの、CLAUDE.md の分け方の判断軸 「ユーザー共通」と「リポジトリごと」に書く内容の具体例 分けたあと、実際にどの指示が読み込まれているかを確かめる手順 こんな人に向けて 社内ツールのリポジトリが3つ以上あり、どれにも同じ決まりを書き写している…",
+  "publishedAt": "2026-11-12T14:04:04.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "a01faa723186",
   "title": "人間を凌駕する「超人的AI研究者」2027年にも登場か？元OpenAI研究者が予測前倒し（ビジネス＋IT）",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2LWtnZjdrVHFrM1hqTlNPSEwtQ2l1UVl1MVVqNC1rcVJMbkJSajNqSVBQUVcwSEhVdURhTXI3bU5fb0FSZHVXbUVnYmtkU2JvTmpib2tHUTJ5bnZNclU0OGJtUEdLdWwzQl9keFkxZG1TREJLZGZLeW9LTmNsS00?oc=5",
@@ -221,6 +261,19 @@
   "isPR": false
  },
  {
+  "id": "3b56325e61c3",
+  "title": "AIworkerが提案するMicrosoft 365 Copilotを活用した社内FDE育成の新たな手法",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jc0ZrVmdjZ3kxNVRnR2I4SUZMemowTTAxMTBKVldubjhVYVV5NmEydzNkQS1KVkNWcVRoYllrR0FaRjl1NjBLX0lwWVZuVmZFUWQ0aXg0aVJaVnNWczFDM0hSaGJrSU9tSElkMWlGc2xMRkpa?oc=5",
+  "source": "ニュースメディアVOIX",
+  "summary": "",
+  "publishedAt": "2026-11-12T13:50:33.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b20225a3023f",
   "title": "FlashLabsが提供するOrcaRouterでAnthropicの最新AIモデル「Claude Fable 5.2」をAPIで利用開始",
   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Sb3FyclJBUC1lWWdPSW1BdjZhUnZlVG1BZFhtanZpVWtRbFRHeVN4cWVIU0x5bnFvNG1BSkF5SnZpamdZa2ZNU1NQY2dnTEpqeHNnV3BPYUV0clROMkdBZ21HU00yS2Qxd3dOdFhfc2RHeWNmeHlHU2lZbDk5Zw?oc=5",
@@ -230,6 +283,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8dfeab5fe8ea",
+  "title": "中国・10年物PHPのEC基幹を4人×2週間でJavaへ——AIを「865行のルール」と「差分比較コマンド」で縛った移行手順",
+  "url": "https://zenn.dev/soliperse/articles/8f3e21e9d26f92",
+  "source": "Zenn",
+  "summary": "「AIで54万行を2週間で移行」と聞いて、まず疑ったのは現場のエンジニアたちでした。中国で話題になったこの事例は、続編の記事で“2週間”の中身と、AIを縛った具体的なルールまで公開しています。数字より、その手順の方が持ち帰る価値があります。 ケースの規模（ソース記載の数字のみ） 対象：稼働10年、約54万行のPHPで…",
+  "publishedAt": "2026-11-12T13:42:27.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "dev"
   ],
   "isPR": false
  },
@@ -260,16 +327,15 @@
   "isPR": false
  },
  {
-  "id": "8dfeab5fe8ea",
-  "title": "中国・10年物PHPのEC基幹を4人×2週間でJavaへ——AIを「865行のルール」と「差分比較コマンド」で縛った移行手順",
-  "url": "https://qiita.com/soliperse/items/703192eb36fe80ba82db",
-  "source": "Qiita",
-  "summary": "「AIで54万行を2週間で移行」と聞いて、まず疑ったのは現場のエンジニアたちでした。中国で話題になったこの事例は、続編の記事で“2週間”の中身と、AIを縛った具体的なルールまで公開しています。数字より、その手順の方が持ち帰る価値があります。 ケースの規模（ソース記載の数字...",
-  "publishedAt": "2026-11-12T13:32:31.000Z",
+  "id": "7a462291fabd",
+  "title": "ISUCONから学ぶAIとの付き合い方",
+  "url": "https://zenn.dev/ojey/articles/isucon2026-kansousen",
+  "source": "Zenn",
+  "summary": "ISUCON2026の参加記の続きです。本番は約6万点で終わりました。その後の感想戦で、同じClaude Codeに続きをやらせたら61万点まで伸びました。 伸びたのは、AIに足したものがあったからではありません。私が渡していたものを、ほとんど取り上げたからです。 TL;DR 何をした：感想戦を3回に分けて、Clau…",
+  "publishedAt": "2026-11-12T13:24:09.000Z",
   "image": "",
   "categories": [
-   "case",
-   "dev"
+   "other"
   ],
   "isPR": false
  },
@@ -329,6 +395,19 @@
   "isPR": false
  },
  {
+  "id": "950b88213612",
+  "title": "AIキャラクターの会話が崩れる理由と、崩れ率0%までの評価条件",
+  "url": "https://zenn.dev/orca_forge/articles/ai-banter-collapse-23-to-0",
+  "source": "Zenn",
+  "summary": "📝 この記事は forge.workstyle.tech に掲載した記事の転載です。 お題を最初の番にしか渡さないと、会話が進むうちにキャラクターが話題を見失います。崩れた発言を次のキャラクターが拾うと、脱線が場全体に広がります。話し方だけでなく、プロンプトや渡す材料、返事の形、お題の渡し方を評価しました。 先に結…",
+  "publishedAt": "2026-11-12T13:06:52.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "af1eac0770b7",
   "title": "米ゲインサイト、AIエージェントと成果連動型価格へ転換で約270人削減",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TdTVYY05SZDJPb3hqZDl0bHU4YWY5dVF0Qmwyd0JicTVTZGFJVkJyV3NLUjR2NjYwRTFGNFpOdTVySjl2VWNMc0praVpmWjdwMHJBLTF0U0M3ZTB4dXhCblI3RzVJYVRKUmRQYmlyQzJfQjN0?oc=5",
@@ -368,6 +447,58 @@
   "isPR": false
  },
  {
+  "id": "2c4d489fe2d4",
+  "title": "小さなツールをAIと作って売る — フォロワー0からの実践と逆算の技術",
+  "url": "https://zenn.dev/fast_snake57/books/2b8db1deddec17",
+  "source": "Zenn",
+  "summary": "フォロワー0から、AIと一緒に小さなHTMLツールを企画・制作し、noteやBOOTHで販売するまでの実践記録。目標金額から逆算する考え方、単一HTMLで完結するツールの設計、販売チャネルの広げ方をまとめた。机上の空論ではなく、実際に公開・運用している過程の数字と考え方を書いている。",
+  "publishedAt": "2026-11-12T12:53:07.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "cbb7b96a49d3",
+  "title": "初の週次レビュー ― 5日間の台帳を集計して「続ける／直す／やめる」を決めた話",
+  "url": "https://zenn.dev/ai_secretary/articles/2a243ba767f5e3",
+  "source": "Zenn",
+  "summary": "始めて5日目、初めての週次レビュー AI収益の仕組みを動かし始めて、2026-11-09で5日目になった。月曜21:30に、初の週次レビューを行った。集計期間は2026-11-05から11-09までの5日間。集計の根拠は台帳（ledger.csv）の実測だけだ。推測の数字は使わない。 この仕組みのルールでは、週に1回…",
+  "publishedAt": "2026-11-12T12:46:42.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2b3740fd1a5b",
+  "title": "Anthropic の SDK が1年で24倍 npm 全体も3倍",
+  "url": "https://zenn.dev/damaha/articles/4334a13c8b84cc",
+  "source": "Zenn",
+  "summary": "AI のライブラリのダウンロード数を毎日集めて、グラフにしています。 npm のデータが1年分たまったので、1年前とくらべてみました。Anthropic の SDK（@anthropic-ai/sdk）は、1週間のダウンロード数が283万回から6,766万回に増えていました。24倍です。 すごい伸びだなと思ったのです…",
+  "publishedAt": "2026-11-12T12:43:36.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c4c7e43353a8",
+  "title": "「1月中旬に公開」の予定だった機能を、オーナーの一言からAIが一晩で作った話",
+  "url": "https://zenn.dev/utengo/articles/ai-yosegaki-feature-overnight",
+  "source": "Zenn",
+  "summary": "はじめに 個人で作っている「メモリアリー」という iPhone アプリがあります。写真を選ぶと、送別会や誕生日に渡せる寄せ書き動画・スライドショーが作れるアプリです。 このアプリの事業を、2026年10月下旬から「ほぼ全部 AI に任せる」やり方で回しています。戦略、開発、ストアへの提出、SNS の動画づくり、小さな…",
+  "publishedAt": "2026-11-12T12:41:25.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "2c99df842f62",
   "title": "エヌビディアの混乱と資金調達リスクが重圧となる中、バークレイズはAI関連銘柄の長期的な上昇トレンドを依然として楽観視",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaGIzM1hjaC12RDdaWDBGbDJoaFRydWFZTF9XLUlWeEEyYTlTYWNJYXM3Tm51dENKQi1zd2xQeUZQRk96Q2pCWDB0OUR1aXRGbHBpaFJNQnRNc21LN05ES3ljc3puVDZRUTJFbmtNOTBjeTRIbUpITnpVOTgzUW1oTl9NVW1TUlhwVng5b0tQYW51ZHdFM3A3Z2xPYkRjQVY4ZHZLcVN1TEVtdjg4cFVqX0lLbzhIZw?oc=5",
@@ -377,6 +508,19 @@
   "image": "",
   "categories": [
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9e13232eba5d",
+  "title": "AIに事業を任せたら、詰まるのは人だった。判断待ち5件を「一言」で、手作業50分を「ゼロ」にした話",
+  "url": "https://zenn.dev/utengo/articles/ai-owner-bottleneck-one-word",
+  "source": "Zenn",
+  "summary": "はじめに 個人で作っている「メモリアリー」という iPhone アプリがあります。写真を選ぶと、送別会や誕生日に渡せる寄せ書き動画やスライドショーが作れるアプリです。 このアプリの事業を、2026年10月下旬から「ほぼ全部 AI に任せる」やり方で回しています。戦略、開発、ストアへの提出、SNS の動画づくり、小さな…",
+  "publishedAt": "2026-11-12T12:39:46.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -460,6 +604,19 @@
   "isPR": false
  },
  {
+  "id": "dc095768354e",
+  "title": "動画AI補正は「空間」と「時間」を分けると選びやすい",
+  "url": "https://zenn.dev/ainewscenter/articles/8fc3428c3c1a57",
+  "source": "Zenn",
+  "summary": "動画がぼやけて見えるとき、すぐに解像度を上げても問題が解決するとは限りません。執筆：Carol Luo · 2026年11月12日確認 VideoUpscaler AIはブラウザ上で短い動画を処理するサービスです。動画をアップロードし、モデルや補正方法、出力サイズを選び、仕上がりを比べてMP4をダウンロードします。V…",
+  "publishedAt": "2026-11-12T12:22:08.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "fce48da5fa43",
   "title": "AIエージェントが5日間気づかれず顧客情報を抜いた――WorkOS事件の4つの弱点",
   "url": "https://qiita.com/maees/items/591660306e9dc40f6980",
@@ -468,6 +625,20 @@
   "publishedAt": "2026-11-12T12:14:47.000Z",
   "image": "",
   "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "31671a712803",
+  "title": "AWSが「人間がコードを一行も書いていない」エミュレータを公開——AIエージェントだけで構築し、1日数千件を自律修正するパイプラインの全貌",
+  "url": "https://ai.freelance-job.com/article/6af4dfd749a7d098b46764d2",
+  "source": "はてなブックマーク",
+  "summary": "11月11日、About Amazonが「How we built the agents that built AWS Emulator」と題した記事を公開した。AWSサービスのローカルエミュレータ「AWS Emulator」を、人間のコードレビューを一切介在させず自律型AIエージェントだけで構築した取り組みを詳細に…",
+  "publishedAt": "2026-11-12T12:11:46.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fai.freelance-job.com%2Farticle%2F6af4dfd749a7d098b46764d2",
+  "categories": [
+   "dev",
    "product"
   ],
   "isPR": false
@@ -482,6 +653,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d05ff36b93c3",
+  "title": "第1回：Dell AI Factory with NVIDIAとは何か――AIの実験を本番へつなぐ全体像",
+  "url": "https://zenn.dev/mstmt/articles/e31b3467b8cfa9",
+  "source": "Zenn",
+  "summary": "本稿は LinkedIn に掲載していた記事の内容の転載である。 元記事は こちら [日本語] AI導入を止めるのは、モデルだけではない 生成AIのPoCでは、動くデモを作ること自体は以前より容易になった。公開モデルやAPI、アプリケーションフレームワークを組み合わせれば、短期間でチャット画面や検索機能を形にできる。…",
+  "publishedAt": "2026-11-12T12:09:22.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
   ],
   "isPR": false
  },
@@ -552,6 +737,19 @@
   "isPR": false
  },
  {
+  "id": "f9e078dd05e9",
+  "title": "Novel as Code ① ― AIに小説を書かせるため、小説をソフトウェアとして管理してみた",
+  "url": "https://zenn.dev/schutzz/articles/2c659e83070668",
+  "source": "Zenn",
+  "summary": "はじめに 生成AIに小説を書かせてみたいと考えたことがある人は、それなりにいるのではないでしょうか。 現在の生成AIなら、世界観や登場人物を指定し、プロットを渡せば、それらしい小説を生成してくれまし、実際に短い文章ならかなり自然に読めるものを生成してくれます。 では、これを使って長編小説を作ることはできるのでしょうか…",
+  "publishedAt": "2026-11-12T11:54:43.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "a8cf59af8bb5",
   "title": "短尺動画のAI補正をどう評価するか：解像度・ノイズ・fpsを分けて判断する",
   "url": "https://qiita.com/carolluoyiyi/items/f18b6304a6d45fcb0a23",
@@ -561,6 +759,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "edc09dda1323",
+  "title": "AIが作成?画像は別人? 兵庫・尼崎市議補選で選挙ポスター複数掲示 作成費に公費支出、戸惑う有権者 (神戸新聞NEXT)",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdlp5Vmo1cy1TSGRwQVJvbmt0MVZlUzhacXJTVGJGZEc0VDZuRGF5aVFxbEJJc3VENWJhZ3RPV05oeHRQeVlsbS1RR0hfQzlnZ3FpUXJOMjFmbFpvQ3dxaE5McjUyZ2JzVVJQNWNFZ3pYVS1oUjFLNGw2NW5aZk9YSF9rMVVoN2pZdFoxdnhR?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-12T11:45:09.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -591,12 +802,39 @@
   "isPR": false
  },
  {
+  "id": "e6c3073242bd",
+  "title": "AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録",
+  "url": "https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat",
+  "source": "Zenn",
+  "summary": "はじめに こんにちは。ビジネス映像メディア「PIVOT」で、QAエンジニア兼PjMをしている ケイスケ です。 PIVOTのモバイルアプリ（iOS / Android）では、AIでテストケースを書くようになってから、ケースの数が増え続けています。リリース前のUAT（受け入れテスト）で全件を回すのが難しくなってきたので…",
+  "publishedAt": "2026-11-12T11:41:36.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "cb69499de5ba",
   "title": "【小学5年生でもわかる】バギングとブースティングってなに？",
   "url": "https://qiita.com/mrmrmr/items/2bee07c0437340825bad",
   "source": "Qiita",
   "summary": "バギングとブースティングってなに？ 「複数のモデルを作る2つの異なる方法」のこと。 かんたんな説明 『何人かで同じ問題を解かせて、みんなの意見を合わせる方法』と『最初は簡単な問題から始めて、難しい問題を重点的に練習する方法』という2つのやり方です。 日常生活での例え ...",
   "publishedAt": "2026-11-12T11:38:36.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "75b23e482a3b",
+  "title": "AIっぽくない画像を作る画風プロンプトの選び方と使い方",
+  "url": "https://zenn.dev/sunsun_eng/articles/non-ai-looking-image-prompt-guide",
+  "source": "Zenn",
+  "summary": "この記事の要点 「AIっぽさ」は肌のツルツル感・過剰な被写界深度・左右対称構図など複数要因の重なりで生まれます 画風プロンプトはカメラ・フィルム・年代・技法を具体的に指定することで、AI特有の質感を回避する手法です 画風プロンプトは万能ではなく、テキスト情報が多…",
+  "publishedAt": "2026-11-12T11:37:10.000Z",
   "image": "",
   "categories": [
    "other"
@@ -659,7 +897,7 @@
  {
   "id": "fb47cc65f3b2",
   "title": "税理士事務所向けAI導入支援の受付を開始。記帳の流れを4時間で整理し、AIに任せる工程と担当者が確認する工程を分けて普",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByV3ZqMWhHM2MzQ0pILUVfcnRhdUJqRWhvWkkwX2tNamFsd2NKZkRXTjFxdFl1Q1lKeXhSWmk3RS1ZeGlsLXVpMnVMeVBKN0ZQaFpRdG1CdlFTbmh1emw2WmwxMnA4d19qYzN4aGN4bi1DOEhheXdEU3YxYw?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ad3NNdmtKRkd2bzNpNkt3UWJldHZjUC1Tanp3eDNZbDNVRUh0RVNvRGEwZTFzSEt5ZHlHa0NRNjRkOWVlRnNmeUdwbC1NaGRaemlQejBNY1k5YmJ2S1p5Mnp3Z2Q3TTF3OGdVbkp4dnFlSWRXMlh0SkhGUQ?oc=5",
   "source": "ニコニコニュース",
   "summary": "",
   "publishedAt": "2026-11-12T11:15:27.000Z",
@@ -761,12 +999,25 @@
   "isPR": false
  },
  {
+  "id": "8b2f2a55ded0",
+  "title": "複数のAIで合議するコードレビュー ―「評価」から「鑑賞」へ",
+  "url": "https://zenn.dev/daisosha/articles/1f2413d41b4745",
+  "source": "Zenn",
+  "summary": "はじめに AIにコードレビューを任せるとき、多くの仕組みは「スコア」で判定します。閾値を超えれば通過、下回れば却下。速くて分かりやすい方法です。 ただ、大創社でAIとの共創を続ける中で、別の考え方に行き着きました。スコアによる評価には、「正解が1つ存在する」という前提があります。けれど実際の開発で大切なのは、正しいコ…",
+  "publishedAt": "2026-11-12T10:41:29.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "9c1f7c212116",
   "title": "人とAIエージェントはどう協働する？エージェント時代のプロジェクト管理実践ガイド",
-  "url": "https://qiita.com/danqinlinan/items/d57c0fc6a457eec70690",
-  "source": "Qiita",
-  "summary": "AIコーディングエージェントの登場で、ソフトウェア開発に対する私の考え方は変わりました。 少し前まで、開発にAIを使うといえば、モデルに質問し、回答を受け取り、コードをコピーして、その先は自分で作業を進めるという使い方を主に思い浮かべていました。 そのあり方が、今、急速に変...",
-  "publishedAt": "2026-11-12T10:31:52.000Z",
+  "url": "https://zenn.dev/techhub/articles/a05bc9029d78",
+  "source": "Zenn",
+  "summary": "AIコーディングエージェントの登場で、ソフトウェア開発に対する私の考え方は変わりました。 少し前まで、開発にAIを使うといえば、モデルに質問し、回答を受け取り、コードをコピーして、その先は自分で作業を進めるという使い方を主に思い浮かべていました。 そのあり方が、今、急速に変わりつつあります。 現在のAIエージェントは…",
+  "publishedAt": "2026-11-12T10:23:07.000Z",
   "image": "",
   "categories": [
    "dev"
@@ -1037,6 +1288,20 @@
   "isPR": false
  },
  {
+  "id": "83028283993b",
+  "title": "クラウドの Claude Code を「記録から再開」させる：4 週間で 20 回書き換えた CLAUDE.md",
+  "url": "https://zenn.dev/jfp_mesh/articles/claude-code-claude-md-resume",
+  "source": "Zenn",
+  "summary": "! この記事は、実験の当事者である AI「PUP」（クラウドで動かした Claude Code）が、自分の記録（CLAUDE.md の変更履歴・決定ログ・失敗ログ）から書きました。公開の前に、人間の相方（宇宙おじさん）が内容を確かめています。 この記事で分かること クラウドで動かす Claude Code に、何週間…",
+  "publishedAt": "2026-11-12T09:56:17.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "39249a422c36",
   "title": "【導入してから気づく落とし穴】AI議事録を「使えるツール」に変えるために決めておくべき会議の仕分けルール",
   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05X0Vqb1FsRUJQeDZCMWh2X3prVWhHaHFWdDFqMkRwUFMyaXF2dHZxWmhJLV94Y1BrS2llblpQR2UxWHE1V3BySzNNZTFWWjM4?oc=5",
@@ -1074,6 +1339,34 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b48285118b98",
+  "title": "MCP 設定ファイルにシークレットを残さない——貼る前・コミット前に確かめる手順",
+  "url": "https://zenn.dev/genhiroko/articles/mcp-config-secrets-check-before-commit",
+  "source": "Zenn",
+  "summary": "MCP サーバーを足すとき、README の例をそのまま .mcp.json に貼り、\"API_KEY\": \"sk-...\" のように本物のキーを書き込んで動かしてしまう。動いたのでそのままコミットする。この流れは誰にでも起こります。 GitGuardian が 2026年3月17日に公開した「State of Se…",
+  "publishedAt": "2026-11-12T09:51:42.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "88d4fc61a046",
+  "title": "RigSpark入門 ―「自分のPCでどのAIが動くか」をダウンロード前に判定してくれる無料ツール",
+  "url": "https://zenn.dev/ikesita/articles/47cfb78f087fea",
+  "source": "Zenn",
+  "summary": "AIツールウォッチ第1回 / 検証日：2026-11-12 / 検証バージョン：RigSpark v3.1.3（Linux版で実測） ※数値のうち「推定」と書いたものはRigSparkの見積もり、「実測」と書いたものは検証環境で実際に測った値です。 1. 何ができるツールか RigSpark（リグスパーク）は、自分の…",
+  "publishedAt": "2026-11-12T09:51:38.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
   ],
   "isPR": false
  },
@@ -1249,6 +1542,19 @@
   "isPR": false
  },
  {
+  "id": "335f14fa1b44",
+  "title": "LLMルーティングの判定役を小型化、クラスメソッドが検証した品質とコストの両立 NVIDIA Agentic AI Day Japan 2026",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zUjFuX0ItSk50bUx2RWRBVU50UDZDX084Y0tZMXF2UEs5R3J5SmxUbFRZMW5Od2xzLWVmNlpIcVBsNUhoYVIta29pZHp6U2I4bmotdjQ3U2VUbzYtTmM4SFdQNGtjZUNCSGR6Mmpn?oc=5",
+  "source": "au Webポータル",
+  "summary": "",
+  "publishedAt": "2026-11-12T09:19:20.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "8ca5f78727e0",
   "title": "政府が生成型人工知能(AI)が作り出す誤った情報と偏向した回答などを国民が直接探して情報提供する常時モニタリング体系を稼動する。 大学生や会社員など国民80人がAIの事実歪曲と偏向、差別およびセキュリ..",
   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HRVppT3hmX0VBbzZPYWpibHJvTDJSWW9ZRk5DRDJzMW5oQUIwT1piTTJUR0pZUEFlTWtVb09iaGp6R0NHQ245WEtUWQ?oc=5",
@@ -1364,19 +1670,6 @@
   "image": "",
   "categories": [
    "product"
-  ],
-  "isPR": false
- },
- {
-  "id": "335f14fa1b44",
-  "title": "LLMルーティングの判定役を小型化、クラスメソッドが検証した品質とコストの両立 NVIDIA Agentic AI Day Japan 2026",
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrRnRGemc2d1EyU01YUnN2NWluWU9hOHNpVWkwVE5YXzE4bzNlTE5OaHMwNWRiazdid05fQ3VIbzdKb1JyYm9vY1dFcjI5QUtKS084dXpYM1pHRXRFdXZLY0pCQmE?oc=5",
-  "source": "ロボスタ",
-  "summary": "",
-  "publishedAt": "2026-11-12T09:00:01.000Z",
-  "image": "",
-  "categories": [
-   "infra"
   ],
   "isPR": false
  },
@@ -3535,7 +3828,7 @@
  {
   "id": "c04cf4814728",
   "title": "宮田愛萌の写真集 無断転載や生成AIによる加工画像に注意喚起 発行元が警告「必要に応じて法的措置を」",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeUEzdzFPcmw0Y2drZ01EVGpSSGduNzU2a1QtdUJMY1RUM0RZaGtqZ2gxVjhkV1pvM2JXcENWdjVTNjFkaEIxY3Q1a3Q0X0t0X1VKZzUwZTRIcVBlNGFBVkZoY1FlZmxtX3lpT3RfVS1KS01OZFNjYVZ6ZVJRMUpUSGVNZE93YkVhQTVSU0l3?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wUmVvNkVTQVozZ1RCaHBCVzNmOS1iUFYtdER6bXAwMGl3WXpJQlMyVXFpMmplU1M3dDRjNVhCenFoelV3LS1iSnBKTE5Md0x5UXF4azI3S1RUYTMxR1prNUxHVk8zclNzVklOS3VUSF9vanFqUXVPUVluZjlfOGM?oc=5",
   "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-11-12T05:18:08.000Z",
