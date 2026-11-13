@@ -1,5 +1,227 @@
 [
  {
+  "id": "710c97acd404",
+  "title": "担当者が変わっても毎日デプロイを続ける――自動化と手動復旧を引き継ぐ運用資料の作り方",
+  "url": "https://qiita.com/boraemon2000/items/e81aa28154bf5418d6c4",
+  "source": "Qiita",
+  "summary": "前回は、自動化に異常が起きたとき、処理を止めて人の手順へ安全に戻す方法を整理しました。 停止条件と手動フォールバックがあっても、その内容を一人しか理解していなければ、運用はまだ安定して...",
+  "publishedAt": "2026-11-13T09:21:15.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "00643492f9ea",
+  "title": "PMとして、エンジニアの質問への自動返信をClaudeで仕組みにしたら、確認が1日2回で済むようになった話",
+  "url": "https://qiita.com/anago__/items/48dada2c50752e5514c8",
+  "source": "Qiita",
+  "summary": "エンジニアからの質問への返信を、Claudeで自動化しました。 1か月でAIが返したのは18件。主な答えが後から覆ったものは0件だった PMの確認は1日2回ほどで済むようになった 線引きは確信度ではなく種類。調べれば分かることはAI、誰かが決めることは人 課題は、返信...",
+  "publishedAt": "2026-11-13T09:15:05.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4dfc06b47472",
+  "title": "人間は「AIの身代わり」なのか？ 制作工程の自動化がもたらす責任と謝罪のゆくえ",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SMXpsbVhxajFWdGFVMlFYN3dVcTlSc0ZPN1dOZ0g4Zk5xN1c5OFRlVE5xM01McDNocGRQTFFzb0Ytdmx6RmY1REkxVU1UaktOSnVBcnZQUlZfUl9PekhR?oc=5",
+  "source": "AdverTimes.（アドタイ） by 宣伝会議",
+  "summary": "",
+  "publishedAt": "2026-11-13T09:11:15.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2964d7cbe0dd",
+  "title": "Googleの「カメラ付きAI眼鏡」最速実機インプレ--見たものを理解するGeminiの実力",
+  "url": "https://japan.cnet.com/article/35254849/",
+  "source": "CNET Japan",
+  "summary": "Gentle Monsterのショールームで、4つのロボットの頭を見上げていた。透明な球体の中で回転しながら、それぞれ異なる言語で会話を交わしている。ところが、何を話しているのかは分かる。かけていたスマートグラスが、リアルタイムで翻訳してくれていたのだ。使っていたのは、米Googleと韓国Samsungが共同開発した…",
+  "publishedAt": "2026-11-13T09:10:00.000Z",
+  "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1359565-file.jpg",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a4244ce020c5",
+  "title": "Googleから新登場「カメラ付きAI眼鏡」最速実機インプレ--見たものを理解するGeminiの実力",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FVUJSaFpuYkZIcGxpMWhVcFBMZ2tTeG83YkxpOFBfeDdaSUhJeDg0LVJBUGl3ZjJmSmxfMi1pRW1yOGZPd2V6LU1QS0xpZU1ydGc?oc=5",
+  "source": "CNET Japan",
+  "summary": "",
+  "publishedAt": "2026-11-13T09:10:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "956444ec3a0e",
+  "title": "写真1枚からバックラッシュを測る ― AIが「黒い所」を取り違えた話",
+  "url": "https://qiita.com/himajisan/items/a88e6e9faff6c22e8793",
+  "source": "Qiita",
+  "summary": "はじめに 軸の方向から撮った歯車の写真1枚で、バックラッシュを測りました。結果は法線方向で jn ≈ 0.35mm、平行な3本の線で 0.33〜0.38mm です。CADで歯面どうしを測った約 0.35mm と一致しました。 ただし、ここにたどり着くまでに、AI（Clau...",
+  "publishedAt": "2026-11-13T09:04:29.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "52241fd3f6ce",
+  "title": "Cursorの拡張機能「Claude Code for VS Code」にバックドア：2.1.312と2.1.313が対象",
+  "url": "https://qiita.com/pitaspot/items/e2d87bfa2d6802494407",
+  "source": "Qiita",
+  "summary": "📰 海外事例 元記事：Backdoor in Claude Code for VS Code extension on the Cursor Marketplace（phorion.io） セキュリティ会社Phorionが、Cursor（AIコーディング用エデ...",
+  "publishedAt": "2026-11-13T09:04:14.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5ff518e072da",
+  "title": "‍‍‍生成 ai {SxC-00}",
+  "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOZkFDWHpSY2dxZnV6RmF4UHE2alZMMkp0YldDT1NCVk9Sa3BMbFpRVnlXTWdBS2o2bTE5UXdIYlQ5T1BUZVRqWkdtdHBDeERYbElxS1NiWGx6ZldYRWdtX3J1bm5ucV96VF9GNTFjLTd1N0Q2SzBkdUROSnMyWDFNTnJNamk0T2x6dTljaHFKcFhGbm0wVENJeU5YRk5taG9BMTlvdFE3eUJ0ejBjcFpucWdpYjRMdjNXRWV6andjaWZLdlFLVGhqOVhQWV85eWxsbTJyY0s0SWJ0LV9ZQTIxRllHTkkxQkdNdHRLUk9EM0JEN0RXOTVxbVQzaHJ5T1JrS05FZWM2SDl2b2RfZ294a1Q0dW00QTNVUDVnOVlYOUg0YTlSNjlIVVQ0bHc?oc=5",
+  "source": "日本取引所グループ",
+  "summary": "",
+  "publishedAt": "2026-11-13T09:04:09.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "892d3fd46bd6",
+  "title": "‍‍‍ai 画像 生成 サイト 規制 なし {SxC-00}",
+  "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxObUlTU0RhaGRJUUZYX2dVMkM0a0VxR19LbzYyR3VfYTVlUW1qQjNaMF9RVzk4bjd5VTBGejRnVWIwRzJydVgzOThEbHhwTkkwWEsxOVl6MTB6bGhhNXpOOWh6SERzUVJocmE5M1ZJcjgxbnB0RDAxRWtIWVR4ZWxFRkI2Zi1takxNSDNGOFFlX0o1OGdlSUtEZ3pTYmNTcnhfSnoyWktsVHZ2b0hmaU1teXY5QktPY1pjQmJiOE1RWjU1VVd2bGpYWWV2YVh0M29fWUctNjZIVy1XMDVOSVdJX0JlanFaU0ptUkkyZGtwZHYtMFI0MnRxZExhUHBJa3h4d1VDNWx3bVRvVGl2VDFqS2RhdkpuMDA2enNEMDE3bU5jbE5Ub1UtSjJyVmJ0N3BIS2kxQzgxM00zZS1LalQ2MDFyaVdWSk9WMnRVV0xrMjB1VmtGUzg4?oc=5",
+  "source": "日本取引所グループ",
+  "summary": "",
+  "publishedAt": "2026-11-13T09:04:07.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1eb646d54aea",
+  "title": "ABC、購入前にNVIDIA DGX SparkでLLMを実機検証できるサービス",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VNF9NeXVxdnRyaTJfbTNJeFBTcGZBT3FBc2hPUjg3eG9jakd2ZEkwVENicWZmZmdYSVJ1Q1VhUEU2Q2xRWmE2ei1seS0yanR4MTdlV3VnN21hbDBPT1huNHFlNA?oc=5",
+  "source": "株式会社インプレス",
+  "summary": "",
+  "publishedAt": "2026-11-13T09:04:05.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5d7c29d118aa",
+  "title": "‍‍‍画像生成AIおすすめ比較【2026年】 {SxC-00}",
+  "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOeDFEQzRuam9pNUtydDhlWGNfRlUyTWJpMVBaRTJxNWpYYnI0U19ZTmNKblVNUkJsb19FWnNYYUpPb2FDRHQwSVR4M1VSdFdYbWF1SlF5S3cwM0xRUFBjNmVrVG1lOHcwRWpua2o2el9tRXp4aWo3WEd5bW8zNHh0b1JxMjJrbkFzWU1SX2dUYlgxSUpZSmJ3cmhTalpBdUJGVExtZXdXODJVb1d6WU5mVE5xM2dGM05MVGU0WTlUMHVtY09pRjhiLVpWOUpSdDBscWUta1lpT2ZnNWc0MWV4US1hd3Z1Y0Z6a0p3MldqS0NxdkR0VWxpMW1oNWMzUFk4LU5ZM3hYVEw0dWtiTVc5QnhUVEhyelpHVDVxVGtaUkswT0VTY3VoWFZfRE1XSFpBRjJxSVowaVlobHVORkVfLWhJSHI2WnFSYkN5eDl3bnZIalliYWlPZktB?oc=5",
+  "source": "日本取引所グループ",
+  "summary": "",
+  "publishedAt": "2026-11-13T09:03:59.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "306449762625",
+  "title": "‍‍‍無料で普通の動画を一瞬でアニメ動画にできる動画生成AI {SxC-00}",
+  "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNZXhCZVJXZzE5V2lKSURZU1J3OE1CY0U0aUVLdEcwbXF2WHBQRDZFdG1CeEZmdGdBQ3VucHNobXJOT0VpYkRBQVNUTUhoVEk4TU1MYi1EQkNXTEVXUmE1S0xOdW1pbDU0bnN4bnNfYTNFMk5NQm5pb2FFbmp2NmlnSzVtT1Y1VnpUdFY5eEk3bWkwbTNCTW42TUZoeTdSclh6RnByS3dyZGlPbUxfWWJsdTR6VTZqbkZfY2hhdF95V0NPaVJMRWNENXkxeUZXNG04WWt1RjVHT0dnRTJDOVBwRFFpekdIeHBINXJmZHZhVlY0YTNkVzRMcGdFdDRwdGp1WWdLemJaclAyRUQ5T2E5bkdUTVAwNjNCM2NqZWdzOGRwUUVLNFMyYWg0emhoc1htZ2ZVZHpWM1JSbVlta1Qxd3MxRUg5cDBmdWM0bFZobjVfcW41OXJBeWROWmRGTnZPY1RXVm9WV191ckpxVkEtZDNoSzhUbkkzbmtZUjZFUm9zSXY4cEhMSlNyMA?oc=5",
+  "source": "日本取引所グループ",
+  "summary": "",
+  "publishedAt": "2026-11-13T09:03:56.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b33bb2494108",
+  "title": "ABC株式会社が提供するローカルLLM活用の総合セキュリティパッケージの販売開始",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNdU1qam9Yc0RmTXRzcDB4QW52U2Y4OWszZG5VaTFwNXlBeEk3dGZOVE5iNHRjUG9lOEJkTGUyWmJRTDNfQ1BrcHhNODVoc0tBSmVFY2JQT25Jb1dWblRlVFg4Z0h2akY5YTFJ?oc=5",
+  "source": "ニュースメディアVOIX",
+  "summary": "",
+  "publishedAt": "2026-11-13T09:03:30.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "cbb7c259a893",
+  "title": "ディズニー、アドビ「Firefly Foundry」で自社IP特化の生成AIモデル構築へ。複数年の戦略提携を発表",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5UcHBBUWo4WUQyQ1NxS0NwdEs3bTB1VU5XdkhkYnh6NlE1Njh3Z29qNE9fX1RuMVhodHBkT2xnWjBidzVYUkVxSkpRNVlJYm03NkIyeUVfUkU?oc=5",
+  "source": "Brand New Creativity",
+  "summary": "",
+  "publishedAt": "2026-11-13T09:00:03.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "cdbec6224b84",
+  "title": "生成AI時代を生きる子どもに求められる力 創造力と挑戦を応援する「北海道デジタル学園祭」が開幕 専門家の情報教育講演やロボット競技も 札幌市",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBNSkhoczltUXo0QVlObjZDcHpHWTZ1eUlfSVpoZVlZaU5UbzF2dmlxd2lZd2toX1pxeUo3NXRaMTBPUmdQa2tJYXQ4TDVtLVNVVXZPWGdlbw?oc=5",
+  "source": "TBS NEWS DIG",
+  "summary": "",
+  "publishedAt": "2026-11-13T09:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3a43ed58a918",
+  "title": "年内入試の生成AI、「認める」大学は31校中1校｜東京・大阪の大学の対応を一覧で整理｜おだ｜学習塾経営の専門家",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xX3pmSmt0T1Y4VzVsMmtJdXZVOElTRXlDcW1QRXNpVkdNeHpWajBrQU1yNGl2TXlsNG5jSDNhSU5yNjJYcmpwaE5qVXM3eF9XM05wNjYxUQ?oc=5",
+  "source": "note",
+  "summary": "",
+  "publishedAt": "2026-11-13T09:00:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dd7fe68ed7ac",
+  "title": "3D生成AI「Meshy 7.1」を試す！画像から3Dモデルを生成、Meshy Editで部分編集【PR】",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54M0R0NTVfZmY3Q2g0VUxqU3IwWFhFUjg0OUVhUkJ4MlpHeU01cjlfMk9WVnZUckp2MzJyeWxOSmZKWHRqZHVkX1pkbWdvTEx0cFdCb05JY09JRkFiSFhjU1lNdFBPZnhZ?oc=5",
+  "source": "IGN Japan",
+  "summary": "",
+  "publishedAt": "2026-11-13T09:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "9945125f58e8",
   "title": "Copilot Studioでエージェントを作って3か月たったので振り返ってみた",
   "url": "https://qiita.com/YukiSaku_2FC/items/3d8ff8a157f93c8fa642",
@@ -66,6 +288,32 @@
   "isPR": false
  },
  {
+  "id": "19d01517f104",
+  "title": "鹿島建設、完全自律移動ロボットを本格導入。フィジカルAIで施工管理の生産性を向上",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jUVdLQWRZRGlzY0VBcmFnQU1XdThUZ0kyOGdjb3ZaZEgzUnFkVE1ObVFDRnBUVGl2X05RWWFCUm81bkkyMWFFX2d2XzlSRTVNSjFUYl9PYWx2X19OYmpmTmxJT3N5WVk?oc=5",
+  "source": "AIsmiley",
+  "summary": "",
+  "publishedAt": "2026-11-13T08:50:09.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8b9d8ec3e5c0",
+  "title": "AIで写真制作はどう変わる？ 撮影・レタッチ・生成AIの実力と限界を徹底検証！『コマーシャル・フォト』12月号、11月13日発売！",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtNXpydjB3dUVkX0xFNnBpX1l1dXVWXzEyWTUtUzNSNzd3TmZJbk1iWGQ2d2cyR3FWZGJvN0JoaU0yYjZpdVRYcGdudFBnX1JSV3A2SzBsMW8yZ090TGp3U05MMUwwdF94WHM4?oc=5",
+  "source": "時事ドットコム",
+  "summary": "",
+  "publishedAt": "2026-11-13T08:46:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "c1140f5d348e",
   "title": "株式会社Digeon、日本ソフトウエア株式会社とAI分野における業務提携契約を締結",
   "url": "https://ascii.jp/elem/000/004/451/4451532/?rss",
@@ -75,6 +323,34 @@
   "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
   "categories": [
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "644637c6ecb4",
+  "title": "Google AI StudioやGeminiアプリ、Google検索、Google Sheetsにも展開！高速エージェント実行に特化した「Gemini 4 Hydrogen」の導入・活用ポイント",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GcF8tMkpXeVpUYlhBVjlkR1RlNXZXTWpHdEdZOWg2QzFGbW5BZEhGTlloQ2gtN3RjX0VSVVJ1cVlWZTlNTTRyWk15MGxoUQ?oc=5",
+  "source": "DXマガジン",
+  "summary": "",
+  "publishedAt": "2026-11-13T08:39:59.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "07211cb1a03f",
+  "title": "香港大引け：3日続落、米国の半導体規制を懸念 AI関連に売り(トレーダーズ・ウェブ)",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkRsdGFaVEZpdnhKSzB1VXVGckxfR1lKQ09ZS0xValFJOTJsQnlQWVJsYWhJRm5Cd245M1VrZUF5QlhWVDlaWkI5ajRxVy12RFdSX2dsVENQcXZKX3NqQnUzQTh4X2oxMXVkR2FtMS1NRHdUTXpFbk8xaGFwYzlwMElMU09kTWM?oc=5",
+  "source": "Yahoo!ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-13T08:39:27.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "infra"
   ],
   "isPR": false
  },
@@ -162,7 +438,7 @@
   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WQVducWYwZXAyMG1rU1pLbnJlZ0pYRnN1SDQ2N0R1MnRybVNMcjhlekhrSkZNTmp3WmZiR3p5eXNMdm1aS05OcGlialMwcXZNSkZwMFlSb2VFaVVOQTBnVtIBZkFVX3lxTFBMMmxLV1ZWOXVXdWNYRllxOTNRemYxT2o2N1pfX0NwOFU2aThLTTcybTV5bDV0ek1Yc2ZJZzJuNnpLWWpYdEpKeGlNZGg3MzlYcTJ3QzhpcmctODZyTWxyUWRVM01jdw?oc=5",
   "source": "BBC",
   "summary": "",
-  "publishedAt": "2026-11-13T08:25:35.000Z",
+  "publishedAt": "2026-11-13T08:28:48.000Z",
   "image": "",
   "categories": [
    "dev"
@@ -205,6 +481,19 @@
   "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1359513-file.jpg",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dc2379e20fe7",
+  "title": "ロスチャイルド、AI資金調達懸念でブロードコム株を格下げ - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QeDJ4Y3hOTWszOC1WcUR5WEpHckVNbkZHemN2RHpqUUFydVF3bVFXUVI2b2xndWd6QWVEY2J3SUFrcnBhREZad0R2Z0ZETFNWUDczWGNOekJGdVA3a05yd2UxcnpuSjhWVGl0SGVLbDFOSEUt?oc=5",
+  "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-13T08:17:00.000Z",
+  "image": "",
+  "categories": [
+   "business"
   ],
   "isPR": false
  },
@@ -368,6 +657,20 @@
   "isPR": false
  },
  {
+  "id": "5c458c280be5",
+  "title": "【トランプ時代終焉か】中間選挙後の米政治・次期大統領選の行方を現地政治学者が解説…AIデータセンター規制、カギは住民投票",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGRjVEb3cwaDBDNldZYndPa3p1T2Z3RW5NQVR2RFp0SFRabHNvZVg2b2cwZm9ZR1hlNEl3VzNrOU5BalVIVlVGWlJ3Yk9GMkFlaEtXeWVNaWVxdw?oc=5",
+  "source": "ニューズウィーク日本版",
+  "summary": "",
+  "publishedAt": "2026-11-13T07:53:00.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "0997c2ff91d3",
   "title": "13日の日経平均は反発､AI･半導体関連株に見直し買い",
   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBBTllwU3hucUJudFo2Q2d4bV9RUTc1R0VMUzVveDN4UDNLMmVfM0FlY3pqTnF3N1JMdkZydlZnMDUxbHpKanVvU2YyTHNVb2RiejEteERBNA?oc=5",
@@ -421,7 +724,7 @@
  },
  {
   "id": "ead203075cb4",
-  "title": "たった0.8Bで53言語対応。翻訳特化型ローカルLLM「PLaMo 3 Translate」を試す【使ってわかるAI PC】",
+  "title": "たった0.8Bで53言語対応。翻訳特化型ローカルLLM「PLaMo 3 Translate」を試す - 使ってわかるAI PC",
   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aVThyX2d6VUFEUl95SDZreGZsOEF4VnJxN1BXUnlNSDZ1aWFIbEZhaFdFbFhwWlU4cXFGM09ZUVRIV0tnR1h0YTN6VHpoMGVjVGp2dFVxUXU1dTlrLTUzU0pVSVNLTUVKNUdaaDJxVEptNlAwTzRvenVnVzE?oc=5",
   "source": "窓の杜",
   "summary": "",
@@ -452,6 +755,32 @@
   "source": "Infoseek",
   "summary": "",
   "publishedAt": "2026-11-13T07:36:30.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "cbb48c878455",
+  "title": "AIエージェントに口座を任せるな、銀行が遮断強化 専門家は権限見直しを促す",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aLTIxdXMwb1REWTN1WWZGRktaNDI5SDBsd0lRXzV6MVhqWHZaeFBSRXVxZjNGR0JFXzNjUVdqVHRZaVdpZk42RmRtcDk2aG9wNjZubHFBTHNNbGNickk2NmM2S0Rqc2pwMVVMTmpGMWxUMWhF?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-13T07:35:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ee3492e6c0b0",
+  "title": "Android Autoに続きiPhoneユーザーも車内でAIと自然な対話が可能に！Apple CarPlayで「Gemini Live」を始める3ステップ",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hdXlrdG5STFNuNlpTT0NzY0dTYXBkUDZDX1BVSGYxVHRrd1A4bHhuVHNxNk1OajMwWUVqcElscHpMZUo0aDlyOGdLbDVtZw?oc=5",
+  "source": "DXマガジン",
+  "summary": "",
+  "publishedAt": "2026-11-13T07:34:36.000Z",
   "image": "",
   "categories": [
    "other"
@@ -548,19 +877,6 @@
   "categories": [
    "model",
    "product"
-  ],
-  "isPR": false
- },
- {
-  "id": "ee3492e6c0b0",
-  "title": "Android Autoに続きiPhoneユーザーも車内でAIと自然な対話が可能に！Apple CarPlayで「Gemini Live」を始める3ステップ",
-  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hdXlrdG5STFNuNlpTT0NzY0dTYXBkUDZDX1BVSGYxVHRrd1A4bHhuVHNxNk1OajMwWUVqcElscHpMZUo0aDlyOGdLbDVtZw?oc=5",
-  "source": "DXマガジン",
-  "summary": "",
-  "publishedAt": "2026-11-13T07:30:00.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
@@ -1108,19 +1424,6 @@
   "isPR": false
  },
  {
-  "id": "4dfc06b47472",
-  "title": "人間は「AIの身代わり」なのか？ 制作工程の自動化がもたらす責任と謝罪のゆくえ",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KVHBwMGZhZUVKWnRMaEt0Vnllb25aSVdvSDRsc0dxamIyMGpEbXFvcVhvWHlRRmVmZlg4X0J3ODB1bWpPR1hKXzFVUGdHVXJJQTg5eFBoOEFxYnhhX2s2Q2VFQlpuQTc1ZHlFS05EUWx4VzN3?oc=5",
-  "source": "AdverTimes.（アドタイ） by 宣伝会議",
-  "summary": "",
-  "publishedAt": "2026-11-13T06:04:48.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "ace9100faf8f",
   "title": "Claudeが会議に参加、議事録だけでなく資料作成も--新機能「Claude Meetings」",
   "url": "https://japan.cnet.com/article/35254838/",
@@ -1373,6 +1676,20 @@
   "isPR": false
  },
  {
+  "id": "5061bf5aa287",
+  "title": "Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例",
+  "url": "https://ktlog.net/posts/claude-code-ai-ecosystem",
+  "source": "はてなブックマーク",
+  "summary": "公開 2026.11.08 Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例 Claude Codeのおすすめ環境は、入口をClaude Code 1つにまとめ、判断AIや権限ルールなどのハーネスを通してから、ほかのAI・スキル・MCP・外部APIへ仕事を振り分ける形です。全…",
+  "publishedAt": "2026-11-13T05:21:58.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fktlog.net%2Fposts%2Fclaude-code-ai-ecosystem",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b8cfa9604847",
   "title": "ユナイテッド、AIエージェントの航空券予約禁止－プライバシー懸念で",
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ2tmdTRFaVY1Wk94djB2c2dHUEJQMmgtU2oyb1BWZ0xZUGFOeUo5OEQ4bjVod0hEbkwzVkVTS2Y0c2kwbnM4a2tGTXJhV3EtbVcyUWFkQzRVbnZ0N0FIdnJMNjlWeTFmOW9OUUNFdmNTeEVHaUdQTHZZRGlhRmNVbXdqUjFDdkQ3UlNBYVF3?oc=5",
@@ -1434,6 +1751,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "95ff091c946f",
+  "title": "何をAIに任せ、何を手元に残すか。映像と広告の現場で見えた「作り手の境界線」",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fUzE5VXhNcjR3aXVWSVRuRzlSckJLRHFjMVFYTlQ1M09CQjVudHQxZjVySXhUd1Q2bjFxdjc4VlgtcXNDeTd5M01vRlZwT0VaZ1lrUFdFNF92eWRrOTVz?oc=5",
+  "source": "AdverTimes.（アドタイ） by 宣伝会議",
+  "summary": "",
+  "publishedAt": "2026-11-13T05:11:38.000Z",
+  "image": "",
+  "categories": [
+   "case"
   ],
   "isPR": false
  },
@@ -1505,7 +1835,7 @@
  },
  {
   "id": "23c1b3196542",
-  "title": "2026年は“AI動画のカンブリア爆発”！ 今年を代表する作品を一気見できるAIテレビ「AiCuTV」を作ったよ【生成AIストリーム】",
+  "title": "2026年は“AI動画のカンブリア爆発”！ 今年を代表する作品を一気見できるAIテレビ「AiCuTV」を作ったよ - 生成AIストリーム",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDRlBMRC0tSUhvclZrQnZPaFdQNUZGZmRRLXdCZ2hXdzJhR2FwaEJYc0k1NHliQkRTVVUyektvQkt0SVBLa0ZuUmZ2bTM2aVRDRWRTbGJfY3NVdVlsYW1zOFhoTXMyaHhCbXVjRl9pbmNfalYtVWdJ?oc=5",
   "source": "窓の杜",
   "summary": "",
@@ -2473,6 +2803,19 @@
   "isPR": false
  },
  {
+  "id": "fae21840ef60",
+  "title": "Horizon 3 CEOスネハル・アンタニ氏：AIエージェントは偽パスワードファイルに96%の確率で引っかかる――そしてそれがサイバー防御で最も安上がりな手段だ",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrSUxGTzNrWjNNTDdIQlJKTHJxNkxWcDBRV0dvSVN0dzdyMy1YUkg4cU9ib1FZaExEcF9LNzJhT0EtVjNTYnctU1hNZlFsVGhkcDRoa1ZSN3BUUQ?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-13T03:08:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "59620ec3108d",
   "title": "AI・半導体買いで日経平均1.6%高【今日の市場はどう動いた？】",
   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yejZ5bi1VSEtvTkY3Y2xPclhKV1pKZWZibmtmM2JROTZCU01Iajdmanh0VElNS0VpdzJvaVI2ZVhUdTc2RzRlMndtcGduWmpnaWUtcWNtLWxzUEtXOTlBX212OGw?oc=5",
@@ -2482,19 +2825,6 @@
   "image": "",
   "categories": [
    "infra"
-  ],
-  "isPR": false
- },
- {
-  "id": "e6c122d2e6bf",
-  "title": "中国MaaS市場、上半期に10倍近く拡大。動画生成でバイトダンス、LLMでアリババが存在感",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uU2tMTmsxdl9rUTBQeU9CTTBzSUZ1N0N6V0h3Q09TVGZldmpSbWZsNTRyX1duODhuNmVlU19RcU5fMmFkalFEY0haaGItSHFVckRiVTZHOXl2TlJUYlpUZU8weU5obWhteFZGb3pLUmxXX0l2VUFIZVBSdkotQlE?oc=5",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-11-13T03:06:48.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
@@ -2859,6 +3189,19 @@
   "isPR": false
  },
  {
+  "id": "0417d8090e6f",
+  "title": "142資料の検索をAIで効率化！ 九州農政局が生成AI導入、利用職員13人全員が時間短縮を実感",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82X3VFR2RzSnhsZmoyTWJONXVIMERPbjF6Vnd1Wk9hTnFYSUNYWE9UeHY4RnQxcmpfTl9RYjZqN3RxTmJhQTd4S19LbVMwTUl0Z2c?oc=5",
+  "source": "DXマガジン",
+  "summary": "",
+  "publishedAt": "2026-11-13T02:45:16.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f89ee8a03ac6",
   "title": "化学大手5社がそろって上方修正、AI半導体特需がけん引 三菱ケミカルGはコア益3400億円",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kWmZ6ZXpmeXpvZUN6a3NPNG4xYXJoSmNxNWFpN1NMb1lTZ0dGbW1HbzdZR3k5Ym5CWU5hUnVIcnJaeXlWNmpSOHJQXzZ6U2RfbHRlc2wyT0FJUVE4WTNFcjZSN2NwcmNrbW5uMkZodlZSaUQz?oc=5",
@@ -2868,6 +3211,19 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "242456c5760e",
+  "title": "プレイノベーション代表の菅家元志、JDXの「AIコーディネータ（Advanced）」先行認定者に",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94bW1jTFpJSmNOQVJzUHgtWGczTkNhVDlQZ2g2ZmJOZzA0aVlFblNOVTZ1dExOQ1RTMDlmaXp4anVLbnZaaEhmUVEzX1l2ZVpVdGZXYm81WTh2X0hIdmhka2Nzck5GU09EMXFpZmRkcGRidzZ4?oc=5",
+  "source": "Excite エキサイト",
+  "summary": "",
+  "publishedAt": "2026-11-13T02:45:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -3040,6 +3396,19 @@
   "image": "",
   "categories": [
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e6c122d2e6bf",
+  "title": "中国MaaS市場、上半期に10倍近く拡大。動画生成でバイトダンス、LLMでアリババが存在感",
+  "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE0zbUVwQ1hUWmdhbVJVZzlUYTA2SG1SMTZtcG1OVjlSbHd5a3h3VGpnR3YxYVRKMGVuMXFZ?oc=5",
+  "source": "36Kr Japan",
+  "summary": "",
+  "publishedAt": "2026-11-13T02:35:59.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -3509,6 +3878,20 @@
   "isPR": false
  },
  {
+  "id": "a76e09cb0b55",
+  "title": "受講者の78.6％が満足、システム開発経験者のスキルをAIエージェント開発へ拡張 『ビルスピアカデミー』、製造業向け人材育成の実践知を支援事例として公開",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NSXAyc3hENDZ0elc3X1dnSmxyYml4eUt2V3dzQTVXRjZhM0t4ck9mWTNtRXU1OXFnc3dWdmU4ZkoxM0FLa1FYYzNma0VpX3YtVVd1VURwUWxfN1RET0pZX093?oc=5",
+  "source": "PERSOL INNOVATION",
+  "summary": "",
+  "publishedAt": "2026-11-13T02:00:55.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "fe33b7806654",
   "title": "moomoo SG x Qoder AIエージェント ペーパートレーディングチャレンジで、最大S$8,500*を獲得しよう！",
   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaHJKLTRkWG41NHRDSzU2STlYeVU2am5iUkg0S3dHSDkxN0NYd0JzSDNTODB6OThaU1BVWXVaS0tNSXpISDJSbGZDMFhjdUotSms4XzBENnZPaDJkTXEtWmNWa3BpTzg0YWFJYTFQUWJiZTBRZ1hvRUVWN2hSNS1xQ3pma0RSZzNyUjBWN3BGWE1veTA?oc=5",
@@ -3546,20 +3929,6 @@
    "other"
   ],
   "isPR": false
- },
- {
-  "id": "a76e09cb0b55",
-  "title": "受講者の78.6％が満足、システム開発経験者のスキルをAIエージェント開発へ拡張 『ビルスピアカデミー』、製造業向け人材育成の実践知を支援事例として公開",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mdElVVXdMR0szNE9iaEkxcGVINWtud3lJT0FwMWV5c0ZtMnZNMVpob2lmZjdfOURRMXRzWC0zelJ2ejktLThod0NDY2RjME41emgtSVpWSFRNMFU?oc=5",
-  "source": "valuepress",
-  "summary": "",
-  "publishedAt": "2026-11-13T02:00:00.000Z",
-  "image": "",
-  "categories": [
-   "product",
-   "case"
-  ],
-  "isPR": true
  },
  {
   "id": "c045c4de90f4",
@@ -3766,7 +4135,7 @@
   "source": "ITmedia AI+",
   "summary": "既存モデルの活用に注力してきたSakana AIが、自社で一からAIモデルの開発を始めた。なぜ今なのか。背景や狙いを聞いた。",
   "publishedAt": "2026-11-13T01:44:00.000Z",
-  "image": "",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Faiplus%2Farticle%2F2611%2F13%2F2000003141%2F",
   "categories": [
    "case"
   ],
@@ -3822,19 +4191,6 @@
   "image": "",
   "categories": [
    "case"
-  ],
-  "isPR": false
- },
- {
-  "id": "242456c5760e",
-  "title": "プレイノベーション代表の菅家元志、JDXの「AIコーディネータ（Advanced）」先行認定者に",
-  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNR2FibDY4MjBPTFpHcnFNRnQtbkxIV3pNT2FCdl9LcUgtM29JMFFDN2R4bWtRVDI1YTU5ajc3Mkw0LWdkbDFoNnl3ZXZYSUxYTEtzZHN1ejdGaGdmOWU0ZVFVaVVHMUlvVmVpMS1CSDJhdmR3SmpoTWpn?oc=5",
-  "source": "イザ！",
-  "summary": "",
-  "publishedAt": "2026-11-13T01:31:29.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
@@ -4155,6 +4511,20 @@
   "isPR": false
  },
  {
+  "id": "95db07bf1ad5",
+  "title": "MAGAの次はVETO？赤いキャップで「拒否権」ちらつかせるトランプ大統領、AI規制論でも乱発？「連邦レベルの話では行使できるが…」国際政治学者が解説（ABEMA TIMES）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yREdtSS1HbHlBeDRlMWFNdDJPWlZnVS15RDM5NTlNeExIZmE4bnRjX1hPUHJaeEl4Tkl0WlY1V3BleFlCSjJ1Zk9HaVU2aXdZOUpSSVpYdmhXTFZOaktYODRKRmlGd3RXaWdndEFtd2RiUkFTOWM0WDB4MWE5Sm8?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-13T01:00:37.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "e851ab943c6c",
   "title": "AIエージェントの記憶設計：何を覚え、何を検索し、いつ忘れるか",
   "url": "https://zenn.dev/sitio1/articles/126d84dc516231",
@@ -4193,20 +4563,6 @@
    "case"
   ],
   "isPR": true
- },
- {
-  "id": "95db07bf1ad5",
-  "title": "MAGAの次はVETO？赤いキャップで「拒否権」ちらつかせるトランプ大統領、AI規制論でも乱発？「連邦レベルの話では行使できるが…」国際政治学者が解説",
-  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5KajZRdVJ3U2hxS0NFcElWQ1ZDSGRTSzJHOW9BMW1TUURPbGlyeHlDV3hJcUV2RnhPQm5HQWxWZThuQ2RHRldLNEpSWkZxVkxhaVc3Xw?oc=5",
-  "source": "ABEMA TIMES",
-  "summary": "",
-  "publishedAt": "2026-11-13T01:00:00.000Z",
-  "image": "",
-  "categories": [
-   "policy",
-   "dev"
-  ],
-  "isPR": false
  },
  {
   "id": "3d60f21819c6",
@@ -4403,19 +4759,6 @@
   "image": "",
   "categories": [
    "business"
-  ],
-  "isPR": false
- },
- {
-  "id": "95ff091c946f",
-  "title": "何をAIに任せ、何を手元に残すか。映像と広告の現場で見えた「作り手の境界線」",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zNHI4SGZYRXdDUnlDRTFDVzZkMWROZDFMdk9CV1l4d3lpbTlZYmlUOEtIcnhVUzdVdl9IcFhJZGtlU0xtSkpUX3dfX0VIQUljOGY3ZEJGR180Y1RmLUI5TGhKbWstdU8wMHJaTll3LVNjaGtT?oc=5",
-  "source": "AdverTimes.（アドタイ） by 宣伝会議",
-  "summary": "",
-  "publishedAt": "2026-11-13T00:31:08.000Z",
-  "image": "",
-  "categories": [
-   "case"
   ],
   "isPR": false
  },
@@ -4845,7 +5188,7 @@
  },
  {
   "id": "b6e2f42d828c",
-  "title": "Microsoft 365で大規模なシステム障害、Outlook・Teams・Copilot・Defender XDRなどに影響 多数のサーバーが応答不能",
+  "title": "Microsoft 365で大規模なシステム障害、Outlook・Teams・Copilot・Defender XDRなどに影響 多数のサーバーが応答不能 11月13日16時時点で全面復旧せず|セキュリティとシステム障害のニュース-セキュ…",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdUVFZXZNajM5VEVUamE2OFFDaXd1ZEZZRVhGT19kV09MYnU5Um9rY0ZwQTdCcDhyOGt1X1pGckhOcnBjOFhaa1pqMkpRR1YxTFVFMVkyUnRySzM4SndCVVJwNXlZZWpOakFfNHE2WUlESUdnVnhicWxPbU9maWhhR1Y3dw?oc=5",
   "source": "合同会社ロケットボーイズ",
   "summary": "",
@@ -4971,19 +5314,6 @@
   "categories": [
    "model",
    "product"
-  ],
-  "isPR": false
- },
- {
-  "id": "200fa2179598",
-  "title": "ビルスピアカデミー、「生成AI ／ AIエージェントフォーラム 東京 2026 秋」に登壇（BCN）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWT2FLU2ZTQ2t4MTF2MHVWa0Z3SXBVWkMyVDNiT3kzYUQwcnltNkpVZzFlQ0dKQmwzZm1XOGhoY0tjN2ZUNUVqdU0tOUlwMUlNVTJOVk9pLWFtRlNxbTdxaUdxSWRzZ256bjFqMHM4RUZBVTFiZUhJOGlOb1FlcGc?oc=5",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-11-12T23:33:18.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
@@ -5343,6 +5673,19 @@
    "dev"
   ],
   "isPR": true
+ },
+ {
+  "id": "200fa2179598",
+  "title": "ビルスピアカデミー、「生成AI ／ AIエージェントフォーラム 東京 2026 秋」に登壇",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IWUJBYkI1Y1M4UUQyTVUwdUxjY1RZVWtmaWlxSk9rX1hfeV90d0FMRlJ2QXhESnhHVHJGV1lLUm4yT190QmhXYTlWRVRCVUxZRnpqcGVxZnpyNTVYbkNXYy1EMVRMU1RwTmFKUw?oc=5",
+  "source": "BCN Retail",
+  "summary": "",
+  "publishedAt": "2026-11-12T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
  },
  {
   "id": "f2bddb201fb5",
