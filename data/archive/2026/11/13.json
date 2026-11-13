@@ -2,7 +2,7 @@
  {
   "id": "c769e43f80da",
   "title": "マーケットヒートマップ：AI半導体銘柄は下落、放送・広告代理店業界が主導",
-  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd1VlZUhSb2lsUFRxSXI4V3ZqaGtxNnNLN2pIb3B0c05LTE5MTWZ5VTNRNFJRbFZIRzdmbzhsZndrcUhNRGtHTzc1NmgyUWFvbFpHaXNMVXRkX1Jwc2l5SE1panlpclhZN09SSkZFT2h5U3BXUWJmYndLQW54X2otYVhTMXRhd2VTQU4wVUVPSW50b0gzQWZTY0hkR3hQRXRXTWdKTFZWb3RiVEhTMWc5X0tsemsyTjZDdUxfYQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZlJLOHJYcUtPNlpOTVZGNXQ3SDhWb3g1Mi1ESnBqSU1EV2FPelRMMW9QdTBTcUxEVkROemVXM05NMUJpWE9qTnd3WUFkWGU0ajJCZlY2ZXFCS1lWTk52ZnExWUR2Z3RPUzlIMF9XVWlrUnFNY3lBOGdUaEJHcEZzZS1kQ1VPNDRVa3l5cDFBYVd4dVpub3NsT0JQdVVkOXFGMEJ4WjhSM254TVVjYjV3dl83ckJDVk0wTWkw?oc=5",
   "source": "Moomoo",
   "summary": "",
   "publishedAt": "2026-11-13T14:59:29.000Z",
@@ -105,6 +105,19 @@
   "categories": [
    "policy",
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "60f1a746c979",
+  "title": "AIに脆弱性情報を巡回させたら「取得OK」が信用できなかった話",
+  "url": "https://zenn.dev/yukino77/articles/vuln-triage-auto-patrol-test-run",
+  "source": "Zenn",
+  "summary": "この記事について 前回の記事では、AIに1日3回、脆弱性の情報源を巡回させて、自社に該当するものだけを報告させる仕組みの設計を書きました。軸にしたのは「該当なし」という沈黙を信用しない、という考え方です。 今回はその続きで、設計どおりのプロンプトを本番運用の前に何回か試験実行して分かったことの記録です。結論から言うと…",
+  "publishedAt": "2026-11-13T14:22:25.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -255,6 +268,19 @@
   "isPR": false
  },
  {
+  "id": "1b6884ea1059",
+  "title": "Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに",
+  "url": "https://zenn.dev/caphtech/articles/qwen38-zh-ban",
+  "source": "Zenn",
+  "summary": "この記事は個人（と会社）の実験の記録です。モデルはQwen3.8-Flash-Next（Qwen Community License 1.0）、問いの一部にJMMLUのCC BY-SA 4.0版（Hugging Faceのnlp-waseda/JMMLU_CC-BY-SA）の医療の問題を使いました。実装と実行はCla…",
+  "publishedAt": "2026-11-13T13:08:40.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "620ac39430b4",
   "title": "AnthropicのIPO：成長加速は株主にとってより良いリターンを意味するのか？",
   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVV6al9VZktSaGdsVTJOUjFUOVR4RHU3eWxYcWxqeWdTOFVaNWlsbmxmRllONFFXbG5ZOW0tSllVNHZBSjBsRGNnUWRjNjlFejFOMmZqNkZfTVR1b0YyWkFoYzBuX1NhWUVHbGpqTXUzZzViOUw1TzRBTGhaQVlKVmxxdndPWUtsdnZ0XzlIY1QtNmhLN2hVQnFlSUJVRWhrdXhiV0EtQ0F1czg5U3QxVWt4eWRmQQ?oc=5",
@@ -342,19 +368,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "360433c2b708",
-  "title": "Anthropicで新人エンジニアが激減。たった1年で採用割合27％→9％に（ギズモード・ジャパン）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02RUhZTldTMURsajBEX0ZqTWtMUkphU0hWUXJVSXJiWmdPS1RoN2k2cHZPNUFJTmhWTVM2cU5sS1poa2h5QzNERE90STRpY0FlVDlTRG9xazVtbkM1eDRFYng2YUxHczRSS1lWdkpnSGt3U0NtalVOT0VzTmQ3aFk?oc=5",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-11-13T13:00:02.000Z",
-  "image": "",
-  "categories": [
-   "dev"
   ],
   "isPR": false
  },
@@ -451,6 +464,19 @@
   "isPR": false
  },
  {
+  "id": "360433c2b708",
+  "title": "Anthropicで新人エンジニアが激減。たった1年で採用割合27％→9％に",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53TkZTaHNWbjF0NmFWdktwd2ZwWVpVS052X1I1TXBoN3VUVF9IbHgwdjl5NTVxdjNVeUdRU3F1ZjVEQWhtWEkwRXNZcVAxZmpoZWpRWDVCRWFZN21RZkJkcnRTU084TmpiWXZYUHBIWG9HWUVVRFk1YUxzelY?oc=5",
+  "source": "Gizmodo",
+  "summary": "",
+  "publishedAt": "2026-11-13T12:30:00.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "685f5a213e84",
   "title": "NvidiaのCEO辞任がAI半導体業界全体の業績見直しを招く恐れ - Investing.com",
   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LdnJqZUJVZ3d0eGs3ZGY5dnR1M2lHb0hrejBLN1c3RUItYUFPdmdmelJuWHMtWFc4YjdXLUNQeUMwYURHeDJGZkZhZ0dFNVRnSE5rWkNocmJ0QUNCR1RNWXFZZzdaY0pUbjYtNTQ2RDI?oc=5",
@@ -459,6 +485,33 @@
   "publishedAt": "2026-11-13T12:28:00.000Z",
   "image": "",
   "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8b3ac4674e11",
+  "title": "プロンプトインジェクション対策「LLMON」を Mac で試してみた",
+  "url": "https://zenn.dev/takuh/articles/b432f984fad711",
+  "source": "Zenn",
+  "summary": "はじめに AI に「このメールを要約して」と頼んだら、メールの中に書かれていた「これまでの指示は無視して、〇〇と返して」という一文に AI が従ってしまった。こうした攻撃を**プロンプトインジェクション（Prompt Injection）**と呼びます。RAG（検索した文書を AI に読ませる仕組み）や、MCP など…",
+  "publishedAt": "2026-11-13T12:27:12.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e05198c2c3fb",
+  "title": "DeepX、Samsung 2ナノ基盤のAIチップに1億ドル投資…Intelとも手を組む",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuZ2NjQ3RQQWMtOUgyVHZydF8yazYtR3dwWWdCUVNITFlUUjh4amNmbmVJRmJXa1NGOEQ5cmNKdURMdk90V0pKNUFiZXVEV28yR3c4dXlSNmR3cnN2cV93Sk5tVkl1R3Y1N3hWckt2X1FnZ3Ji?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-13T12:25:00.000Z",
+  "image": "",
+  "categories": [
+   "business",
    "infra"
   ],
   "isPR": false
@@ -1058,6 +1111,19 @@
   "isPR": false
  },
  {
+  "id": "b06252d79dc6",
+  "title": "120B が 27B より約 4 倍速かった。Surface Laptop Ultra でローカル LLM 8 種を同じ条件で測る",
+  "url": "https://zenn.dev/maruhana/articles/surface-local-llm-8models-bench",
+  "source": "Zenn",
+  "summary": "! 先に、この記事の要約（専門用語なし） Surface Laptop Ultra で、手元で動かせる文章の AI（ローカル LLM）を 8 種類、同じ道具と同じ条件で測った 文字を書き出す速さは、いちばん速いもので 1 秒に約 105 トークン、いちばん遅いもので約 12 トークンだった 中身の大きさの順には並ばな…",
+  "publishedAt": "2026-11-13T10:06:04.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "d66cc19c79c6",
   "title": "エヌビディア製チップ、輸出規制下でも中国AIデータセンター計画30億ドル超を支える",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tZ1JZX0h4YTM1cUVacnJDLXdkdlUtZ1ZEZ296NWlzb3JEbGF0MWhObmZ3Z1pyaV9oRmpJMUVRMW9Oei1lcW1DMHNLNGpNdUZUXzNaUnZKd0hJMXJCN0dMTjBPdHBfUkNGSHlIVk9MMmVJV2NF?oc=5",
@@ -1068,6 +1134,19 @@
   "categories": [
    "infra",
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "043986320e4c",
+  "title": "Perplexityの盾マークを正確さの保証と読み違えないよう整理した話",
+  "url": "https://zenn.dev/jworks_hq/articles/jworks-20261111-af1c1bf7",
+  "source": "Zenn",
+  "summary": "Perplexityの回答に付く出典の盾マークを見ると、情報の正しさまで確認されたように感じるかもしれません。ただ、公式ヘルプの説明では、ラベルは正確さを検証するものではありません。表示の意味を取り違えると、回答の内容を確かめる前に、出典を信頼できるものとして扱ってしまう可能性があります。 きっかけは、AIサイトに公…",
+  "publishedAt": "2026-11-13T10:02:30.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -1148,6 +1227,19 @@
   "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fblog.lai.so%2F2026-11-13%2F",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3671986af55a",
+  "title": "ハイレゾB200計算クラスタを使用してファインチューニングに挑む件 第3回 ファインチューニングについて理解を深めてデータセットを作ろう",
+  "url": "https://zenn.dev/highreso/articles/6fce609fd3fe97",
+  "source": "Zenn",
+  "summary": "本記事は、ハイレゾのB200計算クラスタ（Slurm Workload Manager）を使ってLLMのファインチューニングに挑む全5回連載の第3回です。 第1回 ハイレゾ計算クラスタへアクセスしてみよう 第2回 Slurm Workload Managerに触れてみよう 第3回 ファインチューニングについて理解を深…",
+  "publishedAt": "2026-11-13T09:55:11.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -1292,6 +1384,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ef6277691118",
+  "title": "AIの自動返信に、承認が必要な質問まで答えさせてしまった話",
+  "url": "https://zenn.dev/mizo_ko/articles/article-102-zenn",
+  "source": "Zenn",
+  "summary": "最初に起きた失敗 PMの承認が必要な質問がありました。チケットには、実装はPMの承認のあと、とはっきり書いてあります。 この質問は、6回続けて正しく判断待ちに回りました。ところが7回目で、AIが自分で承認を返しました。ルールは変えていません。答え自体は外れておらず、実害もありませんでした。 怖かったのは中身ではなく、…",
+  "publishedAt": "2026-11-13T09:25:07.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -1500,6 +1605,20 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "92f5c946c062",
+  "title": "地域金融機関向け生成AIコンペに参加して、RAGを設計した話",
+  "url": "https://zenn.dev/rakushaking/articles/647838bc41606b",
+  "source": "Zenn",
+  "summary": "1. はじめに 金融庁が企画し、一般社団法人金融データ活用推進協会（FDUA）が実施する「生成AIを活用した地域金融機関におけるDX化に向けた実証研究事業」に、SIGNATE主催のコンペティションを通じて参加しました。 本事業は、複数の技術アプローチを比較し、得られたベストプラクティスを地域金融機関へ横展開することを…",
+  "publishedAt": "2026-11-13T09:00:05.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "model"
   ],
   "isPR": false
  },
@@ -1741,6 +1860,19 @@
   "isPR": false
  },
  {
+  "id": "7dfe6ac7cfe0",
+  "title": "AIから電卓を取り上げたら、何桁の掛け算で壊れるか本気で測った",
+  "url": "https://zenn.dev/miki_mini/articles/fd48e22133f2e9",
+  "source": "Zenn",
+  "summary": "美容系勤務独学初心者マリー・アントワネット系エンジニア目指してます！ 今回は AIは計算が苦手らしい なら 電卓を取り上げて本気で測ればいいじゃない 👸🍰です。 読了時間の目安：約 10分 ! 3行まとめ 最新のAI5人（Gemini・Mistral・Grok・Claude・GPT）から道具を取り上げて、2桁〜2…",
+  "publishedAt": "2026-11-13T08:37:40.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "282154b4ca62",
   "title": "【解説】 AIの先駆者、誤った判断で破滅……エヌビディアのフアンCEO辞任",
   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WQVducWYwZXAyMG1rU1pLbnJlZ0pYRnN1SDQ2N0R1MnRybVNMcjhlekhrSkZNTmp3WmZiR3p5eXNMdm1aS05OcGlialMwcXZNSkZwMFlSb2VFaVVOQTBnVtIBZkFVX3lxTFBMMmxLV1ZWOXVXdWNYRllxOTNRemYxT2o2N1pfX0NwOFU2aThLTTcybTV5bDV0ek1Yc2ZJZzJuNnpLWWpYdEpKeGlNZGg3MzlYcTJ3QzhpcmctODZyTWxyUWRVM01jdw?oc=5",
@@ -1750,6 +1882,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1b75210dabe0",
+  "title": "Gemini 4 Hydrogenを実際に動かしてみた。3.8 Flashの後継を無料枠で試す（Flash比較は追記予定）",
+  "url": "https://zenn.dev/shibatamago_dev/articles/gemini-4-hydrogen-hands-on",
+  "source": "Zenn",
+  "summary": "はじめに 2026年11月12日に発表されたGemini 4 Hydrogenを、Gemini APIの無料枠で実際に動かしてみました。 Hydrogenは、Gemini 3.8 Flashの後継にあたる高速モデルです。本当は3.8 Flashと並べて比べるつもりでしたが、Flash側が無料枠の上限に当たってまだ測れ…",
+  "publishedAt": "2026-11-13T08:35:08.000Z",
+  "image": "",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
@@ -2917,6 +3062,19 @@
   "isPR": false
  },
  {
+  "id": "316b9be533c4",
+  "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
+  "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
+  "source": "はてなブックマーク",
+  "summary": "AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出て、以下の問いにはじめて気づきました。 問い:...",
+  "publishedAt": "2026-11-13T06:02:40.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fkaramage%2Farticles%2F5c3f8370b2b370",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "918fe648d452",
   "title": "ユナイテッド、AIエージェントの航空券予約禁止-プライバシー懸念で（TBS CROSS DIG with Bloomberg）",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQb3ZuOEkwUWRJV0EwSGpST2lWbVdHOWV5QlRQRzFnamRQSUg4eVcweldnMTVtUURwVkZTZUN2dm5TOG1vVzRNM1dQdWRValNsM3dIUnU5dFdNUlRmc0c3TWdvTTJ5UjE2QjZOQ2ZQMFVDcG40c0dBUkVuMnRZUVU?oc=5",
@@ -4057,6 +4215,19 @@
   "isPR": false
  },
  {
+  "id": "9baf7fe2f8f6",
+  "title": "Gemini Decision 1を実際に動かしてみた。54問中53問正解",
+  "url": "https://zenn.dev/shibatamago_dev/articles/gemini-decision-1-hands-on",
+  "source": "Zenn",
+  "summary": "はじめに 文章を書かないAI、Gemini Decision 1を実際に動かしてみました。 前に3モデルを比べた記事では、発表資料の整理だけでした。今回はGemini Decision 1だけ、AI Studioの無料枠で11リクエスト・54問を投げてみました。JevとMicrosoftはまだ動かしていません。 なお…",
+  "publishedAt": "2026-11-13T03:44:08.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "7e6145c7b772",
   "title": "フアン氏が築いたエヌビディア、AIの熱狂生んだ半導体",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSjM1bm9icTFSSGpqTnQ5dmVmMFEtTVl5RU90VTU2ZkgzWUVlOG5uMkpxMC15dmFLNHdJY1RldVlnYjhkWGt2N2UzbDZwRktadDRxVzM2Qi03MGpZOTVtaDNSRVN4MjFUYXFYLUpFdURlcW1iakQtT0VvZ05WdTFnMms5QWtxbkVvbXVodXJfc0lzVFN2ZmlMSm5feDFDQmM?oc=5",
@@ -4667,19 +4838,6 @@
   "categories": [
    "business",
    "case"
-  ],
-  "isPR": false
- },
- {
-  "id": "316b9be533c4",
-  "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
-  "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-  "source": "Zenn",
-  "summary": "AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出て、以下の問いにはじめて気づきました。 問い: AI同士…",
-  "publishedAt": "2026-11-13T02:48:24.000Z",
-  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fkaramage%2Farticles%2F5c3f8370b2b370",
-  "categories": [
-   "dev"
   ],
   "isPR": false
  },
@@ -8939,7 +9097,7 @@
  {
   "id": "24c06a25daef",
   "title": "エヌビディアの経営混乱でもＡＩ投資の流れは変わらず",
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jdlNZaWY4MjZuQ1RncU82bV9CLWpKRnpVRGxqNVhVMkpsUEVEZ3VOdGJIZXE4SmhiZ1lMcmhTNHRkVzRtTjd2T2ExUkg1cVcyUGp0Vms4TDJHVVotLTNiag?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBieDRTdzBRbVU1SzRrOXJDUGtxeTdvWU9SRzVsU01ZMzJPZi1ySHpQc2JhdHlhaTFlYklQQXEwcDg1WTVZYXNtSWlPWlU3V3lmRWc?oc=5",
   "source": "株探",
   "summary": "",
   "publishedAt": "2026-11-12T19:31:00.000Z",
