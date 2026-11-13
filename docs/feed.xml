@@ -5,8 +5,15 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-13T14:30:24.484Z</updated>
+  <updated>2026-11-13T15:00:23.172Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>DeepSeek Harnessの12プラグインを検証単位で整理する：導入前チェックとGenUI実測</title>
+    <link href="https://qiita.com/whitemarshall/items/6cadec0996d1c2afa4ab"/>
+    <id>https://aimatome.gamelab.website/#f097b62b0ed1</id>
+    <updated>2026-11-13T14:38:19.000Z</updated>
+    <summary>Qiita ／ 結論から言うと、DeepSeek Harnessのプラグインは一覧からまとめて選ぶのではなく、変更する処理と合格条件を先に決めて1つずつ試すべきです。本稿は、すでにHarnessを動かせる開発者向けです。復旧用のGit履歴やバックアップを用意できない環境には向きません。20...</summary>
+  </entry>
   <entry>
     <title>フアン氏退場、対中半導体規制は強化へ－米中AI分断「不可逆的」に</title>
     <link href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNOWRXUlRQUS1Ba21sMzNrcU9jN0J5SGNsa1M3QkllNHdqMWliRU92cGtXQ2NTeVROcGlONlhOc3Q3WUhnbmJRaHUzamJuUGpDVnRYaW5GcC11RDc1TnROOUU5ZjhGVXRQbGdBa3RKRW5oVXQwOWJfY3RhdDlobWdFNzBKVlRTMGVuUEtkOFRR?oc=5"/>
@@ -41,13 +48,6 @@
     <id>https://aimatome.gamelab.website/#716878035207</id>
     <updated>2026-11-13T13:45:00.000Z</updated>
     <summary>Gizmodo</summary>
-  </entry>
-  <entry>
-    <title>トランプ政権,生成AI：ラトニック氏の責任？ トランプ政権が進めた対中半導体規制緩和</title>
-    <link href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUaVQtS2Etd1JGY3JseFUtVFJRUm10Z2FkZnQtMHBDLTRhZ0l5QXNKamRkZThtbHd2SUZ6amdxRVdmVldMRlVVTWN4Y0tfX2dUU3hFRjMtbGttQWMwcUhjYVZobHRiVXIz?oc=5"/>
-    <id>https://aimatome.gamelab.website/#fb2e0ba7d746</id>
-    <updated>2026-11-13T13:33:25.000Z</updated>
-    <summary>毎日新聞</summary>
   </entry>
   <entry>
     <title>Microsoftで世界規模の障害 Outlook・Teams・Copilotに影響、復旧作業続く（11/13）</title>
@@ -232,13 +232,6 @@
     <summary>ダ・ヴィンチWeb</summary>
   </entry>
   <entry>
-    <title>Anthropic、Claude Meetingsをベータ提供 ——Claudeが会議に参加し、文書やホワイトボードを参加者と共同作成</title>
-    <link href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JMUlMbmYySHc5N1hxZHllT0dSaEFtM3BnbnRVbTVtcmE2UGVFYmVRR2NZRkIxRkVxWWVqX0hBYjh0Z3dvMFhvQy1sU0NZWC1EbDdvOHo1RTRPRmlB?oc=5"/>
-    <id>https://aimatome.gamelab.website/#05b769e03e7a</id>
-    <updated>2026-11-13T10:50:34.000Z</updated>
-    <summary>gihyo.jp</summary>
-  </entry>
-  <entry>
     <title>AI時代の新人教育 18社の試行錯誤</title>
     <link href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CMmFDY3NnRVpfTTNuYXlzYmNOOWM0THhuVWpmeDZFV3BDVFU2OXVDTlNVYUNnMDZzYzdTTjlYZWJXNldMUzdqc0EtckFjMzhVOEFOUHctS29XRWVvZkdR?oc=5"/>
     <id>https://aimatome.gamelab.website/#dcde04500e7f</id>
@@ -286,6 +279,13 @@
     <id>https://aimatome.gamelab.website/#3e330939a6f4</id>
     <updated>2026-11-13T10:25:00.000Z</updated>
     <summary>EnterpriseZine</summary>
+  </entry>
+  <entry>
+    <title>トランプ政権,生成AI：ラトニック氏の責任？ トランプ政権が進めた対中半導体規制緩和</title>
+    <link href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUaVQtS2Etd1JGY3JseFUtVFJRUm10Z2FkZnQtMHBDLTRhZ0l5QXNKamRkZThtbHd2SUZ6amdxRVdmVldMRlVVTWN4Y0tfX2dUU3hFRjMtbGttQWMwcUhjYVZobHRiVXIz?oc=5"/>
+    <id>https://aimatome.gamelab.website/#fb2e0ba7d746</id>
+    <updated>2026-11-13T10:20:40.000Z</updated>
+    <summary>毎日新聞</summary>
   </entry>
   <entry>
     <title>中国ＡＩ事業に規制対象のエヌビディア製品、事業規模３０億ドル超</title>
