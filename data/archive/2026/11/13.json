@@ -13,6 +13,33 @@
   "isPR": false
  },
  {
+  "id": "99d3d4c66e27",
+  "title": "第2回：AIの精度と運用を支えるデータ基盤――Dell AI Data Platform with NVIDIA",
+  "url": "https://zenn.dev/mstmt/articles/d4465ff60bfe2b",
+  "source": "Zenn",
+  "summary": "[日本語] 第2回：AIの精度と運用を支えるデータ基盤――Dell AI Data Platform with NVIDIA モデルを変えても、データの課題は残る 生成AIの回答品質を改善しようとすると、より大きなモデルを選ぶことや、プロンプトを調整することに目が向きやすい。しかし、企業データを使うアプリケーションで…",
+  "publishedAt": "2026-11-13T14:53:05.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "233f2098de49",
+  "title": "🐺Xで自動発信するAIエージェント『ハウル』を設計・運用する — ペルソナ工学から自律運用まで",
+  "url": "https://zenn.dev/joe_wolf_woof/articles/9195dea917ba47",
+  "source": "Zenn",
+  "summary": "はじめに：作ったもの 前作『Spatial AI NPC』（カメラ画像から空間を理解して反応するWebARのAIキャラクター）の続編として、同じオオカミを独立したキャラクターとして「運用」するプロジェクト『ウルフ、運用中。』を進めています。 やることはシンプルです。AIキャラクター「ハウル」がXで発信し、ARアプリ『…",
+  "publishedAt": "2026-11-13T14:48:13.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "005ab78f6673",
   "title": "「専門商社向けAIエージェント」を提供開始",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zN0xpbWctRE1wRENraGVpZEd4OXpFNXRtZUg3MmluSkc2ZTVNRC1JamszbGxxWGZBengySnd5NFlaZURjU1BFbVFzcEx4d2lFelFXZUZGOEt1bTJqOUlfVV84ekxkamFoTXJLc21tWVN1UQ?oc=5",
@@ -49,6 +76,20 @@
   "image": "",
   "categories": [
    "case",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "289a24603cb9",
+  "title": "重みの0.05%を消すだけでファインチューニング相当? Deletion Tuningの公開マスクを実際に適用してみた",
+  "url": "https://zenn.dev/matsushima_a/articles/day-045-deletion-tuning-mask-verification",
+  "source": "Zenn",
+  "summary": "この記事で試したこと NeurIPS 2026に採択された論文「The Surprising Effectiveness of Deleting Weights in LLM Post-Training」(arXiv:2611.10866、Hugging Face Daily Papers)は、事前学習済みLLMのT…",
+  "publishedAt": "2026-11-13T14:27:04.000Z",
+  "image": "",
+  "categories": [
+   "model",
    "product"
   ],
   "isPR": false
@@ -240,6 +281,19 @@
   "isPR": false
  },
  {
+  "id": "2a2b88af8cc5",
+  "title": "Codex CLIでProfile起動後にREADME.mdを読めなかった原因",
+  "url": "https://zenn.dev/boluoji/articles/db08ac37e303a7",
+  "source": "Zenn",
+  "summary": "Codex CLIで外部モデルのProfileは起動したのに、README.mdの読み取りは完了しませんでした。原因を「モデルがつながらなかった」でまとめると、実際に止まった場所を見失います。 2026年11月13日の記録を、モデル一覧、API応答、Profile、ローカルコマンドの4層に分けて確認しました。環境はW…",
+  "publishedAt": "2026-11-13T13:06:24.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "839d89a2d3af",
   "title": "Google、高速・低コストの新AI「Gemini 4 Hydrogen」発表。無料ユーザーにも提供（ビジネス＋IT）",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JWEU5dVhvcUNLQkg0ZUx1RTBmeGE0Z2pobUNMYW1KYVVRa0NIRkdxekFlSERkQzBJY0ZTLWRDU0ZMY0hGZnlIUEZhQ3BXY1haVHVnVk55Sm13czRyRVVNTDlzX1BTVV9iRlk3LVFRVXd1SUpQV2ZjR25MUmVNc2M?oc=5",
@@ -266,6 +320,19 @@
   "isPR": false
  },
  {
+  "id": "2a39fa4d556d",
+  "title": "Codexで画像を作るたびにNotionを読ませていた話と、terraとlunaのトークン比較",
+  "url": "https://zenn.dev/dk_architect/articles/codex-image-model-tokens",
+  "source": "Zenn",
+  "summary": "はじめに 趣味で作っている短い動画の画像を、Claude Code から Codex CLI を呼び出して作っています。その利用枠の減り方を調べていて、2つのことが分かりました。 1つめは、自分のうっかりです。Codex が画像を1枚作るたびに、AGENTS.md に書いた指示をそのまま実行して、画像に関係のない N…",
+  "publishedAt": "2026-11-13T13:02:11.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "80c6d7f0617e",
   "title": "AIと一緒にブラウザ格闘ゲームを作ったら、ビジュアルで挫折して棒人間になった話",
   "url": "https://qiita.com/girigiri-se/items/aac750fa0473e16865d3",
@@ -288,6 +355,58 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f82fb310cc6a",
+  "title": "同じ条文で裁きが分かれる？ 御成敗式目を Lean 4で検査してみた",
+  "url": "https://zenn.dev/adachi6k/articles/456cab12bb6038",
+  "source": "Zenn",
+  "summary": "ある男の子が、奴婢（ぬひ）である母と、母の主人のもとで暮らしています。奴婢とは、主人に従属する身分の人々のことです。父も奴婢ですが、母とは別の主人に仕えています。 この子がどちらの主人に属するか、争いがないまま10年が過ぎました。そこで父の主人が「男子なら、父と同じく私のもとに属するはずだ」と申し立てたら、どうなるで…",
+  "publishedAt": "2026-11-13T13:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d92b5c6a94bc",
+  "title": "外観検査AI、誤警報半減の落とし穴 — 不良率1%の試算で人手は逆転する",
+  "url": "https://zenn.dev/jodycraft/articles/inspection-ai-input-false-alarm-tradeoff",
+  "source": "Zenn",
+  "summary": "! 📋 この記事の前提 製造業の生産技術・品質保証・DX担当で、外観検査AIの導入やPoCを検討している方向けです 用語: 誤警報＝良品を不良と判定すること。見逃し＝不良を良品と判定すること。しきい値＝良品/不良を分ける判定の線。3D Surface＝物体表面の凹凸を画像化したもの この記事は、TOMOMI RES…",
+  "publishedAt": "2026-11-13T12:53:08.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6d64822de17c",
+  "title": "re:Invent 2025から2026へ ― KiroとAI-DLCの1年で見えた「Agentに仕事を任せる」の次",
+  "url": "https://zenn.dev/nobu_13/articles/6b4c503decc4bb",
+  "source": "Zenn",
+  "summary": "AWS re:Invent 2026が近づいてきました。 そこで、2025年のre:Inventから約1年、KiroとAI-DLCがどう変わってきたのかを改めて振り返ってみます。 ただし、この記事はK…",
+  "publishedAt": "2026-11-13T12:45:45.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a5b9e1c2c25d",
+  "title": "AIの人工無能化 — 自分と同じ答えが返ってきたときこそ",
+  "url": "https://zenn.dev/sugitakenji/articles/c0680f7eb2ba74",
+  "source": "Zenn",
+  "summary": "AIの能力を、対話の中で使わなくなる 私はチームのメンバーに、AIとの付き合い方について「AIの人工無能化」という表現で注意を呼びかけました。 AIの性能が落ちる、という意味ではありません。考える材料を整理し、違う見方を示し、根拠を調べられるAIが、対話の中では相づちと言い換えに終始してしまう。その応答を人間も受け入…",
+  "publishedAt": "2026-11-13T12:42:46.000Z",
+  "image": "",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
@@ -464,6 +583,19 @@
   "isPR": false
  },
  {
+  "id": "8251f6b14dcb",
+  "title": "AIを活用して初めて成人向け3Dゲームを販売してみた話 ― FANZAとDLsiteで違ったこと",
+  "url": "https://zenn.dev/lycoris52/articles/8ac199909f9c2f",
+  "source": "Zenn",
+  "summary": "あらすじ この度、個人制作していた成人向け3DアクションRPG 「エリナちゃんの大冒険」 を販売開始しました。 興味のある方はこちらからどうぞ。(R18) DLSite https://www.dlsite.com/ai…",
+  "publishedAt": "2026-11-13T11:44:58.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "bfe5fff946e5",
   "title": "mojicaでAI × TDDしてみた。レビューが思ったより大変だった話",
   "url": "https://qiita.com/kishimin/items/dc8a1216f1fe08492769",
@@ -496,7 +628,7 @@
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83VldOZUlRQ1BJcEZVQVhaR3hncGQycm0wS2dUSkdSTWpEcTRvWm5oRE1DdTZ0eXgwUDY5aVlGVXVkeGZ3S19FeWQ0UUNDY2UyX0RPWmRYaFlKbk40aDRUNjFISUk3S3l0dXVPT3E1WWVoNXZL?oc=5",
   "source": "BigGo ファイナンス",
   "summary": "",
-  "publishedAt": "2026-11-13T11:35:00.000Z",
+  "publishedAt": "2026-11-13T11:42:33.000Z",
   "image": "",
   "categories": [
    "other"
@@ -566,6 +698,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2813b50ead71",
+  "title": "AIさんスライド作るの苦手っぽいし、じゃあもうHTMLで作っちゃえ！",
+  "url": "https://zenn.dev/eretica/articles/dee12ffe90fce9",
+  "source": "Zenn",
+  "summary": "こんにちは！みなさん、スライド作るの好きですか？ 私は嫌いです😇 AIにスライドを作ってもらっても、なんか違う 最近は資料づくりもAIに手伝ってもらうことが増えました。ただ、スライドだけはどうにもうまくいかないことが多いです スキルやプロンプトをしっかり準備しても、なかなか思うような生成物にならないんですよね…🤔…",
+  "publishedAt": "2026-11-13T11:08:22.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -649,6 +794,20 @@
   "isPR": false
  },
  {
+  "id": "bc30221ec091",
+  "title": "Earlybird入門 ―「言い終わる前に文字起こしする」16.8MBの超小型ストリーミング音声認識モデル",
+  "url": "https://zenn.dev/ikesita/articles/33eb47e9fd293c",
+  "source": "Zenn",
+  "summary": "AIツールウォッチ第2回 / 検証日：2026-11-13 / 検証対象：Earlybird-29M（GitHub公開版 release/earlybird、重みファイル16.79MB） ※「実測」と書いたものは検証環境で実際に測った値、「公式値」と書いたものは開発者の公開資料（リポジトリ同梱の results/）の…",
+  "publishedAt": "2026-11-13T10:54:55.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "05b769e03e7a",
   "title": "Anthropic、Claude Meetingsをベータ提供 ——Claudeが会議に参加し、文書やホワイトボードを参加者と共同作成",
   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JMUlMbmYySHc5N1hxZHllT0dSaEFtM3BnbnRVbTVtcmE2UGVFYmVRR2NZRkIxRkVxWWVqX0hBYjh0Z3dvMFhvQy1sU0NZWC1EbDdvOHo1RTRPRmlB?oc=5",
@@ -724,6 +883,19 @@
   "categories": [
    "policy",
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7d6373c1c4e0",
+  "title": "OpenAIの取締役、聴衆にとって最も可能性の高い死因はAI事故だと警告",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS3BhNWJyNENlSGpCRldmRERtNzBrNTBvb0VFajZVX0xZS01rQi1NTEZtaWJmREFpcW5sS2hSZkFWNVl5amdlM1BENVRkX0MtTGNxbEMwREtjajZPWG9PaGItWHFZRHhNa2pzSktrQzJrSFY1bzhOR2hVUUs5R3F6dkpWMHNZcExHTmpVS3VHeGxsQXM0YVVrdjNtTQ?oc=5",
+  "source": "Mezha.net",
+  "summary": "",
+  "publishedAt": "2026-11-13T10:36:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -2732,6 +2904,19 @@
   "isPR": false
  },
  {
+  "id": "316b9be533c4",
+  "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
+  "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
+  "source": "はてなブックマーク",
+  "summary": "AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出て、以下の問いにはじめて気づきました。 問い:...",
+  "publishedAt": "2026-11-13T06:02:40.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fkaramage%2Farticles%2F5c3f8370b2b370",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "918fe648d452",
   "title": "ユナイテッド、AIエージェントの航空券予約禁止-プライバシー懸念で（TBS CROSS DIG with Bloomberg）",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQb3ZuOEkwUWRJV0EwSGpST2lWbVdHOWV5QlRQRzFnamRQSUg4eVcweldnMTVtUURwVkZTZUN2dm5TOG1vVzRNM1dQdWRValNsM3dIUnU5dFdNUlRmc0c3TWdvTTJ5UjE2QjZOQ2ZQMFVDcG40c0dBUkVuMnRZUVU?oc=5",
@@ -2878,6 +3063,20 @@
   "isPR": false
  },
  {
+  "id": "c2ed5bfd0441",
+  "title": "OpenAI、米国の対中AI半導体規制強化を目指す超党派法案を支持",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0Ym5KdXZCdmE1NmhXWmxva3JNRWFkeHRXSzQ3RjY4cURWVE9QMUQ4V1BCYlE0dFpZZ2hQMU9JMk9fRFVVY19QbTJYX1JPQ3k5TUJnX2YyWTlTVEFJd25na2cyTlY1WV8xTHNITmMwd3JxLXpR?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-13T05:32:24.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "5677c61a082e",
   "title": "【12月3日(木)19:00～・渋谷】生成AI時代のエンジニアはどうつながる？バイブコーディングやAI開発の情報交換が",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11ZHA0N1ZQOGxkYVFXcXJ4bnlNN3lhanhkUHpjNy1tY3lGNXpwQms2dUpYS1VHVmdTRm1RNUN3MHpfbDhJSXBXbVpUSjJSamd3ZHJvU2JOUGZFMlo2Y1Fpc3dBRV83VzV3dHB3OVd1bWdWVmdPQlFUVE5WVQ?oc=5",
@@ -2939,20 +3138,6 @@
   "image": "",
   "categories": [
    "case"
-  ],
-  "isPR": false
- },
- {
-  "id": "c2ed5bfd0441",
-  "title": "OpenAI、米国の対中AI半導体規制強化を目指す超党派法案を支持",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0Ym5KdXZCdmE1NmhXWmxva3JNRWFkeHRXSzQ3RjY4cURWVE9QMUQ4V1BCYlE0dFpZZ2hQMU9JMk9fRFVVY19QbTJYX1JPQ3k5TUJnX2YyWTlTVEFJd25na2cyTlY1WV8xTHNITmMwd3JxLXpR?oc=5",
-  "source": "BigGo ファイナンス",
-  "summary": "",
-  "publishedAt": "2026-11-13T05:26:00.000Z",
-  "image": "",
-  "categories": [
-   "policy",
-   "infra"
   ],
   "isPR": false
  },
@@ -3282,6 +3467,20 @@
   "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.yahoo.co.jp%2Farticles%2F5797fd48c4bd5ca4579498f09aa3fb2484b110b1",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dfe6e4d649a7",
+  "title": "米政府、中国AI企業によるエヌビディア半導体の遠隔利用規制を準備──中国勢は海外の利用枠確保を急ぐ",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVV9VbjQ3NWE3RndHQmcwQzhuVTFpQWdFS19ScDc2YW1UMUlxaHFIYmhGZXVZdGlITU1WalVqYzhZVWhsM0F1WFNMdm1NNWw0UVdIMTN1bVREQzg3bUk4NzF2aTc0eC1pQXdHUmNUa3ZjQ1NRV2NFWWFjVmluVDJwT28weG9WMGJJSXJOOEN3?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-13T04:53:27.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "infra"
   ],
   "isPR": false
  },
@@ -4472,19 +4671,6 @@
   "isPR": false
  },
  {
-  "id": "316b9be533c4",
-  "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
-  "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-  "source": "Zenn",
-  "summary": "AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出て、以下の問いにはじめて気づきました。 問い: AI同士…",
-  "publishedAt": "2026-11-13T02:48:24.000Z",
-  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fkaramage%2Farticles%2F5c3f8370b2b370",
-  "categories": [
-   "dev"
-  ],
-  "isPR": false
- },
- {
   "id": "26b498c794ac",
   "title": "ClaudeがGoogle Meetに参加 議事録や資料作成、質問回答も",
   "url": "https://www.watch.impress.co.jp/docs/news/2156161.html",
@@ -4870,8 +5056,8 @@
  {
   "id": "0ee9b43d7a09",
   "title": "ウーバーが4カ月で予算を使い切った理由 AI導入で陥る5つの落とし穴",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3lId0ROaDN2cnJqbWlySm9jTm1Ca2MyRzFreXZERWNKNnNrNjVZMXg0UklMMTdwVUZMQ0RWQWtha3Z6LXJ1VUJHRTFyelhCWXE4ZmhDMWtYY0R0OUN1NWR0TVJVbW90a1VyaEhaMnhBR2lVVEJ3dHo1OUN5QU5LLXplUVRkblZs?oc=5",
-  "source": "Yahoo!ニュース",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxbm5JWmZYT1Nqd1JzN2NMa3JhYS16RGdoNVVSQUJIWlpXdW9Ld05Hd0tITW91LXZlUUNZamtqLXpWeDFPbHlPYVpRQnRVQ3hwd2JnMmtwNjN1dw?oc=5",
+  "source": "Forbes JAPAN",
   "summary": "",
   "publishedAt": "2026-11-13T02:30:00.000Z",
   "image": "",
@@ -6186,20 +6372,6 @@
   "categories": [
    "product",
    "policy"
-  ],
-  "isPR": false
- },
- {
-  "id": "dfe6e4d649a7",
-  "title": "米政府、中国AI企業によるエヌビディア半導体の遠隔利用規制を準備──中国勢は海外の利用枠確保を急ぐ",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2b1hUSUl5QXNGaV9GNzJMRk9OcDlRaHpNNGstMjhieXRqOWpBd3hIbXI4dFJvSGQzZlQ3WHNCZkdOUW53OEJQbnhkZVZYUTF0Z0NhZWxfUkRUZw?oc=5",
-  "source": "Forbes JAPAN",
-  "summary": "",
-  "publishedAt": "2026-11-13T00:30:00.000Z",
-  "image": "",
-  "categories": [
-   "policy",
-   "infra"
   ],
   "isPR": false
  },
@@ -9528,6 +9700,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3f762f9eb8b2",
+  "title": "大規模言語モデルはロボットをどう変えるか 「日本の逆襲」編",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWHNmZl93UVAzdHlad2Uxb0NfZkR5X3FPc3d4NTdFOTF6c0hmUUNpQzFjODRWM0tyb2RSeWwzajNMSVY1cmpIX0xhT0VTdFlWN1h5bno4YVMwNFVqYWlncFUzLV9mdm9xRlBtTWJYbFg4aHNuWnRsbGx4ZWNnYTUwZ20wTDFZaXZ6blUxT0oyaTg1ZkZhZktPOEowR2V3LTBJdzhpc1BrWUhBVlF3a0E?oc=5",
+  "source": "日経クロステック",
+  "summary": "",
+  "publishedAt": "2026-11-12T16:20:29.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
