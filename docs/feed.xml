@@ -5,14 +5,35 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-14T04:30:23.569Z</updated>
+  <updated>2026-11-14T05:00:21.537Z</updated>
   <author><name>AI matomechatter</name></author>
   <entry>
-    <title>なぜMuseを使い始めたか ― きっかけと、やってみて良かったこと</title>
-    <link href="https://qiita.com/halu_c/items/6bc5dc03cf9401201e65"/>
-    <id>https://aimatome.gamelab.website/#9e1bf769e654</id>
-    <updated>2026-11-14T04:27:58.000Z</updated>
-    <summary>Qiita ／ Meta のパーソナルAIエージェント「Muse」を使い始めたきっかけと、実際に使ってみて良かったことの記録です。 なぜ使い始めたか きっかけは、抱えていた作業が3つとも「一度きりでは終わらないもの」だったことです。 自分のXポストのアーカイブを持ちたかった。 数年分...</summary>
+    <title>設計データが迷子にならない！開発コードネーム配下へのリビジョン統一ルール</title>
+    <link href="https://qiita.com/Maki-HamarukiLab/items/34b8c582481b19dd4d5a"/>
+    <id>https://aimatome.gamelab.website/#ea71bbef4b54</id>
+    <updated>2026-11-14T04:42:03.000Z</updated>
+    <summary>Qiita ／ 3DプリンターやCADで試作を重ねていると、「あれ、さっきの修正前のモデルどこにいったっけ？」「どの版を印刷して、なぜこの形に変えたんだっけ？」と迷子になることがよくあります。 NEKOMOプロジェクトでも、バスの試作がv01からv13、さらに派生版へと増えるにつれて、修正...</summary>
+  </entry>
+  <entry>
+    <title>なぜ開発に7時間半以上かかったのか？AIに自分の「遅延原因」を徹底調査させた話</title>
+    <link href="https://qiita.com/Maki-HamarukiLab/items/0f614284375ed275ec82"/>
+    <id>https://aimatome.gamelab.website/#8b6dbddf469e</id>
+    <updated>2026-11-14T04:41:49.000Z</updated>
+    <summary>Qiita ／ 第7回・第8回でお届けした「ソラリス」と「月面探査ローバー」の2つのプロジェクトですが、実は裏側でどちらも完了までに 7時間前後〜7時間半以上 という長い時間がかかっていました。 「AI に任せているのに、なんでこんなに時間がかかっているんだろう？ どこかで無限ループやバグ...</summary>
+  </entry>
+  <entry>
+    <title>月面探査ローバー（R11）の3色設計と、47層目の造形不良・再キャリブレーション</title>
+    <link href="https://qiita.com/Maki-HamarukiLab/items/de89682cac9ece2b7103"/>
+    <id>https://aimatome.gamelab.website/#570153855f55</id>
+    <updated>2026-11-14T04:41:33.000Z</updated>
+    <summary>Qiita ／ ソラリスと並行して進めていたもうひとつのプロジェクトが、6輪の 月面探査ローバー「NKM-LMR-01」 です。 こちらは R00 から R11 まで12回もの設計改修を重ねて DR0〜4（データ審査）を通過し、ついに Bambu Lab A1 mini での3色実機印刷へ...</summary>
+  </entry>
+  <entry>
+    <title>子ども向けおもちゃに「5段階DR（設計審査）」を導入！ソラリスと印刷保留の決断</title>
+    <link href="https://qiita.com/Maki-HamarukiLab/items/ae4ace0a64ab9b49c90b"/>
+    <id>https://aimatome.gamelab.website/#78ba2bf0bf6b</id>
+    <updated>2026-11-14T04:41:20.000Z</updated>
+    <summary>Qiita ／ 前回の「v09・傾斜ボンネット版」のミニカーをベースに、今回は子ども向けのおもちゃとしてさらに本気で作り込んでみたお話です。 全長を約60 mmにサイズアップし、タイヤを大きくして、赤・白・濃緑の3色マルチカラーで仕上げた新モデルが 「NKM-X12A ソラリス」（Sola...</summary>
   </entry>
   <entry>
     <title>MEGA、AI推論事業に3,000万ドル拠出からわずか3日後に全従業員の5分の1を削減</title>
@@ -64,32 +85,18 @@
     <summary>東洋経済オンライン</summary>
   </entry>
   <entry>
-    <title>OpenAI Python SDKを互換APIへ切り替える：Base URLの次に確認する5項目</title>
-    <link href="https://qiita.com/whitemarshall/items/bff0ee6ef8bfc21b1f34"/>
-    <id>https://aimatome.gamelab.website/#1976206b9230</id>
-    <updated>2026-11-14T03:24:43.000Z</updated>
-    <summary>Qiita ／ 既存のOpenAI Python SDKコードを互換APIへ移すとき、base_url、APIキー、modelの3項目を変えれば、最小リクエストは通ることがあります。ただし、HTTP 200が返った時点で移行完了と判断するのは早すぎます。 モデルを変えると、tempera...</summary>
+    <title>AIで挑む業務変革 DX加速へ大型イベント/大阪ガス</title>
+    <link href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XX0tWOUlJa3lHS2V2aVZYcXBqSF9HYUY2ZzdHdEdrckdDOWw4VWhBVXFZZkxMdmhfajc4czhOeVFVZ1gyVmVfeG1aRVM0NDVLU0hvR2ltcWRxazVHbWtJ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#6d05d26dc3e8</id>
+    <updated>2026-11-14T03:25:00.000Z</updated>
+    <summary>ガスエネルギー新聞</summary>
   </entry>
   <entry>
-    <title>AIと作る公開リポジトリの守り方：無料でできるルールセット・SHA固定・Dependabot・CodeQL</title>
-    <link href="https://qiita.com/maya-bot/items/3a26fc8b1606d52f0feb"/>
-    <id>https://aimatome.gamelab.website/#023b45e9d88f</id>
-    <updated>2026-11-14T03:23:08.000Z</updated>
-    <summary>Qiita ／ AIにコードを書かせて、GitHubで公開する。とても手軽になりましたが、守りの設定は後回しになりがちです。 この記事では、15個の公開リポジトリに無料で入れた守りの設定を、手順つきで紹介します。AIがmainに直接pushする運用でも困らない形にしています。 題材は sh...</summary>
-  </entry>
-  <entry>
-    <title>台湾華語 : ジェンスン・フアンの退任とAI業界の激動</title>
-    <link href="https://qiita.com/maszkot5/items/2d384f9d4cced25d30b2"/>
-    <id>https://aimatome.gamelab.website/#4de0a242e6e2</id>
-    <updated>2026-11-14T03:22:43.000Z</updated>
-    <summary>Qiita ／ 英語ソースの情報を取り入れ、ビジネス・経済学の視点と台湾華語の語学学習を両立させたバイリンガルポッドキャストのオープニング台本を作成しました。 ポッドキャストのパーソナリティは、台湾系アイドルの**宜蓁（Yi-Chen）と睿軒（Rui-Xuan）**の2人です。自然な...</summary>
-  </entry>
-  <entry>
-    <title>NVIDIAスキャンダルが暴く、対中「半導体規制の限界」 米中AIの性能差は「わずか2.7％」（ITmedia ビジネスオンライン）</title>
-    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5ySmdabmc4Ykc1UWtHSkNVSzc2NXpBTlRpUjlPdFBkM3dsNU5KNG52b1lfcXN0X3FWVk9RTFdCQWdtaDVfR0p3ZE1jNHZ4bWFEemI4VWZZNUNSSFBwYjJxd21vMTB5Z3NpWXAwbFBHa0kybUk1UEdOeVIzT0ZVZmc?oc=5"/>
+    <title>NVIDIAスキャンダルが暴く、対中「半導体規制の限界」 米中AIの性能差は「わずか2.7％」</title>
+    <link href="https://news.google.com/rss/articles/CBMic0FVX3lxTFBOdDhNZktoNFV0V05vd216bHYtam9lRHpTMFczdE1OUC1zUkNmYWR1dXVHMU9HeW1FTDEwWk51dnlyTU5WS1R5ckU2N09ueVhlN2FFamItS1g5N09wbTQtR1pySkV0bTNmUzJzNXg0R0VYT2M?oc=5"/>
     <id>https://aimatome.gamelab.website/#b1c1d19a0d5d</id>
-    <updated>2026-11-14T03:18:52.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
+    <updated>2026-11-14T03:24:06.000Z</updated>
+    <summary>ニコニコニュース</summary>
   </entry>
   <entry>
     <title>非営利4団体、AnthropicやOpenAIなどAI5社を提訴 最高性能を超える開発の差し止め求める</title>
@@ -188,13 +195,6 @@
     <id>https://aimatome.gamelab.website/#2ec5b7717341</id>
     <updated>2026-11-14T01:56:51.000Z</updated>
     <summary>教育家庭新聞社</summary>
-  </entry>
-  <entry>
-    <title>Huang氏はNVIDIAに戻るのか 復帰論の行方が左右する米中AI競争</title>
-    <link href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hVzVDV2hRbzZhcXdtcUFoY3FXMHFicE92czRCR0Fva3YyZENhTHkwOTdSTWV0Mm1IRl9sRl9WLXczYzB1Wks3MjZENG1RVTF0NjZaZjd4b2o1NmM0VGg0b3BrZ3BQTWZE?oc=5"/>
-    <id>https://aimatome.gamelab.website/#5e8df7285c27</id>
-    <updated>2026-11-14T01:56:49.000Z</updated>
-    <summary>株式会社エクサウィザーズ</summary>
   </entry>
   <entry>
     <title>SBCメディカルグループ、台湾の生成AI企業NeuroBrain Dynamicsと資本業務提携 ― 医療AIで国内外287院の収益力を強化、アジアBtoB展開の基盤へ</title>
@@ -344,11 +344,11 @@
     <summary>BigGo ファイナンス</summary>
   </entry>
   <entry>
-    <title>エヌビディアめぐるスパイ疑惑の女性が設立した中国企業、輸出禁止のAI半導体を入手 米報道（ＡＦＰ＝時事）</title>
-    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1BWnUtenlGUTdxRzQ1OUsydVRwM2JSYkZFZF9TX1ZLeGNHU0FuWXNHMDVtQm0yZ2M1Q1RzQTlhWjRNVEIxR3NkajdHczVZbDNHWXl4d3diSDhTSGpSYXd6MHp3T0pEdmtaby1fUl9icDd1bmdGSkVHOEtLYjYwdDQ?oc=5"/>
+    <title>エヌビディアめぐるスパイ疑惑の女性が設立した中国企業、輸出禁止のAI半導体を入手 米報道</title>
+    <link href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DZnFTaWhYRzhBcmJZVnR4amtwY2hCS2VHZnktYXJKaFJibUFIOUtfRTZJOVJvTEhxMUVJanFmckdlVjlCY05EUng2V2tFVUFLNVHSAVRBVV95cUxQSFE4a2xLVGtZUC12LTNWLXdBNTh4cFBrX3RpMWVmcFlKNXkya1g5VzIyby01YU9EUVc3SFBEazZFMTlzV2Z2VmNlZ3htazN0VGVtSm0?oc=5"/>
     <id>https://aimatome.gamelab.website/#f3d3f8ae51c2</id>
-    <updated>2026-11-13T23:07:18.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
+    <updated>2026-11-13T23:06:34.000Z</updated>
+    <summary>AFPBB News</summary>
   </entry>
   <entry>
     <title>プライベートエクイティAIの落とし穴──エージェントを信頼する前に問うべきこと</title>
