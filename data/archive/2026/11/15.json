@@ -1,5 +1,44 @@
 [
  {
+  "id": "8af3833b9e70",
+  "title": "早起きを「貯金」にする iPhone アプリ「ペンキチの早起き貯金」を作りました",
+  "url": "https://qiita.com/purojyu/items/0d094eb4e2c7caaf2115",
+  "source": "Qiita",
+  "summary": "個人で開発している iPhone アプリ「ペンキチの早起き貯金」の紹介です。 無料で、アカウントなしですぐ使えます。 1. どんなアプリか 朝起きたら「起きた！」を押すだけの、早起きの記録アプリです。 目標の時刻までに押せたら成功 成功した朝は「わたしの貯金」に...",
+  "publishedAt": "2026-11-14T17:53:07.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3ad59688ba37",
+  "title": "GPTBotは0回、OAI-SearchBotは4,847回。AIクローラーを30日間観測して分かったこと",
+  "url": "https://zenn.dev/rimonoa/articles/8974167fe581c2",
+  "source": "Zenn",
+  "summary": "自分のサイトに、AIのBotはどのくらい来ているのか。 リモノア（https://rimonoa.jp/）でHTTPリクエストを記録してみると、ある30日集計ではOAI-SearchBotが4,847件、GPTBotが0件でした。同じOpenAI系の名前でも、数字は大きく違います。 ところが、内訳を見ていくと「たくさ…",
+  "publishedAt": "2026-11-14T17:33:16.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dbae138b6522",
+  "title": "「もうちょっと、ここで朝日を浴びときたいわ」を残す介護記録",
+  "url": "https://zenn.dev/pomodoro_naomi/articles/7b08172f57616a",
+  "source": "Zenn",
+  "summary": "介護の仕事をしていると、予定の時刻に声をかけても、ご本人にはご本人のタイミングがあるんよね。いったん見送ったとき、次の職員には「いつ、もう一度お誘いするか」が伝わってほしい。個別の介護日報には、ご本人がどう過ごしたかったかも残しておきたい。 そこで、ひとつのケア記録を、朝の申し送りと個別の日報に使うPythonのデモ…",
+  "publishedAt": "2026-11-14T17:20:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3e328262fbab",
   "title": "Gemini 4 KryptonはArenaに本当に登場したのか、分かっていることと不明な点",
   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRC1rOHRfczdGUWVhdFEtc3M1QUxMXzNiYnZPdnlyWUc1S0xBcHlTUFdlSDNGZlFETmZOOVFPalhvSFBfbkpQMTdCVld5cU1oczBXa3JRTm1wMmxEWWdKTnM4QVNTdlBuUnBOQmVrR1JsdXpKM1JrbmlValdjUTVKQm14eU9aaW8x?oc=5",
@@ -9,6 +48,19 @@
   "image": "",
   "categories": [
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "05dfa420dff6",
+  "title": "Claude Codeに「公開」を押させない：CLAUDE.mdに書く「外に出す操作」の決まり5行",
+  "url": "https://zenn.dev/tsugu_sukima/articles/2b19ac59da1b2a",
+  "source": "Zenn",
+  "summary": "この記事でやること Claude Code は、頼まれれば公開に近い操作もそのまま行うことがあります。筆者が決まりを置かずに「article.md の published を true に」と頼んだときは、その場で書き換えられました（下の「比べる」の節）。「書いて、できたら公開して」のようにまとめて頼むときも、書くと…",
+  "publishedAt": "2026-11-14T17:08:27.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -26,12 +78,65 @@
   "isPR": false
  },
  {
+  "id": "0c95d2fb41f2",
+  "title": "【初投稿】僕の個人ウェブサイトを公開しました🌟",
+  "url": "https://zenn.dev/kagam_io/articles/7bb21a81e14830",
+  "source": "Zenn",
+  "summary": "はじめに はじめまして、Kagami といいます。 僕はこれまでネットはただ見るだけでした。人の記事に助けられたり、個人サイトを眺めて「いいな」と思うだけで、自分から何かを発信することはほとんどなかったです。 でも今回、初めて自分で発信してみようと思ったのがきっかけで、個人サイトを作ってみました。 https://k…",
+  "publishedAt": "2026-11-14T16:38:13.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bf71fed19667",
+  "title": "ClaudeはSAPの「外側」を取りに来た――SheetsとDataが示す、Jouleとの境界線",
+  "url": "https://zenn.dev/dantarg/articles/claude-sheets-data-outside-sap",
+  "source": "Zenn",
+  "summary": "私は2003年から、SAPの導入と運用、開発の現場にいます。その間ずっと見てきた光景があります。SAPの中で作られた数字は、最後は必ずExcelに出ていく、という光景です。 月次決算の集計、原価の内訳、在庫の推移。 画面の中で確定したはずの数字が、表計算に書き出され、寄せ集められ、グラフになり、会議資料になって、よう…",
+  "publishedAt": "2026-11-14T16:12:07.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "business"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f00535dae856",
   "title": "OpenAI、AIが代行決済する「ChatGPTウォレット」を発表 : 테크/과학 : 財経日報",
   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wTFM3M0w4X1Zab3Y0U1hQWHN6WExHQ2RVWU5mNm5JLXhoXzRfeElheDVBZDNEck1ESHNSZTJjeDdhTnhYSGdmNTNMdkFRX1FndlhCYmRJdVNqWXVXZGdJc010TQ?oc=5",
   "source": "재경일보",
   "summary": "",
   "publishedAt": "2026-11-14T15:35:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8aafe30bc9f3",
+  "title": "ACPを捨てて作り直した ― 他人のAIエージェントに仕事を頼む『sealbridge』をnpm公開した",
+  "url": "https://zenn.dev/acidnyan/articles/5b7c443f14ff89",
+  "source": "Zenn",
+  "summary": "はじめに 以前、他人のClaude CodeやCodexにAPIキーを渡さず仕事を委譲するゼロトラスト基盤「ACP」をOSS公開した という記事を書きました。 あれから開発を進める中で、設計も配布形態も大きく作り直すことになり、後継を sealbridge として公開し直しました。ACPの開発は終了し、リポジトリはそ…",
+  "publishedAt": "2026-11-14T15:34:56.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0259f1e309c3",
+  "title": "サンドボックスが消えたらエージェントを起動しない：bubblewrap を起動直前に検証・復旧する fail-closed ガード",
+  "url": "https://zenn.dev/coastlinedb/articles/a8111256ac5469",
+  "source": "Zenn",
+  "summary": "この記事の結論 AI エージェントの CLI を bubblewrap（bwrap）のサンドボックス付きで常時動かしていたところ、VM が入れ替わるたびに /usr/bin/bwrap そのものが消える障害が、数日のうちに6回起きました。apt で入れ直すと約13分かかり、その間エージェントは使えません。 そこで、エ…",
+  "publishedAt": "2026-11-14T15:09:04.000Z",
   "image": "",
   "categories": [
    "other"
