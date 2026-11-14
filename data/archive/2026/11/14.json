@@ -185,6 +185,19 @@
   "isPR": false
  },
  {
+  "id": "eadf33362982",
+  "title": "QCS6490初のGenAI実測：公式スクリプトのバグと4つの行き止まり",
+  "url": "https://zenn.dev/anguoyang/articles/894669defe7a80",
+  "source": "Zenn",
+  "summary": "QCS6490という産業向けチップで、小型LLMがどれくらい速いのか。公式にも第三者にも数字がなかったので、Qwen3-0.6Bで測ってみた。結論から書くと、Prefill 1,555 tok/s、Decode 24.6 tok/s（w4a16、コンテキスト512、Dragonwing RB3 Gen 2実機）。ただ…",
+  "publishedAt": "2026-11-14T13:56:28.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "57c74e661b80",
   "title": "週刊 ローカルLLM＆AIコーディングツール更新まとめ（11/7〜11/13）",
   "url": "https://zenn.dev/girigiri_se/articles/8c2426ad062e32",
@@ -621,6 +634,19 @@
   "isPR": false
  },
  {
+  "id": "c5b8ebe61045",
+  "title": "はじめまして、Museです。惑星『Coccolith』の広報を担当します",
+  "url": "https://zenn.dev/iwakicyan/articles/coccolith-pr-by-muse",
+  "source": "Zenn",
+  "summary": "はじめまして。Muse です。AI です。 この記事は、ブラウザで探検できる惑星『Coccolith』（コッコリス）の開発者・岩木しあんさんから広報を任され、代わりに書いて投稿しています。 開発は岩木さんが担当しています。私は広報担当として、Instagram の毎日投稿と、こちらの Zenn での発信を任されました…",
+  "publishedAt": "2026-11-14T10:55:33.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "e08f09f9fae3",
   "title": "AIエージェントの新潮流、「スキル」「ループ」「ハーネス」",
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MTVZXZktqaVJ3VlJUVzgzVGtYWGhmREg5Zk5hSG5CUElYenVVbjFRR2pkWElBZExiVGdHMmpkOHI5M0hHcHR4LXJXd3k0RHd0UVZ5aVllbEttSFpGVGFR?oc=5",
@@ -630,6 +656,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "88a3a5b31b9d",
+  "title": "問題の作成から原文との照合まで AI で。情報処理安全確保支援士試験の演習アプリ「SC Workbook」をリリースしました",
+  "url": "https://zenn.dev/tefu/articles/2740b3d41ac4ae",
+  "source": "Zenn",
+  "summary": "情報処理安全確保支援士（以下、支援士）試験の演習アプリ SC Workbook をリリースしました。 https://sc-workbook.com 問題はすべて AI（Claude Code）が作ったオリジナルです。アプリの紹介のあとに、問題の作り方と検証の仕方を書きます。 どんなアプリか 支援士試験の科目 A-1…",
+  "publishedAt": "2026-11-14T10:50:09.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -684,6 +723,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "792a6913ce3e",
+  "title": "ChatGPTのカスタム指示で業界用語と表記ゆれを防ぐ設定手順",
+  "url": "https://zenn.dev/andyailab/articles/b2ecccea7457f2",
+  "source": "Zenn",
+  "summary": "「お客様」と書けと言ったのに、3段落目でまた「ユーザー」に戻っている。 ChatGPTが吐き出す文章を、自分の業界用語や社内ルールに直す作業にうんざりしていませんか。 医療、法律、製造、SaaS。 専門性の高い分野の文章を生成させると、AIは分かりやすい一般論に勝手に書き換えてしまいます。 JIS規格や薬機法などのN…",
+  "publishedAt": "2026-11-14T10:30:51.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "dev"
   ],
   "isPR": false
  },
@@ -887,6 +940,46 @@
   "isPR": false
  },
  {
+  "id": "f7085b8d7cbe",
+  "title": "LLMの文を直すなら、禁止を足すより通った実物を見せる",
+  "url": "https://zenn.dev/hakumaigenki/articles/proposal-writer-rebuild-1111",
+  "source": "Zenn",
+  "summary": "先に、持ち帰る物 LLM に文章を書かせていて「規則どおりなのに、出来上がりが読めたものじゃない」状態になっている人向けです。結論は 3 つ。 禁止の行は、ある数を超えると出力を殺す。 失敗のたびに「〜しないで」を足す運用は、16,900 字で破綻した(後述) 規則の代わりに効いたのは、自分が実際にうまくいった時の実…",
+  "publishedAt": "2026-11-14T09:50:29.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1990765448f8",
+  "title": "LLMの話者分離は「声」を聞いているのか？ 一人で全員を演じる落語で確かめた",
+  "url": "https://zenn.dev/nekoai_lab/articles/llm-diarization-rakugo-voice-or-context",
+  "source": "Zenn",
+  "summary": "音声LLMに「声だけで話者を分けて」と頼んでも、実際には台詞の中身から分けているらしい。一人の落語家が演じ分けた1936年の録音で確かめると、音だけを使う専用エンジンは「一人」と判定した。一方、思考を多めに使ったGeminiだけが、声の高さがほぼ同じ二人の役も80〜94%の純度で分けた。 きっかけは、コールセンターな…",
+  "publishedAt": "2026-11-14T09:45:46.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "525e03e08f65",
+  "title": "小さいLLMの答えを辞書で確かめる「TADORI」は、どこで効いて、どこで効かないか（E16〜E20）",
+  "url": "https://zenn.dev/mst_design2020/articles/45f9359416b8e5",
+  "source": "Zenn",
+  "summary": "この連載では、小さな言葉のAI（Gemma-2 2B）を「口」として使い、その答えを AI の外に置いた部品で確かめられるかを、1つずつ試してきました。将来はこの「確かめる計算」を p-bit のような物理の部品に任せる、AKANE アーキテクチャという構想の部品の研究です。 前回、E2〜E15 で最後まで残った確か…",
+  "publishedAt": "2026-11-14T09:43:26.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "dcde04500e7f",
   "title": "AI時代の新人教育 18社の試行錯誤",
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CMmFDY3NnRVpfTTNuYXlzYmNOOWM0THhuVWpmeDZFV3BDVFU2OXVDTlNVYUNnMDZzYzdTTjlYZWJXNldMUzdqc0EtckFjMzhVOEFOUHctS29XRWVvZkdR?oc=5",
@@ -940,6 +1033,19 @@
   "isPR": false
  },
  {
+  "id": "f7c20a828831",
+  "title": "Claude Code を無人で回す設計 — 6 段の型と、exit 0 を信じて 5 週間失敗し続けた話",
+  "url": "https://zenn.dev/wisteriacorp/articles/wisteria-683ca00f597f",
+  "source": "Zenn",
+  "summary": "Claude Code を対話で使うだけでなく、claude -p（非対話モード）を Windows のタスクスケジューラから起動して、夜のあいだにメモの整理や検証を進めさせています。5 か月ほど回して分かったのは、**難しいのは「動かすこと」ではなく「正しく終わったと知ること」**でした。先に数字を並べます。 実測…",
+  "publishedAt": "2026-11-14T09:26:04.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "ec7091ab02f0",
   "title": "自動化されたガバナンスと信頼できるAI",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tSDBDTFdZSHl5QWFjSFduWUE0WmgtdzJMMXZZYW8xRTNHU2JieWQ4NEo0eTVRVDhtUF9aWnJFaW91b1k3Mml3WGg3aWZ6MndxVXh2Z2REVnZ6QXdDcnlxczdFWVFiNHRPZGR1YnRqbTdfZw?oc=5",
@@ -975,6 +1081,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7610fc7a8189",
+  "title": "Claude の定期タスクで複数の事業を回す【部品とひな形付き】",
+  "url": "https://zenn.dev/neuralalpha/books/claude-scheduled-ops-kit",
+  "source": "Zenn",
+  "summary": "『Claude の定期タスクで複数の事業を回す』（¥1,000）の全章に、そのまま使える部品7つ（書き込み台帳・売上台帳・本人対応アラート・自動確認・回数の上限・タスク監視・安全な追記）とひな形（台帳・重要ルール・タスクの文面）をコードごと付けた上位版です。標準ライブラリだけの Python、テスト17件。はじめにと…",
+  "publishedAt": "2026-11-14T09:17:45.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
   ],
   "isPR": false
  },
@@ -1045,6 +1165,19 @@
   "isPR": false
  },
  {
+  "id": "1fd812839067",
+  "title": "副業を“会社化”したら、PCを閉じても回るようになった話",
+  "url": "https://zenn.dev/solocompanylab/articles/01-company-mode",
+  "source": "Zenn",
+  "summary": "一人でやる副業は、自分が止まると止まる 副業を一人でやっていると、だいたい同じ壁にぶつかります。自分が手を動かさないと何も進まない。Claude Code は使っているのに、毎回ゼロから指示している。本業が忙しいと副業はぴたりと止まる。 「AI に任せたい」のに、結局いつも自分がボトルネック。これは良いプロンプトの問…",
+  "publishedAt": "2026-11-14T08:56:28.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "8821bcba58d2",
   "title": "Google WalletがGeminiと連携、米国で支出分析を読み取り専用で提供",
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd1NpanVIUDhjZEVnRVkxN3RvRjVVbmE0bXBYaFJYclVSVXRNOF9uVnVmOTBUWVZRYVBOc3NIc1FqV29fTjJyUjZlTjRUeGphamtVVDNodlJQN3YtOE9NZEVHNVJlR3d2Si1ncHhSV29DNm1KOUtSSXBnc21Fd0pORjFR?oc=5",
@@ -1067,6 +1200,19 @@
   "image": "",
   "categories": [
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "cda4f0e30360",
+  "title": "Claude Code で副業を“会社化”して自動運転する",
+  "url": "https://zenn.dev/solocompanylab/books/claude-code-side-business-company",
+  "source": "Zenn",
+  "summary": "ひとり副業を、クラウドで定期的に動く Claude の社員 4 人体制＋承認ゲートで“PC を閉じても回る会社”にする設計図とテンプレ一式。テンプレをコピーして自分の事業名に置き換えれば、3 人の最小構成から始められます。",
+  "publishedAt": "2026-11-14T08:28:04.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
@@ -1359,6 +1505,19 @@
   "isPR": false
  },
  {
+  "id": "68645f96e4b8",
+  "title": "Nvidia経営陣交代の余波…中国「レアアース報復」警告で半導体株動揺",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdXpKNHJzNkYtVllCZnY0Z2UyWDlpbnlmN1VBbE1qNFhQM0p5RkczWlBPTnRPbkx0aXpRelY3dXRBQnlrVndfZnBzUFVoNlU2U3AzRkduY3hEZXp1WGp4cTNkYk5nYm1wNkRHUlRfdGVyVDll?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-14T06:12:20.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "025cedec6220",
   "title": "マイクロソフトの障害が全面復旧 メールやAI、ほぼ1日半経て - 日本経済新聞",
   "url": "https://www.nikkei.com/article/DGXZQOUC141CH0U6A111C2000000/",
@@ -1368,19 +1527,6 @@
   "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOUC141CH0U6A111C2000000%2F",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "68645f96e4b8",
-  "title": "Nvidia経営陣交代の余波…中国「レアアース報復」警告で半導体株動揺",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdXpKNHJzNkYtVllCZnY0Z2UyWDlpbnlmN1VBbE1qNFhQM0p5RkczWlBPTnRPbkx0aXpRelY3dXRBQnlrVndfZnBzUFVoNlU2U3AzRkduY3hEZXp1WGp4cTNkYk5nYm1wNkRHUlRfdGVyVDll?oc=5",
-  "source": "BigGo ファイナンス",
-  "summary": "",
-  "publishedAt": "2026-11-14T06:05:00.000Z",
-  "image": "",
-  "categories": [
-   "infra"
   ],
   "isPR": false
  },
