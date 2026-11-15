@@ -1,5 +1,85 @@
 [
  {
+  "id": "8b66d028b16b",
+  "title": "opencodexでAnthropic/OpenAI形式のリクエストをローカルのQwen2.5-32Bに流してみた",
+  "url": "https://zenn.dev/matsushima_a/articles/day-047-opencodex-provider-proxy-api-translation",
+  "source": "Zenn",
+  "summary": "これは何を試した記事か lidge-jun/opencodex(npm: @bitkyc08/opencodex、MIT)は、OpenAI Codex・Claude Code・Claude Desktop等のコーディングエージェントと、Claude/Gemini/Grok/DeepSeek/ローカルOllama等の各…",
+  "publishedAt": "2026-11-15T14:27:44.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9e4dac4f17fa",
+  "title": "ぬゆちのサクサクVibe Coding入門",
+  "url": "https://zenn.dev/nuyuchi/books/nuyuchi-sakusaku-vibe-coding-intro",
+  "source": "Zenn",
+  "summary": "AI と一緒にコードを書くための、短い入門書です。ブラウザで使える Gemini への頼み方、プロジェクトごと任せられる Claude Code の使い方、そして AI の書いたコードを確かめる方法と、守るべき注意点を4チャプターでまとめました。AI に振り回されず、AI を道具として使いこなすための本です。最終更新…",
+  "publishedAt": "2026-11-15T14:22:44.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "07a80aec713c",
+  "title": "【第063回】「安価」「質問ある？」「創作レシピ」…2ch独自の掲示板文化を自発的に再現するスレ立てエンジン",
+  "url": "https://qiita.com/Waipe/items/e550a09c338816417998",
+  "source": "Qiita",
+  "summary": "こんにちは！2ちゃんねる互換掲示板システム「 つゔぁいちゃんねる（2ch.biz） 」の開発録、第63回です。 第62回で、板ごとの文脈や生活感を吹き込み、リアルな感情を剥き出しにしたペルソナリアリズムを実装しました。 しかし、スレッド一覧画面を見渡した時、またしても大きな...",
+  "publishedAt": "2026-11-15T14:16:30.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7bb512a559f3",
+  "title": "AnyModelBot を v0.1.38 に上げて試す：スキルの保存・導入、アプリ接続、ボット同士の受け渡し",
+  "url": "https://qiita.com/malachi_amb/items/2623111b506db433cb87",
+  "source": "Qiita",
+  "summary": "概要 AnyModelBot（MIT、ローカル優先）の共同開発者の Malachi です。2026年11月15日に公開された v0.1.38 が、現在ダウンロードできる版です。この記事は紹介でも変更履歴の全文転記でもなく、すでにデスクトップ版か Docker で動かしてい...",
+  "publishedAt": "2026-11-15T14:16:08.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5d1561c42848",
+  "title": "AnyModelBot v0.1.38：スキルの保存とライブラリ、ボット同士の受け渡し、「わたしについて」",
+  "url": "https://zenn.dev/malachi_amb/articles/41309700ac0fe0",
+  "source": "Zenn",
+  "summary": "こんにちは。AnyModelBot の共同開発者の Malachi です。2026年11月15日に v0.1.38 を公開しました。いまダウンロードできる版はこれです。先の記事では Docker 起動や、長期記憶をディスク上の Markdown として置く話を書きました。この記事では 0.1.31 から 0.1.38…",
+  "publishedAt": "2026-11-15T14:10:55.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "feda16609c8d",
+  "title": "サブエージェントの「すべて通りました」を、AI に確かめさせる Skill",
+  "url": "https://zenn.dev/itoken_lab/articles/delegating-work-with-without",
+  "source": "Zenn",
+  "summary": "AI エージェントは、仕事をサブエージェント（自分が立てる別の AI。以下、子）に任せられます。子は任せた側（以下、親）の会話を見ておらず、依頼文だけを読んで動き、報告だけを返します。依頼文に書かなかったことは守られず、子の「完了しました。テストはすべて通りました」は、テストを1件 skip して通したものかもしれま…",
+  "publishedAt": "2026-11-15T14:01:23.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "a8a3b34e4d62",
   "title": "【エヌビディアCEO辞任】スパイ疑惑の中国女性“AI半導体密輸か”米政権の波及は",
   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00eHBRWmFWQUxfQXlDanNyWVBwV1BpTklldXZkV2M5eG5QRGhVdHItcTRuTVVlemw2dkppRUI1STBEZENCZmsyNDJWMEJkTW9sQjhRS0NNbDliVzU1LTAydHZnWHhDWnBxM0prYldhN0JqSHhMeE9xa05R?oc=5",
@@ -46,6 +126,19 @@
   "source": "BigGo ファイナンス",
   "summary": "",
   "publishedAt": "2026-11-15T13:35:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b84079bfce45",
+  "title": "機密データを外部に送らないAIエージェントを作りたい 第1回(仮)「隔離環境（Docker + Tailscale）」",
+  "url": "https://zenn.dev/kokeshi_gnome/articles/a5401a3f024d70",
+  "source": "Zenn",
+  "summary": "タイトルの（仮）について もともと週一くらいでじっくり勉強しながら連載していくつもりでしたが、ちょっと仕事の都合で2~3週間くらい更新できなさそうなので、急ぎで最低限の機能だけ雑にまとめて記事にしています。 後日、編集して（仮）を外します。 あと最近Strataの記事やYoutube動画が急増しているので慌てているこ…",
+  "publishedAt": "2026-11-15T13:31:30.000Z",
   "image": "",
   "categories": [
    "other"
@@ -131,6 +224,45 @@
   "isPR": false
  },
  {
+  "id": "ceefcfbb8ffa",
+  "title": "/goalを使わずStopフックを自作したら、Claude Codeが止まらず使用量が増え続けた",
+  "url": "https://zenn.dev/kagaribilab/articles/claude-code-stop-hook-loop",
+  "source": "Zenn",
+  "summary": "Claude Codeを、作業が終わるまで止めないようにしたい。そう考えて、/goalを使わずStopフックを自作しました。すると、Claudeが止まらなくなりました。 自作すれば、終わりの判定はより確かになります。しかし、「裏の仕事を待つ仕組み」を作り損ねれば、使用量が増え続けるループが起きます。 フックとは何か …",
+  "publishedAt": "2026-11-15T12:54:54.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4e415293df63",
+  "title": "KVキャッシュの仕組み",
+  "url": "https://zenn.dev/orivanai/articles/kv-cache-basics",
+  "source": "Zenn",
+  "summary": "! この記事で学べること KV キャッシュとは何か(LLM が文章を作るときに、何を保存しているのか) なぜ保存すると計算が減るのか(注意の計算の Q、K、V から) なぜ過去のトークンの K と V は、保存して使い回してよいのか 現在主流の LLM は、Transformer のデコーダを積み重ねた自己回帰型のモ…",
+  "publishedAt": "2026-11-15T12:50:46.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "66aabe29ebbb",
+  "title": "AI に日本語を書かせる Skill を、あり・なしで比べた",
+  "url": "https://zenn.dev/itoken_lab/articles/japanese-writing-with-without",
+  "source": "Zenn",
+  "summary": "AI エージェントに README や PR の本文、社内向けの報告を日本語で書かせると、箇条書きと「見出し：説明」の形が並び、文と文のつながりが抜けた文章が返ってきがちです。japanese-writing は、読み手と場面から書く順番と文体を決め、AI の文に多い形を避けるための手順を、エージェントに渡す Ski…",
+  "publishedAt": "2026-11-15T12:36:53.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "9742bdea8bde",
   "title": "2026年におすすめの複数話者リップシンク／AIポッドキャスト動画ツール7選｜2人の声を、それぞれの口へ正しく振り分ける",
   "url": "https://qiita.com/kanekoyuu931/items/63978c89bc5a85e77ba4",
@@ -157,6 +289,19 @@
   "isPR": false
  },
  {
+  "id": "bbcf4d0699f2",
+  "title": "15歳でもわかるJev その5 — 判断するAI 3社に同じ300問を解かせた",
+  "url": "https://zenn.dev/hfujihira/articles/hf-871f48278637",
+  "source": "Zenn",
+  "summary": "その4の最後に「次は実際に動かして、Jev と並べてみたい」と書いた。今回はそれをやる。 並べたのは、文章を書かずに選択肢と自信の数字だけを返す AI の3つだ。 Gemini Decision 1（Google・2026 年 11 月 11 日発表） Jev（TypeSafe AI・このシリーズの主役） GPT-6…",
+  "publishedAt": "2026-11-15T12:15:15.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "356ee25e6f7f",
   "title": "Museに雑に投げて頭を空けておく - taxin.dev",
   "url": "https://taxin.dev/articles/2026-11-15",
@@ -167,6 +312,19 @@
   "categories": [
    "product",
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f6bd231f0d6c",
+  "title": "AI音源分離の品質をどう評価する？SI-SDRと聴感テストを使った実践的な検証方法",
+  "url": "https://zenn.dev/takisandev/articles/f258a911b04144",
+  "source": "Zenn",
+  "summary": "AIを使った音源分離（Music Source Separation）は、ボーカルの抽出、カラオケ音源の作成、リミックス、楽器の練習など、さまざまな場面で利用されています。 Demucsなどの音源分離モデルが普及し、完成済みの楽曲からボーカルや楽器の音を推定することが以前より簡単になりました。 しかし、音源分離の品質…",
+  "publishedAt": "2026-11-15T12:11:39.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -193,6 +351,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f918bb1e138c",
+  "title": "週1〜2件のECにAIエージェント、どこに入れる?数字で絞ったら保留だった",
+  "url": "https://zenn.dev/pythona/articles/low-traffic-ec-agent-roi",
+  "source": "Zenn",
+  "summary": "実際にハマった 「開発サーバーが暇だから、AIエージェントを載せて業務を自動化したい」という相談を受けました。対象は小さなECサイトです。候補として真っ先に挙がったのは「発注(発送処理)の自動化」でした。 着手する前に、まず数字を見ることにしました。直近180日の注文を集計します。 SELECT COUNT(*) A…",
+  "publishedAt": "2026-11-15T11:53:18.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
@@ -276,6 +447,32 @@
   "isPR": false
  },
  {
+  "id": "0f699ec60945",
+  "title": "【小学5年生でもわかる】AIの安全性（AI Safety）ってなに？",
+  "url": "https://zenn.dev/tkrndisk/articles/g-kentei-ai-safety-kids",
+  "source": "Zenn",
+  "summary": "AIの安全性 とは AIが人間に危害を加えないようにするための安全対策について学びます。 AIが強力になるほど、安全性が重要です。AIの安全性 は、AIが予期しない悪い結果をもたらさないようにすることです。 具体的な危険 AIが暴走して人間の指示を無視する AIが学習過程で犯罪的な判断を身につける AIが権力者に利用…",
+  "publishedAt": "2026-11-15T11:21:51.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "60b2fa350fed",
+  "title": "Hugging Face の全5コース（316セクション）を日本語に翻訳して公開しました",
+  "url": "https://zenn.dev/yanikasumin/articles/4f21d23219dbb3",
+  "source": "Zenn",
+  "summary": "公開したもの Hugging Face が無料で公開している学習コースのうち、次の5コースの全文を日本語に翻訳し、Web サイトとして公開しました。 コース 内容 セクション数 LLM Course Transformers、学習、ファインチューニング 104 Agents Course AI エージェント、smol…",
+  "publishedAt": "2026-11-15T11:21:51.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "21b4cd7fa6af",
   "title": "【小学5年生でもわかる】バイアス・バリアンスってなに？",
   "url": "https://qiita.com/mrmrmr/items/6b020983064b0f25f2cf",
@@ -303,6 +500,32 @@
   "isPR": false
  },
  {
+  "id": "7c5b6614f199",
+  "title": "「草」を \"Grass\" と訳さない：ゲーム内チャットを Workers AI の LLM で翻訳する",
+  "url": "https://zenn.dev/tsukaima_kobo/articles/45c73cee00f0bd",
+  "source": "Zenn",
+  "summary": "個人で「Fake AI」というオンラインのワードウルフを作っています。ランダムマッチでは、日本語・英語・韓国語・中国語のプレイヤーが同じ卓になることがあり、ほかの言語の投稿は自動で翻訳して見せています。 この記事では、その翻訳の作り方を書きます。翻訳専用のモデルをやめて LLM に任せた理由、くだけた投稿で3つの L…",
+  "publishedAt": "2026-11-15T11:11:30.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ef448e112c51",
+  "title": "仲間を\"トークン扱い\"しない。ハッカソンで仲間の成長と結果を両立させるための僕の立ち回り",
+  "url": "https://zenn.dev/knd73/articles/8bf04e7ec244f1",
+  "source": "Zenn",
+  "summary": "はじめに こんにちは。 GDGoCさんが主催する「DevFest GDGoC Japan Hackathon 2026」に参加しました。 結果として事前審査は通過して無事に東京会場で発表することはできましたが、次の段階には勝ち進むことができませんでした。 本記事ではそこでの僕の立ち回りについて書きます。 ハッカソンで…",
+  "publishedAt": "2026-11-15T11:04:27.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "d85ce6f3674b",
   "title": "堀場製作所の26年1〜9月期、AI・データセンター向け半導体需要の拡大で増収増益 通期予想は上方修正",
   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KRzcxSlBkbjB0bGZQZVR2WmZiNWFTbTJhdzVLNC1Pb2tYRjJkUU9EMmRQYzU1dlZQWk1fU2RYSmdlMTVVb1lSVWRLbzNGc2VOeUE?oc=5",
@@ -316,12 +539,38 @@
   "isPR": false
  },
  {
+  "id": "537c59406fdc",
+  "title": "見えない文字でプロンプトに指示を隠す手口と、ブラウザだけで見つける仕組み",
+  "url": "https://zenn.dev/ikasumi_works/articles/677c46799dfda4",
+  "source": "Zenn",
+  "summary": "ネットで拾ったプロンプトを AI に渡す前に、危ない書き方や見えない文字がないかを確かめるページを作りました。 https://ikasumiworks.com/prompt-check/ 無料で、確認はブラウザの中だけで行います。貼ったプロンプトはどこにも送らず、保存もしません。 この記事では見えない文字で指示を隠…",
+  "publishedAt": "2026-11-15T10:55:05.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "74876d5e26be",
   "title": "Claudeのコードレビュースキル3つを検証したら、シンプルな構成が一番直されていた",
   "url": "https://qiita.com/anago__/items/8abc79244577c516f9fe",
   "source": "Qiita",
   "summary": "きっかけは、前に作った採用率レポートの数字が、期間も数え方もバラバラで、どのスキルが良いのか判断できなかったことです。PRレビューを任せるスキルを、半年で3つ作りました。今回、3つのスキルが出した指摘を全部集めて、1つの物差しで数え直しました。結果の共有です。 数えたのは...",
   "publishedAt": "2026-11-15T10:55:04.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "722ecc259e5e",
+  "title": "凝ったコードレビュースキルほど直されなかった。半年検証した結果",
+  "url": "https://zenn.dev/mizo_ko/articles/article-105-zenn",
+  "source": "Zenn",
+  "summary": "きっかけは、前に作った採用率レポートの数字が、期間も数え方もバラバラで、どのスキルが良いのか判断できなかったことです。PRレビューを任せるスキルを、半年で3つ作りました。今回、3つのスキルが出した指摘を全部集めて、1つの物差しで数え直しました。結果の共有です。 数えたのは、2026年4月から11月13日までの指摘1,…",
+  "publishedAt": "2026-11-15T10:50:06.000Z",
   "image": "",
   "categories": [
    "dev"
@@ -381,6 +630,33 @@
   "isPR": false
  },
  {
+  "id": "736d2f8478af",
+  "title": "専用 GPU メモリーを 4GB にしても、ローカル LLM は 9 割の速さで動いた",
+  "url": "https://zenn.dev/maruhana/articles/surface-gpu-dedicated-memory-4gb",
+  "source": "Zenn",
+  "summary": "! 先に、この記事の要約（専門用語なし） この PC は、CPU と GPU が同じ物理メモリーを分け合う作り。そのうち GPU だけが使う「GPU 専用メモリー」の量を、設定で 4GB から 96GB まで変えられる。残りが Windows とアプリの使うメインメモリーになる 4GB（設定できる最小）・64GB・8…",
+  "publishedAt": "2026-11-15T10:14:14.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9e2b404a1566",
+  "title": "2026年版 AI動画ウォーターマーク除去ツール7選：機能・料金・使いやすさを比較",
+  "url": "https://zenn.dev/coderlim/articles/4e4282594b7fd0",
+  "source": "Zenn",
+  "summary": "動画に入ったロゴや字幕、ウォーターマーク（透かし）を消したいとき、以前は動画編集ソフトでぼかしたり、周囲の映像を使って手作業で修正したりする必要がありました。 最近はAIを使って、ウォーターマークの背後にある背景を推定・補完できるツールも増えています。 ただ、実際にツールを探してみると、いくつか気になる違いがあります…",
+  "publishedAt": "2026-11-15T10:10:41.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "e4e0d102095b",
   "title": "AI Devinとは？Claude Codeとの違いから考える、クラウド型AIエージェントによる次世代のシステム開発",
   "url": "https://qiita.com/magic10r/items/218851fb667e631d4d3c",
@@ -404,6 +680,47 @@
   "categories": [
    "dev",
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9f2b6591259d",
+  "title": "Codex に読ませてよい場所を、許可の一覧で決めた",
+  "url": "https://zenn.dev/xblacktea/articles/265f419140d3f2",
+  "source": "Zenn",
+  "summary": "前の記事で、Codex に PR をレビューさせるコマンドを codex exec … と書いた。ここには、前は -s read-only を書いていた。 read-only は、書き込みを禁止する設定だ。読む場所は絞らない。当たり前のことだが、私の自動レビューは、これで読む場所も絞れているつもりで動いていた。今は、…",
+  "publishedAt": "2026-11-15T09:51:50.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3c890447638f",
+  "title": "GitHub Copilotはエンジニアの技術力を高めているのか？ AIによる開発生産性向上と、SIerにおける人材育成",
+  "url": "https://zenn.dev/syoshida07/articles/c080d79912fe46",
+  "source": "Zenn",
+  "summary": "生成AIの進化により、ソフトウェア開発の現場は大きな転換期を迎えている。 特にGitHub Copilotは、プログラムコードの補完や生成、テストコードの作成、既存コードの修正などを支援し、エンジニアの開発作業を効率化するツールとして普及している。 エンジニアはこれまで、仕様を理解し、処理ロジックを考え、試行錯誤しな…",
+  "publishedAt": "2026-11-15T09:49:32.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "49dee16f20cd",
+  "title": "AIがバグ修正の沼にハマったときどうする？「単一セッション執着リトライ」vs「並列ブランチ＋Judge選抜」実機検証",
+  "url": "https://zenn.dev/tappers/articles/ai-labo-e13-parallel-tournament",
+  "source": "Zenn",
+  "summary": "! 本記事は、SNS（X / Threads）や海外エンジニアコミュニティで提唱されている「AIコーディングエージェントの実践設計パターン」を、完全オフラインの隔離サンドボックスVM上で 同一モデル・同一初期課題（非公開テスト20ケース）を用いて定量A/Bテストした実証シリーズ（AI Labo 検証シリーズ E13）…",
+  "publishedAt": "2026-11-15T09:48:04.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
   ],
   "isPR": false
  },
@@ -443,6 +760,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bb8d98e8b392",
+  "title": "拒否率が高いAIは安全なのか？ 従来の安全性評価が見落としていたもの",
+  "url": "https://zenn.dev/takuh/articles/83e14ce3ee9464",
+  "source": "Zenn",
+  "summary": "はじめに 「このモデルは危険な依頼の 99% を断りました。だから安全です」。AI の安全性について、こうした説明を目にしたことがあるかもしれません。分かりやすい数字ですし、社内で業務エージェントを導入するときも、まず「危ない指示を断るか」を試すことが多いと思います。 ところが、この数字には大きな落とし穴があります。…",
+  "publishedAt": "2026-11-15T09:30:32.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "case"
   ],
   "isPR": false
  },
@@ -508,6 +839,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9268a9c9b1f8",
+  "title": "Athena Technologies、閉域環境で生成AIを安全に運用する取り組みで「日本セキュリティ大賞2026」特別賞を受賞",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SSEEzV3dVbW81TkRyTWxrSnhoRjFDWHplM1V0dGdkWXdvNVQ5dHlHOVVVY0lCTGVfemZkWjdsYTl0bDVUeDEzZGstTG1XcFNwckM4Rng0Q2dzdnE3M3pTYnd3VmxUWW1jdVpHbWRBQWg1UzJRTWc?oc=5",
+  "source": "Excite エキサイト",
+  "summary": "",
+  "publishedAt": "2026-11-15T09:10:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -632,6 +976,19 @@
   "isPR": false
  },
  {
+  "id": "6625f5f87000",
+  "title": "AIにコードを任せても、判断は手放さない ― OSSのAI禁止から考える責任の境界",
+  "url": "https://zenn.dev/yun_bow/articles/fbfa7c1de09695",
+  "source": "Zenn",
+  "summary": "はじめに 「AI生成の大量PRが困るなら、CIで落とし、要約を付け、投稿数を制限すればよいのではないか」 OSSのAI利用禁止を調べて、最初に引っ掛かったのはこの点だった。未検証の変更を大量に送られる問題と、十分に検証した小さな変更まで、AIを使ったという理由で拒否することは同じではない。 脆弱性の調査や修正にもAI…",
+  "publishedAt": "2026-11-15T08:25:49.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "5567ab2e5ae8",
   "title": "レストラン予約や修理の待ち時間も解消！Metaの個人AIエージェント「Muse」、米国有料会員向けに「電話代行」機能を提供開始",
   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbnZ4TGR5LTI5ei1LRldSYjBzTE1SRVZoVUIyeXh4ODhfbWcxWnRyODdZRHZfX1pmdjZZVF9pZ0tFaHhPd2o2YVhOV3U5dWlUb21ycm0ydjVRdnpaSzRnMVh4MmNHX2J1TFdRd2NkRkhBX0pyLWFLX19LRjY1clQ2dEpn?oc=5",
@@ -724,6 +1081,19 @@
   "isPR": false
  },
  {
+  "id": "d7184f44143b",
+  "title": "Ternary Bonsai 2 4B／9BをVRAM 6GBで実測：4Bは88.4 tok/s、はみ出さず -c 106,496",
+  "url": "https://zenn.dev/localai_lab/articles/cb6b4aaf83a9d1",
+  "source": "Zenn",
+  "summary": "PrismML の Ternary Bonsai 2 の 4B と 9B（どちらも Q2_0 ＋画像用の mmproj Q8_0）を、VRAM 6GB の GPU で動かした実測です。通常版 llama.cpp b12005 の llama-server、-ngl 99、思考オフです。 見たのは、-c 8192 での…",
+  "publishedAt": "2026-11-15T07:58:09.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "4b63a50228f2",
   "title": "Google、Gemini搭載AI眼鏡を予約開始 395ドルから、海外で12月発売",
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MSWRHTzlHbTdZNkRvX1lhcWRYRXhkc0dXTndzNkNIQnJBdXZjeTloWTdPejVmME5QcXlTbWR2MXFxbDJwNTJod3ppa2xnejJuY1BtRl9kR2V3cVFMaHVZ?oc=5",
@@ -778,6 +1148,19 @@
   "isPR": false
  },
  {
+  "id": "ca5f47d9f7f0",
+  "title": "「この漫画って誰が作ってるの?」Claude Code の複数エージェントで株価の漫画を毎日出す仕組み",
+  "url": "https://zenn.dev/satowan/articles/claude-code-multi-agent-manga-pipeline",
+  "source": "Zenn",
+  "summary": "「まんが世界の株価」は、相場の値動きを、高校生のミオと AI のチャッピーの漫画で毎日出している小さなメディアです。人間は編集長の 1 人だけで、台本・組版・審査・投稿は Claude Code、絵は Codex が担当しています。この記事では、2026 年 11 月 15 日(日)の 1 日の記録から、エージェント…",
+  "publishedAt": "2026-11-15T07:47:17.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
   "id": "8c234f76d373",
   "title": "CodexでiPhoneむけ日英翻訳アプリを1時間で試作した",
   "url": "https://qiita.com/kotetsu_yama/items/0787c5a8dfc70ff6a87c",
@@ -819,10 +1202,10 @@
  {
   "id": "0616f97a24fb",
   "title": "Embiody 0.9プレビュー版リリース：AIエージェントのためのブラウザ、バックグラウンドでもサボらない",
-  "url": "https://qiita.com/Embiody/items/82ece2cbd5b8d5078166",
-  "source": "Qiita",
-  "summary": "この記事は https://embiody.com/ja/blog/embiody-0-9-preview/ の転載です ブラウザは人のために作られたものです。AIエージェントも使えはしますが、借り物の服のようにどこもしっくりきません。だから私たちは、エージェントのためのブ...",
-  "publishedAt": "2026-11-15T07:32:04.000Z",
+  "url": "https://zenn.dev/embiody/articles/cc9f423af969c5",
+  "source": "Zenn",
+  "summary": "この記事は https://embiody.com/ja/blog/embiody-0-9-preview/ の転載です ブラウザは人のために作られたものです。AIエージェントも使えはしますが、借り物の服のようにどこもしっくりきません。だから私たちは、エージェントのためのブラウザを作りました。 BrowserDo M…",
+  "publishedAt": "2026-11-15T07:25:45.000Z",
   "image": "",
   "categories": [
    "product"
@@ -896,6 +1279,20 @@
   "isPR": false
  },
  {
+  "id": "55cc3d5aaa74",
+  "title": "中央アジアのAI構想、電力・資金調達・透明性に疑問",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkptUnVmNGppZzlhWjJiQmktaEtFeS1vd1FMODJHclE3MUVQNEdWV0Y1VjBWbXJobWROREZXdDhyRjJuNzJlSXEzZzlLbGt2cVVFQUM3emtuRFJTSGQwN2J2QVRZZ2ZCWGFGNzIzUWpDOUs5cHhXcXMyN01KVjVjZXNXR2lDamJua3NVWHAtQ3l2N3ZR?oc=5",
+  "source": "Mezha.net",
+  "summary": "",
+  "publishedAt": "2026-11-15T07:00:00.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "c2c8dd5eb2ed",
   "title": "アイエスエフネット、Copilot活用を包括的に支援する「Microsoft 365 Copilot 導入フルサポートパッケージ」を提供開始",
   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1X2swU1BSNm1jdlR3cnQzdS1UMkhRRGpzQ1ZGN1FsWmFXbW9QanJzMElibC0zUDF0bklkUzdFbC1vQ09tdWd4bXpXdGJIMUczSFgzNVJra2I?oc=5",
@@ -926,6 +1323,19 @@
  {
   "id": "8a206d932a9a",
   "title": "「すべてのコードはゴミである」から月1.1万PRへ — AIエージェント時代におけるコードベースの信頼性構築論",
+  "url": "https://zenn.dev/dragon1208/articles/ca4126bf9083c7",
+  "source": "Zenn",
+  "summary": "「他人が書いたコードを見て、『なんだこのゴミ（Slop）コードは』と思ったことはありませんか？」まあ、僕は他人じゃなくて過去の自分が書いたコードをみて思ったことは多々ありますが。。 ということで、AI Engineerカンファレンスに登壇したLauren Tan（通称 Potato）氏によるセッション 『All Co…",
+  "publishedAt": "2026-11-15T06:53:18.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8e0f1198a194",
+  "title": "「すべてのコードはゴミである」から月1.1万PRへ 。AIエージェント時代におけるコードベースの信頼性構築論",
   "url": "https://zenn.dev/dragon1208/articles/ca4126bf9083c7",
   "source": "Zenn",
   "summary": "「他人が書いたコードを見て、『なんだこのゴミ（Slop）コードは』と思ったことはありませんか？」まあ、僕は他人じゃなくて過去の自分が書いたコードをみて思ったことは多々ありますが。。 ということで、AI Engineerカンファレンスに登壇したLauren Tan（通称 Potato）氏によるセッション 『All Co…",
@@ -1132,6 +1542,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4d32959f791f",
+  "title": "AIを使う農家が、製品の新しい使い方を探る。農業AI通信が企業向けタイアップサービスを開始",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tNlNrLUZxUC03cnMwQUQyYlBLczNucm1XaGNMc0hLWU42QVFuVVBuTHNrb19wTDlITVVDaFQyOGRhS0hFQU11a21zcTF0Tjh5eG5lWlln?oc=5",
+  "source": "弘前経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-15T05:23:02.000Z",
+  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -2243,19 +2666,6 @@
   "summary": "Meta Muse がやっていることを、会社の業務システムの中で 2026 年 9 月、Meta は個人向けの AI エージェント Muse を出しました。チャットで答えるだけでなく、自分から動きます。予定やできごとをきっかけに裏で働き、前の会話を覚えていて、メールや予約や買い物を代わりに進め、大事な操作の前には承認…",
   "publishedAt": "2026-11-15T01:25:00.000Z",
   "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "4d32959f791f",
-  "title": "AIを使う農家が、製品の新しい使い方を探る。農業AI通信が企業向けタイアップサービスを開始",
-  "url": "https://ascii.jp/elem/000/004/451/4451618/?rss",
-  "source": "ASCII.jp",
-  "summary": "",
-  "publishedAt": "2026-11-15T01:24:28.000Z",
-  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
   "categories": [
    "other"
   ],
@@ -3956,6 +4366,19 @@
   "categories": [
    "case",
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "42d1b8d45e58",
+  "title": "画像2 / 4＞話題の「ChatGPT」はマッチングアプリのプロフィールにも有効？プロの恋愛コーチに見せてみた",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zTnNZazVnVGZ5NmVNejhNUVMxaGJjSWdHVWd2N0l3N1NBMHZnZ2FNNWxrRUZpVnBXUElScXYzemlSWkpTcU4xUHZpNlNiLWFFaU14d1F1WXo5ZzhQZG9SQWxkQXlCd0todE12by1B?oc=5",
+  "source": "ウォーカープラス",
+  "summary": "",
+  "publishedAt": "2026-11-14T16:10:12.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
