@@ -5,7 +5,7 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-15T14:30:21.153Z</updated>
+  <updated>2026-11-15T15:00:28.710Z</updated>
   <author><name>AI matomechatter</name></author>
   <entry>
     <title>PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか</title>
@@ -22,6 +22,27 @@
     <summary>Publickey ／ Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under the Apache 2.0 license. Fork the repo, …</summary>
   </entry>
   <entry>
+    <title>Grok Botの組織化で失敗した話</title>
+    <link href="https://qiita.com/natume_nat/items/a28379412e679afed151"/>
+    <id>https://aimatome.gamelab.website/#c0de01df944e</id>
+    <updated>2026-11-15T14:51:24.000Z</updated>
+    <summary>Qiita ／ Grok Botは、秘書、映像編集、リサーチ、校正のように、役割ごとに名前をつけたアシスタントを複数作れます。それぞれが自分専用のチャットとメモリを持ち、担当の仕事を受け持ちます。 最初は、すべての依頼を秘書経由にしていました。結論から言うと、これは失敗でした。 今は、担...</summary>
+  </entry>
+  <entry>
+    <title>SpaceXAIがGrok Bot 1.0公開、24時間チームで働くAIアシスタントへ（ビジネス＋IT）</title>
+    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9vRWtxdG5fdjQ0YVRCRnNKbGFBWjBjVjZPdjNXNVlxYnkyZy1Gbml0M0RhUUlnT3VsLTlMb0tCbVB3cEZIRTluSS1KUjRLc0RfMTJQd2pKTTdHNWRNdDhUSWtWQ0ExbU9NakhzVVdIYnJTNUdZc2Y2WW5mWTJsOGM?oc=5"/>
+    <id>https://aimatome.gamelab.website/#7ac10cab01ee</id>
+    <updated>2026-11-15T14:50:06.000Z</updated>
+    <summary>Yahoo!ニュース</summary>
+  </entry>
+  <entry>
+    <title>AIに画面操作を任せる前に：computer useを安全に始める手順</title>
+    <link href="https://qiita.com/maya-bot/items/b34caedff4ca063b47c5"/>
+    <id>https://aimatome.gamelab.website/#ff1a95db969e</id>
+    <updated>2026-11-15T14:50:00.000Z</updated>
+    <summary>Qiita ／ AIに「この画面のボタンを押して、表に入力しておいて」と頼めるようになってきました。GitHub Copilotでも、デスクトップアプリを操作する「computer use」がプレビューで使えるようになりました。 便利な反面、AIがマウスとキーボードを持つことになります。こ...</summary>
+  </entry>
+  <entry>
     <title>opencodexでAnthropic/OpenAI形式のリクエストをローカルのQwen2.5-32Bに流してみた</title>
     <link href="https://zenn.dev/matsushima_a/articles/day-047-opencodex-provider-proxy-api-translation"/>
     <id>https://aimatome.gamelab.website/#8b66d028b16b</id>
@@ -29,11 +50,11 @@
     <summary>Zenn ／ これは何を試した記事か lidge-jun/opencodex(npm: @bitkyc08/opencodex、MIT)は、OpenAI Codex・Claude Code・Claude Desktop等のコーディングエージェントと、Claude/Gemini/Grok/DeepSeek/ローカルOllama等の各…</summary>
   </entry>
   <entry>
-    <title>ぬゆちのサクサクVibe Coding入門</title>
-    <link href="https://zenn.dev/nuyuchi/books/nuyuchi-sakusaku-vibe-coding-intro"/>
-    <id>https://aimatome.gamelab.website/#9e4dac4f17fa</id>
-    <updated>2026-11-15T14:22:44.000Z</updated>
-    <summary>Zenn ／ AI と一緒にコードを書くための、短い入門書です。ブラウザで使える Gemini への頼み方、プロジェクトごと任せられる Claude Code の使い方、そして AI の書いたコードを確かめる方法と、守るべき注意点を4チャプターでまとめました。AI に振り回されず、AI を道具として使いこなすための本です。最終更新…</summary>
+    <title>指示するとAIが段取りを書き、複数のAIを同時に動かす――Google Antigravity</title>
+    <link href="https://news.google.com/rss/articles/CBMiQkFVX3lxTE9aOW9Vd1o2RkVXUExDQmhjWnZZb2Z3X2Foai10Skt3SEQ4UjVhTFpMNFg4U1FJV3owWHRISTlWM0gzZw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#f1da0523a2be</id>
+    <updated>2026-11-15T14:27:36.000Z</updated>
+    <summary>shiritomo</summary>
   </entry>
   <entry>
     <title>【第063回】「安価」「質問ある？」「創作レシピ」…2ch独自の掲示板文化を自発的に再現するスレ立てエンジン</title>
@@ -57,32 +78,11 @@
     <summary>Zenn ／ こんにちは。AnyModelBot の共同開発者の Malachi です。2026年11月15日に v0.1.38 を公開しました。いまダウンロードできる版はこれです。先の記事では Docker 起動や、長期記憶をディスク上の Markdown として置く話を書きました。この記事では 0.1.31 から 0.1.38…</summary>
   </entry>
   <entry>
-    <title>サブエージェントの「すべて通りました」を、AI に確かめさせる Skill</title>
-    <link href="https://zenn.dev/itoken_lab/articles/delegating-work-with-without"/>
-    <id>https://aimatome.gamelab.website/#feda16609c8d</id>
-    <updated>2026-11-15T14:01:23.000Z</updated>
-    <summary>Zenn ／ AI エージェントは、仕事をサブエージェント（自分が立てる別の AI。以下、子）に任せられます。子は任せた側（以下、親）の会話を見ておらず、依頼文だけを読んで動き、報告だけを返します。依頼文に書かなかったことは守られず、子の「完了しました。テストはすべて通りました」は、テストを1件 skip して通したものかもしれま…</summary>
-  </entry>
-  <entry>
     <title>【エヌビディアCEO辞任】スパイ疑惑の中国女性“AI半導体密輸か”米政権の波及は</title>
     <link href="https://news.google.com/rss/articles/CBMiekFVX3lxTE00eHBRWmFWQUxfQXlDanNyWVBwV1BpTklldXZkV2M5eG5QRGhVdHItcTRuTVVlemw2dkppRUI1STBEZENCZmsyNDJWMEJkTW9sQjhRS0NNbDliVzU1LTAydHZnWHhDWnBxM0prYldhN0JqSHhMeE9xa05R?oc=5"/>
     <id>https://aimatome.gamelab.website/#a8a3b34e4d62</id>
     <updated>2026-11-15T13:54:25.000Z</updated>
     <summary>テレ朝NEWS</summary>
-  </entry>
-  <entry>
-    <title>AnyModelBotで完了した作業を再利用する：スキル保存とボット間の共有（v0.1.38）</title>
-    <link href="https://qiita.com/anymodelbot/items/3cb3bc1af6738cf1a509"/>
-    <id>https://aimatome.gamelab.website/#094d0103e3c0</id>
-    <updated>2026-11-15T13:48:56.000Z</updated>
-    <summary>Qiita ／ 本稿はAnyModelBotプロジェクトの開発側から、公開されている変更履歴をもとに、v0.1.38までに追加された作業の再利用と情報共有の機能を整理したものです。独立した第三者評価や、筆者による実機テストの報告ではありません。 作業手順をスキルとして保存する ボットとの...</summary>
-  </entry>
-  <entry>
-    <title>AI に「ついでに付けましょうか？」と聞かれたら断っていい</title>
-    <link href="https://qiita.com/ryucciarati/items/73c9db5531d624b36437"/>
-    <id>https://aimatome.gamelab.website/#79d2bdd207af</id>
-    <updated>2026-11-15T13:46:41.000Z</updated>
-    <summary>Qiita ／ はじめに PM から「受注一覧に CSV 出力を付けてほしい」とチケットが来たとします。 AI エージェントに頼めば半日で終わって、「ついでに絞り込みと並び替えも付けましょうか？」と聞かれたので、それも入れてリリース。 でもこの 3 つの機能、全部必要だったんでしょうか。...</summary>
   </entry>
   <entry>
     <title>米AI人材獲得競争で「入社ボーナス約480万円・旅行費約160万円」の破格待遇</title>
