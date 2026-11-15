@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-15T12:30:21.619Z",
+  "updatedAt": "2026-11-15T13:00:19.720Z",
   "site": {
     "title": "AI matomechatter",
     "tagline": "AI のニュースを、日本語の記事中心に毎日まとめています。",
     "url": "https://aimatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 470,
-  "todayCount": 147,
+  "total": 467,
+  "todayCount": 156,
   "categories": [
     {
       "id": "model",
@@ -17,7 +17,7 @@
     {
       "id": "product",
       "label": "製品・ツール",
-      "count": 98
+      "count": 102
     },
     {
       "id": "business",
@@ -27,7 +27,7 @@
     {
       "id": "policy",
       "label": "規制・法制度",
-      "count": 35
+      "count": 36
     },
     {
       "id": "case",
@@ -37,27 +37,27 @@
     {
       "id": "infra",
       "label": "インフラ・半導体",
-      "count": 73
+      "count": 74
     },
     {
       "id": "dev",
       "label": "開発・技術解説",
-      "count": 47
+      "count": 44
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 155
+      "count": 154
     }
   ],
   "sources": [
     {
       "name": "BigGo ファイナンス",
-      "count": 40
+      "count": 41
     },
     {
       "name": "Zenn",
-      "count": 32
+      "count": 31
     },
     {
       "name": "Yahoo!ニュース",
@@ -65,7 +65,7 @@
     },
     {
       "name": "日経クロステック",
-      "count": 24
+      "count": 26
     },
     {
       "name": "ZDNET Japan",
@@ -100,11 +100,11 @@
       "count": 10
     },
     {
-      "name": "ThinkIT",
+      "name": "はてなブックマーク",
       "count": 9
     },
     {
-      "name": "はてなブックマーク",
+      "name": "ThinkIT",
       "count": 8
     },
     {
@@ -129,10 +129,6 @@
     },
     {
       "name": "Chosunbiz",
-      "count": 5
-    },
-    {
-      "name": "ニコニコニュース",
       "count": 5
     },
     {
@@ -164,19 +160,15 @@
       "count": 4
     },
     {
+      "name": "ニコニコニュース",
+      "count": 4
+    },
+    {
       "name": "Moomoo",
       "count": 4
     },
     {
-      "name": "Infoseek",
-      "count": 4
-    },
-    {
       "name": "株式会社エクサウィザーズ",
-      "count": 4
-    },
-    {
-      "name": "Mezha.net",
       "count": 4
     },
     {
@@ -212,6 +204,10 @@
       "count": 3
     },
     {
+      "name": "Infoseek",
+      "count": 3
+    },
+    {
       "name": "時事ドットコム",
       "count": 3
     },
@@ -220,12 +216,16 @@
       "count": 3
     },
     {
-      "name": "shiritomo",
+      "name": "Mezha.net",
       "count": 3
     },
     {
       "name": "PC Watch",
       "count": 3
+    },
+    {
+      "name": "Universitat de Barcelona",
+      "count": 2
     },
     {
       "name": "JIJICO",
@@ -268,7 +268,7 @@
       "count": 2
     },
     {
-      "name": "NEC",
+      "name": "shiritomo",
       "count": 2
     },
     {
@@ -296,6 +296,10 @@
       "count": 1
     },
     {
+      "name": "千葉日報オンライン",
+      "count": 1
+    },
+    {
       "name": "ねとらぼ",
       "count": 1
     },
@@ -309,10 +313,6 @@
     },
     {
       "name": "DXマガジン",
-      "count": 1
-    },
-    {
-      "name": "Universitat de Barcelona",
       "count": 1
     },
     {
@@ -341,10 +341,6 @@
     },
     {
       "name": "OREFOLDER",
-      "count": 1
-    },
-    {
-      "name": "Unisba Media",
       "count": 1
     },
     {
@@ -392,6 +388,10 @@
       "count": 1
     },
     {
+      "name": "YouTube",
+      "count": 1
+    },
+    {
       "name": "pando.life",
       "count": 1
     },
@@ -424,10 +424,6 @@
       "count": 1
     },
     {
-      "name": "blockchain.news",
-      "count": 1
-    },
-    {
       "name": "Ledge.ai",
       "count": 1
     },
@@ -449,6 +445,10 @@
     },
     {
       "name": "エルミタージュ秋葉原",
+      "count": 1
+    },
+    {
+      "name": "NEC",
       "count": 1
     },
     {
@@ -544,10 +544,6 @@
       "count": 1
     },
     {
-      "name": "ニッチなPCゲーマーの環境構築Z",
-      "count": 1
-    },
-    {
       "name": "Publickey",
       "count": 1
     }
@@ -632,134 +628,6 @@
       ]
     },
     {
-      "id": "f7a64ebb54f3",
-      "title": "Gemini、Google Walletと連携して家計を分析--サブスクの値上げも検出",
-      "summary": "グーグルは米国時間11月13日、AIアシスタント「Gemini」で「Google Wallet」の情報を使い、支出の分析や予算づくりを支援する機能の提供を米国で開始した。ウェブ版とAndroid、iOS向けに順次展開する。現時点で日本では利用できない。",
-      "url": "https://japan.cnet.com/article/35254868/",
-      "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1359614-file.jpg",
-      "leadSource": "CNET Japan",
-      "publishedAt": "2026-11-15T11:44:00.000Z",
-      "sourceCount": 7,
-      "articleCount": 7,
-      "categories": [
-        "other",
-        "product"
-      ],
-      "keywords": [
-        "Gemini",
-        "Google",
-        "連携"
-      ],
-      "articles": [
-        {
-          "title": "Geminiが「あなたの家計」を読み始めた、銀行・カード口座も連携し米国の全ユーザーへ ｜FinTech Journal",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zWHVEeDBSZlVndWtRTFRUTG5lRkN6Z0VGdzhNVDFaVXoteHliQTB0cEFWUFMyRmRWOXB3RmcxM0ZDaVEzWnZoVlpxbVZERGM?oc=5",
-          "source": "ビジネス+IT",
-          "publishedAt": "2026-11-15T11:44:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Google WalletがGeminiと連携、米国で支出分析を読み取り専用で提供",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd1NpanVIUDhjZEVnRVkxN3RvRjVVbmE0bXBYaFJYclVSVXRNOF9uVnVmOTBUWVZRYVBOc3NIc1FqV29fTjJyUjZlTjRUeGphamtVVDNodlJQN3YtOE9NZEVHNVJlR3d2Si1ncHhSV29DNm1KOUtSSXBnc21Fd0pORjFR?oc=5",
-          "source": "Meteora Web",
-          "publishedAt": "2026-11-14T08:41:45.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Google Walletの統合がGeminiアプリに財務インサイトを提供",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Sl9nbTZBZTFILU5pcUNnRWRmQnQyd3JoX1gwXzE5YnFRc2c4cmI2Z3FDNW1PdG9QWTFiNlJGbThaS2VYUENxTmxISnhqWmhyX2JlUTU3X3M3Z0RQcHlJZjh0RlBZelZrZjd0cGRkWUhsRE5LcTR2bHlYMk5TUjQ?oc=5",
-          "source": "blockchain.news",
-          "publishedAt": "2026-11-14T05:56:59.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Google、Gemini のパーソナルインテリジェンスに Google ウォレットを連携。米国で支出の分析や予算の相談が可能に",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmpGSU92T192b21BeF9hVUtIX3djb2VHb1dtb2pqN0tZQU1HYTZCTlM1cG1lelVfM1g1SG1JZlNwTTl2YlIyNjFoZXdMZERZZnZvdXhndnlpNVZuMXBsSHc1U1A4bHd6dGhyQ0QyNE5EWnh1UUxOVi1fbHdIeEVvUjJRNjNkeGM?oc=5",
-          "source": "HelenTech",
-          "publishedAt": "2026-11-14T00:31:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Gemini、Google Walletと連携して家計を分析 サブスクの値上げも検出",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxUEZ1V0dxbTNHRElYRGxlVXZIY3hGaUU4a2VHMXhlSkRqaUNRV1IxU3FZdWR1MjM4UmhLR21iZkFhdTBYaDZNdVR0S2JMQ09uUVZqcFNNUGFOVG1MUTVN?oc=5",
-          "source": "千葉テレビ放送",
-          "publishedAt": "2026-11-13T21:57:15.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Gemini「パーソナル インテリジェンス」Google ウォレット追加【米国】",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTm5MOE9JNzVUNThEYkowQlBIY2gzdlM1MHdOUDN6Z0dxdGNJNUozbkNMRUdqSVkxWk96QVlMMy13MnFTbzFZbjA3aEZjR3VMVUVzZnItWlBqRDM1dXBWTjZyMXJ3WTFJTkhBNEZZRVltUmRWQl8tUm80a0dfYzhqbk5QTXg0NWZJeVc0RkdCc0EtcFk?oc=5",
-          "source": "Jetstream",
-          "publishedAt": "2026-11-13T20:11:48.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "9287d0c8ab1b",
-      "title": "「Microsoft 365」で13日未明から大規模障害、OutlookやTeamsなど全世界で利用しづらく",
-      "summary": "マイクロソフト（Microsoft）のクラウドサービス「Microsoft 365」で障害が続いている。「Microsoft 365」アプリをはじめ、メールサービス「Outlook」や「Teams」、AIサービス「Copilot」など広範囲のサービスに影響が及んでいる。",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156194.html",
-      "image": "",
-      "leadSource": "ケータイ Watch",
-      "publishedAt": "2026-11-14T06:51:00.000Z",
-      "sourceCount": 7,
-      "articleCount": 7,
-      "categories": [
-        "other",
-        "product"
-      ],
-      "keywords": [
-        "outlook",
-        "Copilot",
-        "障害"
-      ],
-      "articles": [
-        {
-          "title": "マイクロソフト「365」大規模障害の全面復旧を発表 世界各地で一時OutlookやCopilot使えず",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13RzhVLTVneFJ0UFhVanR6RlNodjhYYzZHVU5MZ3FJYm93VnIwSHhkaEw1U1BrQW8yNEg5dTJzY2gzS2h2RTBOZTFla0Fqdw?oc=5",
-          "source": "FNNプライムオンライン",
-          "publishedAt": "2026-11-14T06:51:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "マイクロソフト「365」で大規模障害 日本など広範囲で復旧も完全復旧は未定 世界各地で一時OutlookやCopilot使えず",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uLUNSOUw5WTJjV3lxRWlvOW9GN3MxbVQ4akhmSGd3S2pRQkhpYk5KWjF4YnR6WVpyUU93eTZrS0cyU2Fzc2sxWkllY09OdjFoQ2dPNk5FTGhiMFJ0b2hR?oc=5",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-11-14T03:05:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "更新：Microsoft 365で大規模障害、Outlook・Teams・Copilotにつながらず。日本は復旧に向かうも、完全解消はまだ",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VYk1OaGhWSHVYamZOUUp5Q0ZMRmJaWThYekN1aEFBbEJYZDVILWpfN09vV1FrRHBnXy13M3hBVTZ3ZjN5SEdkZkJIMjQxZzJaaEdzX3VDX1NMVm9NTDJF?oc=5",
-          "source": "千葉テレビ放送",
-          "publishedAt": "2026-11-13T21:26:25.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Microsoft Outlook、Teams、Copilotサービスが一部の国でダウン",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1HSFJnVFpLaktZOUtZdGpYSXUwYlFFY0I1MnhuWmExS1hTeW9IY2ZrRXZfakM5cEVDdkY1WkNRb3NxZ9IBQkFVX3lxTE1HSFJnVFpLaktZOUtZdGpYSXUwYlFFY0I1MnhuWmExS1hTeW9IY2ZrRXZfakM5cEVDdkY1WkNRb3NxZw?oc=5",
-          "source": "VOI.ID",
-          "publishedAt": "2026-11-13T17:14:53.000Z",
-          "isPR": false
-        },
-        {
-          "title": "マイクロソフトのOutlookとCopilot障害、サービス復旧の中2日目に突入 - ニュースと統計",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWZDUm1aWV9OSFcxOVNRaXF1aFo3NEVXcDdXVEhsaUFVMGZvdUpzOHczREJ6YzE1TklDY2FHSGgtWU1QeHBSRTVDclFHZndhNXVxeE5acGZPdGxLVXhrdVdURUI1OWYxVXdZYXV1WHQ4LXMyNXJBU3lLQkdIOE0xUllRNmhwX2pIMk5nTkREbERxcTFMcmxGaElDOA?oc=5",
-          "source": "IndexBox",
-          "publishedAt": "2026-11-13T13:10:20.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Microsoft 365、大規模障害。OutlookやOneDrive、Copilotなどで不具合。徐々に復旧か ［Update 10: 2026/11/13 PM21:33］",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OZk91Wm93RHc1TGZ3MXAyZ3N4UjV3NG1tZHZIUDBZVVFfYzRDRnoyVWtlYWRteFV0WGhJWmFucGY5azZ3U0dhWkVBd3NjU2RHZ0hGVTBPcEVNbW9nemJLXy1rN1Y?oc=5",
-          "source": "ニッチなPCゲーマーの環境構築Z",
-          "publishedAt": "2026-11-13T12:33:24.000Z",
-          "isPR": false
-        }
-      ]
-    },
-    {
       "id": "b15c4438c38e",
       "title": "黒船来襲！Claude Sheets の衝撃――会話だけでシートが作れる時代になった話",
       "summary": "はじめに ―― 「会話だけでシートが作れる時代」に本家が飛び込んできた 少し前、Anthropic から 「Claude Sheets」（ベータ版・2026年11月10日公開）が登場したことを知り、思わず画面の前で固まりました。 Excel も Google スプレッドシ...",
@@ -817,51 +685,114 @@
       ]
     },
     {
-      "id": "4dd55cd8e5ea",
-      "title": "小中高で検索・ＡＩ制限へ グーグル、来年導入か",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXYkRwNDhudm8zWE9JcUpjNUlzNmlSSXZwSzFGMC1tb2ZLZXJvWlZLaEx2TV9FZHlnT2kzZDh5ejl2Z1lYWTcwQ3EwamVDY3IzN3c?oc=5",
-      "image": "",
-      "leadSource": "山陽新聞",
-      "publishedAt": "2026-11-15T01:08:15.000Z",
-      "sourceCount": 5,
-      "articleCount": 5,
+      "id": "f7a64ebb54f3",
+      "title": "Gemini、Google Walletと連携して家計を分析--サブスクの値上げも検出",
+      "summary": "グーグルは米国時間11月13日、AIアシスタント「Gemini」で「Google Wallet」の情報を使い、支出の分析や予算づくりを支援する機能の提供を米国で開始した。ウェブ版とAndroid、iOS向けに順次展開する。現時点で日本では利用できない。",
+      "url": "https://japan.cnet.com/article/35254868/",
+      "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1359614-file.jpg",
+      "leadSource": "CNET Japan",
+      "publishedAt": "2026-11-15T11:44:00.000Z",
+      "sourceCount": 6,
+      "articleCount": 6,
       "categories": [
-        "case",
-        "model"
+        "other"
       ],
       "keywords": [
         "Gemini",
-        "hydrogen",
-        "Google"
+        "Google",
+        "連携"
       ],
       "articles": [
         {
-          "title": "グーグル、検索にGemini 4 Hydrogenを導入―複雑な質問の理解と視覚的な回答を強化",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VaFQzM1g4UG91c0NaMDFMX2JBaU5GY3NSck5ldzR2T3djTmNMNnhYR3FPZTNyVVo3NU5ISVRzZFVuWGVlWGZQb2N6anBRZEdzOEVQOW1GSjYwWDVpTUJCTXE5TdIBaEFVX3lxTFBUVE1uSTJTVGJidUF4UGlrdkJ4WEVPbXRzX29KV3paLUhUOUN2REJBal9qUUR6a0hXZ1ZnanlSTWxfM0tMd0ViWVF1eE5uZWpJNlNwTTFXcEQ5eHlmb0l5U2ZDdnNyWEUw?oc=5",
-          "source": "財経新聞",
-          "publishedAt": "2026-11-14T05:17:57.000Z",
+          "title": "Geminiが「あなたの家計」を読み始めた、銀行・カード口座も連携し米国の全ユーザーへ ｜FinTech Journal",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zWHVEeDBSZlVndWtRTFRUTG5lRkN6Z0VGdzhNVDFaVXoteHliQTB0cEFWUFMyRmRWOXB3RmcxM0ZDaVEzWnZoVlpxbVZERGM?oc=5",
+          "source": "ビジネス+IT",
+          "publishedAt": "2026-11-15T11:44:00.000Z",
           "isPR": false
         },
         {
-          "title": "Gemini 4 Hydrogenの初デモが登場、3D都市とエージェント群",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaHAxal95VWhNRnJpdGxWVDQ1SHBVS3BkNmhkT0tFamJxWGFaTmhqNWctTF9yTmdsZDc2eWJJd1l0MGE1aVlSLVFRQThsOVd4NTQyaWtZTlNKYUdvbkNOak5jTGlYS3Itd2NWWFY1d3RkeUVIV0s5RTE2ZUVKNjNhQjFLS2N1WndKM09CdE1qODJFQW8?oc=5",
-          "source": "Pasquale Pillitteri",
-          "publishedAt": "2026-11-13T17:04:20.000Z",
+          "title": "Google WalletがGeminiと連携、米国で支出分析を読み取り専用で提供",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd1NpanVIUDhjZEVnRVkxN3RvRjVVbmE0bXBYaFJYclVSVXRNOF9uVnVmOTBUWVZRYVBOc3NIc1FqV29fTjJyUjZlTjRUeGphamtVVDNodlJQN3YtOE9NZEVHNVJlR3d2Si1ncHhSV29DNm1KOUtSSXBnc21Fd0pORjFR?oc=5",
+          "source": "Meteora Web",
+          "publishedAt": "2026-11-14T08:41:45.000Z",
           "isPR": false
         },
         {
-          "title": "Googleの新AI「Gemini 4 Hydrogen」。作業スピードが2.5倍に",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00c0gzTGlSc1Fpd0xvV1pEQWwtd0FJMDgxbXhVWEZkVkN4Ti1XcmlCSE5lWUx0MkN0Q09hb0ZwLTBmMUVuenRoS1BENkFCMWEySHhONmlBVWt5UFplTVZ5dUh0VDQ?oc=5",
-          "source": "Gizmodo",
-          "publishedAt": "2026-11-13T13:45:00.000Z",
+          "title": "Google、Gemini のパーソナルインテリジェンスに Google ウォレットを連携。米国で支出の分析や予算の相談が可能に",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmpGSU92T192b21BeF9hVUtIX3djb2VHb1dtb2pqN0tZQU1HYTZCTlM1cG1lelVfM1g1SG1JZlNwTTl2YlIyNjFoZXdMZERZZnZvdXhndnlpNVZuMXBsSHc1U1A4bHd6dGhyQ0QyNE5EWnh1UUxOVi1fbHdIeEVvUjJRNjNkeGM?oc=5",
+          "source": "HelenTech",
+          "publishedAt": "2026-11-14T00:31:20.000Z",
           "isPR": false
         },
         {
-          "title": "Google、高速・低コストの新AI「Gemini 4 Hydrogen」発表。無料ユーザーにも提供（ビジネス＋IT）",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JWEU5dVhvcUNLQkg0ZUx1RTBmeGE0Z2pobUNMYW1KYVVRa0NIRkdxekFlSERkQzBJY0ZTLWRDU0ZMY0hGZnlIUEZhQ3BXY1haVHVnVk55Sm13czRyRVVNTDlzX1BTVV9iRlk3LVFRVXd1SUpQV2ZjR25MUmVNc2M?oc=5",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-13T13:05:06.000Z",
+          "title": "Gemini、Google Walletと連携して家計を分析 サブスクの値上げも検出",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxUEZ1V0dxbTNHRElYRGxlVXZIY3hGaUU4a2VHMXhlSkRqaUNRV1IxU3FZdWR1MjM4UmhLR21iZkFhdTBYaDZNdVR0S2JMQ09uUVZqcFNNUGFOVG1MUTVN?oc=5",
+          "source": "千葉テレビ放送",
+          "publishedAt": "2026-11-13T21:57:15.000Z",
+          "isPR": false
+        },
+        {
+          "title": "Gemini「パーソナル インテリジェンス」Google ウォレット追加【米国】",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTm5MOE9JNzVUNThEYkowQlBIY2gzdlM1MHdOUDN6Z0dxdGNJNUozbkNMRUdqSVkxWk96QVlMMy13MnFTbzFZbjA3aEZjR3VMVUVzZnItWlBqRDM1dXBWTjZyMXJ3WTFJTkhBNEZZRVltUmRWQl8tUm80a0dfYzhqbk5QTXg0NWZJeVc0RkdCc0EtcFk?oc=5",
+          "source": "Jetstream",
+          "publishedAt": "2026-11-13T20:11:48.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "9287d0c8ab1b",
+      "title": "「Microsoft 365」で13日未明から大規模障害、OutlookやTeamsなど全世界で利用しづらく",
+      "summary": "マイクロソフト（Microsoft）のクラウドサービス「Microsoft 365」で障害が続いている。「Microsoft 365」アプリをはじめ、メールサービス「Outlook」や「Teams」、AIサービス「Copilot」など広範囲のサービスに影響が及んでいる。",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2156194.html",
+      "image": "",
+      "leadSource": "ケータイ Watch",
+      "publishedAt": "2026-11-14T06:51:00.000Z",
+      "sourceCount": 6,
+      "articleCount": 6,
+      "categories": [
+        "other",
+        "product"
+      ],
+      "keywords": [
+        "outlook",
+        "Copilot",
+        "障害"
+      ],
+      "articles": [
+        {
+          "title": "マイクロソフト「365」大規模障害の全面復旧を発表 世界各地で一時OutlookやCopilot使えず",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13RzhVLTVneFJ0UFhVanR6RlNodjhYYzZHVU5MZ3FJYm93VnIwSHhkaEw1U1BrQW8yNEg5dTJzY2gzS2h2RTBOZTFla0Fqdw?oc=5",
+          "source": "FNNプライムオンライン",
+          "publishedAt": "2026-11-14T06:51:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "マイクロソフト「365」で大規模障害 日本など広範囲で復旧も完全復旧は未定 世界各地で一時OutlookやCopilot使えず",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uLUNSOUw5WTJjV3lxRWlvOW9GN3MxbVQ4akhmSGd3S2pRQkhpYk5KWjF4YnR6WVpyUU93eTZrS0cyU2Fzc2sxWkllY09OdjFoQ2dPNk5FTGhiMFJ0b2hR?oc=5",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-11-14T03:05:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "更新：Microsoft 365で大規模障害、Outlook・Teams・Copilotにつながらず。日本は復旧に向かうも、完全解消はまだ",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VYk1OaGhWSHVYamZOUUp5Q0ZMRmJaWThYekN1aEFBbEJYZDVILWpfN09vV1FrRHBnXy13M3hBVTZ3ZjN5SEdkZkJIMjQxZzJaaEdzX3VDX1NMVm9NTDJF?oc=5",
+          "source": "千葉テレビ放送",
+          "publishedAt": "2026-11-13T21:26:25.000Z",
+          "isPR": false
+        },
+        {
+          "title": "Microsoft Outlook、Teams、Copilotサービスが一部の国でダウン",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1HSFJnVFpLaktZOUtZdGpYSXUwYlFFY0I1MnhuWmExS1hTeW9IY2ZrRXZfakM5cEVDdkY1WkNRb3NxZ9IBQkFVX3lxTE1HSFJnVFpLaktZOUtZdGpYSXUwYlFFY0I1MnhuWmExS1hTeW9IY2ZrRXZfakM5cEVDdkY1WkNRb3NxZw?oc=5",
+          "source": "VOI.ID",
+          "publishedAt": "2026-11-13T17:14:53.000Z",
+          "isPR": false
+        },
+        {
+          "title": "マイクロソフトのOutlookとCopilot障害、サービス復旧の中2日目に突入 - ニュースと統計",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbWZDUm1aWV9OSFcxOVNRaXF1aFo3NEVXcDdXVEhsaUFVMGZvdUpzOHczREJ6YzE1TklDY2FHSGgtWU1QeHBSRTVDclFHZndhNXVxeE5acGZPdGxLVXhrdVdURUI1OWYxVXdZYXV1WHQ4LXMyNXJBU3lLQkdIOE0xUllRNmhwX2pIMk5nTkREbERxcTFMcmxGaElDOA?oc=5",
+          "source": "IndexBox",
+          "publishedAt": "2026-11-13T13:10:20.000Z",
           "isPR": false
         }
       ]
@@ -1152,48 +1083,101 @@
       ]
     },
     {
-      "id": "a080390ed680",
-      "title": "Perplexity、Teammates AIエージェントをMacに導入",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdXBCTlhUYWV2bE9wal85NV9ucV9WNVQ2aWhsaWNZTzhnTkl4TTJtQ3oyTnU3d1YtOVBuTGRubTZkWnlOSzBpdzVWc01TM2FwNW01Rm9zY1VtdXlHTkFRaklDZWVudUprcDEyZVFXWXRCc1g4TG82Y0dMRnhKNEhWdUVQRQ?oc=5",
+      "id": "512d45c1dcb4",
+      "title": "全文が最も正確。それでも記憶でクラウド費用は3分の1──ローカル×クラウドLLMを472問で比較",
+      "summary": "会話の全文を毎回渡す方式が、最も正確で、しかも最速でした。それでも記憶を使う理由は、クラウドLLMの費用を約3分の1に抑えられたからです。 私が開発しているAIエージェント向け記憶サーバーでは、過去の会話から記憶を作る処理と、その記憶を使って質問に答える処理を分けています。記憶の作成・検索・採点は手元のGPUマシンで…",
+      "url": "https://zenn.dev/kaguraai/articles/36106e4c3931f4",
       "image": "",
-      "leadSource": "news.lavx.hu",
-      "publishedAt": "2026-11-14T13:18:51.000Z",
+      "leadSource": "Zenn",
+      "publishedAt": "2026-11-15T04:43:12.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
-        "case"
+        "infra",
+        "other"
       ],
       "keywords": [
-        "エージェント",
-        "導入"
+        "llm"
       ],
       "articles": [
         {
-          "title": "AIエージェントからの「確認疲れ」を減らす仕組み、別のAIが承認か差し戻しかを決定―AWS Quickが導入",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOX3ZwMnFoU29rY08wZXBJNFZWLXUxSmR2SDE0RUVhWUlvNzZzSWNaUnZJQVpOVm04ZmRkaGRwREk3ZmE3YUh6dXRiUDFIWDVsTGFCNFVGSS1WMDBsMldrRG9ncTFjUmZJ?oc=5",
-          "source": "GameBusiness.jp",
-          "publishedAt": "2026-11-13T21:45:03.000Z",
+          "title": "ChatGPTの会話を手元に残すには｜AIやサービスが変わっても困らないように｜淵之上政俊",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJNjR1bmN6THJaNzEwU0o2ZFluLVhrMWNxMk02dzI0dnFndnZMX3NiakdXVjN2Q0QtOXFicFpmTksyTnBYYkNUMzB4bnVOTWFOeWlVN1BZQmdXemtwM0NXdFdyT2lNQQ?oc=5",
+          "source": "JIJICO",
+          "publishedAt": "2026-11-15T03:04:22.000Z",
           "isPR": false
         },
         {
-          "title": "AIエージェント導入の判断基準 何を委ね、何を委ねないか",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3VU5XcWxHTmhWZ0pEb0EySmtQMmR3aDZqTXFCV2N3bk9aM0JNZ1UtWGtWSkV4UlFjZlFJdmhiQVUzNVVOd1RNWTFQc0ZHanJpUEkycGI3bzY0aHVTcGZJ?oc=5",
-          "source": "日経クロステック",
-          "publishedAt": "2026-11-13T18:46:58.000Z",
+          "title": "LLMトレーシングツールが今、AIゲートウェイを構築している理由",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzbW5KN3AtclEyWVpUd1lONHlCOUJMR3owZHJXbW1kNjlMWUNQOG9MYVVTQlpyZk1mcHMwTm9Zc1dXbHgtY1h5aW9rTW1qZWxWS0plcWV5V3V2MURMczRxMGZNMGVweUFnQzBGUw?oc=5",
+          "source": "Unite.AI",
+          "publishedAt": "2026-11-13T15:49:25.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
+      "id": "2cc8f5f242d5",
+      "title": "日本語入力システムSumibiの開発 part36: Gemini Decisions APIでも変換トリガーを測ってみた",
+      "summary": "はじめに part30では、Sumibiのアンビエント変換（自動トリガー）の判定役として、JevとOpenAIのDecisions APIを比較しました。 今回はその続きです。PR #214にて、Googleの**Gemini Decisions API（gemini-decision-1）**でも同じ1,207打鍵…",
+      "url": "https://zenn.dev/kiyoka/articles/japanese-input-method-sumibi-36",
+      "image": "",
+      "leadSource": "Zenn",
+      "publishedAt": "2026-11-15T03:12:45.000Z",
+      "sourceCount": 3,
+      "articleCount": 3,
+      "categories": [
+        "product",
+        "model"
+      ],
+      "keywords": [
+        "Gemini",
+        "Google",
+        "hydrogen"
+      ],
+      "articles": [
+        {
+          "title": "Googleの新AI「Gemini 4 Hydrogen」。作業スピードが2.5倍に",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00c0gzTGlSc1Fpd0xvV1pEQWwtd0FJMDgxbXhVWEZkVkN4Ti1XcmlCSE5lWUx0MkN0Q09hb0ZwLTBmMUVuenRoS1BENkFCMWEySHhONmlBVWt5UFplTVZ5dUh0VDQ?oc=5",
+          "source": "Gizmodo",
+          "publishedAt": "2026-11-13T13:45:00.000Z",
+          "isPR": false
+        },
+        {
+          "title": "Google、高速・低コストの新AI「Gemini 4 Hydrogen」発表。無料ユーザーにも提供（ビジネス＋IT）",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JWEU5dVhvcUNLQkg0ZUx1RTBmeGE0Z2pobUNMYW1KYVVRa0NIRkdxekFlSERkQzBJY0ZTLWRDU0ZMY0hGZnlIUEZhQ3BXY1haVHVnVk55Sm13czRyRVVNTDlzX1BTVV9iRlk3LVFRVXd1SUpQV2ZjR25MUmVNc2M?oc=5",
+          "source": "Yahoo!ニュース",
+          "publishedAt": "2026-11-13T13:05:06.000Z",
           "isPR": false
         }
       ]
     }
   ],
   "churn": {
-    "previousAt": "2026-11-15T12:00:24.218Z",
-    "previousCount": 475,
-    "newCount": 43
+    "previousAt": "2026-11-15T12:30:21.619Z",
+    "previousCount": 470,
+    "newCount": 34
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-15T13:00:21.619Z",
+  "nextUpdateAt": "2026-11-15T13:30:19.720Z",
   "items": [
+    {
+      "id": "9742bdea8bde",
+      "title": "2026年におすすめの複数話者リップシンク／AIポッドキャスト動画ツール7選｜2人の声を、それぞれの口へ正しく振り分ける",
+      "url": "https://qiita.com/kanekoyuu931/items/63978c89bc5a85e77ba4",
+      "host": "qiita.com",
+      "source": "Qiita",
+      "summary": "先に結論から。1枚の写真から2人掛けのトーク、対話シーン、デュエットを作りたいなら、2026年の最適解は FreeLipSync です。2つの顔にセリフと声を個別に割り当て、おのおのの口を独立して同期できるので、写真1枚から2人組のポッドキャスト動画まで組み立てられます。長...",
+      "publishedAt": "2026-11-15T12:34:03.000Z",
+      "image": "",
+      "categories": [
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
     {
       "id": "b15c4438c38e",
       "title": "黒船来襲！Claude Sheets の衝撃――会話だけでシートが作れる時代になった話",
@@ -1209,7 +1193,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7183e92804f5",
@@ -1226,7 +1210,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ff410b320db5",
@@ -1243,7 +1227,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "051ef5172ff6",
@@ -1280,23 +1264,6 @@
       "isNew": false
     },
     {
-      "id": "c9f4d9c04af1",
-      "title": "Pythonで〇×ゲームのAIを一から作成する その254 NumPy の「次元の削減」と「ブロードキャストによる次元の拡張」を利用した ε-greedy 法の判定精度の推移の計算",
-      "url": "https://qiita.com/ysgeso/items/ffdccba31b14796b2ba4",
-      "host": "qiita.com",
-      "source": "Qiita",
-      "summary": "目次と前回の記事 Python のバージョンとこれまでに作成したモジュール 本記事のプログラムは Python のバージョン 3.13 で実行しています。また、numpy のバージョンは 2.3.5 です。 リンク 説明 marubatsu.p...",
-      "publishedAt": "2026-11-15T11:45:04.000Z",
-      "image": "",
-      "categories": [
-        "case"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": false
-    },
-    {
       "id": "4ac277d2a755",
       "title": "Geminiが「あなたの家計」を読み始めた、銀行・カード口座も連携し米国の全ユーザーへ ｜FinTech Journal",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zWHVEeDBSZlVndWtRTFRUTG5lRkN6Z0VGdzhNVDFaVXoteHliQTB0cEFWUFMyRmRWOXB3RmcxM0ZDaVEzWnZoVlpxbVZERGM?oc=5",
@@ -1329,6 +1296,41 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3eb79fdef646",
+      "title": "Cohere、日本におけるソブリンAI導入拡大に向け投資を強化",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1aSlZlREJmRmtWM25PY3NMdW5YeS14TEFHOUFqMFBrN25sczdFS2Q2VEtzMlhKVzRhOGRSbTNZRGd1M3BwU0JKT01LekhFakRRVTVpdERB?oc=5",
+      "host": "chibanippo.co.jp",
+      "source": "千葉日報オンライン",
+      "summary": "",
+      "publishedAt": "2026-11-15T11:24:06.000Z",
+      "image": "",
+      "categories": [
+        "business",
+        "case"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "2531e6db2d4b",
+      "title": "TOP無検閲ChatGPT AI完全プラットフォーム＆",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPODlYZkd1b3BlRXdReHNGd1RQVGhmekM4NnYtQk5rYUI5NGhXekV4MHZQSXNTcS1uMkVIZUxYcUFWSUw2R1djLXhpM1FhNmhSa3ZkRjdTOW5ad3FIdlBLOHFwRUVLYTRlczdKYURHZU0yMlZ1ajZJSWJCOWZDMmZwTmYzdHd1UENZdHRUNktLSmlCaFlQQVUxa3pIQmJvTlRaRDhPOU9YSG9rWVp1TVZ0QjFKY0tBaU5hcGFaTWRDV1FmRTRsLXRoOXNiYjNtM2VMVnozWXNyZ3NYMHlxSk9BZEhoakkzUmc1TUZCM1lrWTNlbXg5TXd4MXJteWxkdE1VWFVrYU1ac0Z6TUxKT0UyN0pTa3ZnUmM?oc=5",
+      "host": "ub.edu",
+      "source": "Universitat de Barcelona",
+      "summary": "",
+      "publishedAt": "2026-11-15T10:46:27.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "7ff399bc1203",
@@ -1551,6 +1553,24 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "f104bdb8bdfd",
+      "title": "米政府がヘリウムを特定重要物質に指定 AIと半導体生産の生命線",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NUXFFY1NPazhIbFdPNWh4UFV0WnFTd190aXl0TjdfYlRLQ0dwOG5keXBzS2FBaDNKZGQ2V3Z4SzZTVTdsNWZ1el9kMG9XM2xDR3hUTGo2MHhySk8zeGFVZ1BDaVdyZjBRZkpqakxkdmxENzBJZzVjSWh0TWFHaFk?oc=5",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-15T08:30:00.000Z",
+      "image": "",
+      "categories": [
+        "policy",
+        "infra"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -1742,7 +1762,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6b5c064dcc0e",
@@ -1866,6 +1886,23 @@
       "isNew": false
     },
     {
+      "id": "e2d07019b495",
+      "title": "インフルエンサーのプロンプトを\"自分の悩み\"に置き換えたら、2時間でクローゼットアプリが完成した",
+      "url": "https://zenn.dev/ttk1010/articles/motteinai-dev-prompt",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "まず、できあがったもの 服を買いに行くと、結局どれを買えばいいかわからず、似た服や、手持ちと合わせづらい服を買ってしまう。この悩みを解決するクローゼット管理アプリ Motteinai（「もったいない（mottainai）」と「持っていない」を掛けた名前）を作りました。 店で服を撮ると、クローゼットの中身すべてと比べて…",
+      "publishedAt": "2026-11-15T05:26:01.000Z",
+      "image": "",
+      "categories": [
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
       "id": "ecc7381a67a8",
       "title": "NVIDIA、「AIの中央銀行総裁」を交代：ジェンスン・フアン氏退任の裏側、算力争奪と輸出規制の連鎖反応",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95STZNbVRkdkVzb3gwV3dVWnVMRm82VGRCTDBoaTlvOVhUclJOSzl6YVpaZS1vVl9xQnFycy1Udmo3eGdzRGVzRVlPYmgxeGIwNEJTWEFuUVBvQQ?oc=5",
@@ -1901,6 +1938,57 @@
       "isNew": false
     },
     {
+      "id": "9c99418d6753",
+      "title": "LEGO BoostをROS 2×AIエージェントで動かすまで ― 設計・校正・自然言語操作の全記録",
+      "url": "https://zenn.dev/masato13/articles/de48a5a3597d24",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "LEGO BoostをROS 2×AIエージェントで動かすまで ― 設計・自然言語操作の全記録 「ベースを10度右に回して」とチャットに書くと、LEGOのロボットアームが動く。 この記事はおもちゃのLEGO Boost 17101（クリエイティブ・ツールボックス）を2自由度のロボットアームに組み替え、ROS 2 Ja…",
+      "publishedAt": "2026-11-15T04:47:40.000Z",
+      "image": "",
+      "categories": [
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "7b5b3bcafa03",
+      "title": "テストを先に決めてAIに任せる C# Web API 自学カリキュラム（在庫台帳）",
+      "url": "https://zenn.dev/kenshi_lab/books/12f1d74a8bf7a0",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "C#の基本文法が分かるエンジニアが、AIと1人で「在庫台帳のWeb API」を作る自学用カリキュラムです。人がテストを先に決め、AIが実装し、テストの合否で完了を判定する進め方を、Issue（人がレビューする単位）とAIタスク（AIに1回で任せる単位）の2段で練習します。基本設計・詳細設計・WBSを前提に、Issue…",
+      "publishedAt": "2026-11-15T04:45:27.000Z",
+      "image": "",
+      "categories": [
+        "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "512d45c1dcb4",
+      "title": "全文が最も正確。それでも記憶でクラウド費用は3分の1──ローカル×クラウドLLMを472問で比較",
+      "url": "https://zenn.dev/kaguraai/articles/36106e4c3931f4",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "会話の全文を毎回渡す方式が、最も正確で、しかも最速でした。それでも記憶を使う理由は、クラウドLLMの費用を約3分の1に抑えられたからです。 私が開発しているAIエージェント向け記憶サーバーでは、過去の会話から記憶を作る処理と、その記憶を使って質問に答える処理を分けています。記憶の作成・検索・採点は手元のGPUマシンで…",
+      "publishedAt": "2026-11-15T04:43:12.000Z",
+      "image": "",
+      "categories": [
+        "infra"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
       "id": "76b38b3773ec",
       "title": "OpenAI、ChatGPT Walletを開始 AIエージェントが本物のカード番号を見ずに支払い",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iZ1huMjhha3hYT0VsOWduLXNsSGJKajhQaWhONjExSXI1TFlFYmRWZXppM1VEWlc2S2dIZXl5Tk1HMlg3Q2luR1M0Vk9LMWM5R3Jn?oc=5",
@@ -1933,6 +2021,93 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5c07a98a201a",
+      "title": "開発エージェントの実行履歴を、もう一度解ける評価ケースにする",
+      "url": "https://zenn.dev/shimpeiws/articles/5e0df5eeb398fb",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "! 保存していた初期要求と開始SHAから、同じタスクを再実装・採点するための入力を揃えられた Trace2Eval論文を参考に、過去の仕事を別セッションで解き直し、採点できる評価ケースを1件作った記録だ はじめに ソフトウェアファクトリのような開発エージェントを動かす仕組みを作っていると、モデルやハーネス、指示の与え…",
+      "publishedAt": "2026-11-15T04:33:37.000Z",
+      "image": "",
+      "categories": [
+        "model",
+        "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "1c99ab1eca09",
+      "title": "「Pickle」は他のAIチャットと何が違う？自律実行と継続タスクの使い勝手、はじめ方まで",
+      "url": "https://zenn.dev/ai_agent_note/articles/eb0e2683bbc05a",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "「Pickle」を一言でいうと Pickleは、個人の代わりに予定管理・ブラウザ操作・電話・定期監視などを進めてくれるパーソナルAIエージェントです。Pythonの pickle モジュールとは無関係で、こちらは「自分の生活の外側で働き続けるAI」のほうです。 名前だけ聞くと「またチャットAIの一種でしょ」と思いがち…",
+      "publishedAt": "2026-11-15T04:30:32.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "5ab53f2b40c1",
+      "title": "日常タスクを丸投げできるAIエージェント「Muse」を試した所感と、トークンを無駄にしないコツ",
+      "url": "https://zenn.dev/ai_agent_note/articles/a32b147a7f87be",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "はじめに Metaの「Muse」は、2026年10月23日から日本でも使えるようになった個人向けのAIエージェントです。「チャットで相談する相手」ではなく、「頼んだ作業を最後まで進めてくれる相手」として作られていて、予約・フォーム入力・買い物の下調べ・メールの下書きなどを代わりにやってくれます。 この記事は、しばらく…",
+      "publishedAt": "2026-11-15T04:27:11.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "68781aa3ec7e",
+      "title": "GPUなしで記憶サーバーを本番運用。さくらのAI Engineへの移行と、残っていたOpenAI呼び出し",
+      "url": "https://zenn.dev/kaguraai/articles/9e0acb7ed0f71d",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "GPU を常時動かさずに、AI エージェント向けの記憶サーバーを本番運用しています。 私が開発している OSS の Kagura Memory Cloud では、記憶の埋め込み、重複・更新の判定、夜間の整理、分析に使う AI を、さくらの AI Engine に移しました。サーバー側に GPU はなく、現在は Ope…",
+      "publishedAt": "2026-11-15T04:23:33.000Z",
+      "image": "",
+      "categories": [
+        "infra"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "4fb9d0699d61",
+      "title": "1回のforward passで「選ぶ」Decision Model入門：主要モデルの読み出し方式・ライセンス・言語対応を整理する",
+      "url": "https://zenn.dev/tatsuyaaaaaaa/articles/bca426b2c830d1",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "背景 業務システムの中には、LLMに文章を書かせる必要がなく、あらかじめ決まった選択肢から1つ選べばよい処理が数多くあります。 問い合わせや案件を既定のカテゴリに振り分ける エージェントがどのツール・どのモデルを呼ぶかを決める 「この条件を満たしているか」をYes/Noで判定する 候補の優先度を段階評価する これをチ…",
+      "publishedAt": "2026-11-15T04:16:36.000Z",
+      "image": "",
+      "categories": [
+        "product",
+        "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
     },
     {
       "id": "99ccacff6b33",
@@ -1971,6 +2146,75 @@
       "isNew": false
     },
     {
+      "id": "dd8da531e77e",
+      "title": "1つのAPIキーでX、Reddit、TikTokとWebスクレイピング：AIエージェント向け従量課金の実践",
+      "url": "https://zenn.dev/openany/articles/6246c587bbe391",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "本記事は OpenAny チームが書いており、OpenAny は当社のプロダクトです。実際に投げたリクエスト、かかった金額、途中で踏んだ失敗もそのまま書いてあるので、同じ手順を試すにも、別の手段を選ぶにも使えるはずです。 先に結論です。 AI エージェントに、公開されているソーシャルデータ（X の投稿、Reddit …",
+      "publishedAt": "2026-11-15T03:51:51.000Z",
+      "image": "",
+      "categories": [
+        "product",
+        "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "5592826addf4",
+      "title": "いま実際にダウンロードされているオープン LLM はどれか: 直近 30 日のダウンロード数で見るリーダーボード",
+      "url": "https://zenn.dev/vidraft/articles/9e72c8c103eaa0",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "要約 Global LLM Download Leaderboard は、Hugging Face の公開言語モデルを「いま実際にダウンロードされている量」で順位付けします。基準は累計ではなく直近 30 日のダウンロード数です。世界の上位 300 と韓国の上位 30 を掲載し、毎日更新します。2026 年 11 月 …",
+      "publishedAt": "2026-11-15T03:47:05.000Z",
+      "image": "",
+      "categories": [
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "8009da047bba",
+      "title": "NVIDIAジェンスン・フアン電撃辞任：ジョブズやアルトマンのような「電撃復帰」はあるのか？",
+      "url": "https://zenn.dev/lumichy/articles/jensen-huang-resignation-nvidia-analysis-2026",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "時価総額数兆ドル、世界のAIコンピューティング基盤の8割以上を牛耳る「AI帝国の皇帝」が、突如として玉座を追われました。 2026年11月12日、NVIDIAの共同創業者であり33年間にわたりトップに君臨し続けてきたジェンスン・フアン（Jensen Huang）CEOが、社長、CEO、および取締役を即日辞任すると発表…",
+      "publishedAt": "2026-11-15T03:44:09.000Z",
+      "image": "",
+      "categories": [
+        "infra"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "a2e686acab95",
+      "title": "Museで「テスト日程カレンダー」を作りました",
+      "url": "https://zenn.dev/edtech_guild/articles/9446875d0a2819",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "この記事は、合同会社Edtech-Guildの代表ブログに掲載した記事をもとに、Zenn向けに再編集したものです。 元記事：Museで「テスト日程カレンダー」を作りました みなさま、こんにちは。合同会社Edtech-Guild代表の藤井です。 AIエージェントのMuseを使って、塾の業務で使う「テスト日程カレンダー」…",
+      "publishedAt": "2026-11-15T03:41:52.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
       "id": "fa5ce52653af",
       "title": "AIを、まるっと履く。日常業務・顧客対応・営業・PRまで支える「AIパンツ」提供開始！！",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WOUVab2pHd1dfX20wWUJXTmdTWlQ0QTNzb0ZQWXllTU9HcWxsQVA1ekc4b2s0bTVSc20tVjBrV1RiT1Z6NjdEVW5uUmNNeW81UUZiZF9lTDhJTVhzZGQwUGpReGlhZ0VYbmJ1aDQyZ0g4NXBY?oc=5",
@@ -2004,6 +2248,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c3f118c48cde",
+      "title": "スレッドを直接触るな、と言われた。Kotlinのコルーチンにベテランが戸惑った話",
+      "url": "https://zenn.dev/shinchi007/articles/ac73aa54197409",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "連載『C言語育ちのベテランが、AI片手にKotlinとSwiftを学んだ記録』第3回 結論から言うと Kotlinで次に面食らったのは、非同期処理の考え方でした。結論を先に書くと、こういうことです。 コルーチンは「軽いスレッド」ではなく、「中断と再開ができる関数（suspend関数）」を軸にした仕組み スレッドを自分…",
+      "publishedAt": "2026-11-15T03:36:55.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
     },
     {
       "id": "eb1ac2b07ada",
@@ -2040,6 +2301,75 @@
       "isNew": false
     },
     {
+      "id": "5be90be52cb3",
+      "title": "llama.cpp 1.0入門 ― ローカルLLMの心臓部がついに安定版に。手元のPCでAIを動かすまでを実測する",
+      "url": "https://zenn.dev/ikesita/articles/28574a5a6f6833",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "AIツールウォッチ第3回 / 検証日：2026-11-14 / 検証対象：llama.cpp v1.0.0（タグ v1.0.0、コミット b1b770d、ビルド b12359） ※「実測」と書いたものは検証環境で実際に測った値、「公式値」と書いたものは開発者の公開資料（Hugging Faceブログ・GitHubリリ…",
+      "publishedAt": "2026-11-15T03:19:51.000Z",
+      "image": "",
+      "categories": [
+        "product",
+        "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "ca6d9872f730",
+      "title": "1人法人の仕事をAIアシスタントにどこまで任せているか——開発・営業・発信の分け方",
+      "url": "https://zenn.dev/cpcai/articles/b86f9f575fbf55",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "はじめに 韓国・ソウルで1人法人（株式会社CPC AI）をやっています。受託開発、自分のアプリ、マーケティング、経理まで、全部ひとりです。 この記事は「AIアシスタントに仕事をどこまで任せているか」という話です。結論から言うと、任せている範囲は広く、任せていない範囲は狭い。その線の引き方が、1人で回すための肝でした。…",
+      "publishedAt": "2026-11-15T03:18:33.000Z",
+      "image": "",
+      "categories": [
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "2cc8f5f242d5",
+      "title": "日本語入力システムSumibiの開発 part36: Gemini Decisions APIでも変換トリガーを測ってみた",
+      "url": "https://zenn.dev/kiyoka/articles/japanese-input-method-sumibi-36",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "はじめに part30では、Sumibiのアンビエント変換（自動トリガー）の判定役として、JevとOpenAIのDecisions APIを比較しました。 今回はその続きです。PR #214にて、Googleの**Gemini Decisions API（gemini-decision-1）**でも同じ1,207打鍵…",
+      "publishedAt": "2026-11-15T03:12:45.000Z",
+      "image": "",
+      "categories": [
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "0126dcf74704",
+      "title": "残業は、AIがする。",
+      "url": "https://zenn.dev/aizangyobu/books/ai-zangyo-claude-code",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "Claude Code実践入門。Claude Codeに仕事を安全に任せるための「型」とテンプレートをまとめた実践書です。作業を小さく分ける、先に計画を出させる、確認ポイントを挟む、結果を検証する——この4つの型を軸に、Planモード、権限設定、サブエージェント、Hooks、秘密情報の除外設定、プロンプトインジェクシ…",
+      "publishedAt": "2026-11-15T03:12:09.000Z",
+      "image": "",
+      "categories": [
+        "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
       "id": "3e330939a6f4",
       "title": "サイボウズ、kintone新機能「プロセスAIエージェント」と新製品「Orito」構想を発表",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xOHBYVTY0Mkw1QWNlZUhDbnR0UXlSakNLTl9VSlZHd2VaclE5a09SZ1NRT0pCUXRQREZaLVZVcFZvVGROZWx6cE54d1BmMTZlcHk2aWdB?oc=5",
@@ -2055,6 +2385,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "80ddc36607ca",
+      "title": "MCP と Skill の違いを、人に説明できるようになる",
+      "url": "https://zenn.dev/aimori/articles/a56208c004116c",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "Claude Code を使っていると、「MCP と Skill って何が違うの？」と聞かれる場面が増えてきました。どちらも Claude Code を拡張する仕組みですが、足すものがまったく違います。 この記事では、その違いを 「人に説明できる」レベル まで整理します。結論を先に書くと、こうです。 足りないもの 使…",
+      "publishedAt": "2026-11-15T03:08:01.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
     },
     {
       "id": "a39d61ee273c",
@@ -2074,6 +2421,23 @@
       "isNew": false
     },
     {
+      "id": "be54f577812f",
+      "title": "Decision Model「Winnow-12B」を試してみる：メールの往復から現在の条件を判断し、確認メールを書く",
+      "url": "https://zenn.dev/nakanishitf/articles/4c7c2c9b19bd6a",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "メールが何往復もした後で、結局どう決まったのか これまで、Decision Modelを使って文章、画像、音声などから候補を選ぶ例を試してきました。 今回は、Winnow-12Bを使って、日本語のメールのやり取りを整理してみます。 注文の数量を増やそうかと相談した後で、やはり元の数量に戻す。 届け先だけ変更したものの…",
+      "publishedAt": "2026-11-15T03:05:12.000Z",
+      "image": "",
+      "categories": [
+        "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
       "id": "60412b9cebb1",
       "title": "ChatGPTの会話を手元に残すには｜AIやサービスが変わっても困らないように｜淵之上政俊",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJNjR1bmN6THJaNzEwU0o2ZFluLVhrMWNxMk02dzI0dnFndnZMX3NiakdXVjN2Q0QtOXFicFpmTksyTnBYYkNUMzB4bnVOTWFOeWlVN1BZQmdXemtwM0NXdFdyT2lNQQ?oc=5",
@@ -2089,6 +2453,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1240659e925f",
+      "title": "OAuth の WebView 判定と Custom Tabs 振り分け",
+      "url": "https://zenn.dev/ryoitabashi/articles/2026-11-15-dev-ja",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "画像は AI 生成のイメージです Shelly の当時のアプリ内 WebView 経路では、Google OAuth のサインイン UI が描画されなかった。Shelly の記録では、Google OAuth が X-Requested-With によって WebView を検出し、サインイン UI の描画を拒んだ。…",
+      "publishedAt": "2026-11-15T03:04:07.000Z",
+      "image": "",
+      "categories": [
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
     },
     {
       "id": "e6fb1b36c93f",
@@ -2107,6 +2488,24 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "c3ff8e8554c2",
+      "title": "AIで.NET Framework 4.8の基幹処理を6カ月→5週間に：米農作物保険会社の「検証ハーネス先行」手順",
+      "url": "https://zenn.dev/soliperse/articles/d6b53c6b209134",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "「コードを書くのは問題ではなかった。旧システムと1行単位で一致すると証明するのが問題だった」——今回の事例で一番刺さったのはこの一文です。 米国の農作物保険会社ProAg（東京海上HCCグループ）は、見積・保険金請求・契約管理の大半をWindows専用の.NET Framework群で動かしてきました。10年以上積み…",
+      "publishedAt": "2026-11-15T02:56:29.000Z",
+      "image": "",
+      "categories": [
+        "dev",
+        "business"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
     },
     {
       "id": "64f05c1972f0",
@@ -2196,6 +2595,24 @@
       "isNew": false
     },
     {
+      "id": "29d10bcbc89b",
+      "title": "Java 11の約15万行を「4日」でJava 21＋Jakarta EE 10へ",
+      "url": "https://zenn.dev/soliperse/articles/760725dbb69503",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "「AIにJavaのバージョンアップを任せたら、ビルドは通ったのに画面が動かない」。そんな経験がある方に読んでほしい国内の公開事例です。 AWSジャパンのソリューションアーキテクトが2026年10月6日、AIエージェントに移行作業を“決められた手順で”進めさせるワークフロー「AI Modernization Flow（…",
+      "publishedAt": "2026-11-15T02:49:28.000Z",
+      "image": "",
+      "categories": [
+        "product",
+        "case"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
       "id": "783da3bbedbd",
       "title": "米国株の売りは終了したのか？ S&P 500と半導体株が2027年に向けて乖離する中、ウォール街でAIバブル論争",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNekd3T0ZFMTI1WE5zdkhYOTFTX3NVSk1pd3hTdDltMmdmRkdpdDlLWXZWOEVvZnl2RHEwaEZXSEtEQmdWS1dCTmJobXIwZGpfYnNXQjlRdjFUd0I4X1Bld2U1OFdEODFaRG5sbTFmdGJSa1RVeWdrUHFGT1RtVG5RTkhSaEpyTFp5RzdCb3VIOEZSSzRLUWFFVUdWTy1pdm9nSjJwUHBrZkRRN1RucVBONWxVbkxPdXNVU2NKQ0I3LTllS3oyNTU0MUsxUmNyakJ4YW1SbUJMSjF1MVMtWTlMOA?oc=5",
@@ -2211,23 +2628,6 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "4460c71b6dd9",
-      "title": "AnthropicがClaude Opus 5.5を発表！Fable 5.1並みの性能で費用は約4割減と説明 Sporting Life 10k (InBahtZVc8)",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMlhRZWF5SXlnak00WWxfZnF0VjZSMUxZMVBVT3haN3RwZFNmZnhwRkQ4NTJ3czlBQ0s3S0VJME5LQ1BleE84aFA5MEVQYjRkcmlDdHVGRUM0c0dWMFd0WWVwaTJRbV9ZMENlMkMxUHFzUmRsQjBCekRqamVPeWxyRTB6RDU3QjJu?oc=5",
-      "host": "media.unisba.ac.id",
-      "source": "Unisba Media",
-      "summary": "",
-      "publishedAt": "2026-11-15T02:38:43.000Z",
-      "image": "",
-      "categories": [
-        "model"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "660959584d99",
@@ -2265,6 +2665,24 @@
       "isNew": false
     },
     {
+      "id": "8e8a32eb0f8a",
+      "title": "グラフ用ツールを作らず、AI エージェントの回答にグラフを埋め込む",
+      "url": "https://zenn.dev/kellyzhang/articles/d634f82bafe19c",
+      "host": "zenn.dev",
+      "source": "Zenn",
+      "summary": "はじめに 本記事では、AI エージェントのチャット回答に、棒・横棒・折れ線・円・ドーナツ・散布図を埋め込む仕組みを紹介します。 特徴は、グラフ描画専用のツール（Function Calling）を追加しないことです。 エージェントは、回答の Markdown に JSON を含む chart コードブロックを出力しま…",
+      "publishedAt": "2026-11-15T02:30:59.000Z",
+      "image": "",
+      "categories": [
+        "product",
+        "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
       "id": "f52a1285a0af",
       "title": "コードはすべてAI--非プログラマーの筆者がiPhoneアプリをApp Storeで公開するまでの13日間",
       "url": "https://japan.cnet.com/article/35254571/",
@@ -2281,23 +2699,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "3e111e2726fa",
-      "title": "OpenSpecで始める仕様駆動開発 ── チームに入れる前に考えたこと",
-      "url": "https://zenn.dev/pnrnc485/articles/20e0b2a6ff6674",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "はじめに Claude Code などのAIコーディングエージェントで開発していると、こんなことが起きがちです。 「何を作るか」がチャット履歴の中にしかなく、セッションをまたぐと消える 実装が終わった後、なぜその仕様になったのかを誰も説明できない AIに渡した指示と実際の挙動がずれても、立ち返る文書がない OpenS…",
-      "publishedAt": "2026-11-15T02:21:55.000Z",
-      "image": "",
-      "categories": [
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
     },
     {
       "id": "a79a8a8d3894",
@@ -2351,23 +2752,6 @@
       "isNew": false
     },
     {
-      "id": "24c6118c95b4",
-      "title": "ブラウザ操作をAIに任せて踏んだ、順序とUIの罠4つ — 日時ピッカー・並び替わるダイアログ・簡体字",
-      "url": "https://zenn.dev/zeroyen_dev/articles/browser-automation-order-traps",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "note への投稿を Claude Code（＋ブラウザ拡張）に任せています。記事の本文を流し込み、図を入れ、見出し画像を設定し、予約投稿まで押させます。 コードのバグより、UIの順序で失敗しました。しかも全部、スクリーンショットを撮らないと気づけない形で失敗します。踏んだものを4つ置きます。 1. 日時ピッカーは「…",
-      "publishedAt": "2026-11-15T02:11:52.000Z",
-      "image": "",
-      "categories": [
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
       "id": "0763f0d43c4a",
       "title": "韓国、税理士試験首席合格者がAI不正を自白…「会計士試験も同じ手口」",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01TkprUno1X3kxWGQtSmlybUlsRndZYVp1UGNPeWMyS3dFRmRqaUVTbnJTQ2JHOUhwMVI5RWNmWGxoLUZheGU1REpBbllPQkJfS2J2eGJicllqRl9KekIwSWotbV80LWNCdm1uNXVqZHMxbVB5?oc=5",
@@ -2417,23 +2801,6 @@
       "viaGoogle": false,
       "sourceKind": "tech",
       "isNew": false
-    },
-    {
-      "id": "b99d1a1cf390",
-      "title": "「うるさくない店がいい」を検索語に翻訳する、旅行計画の Claude Code スキルを作った",
-      "url": "https://zenn.dev/airspace_nobo/articles/trip-harness-claude-code-skill",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "旅行の宿や店を AI と一緒に選びたい人に向けた記事です。 「うるさくない店がいい」「大きいホテルは嫌」のような曖昧な好みを、AI が検索語と確認事項に翻訳して候補を比べる Claude Code のスキル trip-harness を作りました。 何をするスキルか、どう入れるか、実際に使うと何が返ってくるかを書きま…",
-      "publishedAt": "2026-11-15T02:03:17.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
     },
     {
       "id": "9462d01922c5",
@@ -2605,7 +2972,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f848856dd8d9",
@@ -2622,41 +2989,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
-    },
-    {
-      "id": "c258eca2d97c",
-      "title": "OutSystems 11 の MCP で、Claude Code に画面を作らせてみた",
-      "url": "https://zenn.dev/dorag/articles/o11-mcp-claude-code",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "はじめに 2026年10月、OutSystems 11（O11）の Service Studio に MCP Server が入りました。Claude Code などの AI エージェントが、Service Studio で開いているモジュールを読み、変更を提案できるようになる機能です。 公式の説明を読んでも、次の3…",
-      "publishedAt": "2026-11-15T01:16:37.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
-      "id": "b7721c1c6542",
-      "title": "FHマクロで値を残す場所の選び方——一時変数・グローバルデータ・システムデータ・VarSaveのスコープと保存",
-      "url": "https://zenn.dev/kensho_ya/articles/fh-macro-data-scope-global-system-varsave",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "FHマクロで、計測のたびに数を数えたり、前回の値と比べたりしたくなると、その値をどこに置くかを決める必要が出てくる。連載の4本目では、一時変数は処理ユニットを跨がないことと、持ち回す先の候補を短く並べた。#17 では、SetUnitDataで書いた値が電源を切ったあとも残るのかが分からない、と書いた。 この記事では、…",
-      "publishedAt": "2026-11-15T01:08:26.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4dd55cd8e5ea",
@@ -2710,6 +3043,23 @@
       "isNew": false
     },
     {
+      "id": "ff27ff5b965a",
+      "title": "韓国LG Uplus、来年AIトークン事業を本格化…「請求書削減」で勝負",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VVlpRWnNNZ1dUclpjaHVlY2hBYTZ3YUlRS01uNkc3Vnhhc09NRHBvb2ZDTmlJV0plc25aOVBYek1aWjN3Y01MckNwNTkxZm1fREs0VUN0WWlNM1JCTHM0MXN5MTMyN2lfU0EtRVZFbWNNN0dY?oc=5",
+      "host": "finance.biggo.jp",
+      "source": "BigGo ファイナンス",
+      "summary": "",
+      "publishedAt": "2026-11-15T00:55:00.000Z",
+      "image": "",
+      "categories": [
+        "case"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "716485bef0de",
       "title": "Gartner「2030年までにAIによる雇用が170万件純増、ただし5人に1人は職務再編」",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5STkt3S3dFeWU5aWhNdzA3dmNZMkV0UUpaeW0zbWs2WXRRQzNQNnpTenpfLUdBWjFyVlJtX0NpZUN2TEQzMnlDcW1BQjdDOTNkdERaY29JT3ZLdU0taWRmOTlLblk2c09qaVlEcUttQmRiWFgw?oc=5",
@@ -2725,23 +3075,6 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "fff3337e1bb4",
-      "title": "議論の記録を後から検証できる形で残すには、判断の根拠を共有する設計メモ",
-      "url": "https://zenn.dev/onelifevibe/articles/6ef89c0713c3fe",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "政策や社会のテーマでは、結論だけが共有され、途中で置かれた前提や反対意見が消えてしまうことが少なくありません。後から振り返る人にとって大切なのは、誰が何を根拠に、どの前提で判断したかを確認できることです。この記事では、議論の記録を後から検証できる形で残すための、判断の根拠を共有する設計の考え方を整理します。 1. 前…",
-      "publishedAt": "2026-11-15T00:54:02.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
     },
     {
       "id": "d1aacdc887ce",
@@ -2761,41 +3094,6 @@
       "isNew": false
     },
     {
-      "id": "ae2b40c8f35f",
-      "title": "AIが買い物まで代行。ChatGPT Walletが始まった",
-      "url": "https://zenn.dev/sugawara_ai/articles/ai-news-20261114",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "2026年11月14日（土）のAIニュース完全解説版。図解を見れば本文を読まなくても分かる形にしています。 今日の一番の話は、AIがレジの手前まで進むようになったことです。OpenAIが、本人の承認つきでAIが購入まで終わらせる仕組みを始めました。ほかに、NVIDIAの社長交代がAI企業のお金の流れに響きそうな話、N…",
-      "publishedAt": "2026-11-15T00:19:25.000Z",
-      "image": "",
-      "categories": [
-        "infra",
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
-      "id": "1a7d2119f938",
-      "title": "AIの回答が長すぎて、理解しないまま実装している問題（理解負債）",
-      "url": "https://zenn.dev/kent_code/articles/5892898be90cac",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "主に C#/.NET で業務システムを作って25年くらいになります。ここ1年ほどは、設計の相談も実装も Claude Code と一緒にやっています。 便利なのは間違いないんですが、使えば使うほどストレスも溜まっていました。返ってくる情報の量が膨大で、頭がついていかないんです。 つまり、回答が長すぎて、理解が追いつか…",
-      "publishedAt": "2026-11-15T00:19:17.000Z",
-      "image": "",
-      "categories": [
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
       "id": "fffcfa61ef47",
       "title": "現代百貨店がChatGPT連携でAI購買拡大",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aRFpVWWVDczJra3BLcWpjN2s4NS0wTzlZVG1saG5IUl93aFdteVRmamxMS3VSUDc4eFY1d0htal9RRUloTEVVVHBCLVVWTW1Sc2xja1d5ZUVfX3VrbDBoRVF3VlFpSXhSaDA4UVJQYXJJbzQza19VWDhnUjF1dGPSAZMBQVVfeXFMUGdnNVRTbEllVVJneXRsUlRkSGpDUjVOOW9lZHlTUURwUVAyeDRZZ0YwWU0yTlVOUUw3eWtCUGVORngxajFIMlZCa0xCbFMtUmN6WEswUXVJMU5RMDFtbENkb0JiQjduVVAzUE1SMmdVd2s0VGN2UkFKWnBHaVFKUXdaR2duZGRYWkgxMTBWWXlCSEFR?oc=5",
@@ -2811,24 +3109,6 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "86471adba1d2",
-      "title": "Claude Codeと7週間で、コーネル式ノートのWebアプリを作って公開するまで",
-      "url": "https://zenn.dev/spring1293/articles/0a196cadb5942b",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "! この記事の要点 Claude Codeに実装をほぼ任せて、コーネル式ノートのWebアプリを約7週間で作り、公開しました 「設計書を先に作り、承認してから実装してもらう」仕様駆動開発で進めました 公開に向けては、規約・退会・問い合わせ・SEOなど、作る以外の準備も一通りClaude Codeに相談しながら進めました…",
-      "publishedAt": "2026-11-15T00:12:33.000Z",
-      "image": "",
-      "categories": [
-        "product",
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
     },
     {
       "id": "83d20bd61fb9",
@@ -2848,24 +3128,6 @@
       "isNew": false
     },
     {
-      "id": "f4d4a9978ced",
-      "title": "CLAUDE.mdが手順書になってきたら：スキルに切り出す目安と、置き場所の決め方",
-      "url": "https://zenn.dev/ryuyanishino/articles/16c7cdb166a048769887588957ffd475",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "CLAUDE.mdに「リリースの手順」「API ドキュメントの書き方」を足していくと、いつの間にか関係のない作業のたびに毎回読み込まれる長いファイルになります。たとえば、バグ修正を頼むだけなのに、12行のリリース手順が毎回文脈に入っている、という状態です。 この手順をスキルに移すかどうかは、Claude Codeの公…",
-      "publishedAt": "2026-11-15T00:09:29.000Z",
-      "image": "",
-      "categories": [
-        "product",
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
       "id": "60afdd834c6e",
       "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
       "url": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/",
@@ -2882,40 +3144,6 @@
       "viaGoogle": false,
       "sourceKind": "curated",
       "isNew": false
-    },
-    {
-      "id": "b7c22e9bcd4a",
-      "title": "AI にコードを読ませて設計意図を推測させたら、3つ外れた",
-      "url": "https://zenn.dev/tomnotelog/articles/design-intent-guesses-missed-retrospective",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "はじめに 授業ノートを作るリポジトリを、Claude Code にコードと git log から読んでもらいました。 「なぜこう作ったのか」の仮説を立ててもらい、それを私に質問してもらう。そんな形のふりかえりです。 仮説は3つ外れました。 外れた中身より、外れたこと自体が収穫。ここではその3つを順に書きます。 仮説と…",
-      "publishedAt": "2026-11-15T00:00:05.000Z",
-      "image": "",
-      "categories": [
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
-      "id": "bc2aa39e3785",
-      "title": "Claude Codeに役割分担させる『部制』の考え方｜CLAUDE.mdと連絡箱で受け渡す運用",
-      "url": "https://zenn.dev/wadome_do/articles/claude-code-team-dev-kit",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "Claude Codeに大きな開発を任せると課題が変わります。 コードを書く速さは問題になりにくいです。 難しくなるのは作業の受け渡しです。 セッションが変わると前提は残りません。 別の作業を同じセッションへ混ぜると変更範囲も広がります。 そこで私は Claude Code の役割を「部」に分けました。 1つのセッシ…",
-      "publishedAt": "2026-11-14T23:58:52.000Z",
-      "image": "",
-      "categories": [
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
     },
     {
       "id": "2fb5f70afb9a",
@@ -3020,7 +3248,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4d5590a05218",
@@ -3038,74 +3266,6 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "d553540bdb59",
-      "title": "仕様作成をivvyとOpus単独で比べてみた",
-      "url": "https://zenn.dev/daimo0120/articles/ba68474ee80ef2",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "穴は少し減ったが、有利とまでは言えない はじめに llm-ivvy(以下 ivvy)は、Claude が作ったものを GPT にレビューさせる仕組みです。流れは「要望 → 仕様作成(Fable)→ 仕様レビュー → 人の承認 → 生成(Opus)→ コードレビュー(GPT Sol)」です。 この記事はシリーズの第3回…",
-      "publishedAt": "2026-11-14T23:00:05.000Z",
-      "image": "",
-      "categories": [
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
-      "id": "c4d53520dced",
-      "title": "Gemini Decision 1 で学校行事のカレンダー判定を 7 割安くした（選ぶ AI と書く AI を分ける）",
-      "url": "https://zenn.dev/hiroyamayu/articles/gemini-decision-calendar",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "わが家では、学校や幼稚園のお便りから行事を取り出し、家族の Google カレンダーに毎晩入れています。この「どの予定を、誰のカレンダーに入れるか」の判定に、Google が 11 月 11 日に出した Gemini Decision 1 を組み込みました。 判定 1 回の費用は約 10 円から約 3 円になり、これ…",
-      "publishedAt": "2026-11-14T23:00:05.000Z",
-      "image": "",
-      "categories": [
-        "case"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
-      "id": "021f4cf2a866",
-      "title": "Tech Watch 2026-11-15: 道具と検証の境界",
-      "url": "https://zenn.dev/laiken/articles/20261115-tech-watch",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "AIが書きました🤖 この記事は、AIが書いたものをAIがレビューしてから公開しています。 L: 地図の小さな部品を更新したら、送信先に渡す参照元の扱いが問題になった。機能が動くことと、外部サービスの利用条件に沿って動くことは別なんですね。エージェントにも似た境界があるのか、今日はそこから考えたいです。 今日の 10…",
-      "publishedAt": "2026-11-14T22:45:13.000Z",
-      "image": "",
-      "categories": [
-        "product"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
-      "id": "7cdb79ac157e",
-      "title": "写真はクラウドに置く。作るのは家のGPUで。",
-      "url": "https://zenn.dev/keizoh53/articles/family-photo-local-gpu",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "はじめに 子どもが生まれてから、家族写真がすごい勢いで増えています。スマホの写真は家のNASに自動で集まるようにしてあるのですが、集まった写真を誰かが開いて見るかというと、ほぼ見ません。貯まる一方です。 親戚に見せたい写真は、結局みてねに手で選んで上げています。選ぶのが面倒で、つい後回しになります。 写真まわりの仕事…",
-      "publishedAt": "2026-11-14T22:22:28.000Z",
-      "image": "",
-      "categories": [
-        "infra"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
     },
     {
       "id": "f37b6a23fd16",
@@ -3383,23 +3543,6 @@
       "isNew": false
     },
     {
-      "id": "235e11522a1f",
-      "title": "ローカルLLMで動く翻訳拡張機能「Sakutto」を開発した話",
-      "url": "https://zenn.dev/jammaru_lab/articles/sakutto-local-llm-chrome-extension",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "こんにちは、じゃむまる（@jammaru_lab）です。 英語のページを、無料で、しかも精度よく日本語にしたい場面ってかなり多いですよね。でも、無料の翻訳は精度が物足りないことが多いし、有料のサービスや拡張機能はログイン必須で、月に使える回数に制限がつきがち。僕が欲しかったのは、精度が高くて、無料で、ログインも回数制…",
-      "publishedAt": "2026-11-14T20:02:29.000Z",
-      "image": "",
-      "categories": [
-        "product"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
       "id": "c3c2cab58e33",
       "title": "生成ＡＩ活用、賛否二分 全国世論調査",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyM2NvS2hWQmNiLUJsc05YbHdGS3hxdG9NbjVub3l5MHJXaWlkaTFpYUVFeE1UUzR2SDJWSy0xejBoRXZiX2lHWjVINzNKVVJ4LXZybVUxOHdXNm8?oc=5",
@@ -3519,23 +3662,6 @@
       "isNew": false
     },
     {
-      "id": "cf257680ca71",
-      "title": "96GBのミニPCで大規模MoEを動かしてみた — Radeon 890MとStrataの試行錯誤",
-      "url": "https://zenn.dev/masahito/articles/4e5af1d32cb2dc",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "はじめに 手元のミニPCで、大規模なMoEモデルを動かしてみました。 使ったのはMINISFORUM AI X1 Pro。Ryzen AI 9 HX 370、Radeon 890M、メモリ96GBという構成です。 もともとはllama.cppを使ってローカルLLMを動かしていましたが、もう少し大きなモデルを動かしてみ…",
-      "publishedAt": "2026-11-14T18:13:38.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
       "id": "e8eb073016c2",
       "title": "ビル・ガーリー AI ブリーフ",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5UOG10b01TRmdTS0tFT2NfaFBGcTRhdjBueGZqUjZQSU81Q212akVoU0t3THprQTNJYWpZX0JBa0N2UGhqYm5mRzBick5kSk9iaDNWY2Q5QU5TQjlmNFNpU19ZMVJJZw?oc=5",
@@ -3550,7 +3676,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "25bc201290d9",
@@ -3568,23 +3694,6 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "dbae138b6522",
-      "title": "「もうちょっと、ここで朝日を浴びときたいわ」を残す介護記録",
-      "url": "https://zenn.dev/pomodoro_naomi/articles/7b08172f57616a",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "介護の仕事をしていると、予定の時刻に声をかけても、ご本人にはご本人のタイミングがあるんよね。いったん見送ったとき、次の職員には「いつ、もう一度お誘いするか」が伝わってほしい。個別の介護日報には、ご本人がどう過ごしたかったかも残しておきたい。 そこで、ひとつのケア記録を、朝の申し送りと個別の日報に使うPythonのデモ…",
-      "publishedAt": "2026-11-14T17:20:02.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
     },
     {
       "id": "3e328262fbab",
@@ -3653,6 +3762,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "83a646ec15f1",
+      "title": "【課金前に】仕事に使うならどれ？無料のChatGPT・Gemini・Claudeに50回聞いた｜全問正解は1つだけ",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SWmlBWWM1Mm1JaTN1X3FpR1IxVkxjbHVWUldJWTNQR2VkZGtHa3VidUFOZkFLZnFXWE0tckM3OXl0SU03eTNIZWpUSXdrTmEzV2tPamhIbzl5dGtr?oc=5",
+      "host": "youtu.be",
+      "source": "YouTube",
+      "summary": "",
+      "publishedAt": "2026-11-14T16:58:08.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "05b6d2dc7505",
@@ -3740,57 +3866,6 @@
       "isNew": false
     },
     {
-      "id": "71a05873d645",
-      "title": "ローカルLLMに抽象語は通じない（開発ログ05）",
-      "url": "https://zenn.dev/ace_toshi/articles/trpg-local-devlog-05",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "結論から ローカルLLMだけでTRPGを回すエンジンを作っている。ここまでの開発ログで、設計・章の潰れ方・伏線の回収漏れ・遊ぶ目的の欠落について書いてきた。 今回はプロンプトの話である。シリーズを通して一番しつこく足を引っ張ったのが、クラウドの大きいモデルなら通る書き方が、手元の小型モデルではまったく通らないという壁…",
-      "publishedAt": "2026-11-14T14:43:27.000Z",
-      "image": "",
-      "categories": [
-        "infra"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
-      "id": "e807de95b8b5",
-      "title": "海信視像（600060.SH）：現在、JUOSシステムと星海大規模言語モデルは完全に実装済み",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UMVc0c2txR051OXlGV0JrMzdXSzdtWlpmU0dZNm9CYjFEZ2d0a0NEMXZQMWFwZzdIVFlKWlZaSEhQOVFKeHgya0JaMF9VQ1NLZ1NXOGVtMFRnUQ?oc=5",
-      "host": "moomoo.com",
-      "source": "Moomoo",
-      "summary": "",
-      "publishedAt": "2026-11-14T14:39:57.000Z",
-      "image": "",
-      "categories": [
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "35f5ef44684c",
-      "title": "locally-uncensoredのコーディングエージェントを3B/7B/14Bで試したら、直せたのは14Bだけだった",
-      "url": "https://zenn.dev/matsushima_a/articles/day-046-locally-uncensored-coding-agent-model-size",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "これは何を試した記事か PurpleDoubleD/locally-uncensored(AGPL-3.0-only)は、チャット・画像生成・動画生成・コーディングエージェントを1つのデスクトップアプリにまとめ、ローカルで完結させることを目指したOSSである。 GitHub Trending(TypeScript)で…",
-      "publishedAt": "2026-11-14T14:27:19.000Z",
-      "image": "",
-      "categories": [
-        "product"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
       "id": "6ef7e5a9b068",
       "title": "元アンソロピック研究者ら設立のミレンディル、10億ドル調達―研究者1人とAIによるモデル開発を拡大",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4eFJFTmktWGtJM19VanpsSy02YnR4aWRzalRqU2ZTX3JJNTZNUXdtV2FfbXBGVHZvb0lOVjg5M2hhcHRycXF4bUxSVGNIRlZMUDBHcjdsaTR2dkpQUU5XM3lVY9IBaEFVX3lxTFA0a3JSU3RJN2xoeE1Qc0J4cVBZaVJJZEt5QmJ0Unl5Y1JWb3d6V2hoRjM3TFdyYnAwcVVhNG93Y2d5Vl9aSDhTakllek9NLVA2M2haQlltQm85eHl5bnRHNGFENFhrSTZl?oc=5",
@@ -3826,40 +3901,6 @@
       "isNew": false
     },
     {
-      "id": "1160c4b2b78a",
-      "title": "Claudeとの会話で終わらせない。図解メモをGitHub Pagesに貯めるMemoKitを作った話",
-      "url": "https://zenn.dev/taka1156/articles/52dffc3bcf00a9",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "この記事で伝えたいこと 今回作成したClaudeに作ってもらった解説や図解を、GitHub Pagesに貯めていくためのキット「MemoKit」を紹介します 実際に使ってみてハマったところ（デザインの統一、レビューやファクトチェック）も正直に書きます 読み終えると、Claudeを使って技術メモやナレッジを貯めていくや…",
-      "publishedAt": "2026-11-14T14:12:32.000Z",
-      "image": "",
-      "categories": [
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
-      "id": "53166c891599",
-      "title": "【世界初】QCS6490初のGenAI実測を取るまで：公式スクリプトのバグと4つの行き止まり",
-      "url": "https://zenn.dev/anguoyang/articles/894669defe7a80",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "QCS6490という産業向けチップで、小型LLMがどれくらい速いのか。公式にも第三者にも数字がなかったので、Qwen3-0.6Bで測ってみた。結論から書くと、Prefill 1,555 tok/s、Decode 24.6 tok/s（w4a16、コンテキスト512、Dragonwing RB3 Gen 2実機）。ただ…",
-      "publishedAt": "2026-11-14T13:56:28.000Z",
-      "image": "",
-      "categories": [
-        "infra"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
       "id": "76fc958118d9",
       "title": "人工知能（AI）エージェントが自律的に処理できる業務の単位は、現在の4~8時間程度から、来年初めには数日、あるいは数週間単位にまで拡大するとの見通しが示された。中国メディアの財新メディアによると、ムー..",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByelJTRFpuX04tVHNSRmhuWjlCREV2Y0NHVmlIZXhoUzBEV3d1dEpWMVBCLVJIY1pxc0VFMmhtY0UtVG54M291REhRODEtVVU?oc=5",
@@ -3875,40 +3916,6 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "57c74e661b80",
-      "title": "週刊 ローカルLLM＆AIコーディングツール更新まとめ（11/7〜11/13）",
-      "url": "https://zenn.dev/girigiri_se/articles/8c2426ad062e32",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "はじめに ローカルLLMとAIコーディングツールの1週間分の更新を、使い始めた立場で整理しています。 今週は Open WebUI に、セキュリティ修正・DBのマイグレーション・既定値の変更がまとめて入りました。 対象期間は 2026年11月7日（土）〜11月13日（金）（日本時間）です。 今週のハイライト Open…",
-      "publishedAt": "2026-11-14T13:50:41.000Z",
-      "image": "",
-      "categories": [
-        "product"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
-    },
-    {
-      "id": "e9c805f197fa",
-      "title": "20年分の自分の文章に答えさせるRAGを8GBのMacで動かしている。128GBあったら何を手元に戻すか",
-      "url": "https://zenn.dev/satsumacreative/articles/76c3c7ffe380de",
-      "host": "zenn.dev",
-      "source": "Zenn",
-      "summary": "台湾・台北で開発をしている Saomin です。薩摩創意（Satsuma Creative）という小さな会社をやっています。 個人のプロジェクトとして、自分が20年以上書いてきた文章を読ませて、自分の考え方や口調を反映して答えるチャットを動かしています（saomin.tw/me、本体は中国語・繁体字です）。 構成は最…",
-      "publishedAt": "2026-11-14T13:22:15.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
-      "isNew": true
     },
     {
       "id": "a080390ed680",
@@ -4254,6 +4261,23 @@
       "isNew": false
     },
     {
+      "id": "9a7a72bcff52",
+      "title": "E2E Test というハーネス — AI時代の自動テスト民主化",
+      "url": "https://speakerdeck.com/daishukojima/ttf2026-e2e-test-harness",
+      "host": "speakerdeck.com",
+      "source": "はてなブックマーク",
+      "summary": "Tokyo Test Fest 2026 における LT 登壇資料です。 https://tokyotestfest.com/home_2026/",
+      "publishedAt": "2026-11-14T09:13:27.000Z",
+      "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fspeakerdeck.com%2Fdaishukojima%2Fttf2026-e2e-test-harness",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "curated",
+      "isNew": true
+    },
+    {
       "id": "2092d1bcb460",
       "title": "トレンドの生成AIで小学生がゲーム作成を体験 講師は大学生（テレビ高知）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MWnFFdVdyYkFsWEJDdWpCelVVQ2tkNzZVOVl1VVZpOUhsOUFXS05EbzQ5TFkxMEV4LXhSWVh4QkJoMng4bkVIRTNscC1BNGxBZE5LcWlTanZsQml1TDlRTVNwMUluaURJdWhWNDdUZElISTcwMjY3cjVzT3dnQ1U?oc=5",
@@ -4390,23 +4414,6 @@
       "isNew": false
     },
     {
-      "id": "5bb14ffc7484",
-      "title": "「元画像もプロンプトも同じです」なのに「仕上がりはここまで変わります」――AI生成チラシ、デザイナーが加えた一手の差",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE00eFo3U2c3LWQ0cm1sQ1hvQnNSNHNXVE5temtEM1p6YVQtbUtGZUZaS19FSnF6Tm1uODBYWXpBX2hyUQ?oc=5",
-      "host": "hashout.jp",
-      "source": "shiritomo",
-      "summary": "",
-      "publishedAt": "2026-11-14T08:25:23.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "f06bfd155423",
       "title": "日本の生成AI利用、1年で2倍の58.8%に——ChatGPTの個人情報、設定オフだけでは消えない",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9KUDRhZkhKVFUzeEMyN3NiaUV4WHRjZmhUUzVid0tLcVBnYksyOVNCZFdJcE1vNDBqMmY5RVpUMDlmZw?oc=5",
@@ -4456,6 +4463,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "adf25b63650c",
+      "title": "黄仁勲氏がエヌビディアCEOを退任！OpenAIとAnthropicが中国向けAIチップ輸出制限を支持、世界のAI情勢に大きな変動が！$NVDA 世界の人工知能産業は、突発的な権力構造と政策の激震に見舞われている！ 11月12日、エヌビデ…",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3Y1amZxX3AxYlVEZk5MY0dPN1Aza01RUDlleVJ1bG95MVotTnVLMVBFMUZpMld5MnRiWVhmN1VwOHpaQkZkVlR6N2ttSkV4YVF1VVJWLXlYZ293WWo2MU9UVXBwNVZrTE5ZVl96b0JZWVV5elZidzBoazNSSVNxLUdlWU9hYXFsYVltR1pkNWlhNzVWWGRteFBGUmQybzhZTUgxU0w4TWJmVGN4?oc=5",
+      "host": "moomoo.com",
+      "source": "Moomoo",
+      "summary": "",
+      "publishedAt": "2026-11-14T08:18:00.000Z",
+      "image": "",
+      "categories": [
+        "infra"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4fcbadcaf207",
@@ -4527,6 +4551,23 @@
       "isNew": false
     },
     {
+      "id": "e1caec6ae737",
+      "title": "データスペースとAIで産業再設計",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aYW9QOHl6SmJ0NXFBM183eWlQY1hoUFVxSmxzdHhtT1daZ0R2bDhGN1R5OXdDM2FvV0J2YWoyUGF6NzRVODNlbHBYcU5BNHZRdUdsNTR3ejFEclJKTWpF?oc=5",
+      "host": "xtech.nikkei.com",
+      "source": "日経クロステック",
+      "summary": "",
+      "publishedAt": "2026-11-14T07:07:56.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "a782325bf987",
       "title": "マイクロソフト「365」大規模障害の全面復旧を発表 世界各地で一時OutlookやCopilot使えず",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13RzhVLTVneFJ0UFhVanR6RlNodjhYYzZHVU5MZ3FJYm93VnIwSHhkaEw1U1BrQW8yNEg5dTJzY2gzS2h2RTBOZTFla0Fqdw?oc=5",
@@ -4593,23 +4634,6 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "e9ee49367cc2",
-      "title": "Google Walletの統合がGeminiアプリに財務インサイトを提供",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Sl9nbTZBZTFILU5pcUNnRWRmQnQyd3JoX1gwXzE5YnFRc2c4cmI2Z3FDNW1PdG9QWTFiNlJGbThaS2VYUENxTmxISnhqWmhyX2JlUTU3X3M3Z0RQcHlJZjh0RlBZelZrZjd0cGRkWUhsRE5LcTR2bHlYMk5TUjQ?oc=5",
-      "host": "blockchain.news",
-      "source": "blockchain.news",
-      "summary": "",
-      "publishedAt": "2026-11-14T05:56:59.000Z",
-      "image": "",
-      "categories": [
-        "product"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "573b33e8fd5c",
@@ -4730,23 +4754,6 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "b23809f83831",
-      "title": "MetaのWebXR開発ツール「IWSDK」がAIエージェント対応、Niantic、3Dガウシアン・スプラッティング形式「SPZ 4」を公開 ほか",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XZmRYcFFfMkJhUEFITXRhQ05oVjVabzl6Qzd1MEE3REotRmRTTUNuVzZVVDRjOHZwaHFxU2N5VkZnZWJueVk2d0VPdw?oc=5",
-      "host": "thinkit.co.jp",
-      "source": "ThinkIT",
-      "summary": "",
-      "publishedAt": "2026-11-14T04:58:33.000Z",
-      "image": "",
-      "categories": [
-        "product"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "5913ee1ad650",
@@ -4986,7 +4993,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0dcdf85c53e1",
@@ -5902,7 +5909,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "43e489c94e5a",
@@ -6211,23 +6218,6 @@
       "isNew": false
     },
     {
-      "id": "659a0c8b10a4",
-      "title": "ビール職人とAIによる協働 「人生醸造Craft」開発の取り組み : 企業情報",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMDRjNDVqR0lnRDRqMzl5MmJ2NzluNzMtWVFFVFdaVEd1WVhFTGc4eVJ6eVJhLVhNM3VmYTAtY3VLMVlWd3d4ZjM4ZG5PZGZEaWU4MlVocEh3aEljSmRuUzgyVk5VUUZWV1BiVlVXZk5zMGtXNWpHSlFaUW0zTThhaElVUQ?oc=5",
-      "host": "group.nec",
-      "source": "NEC",
-      "summary": "",
-      "publishedAt": "2026-11-13T19:58:43.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "6207722a5989",
       "title": "Druva Agent Recoveryにより、Copilot Studioエージェントに特定時点への復元機能が追加",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXVSZk14eHB5eC1NMDU3Tm9xNE1DNmxuMUZUQm1PNmdSTXBDb0haWUloNFdXM2MwLUFvb1JPYWtId0cxYUhQT0c4Qm9qTTZkMU8taVpDR1dtVV80X1VSVjlJZWo2czJtLXY5eUNHdDVyRHRXN0xpMkZsTFhiVUZQSlhXUmVOaGpnUEtlVjRONlFkUFNrOVI3V0VwNGhGZ0tYRnllZjFKRXhjVTZ60gGsAUFVX3lxTE5pdVJmTXh4cHl4LU0wNTdOb3E0TUM2bG4xRlRCbU82Z1JNcENvSFpZSWg0V1czYzAtQW9vUk9ha0h3RzFhSFBPRzhCb2pNNmQxTy1pWkNHV21VXzRfVVJWOUllajZzMm0tdjl5Q0d0NXJEdFc3TGkyRmxMWGJVRlBKWFdSZU5oamdQS2VWNE42UWRQU2s5UjdXRXA0aEZnS1hGeWVmMUpFeGNVNno?oc=5",
@@ -6327,7 +6317,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "31d448b138f9",
@@ -6847,7 +6837,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "d037ab07be55",
@@ -6947,24 +6937,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "036f436ca0b2",
-      "title": "Zept株式会社、製造業のAI活用事例を播磨圏域ものづくりプラットフォームで発表！現場の12工程から業務改善・投資対効果までを解説",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NZ28yRkZPeGx0VDNCZlB3c3FCRy1xajVvSE5uNElqT2lXRVZTQndydURNbmI0bEV6SkJSSFFVcUxaNHJrVmE4ZFMwYTRHZ2R4R0RKbWQ2SlNma2p0RTlfTUxNLXkydUVJd3Q0R1NBV2ZRdw?oc=5",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
-      "summary": "",
-      "publishedAt": "2026-11-13T15:10:00.000Z",
-      "image": "",
-      "categories": [
-        "case",
-        "business"
       ],
       "isPR": false,
       "viaGoogle": true,
@@ -7258,74 +7230,6 @@
       "image": "",
       "categories": [
         "product"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "360433c2b708",
-      "title": "Anthropicで新人エンジニアが激減。たった1年で採用割合27％→9％に（ギズモード・ジャパン）",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02RUhZTldTMURsajBEX0ZqTWtMUkphU0hWUXJVSXJiWmdPS1RoN2k2cHZPNUFJTmhWTVM2cU5sS1poa2h5QzNERE90STRpY0FlVDlTRG9xazVtbkM1eDRFYng2YUxHczRSS1lWdkpnSGt3U0NtalVOT0VzTmQ3aFk?oc=5",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-13T13:00:02.000Z",
-      "image": "",
-      "categories": [
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "04dab2cca76a",
-      "title": "AIエージェントのスタートアップ、LangChainの評価額が30億ドルに",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd015T2VkMzYwbU5XbC1pcHpxQmJyeWs2VEtCLVItaXdQYkRiemFWU2RoSFpBUHQtVWVWTzJmbk5zc3BSSE95aXhaQ3U0UHZPWHJYWjBNRVJ6b2dJb09tc2pNS3VRLUh3Z2FqUXRsdVNrZTBzVndwUk0zVUUzRzVDQk5TVkktTzd1X3dkTWc4bERneWRlYTNNUXpDbw?oc=5",
-      "host": "mezha.net",
-      "source": "Mezha.net",
-      "summary": "",
-      "publishedAt": "2026-11-13T12:54:00.000Z",
-      "image": "",
-      "categories": [
-        "business"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "d0c3414bf0fe",
-      "title": "Microsoft 365、大規模障害。OutlookやOneDrive、Copilotなどで不具合。徐々に復旧か ［Update 10: 2026/11/13 PM21:33］",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OZk91Wm93RHc1TGZ3MXAyZ3N4UjV3NG1tZHZIUDBZVVFfYzRDRnoyVWtlYWRteFV0WGhJWmFucGY5azZ3U0dhWkVBd3NjU2RHZ0hGVTBPcEVNbW9nemJLXy1rN1Y?oc=5",
-      "host": "nichepcgamer.com",
-      "source": "ニッチなPCゲーマーの環境構築Z",
-      "summary": "",
-      "publishedAt": "2026-11-13T12:33:24.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "b206970013eb",
-      "title": "EXDREAM、NTTファシリティーズの生成AI活用推進を1年間継続支援",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGMnVUZW9PTWdYRW9iVGdGdElvX0tMa3NLdFFGeTlzV3dUOXB4aWpSMy1fUkNMRzJPWTl1OWx3c3ZDcFNrQ296VTRHX0lqUEhUSkk5RC1KQUNnd0p6ZTBCN1FLMUVIWGtBQWhFcjU3cm5udlRHdmhUNjBOTQ?oc=5",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-13T12:30:36.000Z",
-      "image": "",
-      "categories": [
-        "case"
       ],
       "isPR": false,
       "viaGoogle": true,
@@ -8249,7 +8153,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "curated",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "77c2b5acc15a",
@@ -8339,40 +8243,6 @@
       "isNew": false
     },
     {
-      "id": "e6141239dbbc",
-      "title": "iPadで手書きラフを基に画像化、ノートアプリから生成AIに貼り付けて指示",
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03708/092900010/",
-      "host": "xtech.nikkei.com",
-      "source": "日経クロステック",
-      "summary": "iPadには、手書きしたラフ画を基に画像を生成する「Image Playground」など、手書きと生成AIを組み合わせた機能も用意されている。ただし、手書きを生成AIへの指示に利用する方法は、こうした専用の機能に限らない。",
-      "publishedAt": "2026-11-12T20:00:00.000Z",
-      "image": "",
-      "categories": [
-        "product"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7a6d00d98ca2",
-      "title": "実用化進む中韓ロボタクシー、日本は周回遅れ トヨタの戦略に期待",
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02967/110600026/",
-      "host": "xtech.nikkei.com",
-      "source": "日経クロステック",
-      "summary": "中国と韓国で自動運転タクシー（ロボタクシー）や自動運転バスに乗車すると、既に移動サービスや公共交通として利用され始めていることを実感する。一方、日本で乗車したロボタクシーや自動運転バスは、安全管理者が同乗するほか、経路が限定されており、交通インフラとの連携も不十分である。",
-      "publishedAt": "2026-11-12T20:00:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "5d4ce189c5cd",
       "title": "中国DeepSeek、6月に続き150億ドルの巨額調達 テンセント・CATLが参加",
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03065/111100023/",
@@ -8384,23 +8254,6 @@
       "categories": [
         "model",
         "business"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e58746ab6e4f",
-      "title": "パナソニックが入力画面変化を予測する世界モデル、現場作業へ応用期待",
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12162/",
-      "host": "xtech.nikkei.com",
-      "source": "日経クロステック",
-      "summary": "製造現場でモバイル端末へ実績などを入力する作業をAI（人工知能）で自動化するのに役立つ技術をパナソニックホールディングスとパナソニックR＆Dカンパニーオブアメリカが開発した。入力操作によって画面がどう変わるかを予測する世界モデルだ。",
-      "publishedAt": "2026-11-12T20:00:00.000Z",
-      "image": "",
-      "categories": [
-        "case"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -8425,6 +8278,23 @@
       "isNew": false
     },
     {
+      "id": "e58746ab6e4f",
+      "title": "パナソニックが入力画面変化を予測する世界モデル、現場作業へ応用期待",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12162/",
+      "host": "xtech.nikkei.com",
+      "source": "日経クロステック",
+      "summary": "製造現場でモバイル端末へ実績などを入力する作業をAI（人工知能）で自動化するのに役立つ技術をパナソニックホールディングスとパナソニックR＆Dカンパニーオブアメリカが開発した。入力操作によって画面がどう変わるかを予測する世界モデルだ。",
+      "publishedAt": "2026-11-12T20:00:00.000Z",
+      "image": "",
+      "categories": [
+        "case"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "3c47a2800f2c",
       "title": "生成AIのメモリー機能を使いこなす、「前にも言ったよね」はAIに通じるのか",
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02737/110900070/",
@@ -8435,6 +8305,40 @@
       "image": "",
       "categories": [
         "other"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "7a6d00d98ca2",
+      "title": "実用化進む中韓ロボタクシー、日本は周回遅れ トヨタの戦略に期待",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02967/110600026/",
+      "host": "xtech.nikkei.com",
+      "source": "日経クロステック",
+      "summary": "中国と韓国で自動運転タクシー（ロボタクシー）や自動運転バスに乗車すると、既に移動サービスや公共交通として利用され始めていることを実感する。一方、日本で乗車したロボタクシーや自動運転バスは、安全管理者が同乗するほか、経路が限定されており、交通インフラとの連携も不十分である。",
+      "publishedAt": "2026-11-12T20:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "e6141239dbbc",
+      "title": "iPadで手書きラフを基に画像化、ノートアプリから生成AIに貼り付けて指示",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03708/092900010/",
+      "host": "xtech.nikkei.com",
+      "source": "日経クロステック",
+      "summary": "iPadには、手書きしたラフ画を基に画像を生成する「Image Playground」など、手書きと生成AIを組み合わせた機能も用意されている。ただし、手書きを生成AIへの指示に利用する方法は、こうした専用の機能に限らない。",
+      "publishedAt": "2026-11-12T20:00:00.000Z",
+      "image": "",
+      "categories": [
+        "product"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -9031,24 +8935,6 @@
       "isNew": false
     },
     {
-      "id": "8e2f4a0e6b4b",
-      "title": "広がらないAIナレッジマネジメント、最初の利用者は「受容性」で選ぶ",
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03242/111100035/",
-      "host": "xtech.nikkei.com",
-      "source": "日経クロステック",
-      "summary": "今回はAIを使ったナレッジ活用の本格的な展開を決めた後について取り上げます。誰から使い始めてもらい、どの順序で組織に広げ、業務に根づかせるか。前回の最後に触れた、業務の進め方や習慣の変更への配慮を組み込み、最初の利用者を受容性で選んで段階的に広げる設計を解説します。",
-      "publishedAt": "2026-11-11T20:00:00.000Z",
-      "image": "",
-      "categories": [
-        "case",
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "7246c7d2df3e",
       "title": "顧客データ持たぬは正解か、サイバー攻撃がAX阻む 鍵は社内の「風通し」",
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00849/00203/",
@@ -9059,23 +8945,6 @@
       "image": "",
       "categories": [
         "case"
-      ],
-      "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "c214b2914b2c",
-      "title": "偏ったAIが生みかねない「ステルス主権放棄」、文化や人格をどう守るか",
-      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/110902143/",
-      "host": "xtech.nikkei.com",
-      "source": "日経クロステック",
-      "summary": "生成AIのチャットを窓口として手に入る情報は、インターネットの海に等しく無限に広がるものに思える。しかし、窓から入ってきているのは、実はごく一部の、もしくはゆがめられた価値観に基づく情報だったら――。AIを通した情報収集が当たり前になってきた今、そのリスクを考えてみる必要がある。",
-      "publishedAt": "2026-11-11T20:00:00.000Z",
-      "image": "",
-      "categories": [
-        "other"
       ],
       "isPR": false,
       "viaGoogle": false,
@@ -9101,6 +8970,41 @@
       "isNew": false
     },
     {
+      "id": "c214b2914b2c",
+      "title": "偏ったAIが生みかねない「ステルス主権放棄」、文化や人格をどう守るか",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00138/110902143/",
+      "host": "xtech.nikkei.com",
+      "source": "日経クロステック",
+      "summary": "生成AIのチャットを窓口として手に入る情報は、インターネットの海に等しく無限に広がるものに思える。しかし、窓から入ってきているのは、実はごく一部の、もしくはゆがめられた価値観に基づく情報だったら――。AIを通した情報収集が当たり前になってきた今、そのリスクを考えてみる必要がある。",
+      "publishedAt": "2026-11-11T20:00:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "8e2f4a0e6b4b",
+      "title": "広がらないAIナレッジマネジメント、最初の利用者は「受容性」で選ぶ",
+      "url": "https://xtech.nikkei.com/atcl/nxt/column/18/03242/111100035/",
+      "host": "xtech.nikkei.com",
+      "source": "日経クロステック",
+      "summary": "今回はAIを使ったナレッジ活用の本格的な展開を決めた後について取り上げます。誰から使い始めてもらい、どの順序で組織に広げ、業務に根づかせるか。前回の最後に触れた、業務の進め方や習慣の変更への配慮を組み込み、最初の利用者を受容性で選んで段階的に広げる設計を解説します。",
+      "publishedAt": "2026-11-11T20:00:00.000Z",
+      "image": "",
+      "categories": [
+        "case",
+        "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "1bb2dd464b73",
       "title": "AI時代こそ在宅からオフィスへ、GMO会長の投稿で議論沸騰",
       "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00332/110200001/",
@@ -9116,6 +9020,23 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "2a811986850d",
+      "title": "生成AIで設計業務の効率化を",
+      "url": "https://xtech.nikkei.com/atcl/nxt/mag/na/18/00016/110400564/",
+      "host": "xtech.nikkei.com",
+      "source": "日経クロステック",
+      "summary": "生成AI（人工知能）が設計業務に導入され始めている。本格的に実務で活用できるようになれば、従来の業務量を3割ほど削減できるのではないかと期待している。鍵となるのは、業務の委託先である設備設計・構造設計事務所との連携だ。",
+      "publishedAt": "2026-11-11T17:00:00.000Z",
+      "image": "",
+      "categories": [
+        "case"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "bc7f3e9cdc56",
