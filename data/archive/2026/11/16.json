@@ -1,5 +1,32 @@
 [
  {
+  "id": "283a208d07bc",
+  "title": "Claude障害まとめ：11/13の同時障害・認証エラー・利用上限誤判定と対処法",
+  "url": "https://qiita.com/picnic/items/0e7c5295c004f170dcd9",
+  "source": "Qiita",
+  "summary": "はじめに 10/7〜11/14のAnthropicステータスページには、20件の障害が掲載されました。このうち未解決なのは1件だけで、iOSアプリの「Appleでサインイン」障害です。残りは解決済みですが、業務で Claude を使っている人にとっては、見落とすと影響が大...",
+  "publishedAt": "2026-11-15T17:46:51.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "88c8cf487675",
+  "title": "なぜ、LLM周りのPythonをRustに置き換えた方が良いと主張する人の多くは大きな勘違いをしているのか？",
+  "url": "https://zenn.dev/pdfractal/articles/b35e1bcd993d81",
+  "source": "Zenn",
+  "summary": "はじめに 近年、プログラミング言語としてRustの評価が高まっています。C++に匹敵する実行性能を持ちながら、メモリ安全性や並行処理の安全性を言語仕様によって確保できるという特徴は、システムソフトウェアの開発において大きな魅力です。そして、生成AIの普及に伴い、LLM（大規模言語モデル）の周辺システムについても、Py…",
+  "publishedAt": "2026-11-15T17:23:50.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "4ab4d1d75abd",
   "title": "｢AI需要衰えない｣ 搬送システムのローツェ社長､半導体から見た景気",
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44dVB0YnFDcEtJdDhXU1U1OTdacWhzLWxEMTMxaXdWSG1UakNZbWJfOG11WVg0WDl1UEdUMEdYNXJZTWFuUE5aZW53RWRobWFzVkRxZjRQQVRmV01heDJ4QTJIYWlLNkJDcXZDcA?oc=5",
@@ -53,6 +80,19 @@
   "isPR": false
  },
  {
+  "id": "ea5e909204b0",
+  "title": "作りながら鍛えるコードリーディング力",
+  "url": "https://zenn.dev/gen_tokunaga/articles/bdf9e8e0faf872",
+  "source": "Zenn",
+  "summary": "満たしたいこと AIに作らせたコードを自分が理解し、｢いいコードだ｣と銘を打つまでに時間がかかる。要はコードリーディングが遅い。効率的に読むにはどうすればいいんだろう。 自分なりの結論 前提 他の人のコードを読む時は、全部を読む必要はない。構造を把握し、保守やセキュリティ的に危なそうなものを中心に見る。 自分のコード…",
+  "publishedAt": "2026-11-15T16:17:47.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "73a32c29a976",
   "title": "【これ1本でわかる】AIが動くハーネスの整え方と育て方を、実物のリポジトリでまとめてみた",
   "url": "https://qiita.com/miruky/items/0e16e9ddc811e13d6b04",
@@ -72,6 +112,19 @@
   "source": "Infoseek",
   "summary": "",
   "publishedAt": "2026-11-15T15:54:36.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3d75d1045fcd",
+  "title": "時事プローブと公式直結基準でAPI中継のモデル劣化を検知する",
+  "url": "https://zenn.dev/folkbench/articles/c90bdf45161bf2",
+  "source": "Zenn",
+  "summary": "原文： Folkbench モデル劣化検知を発表：時事・モデル指紋プローブと独立公式ベースラインによる API 中継の継続検証 モデルのリーダーボードは、公式環境での理論上限を測ります。アップタイム監視は、エンドポイントが応答するかどうかを見ます。どちらも、Claude Code や Codex からサードパーティの…",
+  "publishedAt": "2026-11-15T15:46:15.000Z",
   "image": "",
   "categories": [
    "other"
@@ -158,6 +211,19 @@
   "isPR": false
  },
  {
+  "id": "118a7d5fe0a5",
+  "title": "LLMが「眠って」重みを書き換える――Googleの論文「Language Models Need Sleep」を読み解く",
+  "url": "https://zenn.dev/kotakotahiro/articles/894dc35da34848",
+  "source": "Zenn",
+  "summary": "自分を覚えてくれて、使うほど賢くなっていくように思えるAIエージェントを使っていると、中身の仕組みは分かっているつもりでも、ついつい、AIモデルそのものが学習しているように感じてしまいます。 そんな中で、ふと思いました。人は当たり前のようにそれを行っていますが、生成AI、LLMにはできないんだろうか？そりゃあ、ファイ…",
+  "publishedAt": "2026-11-15T15:27:19.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "11f3f1927595",
   "title": "Folkbenchのモデル劣化検知：時事プローブと公式直結ベースラインで中継の「降智」を見る",
   "url": "https://qiita.com/cscsearching/items/13243dfd9aeb5df96dc4",
@@ -167,6 +233,32 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8ecb0d19a08d",
+  "title": "Notion AI のチャットの記録が漏れた件について調べてみた — Fireworks AI の事件で、利用者が確かめること",
+  "url": "https://zenn.dev/pollenjp/articles/2026-11-14-notion-ai-fireworks-incident",
+  "source": "Zenn",
+  "summary": "はじめに 個人で Notion の Business プランを契約して、Notion AI を使っている。そのワークスペースに、Notion から「取引先の Fireworks AI で起きたセキュリティインシデントで、影響を受けたかもしれない」というメールが届いていた。自分にも影響がありそうだったので、何が起きたの…",
+  "publishedAt": "2026-11-15T15:23:58.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2bfee28f1787",
+  "title": "Fireworks AI のセキュリティインシデントについて調べてみた — 何が起き、どこに影響したのか",
+  "url": "https://zenn.dev/pollenjp/articles/2026-11-10-fireworks-ai-incident",
+  "source": "Zenn",
+  "summary": "はじめに 個人で Notion の Business プランを契約して、Notion AI を使っている。そのワークスペースに、Notion から「取引先の Fireworks AI で起きたセキュリティインシデントで、影響を受けたかもしれない」というメールが届いていた。自分にも影響がありそうだったので、Firewo…",
+  "publishedAt": "2026-11-15T15:23:57.000Z",
+  "image": "",
+  "categories": [
+   "business"
   ],
   "isPR": false
  },
@@ -190,6 +282,32 @@
   "source": "Excite エキサイト",
   "summary": "",
   "publishedAt": "2026-11-15T15:10:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0edc09fd7a95",
+  "title": "いきなり本体を刷らない！「Pick-Up Bench」のタイヤ破損（TR-003）と検証片ルール",
+  "url": "https://zenn.dev/sunwood_ai_labs/articles/20261114-nekoneko-04-pickup-bench-coupon-rule",
+  "source": "Zenn",
+  "summary": "3Dプリンターで新しい形状やマルチカラー・専用サポート材を試すとき、最初から本体を丸ごと印刷して失敗すると、材料も時間も大きくロスしてしまいます。 そこで NEKOMO プロジェクトでは、本体を刷る前に 底面数ミリだけを切り出した「検証片」 を先に印刷して確かめるルールを運用しています。今回は、長辺約60 mmの車モ…",
+  "publishedAt": "2026-11-15T15:09:04.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "50a70d226b90",
+  "title": "実機造形の壁！「サポートが外れない（TR-001）」と窓枠破損（v10）からの断面見直し",
+  "url": "https://zenn.dev/sunwood_ai_labs/articles/20261114-nekoneko-03-bus-section-dr-and-failures",
+  "source": "Zenn",
+  "summary": "CAD画面でどれだけきれいに見えても、実際に3Dプリンターで出力してみると「支えが固くて取れない」「剥がそうとしたら部品が折れた」という壁にぶつかります。 今回は、60mm級のバス試作で起きた 2つのリアルな失敗（v06赤タイヤ版のサポート固着と、v10の窓枠破損）と、そこから 断面図・強度計算・DRレビューのスキル…",
+  "publishedAt": "2026-11-15T15:09:02.000Z",
   "image": "",
   "categories": [
    "other"
