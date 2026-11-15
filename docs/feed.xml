@@ -5,8 +5,29 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-15T12:00:24.218Z</updated>
+  <updated>2026-11-15T12:30:21.619Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>黒船来襲！Claude Sheets の衝撃――会話だけでシートが作れる時代になった話</title>
+    <link href="https://qiita.com/shu15511551/items/add57405722c05134561"/>
+    <id>https://aimatome.gamelab.website/#b15c4438c38e</id>
+    <updated>2026-11-15T12:19:10.000Z</updated>
+    <summary>Qiita ／ はじめに ―― 「会話だけでシートが作れる時代」に本家が飛び込んできた 少し前、Anthropic から 「Claude Sheets」（ベータ版・2026年11月10日公開）が登場したことを知り、思わず画面の前で固まりました。 Excel も Google スプレッドシ...</summary>
+  </entry>
+  <entry>
+    <title>npm auditの警告、AIに更新を任せて大丈夫？【初心者向け】</title>
+    <link href="https://qiita.com/Masashige-Y/items/2dd6f251d96f7d1e2898"/>
+    <id>https://aimatome.gamelab.website/#7183e92804f5</id>
+    <updated>2026-11-15T12:10:53.000Z</updated>
+    <summary>Qiita ／ この記事はこんな人におすすめ npm auditの警告を見て、何から調べるか迷う 直接インストールしていないライブラリの脆弱性をどう扱うか知りたい AIによる「更新してテストが通りました」という報告を、自分でも判断したい この記事から得られること 脆弱性の検出から...</summary>
+  </entry>
+  <entry>
+    <title>Rust + axum で 308 Permanent Redirect を最短 10 行で実装する【5 パターン + テスト付き】</title>
+    <link href="https://qiita.com/locallab/items/f74bffffee81ba415c21"/>
+    <id>https://aimatome.gamelab.website/#ff410b320db5</id>
+    <updated>2026-11-15T12:00:46.000Z</updated>
+    <summary>Qiita ／ TL;DR axum の Redirect::permanent() が返すのは 308 で、301 ではない 308 は メソッドとボディを変えずに 恒久移転を伝えられる (POST が GET に化けない) この記事では次の 5 パターンを、コピペで動くコードとテス...</summary>
+  </entry>
   <entry>
     <title>AI開発競争と公的債務は、世界の不動産市場に圧力をかけている。</title>
     <link href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPZUU2cEVEWjlMUzFVakRfUFpsQ0JqOXE1U2h4bEtidjE1UjlsamtSUzRwRTNya1JOMXdvTGRNNTZMTzFhbUFaOF9GY2l5MHJiSmNveFJTWDdRVmotam9MV1EwOFNzdWdJcm80ZnBKU1dXM2FndGp1V0pxVm9fQVUxSzM4Z2pRWEtvTWc5amNMV1B1a2p0LThOUVJCVlk?oc=5"/>
@@ -41,27 +62,6 @@
     <id>https://aimatome.gamelab.website/#c358bf894b0f</id>
     <updated>2026-11-15T11:36:19.000Z</updated>
     <summary>e-HAKODATE</summary>
-  </entry>
-  <entry>
-    <title>【小学5年生でもわかる】バイアス・バリアンスってなに？</title>
-    <link href="https://qiita.com/mrmrmr/items/6b020983064b0f25f2cf"/>
-    <id>https://aimatome.gamelab.website/#21b4cd7fa6af</id>
-    <updated>2026-11-15T11:21:26.000Z</updated>
-    <summary>Qiita ／ バイアスとバリアンスってなに？ 「外しやすさ」と「ぶれやすさ」のトレードオフのこと。 かんたんな説明 矢を的に射る時、いつも左にズレて当たるのは『バイアス』。毎回違うところに当たるのは『バリアンス』。両方を減らすのが目標です。 日常生活での例え ダーツで『いつも同じ場...</summary>
-  </entry>
-  <entry>
-    <title>Claudeのコードレビュースキル3つを検証したら、シンプルな構成が一番直されていた</title>
-    <link href="https://qiita.com/anago__/items/8abc79244577c516f9fe"/>
-    <id>https://aimatome.gamelab.website/#74876d5e26be</id>
-    <updated>2026-11-15T10:55:04.000Z</updated>
-    <summary>Qiita ／ きっかけは、前に作った採用率レポートの数字が、期間も数え方もバラバラで、どのスキルが良いのか判断できなかったことです。PRレビューを任せるスキルを、半年で3つ作りました。今回、3つのスキルが出した指摘を全部集めて、1つの物差しで数え直しました。結果の共有です。 数えたのは...</summary>
-  </entry>
-  <entry>
-    <title>Claude Code無人実行29日——毎朝確認する3か所（2026年）</title>
-    <link href="https://qiita.com/Sidejob/items/466633af3c75ec27284c"/>
-    <id>https://aimatome.gamelab.website/#7248bffc0a1d</id>
-    <updated>2026-11-15T10:30:04.000Z</updated>
-    <summary>Qiita ／ この記事の結論：Claude Codeの夜間自動実行を29日間続けた。「実行完了」の通知が届いても、翌朝必ず確認すべき3か所がある。確認を怠った日に限って、2日間止まったままだったことが後から発覚した。 対象読者 Claude Codeを夜間バッチとして動かしており、「...</summary>
   </entry>
   <entry>
     <title>普段は地雷メイクだった中学生、ChatGPTの指示通りにメイクしたら…… 驚きの姿に「大人っぽくて可愛い」「ちゃっぴーすごい」（1/3） | 美容 ねとらぼ</title>
@@ -148,11 +148,11 @@
     <summary>山陽新聞</summary>
   </entry>
   <entry>
-    <title>米政府がヘリウムを特定重要物質に指定 AIと半導体生産の生命線</title>
-    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9NUXFFY1NPazhIbFdPNWh4UFV0WnFTd190aXl0TjdfYlRLQ0dwOG5keXBzS2FBaDNKZGQ2V3Z4SzZTVTdsNWZ1el9kMG9XM2xDR3hUTGo2MHhySk8zeGFVZ1BDaVdyZjBRZkpqakxkdmxENzBJZzVjSWh0TWFHaFk?oc=5"/>
-    <id>https://aimatome.gamelab.website/#f104bdb8bdfd</id>
-    <updated>2026-11-15T08:30:00.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
+    <title>アンスロピックIPO：Claudeの開発元について知っておくべき重要な情報</title>
+    <link href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWhobVpfTkhqUzQzeXJzaHJ2ekRxU1pmSURubDhTT0o4SkstZTB2XzUzQnFUSVNiR2trcFRYTG1NWGpzVlBDQkU3Wk55TTItREdWeGpJQndyOFFFWmZPbTRxTWd3MDdHeF9XV0hhSWZhU1FyVHU2dWNVT0Z3X2tTdWlsR3BpblAyWUhhZWlQc0pUYWVxeHFXQXpVckw2SXdJbXc?oc=5"/>
+    <id>https://aimatome.gamelab.website/#d339a0aa010e</id>
+    <updated>2026-11-15T08:33:33.000Z</updated>
+    <summary>TradingKey</summary>
   </entry>
   <entry>
     <title>レストラン予約や修理の待ち時間も解消！Metaの個人AIエージェント「Muse」、米国有料会員向けに「電話代行」機能を提供開始</title>
@@ -225,11 +225,11 @@
     <summary>note</summary>
   </entry>
   <entry>
-    <title>ローカルLLMを動かす (RTX 4060ラップトップ(VRAM 8GB)で)【Ollama + VS Code】</title>
-    <link href="https://zenn.dev/myakuru/articles/57e485b02c77d1"/>
-    <id>https://aimatome.gamelab.website/#df0028cb9eb6</id>
-    <updated>2026-11-15T06:57:29.000Z</updated>
-    <summary>Zenn ／ はじめに 手元のゲーミングノート(RTX 4060 / VRAM 8GB)にローカルLLMを入れて、日常の質問やコーディングの補助に使えるようにしました。この記事はその導入手順のまとめです。 ローカルLLMの良いところは次の3つです。 質問内容やコードが外部に送信されない API料金がかからない オフラインでも動く …</summary>
+    <title>アイエスエフネット、Copilot活用を包括的に支援する「Microsoft 365 Copilot 導入フルサポートパッケージ」を提供開始</title>
+    <link href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1X2swU1BSNm1jdlR3cnQzdS1UMkhRRGpzQ1ZGN1FsWmFXbW9QanJzMElibC0zUDF0bklkUzdFbC1vQ09tdWd4bXpXdGJIMUczSFgzNVJra2I?oc=5"/>
+    <id>https://aimatome.gamelab.website/#c2c8dd5eb2ed</id>
+    <updated>2026-11-15T06:58:27.000Z</updated>
+    <summary>日刊工業新聞</summary>
   </entry>
   <entry>
     <title>米国の人工知能(AI)データセンター·光通信企業に投資する国内上場指数ファンド(ETF)が3ヶ月間に40%内外急落した。 今年上半期、AI需要の最前線の恩恵株として多額の資金を集めたが、下半期の市場の..</title>
@@ -251,13 +251,6 @@
     <id>https://aimatome.gamelab.website/#57d2c157fd79</id>
     <updated>2026-11-15T06:19:54.000Z</updated>
     <summary>Yahoo!ニュース</summary>
-  </entry>
-  <entry>
-    <title>Claude Codeのサブエージェントで副業の「部署」を4つ作った</title>
-    <link href="https://zenn.dev/burubaki/articles/867b4760b4191b"/>
-    <id>https://aimatome.gamelab.website/#71034a5f3b0f</id>
-    <updated>2026-11-15T06:06:27.000Z</updated>
-    <summary>Zenn ／ この記事で分かることは2つです。 tools を省略すると、サブエージェントが使えるツールを全部継承する（公式の仕様）。自分が部署ごとに tools を最小限にした理由と、その設定 model で部署ごとにOpusとSonnetを振り分けた設定と、公式の価格表での比較（効果の実測はまだありません） 「部署に分ける意味…</summary>
   </entry>
   <entry>
     <title>OpenAI財団理事「AI事故、近く人類最大の死因になる」</title>
@@ -288,13 +281,6 @@
     <summary>Yahoo!ニュース</summary>
   </entry>
   <entry>
-    <title>インフルエンサーのプロンプトを&quot;自分の悩み&quot;に置き換えたら、2時間でクローゼットアプリが完成した</title>
-    <link href="https://zenn.dev/ttk1010/articles/motteinai-dev-prompt"/>
-    <id>https://aimatome.gamelab.website/#e2d07019b495</id>
-    <updated>2026-11-15T05:26:01.000Z</updated>
-    <summary>Zenn ／ まず、できあがったもの 服を買いに行くと、結局どれを買えばいいかわからず、似た服や、手持ちと合わせづらい服を買ってしまう。この悩みを解決するクローゼット管理アプリ Motteinai（「もったいない（mottainai）」と「持っていない」を掛けた名前）を作りました。 店で服を撮ると、クローゼットの中身すべてと比べて…</summary>
-  </entry>
-  <entry>
     <title>NVIDIA、「AIの中央銀行総裁」を交代：ジェンスン・フアン氏退任の裏側、算力争奪と輸出規制の連鎖反応</title>
     <link href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE95STZNbVRkdkVzb3gwV3dVWnVMRm82VGRCTDBoaTlvOVhUclJOSzl6YVpaZS1vVl9xQnFycy1Udmo3eGdzRGVzRVlPYmgxeGIwNEJTWEFuUVBvQQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#ecc7381a67a8</id>
@@ -307,34 +293,6 @@
     <id>https://aimatome.gamelab.website/#8aac160fb0ae</id>
     <updated>2026-11-15T04:53:00.000Z</updated>
     <summary>조선일보</summary>
-  </entry>
-  <entry>
-    <title>今年、税理士資格試験首席合格者が生成 AIと電子機器を利用して不正行為を犯した事実を認め、警察に自首した。 彼は税理士試験だけでなく公認会計士1次試験でも同じ方式の不正行為を犯したと明らかにした。15..</title>
-    <link href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rT0ZiWjN3VFNqT1RySGJHOEVuUERZRmtiNVRJb016T09wUTVqMnlPZE5QWWMzRTF1QUR4a0lWTkZUTVNxYlFfTDVTUGVKaUFWQVE?oc=5"/>
-    <id>https://aimatome.gamelab.website/#ca0390bf985a</id>
-    <updated>2026-11-15T04:51:21.000Z</updated>
-    <summary>매일경제</summary>
-  </entry>
-  <entry>
-    <title>LEGO BoostをROS 2×AIエージェントで動かすまで ― 設計・校正・自然言語操作の全記録</title>
-    <link href="https://zenn.dev/masato13/articles/de48a5a3597d24"/>
-    <id>https://aimatome.gamelab.website/#9c99418d6753</id>
-    <updated>2026-11-15T04:47:40.000Z</updated>
-    <summary>Zenn ／ LEGO BoostをROS 2×AIエージェントで動かすまで ― 設計・自然言語操作の全記録 「ベースを10度右に回して」とチャットに書くと、LEGOのロボットアームが動く。 この記事はおもちゃのLEGO Boost 17101（クリエイティブ・ツールボックス）を2自由度のロボットアームに組み替え、ROS 2 Ja…</summary>
-  </entry>
-  <entry>
-    <title>テストを先に決めてAIに任せる C# Web API 自学カリキュラム（在庫台帳）</title>
-    <link href="https://zenn.dev/kenshi_lab/books/12f1d74a8bf7a0"/>
-    <id>https://aimatome.gamelab.website/#7b5b3bcafa03</id>
-    <updated>2026-11-15T04:45:27.000Z</updated>
-    <summary>Zenn ／ C#の基本文法が分かるエンジニアが、AIと1人で「在庫台帳のWeb API」を作る自学用カリキュラムです。人がテストを先に決め、AIが実装し、テストの合否で完了を判定する進め方を、Issue（人がレビューする単位）とAIタスク（AIに1回で任せる単位）の2段で練習します。基本設計・詳細設計・WBSを前提に、Issue…</summary>
-  </entry>
-  <entry>
-    <title>全文が最も正確。それでも記憶でクラウド費用は3分の1──ローカル×クラウドLLMを472問で比較</title>
-    <link href="https://zenn.dev/kaguraai/articles/36106e4c3931f4"/>
-    <id>https://aimatome.gamelab.website/#512d45c1dcb4</id>
-    <updated>2026-11-15T04:43:12.000Z</updated>
-    <summary>Zenn ／ 会話の全文を毎回渡す方式が、最も正確で、しかも最速でした。それでも記憶を使う理由は、クラウドLLMの費用を約3分の1に抑えられたからです。 私が開発しているAIエージェント向け記憶サーバーでは、過去の会話から記憶を作る処理と、その記憶を使って質問に答える処理を分けています。記憶の作成・検索・採点は手元のGPUマシンで…</summary>
   </entry>
   <entry>
     <title>OpenAI、ChatGPT Walletを開始 AIエージェントが本物のカード番号を見ずに支払い</title>
@@ -351,10 +309,52 @@
     <summary>Chosunbiz</summary>
   </entry>
   <entry>
-    <title>開発エージェントの実行履歴を、もう一度解ける評価ケースにする</title>
-    <link href="https://zenn.dev/shimpeiws/articles/5e0df5eeb398fb"/>
-    <id>https://aimatome.gamelab.website/#5c07a98a201a</id>
-    <updated>2026-11-15T04:33:37.000Z</updated>
-    <summary>Zenn ／ ! 保存していた初期要求と開始SHAから、同じタスクを再実装・採点するための入力を揃えられた Trace2Eval論文を参考に、過去の仕事を別セッションで解き直し、採点できる評価ケースを1件作った記録だ はじめに ソフトウェアファクトリのような開発エージェントを動かす仕組みを作っていると、モデルやハーネス、指示の与え…</summary>
+    <title>ゴムマリの専門業務AI-BPO、『月次決算チェック』を提供開始</title>
+    <link href="https://ascii.jp/elem/000/004/451/4451623/?rss"/>
+    <id>https://aimatome.gamelab.website/#99ccacff6b33</id>
+    <updated>2026-11-15T04:00:00.000Z</updated>
+    <summary>ASCII.jp</summary>
+  </entry>
+  <entry>
+    <title>プレスリリース：［生成AIの回答139件・出典757件を分類］AI導入の相談先を生成AIに尋ねると、示される出典の74.9%は企業サイト｜株式会社ネクストスケール調査（PR TIMES）</title>
+    <link href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5T1J3c1Z2U2JJbF80ZU9YblBGNmR5Nk9sWmthdnU5WEZrb0t0RVZ0YnhPUU5lZndFVU9ac0tYRUdEUjhJYmtwRmtOSDcyT09zdEx4eWVpYjBFbWROMXc5YjFfMUZMRmpY?oc=5"/>
+    <id>https://aimatome.gamelab.website/#f2bf5c42b867</id>
+    <updated>2026-11-15T03:52:42.000Z</updated>
+    <summary>毎日新聞</summary>
+  </entry>
+  <entry>
+    <title>AIを、まるっと履く。日常業務・顧客対応・営業・PRまで支える「AIパンツ」提供開始！！</title>
+    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9WOUVab2pHd1dfX20wWUJXTmdTWlQ0QTNzb0ZQWXllTU9HcWxsQVA1ekc4b2s0bTVSc20tVjBrV1RiT1Z6NjdEVW5uUmNNeW81UUZiZF9lTDhJTVhzZGQwUGpReGlhZ0VYbmJ1aDQyZ0g4NXBY?oc=5"/>
+    <id>https://aimatome.gamelab.website/#fa5ce52653af</id>
+    <updated>2026-11-15T03:40:00.000Z</updated>
+    <summary>Excite エキサイト</summary>
+  </entry>
+  <entry>
+    <title>米大手テック企業による人工知能（AI）投資は、2028年前後に調整局面に入る可能性があるとの見方が出ている。巨額の設備投資にもかかわらず、AIの活用が企業全体に広がっていないうえ、投資資金の負担やデー..</title>
+    <link href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wU2VEdmNVZnJMc2trQzNucDRQUUVOc09WWlFIVklwczJJNUxadTZhRzY4RnpkNi13bGpCYktyNlFmNGswdlJhX0RXdHNLX1U?oc=5"/>
+    <id>https://aimatome.gamelab.website/#251d6f7e3f1c</id>
+    <updated>2026-11-15T03:37:38.000Z</updated>
+    <summary>매일경제</summary>
+  </entry>
+  <entry>
+    <title>【生成AIの回答139件・出典757件を分類】AI導入の相談先を生成AIに尋ねると、示される出典の74.9%は企業サイ</title>
+    <link href="https://news.google.com/rss/articles/CBMie0FVX3lxTE54Q041Zm5Vd05nLXl1cWxDREs3dWF3LWpYTFpsNlFkMVNfV0lsbGR2OTdwZTVXUlV1OEZEbmJoTU84d1NraE8zRzQyeFBJczRaRy1yeWhtS2lkWG9rQmZ1TjdsWGFuNjZsM2NzMWtsX1p6VWprRGwwT0hYWQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#eb1ac2b07ada</id>
+    <updated>2026-11-15T03:30:16.000Z</updated>
+    <summary>ニコニコニュース</summary>
+  </entry>
+  <entry>
+    <title>生成AIの新手法「次概念モデリング」──文章の骨格を先に作り高速化を狙う</title>
+    <link href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jVk5nZm1vQ3lLNU1NNlJXNmhoclEzWVlsTnk5MkxXOFRQTzRQTFNtQVc2bkpRR2s4aTc0Nmx2RUdFU3h2VE1PMEtodVVZT3phOTEtb0dENjZ3dw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#8da7e499ae07</id>
+    <updated>2026-11-15T03:30:00.000Z</updated>
+    <summary>Forbes JAPAN</summary>
+  </entry>
+  <entry>
+    <title>サイボウズ、kintone新機能「プロセスAIエージェント」と新製品「Orito」構想を発表</title>
+    <link href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xOHBYVTY0Mkw1QWNlZUhDbnR0UXlSakNLTl9VSlZHd2VaclE5a09SZ1NRT0pCUXRQREZaLVZVcFZvVGROZWx6cE54d1BmMTZlcHk2aWdB?oc=5"/>
+    <id>https://aimatome.gamelab.website/#3e330939a6f4</id>
+    <updated>2026-11-15T03:10:05.000Z</updated>
+    <summary>EnterpriseZine</summary>
   </entry>
 </feed>
