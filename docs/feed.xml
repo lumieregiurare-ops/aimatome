@@ -5,14 +5,133 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-16T02:00:23.619Z</updated>
+  <updated>2026-11-16T02:30:29.856Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>HTTPXのbase_url、LLM接続先の二重パスを防ぐ</title>
+    <link href="https://qiita.com/hironakamura_ai/items/5f7060df01465345ae39"/>
+    <id>https://aimatome.gamelab.website/#2a5225469f9c</id>
+    <updated>2026-11-16T02:26:26.000Z</updated>
+    <summary>Qiita ／ 「先頭の / はホスト直下から始まる」。2026年11月14日付の開発者ブログ「datasette-llm 0.1a11」で互換エンドポイント対応を知り、HTTPXでも確かめたら、この予想が外れた。 HTTPX 0.28.1の Client(base_url=...) は、...</summary>
+  </entry>
+  <entry>
+    <title>韓国、半導体供給からAIインフラ運営へ…ネイバーが米企業と約2兆ウォンの契約</title>
+    <link href="https://news.google.com/rss/articles/CBMiuAJBVV95cUxNWEhhZTliRzQtRWEtbVpUTms0X0xsZTBNMm42OWRXb3hFdElFbkVmMjRVUGFuU0xMd0luNWlZTjMtbnM1NFZVcGpXRlVoSkZ6ZEk4YWptU0F0UThNbXNBczNPODYtSDdkU3U5M1hqNDlObk16MHdrSmgwY1ZlRlVMcGYtLUo0WUdBd3BpVTFYbG5GMk5jZWtKNzBCYVlvS2h6VHhUZEJ5U3RzSVlIWThvWVd3SFZ6UkxucGc2WU5Ya3FNR01GNTB2QkYyWmpGS3FsOTlwRU9ZdHNnYm93WXlIY2tya052TWVoakpZY1IwczBvdm9FSGlKV01VZFYybjFpY01meUlmLXRXZTJCNHNSWVAyZ3liSWppWHNMeldXLWV0NzVYekd6aXB6bXdMbm1Bcy1qY0c0Qjc?oc=5"/>
+    <id>https://aimatome.gamelab.website/#9e0755d4f632</id>
+    <updated>2026-11-16T02:20:09.000Z</updated>
+    <summary>KOREA WAVE</summary>
+  </entry>
+  <entry>
+    <title>リコーと東北電力、GPUクラウド活用で自治体・企業向けAI基盤を検証</title>
+    <link href="https://japan.zdnet.com/article/35254935/"/>
+    <id>https://aimatome.gamelab.website/#d7348f018a7b</id>
+    <updated>2026-11-16T02:19:00.000Z</updated>
+    <summary>ZDNET Japan ／ リコーと東北電力は、東北電力が提供するGPUクラウドサービス上に生成AIとAIエージェントの実行環境を構築し、東北・新潟地域の自治体や企業での実運用を見据えた共同検証を開始すると発表した。</summary>
+  </entry>
+  <entry>
+    <title>AIに同じ指摘をしないためにスキルを作った。それでも指摘はなくならなかった</title>
+    <link href="https://qiita.com/suu_u/items/0f4729da1c0dc913b392"/>
+    <id>https://aimatome.gamelab.website/#1c7aa74d12f5</id>
+    <updated>2026-11-16T02:13:41.000Z</updated>
+    <summary>Qiita ／ はじめに 最近、AIに実装やレビューを任せる中で、自分でスキルを作ったり、既存のスキルを修正したりするようになった。 ここでいうスキルは、AIに作業を依頼するときの手順や判断基準を、繰り返し参照できる形にまとめたものだ。 使ってみて分かったのは、スキルを作ることと、その内...</summary>
+  </entry>
+  <entry>
+    <title>日本語でリアルタイム会話可能なAI「Haru-4B」がオープンモデルとして公開される、電話で話せるデモもあり</title>
+    <link href="https://news.google.com/rss/articles/CBMibkFVX3lxTE4ycUVhc2M4ZHFFaXZYU1JIYkdzcVlfVjNGUVRUazQtemk5WnU5eXUwcGFjNFVRVDVTT0pFMDhTb1ZhaGs3NGE5U01CT21BbkNBM2dpNTFORlFsRHhrcFdMNEk2ZDFqTmIxWHlhQnVB?oc=5"/>
+    <id>https://aimatome.gamelab.website/#fed65d1e7c24</id>
+    <updated>2026-11-16T02:11:00.000Z</updated>
+    <summary>au Webポータル</summary>
+  </entry>
+  <entry>
+    <title>米ユナイテッド航空「AIエージェントの予約をブロック」 顧客保護が目的</title>
+    <link href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5IaDRkNVluYU5hUHM2UVhZTW5LbjVaVVNIWUVNXzV0b0pZRkxYRll2LXJQb1pXWGd2UUtDT1hXWjY4N25xMWEwR3MxX2NfR3hzbjZvel8ySzc3eWl6SXdMS0FkTm5kOWl0amR6MGtodFdKTFV2WTZn0gF8QVVfeXFMTlZlYko2cEFESXROY1J3ZU9mUERUSHMwXzRIRS1fZThvTXhTR05qeTEtU1RzNGc3a25oOUFZLUV2bWY3VjlnM19URHBqVUU0WDhkTTJUMkY5OVE5UXdJLVFFckdWM01hV3VYV1d4MU5fQzVwU1A2bWh3VDFTXw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#3ae73a25d48f</id>
+    <updated>2026-11-16T02:10:27.000Z</updated>
+    <summary>Infoseek</summary>
+  </entry>
+  <entry>
+    <title>AI攻撃エージェントの「作業メモ」をAmazonのハニーポットが捕捉 盗んだAPIキーで攻撃AIを動かし、さらに別のキーを探す手口</title>
+    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1tOXZhLWM2Ukh0ZTU5N2hNOTNfZ0Y5N2hDVWRJb0x5aUhDLUl0Mk5XTlRJb1ZDYzB2U0R1MUxwaXJIeFV1T0dvTkNNU2pzTFVaajYwUE5ySkpsRHR5alF4SzhMZE5sdENQZm5nXzMyVktLTm5aaFQzTDlrMjlDZzA?oc=5"/>
+    <id>https://aimatome.gamelab.website/#0aceb56a57aa</id>
+    <updated>2026-11-16T02:07:09.000Z</updated>
+    <summary>Yahoo!ニュース</summary>
+  </entry>
+  <entry>
+    <title>2026年11月16日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+    <link href="https://qiita.com/ennagara128/items/b535b587ae8f19886531"/>
+    <id>https://aimatome.gamelab.website/#d8b548289fd1</id>
+    <updated>2026-11-16T02:01:54.000Z</updated>
+    <summary>Qiita ／ 前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 「ざっくり工数どのくらい？」に「ざっくり工数こ...</summary>
+  </entry>
+  <entry>
+    <title>フジ、全ドラマに「生成AI」活用は本当に“勝ち筋”か…テレビ各局で進む“AI化”、細かなデータ作成は「ADからAI」に（デイリー新潮）</title>
+    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1aaXhvWEtzM2p0SXNuU01pZmpERzE3MVc1b2RYNDIwSmlacmhTa1dvX0hWX3BTMGNSMzd1U2dwMl85NWI4WWdjMmpuWGpQem00YXV4MEx3VGtIM0JubUlGOUEwWE9OdUlSaE1IUmJ0UjZ0Mi1PbFpjOFY3dTZJVUE?oc=5"/>
+    <id>https://aimatome.gamelab.website/#cde5fc446745</id>
+    <updated>2026-11-16T02:01:00.000Z</updated>
+    <summary>Yahoo!ニュース</summary>
+  </entry>
+  <entry>
+    <title>ファンコミュニケーションズ、生成AIの検索離れでA8.net16％減収 戦略事業は増収も先行投資で損失拡大 - media-innovation.jp</title>
+    <link href="https://news.google.com/rss/articles/CBMiakFVX3lxTE8yS2pta2lnOF80M1RFQzRYcjZKZjV0cERQcmFBWkpyT0lpOHJJRzY5aE9tcnd3WDdmWUhtdDFQT1IteTlvMUFCWU1ST0k0VGg1bS1oclp5RUM2eUpmai1QVkdMaUJvQ2hMT2c?oc=5"/>
+    <id>https://aimatome.gamelab.website/#ff52f4ec1931</id>
+    <updated>2026-11-16T02:00:03.000Z</updated>
+    <summary>media-innovation.jp</summary>
+  </entry>
+  <entry>
+    <title>福岡県保健環境研究所、AIを活用した「大気汚染予報」の計算基盤として「Dell Precision 7960 Tower」を導入し、県民の安全を守る予測システムを構築</title>
+    <link href="https://news.google.com/rss/articles/CBMiakFVX3lxTE05UUprRGRNQWpNRXpjRklsUjVpb2hQUTNJWmZWYm02U3JabV9McVdxa0dGUEZKb0hwbWxqSzZvT3Z5WGxDS1EyV0c3NmdMb2NlU3JXd3ZRUk5LNUJ0b3lxbXVpWGxGLVQwWWc?oc=5"/>
+    <id>https://aimatome.gamelab.website/#9bd812f40984</id>
+    <updated>2026-11-16T02:00:02.000Z</updated>
+    <summary>PR TIMES</summary>
+  </entry>
+  <entry>
+    <title>アンソロピックはまだ上場する準備ができていないと、フェイスブックのIPOに立ち会った私は感じる</title>
+    <link href="https://www.businessinsider.jp/article/2611-former-facebook-vp-urges-anthropic-to-delay-ipo/"/>
+    <id>https://aimatome.gamelab.website/#9b4758553a29</id>
+    <updated>2026-11-16T02:00:00.000Z</updated>
+    <summary>Business Insider Japan ／ 元Facebook幹部ブライアン・ボーランド氏は、FacebookのIPOとAIの安全性および財務上のリスクを引き合いに出し、アンソロピックはIPOを延期すべきだと述べています。</summary>
+  </entry>
+  <entry>
+    <title>イー・エージェンシー、Google Cloudが提供するビジネス向けAI「Gemini（旧 Gemini Enterprise）」を全社導入</title>
+    <link href="https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTZHV4VWFPclZrcEJLcl9RSDd5bzhDQUNydnBwcVNBalBwLV9mbzlwYlNKRjlqeU8zX3RGVXFHWjF0NG5tckdqdl9QeGcxU2oyaEZYUmJJRk9qN2s?oc=5"/>
+    <id>https://aimatome.gamelab.website/#100db8e5ee05</id>
+    <updated>2026-11-16T02:00:00.000Z</updated>
+    <summary>valuepress</summary>
+  </entry>
+  <entry>
+    <title>Sakana Chatの2モデル「Namazu」と「Fugu Max」の違いと選び方</title>
+    <link href="https://zenn.dev/kentaro36/articles/sakana-chat-namazu-fugu-max"/>
+    <id>https://aimatome.gamelab.website/#c7918069bf1a</id>
+    <updated>2026-11-16T01:59:15.000Z</updated>
+    <summary>Zenn ／ Namazuは日本語に特化した単一モデル、Fugu Maxは複数モデルを統括するオーケストレーターです。 メモリー機能は両方で利用できます。 1. はじめに Sakana Chatのモデル選択欄には、「Namazu」と「Fugu M…</summary>
+  </entry>
+  <entry>
+    <title>トランプ政権のラトニック商務長官に利益相反の疑念 中国向けAI半導体規制めぐり厳しい追及 | スマートニュース</title>
+    <link href="https://news.google.com/rss/articles/CBMi5gRBVV95cUxONmUwaGFTcWpJRDFDeWNtazhwNWdRMDkzWDZ2TzIwbjRST1FPd1ZXaFRPM2RCVFpJeTZXNjJ4em9uTUNSb19yZURibXYwS3VUa2JtaW05ZFBBeF9aSmcxNThKSkVndFFWbFBHeHViQUxzTzBfY3hVVUhYNzhQWklaVUlFSHdqVTFPRUlPbF96QWYyYU1CSF9jTHdOZ1lEUk9GRkdjMGlHbkM3ME9UZXgwRG9CeHRYZlRwNVY1Mnh5ekc0OHhpd0t1UWoza05rRXZzUXBxS0lwVTlib1VFbHFJbk5HV2FFM25uTHY0SzI3X2xsQ09Pbnc5X3AtZF8xQmFVa3A4R1FJSF9MOFlCYWNta0pUTjQ4aHJJOU9iUFU3QUZWUGkyYzhQM1Z4YnE0MEZDUF9YU3YyVEV5LXlwTlp3NmVaV0hCZ0RDMkphRG5VT3k2X0hfVVEyUkxJd2F6Q0xXZXF4YnZWSFJXV1IxMm9ZSXdNRzNINUk5ajdsaUJMOFdIYlZSbEdsU3NXdG5jRGNWcXlwdjhGMWhSRFJnWVh4RnNFcVJqdVRMRkFNampEMUNQSjFlOUkyNXJBQUNCM3QycTdCZWVRWlBqbGRtclQ4bFZOVVE4RXhSUERsZUlzNlRBUVRsemRVa3pMaDQxSEhGY2VUSXJFeWZJbGhQRmt1WW9xZ3d0N2JPOFpuZENwX1luT1UxSVFUNEFpT1lCelJxM2gzaXdpNm1COTVEQ1VENzZfM282ZE5zdXNDc19MN1dWcnNNcXk1U05rdGMxUDdxdW1XU0pYS1IxdGpqZ2JSNEU4SjNxUQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#3d5f0ed97beb</id>
+    <updated>2026-11-16T01:59:00.000Z</updated>
+    <summary>SmartNews</summary>
+  </entry>
+  <entry>
+    <title>バラット・セミ、画像センサーにAIを直接搭載へ、シード資金2,400万ドルを調達</title>
+    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBkbHB0SnBhcG9DOVhiZWJzN21kVTV1MDdjQVdWeWdSRDVTX29hQ1FLMFRKendoMjgwUTNEM2VlMG1KTzIySmxWTlNFQVVWcFVIbDd3WlJrVnZyMXZ5a2NsV0JSemVqOENiZWFFMFRNdHZqVi1D?oc=5"/>
+    <id>https://aimatome.gamelab.website/#e97ccbaf3ee7</id>
+    <updated>2026-11-16T01:55:00.000Z</updated>
+    <summary>BigGo ファイナンス</summary>
+  </entry>
   <entry>
     <title>中国、AI技術獲得へ国家総動員戦…「ハッカーの数はFBIの50倍」</title>
     <link href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01azl1YzhuREpSckNMem16SWk5ejZjV1RiTXlKeVZtbFhjNnptZmRlNWlLdGJvMjRDbW1MdjRCb1VZUDdsc2N0ZXZiQXRJOWdobk9OSkw4UEFqZVpsaU5LTzZKVmFkcVXSAWxBVV95cUxNVTg4Z2VGVUZWbGRWZTFyUk5rOWg5UmNnal8tdnpFb1ZpMjYzOTNyVzZJMGw0STRvZ1gxVXl4c09hNkNOSXJDcTFqRW1qVGV3U3kxMUhQd1RyekFLWmtZTTZIYVZXbWNUNnVMcTY?oc=5"/>
     <id>https://aimatome.gamelab.website/#7b97ebdc2462</id>
     <updated>2026-11-16T01:52:29.000Z</updated>
     <summary>Infoseek</summary>
+  </entry>
+  <entry>
+    <title>並列稼働するAIコーディングエージェントの管理ツール7選【2026年版】</title>
+    <link href="https://zenn.dev/techhub/articles/f7986c5e9897"/>
+    <id>https://aimatome.gamelab.website/#2658c1c753cc</id>
+    <updated>2026-11-16T01:47:56.000Z</updated>
+    <summary>Zenn ／ AIコーディングエージェントによって開発者の働き方がどう変わるのかを調べる中で、一つはっきりしてきたことがあります。大きな可能性は、一体のエージェントにコードを速く書かせることだけではありません。開発プロセスをきちんと管理しながら、複数のエージェントを同時に動かせることにあります。 あるエージェントが新機能を実装し、…</summary>
   </entry>
   <entry>
     <title>対中AI半導体規制、米国の超党派で法案成立の機運―エヌビディア前CEOのスパイ疑惑受け</title>
@@ -36,11 +155,11 @@
     <summary>Qiita ／ 生成AI ニュースレポート — 2026-11-16 収集日時: 2026-11-16 対象期間: 過去48時間（直近情報を中心に） 記事数: 24件 主要ニュース 1. Super Agent 進群：今年11.11、多了個会主动干活的「数字人队长」 ソース:...</summary>
   </entry>
   <entry>
-    <title>台湾華語 : ノーAIスロップ宣言</title>
-    <link href="https://qiita.com/maszkot5/items/e4e2018eb5263fdbc82f"/>
-    <id>https://aimatome.gamelab.website/#04bb57ab7c82</id>
-    <updated>2026-11-16T01:35:32.000Z</updated>
-    <summary>Qiita ／ ご提示いただいたソース「[AINews] The No AI Slop Manifesto」の内容に基づき、ビジネス・経済学の視点を取り入れた台湾系アイドル2人（怡婷：Yiting、佳蓁：Jiazhen）によるバイリンガルポッドキャストのオープニング対話スクリプトを作...</summary>
+    <title>Vector Databaseは何のためにあるのか？ RAGを支えるデータベースの仕組み</title>
+    <link href="https://zenn.dev/tessei/articles/f4191faff9831e"/>
+    <id>https://aimatome.gamelab.website/#5c7d4049c562</id>
+    <updated>2026-11-16T01:36:13.000Z</updated>
+    <summary>Zenn ／ 前回は、RAG（検索拡張生成）について解説しました。 RAGでは、ユーザーの質問に関連する情報を検索し、その情報をLLMに渡すことで、社内マニュアルや製品情報などを参考にした回答を生成できます。 その検索処理で重要になるのが、E…</summary>
   </entry>
   <entry>
     <title>セールスフォース、韓国に「Tableau Studio」投入 クリックではなくAIと対話する分析へ</title>
@@ -85,18 +204,11 @@
     <summary>株式会社インプレス</summary>
   </entry>
   <entry>
-    <title>AIを使うようになって、これから伸ばしたい力を考えてみた</title>
-    <link href="https://qiita.com/kmatsuda_slj/items/7629dc7ca925cccc0799"/>
-    <id>https://aimatome.gamelab.website/#47cbe79171ca</id>
-    <updated>2026-11-16T01:29:46.000Z</updated>
-    <summary>Qiita ／ はじめに 僕は普段から、AIとよく会話しています。 コードの説明を聞いたり、文章を整理したり、考えがまとまっていない段階で相談したり。会話を続けるうちに、「それなら一度試してみよう」と思えることも増えました。 使い方を振り返ると、僕はAIに、先輩に相談するような感覚で話し...</summary>
-  </entry>
-  <entry>
-    <title>ノーAIスロップ宣言</title>
-    <link href="https://qiita.com/maskot1977/items/76b43470d66cc51894ef"/>
-    <id>https://aimatome.gamelab.website/#95a897991688</id>
-    <updated>2026-11-16T01:29:26.000Z</updated>
-    <summary>Qiita ／ 提供されたソース「[AINews] The No AI Slop Manifesto」は、AI業界の技術的・インフラ的動向およびビジネス・市場・経済性の観点における構造変化について、以下のような多角的な視点から極めて詳細な分析を展開しています。 1. 業界の質的転...</summary>
+    <title>Claude Code自動化の実例｜定期実行48本とサブエージェント15部署を毎日回す仕組み</title>
+    <link href="https://zenn.dev/orectic/articles/claude-code-ai-org-daily-operations"/>
+    <id>https://aimatome.gamelab.website/#75ca5240edb6</id>
+    <updated>2026-11-16T01:26:58.000Z</updated>
+    <summary>Zenn ／ はじめに Claude Code を「1人の助手」ではなく、役割を分けた組織として毎日動かすには、定期実行を足すだけでは足りませんでした。足りなかったのは、動いたあとの層です。結果を必ず報告させる、動かなかったものを見張る、結果を次の判断に使う、うっかりの操作を止める。この4つです。 この記事は、ひとりで Web 制…</summary>
   </entry>
   <entry>
     <title>KOSPI 5300台「ぎりぎり」維持に失敗…AI資金調達懸念で半導体株が足を引っ張る</title>
@@ -113,11 +225,11 @@
     <summary>毎日新聞</summary>
   </entry>
   <entry>
-    <title>Z Creative Partners、ChatGPTの企業向け新機能を受け、ブランド評価・改善支援の強化方針を発表（PR TIMES）</title>
-    <link href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QZm9BNHVDdC1VT0xqdW1JVEswZ1R3cDM0TlNyU0sxeDRpS2ttTndZV1hWa1huS1VkQ21CSEpaODBzMklaTWZTaFAzeG0xWXk4cEtuSVVrMGk3dlVfNDRiYnpCbFhpdTV5?oc=5"/>
-    <id>https://aimatome.gamelab.website/#e4de51b15df9</id>
-    <updated>2026-11-16T01:23:22.000Z</updated>
-    <summary>毎日新聞</summary>
+    <title>エンタープライズAIエージェントの成否は「中間層」で決まる</title>
+    <link href="https://news.google.com/rss/articles/CBMi3gJBVV95cUxPbzJKUkp0RGtKdWpxa3k0MXB4MzI1b0piaDhYNHhWd01hLTBJZTFaa1Rkb1FGRVcteWVaZkN5R3gyOTlWSEZtbmNSelB4b0lYQ1ZTNUExbE5Da0RsLVRJU3AxQk1Da1lGcWRpQi1YTzdWSDY1R1FGVTNQcEZ4N08tYnJ2R1dVZEhtLWpBWTlhUDNnR19Uc2MydGx6M2tORzIzY1pGcHhtMEp3N2pvcHU4dF9hSmxSLVB0S09CcWhiZUxjRnZtN1VRZ2FLNFlvM2c4QWJmbXNGM190RjhjdC1vTVhwN1NCM3k5YkFhMEQ0R1l4LUdCb2cwcFpEQU1zRFpIdy0yNTBkZ3FtYVFnT1B1NDZoMjNjdW1uX1ppNDdBTXczMzl6eVgzNWRaUUJsMGNxRkxxMmJtTTY3TUxQems3VVJtQ0k2dlpUaVU2N1FLdEpfZTVndlBYS09sRVo0Zw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#ab318578962f</id>
+    <updated>2026-11-16T01:22:22.000Z</updated>
+    <summary>www.cio.com</summary>
   </entry>
   <entry>
     <title>東京精密－岩井コスモが目標株価引き下げ AI半導体需要でプローバー需要は旺盛〔DZH 個別株情報〕(時事通信)</title>
@@ -134,11 +246,25 @@
     <summary>STARTUP LOG</summary>
   </entry>
   <entry>
+    <title>M365障害2日目、ChatGPTもClaudeも連携停止</title>
+    <link href="https://zenn.dev/sugawara_ai/articles/ai-news-20261115"/>
+    <id>https://aimatome.gamelab.website/#51719d5a0fb7</id>
+    <updated>2026-11-16T01:21:04.000Z</updated>
+    <summary>Zenn ／ 2026年11月15日（日）のAIニュース完全解説版。図解を見れば本文を読まなくても分かる形にしています。 皆さん、おはようございます。今日いちばん伝えたいのは、AIって単体では動いてないってことなんですよ。マイクロソフトの障害で、ChatGPTとClaudeの連携まで止まりました。ほかにも、NVIDIAをめぐる新し…</summary>
+  </entry>
+  <entry>
     <title>農業現場とAIを繋ぐ仕組みへ。農業人事評価・業務管理アプリ「suino」がMCP連携に対応</title>
     <link href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1uUFN0Ymx0R3RKeFlBb3R6TmhiUjZXam0xeGtkVWxjMjRzQl9ET0I0T2gwUjNiQUVhaFNsMzBQNlAyc2xuY2dBck9RNzNhaVhGTlc0V3RuVWxvY0dJTHEtWXVaRWZweHlza1E?oc=5"/>
     <id>https://aimatome.gamelab.website/#fc5994decafc</id>
     <updated>2026-11-16T01:19:40.000Z</updated>
     <summary>PR TIMES</summary>
+  </entry>
+  <entry>
+    <title>AvePoint、Microsoft との戦略的パートナーシップを強化し、信頼できる AI の導入を推進。全世界の従業員への Copilot 展開に続き、Microsoft 365 E7 の利用を拡大</title>
+    <link href="https://news.google.com/rss/articles/CBMickFVX3lxTFBfVnBmR1JnWGNmd1hxQzg5cDZDUDhNS0xDNWlEZlowT2tFVElSeW03TjlneGxQNnFTYXJtak9aUFdxSTltMGxuU1hzOGpUdDFnUmVreVA5WUh6YTdiT0xIYUdkMzNhUE00bjhLbEVHTHRqdw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#bb654972e029</id>
+    <updated>2026-11-16T01:15:39.000Z</updated>
+    <summary>Infoseek</summary>
   </entry>
   <entry>
     <title>「Gemini」に新機能「メモリーの要約」が登場--内容を確認、編集するには</title>
@@ -162,6 +288,20 @@
     <summary>PR TIMES</summary>
   </entry>
   <entry>
+    <title>TechLead Conference 2026 Autumn 参加レポート：AI時代に人間に残る「理解・決断・共創」をチームでどう鍛えるか</title>
+    <link href="https://zenn.dev/dip_techblog/articles/a3a2bfae32acb4"/>
+    <id>https://aimatome.gamelab.website/#d84820c9e5a4</id>
+    <updated>2026-11-16T01:09:14.000Z</updated>
+    <summary>Zenn ／ はじめに TechLead Conference 2026 Autumn に参加してきました。 ! 本記事では、各セッションの要点をまとめたうえで、それを私たちがどう受け取ったか、そして私たちのチームが明日から何を変えていくかを書きます。 参加したセッションは次の3つです。 AIがコードを書く時代に、組織の中でエンジ…</summary>
+  </entry>
+  <entry>
+    <title>BigQuery × AI.EMBED関数でEC商品の類似度検索を実装する</title>
+    <link href="https://zenn.dev/web_benriya/articles/bigquery-ai-embed-ec-product-similarity"/>
+    <id>https://aimatome.gamelab.website/#d4241a8050c1</id>
+    <updated>2026-11-16T01:08:09.000Z</updated>
+    <summary>Zenn ／ はじめに 「この商品を見た人はこんな商品も見ています」——大手ECサイトでよく見かけるこのレコメンド機能、実は機械学習の専門知識がなくても、BigQueryだけで実現できるようになっています。 中小ECサイトを運営していると、「類似商品のレコメンドを出したいけれど、開発コストがかかりそうで手が出せない」というお声をよ…</summary>
+  </entry>
+  <entry>
     <title>リコーと東北電力、GPUクラウドサービスを活用したAI環境の検証を開始</title>
     <link href="https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPckZWd292MzRITTk0TzFzLXJrZFgwX1FNQlptZzlKX2J5aXNIUC16bkRXYTdXUnotRHBCWm9SUklMYVZmMEJxMHlHYlBna2JZREk1M1lfdXgxQlo5NEE?oc=5"/>
     <id>https://aimatome.gamelab.website/#d9a431df9d30</id>
@@ -169,18 +309,18 @@
     <summary>沖縄タイムス社</summary>
   </entry>
   <entry>
-    <title>フジ、全ドラマに「生成AI」活用は本当に“勝ち筋”か…テレビ各局で進む“AI化”、細かなデータ作成は「ADからAI」に</title>
-    <link href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yRE9jR2dZalVwazNMRXRhcThVWlB0ZlY1aTVZNHRjdUhzamNxb25RTngtNVVVV2dCMjRMQXlFaklJOG1NMXFwNHBCYVVjOTFpVC1qN25TTjJjMlJBcHhv?oc=5"/>
-    <id>https://aimatome.gamelab.website/#cde5fc446745</id>
-    <updated>2026-11-16T01:01:00.000Z</updated>
-    <summary>デイリー新潮</summary>
-  </entry>
-  <entry>
     <title>日本AIサーバーコンポーネント市場：AIインフラ投資の急増と高度なコンピューティング需要が新たなサプライチェーン機会を創出</title>
     <link href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4b0VSYUcyQU1BajU2eDQwN0J5cjNZbnNUeWZjaGpXZEhPX1VwanVxblZCbWswb2ZCSkt3M24tY3ZXaldmVjdOXzJpb045Njd5TnFDcjMteldDb2E1eUs0Z1BXZk1JaFNm?oc=5"/>
     <id>https://aimatome.gamelab.website/#9f1958b5aba3</id>
     <updated>2026-11-16T01:00:32.000Z</updated>
     <summary>ニコニコニュース</summary>
+  </entry>
+  <entry>
+    <title>Musk 回の速報と、足切りを戻して試す Gates 回（#44 投稿前予測）</title>
+    <link href="https://zenn.dev/talks_tldr_jp/articles/tldr44-gates-prediction"/>
+    <id>https://aimatome.gamelab.website/#b520218449c7</id>
+    <updated>2026-11-16T01:00:10.000Z</updated>
+    <summary>Zenn ／ この記事は何か 海外の Tech Talk を日本語の縦型ショートに切り出して TikTok に投稿しています。投稿する前に予測を保存し、あとで実測と突き合わせる運用です。 今回の #44 は Bill Gates（The Verge の番組 Decoder、2026-10-22）です。 ! この記事は 2026-1…</summary>
   </entry>
   <entry>
     <title>中小建設会社のAI導入を、現場からオフィスまで。リグテックが「I-connect」を建設DX展に出展</title>
@@ -191,10 +331,10 @@
   </entry>
   <entry>
     <title>インターンから新卒入社へ。生成AI「コモンズAI」を自治体の日常にする若手社員の挑戦</title>
-    <link href="https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfVUt1eTlNTEZvT1otMGhuNzUyODVBdnFRbVVaMFVDX3hCX0pta3NyamFZNFdDOFUxanI0ZS14a1h5ZC05QVUwaHBBcVFpRTQycmwxWGFlME1FeERITWc?oc=5"/>
+    <link href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVc4ZXlkbjZXMjBUYlVGWFRBZ1RoeVYwQXRaRHlJTmgtbXY5VG9DaEx0QnFHMGdETnlEWVNXcEVUYm9Gdk9ndTNIQzFEdjFmVXFDVHhjcEVxNjQ1ZEZLaEd6VElyNVpCbHhoZVVfQ29vOXFaVmxJaWpxMnJIdHY3WkJwcw?oc=5"/>
     <id>https://aimatome.gamelab.website/#0d7e09cb9408</id>
     <updated>2026-11-16T01:00:00.000Z</updated>
-    <summary>沖縄タイムス社</summary>
+    <summary>産経ニュース</summary>
   </entry>
   <entry>
     <title>OpenAIが集客向け新機能──ChatGPTで企業が商品紹介ページを開設、AIが接客</title>
@@ -216,145 +356,5 @@
     <id>https://aimatome.gamelab.website/#5bd3d3911f73</id>
     <updated>2026-11-16T00:58:46.000Z</updated>
     <summary>XenoSpectrum</summary>
-  </entry>
-  <entry>
-    <title>黒田グループが小動き、生成ＡＩ普及による上方修正も買い続かず(ウエルスアドバイザー)</title>
-    <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3REN3d6T09ZTVNLRVI4bkF5VGVkMXI4elYydWZMMzg5ZldGX2Y2cll2dXpKazg5N0tKN1Z3QjZST0c4WGh3WlRxQ1N5bnZYaHFYblZpWlFaQWVoLW9kM0FOQ0JiSG05Yk9feFFkcUh1anNQZWw3V0xYS1c4VUJPbTY5ZmpPZEU?oc=5"/>
-    <id>https://aimatome.gamelab.website/#ee5cfe62660f</id>
-    <updated>2026-11-16T00:57:10.000Z</updated>
-    <summary>Yahoo!ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>AIが家計と決済に本格進出、グーグルは「読むだけ」、OpenAIは「買い物代行」で真逆の布陣</title>
-    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE9xWE1YUjlvTTMtWXBjX0IzWmNhdnBfeVB3Y01vSXVZM19pb2NDRU5McHo2WFNxR2ZySnJhLS0tNzFQTFhBTktQcjRUcHBtUDJvUVhLWXZ2UDZlODBCaFhvVUF2NkVkM01iM3RXc3lLZlh5cTZw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#1345c3aeebd3</id>
-    <updated>2026-11-16T00:55:00.000Z</updated>
-    <summary>BigGo ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」 カード番号は渡さず、購入ごとに生体認証</title>
-    <link href="https://www.itmedia.co.jp/news/article/2611/16/2000003208/"/>
-    <id>https://aimatome.gamelab.website/#789cc20cd378</id>
-    <updated>2026-11-16T00:49:03.000Z</updated>
-    <summary>ITmedia AI+ ／ OpenAIは、AIエージェント「dot」による決済機能「ChatGPT Wallet」を発表した。実際のカード情報を店舗に渡さず、購入ごとに生体認証を求める仕組みで安全性を確保する。米国のChatGPT Pro加入者向けに提供を開始した。将来は事前承認に基づく自律決済にも対応する計画。</summary>
-  </entry>
-  <entry>
-    <title>エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場 OpenAIが決済大手と提携し開発 提供は米国から</title>
-    <link href="https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/"/>
-    <id>https://aimatome.gamelab.website/#28dd3a31d746</id>
-    <updated>2026-11-16T00:44:05.000Z</updated>
-    <summary>ITmedia AI+ ／ OpenAIはエージェントがユーザーのカード情報にアクセスせずに支払いを代行する機能「ChatGPT Wallet」を発表した。</summary>
-  </entry>
-  <entry>
-    <title>インターシステムズ、グーグル・クラウドの「Gemini for Healthcare」のローンチパートナーに</title>
-    <link href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOdmt4bGxsd1dYcTBacFRtczNKdnhDRi1QdEVCUC1rd0ZES284NkQ5YjluUFJDbDNMUmJlSWZDSE1rd3ZRN21zei1vVXV6VzFGcDZFWEt2eDdNY1dvVjZjOWVxTUxzOGM?oc=5"/>
-    <id>https://aimatome.gamelab.website/#9095e1a32bf0</id>
-    <updated>2026-11-16T00:41:00.000Z</updated>
-    <summary>Infoseek</summary>
-  </entry>
-  <entry>
-    <title>シンカ---3Qは24.6%増収、生成AI機能の拡充で成長投資を推進(フィスコ)</title>
-    <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPVno4X0hYYUYtTjZWbG9DMDlGZlBiaVpRZFFEaHJpRlNkdzIzTHNhSUw0Wlg0cHpFdmM0R0VZbkpZLXV6alFNWXktcUVTR0FJbkpjVUMwbzR1X3BoUC10Qy05czVVb09jekRJbG5IZUJEZjNzbVA5QU51ZFZQUVdmRC10OWw0Qmc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#ac3b27c21da2</id>
-    <updated>2026-11-16T00:40:29.000Z</updated>
-    <summary>Yahoo!ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>ikuraと東急不動産、渋谷の観光支援施設「shibuya-san」で多言語AIエージェントの実証運用を開始 WhatsApp活用で24時間・50言語に対応</title>
-    <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KM3BnMGQ5SlY2YlBpS3pMd1VuTkVCWGo1UlNodTMwSjBRSU9WYVhYWDdiU2Y5ZmY2aVl1aWZGQ2xSTi1td3FKSVY2OWxMU2lJZ184?oc=5"/>
-    <id>https://aimatome.gamelab.website/#911b7d6f7fb4</id>
-    <updated>2026-11-16T00:34:09.000Z</updated>
-    <summary>LIGARE（リガーレ）</summary>
-  </entry>
-  <entry>
-    <title>Microsoft 365の大規模障害を受け、業務可視化AI「メボシ」が「停止影響レポート」の受付を開始 ── サービスが止まると、どの業務が何人分・何時間止まるかを記録データから試算</title>
-    <link href="https://ascii.jp/elem/000/004/451/4451669/?rss"/>
-    <id>https://aimatome.gamelab.website/#20340f8a9f9b</id>
-    <updated>2026-11-16T00:30:00.000Z</updated>
-    <summary>ASCII.jp</summary>
-  </entry>
-  <entry>
-    <title>米財務長官が10日間の期限通告、NVIDIAに先端半導体がペーパーカンパニー経由で中国に流出したか説明要求</title>
-    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE1xX3R2THNJQmdHb0hUb2NUYXhKNl9heXpFaml3MmtfUzlwZWNHc1hNVDBORlJ3OVZKaEpaYnRfdTFQSFBQRkpaS1BSMFpwUnk5d0dWRm9GcmU0N1pOeEJ4bEJOeUFHaXBPS0M1UUgzQ2V6NzMx?oc=5"/>
-    <id>https://aimatome.gamelab.website/#6d8b54f0572e</id>
-    <updated>2026-11-16T00:25:00.000Z</updated>
-    <summary>BigGo ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>「AIを使う組織」から「AIで実装できる組織」へ。エクサウィザーズが情シスの「現場実装力」とFDE育成を語るセッションを「BtoB Growth EXPO for IT・情シス」で11月30日開催</title>
-    <link href="https://ascii.jp/elem/000/004/451/4451672/?rss"/>
-    <id>https://aimatome.gamelab.website/#af543856b649</id>
-    <updated>2026-11-16T00:20:00.000Z</updated>
-    <summary>ASCII.jp</summary>
-  </entry>
-  <entry>
-    <title>平田機工がカイ気配、生成ＡＩ向け半導体需要が拡大で業績予想引き上げ(ウエルスアドバイザー)</title>
-    <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxOdGdPVTA0aU9Bc2JCdEtaY1RTaVcxWUtROHVvWVZMRUtlZVVkYjdDdDRLUENyeWZiNW1aVXlZYmRwX2RKVkFrQ2xET3QtQkVHNmdzLXNHZGpaSWdPVWUyVUlra0hqUm55RURwd1hxWm43WXBzQUVOelBNYWdUZ0FDQ05PTlNMWWM?oc=5"/>
-    <id>https://aimatome.gamelab.website/#c86c33e7174c</id>
-    <updated>2026-11-16T00:19:46.000Z</updated>
-    <summary>Yahoo!ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>内製 Coding Agent &quot;haro&quot; と社内 GPU で、探索的テスト AI Agent をぶん回している - LayerX エンジニアブログ</title>
-    <link href="https://tech.layerx.co.jp/entry/haro-et-agent"/>
-    <id>https://aimatome.gamelab.website/#3a4d7d710450</id>
-    <updated>2026-11-16T00:08:29.000Z</updated>
-    <summary>はてなブックマーク ／ こんにちは、Hiromu Nakamura (pon) です。LayerX で AI/MLOps テックリードをやってます！ 最近、公開前の機能の探索的テストを、社内の Background Coding Agent「haro」と、社内 GPU で動かしている Qwen3.8-27B にまかせています。探索的テストは…</summary>
-  </entry>
-  <entry>
-    <title>米エヌビディアは「AIの中央銀行」であり続けるか？フアン氏退任後のAIブームの行方（ロイター）</title>
-    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1oQlhtODE0OEllN2EyNlBCMEZGcmV5VTVld3NpWHJ3TnZnTTFpUVBtSGpSTEd4V1VsNHhsRFlEM0tVTEFwOWtrbldCTndLZXFJeWhtWEotTlZqbkpJdGhqZGhVUGloZ1dMSXNoV2FncTdPQ0xtN1A5aVo4SC1QRms?oc=5"/>
-    <id>https://aimatome.gamelab.website/#b95bedda8e67</id>
-    <updated>2026-11-16T00:06:24.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
-  </entry>
-  <entry>
-    <title>AIエージェント開発者は新たな専門職に システム開発と人材・組織開発の融合で変わる仕事</title>
-    <link href="https://news.google.com/rss/articles/CBMihgFBVV95cUxNc1p0NG9icmcxR3pWS2FpYVJaR0dhWDhheVhhNHJfcjVZX0ZfSG5VYlBaM0sySnhMTWtjYWFoaXZidGZSVmFjRGJrZnJleVRVRE1sdlN5NzJrV2ZPM2V1dGQzUG5rNFNEMzhNSDR6QnlYNmV0REpPcTlFcnI5eTMwSFpORFlYQQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#0acc40f9ebc8</id>
-    <updated>2026-11-16T00:02:51.000Z</updated>
-    <summary>月刊「事業構想」オンライン</summary>
-  </entry>
-  <entry>
-    <title>CAD図面内の品名や注記をAIで検索、DWG／DXF形式に対応</title>
-    <link href="https://monoist.itmedia.co.jp/mn/articles/2611/16/news016.html"/>
-    <id>https://aimatome.gamelab.website/#871a4f7c23da</id>
-    <updated>2026-11-16T00:00:00.000Z</updated>
-    <summary>ITmedia AI+ ／ StockはAIナレッジツール「ナレカン」において、DWG／DXF形式のCADファイルをキーワード検索とAI検索の対象に追加した。図面内に記載された品名や仕様、注記などのテキストを基に目的の図面を探せる他、AIによる要約記事の自動作成も可能になった。</summary>
-  </entry>
-  <entry>
-    <title>ゴムマリの業務AIエージェント、『VOC分析』を提供開始</title>
-    <link href="https://ascii.jp/elem/000/004/451/4451690/?rss"/>
-    <id>https://aimatome.gamelab.website/#fe239e0833b2</id>
-    <updated>2026-11-16T00:00:00.000Z</updated>
-    <summary>ASCII.jp</summary>
-  </entry>
-  <entry>
-    <title>【TechSuite株式会社】【業界特化調査 第40弾】AI検索パートナーズ、法人インターネット回線選びのAI検索対策（LLMO/AIO/GEO/AEO）調査を実施｜上位2社の登場率が7割超</title>
-    <link href="https://ascii.jp/elem/000/004/451/4451688/?rss"/>
-    <id>https://aimatome.gamelab.website/#ec2d5d10f13e</id>
-    <updated>2026-11-16T00:00:00.000Z</updated>
-    <summary>ASCII.jp</summary>
-  </entry>
-  <entry>
-    <title>QommonsAI活用研修を京都府八幡市（きょうとふ やわたし）で実施- 基礎から実践へ、日常業務での生成AI活用を考える中級編</title>
-    <link href="https://ascii.jp/elem/000/004/451/4451687/?rss"/>
-    <id>https://aimatome.gamelab.website/#76217c3f6325</id>
-    <updated>2026-11-16T00:00:00.000Z</updated>
-    <summary>ASCII.jp</summary>
-  </entry>
-  <entry>
-    <title>Queue株式会社がDX経営セミナーに登壇AIに選ばれる企業の情報戦略を解説</title>
-    <link href="https://ascii.jp/elem/000/004/451/4451683/?rss"/>
-    <id>https://aimatome.gamelab.website/#15117bb7215e</id>
-    <updated>2026-11-16T00:00:00.000Z</updated>
-    <summary>ASCII.jp</summary>
-  </entry>
-  <entry>
-    <title>情シス・DX推進部門向け「BtoB Growth EXPO for IT・情シス」11月30日開催、全セッションと出展企業20社を公開 ─ 全社DX・セキュリティ・IT資産管理×AIの実践を1日で</title>
-    <link href="https://ascii.jp/elem/000/004/451/4451679/?rss"/>
-    <id>https://aimatome.gamelab.website/#a6ef791d1ab1</id>
-    <updated>2026-11-16T00:00:00.000Z</updated>
-    <summary>ASCII.jp</summary>
   </entry>
 </feed>
