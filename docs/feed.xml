@@ -5,28 +5,56 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-17T14:00:22.766Z</updated>
+  <updated>2026-11-17T14:30:34.086Z</updated>
   <author><name>AI matomechatter</name></author>
   <entry>
-    <title>開発エンジニアじゃなくてもclaude効果的に使えるもん</title>
-    <link href="https://qiita.com/hameko/items/6658179678409707bc53"/>
-    <id>https://aimatome.gamelab.website/#8d4174a79821</id>
+    <title>非同期タスクの終了コードまで制御する CLI画像生成 のシェルスクリプト実装メモ</title>
+    <link href="https://qiita.com/lastlight/items/586427831e3a17a485c3"/>
+    <id>https://aimatome.gamelab.website/#30df55d981bc</id>
+    <updated>2026-11-17T14:26:37.000Z</updated>
+    <summary>Qiita ／ 静的なWebサイトや開発中のプロトタイプ用にダミー画像を量産したいとき、毎回ブラウザの生成画面を開いて保存するのは手間がかかります。そんな場面で CLI画像生成 をシェルスクリプトに組み込んでおくと、標準出力のJSONと終了コードだけで生成からファイル保存までを一貫して自動...</summary>
+  </entry>
+  <entry>
+    <title>シニアに向けた大情報時代におけるパソコン、スマホに対する心構えと実際にあった危ないと思った話</title>
+    <link href="https://qiita.com/su3-hokkaido/items/35ed9ef4f5d4c3621ba5"/>
+    <id>https://aimatome.gamelab.website/#b2f6ab55b056</id>
+    <updated>2026-11-17T14:24:37.000Z</updated>
+    <summary>Qiita ／ これなに 一昔前と違い、今はインターネットやパソコン、スマートフォン、アプリなど、触れる機会のあるものがたくさんあります。 エンジニアを本職としている人やよくパソコンやスマートフォンを使う機会のある人たちであればそれなりに知識や考え方が身についていると思います。 一方で、...</summary>
+  </entry>
+  <entry>
+    <title>AIがPRを大量に作る時代、承認は誰がやる？Copilot承認の確認3点</title>
+    <link href="https://qiita.com/kinamocchi_tech/items/7246f9bb4097b421c1a8"/>
+    <id>https://aimatome.gamelab.website/#d89c7cdd4238</id>
+    <updated>2026-11-17T14:16:24.000Z</updated>
+    <summary>Qiita ／ 📺 この記事は YouTube チャンネル きなこもっちーのテック深掘り の動画解説記事です。 ▶️ 動画はこちら → AIがPRを大量に作る時代、承認は誰がやる？Copilot承認の確認3点 🐹🦜 この記事に登場する2匹 🐹 もっちー （ハムスター）… AI はま...</summary>
+  </entry>
+  <entry>
+    <title>G検定の歴史問題で取り違えやすい 6 組 — 年号と人名を「対」で覚える</title>
+    <link href="https://qiita.com/manga_epoch/items/69ba1b3d7cca0b62bd4c"/>
+    <id>https://aimatome.gamelab.website/#60e3c3dcf71d</id>
+    <updated>2026-11-17T14:16:07.000Z</updated>
+    <summary>Qiita ／ G 検定の「人工知能をめぐる動向」は、出てくる名前が似た時期に固まっています。 ひとつずつ覚えると、試験の選択肢で隣の項目と入れ替わります。 そこでこの記事では、取り違えやすいものを2 つ 1 組にして並べます。 組の中で「どこが違うか」だけ押さえれば、選択肢で迷いにくくな...</summary>
+  </entry>
+  <entry>
+    <title>創薬AIに50億ドルの衝撃 アルファベット傘下のアイソモルフィック・ラボが資金調達</title>
+    <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTbEFTMWxlT290NVdoNEl3VUJXUHBUQWZ6QlY0OTZydnZUVF9kNFl5SUYzMWU2UUZDZ3cyeDRoREY5S0lyd04zb0kzb3k3c3JQZTJJ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#55602c84651b</id>
+    <updated>2026-11-17T13:55:00.000Z</updated>
+    <summary>ビジネス+IT</summary>
+  </entry>
+  <entry>
+    <title>Arva AI、銀行向けコンプライアンスAIと営業体制の拡大に向け、シリーズAで2,000万ドルを調達</title>
+    <link href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQUm5jQ2pUc21MRVIzYW9WMXBPSkZMazVlRlV3c3N3U3YwbHkyN3lfb285aEFCR0phTmVUVG5VQ2tER1RHbmExcl9DZWxBYnlRYXo0d3FMdEVacGl2ZG9tdktvS1FqTGZpMUlMUUV5LWJabVhKTEY3VXR2TjU4cUk3VmpmS0ZRMWFESDBYenRESjNBVFB0QkE?oc=5"/>
+    <id>https://aimatome.gamelab.website/#b94a8f73bfba</id>
     <updated>2026-11-17T13:51:03.000Z</updated>
-    <summary>Qiita ／ はじめに Claude Codeというと、「開発エンジニアがコードを書かせるためのツール」というイメージが強いと思います。自分もそう思っていました。 ただ、オンプレのサーバ運用を担当するインフラエンジニアとして半年ほど業務で使ってみたところ、コードをほとんど書かない仕事で...</summary>
+    <summary>Unite.AI</summary>
   </entry>
   <entry>
-    <title>Google Antigravity を壊さず日本語化する方法（Mac / Windows 対応・AI の思考プロセスも日本語化）</title>
-    <link href="https://qiita.com/guuguo/items/c9e016e50fdd852b2169"/>
-    <id>https://aimatome.gamelab.website/#229d5fbe8f24</id>
-    <updated>2026-11-17T13:35:02.000Z</updated>
-    <summary>Qiita ／ Google Antigravity を使っていると、UI がすべて英語のままだったり、日本語で質問しても AI の思考プロセス（Thinking）や計画が英語に戻ってしまったりして少しストレスを感じることがあります。 しかし、アプリ本体のバイナリや ASAR ファイルを直...</summary>
-  </entry>
-  <entry>
-    <title>『Web Performance Engineering in the Age of AI』読書メモ 第1章</title>
-    <link href="https://qiita.com/ZHAOJIAYI/items/f58c0276986ce3850c18"/>
-    <id>https://aimatome.gamelab.website/#e3e3729029a2</id>
-    <updated>2026-11-17T13:33:50.000Z</updated>
-    <summary>Qiita ／ 今回から新しく『Web Performance Engineering in the Age of AI』（Addy Osmani 著、O&#39;Reilly、2026年2月）を読んでいく。日本語版はまだ出ていないが、もうすぐ出るらしいので、今は英語版で読んでいる。 この本を選ん...</summary>
+    <title>OVHcloud、初のオープンソース大規模言語モデル「Olala Mini 7A1B」を発表</title>
+    <link href="https://news.google.com/rss/articles/CBMikwFBVV95cUxQMHBlTXVWN2VEX2V2OFg4T3VpTmdzMDljOGtxNE02am9hSkxwRGNKSVpKcEJocVMtdVpoNnY0SzhhcHZjeUNFOXozT09vcGVUcTBWTXduMjlWTFF2SFJKTHNRTUtaVHZjR2xfUXZNdUpXSHo2enA5VDdyUG5nZnJndTJzS2d6eXdZQlVVVUtBSDBicVU?oc=5"/>
+    <id>https://aimatome.gamelab.website/#ca65b8adb3d3</id>
+    <updated>2026-11-17T13:37:03.000Z</updated>
+    <summary>Unite.AI</summary>
   </entry>
   <entry>
     <title>米国のAI半導体規制でアジア株急落―エヌビディアと提携のYTLパワーが10%近く下落</title>
@@ -43,16 +71,9 @@
     <summary>毎日新聞</summary>
   </entry>
   <entry>
-    <title>非IT職の社会人が空き時間でAndroidアプリを作ってみた【タスク設計編】〜 100個の掃除タスクをAIに書かせて4ラウンドレビューした話</title>
-    <link href="https://qiita.com/fukukei23/items/9e3000e7ff7c8fee0bb4"/>
-    <id>https://aimatome.gamelab.website/#e0e43659d8f5</id>
-    <updated>2026-11-17T13:08:32.000Z</updated>
-    <summary>Qiita ／ はじめに 前回の【実装編】では、データ層（SQLite マイグレーション）を TDD で作った話を書きました。その前の【設計編】では、複数の AI に設計をレビューさせて課金設計の矛盾を潰した話です。 今回はタスク設計編です。MicroWin は「1 日 1 つの掃除タス...</summary>
-  </entry>
-  <entry>
-    <title>AI半導体の急所「ABF」を握るうま味の会社／味の素（2802）｜池田伸太郎</title>
+    <title>AI半導体の急所「ABF」を握る &quot;うま味&quot; の会社／味の素（2802）｜池田伸太郎</title>
     <link href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QcmJvTEcyVHZsRm4tTldIMFUtbnhSdENZRjFSNy05bEVvRDVxRmFpYVpRa3BQNGN1QWU3X1oxRWIzcVJuSnBFcS16cjBXX3Z5Z1E?oc=5"/>
-    <id>https://aimatome.gamelab.website/#a7142cd19886</id>
+    <id>https://aimatome.gamelab.website/#fcb1c81cffab</id>
     <updated>2026-11-17T13:02:40.000Z</updated>
     <summary>note</summary>
   </entry>
@@ -335,26 +356,5 @@
     <id>https://aimatome.gamelab.website/#62ad87bd36b7</id>
     <updated>2026-11-17T10:00:32.000Z</updated>
     <summary>ニコニコニュース</summary>
-  </entry>
-  <entry>
-    <title>OpenAI、「ChatGPT Wallet」発表。AIエージェントに支払いまで任せられます</title>
-    <link href="https://news.google.com/rss/articles/CBMiakFVX3lxTFBrMnZEZFhkdE8zYlotSlJTSjdJTk52VldZV3IyS1BGQTl3S3RKOHBqaDBYOU9Ha3lVTDV0VmFzUmpUVWxROU1OZ3p2a1JJT3dfMzFsUjNSbVVPcWF3SUZkbVU0dS1GNFNQVGc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#d8793c0c49c9</id>
-    <updated>2026-11-17T10:00:00.000Z</updated>
-    <summary>Gizmodo</summary>
-  </entry>
-  <entry>
-    <title>おい、 Mutation Test をやれ。テスト品質を、測るために</title>
-    <link href="https://zenn.dev/mizchi/articles/mutation-test-quality"/>
-    <id>https://aimatome.gamelab.website/#07d4faebc369</id>
-    <updated>2026-11-17T09:59:42.000Z</updated>
-    <summary>はてなブックマーク ／ AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでその...</summary>
-  </entry>
-  <entry>
-    <title>中国の習氏、報復か静観か難しい判断－米国の先端AI半導体規制巡り</title>
-    <link href="https://news.google.com/rss/articles/CBMijgFBVV95cUxONXZVYUl4dmFTUEYzMU5KTGg1aHBqclJoZ0tTUE1wX0kzUXhqazZRQmhNbDE4cldmNkk2N1pNQWdkUmlIdC1oUHE4NEZwZzZCVjJ5YWNkcjdHTDUzRkplYmVrdFJWMFZHeUg4VVAwWHh4RHRzeWV4aUxWUFZrMUh0RjRqcFA4cUY4dndpRkZB?oc=5"/>
-    <id>https://aimatome.gamelab.website/#15ee123500db</id>
-    <updated>2026-11-17T09:57:15.000Z</updated>
-    <summary>Bloomberg.com</summary>
   </entry>
 </feed>
