@@ -1,5 +1,152 @@
 [
  {
+  "id": "2045600ca349",
+  "title": "Claude Fable 5.2 Thinking Highのコーディング性能がすごい！",
+  "url": "https://zenn.dev/tkishioka/articles/claude-fable-5-2-leaderboard",
+  "source": "Zenn",
+  "summary": "はじめに 11月9日にClaude Fable 5.2 Thinking Highモデルが公開されました。早速SonarのLLM Leaderboardにベンチマークが掲載されましたが、驚くべき結果でしたので、簡潔にまとめます。 Pass率は、過去最高の90.26% 11月18日時点のSonar LLM Leader…",
+  "publishedAt": "2026-11-18T14:29:03.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b5e458496ba6",
+  "title": "クラウドAI不要を掲げるJarvisの知識グラフ・日記メモリを、ローカルLLMで手を動かして検証した",
+  "url": "https://zenn.dev/matsushima_a/articles/day-050-jarvis-local-knowledge-graph-memory",
+  "source": "Zenn",
+  "summary": "今日の対象: isair/jarvis isair/jarvisは、Ollama・LM Studio・llama.cppなどローカルのモデルサーバーだけで動く音声対応デスクトップAIアシスタントである(独自ライセンス。個人・教育・研究目的の非商用利用は無料、商用利用は著者への別途連絡が必要)。 READMEには「No…",
+  "publishedAt": "2026-11-18T14:28:57.000Z",
+  "image": "",
+  "categories": [
+   "infra",
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a2cceb50ec20",
+  "title": "AI に描かせた図の文字がはみ出す。描いた結果を見て直させる Skill",
+  "url": "https://zenn.dev/itoken_lab/articles/figure-making-layout-check",
+  "source": "Zenn",
+  "summary": "AI に「この構成を図にして、SVG で」と頼むと、部品とつながりは合った図が返ってきます。ところが、AI は座標を計算して置いたまま、描いた結果を見ずに渡します。開くと、矢印のラベルが線に乗っていることがよくあります。figure-making は、この崩れを同梱の検査の道具で数として出させ、描いた画像を AI 自…",
+  "publishedAt": "2026-11-18T14:26:48.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "47a62b032bc9",
+  "title": "「仕事のOS」へ――Copilotに自律エージェントAutopilot、Microsoft Ignite 2026で刷新",
+  "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5RRDRtT2pDZEZxUVp5enQwWTZ4UFR0aW9LVHh6djl3WndKa1pZUFRKVmJPYXdwbldhaFhjOS05TzZfQQ?oc=5",
+  "source": "shiritomo",
+  "summary": "",
+  "publishedAt": "2026-11-18T14:25:08.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "939ee16db040",
+  "title": "OpenAIの特化型AI「GPT-6 Cyber」、アップルのほぼ全製品から約35件の脆弱性を発見",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54OTlqR3l1WW4yUE9wVzJNUUkwN1U5U3BfUDRkN0ZUdXBQemU4SnVsSFRLRm1MeHB6VkJZZlRlanY0MEVaY2wxUWlqWEU0aWg0bnlZ?oc=5",
+  "source": "ビジネス+IT",
+  "summary": "",
+  "publishedAt": "2026-11-18T14:08:00.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "97286b38ab1e",
+  "title": "コインベース、ChatGPTで株・仮想通貨を売買できるプラグイン公開",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzSVZTaDlXVzZYOG4xNlQ5S3JlUVprdEhwcmU5eHFqQzMtcjNENjVCLWRBWlhyMFVFMkpHRUE2MHJ2TGlZa1pjdlVYX0F5OFlILWFZc1Zfd19NUzhtTnQ3U3NnY3Z4ZHc?oc=5",
+  "source": "JinaCoin",
+  "summary": "",
+  "publishedAt": "2026-11-18T14:08:00.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0b6e22f701d0",
+  "title": "GB10 1 台とクラウドのハイブリッド LLM — 正解率・秒・Wh・ドルを同じ物差しで測って振り分ける",
+  "url": "https://zenn.dev/wisteriacorp/articles/wisteria-904d6a1047e6",
+  "source": "Zenn",
+  "summary": "NVIDIA GB10（128GB ユニファイドメモリ）のマシン 1 台でローカル LLM を常時動かし、クラウドの LLM と組み合わせて、個人の自動化を 3 か月半ほど回しています。以前の記事では、振り分けの考え方を言葉で書きました（個人 AI 基盤の設計）。今回は数字で振り分けを決めるために、同じ仕事をローカル…",
+  "publishedAt": "2026-11-18T14:05:35.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e4b69b32c153",
+  "title": "APIエラーとリトライの基本 — 401・429・5xxを切り分け、SDKの自動再試行に任せる範囲を決める",
+  "url": "https://zenn.dev/salesanalytics/articles/f5b3081ba16be9",
+  "source": "Zenn",
+  "summary": "生成AI APIを繰り返し使っていると、401（認証）、429（レート制限・残高不足）、5xx（サーバー側）、タイムアウトといったエラーに必ず出会います。このとき最もしてはいけないのが、どんなエラーにも「もう一度送る」ことです。APIキーが間違っていれば何度送っても失敗しますし、その間も失敗したリクエストはレート制限…",
+  "publishedAt": "2026-11-18T14:05:06.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6ff6ca90e022",
+  "title": "NVIDIA「RTX Spark」搭載の小型デスクトップPCが11月18日発売 4399ドルから “常時稼働のAIエージェント拠点”に",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50TmpaRFZxV3c4OHRscXg2ZU9yaXRyUDNjS1NjM1lkM09mVUhGZ01CbWhUQm9QZzhGUWhmZktEYzIyaUZJM2dIMFFnQWx1dzlxY3VvRlNaSWoyVDRDUjdkcDN0MkdlQVdBRUZSclB6WFhJajloVXN1Nk5BMDBYdkk?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-18T14:00:15.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c71ca5ef97ba",
+  "title": "一家に一台AI PCで全てをまかなえる「RTX Spark Compact Desktops」登場",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lV21ZWllzN3VrM3BBdV9ydG5wN2d0UWkwWUw2aFRCY09Kb0lHdkdIOHFmaGRwWTZydElYUi1fQ1d5LUlndHkzQThLVXNzUzNucG44a2ozTGRDaXpTdjhnYko3MA?oc=5",
+  "source": "株式会社インプレス",
+  "summary": "",
+  "publishedAt": "2026-11-18T14:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "76abf9737129",
+  "title": "ローカルLLMをデスゲームに参加させてみた",
+  "url": "https://zenn.dev/bmexami/articles/local-llm-death-game",
+  "source": "Zenn",
+  "summary": "ローカル LLM に、言われた作業を最後まで間違えずにやらせたい。どうすればそうなるのかを、ローカル LLM のデスゲームで確かめました。部屋から脱出するゲームで、失敗するとそのまま死にます。 まずは、検証するための sandbox を Claude Code に作らせるところから始めました。 sandbox を作る…",
+  "publishedAt": "2026-11-18T13:44:49.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "4dba0e0e934e",
   "title": "クラウドAIチップ市場は拡大を続け、2026年から2033年にかけて年平均成長率（CAG",
   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzSl9BSkNrM1VOV3pDVlQ5VDc3YnM1QnpzM002d0hOR2xMMUNFeUUzRVJERi1ZMThjWldlRTB5aE05NHJLZ1cybVlB?oc=5",
@@ -22,6 +169,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f71312a14ea0",
+  "title": "出力トークン0で超節約！Gemini Decisions APIを使ってスプレッドシートでカテゴリ分類・緊急度判定を自動化する",
+  "url": "https://zenn.dev/ttttkkk/articles/315a500a9ba107",
+  "source": "Zenn",
+  "summary": "はじめに：スプレッドシートでAI分類したいけれど =AI() 関数は有料… Googleスプレッドシートには標準で =AI() という便利なAI関数が用意されていますが、これを利用するには Google AI Pro（旧 Gemini Advanced）などの個人向け有料プラン、または対象となる Google Wor…",
+  "publishedAt": "2026-11-18T13:37:58.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -49,6 +209,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3fecd533ce6c",
+  "title": "サーバー上のAIエージェントがログインで詰まる問題を、「スマホで触れるブラウザ」で解決した",
+  "url": "https://zenn.dev/tachibanana0/articles/eb839c33309e13",
+  "source": "Zenn",
+  "summary": "はじめに：エージェントは「ログイン画面」で死ぬ 自宅の ThinkPad（Ubuntu、メモリ 7.7GB）をサーバー化して、AI エージェント「Hermes Agent」を常駐させています。Open WebUI から指示を出すと、調べ物からブラウザ操作までやってくれる、という構成です。 ところが実運用で一番詰まるの…",
+  "publishedAt": "2026-11-18T13:21:41.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
@@ -85,6 +258,19 @@
   "source": "Qiita",
   "summary": "現行のAIエージェントは以下の問題がある 既存のコンテキストを破壊し維持が困難 → 結果、機能を追加したら既存の機能が動かなくなる AI出力が過剰過ぎて人間が追いきれず、ブラックボックス化する → 致命的な問題が起きた場合に保守管理が難しくなる →従来の...",
   "publishedAt": "2026-11-18T13:12:05.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "15b0c5268936",
+  "title": "名古屋大学発医療AIスタートアップのPulmoGate、シードラウンドで総額約3.3億円を調達",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zY3RudHNEcGthSkZ2QldjeVZLcmNDdFI2bllUTmxBN000eWYzMm9JbUoyTXpvS2FSdTJRYlJ1QkRoQjR6VS0xeUMzY2VuaXl0RWUzaF9sOWFUdW5Wc0FFTXpwbVpXa0QtR2g3czlKT2M1aEk?oc=5",
+  "source": "Excite エキサイト",
+  "summary": "",
+  "publishedAt": "2026-11-18T13:10:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -212,6 +398,46 @@
   "isPR": false
  },
  {
+  "id": "7d15a034e5b9",
+  "title": "Gemini CLI に YouTube の URL を渡したら「見られない」。字幕を渡して出た切り抜き候補を、grep で照合した",
+  "url": "https://zenn.dev/ciel_lab/articles/bab71bcd767740",
+  "source": "Zenn",
+  "summary": "長い配信の録画から切り抜きの候補を5つ出させる、という試しを1回やりました。 Gemini CLI に YouTube の URL を渡すと、動画は見られない、と返ってきました。 そこで字幕とコメントの文字を渡し直し、候補が返ってきました。その候補を字幕と突き合わせた手順と、合わなかった所を書きます。 AI の性能を…",
+  "publishedAt": "2026-11-18T12:38:27.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "59573cd9b0f8",
+  "title": "検索はキーワードマッチ・全文検索・RAGだけじゃない！アキネーターライクな検索UIを作ろう！",
+  "url": "https://zenn.dev/coffeecupjp/articles/df57dc4227d541",
+  "source": "Zenn",
+  "summary": "要約 今の検索の主流は、キーワードマッチか全文検索かRAG。なので特許検索では珍しく、構造化検索でのアキネーターライクな検索UIを作りました アキネーターライクな検索UIとは、分野ごとに質問に２〜５問答えるだけで類似特許を絞り込めるUIのこと 作り方は、「分野ごとの特許一覧取得」「LLMによる分類・構造化」「検索UI…",
+  "publishedAt": "2026-11-18T12:36:15.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "97f297f931d7",
+  "title": "AI同士で直し合うレビューを1か月回した結果。効いたのは全部のチェックではなく対象を絞ること",
+  "url": "https://zenn.dev/mizo_ko/articles/article-101-zenn",
+  "source": "Zenn",
+  "summary": "AI が Backlog に書くたび、別の AI が直後にレビューする仕組みを約1か月回した。レビューは175回、指摘は819件出た 重要度が高い指摘は74件で、本物の誤りも混ざっていた。ただ全体の9割は、書き方や要確認といった軽い指摘だった 効いたのは全部をチェックすることではなく、チェックする対象を絞ることだった…",
+  "publishedAt": "2026-11-18T12:35:08.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "4a7e4674dc29",
   "title": "マレーシア、データセンター事業者に通告：米国のAI半導体規制に従うか、撤退するか",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5meThXak9IcnljM0Y4M1hCRFVwMGJlM2JybUtqcm83X19oMW54b1J4a0tMeUtaMzhPa1JSQ1k4Qm1HZXFaUmdUQ1UzYW94Y2tObTVtM215dlI5bVVOSnZpcjdQQndCNUZhd3JNV3h2REJjXzBj?oc=5",
@@ -265,6 +491,19 @@
   "isPR": false
  },
  {
+  "id": "58d358f989b9",
+  "title": "AIに設計を任せても、設計責任まで手放してはいけない",
+  "url": "https://zenn.dev/tomoya_watanabe/articles/cef9e11149b431",
+  "source": "Zenn",
+  "summary": "はじめに AIに「こんな機能を作りたい」と伝えると、コードだけでなく、アーキテクチャやモジュール構成、テストまで提案してくれることがあります。 以前なら自分で調べ、考えながら実装していたことが、短い時間で形になるようになりました。僕自身、AIを使った開発には前向きです。設計の段階からAIに相談することも、自然な開発の…",
+  "publishedAt": "2026-11-18T12:18:55.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "640240c4c8c6",
   "title": "GPT-6.2 Astra vs Fable 5.2で3Dモデル生成対決！",
   "url": "https://qiita.com/7mpy/items/6a9ce87b576063f68d71",
@@ -287,6 +526,33 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0b971f9fdb8b",
+  "title": "Apple Foundation Modelsの性能備忘録。",
+  "url": "https://zenn.dev/leafdev/articles/273a3d6093262f",
+  "source": "Zenn",
+  "summary": "個人で開発しているカレンダーアプリ「Aica」に、メモに書いたことを、端末内のAIが予定とタスクに分けて仮押さえする機能を入れました。 AIはApple Foundation Models（以下AFM、iOS 26からのオンデバイスLLM）だけを使っています。 作ってみて、AFMで「できること」と「できないこと」の線…",
+  "publishedAt": "2026-11-18T12:10:00.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4bf956dbb5ea",
+  "title": "チームで回す AI 駆動開発の実践",
+  "url": "https://zenn.dev/au/books/ai-driven-dev-team-practice",
+  "source": "Zenn",
+  "summary": "チームで AI 駆動開発を始める人に向けて、打ち合わせのメモから要件、仕様、計画、PR、レビューまでを、架空のチームの開発を通しで追いながら、写して使える成果物と手順で説明する本です。",
+  "publishedAt": "2026-11-18T12:00:28.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -331,6 +597,19 @@
   "isPR": false
  },
  {
+  "id": "ddb074352d9f",
+  "title": "「AIにペルソナを」と言ったら、AIが別案を出した🥊 プロンプトも差し替えずに挑戦者と並走させる",
+  "url": "https://zenn.dev/charge0315/articles/775fd46c143656",
+  "source": "Zenn",
+  "summary": "みなさん、こんにちは！ 「ALPHA FORGE 開発秘話」の第35話です。 「AIにペルソナを与えましょうか」。そう聞いたら、AIは「役柄は付けない方がいいです」と返してきました。 代わりに出てきたのは、今のプロンプトを1文字も変えずに、新しい版を横で走らせて成績で比べる案です🥊 日本株のデータ分析端末「ALPH…",
+  "publishedAt": "2026-11-18T11:55:19.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "0d10dacdd447",
   "title": "非エンジニアがAIコーディングエージェントに仕事を依頼する方法",
   "url": "https://qiita.com/hervekom37/items/59be52134ee71adeea5d",
@@ -340,6 +619,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2d42d99b8b50",
+  "title": "AI と書いた 13 本の「整理型」論文：新しい理論を主張しない研究ノートの作り方（IN シリーズの地図）",
+  "url": "https://zenn.dev/yoshi_katakura/articles/in-series-map-13-papers",
+  "source": "Zenn",
+  "summary": "2026 年 11 月に、Zenodo に「IN シリーズ」の論文を 13 本、関連の 2 本（DB-01、NS-01）を出しました。どれも日本語で、新しい理論や発見を主張しない「整理型」のノートです。この記事は、その地図です。 私は物理学の専門家ではありません。調査・計算・下書きは AI（Claude）と進め、内容…",
+  "publishedAt": "2026-11-18T11:51:53.000Z",
+  "image": "",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
@@ -392,6 +684,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "db5541345059",
+  "title": "18-⑩ Kaggle実践3 Biohub細胞トラッキング：6位の解法まとめ",
+  "url": "https://zenn.dev/rg687076/articles/93917fb7a4bcc9",
+  "source": "Zenn",
+  "summary": "18-①Kaggle実践3 Biohub細胞トラッキング：環境構築から初回提出までの手順 18-②Kaggle実践3 Biohub細胞トラッキング：初回提出コードを解説してみた 18-③Kaggle実践3 Biohub細胞トラッキング：ローカル環境を構築してみた(交差検証(CV)込み) 18-④Kaggle実践3 B…",
+  "publishedAt": "2026-11-18T11:22:09.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -932,10 +1237,10 @@
  {
   "id": "5a1e8b8d2bda",
   "title": "KDDIがGeminiで広告データの集計時間を94%削減 - 鍵は「泥臭い土台作り」",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tMkpXWDIzaWRYYjBpak9QaXVvcHBuV2lSb1M3aG1OUHRvT0lRQW9jcWZHcWtBQW52R1Y3QUM0QjhlSDZpdTFTbnUyb0E0UDB2LWxlRjFFMEFKdHNmTU5nOWxMcmtUZ3Vq?oc=5",
-  "source": "マイナビニュース",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UM05CaERnNDgxRlphQkVzZzR6VTNHTkJpbjJxTUdKU2xBa0xxRzF0Ty1pRDd4ZFlQRGU0RnFSN0t1dVN3MWFMdkhFcEdGOE1HOHZlSExYSzdkbUN0TVlNNWVvUmdFSVhjbHBNeXFzQUYzUjEtcGVV0gF8QVVfeXFMTUhyRnFmUEhlUXcwMHQ2REl4VzVuMGR2M1VTckNZekY4OVpWQm9IQ3p5d1ZEVGpORTFHMHhxSkcxSnJPYmlZbmJRZ204VXBFbzI4RzJzT052TGNGN1RTWUpyMHk2SUstUVpDVkVoRjBOc3pNWHl1M19XVm1Cag?oc=5",
+  "source": "ｄメニューニュース",
   "summary": "",
-  "publishedAt": "2026-11-18T09:58:11.000Z",
+  "publishedAt": "2026-11-18T09:58:00.000Z",
   "image": "",
   "categories": [
    "case"
@@ -1233,6 +1538,19 @@
   "categories": [
    "product",
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0b3ec8195334",
+  "title": "OpenAIのGPT-6.2 Astraを2週間テストしてみた｜Every (AI & I)",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pWGZkeTdUSC1fVDBVX1JEZkNQdXVBdm9vdFluNnZpOEhKaVVOeXRmT3FJMEZnSzFZLXYwLXZJSzNZaGtFWUdncXpZMUgwTVQxUkU1cERHdkNhX2ZKOGc?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-18T09:03:42.000Z",
+  "image": "",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
@@ -1818,6 +2136,19 @@
   "isPR": true
  },
  {
+  "id": "b3dc59ea10d3",
+  "title": "第19回『ASPIC AI・クラウドアワード2026』 総務大臣賞、各部門グランプリ等を発表",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBhN0FoeDJrcnZzVUk3NER6UGdXQXFFV0NFd3IyaElnNVN3WFVBdEpiTVdkWFpVaWZyUG5ZZ3hETnczUURfTTdGY0I0QnNfSms?oc=5",
+  "source": "Newscast.jp",
+  "summary": "",
+  "publishedAt": "2026-11-18T08:00:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": true
+ },
+ {
   "id": "da470b3e0368",
   "title": "大手9社のAI Agent求人を20件読んだ — JDが示す次の2〜3年と、誰も採っていない「身元・権限検証」",
   "url": "https://zenn.dev/kokotatan/articles/ai-agent-jd-20-identity-permission-verification",
@@ -2067,6 +2398,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1bb370ee2802",
+  "title": "GPUは誰の手に渡ったのか～NVIDIA創業者辞任が暴いた「AI半導体の抜け道」（後） - NET-IB NEWS",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtNlZFaGdJNVZCbTA5MllJNmhKZ2FpSmxXQm5nZFNIQUQ4TkxsZUw4Z1dQT0p6Z21TRWwtcUFYSWV3cVV2X2ZHUG41LS01eW1qcHc?oc=5",
+  "source": "NET-IB NEWS",
+  "summary": "",
+  "publishedAt": "2026-11-18T07:30:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
@@ -4965,7 +5309,7 @@
   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5SNGIzT2VzaDVYTjN3Y29RRF9lbFpERUdRaHdxQlZXdENTdXlsc2VxM0dYWnVwX2NBNVRFMFFqZ0EyWkk?oc=5",
   "source": "Digital PR Platform",
   "summary": "",
-  "publishedAt": "2026-11-18T02:03:21.000Z",
+  "publishedAt": "2026-11-18T02:03:22.000Z",
   "image": "",
   "categories": [
    "case"
@@ -7995,20 +8339,6 @@
   "isPR": false
  },
  {
-  "id": "7ea1a92f1090",
-  "title": "スペースX、AI半導体向け400億ドル資金調達-今週にも開始へ (TBS CROSS DIG with Bloomberg)",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ1o5TnprVHZManIydjg5eE1GVXpCNkh5LTVHOGVtUWZ3alE0R2NxSFo0N2s1ekNxaVBTMWYxQ1ltTkpFeDJ2S2JLMjdISzF0QmRZdWswSnNaOVFaODZ3RThTbklWdWtLQWNvWWdSaHVZYzA1Tl9fbjZVSllrVG5RMjlRaThpNzQ1QXNNVGFR?oc=5",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-11-17T21:56:23.000Z",
-  "image": "",
-  "categories": [
-   "business",
-   "infra"
-  ],
-  "isPR": false
- },
- {
   "id": "28e87d7e3a39",
   "title": "Gemini 4 Hydrogen：無料タスクは実際に何で動いているのか",
   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iaDJtMlBTODc3TlJiUUtxUTZNVTZLTDhqcjhTZnFDU296TnNJN3h2b3FlOEkzYkJuUmZJTGN0cDZPbnVtUmJ2OUkyQVNhdndSVkxCSFRyOXoyOTNBTzIzNVgwYnpySWtlZ1J2cUF0dlIxWWpjYWtzZHp3?oc=5",
@@ -9429,6 +9759,20 @@
   "isPR": false
  },
  {
+  "id": "7ea1a92f1090",
+  "title": "スペースX、AI半導体向け400億ドル資金調達-今週にも開始へ（TBS CROSS DIG with Bloomberg）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aYnZvZEVVN1NET3cxNjNPWmJ5LWFmbXRUVmw1bm5PSVAtSFhLV3dLaVoxclp1Y1JTQy1HcWV2ZFdMQy1BenNfUzlmTWFhVjROY1RNbWNSVnVzcGJkc0lMc21sSUluZzdNTVdqSVNUdlREOXVxbUZqNmZaQnJ0X0k?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-17T17:02:14.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "7f1a584bd7db",
   "title": "発表会速報!!＝手の上で育てるペットロボットや喋るホームコントローラーも＝SwitchBotの秋冬新製品",
   "url": "https://ascii.jp/elem/000/004/452/4452460/?rss",
@@ -9632,7 +9976,7 @@
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxQ3pLMS1QSzZReGxMN2tYX2t6S0FqdUhUbjNMaHpUX01hWE5ZWGczWFNIUFRwMkJ1YnZzSUhDekp6VXZXSGtpNDdPbkh1bTBHYV9RdTRfZXBxOHRUNUJBTFZOaHNRd1YtMHl2QjVCSFhUd2l3b0lmSnBteXJaems?oc=5",
   "source": "Yahoo!ニュース",
   "summary": "",
-  "publishedAt": "2026-11-17T16:07:01.000Z",
+  "publishedAt": "2026-11-17T16:02:14.000Z",
   "image": "",
   "categories": [
    "policy",
