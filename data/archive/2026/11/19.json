@@ -1,5 +1,164 @@
 [
  {
+  "id": "3fd492281039",
+  "title": "正常系3件のテストは9種類の欠陥を見逃した。反例を固定してレビューを自動化する",
+  "url": "https://qiita.com/Shiro_Shihi/items/bd10f002bfab1885b3df",
+  "source": "Qiita",
+  "summary": "テストは3件とも緑。それでも、0秒を拒否する実装も、上限を無視する実装も、文字列の先頭だけ読む実装も通りました。 待機秒数を読む小さなパーサーに、意図的な欠陥を9種類入れて比較しました。正常系3件では検出0、仕様から決めた18件では9種類すべてを検出しました。ただし、これは...",
+  "publishedAt": "2026-11-19T09:00:41.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f883a3273639",
+  "title": "Claude Codeで開発中に使ったコマンドまとめ（/cost・/btw・/rewind・/insights）",
+  "url": "https://qiita.com/kazutoyamaura/items/da0888d7cfafcabd7ae7",
+  "source": "Qiita",
+  "summary": "はじめに Claude Codeで開発をする中で、実際に使って便利だったスラッシュコマンドを4つ紹介します。/cost・/btw・/rewind・/insights です。 特に /btw は「使うとメインの会話（セッション）に影響が出るのか？」が気になったので、Clau...",
+  "publishedAt": "2026-11-19T08:57:58.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3f2d37dbba98",
+  "title": "OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」提供開始。より少ない出力トークンで高難度のタスクに対応",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9oQkR1ZDFIbTBlNmRYTUZsZURxYTRCLWdlLTA0V0J2dWtMbm1IQ2MtTzhzejdxVV91Ym92MGVBQmtSdWNWMmowNXZXU0dHYk1ldWpkZU8yMzBEQllVdzAtVWEwZXBiVVU?oc=5",
+  "source": "AIsmiley",
+  "summary": "",
+  "publishedAt": "2026-11-19T08:56:01.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "194aa94fe847",
+  "title": "【GPUクラウド実践】 インフラエンジニアでなくても大丈夫！ LLM開発が“一気に進む”H200搭載GPU仮想マシンを構築してみよう！",
+  "url": "https://qiita.com/FPT_Oshima/items/85b3683523c4b405d257",
+  "source": "Qiita",
+  "summary": "LLM開発で最初にぶつかる「GPU環境の準備」 LLM開発を始めると、多くのAIエンジニアが最初にぶつかるのが「GPU環境の準備」です。 AI開発エンジニアの方は、次のような分野には詳しくても、 モデル開発 データ処理 プロンプト設計 次のようなインフラ構築にはあまり...",
+  "publishedAt": "2026-11-19T08:43:40.000Z",
+  "image": "",
+  "categories": [
+   "infra",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8664f2e13502",
+  "title": "［動画］【米国株】AI相場、崩落と回復の心理学。ファンダメンタルズでは見えないこと - media.rakuten-sec.net",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sNnVqUVlDVld6VlJORTZZVlU2V0NTV3hUNVRZckJuWXp6MWpTalJDakhzN3R6dmRRbFVKbHJCZFZaejdZSzZRX0M5ODlMSUxOdm93ZVptNlVDUQ?oc=5",
+  "source": "media.rakuten-sec.net",
+  "summary": "",
+  "publishedAt": "2026-11-19T08:42:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d911b48cf364",
+  "title": "タブを閉じても調査が続く――出典を辿れるレポートをワークスペースに残す",
+  "url": "https://qiita.com/yuli626/items/1ee411d69a2252520cbe",
+  "source": "Qiita",
+  "summary": "技術調査が一番壊れやすいのは、情報が見つからないときではない。途中で中断したときだ。ツール比較や技術選定を始めたあと、会議や別件でブラウザを閉じると、残るのはタブの列と、どのページがどの主張を支えてい...",
+  "publishedAt": "2026-11-19T08:37:33.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2cde53d3335f",
+  "title": "健康保険審査評価院が人工知能(AI)を導入し、国民の医療利用便宜性を高め、診療費審査を効率化する。 ただ、本格的なシステムを構築するまでは予算と人材確保がカギになる見通しだ。 ホン·スングォン審評院長..",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zT0JoQXgyMkozMS13S0cyMzRHR05remE3ejZIaHJIWVFDRjlGb0RrZEpqeURqYm00YWt5NDFWZjFRQkdwTU5fVHZIa0ZxM1dLcmc?oc=5",
+  "source": "매일경제",
+  "summary": "",
+  "publishedAt": "2026-11-19T08:35:08.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "fd1a8a7d8018",
+  "title": "キャスター付きで家中どこでも。LGの31.5型4Kスマートモニター「Swing AI」",
+  "url": "https://pc.watch.impress.co.jp/docs/news/2157931.html",
+  "source": "PC Watch",
+  "summary": "LGは、移動式4Kスマートモニター「LG Smart Monitor Swing AI」を11月25日12時からMakuakeにて400台限定で先行販売する。最速割で購入した場合の価格は9万9,800円。",
+  "publishedAt": "2026-11-19T08:32:12.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8aec659e38ca",
+  "title": "名古屋大学主催セミナーにSHIN-JIGENのFounder 藤本弘道が登壇。「フィジカルAI vs 従来ロボティクス 社会実装と競争戦略を考える」 社会実装の課題と可能性を議論",
+  "url": "https://ascii.jp/elem/000/004/453/4453302/?rss",
+  "source": "ASCII.jp",
+  "summary": "",
+  "publishedAt": "2026-11-19T08:30:00.000Z",
+  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "210cad5069e4",
+  "title": "私はAI銘柄には弱気だが、急落したエヌビディア株は買う――。ベテランのヘッジファンド投資家の見解",
+  "url": "https://www.businessinsider.jp/article/2611-nvidia-stock-investor-outlook-jensen-huang-resigns-scandal/",
+  "source": "Business Insider Japan",
+  "summary": "ヘッジファンド・マネージャーのダン・ナイルズは、ジェンセン・フアンがCEOを辞任した際にエヌビディア株の保有を開始しました。同社の株価は下落を続け、10月初旬のピークから2兆ドルを失っています。",
+  "publishedAt": "2026-11-19T08:30:00.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5bf65dc270ae",
+  "title": "AIエージェントの法的責任 政府が本格検討へ 専門調査会を設置",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QWUdIemdCRm5Bc1JGcVktdFRBV3V2b0lhb0w1cllacWR6aWRxeWRRNWNNSzlmb0xydE0tVmZlcmlPcmpDWU1aX09MVE56Mmhjd01pTHdQVWkwa2xBSVByZmNlSVMtWlk?oc=5",
+  "source": "朝日新聞",
+  "summary": "",
+  "publishedAt": "2026-11-19T08:30:00.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "223d0b20c206",
+  "title": "米FRB、AIエージェントが「急速な取り付け騒ぎを招く」可能性を警鐘",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BZGNxTm92QUtmZ3k1VnFSQVViWFRkalZCa2tEWk5peGJxZ1V6a20xb2hYSE9KOG91THFjTjlhMEpKSG1HUzBXLWNiZmtHakdudFQzQUpfaFdQQQ?oc=5",
+  "source": "Forbes JAPAN",
+  "summary": "",
+  "publishedAt": "2026-11-19T08:30:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "e13af36e83bf",
   "title": "Agent Harnessを理解するために、150行ほどのPythonで自作してみた",
   "url": "https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962",
@@ -9,6 +168,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "56c72eb4b445",
+  "title": "エヌビディア、AI半導体「H200」の中国輸出停止を発表 ジェンスン・フアン路線を転換 | 張大任（チョウ・ダイニン） | ニュース",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10YW1yWXZEV1FqYTRoemlDNEJOTHBueWk0QUxFbG9MUE5DeFpKY1dWc19fc2J2czYzc3dWSVlfYXZhRDVISWpUMGJ6dnhaV1VO?oc=5",
+  "source": "風傳媒",
+  "summary": "",
+  "publishedAt": "2026-11-19T08:28:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
@@ -197,6 +369,58 @@
   "isPR": false
  },
  {
+  "id": "2ad536a6158d",
+  "title": "【KOTONOHA】新シリーズ発表：自社専用の“AI社員”を構築できる国産の完全隔離型プライベートAI基盤",
+  "url": "https://ascii.jp/elem/000/004/453/4453335/?rss",
+  "source": "ASCII.jp",
+  "summary": "",
+  "publishedAt": "2026-11-19T08:00:00.000Z",
+  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5403dfd3c1eb",
+  "title": "REDBOX BIO、「NVIDIA Inception Program」に参加 ── AI×生体データ解析を加速",
+  "url": "https://ascii.jp/elem/000/004/453/4453305/?rss",
+  "source": "ASCII.jp",
+  "summary": "",
+  "publishedAt": "2026-11-19T08:00:00.000Z",
+  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3a85f4b6e800",
+  "title": "Klleon、AIアバターと対話練習ができるロールプレイング研修サービス「ROLEFIT」を日本市場向けに提供開始",
+  "url": "https://ascii.jp/elem/000/004/453/4453304/?rss",
+  "source": "ASCII.jp",
+  "summary": "",
+  "publishedAt": "2026-11-19T08:00:00.000Z",
+  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e031ae506aef",
+  "title": "Wilgot、AIショッピングでの商品発見性向上に向け300万ドルのシード資金を調達",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3pNN2k1ejlqUXdldF9HVzdLUUtyU2xXc2FZVGxCRzA4NlRTVEE1TjQ2bklaM3hRRFNnNnNvbHlHWGtIZXVRMXgxRVp3RDdpZnh3ajJzYU5IU2dlSFV4ZzNjRWhtS3hOUlZhbkU5QzdjQVVoLUt2Y09yQjNRcVNTUnBHYw?oc=5",
+  "source": "Unite.AI",
+  "summary": "",
+  "publishedAt": "2026-11-19T08:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "703a2fd4ff93",
   "title": "ルートンテクノロジーズは多様な生成 AIモデルを結合し検索·作文·AIエージェント機能を無料で提供するAIサービスプラットフォーム企業だ。 キャラクターチャット·創作プラットフォーム「クラック(Cra..",
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pSWIyUFBYMFRTRzFhWXQyZ0FsVDFDUGZEUGdnUzV4TTFPZU8yQlNpSUVhbEJEQnloN3VnbXFTZ2JfOWhJOTNMRHNEd2lDbVNiVVFZ?oc=5",
@@ -206,6 +430,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f1b92929ec14",
+  "title": "健康保険審査評価院、AI導入へ…過剰請求だけ集中審査",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZXFCOVhDeG1EdEJIWUFEX1N6Zm43R1NkcDMzZ0VVbUF5MkFuMEFOX2RQXzBTb19DTGF4c3pqQk5qMmRZVFBGQTliLU53OFlJalA2NlBlOFF2WFZYMlJveTNYaVlfdnpDeGpnSHpLUWVaZzlEX1FOa0U0eXhkby01NGxPLWJ4RnkyT0g3d0hB?oc=5",
+  "source": "조선일보",
+  "summary": "",
+  "publishedAt": "2026-11-19T07:55:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
   ],
   "isPR": false
  },
@@ -220,6 +457,19 @@
   "categories": [
    "product",
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "605a2352d1c7",
+  "title": "SCIEN、メットライフ生命「介護サポートAIコンシェルジュ」開発を担当",
+  "url": "https://ascii.jp/elem/000/004/453/4453332/?rss",
+  "source": "ASCII.jp",
+  "summary": "",
+  "publishedAt": "2026-11-19T07:52:54.000Z",
+  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -305,15 +555,15 @@
  {
   "id": "eaef0de291c5",
   "title": "EpicAI、AIのセキュリティ分野日本語LLMのプロンプトインジェクション防御研究で「人工知能学会全国大会優秀賞」を受賞",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KQW9RYnl2eGxoR0ZKY2NJTDhxLVlkcXZEak12eWZtUWhOTUdXMm00NGU3cHBScDIyVFM5LURxMHY5S2JkNTB3TXRfemM5dkFuRy1hVE5MY0REYmJpRXJCam5kSmluaHkwOGc?oc=5",
-  "source": "PR TIMES",
+  "url": "https://ascii.jp/elem/000/004/453/4453307/?rss",
+  "source": "ASCII.jp",
   "summary": "",
-  "publishedAt": "2026-11-19T07:40:01.000Z",
-  "image": "",
+  "publishedAt": "2026-11-19T07:40:00.000Z",
+  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
   "categories": [
    "model"
   ],
-  "isPR": true
+  "isPR": false
  },
  {
   "id": "924eadaa02c1",
@@ -487,6 +737,19 @@
   "isPR": false
  },
  {
+  "id": "a56571d01e53",
+  "title": "OrcaRouter、AI攻撃エージェントからWebサイトを守る「Shield」の提供を開始",
+  "url": "https://ascii.jp/elem/000/004/453/4453310/?rss",
+  "source": "ASCII.jp",
+  "summary": "",
+  "publishedAt": "2026-11-19T07:20:00.000Z",
+  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "e38cf450e72c",
   "title": "AI投資を成果につなげる実践知、GLGが有識者5名へのインタビューレポートを無料公開|ProductZine",
   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1JZlhlaWV3czhHc3dFeVFXeWFkNUVjV3pLVzJmbnpUamRxWENocmZaQ1p3Ul95UEFiZk9sZTFDUjhESHdDWDZyUng1emFtZw?oc=5",
@@ -523,6 +786,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a51dda011e15",
+  "title": "DPVR、XR Kaigi 2026で新型VRヘッドセットと光導波路型AIグラス「DPVR AURA」を初公開",
+  "url": "https://ascii.jp/elem/000/004/453/4453340/?rss",
+  "source": "ASCII.jp",
+  "summary": "",
+  "publishedAt": "2026-11-19T07:07:16.000Z",
+  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -795,7 +1071,7 @@
  {
   "id": "f2944aacedcc",
   "title": "グーグル「Gemini 4 Neon」発表、さっそくGPT-6.2 Sol超え",
-  "url": "https://ascii.jp/elem/000/004/453/4453224/?rss",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45VDdZbkRBVmliZzV2RFVVVWdkNFNTTERLc25yODA4dkE2VHctSFlvUzE2ak5BN1JteGppSUQzMWVJUVZwb3loMFRnMEk2cUdTSjV6ZW80dEhEdw?oc=5",
   "source": "ASCII.jp",
   "summary": "グーグルは米国時間11月18日、複雑な仕事をこなせる高性能AIの新モデル「Gemini 4 Neon」を発表した。",
   "publishedAt": "2026-11-19T06:30:00.000Z",
@@ -815,6 +1091,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f6661a9c8d50",
+  "title": "近大生と高校生が協働し、生成AIで地域の未来を考える データに基づき「2046年の川俣町」の解決案を発表",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiX2phZlF0SXM2WWtsNm4yM19tWnd3RHF5SHVFeTk2ZHZ6cVNWTTRZVElxcjRrVHhxY1NSY2EwQV9kYjhyR0Zxam9hODFfYlhxS1VJU1hVbVdYNzdsTlBZXw?oc=5",
+  "source": "Infoseek",
+  "summary": "",
+  "publishedAt": "2026-11-19T06:30:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -1750,15 +2039,15 @@
  {
   "id": "15ee4566b5c5",
   "title": "AIは「選ぶ」から「乗り継ぐ」時代へ。Claude も ChatGPT もローカルLLMも、1つのタスクに総動員するAIコーディングエージェント「Noritsugi」、クローズドβ始動",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TSUhGbzZCcGRmY0JRc1BLZ3lpaXRIc05RLVA4YVVEMUtKV3FmdDVjdVZOQkZiVjNyX1JQRDJ6aFVJUGFyeTNXbUJWUUhQUFhldUpFZVlVVHhiMEk4UjQwLVBxb1JFN2Nfb3VzdVpOMjJLUQ?oc=5",
-  "source": "Infoseek",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Zc2pIbHhZb1o3SGQ3dnR4bGtuaFdSR0JzRTh5QlFHaG1Ic2JzanhpYXpSRXlKUXdpdEVlaU9ERzZoOTE0YnJqUDQ0N1lPaUFvMVExWVk4dzJmVnhmVGpQSFdNRFQ3TUloeFE?oc=5",
+  "source": "PR TIMES",
   "summary": "",
   "publishedAt": "2026-11-19T04:25:36.000Z",
   "image": "",
   "categories": [
    "other"
   ],
-  "isPR": false
+  "isPR": true
  },
  {
   "id": "5bcad1a4b89c",
@@ -1852,6 +2141,20 @@
   "isPR": false
  },
  {
+  "id": "a9f508221aec",
+  "title": "NVIDIAの巨額AI投資計画に暗雲、約80兆円の資金調達が進まず＝WSJ - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HcE9HZlJ2LW5uQUN4U19BMVFjQjFZMmJDUDVwZFhzOFZxLXFnWjYwcEpRZW5SSGR4VHFRaGZ4LXZWN0ljeVlWOWJPZFd2S25yazR1QmRGaERqVThQMnQtZW03TjNlOVpLSkZuMzVNdEs?oc=5",
+  "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-19T04:15:00.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "07a0367d3825",
   "title": "GPT-6.2登場。難問用と日常用、AIを使い分ける時代へ",
   "url": "https://zenn.dev/sugawara_ai/articles/ai-news-20261118",
@@ -1868,8 +2171,8 @@
  {
   "id": "e5bd5e308a09",
   "title": "【独自】ラピダスで半導体試作 国内AI新興も プリファード社、27年度にも",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SMVRYNkRoSF9hSmdWUzRPbXlaaFJYcWt3bGtPR1V3ZDd1eDVNNkVMVk9IcUVJZEZyNy01YzM0WFZjM3Q3QVpmNWhlTkpRSmd3dmdwbFZCTGF0Zw?oc=5",
-  "source": "北海道新聞デジタル",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80ZFo1bzBHX3I2WkpjN0ZublRDenl5MHBCeVF3bFZOYWRnQ3pSNU9tQ0ZPS2kyZWRNWG1oemdHQ0xPMzBWSmwzdENsaw?oc=5",
+  "source": "47NEWS",
   "summary": "",
   "publishedAt": "2026-11-19T04:10:56.000Z",
   "image": "",
@@ -2731,7 +3034,7 @@
   "source": "ITmedia AI+",
   "summary": "米カリフォルニア大学サンタバーバラ校（UCSB）などに所属する研究者らが発表した論文「Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain」は、AIエージェントと外部のAIモデルを仲介する「APIルータ…",
   "publishedAt": "2026-11-19T03:00:00.000Z",
-  "image": "",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.itmedia.co.jp%2Fnews%2Farticle%2F2611%2F19%2F2000003310%2F",
   "categories": [
    "model"
   ],
@@ -4098,9 +4401,9 @@
  },
  {
   "id": "65f59e4cea07",
-  "title": "【米中AI覇権】対中規制緩和で疑惑の目 米議会、政権本格追及へ",
-  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54SlVPSUV2c0NSX2p2RFEwYzlMUkxhYmhlUW9NSmVkdjhTdkF0U0ZidjNudzYyUVMzUjJrS0Y2UG9kUm5CaE5HTGFhYjQ4Vm1oc25uOGZKNU9yNmJhaEt6VmNIQWdWcnNfZ2t3?oc=5",
-  "source": "信濃毎日新聞デジタル",
+  "title": "【米中ＡＩ覇権】対中規制緩和で疑惑の目 米議会、政権本格追及へ",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBpSHdXd3VVR3I3SVpIZklaN0lmYnFRMHlhMGFZcEtta1E5aXNrZ0pKM29YYVpROVpZblgzd3JPa3J2TnhlZXdMX0NYandhMEJEdklBQWFwODFlT21pQnc?oc=5",
+  "source": "沖縄タイムス社",
   "summary": "",
   "publishedAt": "2026-11-19T01:20:32.000Z",
   "image": "",
