@@ -1,5 +1,18 @@
 [
  {
+  "id": "5e3018a60c90",
+  "title": "Decision Model「H2O Lightning」を試してみる：Colabで注文と納品書の画像を照合する",
+  "url": "https://zenn.dev/nakanishitf/articles/9d946756c074d4",
+  "source": "Zenn",
+  "summary": "画像の内容を、注文条件と照合してみる これまで、Google ColabでいくつかのDecision Modelを試してきました。 画像については、Clefで猫が写っているかを判断する実験も行いました。 今回は、画像に書かれた内容を、別に用意した注文情報と照合してみます。 使うのはH2O.aiの H2O-Lightn…",
+  "publishedAt": "2026-11-19T14:45:37.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "eb1e0a02305a",
   "title": "NVIDIA Brev の侵害と、AI 開発プラットフォームが「狩られた」1 か月",
   "url": "https://qiita.com/0xNurstar/items/2838925283717c174534",
@@ -52,6 +65,61 @@
   "isPR": false
  },
  {
+  "id": "2c91435009e1",
+  "title": "「3090で約2.3時間」の64M LLM自作を、RTX 5060 Tiで公式手順どおり動かしてみた",
+  "url": "https://zenn.dev/matsushima_a/articles/day-051-minimind-cpu-pretrain-sft",
+  "source": "Zenn",
+  "summary": "これは何の話か jingyaogong/minimindは、Tokenizer・Pretrain・SFT・LoRA・DPO・PPO・GRPO・CISPO・エージェント的RL・蒸留まで、LLMの学習パイプライン全体を高レベルラッパーなしでPyTorchネイティブに実装したOSSである(Apache License 2.…",
+  "publishedAt": "2026-11-19T14:33:20.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7db8c49636a2",
+  "title": "AI に作らせた画面はきれいなのに、文字が小さく色が薄い。ブラウザで開いて確かめさせる Skill",
+  "url": "https://zenn.dev/itoken_lab/articles/web-ui-quality-baseline",
+  "source": "Zenn",
+  "summary": "AI に「申し込みフォームの見た目を整えて」と頼むと、コードの上ではきれいに整います。ところが測ってみると、送信ボタンの白い文字と青の背景の明るさの比は 3.5 でした（読みやすさの基準の WCAG では 4.5 以上）。注意書きは 13px のまま、未入力のエラーは、どの欄が足りないか分からないポップアップのままで…",
+  "publishedAt": "2026-11-19T14:33:12.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8cdfbb6f5627",
+  "title": "AI に「CRUD 生成器はもう要らない」と言われて、半分だけ従った ― 残したのは線の内側だけで、その線を 3 回引き直した",
+  "url": "https://zenn.dev/t_azk/articles/crud-generator-where-to-draw-the-line",
+  "source": "Zenn",
+  "summary": "ざっくり 3 つにまとめると 自作の開発基盤に定義ファイルからの CRUD 生成器を実装しようとしたとき、別の AI に「AI 時代に CRUD 生成の価値は下がった。生成器を保守するより AI に書かせる方が安い。投資すべきはガードレール」と言われた。半分は従い、半分は従わなかった 残した生成器の「どこまで生成する…",
+  "publishedAt": "2026-11-19T14:33:00.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "df3172361f23",
+  "title": "Chrome の Modern Web Guidance を Claude に入れると、書くコードはどう変わるのか（72 実装で検証）",
+  "url": "https://zenn.dev/revo1290/articles/modern-web-guidance-ab-test",
+  "source": "Zenn",
+  "summary": "はじめに Google Chrome チームが公開している Modern Web Guidance（以下 MWG）は、AI コーディングエージェントに「今のブラウザで使える、今どきの書き方」を教えるためのスキルです。Claude Code ならプラグインとして入れるだけで、HTML / CSS / クライアント JS…",
+  "publishedAt": "2026-11-19T14:26:14.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "c54c770b2f7b",
   "title": "AI規制が注目される中でのエヌビディア決算 マーケットへの影響と今後の注目点を解説 野村證券・村山誠",
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FTml5TktwbFpFeFRqejhsNXdJRUFkc3RCbmpvYWVQdjI2LTFzNGx1UHVSM2RHSG5FdWVTRGFmVGtsOElqZFFyRXlTaTk5RnkzWjc5SFZyQzVGdGFVaFpN?oc=5",
@@ -79,6 +147,19 @@
   "isPR": false
  },
  {
+  "id": "fd4766351743",
+  "title": "Kling 4.0 vs Kling 4.0 Flash 徹底比較：10キーフレーム軌道制御・30秒生成の上限・クレジット経済性",
+  "url": "https://zenn.dev/yoxi957/articles/9edc3061fae5b6",
+  "source": "Zenn",
+  "summary": "Daniel Okonkwo · Senior ML Engineer · Published 2026-11-18 TLDR フルモデル Kling 4.0（最大30秒・1080p/4K・最大10キーフレーム制御・15 Omni Reference）と高速蒸留モデル Kling 4.0 Flash（最大20秒・72…",
+  "publishedAt": "2026-11-19T14:24:12.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b6c5bc08fbce",
   "title": "Googleが、これまで有料ユーザーのみが利用できたGemini AI機能を一般公開した。",
   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWHJuM0N2dENzbzN1aG5hWEcyQTA1YkRsSk9oYi1sOWVxNEc3aG05eWlxOG5ld3JuYUpDak44Vk1rYng5UnVWOFAwMmFicGdqZXppY0hNWWhZZUFSQ25wanlCNkJXT0Z6YW9mbWxabWdJa3h3XzB1MkZieWkwSFBlNXpwcHJhOHVuSER3SnhNQkdvclhxMmpiWlRmYWtTUQ?oc=5",
@@ -92,6 +173,59 @@
   "isPR": false
  },
  {
+  "id": "dcb891f1bbe1",
+  "title": "AIエージェントは増やすほど賢くなるのか？ マルチエージェント導入の落とし穴、調整コストは誰が払うのか？",
+  "url": "https://zenn.dev/syoshida07/articles/80419ad1046d4a",
+  "source": "Zenn",
+  "summary": "University of Macau(マカオ大学)およびThe Hong Kong Polytechnic University(香港理工大学)の研究者によって発表された注目すべき研究がある。 本論文の問題提起は極めてシンプル！ AIエージェントを増やせば増やすほど生産性は向上するのか？ 近年 MetaGPT、Op…",
+  "publishedAt": "2026-11-19T14:22:12.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ef3e839b7758",
+  "title": "日本語のレポートが「短すぎる」と判定される不具合を直して、配布元に取り込まれた話",
+  "url": "https://zenn.dev/atsu1979/articles/7545941148cef7",
+  "source": "Zenn",
+  "summary": "何が起きたか 調査用のAIエージェント（hyperresearch）で、日本語の調査レポートを作らせました。本文は約8,900字あり、指定された長さ（6,000〜15,000字）にきちんと収まっていました。 それなのに、完成前の品質チェック（length-in-range）で「短すぎる」と判定され、レポートが止められ…",
+  "publishedAt": "2026-11-19T14:20:11.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a1703a9d45bb",
+  "title": "【ClickFix】AIの回答に「このコマンドを実行して」と言われたら、ターミナルに貼る前に確認したいこと",
+  "url": "https://zenn.dev/ykbone/articles/202611-security-ai-clickfix-shell",
+  "source": "Zenn",
+  "summary": "はじめに エラーが出て困っているときに、AIの回答の中に「次のコマンドを実行してください」と書いてあったら、そのままターミナルに貼ってしまいませんか。急いでいるときほど、中身を読まずに貼りたくなるものだと思います。 最近、この「AIが教えてくれたコマンドを、人が自分の手で実行する」流れを悪用する攻撃が、セキュリティ企…",
+  "publishedAt": "2026-11-19T14:17:31.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "854035a914d1",
+  "title": "CLAUDE.md や SKILL.md のルールを Turtle で書き、ルールの書き間違いや矛盾を lint で検査してみた話",
+  "url": "https://zenn.dev/hma2moto/articles/turtle-agent-rules-pros-cons",
+  "source": "Zenn",
+  "summary": "Claude Code では、エージェントに守ってほしい決まりを CLAUDE.md や SKILL.md に書いておくと、エージェントはそれを読んで作業します。私も最初はこうしたルールを普通の Markdown で書いていました。ところがルールが増えるにつれて、どの行がどのルールの例外か、同じ行為を別の場所で禁じて…",
+  "publishedAt": "2026-11-19T14:13:57.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "052efa3ff2a1",
   "title": "NEC、CEATEC 2026でAIエージェント時代のデジタルアイデンティティをテーマに登壇",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UM3E4a2xsUTR3cVpYZVI1YzVoTTNIcUhSSWs0bnhiOXhrd2VYLWw5Q1RuMExjN3RBT0hKZ19vT1N3aDczU2IyRFdqbG95ampCNDZtWGc1eU9Vbkl4TWdOV05hV2NDRkdxN0MyUEVvYndKdw?oc=5",
@@ -101,6 +235,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a21ab7d8637c",
+  "title": "Linuxのバックポートという仕組みでnginxを最新版にしなくても安全にできるらしい",
+  "url": "https://zenn.dev/ikuosaito1989/articles/d15c002d36c831",
+  "source": "Zenn",
+  "summary": "たまたま個人サービスにubuntuでnginxを使ってたので修正パッチをあてた 脆弱性が見つかった場合、最新版にアップデートする必要があると思っていたが、調べてみると必ずしもそうではないらしい。 Linuxディストリビューションには「バックポート（Backport）」という仕組みがあり、ソフトウェアのバージョンを維持…",
+  "publishedAt": "2026-11-19T13:50:24.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -180,6 +327,20 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "106ef518b403",
+  "title": "RTX 3060 12GB で Xing4.0-29B-A4B を実測：自己申告 SWE-bench 75.0 を自作の物差しで",
+  "url": "https://zenn.dev/bpf/articles/36c2f84f63e28b",
+  "source": "Zenn",
+  "summary": "! 私共（BitespotFactory）は 専門知識ゼロの状態から クラウドAIとのチャットだけを頼りにローカルAI環境を構築しています. VRAM 12GB の普通の家庭用PCで, 新しいモデルを実際に試した結果をお届けします. Xing4.0 が本家 llama.cpp で動くようになった Xing4.0-29…",
+  "publishedAt": "2026-11-19T13:31:03.000Z",
+  "image": "",
+  "categories": [
+   "infra",
+   "dev"
   ],
   "isPR": false
  },
@@ -289,6 +450,19 @@
   "isPR": false
  },
  {
+  "id": "9d77086ceec3",
+  "title": "1ターンだけ Sonnet に任せるスキルを作ったら、Opus のままより高くついていた話",
+  "url": "https://zenn.dev/no215/articles/claude-code-one-turn-model-skill",
+  "source": "Zenn",
+  "summary": "Claude Code で、ふだんは Opus を使いつつ「この質問だけは Haiku や Sonnet で十分」という場面がよくあります。そこで、1ターンだけ下位モデルに答えさせるスキル /ask-haiku と /ask-sonnet を作りました。この記事では、スキルの作り方と、自分のセッション記録で費用を確か…",
+  "publishedAt": "2026-11-19T13:06:59.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "64c3b4655579",
   "title": "生成AI利用者の約9割が「AIの回答」に不安。足かせはAIではなく「社内情報の管理」",
   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tUlYxdnJyLTZsTnVvRWpzenFxcVdhNElfUnV4bVQyYUNfY1FWekFHYW1lbTR5Z0pZdmhXaHRSaXBOQmE3RTVqa041b0g0RUJDRExSMncySnhkSDdwODU4TWdWcTE4U3VxS2VoVl8zUVZOc1p3T1E?oc=5",
@@ -311,6 +485,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "099c1bd9c51c",
+  "title": "余りの RTX 2080 Ti と別PCの 4090 を束ねて gpt-oss-120b を 15 トークン/秒に",
+  "url": "https://zenn.dev/mogurasoken/articles/721b986fea536d",
+  "source": "Zenn",
+  "summary": "余ったパーツで組んだローカル LLM サーバー（RTX 2080 Ti 11GB＋RTX 2080 SUPER 8GB、VRAM 計 19GB）で、1枚では載らない gpt-oss-120b（59GB） や Llama 3.3 70B を動かすために、複数の GPU を束ねるツール GPUEnsemble を作って公…",
+  "publishedAt": "2026-11-19T12:53:20.000Z",
+  "image": "",
+  "categories": [
+   "infra",
+   "model"
   ],
   "isPR": false
  },
@@ -382,6 +570,19 @@
   "isPR": false
  },
  {
+  "id": "9db28d40e9e6",
+  "title": "Novel as Code ② ― 156項目の設定を整理したら、全部Draftになりました",
+  "url": "https://zenn.dev/schutzz/articles/3ce5672a098bc0",
+  "source": "Zenn",
+  "summary": "はじめに 前回の記事では、小説をソフトウェアのように管理するという考え方と、実際に作成したrepositoryの構造を紹介しました。 小説本文と正式な設定であるCanonを分離し、Gitで変更履歴を管理するというものです。 …",
+  "publishedAt": "2026-11-19T12:36:39.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3230590b2cdc",
   "title": "マイクロソフト、AIエージェント防御をWindowsで一般提供 Claude Codeの悪意ある指示を遮断",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FVDVzUW9tUUJBVDdZeXBLZnFuQUhDT1Jka1FFSThveWpwb1FHS216dTJTbC1BTnlDTXd1Tl9FS1RGMkJqS2hwSExuSVF1YmhQS1pvV1VJWC15VHhLd3NBZVdTTWFySFlRRkoxNk1nZS1nMmNx?oc=5",
@@ -391,6 +592,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1bda5bcf3408",
+  "title": "LiteLLM Proxyを実測：予算超過・フォールバックの落とし穴と、worker数で変わる性能",
+  "url": "https://zenn.dev/tatsuyaaaaaaa/articles/28e122ee5d5631",
+  "source": "Zenn",
+  "summary": "はじめに LiteLLM Proxyは、複数のLLM APIを共通の入口から呼び出し、仮想キー、予算制限、レート制限、フォールバックなどを管理できる仕組みです。 便利そうに見えますが、いざ業務で使うとなると、気になることがあります。 予算上限を設定すれば、その金額できっちり止まるのか？ プライマリが落ちても、本当にバ…",
+  "publishedAt": "2026-11-19T12:24:48.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
   ],
   "isPR": false
  },
@@ -417,6 +632,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "25469a32d362",
+  "title": "Everyのキーラン氏：OpenAIのGPT-6.2 Astraは速度でGoogleのNeonを上回るも「全体像」で劣る",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lSzFNSTQ3bXlZcWRSaTJEN2NhNUFDbFBIQXFtSWRCOE5SRXJYclZZQVhQd3E1bXlWeFV4RVg0c3FGUk5lRTI0aC0tbTVXa01QNTZsc0RSYloxZw?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-19T12:12:17.000Z",
+  "image": "",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
@@ -601,6 +829,19 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e8ebb5a87f5f",
+  "title": "開発に使うAIモデルのコストと性能の最適化に挑戦（5）：OpenCode Goで無料のHy4 flashを評価",
+  "url": "https://zenn.dev/petittomato/articles/ai-model-cost-performance-5",
+  "source": "Zenn",
+  "summary": "OpenCode Goに、TencentのHy4 flashの無料版が追加されました。2026年11月16日から14日間です。 このシリーズの目的は、Opusと同じ結果をなるべく安く出すことです。 そこで、（1）と同じ37件のテストで、Hy4 flashにテレビ操作のコマンドを作らせました。あわせて、無料のモデルに自…",
+  "publishedAt": "2026-11-19T11:19:41.000Z",
+  "image": "",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
