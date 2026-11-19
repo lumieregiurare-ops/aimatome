@@ -1,5 +1,71 @@
 [
  {
+  "id": "1f4d8b6c6da1",
+  "title": "自律AI収益化システムを厳格監査したら0点だった──SQLite 32万行無限増殖・想定外API課金2.3万回・Google-Safety偽クリック300件を特定して止血した実録と検証コード",
+  "url": "https://qiita.com/shiroi1229/items/de6d1408610f47944c11",
+  "source": "Qiita",
+  "summary": "この記事は全文無料（0円）です。 抽象的な論文要約や成功談ではなく、本番稼働していた自律AI基盤を冷徹に監査して「0点（失格）」と判定し、実測データで原因を解体・止血した一次記録と、そのまま動くPython/SQL修正コードを公開します。 0. まず結論（隠さず実測...",
+  "publishedAt": "2026-11-19T12:51:15.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f4a6a72c2c5d",
+  "title": "LegalBrainエージェントがMicrosoft Copilotに対応し、法務業務を革新する可能性",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iQ0ZvakozZnJ5MzNvYS1TSnZqUHNaVkEwUnJfeUN6SjhRYzdxOHBHMXR2OEJjd1R4TzV5dmctZXFoczRmUkZxbTZEZDRpdWRSTWtQSWNiQ1FSYjRfaHljOTl6c21mQjBCcUFabDQxdXhIVnNf?oc=5",
+  "source": "ニュースメディアVOIX",
+  "summary": "",
+  "publishedAt": "2026-11-19T12:42:20.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "152cb7628b86",
+  "title": "ブラウザだけでAI画像生成から動画化まで完結させる実務ワークフロー",
+  "url": "https://qiita.com/zhouweiyuan51/items/8069181cb8cb2875901e",
+  "source": "Qiita",
+  "summary": "はじめに 画像生成AIと動画生成AIを別々のサービスで回すと、「書き出し → 再アップロード → 設定のやり直し」という往復が発生します。素材が増えるほど、どのモデル・どの設定で作ったかが追えなくなるのも地味な痛点です。 本記事では、ブラウザの1ワークスペースで テキスト...",
+  "publishedAt": "2026-11-19T12:41:39.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bfb873919523",
+  "title": "Gemini 4 Helium が登場か、Googleのティザーと新しいFlash Lite",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZG02cUM5UFp0ZzgtamduVnR4M0REdmZRUlNsZ2x2NnZxZTFaMzNfU0hDWTFZcUExMGt5SEhQemgybDJpc2ZqS3ZHTnZ3dmxtUmF6Rnhsd0lMOVFHMDBOZTdIeTRidlRfVy1DRXFlUGRMU0M4a3JfUzVWeWtoSWhzTFhuQjIyVUk?oc=5",
+  "source": "Pasquale Pillitteri",
+  "summary": "",
+  "publishedAt": "2026-11-19T12:38:08.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3230590b2cdc",
+  "title": "マイクロソフト、AIエージェント防御をWindowsで一般提供 Claude Codeの悪意ある指示を遮断",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FVDVzUW9tUUJBVDdZeXBLZnFuQUhDT1Jka1FFSThveWpwb1FHS216dTJTbC1BTnlDTXd1Tl9FS1RGMkJqS2hwSExuSVF1YmhQS1pvV1VJWC15VHhLd3NBZVdTTWFySFlRRkoxNk1nZS1nMmNx?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-19T12:35:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "78bc4598921a",
   "title": "なぜ32Bより小さい27Bが1位なのか｜whichllmのRTX 4090例 92.8点と83.0点",
   "url": "https://qiita.com/kinamocchi_tech/items/a8b1a7903ac221007a50",
@@ -264,6 +330,33 @@
   "isPR": false
  },
  {
+  "id": "14b178c64277",
+  "title": "GPT-6.2 SolとAstraの使い分けと272K長文コンテキスト設計チェックリスト",
+  "url": "https://zenn.dev/routerbase/articles/de96c356582a98",
+  "source": "Zenn",
+  "summary": "GPT-6.2世代では、日常的な開発・エージェント実行向けの GPT-6.2 Sol と、高難度な推論・リサーチ向けの GPT-6.2 Astra の2層構成になりました。いずれも最大1.05Mトークンの入力と128Kトークンの出力を扱えますが、実運用では「どちらをデフォルトにするか」と「272Kトークン境界をどう制…",
+  "publishedAt": "2026-11-19T10:56:33.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "465b2fe1764b",
+  "title": "GPT-6.2 Astra は旧 Astra から何が変わった？ベンチマークと「4 つの作例」で見るビフォーアフター",
+  "url": "https://zenn.dev/takuh/articles/038fdcca4a9bed",
+  "source": "Zenn",
+  "summary": "はじめに：「新しい Astra に替える価値はあるのか」 2026 年 11 月 17 日（米国時間）、OpenAI は新しいフラッグシップモデル GPT-6.2 Astra を公開しました。9 月に出た GPT-6 Astra の後継で、OpenAI は「最も難しいプロジェクトのためのモデル」と位置づけています。 …",
+  "publishedAt": "2026-11-19T10:54:15.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b69cc52dc8a9",
   "title": "AIエージェントによる決済に対応へ 「Agentic Ready」プログラム拡大し50社超のパートナーと連携",
   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2OHktRF8yT1liUnNVNjZ1blZXSWswdU1nNWhWcUdGVFk0MDRlejM3VVZ4NEVZcWhxXzg2RnJDRUVyOVhfV0o4Z0hNdXR0VF8tWlZETGxBNV9oSlR1WnlxetIBZkFVX3lxTE5FM2xmWGp2Q3R4NnhOQTdGekFKRzUxN1RlQmFCeWxJOEJPMmNXUmR4by1WTVZjOUhxSDlGNHB4Mk1IMkNsTWtIZ21KdVA0S0E5S0Jqc2gweVJCV0R6R1VSb2xBblVKZw?oc=5",
@@ -312,6 +405,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2179a1b78c39",
+  "title": "AI定期実行の安全設計表｜最大回数・予算・停止条件・承認ラインを1枚で決める",
+  "url": "https://zenn.dev/andyailab/articles/6b4e7f9c6becf6",
+  "source": "Zenn",
+  "summary": "自動化は組めた。でも、定期実行のスイッチが押せない。 デモでは1回きれいに動きました。ところが「毎時実行」に切り替える段階で手が止まります。夜中にループしたらどうなるのか。請求はいくらになるのか。止まっていても気づけるのか。 この不安は、気合いでは消えません。消えるのは、数字が決まったときです。 何回まで動かすか。い…",
+  "publishedAt": "2026-11-19T10:40:49.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -500,6 +606,19 @@
   "isPR": false
  },
  {
+  "id": "915b430b3760",
+  "title": "AutoExtract V2 リリース：組織の帳票業務を OCR と AI エージェントで効率化する",
+  "url": "https://zenn.dev/aws_japan/articles/auto-extract-ai-ocr-v2-release",
+  "source": "Zenn",
+  "summary": "こんにちは。AWS Solutions Architect の中本です。AutoExtract の開発メンバーの1人です。 2026年8月に、AutoExtractのV2をリリースしました。AutoExtractはこれまでもOCRのサンプルとして使っていただいてきましたが、V2では複数人での利用や、AIエージェントに…",
+  "publishedAt": "2026-11-19T09:54:47.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "d7883ce9343e",
   "title": "Imagen、放射線科医とAI分野向けの成長資金として1億ドル超を調達",
   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdEJFLUV6a3BiNi1yWWFWS01HSjZQOVN4UmdYbDNQOGg0YXNoZ1dVV3VQV1BSdHB6MDhRSGNOU3NJSU9vNmJLTDVtS3FwNDVaaHJfblRYODRoYlpjTG8tT1JtU3R4dlZpZks0VER2ZUQzeGJJcExXV215TTBtLTlxcS1TT0p5YUdaLURJbFlFd2FSTlFX?oc=5",
@@ -612,6 +731,19 @@
   "source": "株式会社インプレス",
   "summary": "",
   "publishedAt": "2026-11-19T09:23:14.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1208c9e540e0",
+  "title": "Claude Code と gws で Gmail 3万通を掃除した",
+  "url": "https://zenn.dev/submax/articles/cfeac47d660f27",
+  "source": "Zenn",
+  "summary": "長年使っていた個人用の Gmail アドレスが、サービスのメールとか、スパムとか、スパムとか、でメールBOX内容量が凄いことになっていた。メール累計3万通、2.4GBくらい。 一括で消すとなにか重要なメールが消えるかもしれない。 ただ人間が見て回るには多すぎる。 AI に重要なメールと消して良いメールを区別させた。 …",
+  "publishedAt": "2026-11-19T09:21:31.000Z",
   "image": "",
   "categories": [
    "other"
@@ -1948,7 +2080,7 @@
   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zUUxScGJGX0F0UXR3UEFMRTVKVEN2VkxrWmEwOEZhZm8xWU9KTmc2Y2R2M28zNFA4NS05cTlPc1JKM0RMUUVtSW5faERLb0xwVVVpUg?oc=5",
   "source": "トラベルボイス",
   "summary": "",
-  "publishedAt": "2026-11-19T06:44:16.000Z",
+  "publishedAt": "2026-11-19T06:43:42.000Z",
   "image": "",
   "categories": [
    "other"
@@ -2614,6 +2746,19 @@
   "categories": [
    "model",
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d52eb866b32b",
+  "title": "NVIDIA、AI特化型「RTX Spark」小型デスクトップを発表",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OYWZIWVA1bTU3QnZGSE4yY1ZsT05ldUZfbFhPcloxYnVtZldKYXZ1SW1IUEd4UHZNbFBSMjVVYzFSZ1F2NGZmd1Fpd21mX2htUnBQSm85TWV1ZE5D?oc=5",
+  "source": "게임메카",
+  "summary": "",
+  "publishedAt": "2026-11-19T05:39:03.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
@@ -3922,6 +4067,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "88f3386e97db",
+  "title": "pstack 完全ガイド ─AIエージェントに雑なコード を書かせない技術─",
+  "url": "https://zenn.dev/karamage/books/50c18e52e7d19e",
+  "source": "はてなブックマーク",
+  "summary": "AIエージェントに仕事を頼むと、自信満々の報告と一緒に検証されていない大量のコードが届いて困ったことはありませんか？ AIエージェントを使い始めた人はもちろん、日常的に使いこなしているエンジニアでも、「どうすれば品質を担保できるのか」「どこまで自律的に仕事を任せられるのか」という疑問は共通の課題ではな...",
+  "publishedAt": "2026-11-19T03:19:26.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fkaramage%2Fbooks%2F50c18e52e7d19e",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },

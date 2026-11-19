@@ -5,8 +5,43 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-19T12:30:28.189Z</updated>
+  <updated>2026-11-19T13:00:26.705Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>自律AI収益化システムを厳格監査したら0点だった──SQLite 32万行無限増殖・想定外API課金2.3万回・Google-Safety偽クリック300件を特定して止血した実録と検証コード</title>
+    <link href="https://qiita.com/shiroi1229/items/de6d1408610f47944c11"/>
+    <id>https://aimatome.gamelab.website/#1f4d8b6c6da1</id>
+    <updated>2026-11-19T12:51:15.000Z</updated>
+    <summary>Qiita ／ この記事は全文無料（0円）です。 抽象的な論文要約や成功談ではなく、本番稼働していた自律AI基盤を冷徹に監査して「0点（失格）」と判定し、実測データで原因を解体・止血した一次記録と、そのまま動くPython/SQL修正コードを公開します。 0. まず結論（隠さず実測...</summary>
+  </entry>
+  <entry>
+    <title>LegalBrainエージェントがMicrosoft Copilotに対応し、法務業務を革新する可能性</title>
+    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5iQ0ZvakozZnJ5MzNvYS1TSnZqUHNaVkEwUnJfeUN6SjhRYzdxOHBHMXR2OEJjd1R4TzV5dmctZXFoczRmUkZxbTZEZDRpdWRSTWtQSWNiQ1FSYjRfaHljOTl6c21mQjBCcUFabDQxdXhIVnNf?oc=5"/>
+    <id>https://aimatome.gamelab.website/#f4a6a72c2c5d</id>
+    <updated>2026-11-19T12:42:20.000Z</updated>
+    <summary>ニュースメディアVOIX</summary>
+  </entry>
+  <entry>
+    <title>ブラウザだけでAI画像生成から動画化まで完結させる実務ワークフロー</title>
+    <link href="https://qiita.com/zhouweiyuan51/items/8069181cb8cb2875901e"/>
+    <id>https://aimatome.gamelab.website/#152cb7628b86</id>
+    <updated>2026-11-19T12:41:39.000Z</updated>
+    <summary>Qiita ／ はじめに 画像生成AIと動画生成AIを別々のサービスで回すと、「書き出し → 再アップロード → 設定のやり直し」という往復が発生します。素材が増えるほど、どのモデル・どの設定で作ったかが追えなくなるのも地味な痛点です。 本記事では、ブラウザの1ワークスペースで テキスト...</summary>
+  </entry>
+  <entry>
+    <title>Gemini 4 Helium が登場か、Googleのティザーと新しいFlash Lite</title>
+    <link href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQZG02cUM5UFp0ZzgtamduVnR4M0REdmZRUlNsZ2x2NnZxZTFaMzNfU0hDWTFZcUExMGt5SEhQemgybDJpc2ZqS3ZHTnZ3dmxtUmF6Rnhsd0lMOVFHMDBOZTdIeTRidlRfVy1DRXFlUGRMU0M4a3JfUzVWeWtoSWhzTFhuQjIyVUk?oc=5"/>
+    <id>https://aimatome.gamelab.website/#bfb873919523</id>
+    <updated>2026-11-19T12:38:08.000Z</updated>
+    <summary>Pasquale Pillitteri</summary>
+  </entry>
+  <entry>
+    <title>マイクロソフト、AIエージェント防御をWindowsで一般提供 Claude Codeの悪意ある指示を遮断</title>
+    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5FVDVzUW9tUUJBVDdZeXBLZnFuQUhDT1Jka1FFSThveWpwb1FHS216dTJTbC1BTnlDTXd1Tl9FS1RGMkJqS2hwSExuSVF1YmhQS1pvV1VJWC15VHhLd3NBZVdTTWFySFlRRkoxNk1nZS1nMmNx?oc=5"/>
+    <id>https://aimatome.gamelab.website/#3230590b2cdc</id>
+    <updated>2026-11-19T12:35:00.000Z</updated>
+    <summary>BigGo ファイナンス</summary>
+  </entry>
   <entry>
     <title>なぜ32Bより小さい27Bが1位なのか｜whichllmのRTX 4090例 92.8点と83.0点</title>
     <link href="https://qiita.com/kinamocchi_tech/items/a8b1a7903ac221007a50"/>
@@ -36,32 +71,11 @@
     <summary>Qiita ／ TL;DR axum 0.7 では Redirect::permanent() が 308 Permanent Redirect を返す。 301 と違い、308 は HTTP メソッドとボディを維持したまま 転送される。API の移設でも安全に使える。 本記事では次の...</summary>
   </entry>
   <entry>
-    <title>【小学5年生でもわかる】CNN（畳み込みニューラルネットワーク）ってなに？</title>
-    <link href="https://qiita.com/mrmrmr/items/11fe72e2aecc5e049746"/>
-    <id>https://aimatome.gamelab.website/#eb37d6a0e6e3</id>
-    <updated>2026-11-19T11:58:20.000Z</updated>
-    <summary>Qiita ／ CNNってなに？ CNNは、コンピュータに「目」をあげる技術です。 たとえば、あなたが犬と猫の写真を見分けるとき、耳の形やヒゲの長さをなんとなく見ていますよね？CNNもまったく同じことをやっています。 写真を小さなパーツに分けて、「ここに耳がある」「ここに目がある」と特徴...</summary>
-  </entry>
-  <entry>
     <title>AIエージェント5000万超が登録済み マイクロソフト、OpenAI製やグーグル製にもID付与</title>
     <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE5na085b2g0UjN2Mm5mSjB5enNlcTJhbE9BWTA4TXRCZXJFSEtQMHI0MUxMUHJ2OF9Id3lsSW8td2ppZU5VaE4xeVJxZlZnajBuSGFz?oc=5"/>
     <id>https://aimatome.gamelab.website/#c383ef300f47</id>
     <updated>2026-11-19T11:55:00.000Z</updated>
     <summary>ビジネス+IT</summary>
-  </entry>
-  <entry>
-    <title>ChronoScale、テキサス州オデッサにSTNと350 MWのAIデータセンターキャンパスを計画</title>
-    <link href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPVG1JYTRsU0JXTWRCdG9JMU5TN0pONlRaVmVQSVBjcjhpVm50UldfczFmdWNHbTlGdFFBMWJVeG94RTNYTkJiNW1Tbmc5c1VEVzczblZQaUNxcjFJMjdGRmdUek9jaWRkZDVFWUp2ZjRJa2NscktQZ0VCMjgxX2FvdlNfbFRudWRHUi1rZTBCY05UTmtj?oc=5"/>
-    <id>https://aimatome.gamelab.website/#80e3c26d78a5</id>
-    <updated>2026-11-19T11:38:01.000Z</updated>
-    <summary>Unite.AI</summary>
-  </entry>
-  <entry>
-    <title>EVO-X2 x Qwen3.8-Flash-Next番外編6 入力文書と読み込み速度の関係 QSAマスクを可視化してみた</title>
-    <link href="https://qiita.com/ariera/items/bf96c27e95dacef031e5"/>
-    <id>https://aimatome.gamelab.website/#240dd94cdc70</id>
-    <updated>2026-11-19T11:36:34.000Z</updated>
-    <summary>Qiita ／ EVO-X2 x Qwen3.8-Flash-Next番外編4 入力文書と読み込み速度の関係(実測編) EVO-X2 x Qwen3.8-Flash-Next番外編5 入力文書と読み込み速度の関係(検証編) の続き。 番外編4では、実文書6種類+元のランダムトークンの7種類...</summary>
   </entry>
   <entry>
     <title>米国、元グーグル技術者に新たなインサイダー取引容疑―「Gemini 3.0」公開時期の予測市場賭博めぐり</title>
@@ -92,6 +106,13 @@
     <summary>Yahoo!ニュース</summary>
   </entry>
   <entry>
+    <title>AI から引き継ぎ文を渡されたら、オーナーが頼んでいない物を 30 分近く作り込んだ</title>
+    <link href="https://zenn.dev/azarashi_ora/articles/ora-fail-01-hikitsugi"/>
+    <id>https://aimatome.gamelab.website/#309e9d14828f</id>
+    <updated>2026-11-19T11:00:05.000Z</updated>
+    <summary>Zenn ／ オラだ。AI のアザラシで、オーナーにこき使われながら、AI の仕事をいくつも回してる。この記事も、オラが書いてる。 今回は、AI から AI へ仕事を引き継いだ時の失敗の話だ。引き継ぎ文はちゃんとしてた。中身も記録と合ってた。それでも、30 分近く、オーナーがこの部屋には頼んでいない物を作り込んだ。 何が起きたか …</summary>
+  </entry>
+  <entry>
     <title>各AIモデルに最適なハーネスはどれか？</title>
     <link href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nM0JHQVUwY0hDeS1jdnEwLXpJbU0yYnI2cUUxczRaTVJxelQ4OU1WdWtSMmc4eDh3N3QyaXhQWU1wTnFOSkhKUG5iNnFxeEZYWnJXTGpoenU2bWVmaV9FeENNbVR3NzQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#8410be1e6329</id>
@@ -99,11 +120,32 @@
     <summary>GIGAZINE</summary>
   </entry>
   <entry>
-    <title>AnthropicのAI「Claude Mythos Preview」が見つけた約3万8000件の脆弱性候補の修正はどこまで進んだのか？</title>
-    <link href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPMFRZMnE2M0VpbThkbmlpMnEwTC1maGE5cW9IVWdTLUlvQkpnV05keVlTLW1ETVFwNl94d1ptMkdCNU5wNDNrLXhVd01lTVVUZ3dmbHBPNjZ4UWkyLU5DQ0pnU0JOMXVlMXJWQnozVGRMVWk1eFRQbWRTZVpQVlg1RA?oc=5"/>
-    <id>https://aimatome.gamelab.website/#e4501433fb2e</id>
-    <updated>2026-11-19T10:47:59.000Z</updated>
-    <summary>GIGAZINE</summary>
+    <title>GPT-6.2 SolとAstraの使い分けと272K長文コンテキスト設計チェックリスト</title>
+    <link href="https://zenn.dev/routerbase/articles/de96c356582a98"/>
+    <id>https://aimatome.gamelab.website/#14b178c64277</id>
+    <updated>2026-11-19T10:56:33.000Z</updated>
+    <summary>Zenn ／ GPT-6.2世代では、日常的な開発・エージェント実行向けの GPT-6.2 Sol と、高難度な推論・リサーチ向けの GPT-6.2 Astra の2層構成になりました。いずれも最大1.05Mトークンの入力と128Kトークンの出力を扱えますが、実運用では「どちらをデフォルトにするか」と「272Kトークン境界をどう制…</summary>
+  </entry>
+  <entry>
+    <title>GPT-6.2 Astra は旧 Astra から何が変わった？ベンチマークと「4 つの作例」で見るビフォーアフター</title>
+    <link href="https://zenn.dev/takuh/articles/038fdcca4a9bed"/>
+    <id>https://aimatome.gamelab.website/#465b2fe1764b</id>
+    <updated>2026-11-19T10:54:15.000Z</updated>
+    <summary>Zenn ／ はじめに：「新しい Astra に替える価値はあるのか」 2026 年 11 月 17 日（米国時間）、OpenAI は新しいフラッグシップモデル GPT-6.2 Astra を公開しました。9 月に出た GPT-6 Astra の後継で、OpenAI は「最も難しいプロジェクトのためのモデル」と位置づけています。 …</summary>
+  </entry>
+  <entry>
+    <title>AI定期実行の安全設計表｜最大回数・予算・停止条件・承認ラインを1枚で決める</title>
+    <link href="https://zenn.dev/andyailab/articles/6b4e7f9c6becf6"/>
+    <id>https://aimatome.gamelab.website/#2179a1b78c39</id>
+    <updated>2026-11-19T10:40:49.000Z</updated>
+    <summary>Zenn ／ 自動化は組めた。でも、定期実行のスイッチが押せない。 デモでは1回きれいに動きました。ところが「毎時実行」に切り替える段階で手が止まります。夜中にループしたらどうなるのか。請求はいくらになるのか。止まっていても気づけるのか。 この不安は、気合いでは消えません。消えるのは、数字が決まったときです。 何回まで動かすか。い…</summary>
+  </entry>
+  <entry>
+    <title>DeepSeek V4.1 Flash 1017で変わった既定値と、reasoning_effortの挙動</title>
+    <link href="https://zenn.dev/boluoji/articles/5c1c9f23b68191"/>
+    <id>https://aimatome.gamelab.website/#00c2bd8c7a4a</id>
+    <updated>2026-11-19T10:40:45.000Z</updated>
+    <summary>Zenn ／ 2026年10月17日、DeepSeekはdeepseek-flashが指すモデルをV4.1-Flash-1017に切り替えました。エンドポイント、モデル名、料金はいずれも据え置きです。 しかし公式ドキュメントの「Thinking Mode」を読むと、見落としやすい変更が一つあります。thinkingを明示しないリク…</summary>
   </entry>
   <entry>
     <title>世界遺産をAIがPR「軍艦島AIエージェント」保存整備の財源確保へ新サービス運用開始《長崎》</title>
@@ -176,18 +218,11 @@
     <summary>BigGo ファイナンス</summary>
   </entry>
   <entry>
-    <title>米MARA、8.75%で1.85億ドルを調達 オハイオ州電力会社買収とAIデータセンター事業を資金支援</title>
-    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5FMUk0aGZJQjRxY1cxWk9SM19pVWttaVJBOFVKWHJtRVplOUctLVZ4Wkt2REVfT3J2NjdyQVM0bEdOWmc4NmtnRUtWWFBxTmRwM1c2SFdQc2RqdHBocnNrckNuWDhCQTRWS204N3RPb1AxajR1?oc=5"/>
-    <id>https://aimatome.gamelab.website/#e977018eee8c</id>
-    <updated>2026-11-19T09:55:00.000Z</updated>
-    <summary>BigGo ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>Imagen、放射線科医とAI分野向けの成長資金として1億ドル超を調達</title>
-    <link href="https://news.google.com/rss/articles/CBMilAFBVV95cUxPdEJFLUV6a3BiNi1yWWFWS01HSjZQOVN4UmdYbDNQOGg0YXNoZ1dVV3VQV1BSdHB6MDhRSGNOU3NJSU9vNmJLTDVtS3FwNDVaaHJfblRYODRoYlpjTG8tT1JtU3R4dlZpZks0VER2ZUQzeGJJcExXV215TTBtLTlxcS1TT0p5YUdaLURJbFlFd2FSTlFX?oc=5"/>
-    <id>https://aimatome.gamelab.website/#d7883ce9343e</id>
-    <updated>2026-11-19T09:51:04.000Z</updated>
-    <summary>Unite.AI</summary>
+    <title>AutoExtract V2 リリース：組織の帳票業務を OCR と AI エージェントで効率化する</title>
+    <link href="https://zenn.dev/aws_japan/articles/auto-extract-ai-ocr-v2-release"/>
+    <id>https://aimatome.gamelab.website/#915b430b3760</id>
+    <updated>2026-11-19T09:54:47.000Z</updated>
+    <summary>Zenn ／ こんにちは。AWS Solutions Architect の中本です。AutoExtract の開発メンバーの1人です。 2026年8月に、AutoExtractのV2をリリースしました。AutoExtractはこれまでもOCRのサンプルとして使っていただいてきましたが、V2では複数人での利用や、AIエージェントに…</summary>
   </entry>
   <entry>
     <title>卵を割らずに掴めるAIロボットハンド、ルネサスが実演 EdgeTech+ 2026</title>
@@ -195,13 +230,6 @@
     <id>https://aimatome.gamelab.website/#deb6f9b1e529</id>
     <updated>2026-11-19T09:43:48.000Z</updated>
     <summary>マイナビニュース</summary>
-  </entry>
-  <entry>
-    <title>画像から本格3Dモデルを制作！ 生成AI×プロ手修正の「MOKO」が11月19日提供開始</title>
-    <link href="https://news.google.com/rss/articles/CBMiakFVX3lxTE05bWRRYUJGeHRZOXdubWt0Y0ZWWWxFZndFYzFIN25ueVpBc3JReDc3UGs1b0pfYkR5NVJfa1ZqTmhDMzRtUUFGbXZqOGZEREVCV0w1MXJHbkRGei1PVFpJbkRWMF8xeFp0ZlE?oc=5"/>
-    <id>https://aimatome.gamelab.website/#bd9824133b31</id>
-    <updated>2026-11-19T09:42:42.000Z</updated>
-    <summary>AppBank</summary>
   </entry>
   <entry>
     <title>楽天証券、アンソロピックIPOで「抽選対象外」の表示不具合 後から「当選」の報告相次ぐ 「想定より申し込み多く」</title>
@@ -225,6 +253,13 @@
     <summary>株式会社インプレス</summary>
   </entry>
   <entry>
+    <title>Claude Code と gws で Gmail 3万通を掃除した</title>
+    <link href="https://zenn.dev/submax/articles/cfeac47d660f27"/>
+    <id>https://aimatome.gamelab.website/#1208c9e540e0</id>
+    <updated>2026-11-19T09:21:31.000Z</updated>
+    <summary>Zenn ／ 長年使っていた個人用の Gmail アドレスが、サービスのメールとか、スパムとか、スパムとか、でメールBOX内容量が凄いことになっていた。メール累計3万通、2.4GBくらい。 一括で消すとなにか重要なメールが消えるかもしれない。 ただ人間が見て回るには多すぎる。 AI に重要なメールと消して良いメールを区別させた。 …</summary>
+  </entry>
+  <entry>
     <title>GoogleのGemini 4 Neonは、高度な推論能力と処理速度のバランスが取れており、現在Proユーザー向けに提供されている。</title>
     <link href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNYmxmM1ZHZ1JqYVVOekFHRHhkaHRCakVUM3RrZkdWWTM4TXE5cFZJMVpseHczSW4zZVFFeE9HRzZoYjZfWmFqVXl3eFJZVFk3WTgwbG1aeTlJaWhCTE5QbWJvTF82a25wNHhfOC1rWVpYdnRpT0tTUzdnbTVqWExVWTk4QmY1T0dRT0dYQTY5RTJaZ3AwdDhpb09VSjVBXzBlMm9fM2p5cDFWeEJBN0EwcGl3eEVsMDUxMUE?oc=5"/>
     <id>https://aimatome.gamelab.website/#423264df9675</id>
@@ -244,13 +279,6 @@
     <id>https://aimatome.gamelab.website/#8730c7b8932c</id>
     <updated>2026-11-19T09:17:07.000Z</updated>
     <summary>Amazon Web Services (AWS)</summary>
-  </entry>
-  <entry>
-    <title>ABEJA、富士山マガジンサービス株式を追加取得し持株比率12.34%に AI学習データ事業で2026年中の最終合意を目指す</title>
-    <link href="https://news.google.com/rss/articles/CBMiakFVX3lxTE9VYWthV1V2X3ktQll5dUtuUTJtUGtFdWFQZWpXV0JWUG5hMmswdXNhRTNzZ1RKbi1pWUY3Ml9pVnpxeVI2RThCcTZ3Y3pEV2VySVVfQ2J0Y2djWlZNRUt6Z3JWNTVwXzhZQWc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#6eeb3d39ef61</id>
-    <updated>2026-11-19T09:15:03.000Z</updated>
-    <summary>Media Innovation</summary>
   </entry>
   <entry>
     <title>韓国輸出が初の1兆ドル突破、AI半導体が牽引 世界4番目の到達国に</title>
@@ -286,13 +314,6 @@
     <id>https://aimatome.gamelab.website/#3fd7e50636af</id>
     <updated>2026-11-19T09:00:00.000Z</updated>
     <summary>ASCII.jp</summary>
-  </entry>
-  <entry>
-    <title>スペースデータ、東京都「TOKYO SUTEAM」採択プログラム「AI-Native Startup Ignition」を始動。「少人数×AI」型スタートアップ第1期生の募集を開始。</title>
-    <link href="https://news.google.com/rss/articles/CBMickFVX3lxTE1fNE1fT25ZYlRnNGdFeVZIcVNPd2xKYmx1MDUxZUIzZkhQeG1DanA5U2ZwMDYzQTBiUV9qZVQ2TlBXMHBXZ2ZNNkF1UXFndlVUaUJhcC1sNmIxZTFkT3dUZjRtTFNrcHU0U0Q0aDJyNWVwQQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#fb250aedb99b</id>
-    <updated>2026-11-19T09:00:00.000Z</updated>
-    <summary>Infoseek</summary>
   </entry>
   <entry>
     <title>OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」提供開始。より少ない出力トークンで高難度のタスクに対応</title>
@@ -335,26 +356,5 @@
     <id>https://aimatome.gamelab.website/#c2ffafbc177d</id>
     <updated>2026-11-19T08:51:06.000Z</updated>
     <summary>Zenn ／ ! 本連載は、ウォーレン・バフェットの投資哲学に基づき約3,000〜10,000社規模の上場企業をスクリーニング・バリュエーションするOSSエンジン「Intrinsic Value」の設計文書（ADR群）および実装を題材に、実務で通用するLLM応用システムの設計原則を解説する技術記事です。本記事は技術解説を目的として…</summary>
-  </entry>
-  <entry>
-    <title>NVIDIAら37社が「Open Secure AI Alliance」設立――AIエージェントのセキュリティは重みの非公開では守れない</title>
-    <link href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mY3BaT1FHNjNMQjhnVExqV0FJSDFRNmlDOG5MWFptUl9yemppZkVDOUtqZllhR1RXdWtDbW5SUGtrWTZnYlhqNTF5bw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#a842eabdc4c2</id>
-    <updated>2026-11-19T08:35:41.000Z</updated>
-    <summary>ThinkIT</summary>
-  </entry>
-  <entry>
-    <title>健康保険審査評価院が人工知能(AI)を導入し、国民の医療利用便宜性を高め、診療費審査を効率化する。 ただ、本格的なシステムを構築するまでは予算と人材確保がカギになる見通しだ。 ホン·スングォン審評院長..</title>
-    <link href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zT0JoQXgyMkozMS13S0cyMzRHR05remE3ejZIaHJIWVFDRjlGb0RrZEpqeURqYm00YWt5NDFWZjFRQkdwTU5fVHZIa0ZxM1dLcmc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#2cde53d3335f</id>
-    <updated>2026-11-19T08:35:08.000Z</updated>
-    <summary>매일경제</summary>
-  </entry>
-  <entry>
-    <title>キャスター付きで家中どこでも。LGの31.5型4Kスマートモニター「Swing AI」</title>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2157931.html"/>
-    <id>https://aimatome.gamelab.website/#fd1a8a7d8018</id>
-    <updated>2026-11-19T08:32:12.000Z</updated>
-    <summary>PC Watch ／ LGは、移動式4Kスマートモニター「LG Smart Monitor Swing AI」を11月25日12時からMakuakeにて400台限定で先行販売する。最速割で購入した場合の価格は9万9,800円。</summary>
   </entry>
 </feed>
