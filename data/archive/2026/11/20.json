@@ -1,5 +1,271 @@
 [
  {
+  "id": "da4f928e06b2",
+  "title": "AI自動化における冪等性設計：二重実行を防ぐ実装パターンとチェックリスト",
+  "url": "https://qiita.com/blinkgroup_jp/items/ee107a1fe5e3bb16cf0e",
+  "source": "Qiita",
+  "summary": "読者が抱える課題 LLM（大規模言語モデル）のAPI呼び出しやAgentによる自動化処理、WebHook連携などを利用した非同期タスク処理では、ネットワークエラーやタイムアウトが発生しやすくなります。この際、リトライ処理がトリガーされることで同じ処理が二重実行され、データ...",
+  "publishedAt": "2026-11-20T00:22:05.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "503bcd57d30e",
+  "title": "GeminiがMacを代わりに操作「computer use」提供開始、アプリやファイルをまたぐ作業をバックグラウンドで実行",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kR1VKX3k3TlBUc1VPcktUcE5qYUNDemhiWm1YNUJxaW9TaWt6UGlhazdaemR0ZVFLYW14VnpHdUJkaV9fRllzYUxNUWRxX3Q4SXZOUWNYdDF2QzlyalZ6UC1wSGYtVTQ?oc=5",
+  "source": "テクノエッジ TechnoEdge",
+  "summary": "",
+  "publishedAt": "2026-11-20T00:20:14.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d492f3a97692",
+  "title": "弁護士ドットコム、法務ＡＩ「ＬｅｇａｌＢｒａｉｎ」がマイクロソフトのＣｏｐｉｌｏｔに対応 - kabu-ir.com",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54djJXWVNlMWtMZUZsX3NUZHZTMXFUeXNXd3U2SmJGSXZQWDExcEt2cXhVaVppYzZBOVlCbmZpM0JOTUxkaG9qT0ZfLUd1VGlqdnQtbw?oc=5",
+  "source": "kabu-ir.com",
+  "summary": "",
+  "publishedAt": "2026-11-20T00:20:13.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d4dabdfbab3c",
+  "title": "Google、Gemini 4 Neon を発表！Blender MCP での3Dシーン作成やスキーシミュレーター、先に出た Carbon の Blender 活用例も",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQcVF1aHdQcGZMVm9Rc24ybGtPUTc5cV8wdzl6ampETDJ0UHp1WGhiN09LVTZNLWlFVEFSY19pTm02TmJTOGctdm5PRUhWNU10VGhibllPdGs0ZnRv?oc=5",
+  "source": "CGinterest",
+  "summary": "",
+  "publishedAt": "2026-11-20T00:17:14.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b8328adfa0ca",
+  "title": "OpenAIの「GPT-6.2 Astra」と「Sol」、初期テスターから辛口評価",
+  "url": "https://japan.cnet.com/article/35255189/",
+  "source": "CNET Japan",
+  "summary": "OpenAIはの新たなAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」はどちらもベンチマークでは前モデルを上回ったが、実際に使い始めたユーザーからは不満も聞かれる。",
+  "publishedAt": "2026-11-20T00:15:00.000Z",
+  "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1360531-file.jpg",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "8ebc566cadf6",
+  "title": "AI時代のプロダクト開発とビジネス戦略の変革",
+  "url": "https://qiita.com/maskot1977/items/033053b5a716d22c6e9e",
+  "source": "Qiita",
+  "summary": "提供されたソース資料は、AIビジネスと市場の動向において、現在進行形で起きている「基盤モデル開発競争の過熱と地動説的シフト」「SaaSプロダクト開発・GTM（Go-to-Market）戦略の根本的再定義」「実務・組織運用におけるAI導入の実態」という...",
+  "publishedAt": "2026-11-20T00:14:46.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "653ffccb75e7",
+  "title": "日経平均株価1800円以上下落 AI大手「アンソロピック」新規上場も米市場は大幅値下がり 東京市場でもAI・半導体関連などで売り注文",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MeUpJdVd3Q3NXYlgwTHF0RjgxcW55YkJIRWdFcGplTGRObHA3UnpGdWhRWENYdkVSVGZUTlNaT0lCV2FzaDFjUC1pRmNBWlVqRC14VTBtWQ?oc=5",
+  "source": "TBS NEWS DIG",
+  "summary": "",
+  "publishedAt": "2026-11-20T00:13:21.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "49e0a7d60b88",
+  "title": "iPhoneのカメラ開発を主導した幹部が退職、生成AIによる写真加工に反対の過去も - Investing.com",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQdmJ2XzJQRW8zVk1vbk5QN1BIZjRRMUl3UmxuRWQxNzV2S044T2RFa2V5SGpITTNCWmtwZmlIVnhURXN6UWU5SFgweXJiLUNneGtPR1hWWjZUMi1rSHlWWkZWdHpFLVhuSmlpRVFzWTA?oc=5",
+  "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-20T00:13:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e658c73d218d",
+  "title": "【速報】日経平均株価が大幅下落 一時1300円安 AI・半導体関連銘柄を中心に売り先行 東京株式市場",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vQXZ4SGlFUDdKd0hkdzBHREZZTXVCbW1fWF9GUkF0bzBVWUlYRVlrR2REWi16TW9VYWdSdmdoWE4xZVVKdldENlMyVzl5ZjBXWVUwa0lTVFBsb1NlRlJPWFNxOXVHRUlUTkM4aXZ2UWJMSHRzaVBuTXBWRXlTYzA?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-20T00:12:23.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "758ac82027ad",
+  "title": "Anthropicがナスダック上場 期待と不安が交錯、「価値観と矛盾」との声も",
+  "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12193/",
+  "source": "日経クロステック",
+  "summary": "米Anthropic（アンソロピック）は2026年11月19日（米国時間）、米ナスダック市場に新規上場した。上場初日の終値は97.17ドルで、公開価格を17％上回った。アンソロピックに対する期待感の高さを改めて印象付けた一方で、米サンフランシスコにある同社の本社近くでは抗議デモが起きるなど、不安も交錯する。",
+  "publishedAt": "2026-11-20T00:10:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "16775239131a",
+  "title": "【速報】日経平均株価 大幅下落 AI・半導体銘柄を中心に売り（テレビ朝日系（ANN））",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kc2ZtbTVoUUFkSENoQVFwTTBMUE1Rbl9KOXNsREU4dGJVZk5nSGpCQ1BOb0hyS2ozNDlmZVdyZzFDQXhmZEdtQTV4XzU5QmZuZk1ESWdTcDVjVEgydXNWSW1XYUZpUE1Ka1h3M3VpSU1yaTVmU3BuaHdkelJhdXc?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-20T00:07:55.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4f54de97745e",
+  "title": "AIエージェントでERPはどう変わる？ SAP幹部が語る「自律型エンタープライズ」の現在地",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zUkRQTlJDbnBOVmdPejB6UXJPT2xjRFN1U0tuTHdlMjFSODRadldaaDM3Z2tDaGZIc0FJdGE0Uzk4U1NxNDBHbGRSbmh0MnZ0eWVEMmY2V0dPU2tyUDg4QWpJNzRQQ2Y5?oc=5",
+  "source": "マイナビニュース",
+  "summary": "",
+  "publishedAt": "2026-11-20T00:05:55.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d6fc57326fbe",
+  "title": "大和証券Ｇ－続落 AIエージェントによるオンチェーン取引の実証実験に成功(トレーダーズ・ウェブ)",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdEhRT29LWlg2ZTY4V2xLOWJmV0RvemhMUThZWkpQamVTclF5anNoVWM0N1g0cFFoUVpjOWhQV2J0ODlrX1dhVWVnRHlITTl1cXFIREZDaHJmbGJ4YTloMHRoampWUi1JNjhYQmNWTUdMUE44eTRXT2phZ0dYQWpNLTRfRGZSTUE?oc=5",
+  "source": "Yahoo!ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-20T00:04:03.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7e6adc5fa30a",
+  "title": "AI半導体90万個、対中輸出承認 米政権がエヌビディア製など 下院委（時事通信）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pSGlFOHdPeTRYYk5YU3k4Q05rR1pITnlVV2RTVHJzV043OFM0TDRyZXBoYkVIZTN4c0ptNlJKUGZhemFqNVU5SmMxSzlOT1R1ejJDbHkwaGZ0bGJselg5V05uZVE3Zm9xNllmeVFMWng4R0pTUTVtTGc3dUt2WDg?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-20T00:03:06.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a03e9f2edb9f",
+  "title": "ChatGPTの音声入力が「Live Dictation」に進化。めっちゃ文字起こしできる！（ギズモード・ジャパン）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92WXdOdUxOU05hYlAzWjRrYmN5RDdVbkhyLVBqNndJN3FSeWxLSEpqMGhDZVdSOWkyMmdOQkhjckh6YXA0dnU3UU4walhzVGdubS1QdEFJWHFpblhBM1MwcTBMcVU0YVh5SWxLQ25UOTF5cFFzbkRzTmZhajMybTA?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-20T00:00:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a0f0b20ef1fd",
+  "title": "たった10分、生成AIを使うだけで衰える「考える力」 将来「脳トレジム」に通わないための5つの方法",
+  "url": "https://ascii.jp/elem/000/004/449/4449904/?rss",
+  "source": "ASCII.jp",
+  "summary": "本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身につけて欲しい。第79回は、生成AI使用による考える力の衰えを防ぐ方法について解説する。",
+  "publishedAt": "2026-11-20T00:00:00.000Z",
+  "image": "https://ascii.jp/img/2026/11/09/4549789/s/da3821bdd22c7e61.jpg",
+  "categories": [
+   "case",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "add028f48469",
+  "title": "Hitachi Digital、AIエージェントによる開発・実装・運用のライフサイクル全体を統制する「HARC Compose」を発表",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPYXE2UURicDBBVG5kbU52OEFKYm5scjJzVWY0X0hON0gyRmVvSmRFbWpiMUJJZmtiQ2lhY3Z4Y0pmbjY5WEFYeC1qOVhVekp5a1FhdURDVnZVNWdOTkVKWjNrRFBxbGg1a2F6Mm1aYkpGZ0lYS1N5cDlVTzk5X3c?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-20T00:00:00.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9a13994dcc81",
+  "title": "AI駆動開発のアクセルを踏む鍵はセキュリティの自動化──Devinが描く安全な開発の未来とは (1/3)|DeveloperZine",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84bC12bno2ODNEaU5iYTBoRWpwNlF2UXl0VFljTk9sb1gxajljRHNTckxMMEl5NE9NVUNNOTk3OFh5VHlHalZXcXg4cHlVcmozU0E?oc=5",
+  "source": "CodeZine",
+  "summary": "",
+  "publishedAt": "2026-11-20T00:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "33a30ddba435",
+  "title": "ChatGPTやGeminiなどの主要AIが「実行可能なテロ計画」を生成、最新報告",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZdG9nUVlrSFU1cE5LSWFnVldpTEZjeml3VWhER29rZmRBY2lrTXU5QTdsczlWRVl2U1NaZVJ3SzdPb1hIV1MzMkpKMDRaanU2UFFHa3FMOUV0dw?oc=5",
+  "source": "Forbes JAPAN",
+  "summary": "",
+  "publishedAt": "2026-11-20T00:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "de02d3ef0394",
+  "title": "【徹底調査】AIでXの投稿・返信を自動化すると凍結される？ChatGPT・AI返信BOT・自動リプライの規制をアカバイが調査",
+  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFTWNqenNzSm1JYUhPSjIxWjhiaGNTaDMwbmZpSkIzdldiNWhyYjZlYW1ESlM1RkJvdkxVd0dCa0puNFJ5NEoxNkZyUkRvSmhKZmFr?oc=5",
+  "source": "ドリームニュース",
+  "summary": "",
+  "publishedAt": "2026-11-20T00:00:00.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "c54c770b2f7b",
   "title": "AI規制が注目される中でのエヌビディア決算 マーケットへの影響と今後の注目点を解説 野村證券・村山誠",
   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FTml5TktwbFpFeFRqejhsNXdJRUFkc3RCbmpvYWVQdjI2LTFzNGx1UHVSM2RHSG5FdWVTRGFmVGtsOElqZFFyRXlTaTk5RnkzWjc5SFZyQzVGdGFVaFpN?oc=5",
@@ -27,6 +293,19 @@
   "isPR": false
  },
  {
+  "id": "3ff49526276a",
+  "title": "AI半導体90万個の対中輸出承認＝エヌビディア製など―米下院外交委(時事通信)",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUVUbmpQeE4zOGJieTRYXzk1b2I3QzZSeGJnZmJsbmZMRC1va2F5UTlsTk44Yy1PZzQ3c0o3RDJYQXdQRTRXT0hSQ2d4eFBfOFNCUUJGdW9OUDlVZnZoSmN1VGotSi1NUXB1NGRLdmswQU1nMXZvcElFMkJIVm5WdWFIeDNsZlU?oc=5",
+  "source": "Yahoo!ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-19T23:48:46.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "d04901753206",
   "title": "ノーベル賞受賞経済学者のポール・クルーグマンが考える、学生たちのChatGPTの正しい使い方とは(東洋経済オンライン)",
   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTUVlQXpYZmxVdnZkN1dNZGRaX1ZhdWhXZnEwZWE1a1RjS2w4MkJYM2JULWQ4S1pxS0NPbkdHWGRteFIya0xvYnIxMXdiV2hnT2N3RDYzTjBUZHdibWhoVVZIY25wWDhKM2MwalRMS281NHA2NlhDeXVXUUdfWjI5Ul84LVhiQ1E?oc=5",
@@ -36,19 +315,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "ce0a0acdaf5f",
-  "title": "トランプ氏「いかなるAI規制にも反対」…習近平氏「AIは革新成長のエンジン」",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeldObnhheVh5NGlBOXpOakR6TjdFNFFPUUp0Z0ZmZ0VqQ3NkNUdkNkVvcXl6VDh4NFRDQ0gtcm9wWGJ5WmQtNWU1UGw3QXlpMFhyWnhRNFhnb1ZJY3IxdVNlcHBZSFVXeFNzaWFBV08ta0duWGpoUHQtUkxUcnRUNThBQUJjbjjSAYwBQVVfeXFMTTNwWUtyZDg2ZnVxVWtQWWRUVFlJdDZiczFzVUpOV1F6MVoweDBVVlpDYUJyTU9RNjdpUVlRTm5VYV9tWUN1TjRrNWJyOTRfU1RhTzNKMGZpNjNSTU13X20wZXR6MVQ1N2szaUREMG9ha0Jib3hmZzJVdmRHVWQyR0U5Y016VlhzbFFOdFk?oc=5",
-  "source": "ｄメニューニュース",
-  "summary": "",
-  "publishedAt": "2026-11-19T23:42:34.000Z",
-  "image": "",
-  "categories": [
-   "policy"
   ],
   "isPR": false
  },
@@ -68,13 +334,27 @@
  {
   "id": "19eef102e521",
   "title": "Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加 まず米国で",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtS3lMNng3eldNRTZHSE5SZ19UN3NyUzhfTExfNzJiRWhkVkJiOHdjLVdKbS10ZV90OEE3LU8yejRNbm52a0lQUE9saXEzQ3lxVEt1SG9YQXQtM3Y4UERUWEtJQ1JhVVFYakE?oc=5",
-  "source": "ITmedia",
-  "summary": "",
+  "url": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
+  "source": "ITmedia AI+",
+  "summary": "Googleは、Mac版「Gemini」アプリにAIが画面を認識してアプリを自動操作する「computer use」機能を追加した。隔離されたバックグラウンドウィンドウで動作するため、ユーザーの作業を妨げずにファイルやWebをまたいだ複数手順の業務を代行できる。まずは米国の有料プラン加入者向けに英語版から提供を始める。",
   "publishedAt": "2026-11-19T23:41:04.000Z",
   "image": "",
   "categories": [
-   "product"
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ce0a0acdaf5f",
+  "title": "トランプ氏「いかなるAI規制にも反対」…習近平氏「AIは革新成長のエンジン」（中央日報日本語版）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42UE5KTjJBTGRkN3VpYUxSeUdRRGh6S1BzSk1ZSzNvUmJnd0VLblFkdVd0MDNFQnpsN0ZXejEwZzF1M2p3STNmal9ZR2RRRkwwS1JPaFAyQktIWE92YXZJU2V0UU82Z3BKa05YWVN3Njk0X2N4dEFtQlJDTDlTSFU?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-19T23:36:38.000Z",
+  "image": "",
+  "categories": [
+   "policy"
   ],
   "isPR": false
  },
@@ -213,15 +493,15 @@
   "isPR": false
  },
  {
-  "id": "a03e9f2edb9f",
-  "title": "ChatGPTの音声入力が「Live Dictation」に進化。めっちゃ文字起こしできる！",
-  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aeU44anpuV0dQUnNFVTJwaHFMYkZOaEpPVVdBanpxT2F2bVA4WHc1Q0xIT1dZeGExbl94TXFFR2JfSkgxSzNkdGRBa3pYcnhFQU1TLXE0X1k1azVFVEhPczdpS05XWllicVFz?oc=5",
-  "source": "Gizmodo",
+  "id": "4fb9e5ebf119",
+  "title": "米下院委員会：商務省がエヌビディア・AMDのAI半導体約88万個を対中輸出許可",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92bktmeXhoY3p5WWp0a016NDRjR2pnRWpNOGFtYlFjMm12dEExeUxPS0laTjZuelpvNmdyOXZDTXFSRjNyN1ZwNzlIN1hiQ1doaDV6MVVOZkJlR3ZQRkw5Z2cxYWRLajBNdV9JdHJYR1BpcUFm?oc=5",
+  "source": "BigGo ファイナンス",
   "summary": "",
-  "publishedAt": "2026-11-19T23:20:00.000Z",
+  "publishedAt": "2026-11-19T23:25:00.000Z",
   "image": "",
   "categories": [
-   "other"
+   "infra"
   ],
   "isPR": false
  },
@@ -318,6 +598,19 @@
   "isPR": false
  },
  {
+  "id": "448786985e58",
+  "title": "Anthropic、IPOで813億4,000万ドルを調達 株価は急騰後、初日の取引を17％高で終える",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWE1mcGtmbC0wNG1xWkF6b05wQmlkSUJnVi1nVGV1a0xleUZEQVRtSWxZektkNkFfOUd3U04wM3hOLThCU24tc1ltVUpxNHBfSUY0SnlCVEFGV0F0QUVwd2trNElHdXNQLXVYNW43clNKS3REZTlJMm9IeGhpTnBvOFZqODdyQlBXcGR5UDVya1MzV3Q4WW1V?oc=5",
+  "source": "Unite.AI",
+  "summary": "",
+  "publishedAt": "2026-11-19T23:11:03.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
   "id": "55dcc345e715",
   "title": "Copilot Autopilotを試す前に：米国限定プレビュー・従量課金・クラウド実行を整理",
   "url": "https://zenn.dev/jinsights/articles/34ffd08657217f",
@@ -352,7 +645,7 @@
   "source": "CNET Japan",
   "summary": "米メリーランド州で、学校のAIがスナック菓子の袋を銃と誤認し、警察に拘束されたとして、当時高校生だった4人が11月17日、開発元のOmnilertやボルティモア郡、郡教育委員会などを提訴した。原告側によると、警報が取り消された後に警察官が出動し、4人を拘束した。",
   "publishedAt": "2026-11-19T23:10:00.000Z",
-  "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1360513-file.jpg",
+  "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1360525-file.jpg",
   "categories": [
    "policy",
    "case"
@@ -467,6 +760,20 @@
   "isPR": false
  },
  {
+  "id": "80acbfa01189",
+  "title": "Okta、「Okta for AI Agents」の複数サードパーティ製IdPの標準対応を発表（クラウド Watch）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HSWJOQkRHcmtKS3pOaWNRaEkyV0g1c280SG5CVUZwQ0xrR3F4R3VCdFdaMDJxbzJDLW9UbkhSTnlEYU1NR3NJdzZEMURrZFNCXzdqem5jUVpsX3lreTM5endkeENWOUc0RzI2MTVMQlZ0U3RzeGx2ZGdaZjZQWnc?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-19T23:00:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "1d7d6e50306f",
   "title": "米政府、中国テンセントやアリババへのAI半導体販売を承認－公開資料",
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMGhEMnhIOXMyQmtnZjgzUjFxVUd5bzJyMkVzNmhrNHJxYTcyZ2tQUktETV9pRVVTT2NTQTFwZS1UUG9Ra2RybXdJZEZ2VXhzaFVuejEtc1Bub0tyLVc5SUJ5aUlQcmYtQmRzaC00WEVLd2NpQmI3YlYwRHp4SXI1RmYzRjdoSGd6bi1YUmtn?oc=5",
@@ -548,12 +855,12 @@
   "isPR": false
  },
  {
-  "id": "f7b8b68a15f0",
-  "title": "「風邪？でAIへ相談」回答うのみに注意 受診控えで病状悪化も",
-  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlQUd0YTA3NllwdEUxblNqU3JZX3FjeEFTc3NXcHdkMlB6RVVZbGtmbDBHbHZaN3B0aFRNekQxdWIzRTljbU1Zc0pzZ3UycTM1?oc=5",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-11-19T22:45:23.000Z",
+  "id": "0cb68b3bba5d",
+  "title": "プログラミング雑記 2026年11月20日",
+  "url": "https://qiita.com/ishisaka/items/96009f038811db719b2e",
+  "source": "Qiita",
+  "summary": "今日もネットで見つけた技術ニュースや記事の中から、個人的に気になったものを厳選して紹介します。ご意見や補足があればコメントで教えていただけると嬉しいです。 セキュリティ PHPのセキュリティチームは、日本時間11月19日23時から23時30分の間に、セキュリティリ...",
+  "publishedAt": "2026-11-19T22:44:51.000Z",
   "image": "",
   "categories": [
    "other"
@@ -561,12 +868,12 @@
   "isPR": false
  },
  {
-  "id": "0cb68b3bba5d",
-  "title": "プログラミング雑記 2026年11月20日",
-  "url": "https://qiita.com/ishisaka/items/96009f038811db719b2e",
-  "source": "Qiita",
-  "summary": "今日もネットで見つけた技術ニュースや記事の中から、個人的に気になったものを厳選して紹介します。ご意見や補足があればコメントで教えていただけると嬉しいです。 セキュリティ PHPのセキュリティチームは、日本時間11月19日23時から23時30分の間に、セキュリティリ...",
-  "publishedAt": "2026-11-19T22:44:51.000Z",
+  "id": "f7b8b68a15f0",
+  "title": "「風邪？でAIへ相談」回答うのみに注意 受診控えで病状悪化も",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlQUd0YTA3NllwdEUxblNqU3JZX3FjeEFTc3NXcHdkMlB6RVVZbGtmbDBHbHZaN3B0aFRNekQxdWIzRTljbU1Zc0pzZ3UycTM1?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-19T22:44:21.000Z",
   "image": "",
   "categories": [
    "other"
@@ -1079,10 +1386,10 @@
  {
   "id": "d1f467e4ee9d",
   "title": "ＴＳＭＣ、中国向けＡＩ半導体の一部受注停止 米規制強化に対応",
-  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wNzFETXNBOHBUSVNjWVBtZktTME5HeDJDLUdSVE9DX2JzZW5LbURmN1pJOTFTLUZqVkFiSEVlanE2R18zUGgwb1o2eW1MX3lyOHFQeG5FM01Odw?oc=5",
-  "source": "ニューズウィーク日本版",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU0ktZWdMYmRwdEk4T0I5Y1NXV3RkdHJaUFd4M2E2dUg1S2FUcHo4bVY2Ung0YjJqRTlZeTNhcDNDcXNZZVJEdm1JcXJSWFk4WnFwZGkzY2lneWJ5NkV0ZERNOExpNDhfcm5DTGRkcEtUSmNxVkZlWTRvejhuWWFDWFNDZE8?oc=5",
+  "source": "Reuters",
   "summary": "",
-  "publishedAt": "2026-11-19T21:50:00.000Z",
+  "publishedAt": "2026-11-19T21:51:44.000Z",
   "image": "",
   "categories": [
    "product",
@@ -1544,8 +1851,8 @@
  {
   "id": "615f53260407",
   "title": "参天製薬「1年でAIエージェント4000個を自作」1人1日61分を浮かせた《“現場任せ”の独自手法》と問われる事業成果",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWpjVXZWdHlhV056c0REQ29uNnpWX2JtZmtYZ2ZVY3pvcjdjZVZZZFlaRUEtcUdxZFlPMXFlTVVPUXUteTlEa2JQTElIS2RUVmp5ZkV0ay1KLWZVQU91VU5GdUZmS3lqcjVwWWxrSktfamRPSnluOXBXTHNNbHlqZlNKWFZWREU?oc=5",
-  "source": "Yahoo!ファイナンス",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TUkZSTjNxckoyUXh0WlppSjAwbWZWS1pIcnF2NS1meWQzT0dhNndjMElZVzBuTzdveURkekhWOVY5dWJCRDNjbVQ3c3huS0M3SmFzZ1N1SzNYSzVjeG1saS04Rlk0UkcyU01aRjBRdTFhR25rdE1tM0RGU0g0ZHc?oc=5",
+  "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-11-19T20:16:14.000Z",
   "image": "",
@@ -2070,6 +2377,20 @@
   "isPR": false
  },
  {
+  "id": "c27f680ed9e8",
+  "title": "カイル・チャン氏、米国のAIチップ規制強化で中国がEUV追求を断念する可能性を指摘",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ab010bEVqLXBPSVZGTWxlcUJCY2ZZbDNuZk1KNFgzRlFZTzFkb1NraDM4UlRGaXpyVm1weGhtY29NbU5OaDkzWjdyR1FnX2lMcVkzdHJmVjRDUQ?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-19T18:08:00.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "c760ee2bd9f9",
   "title": "Anthropic上場がAI相場に火をつける SanDisk、Intelなど半導体メモリー株がそろって6%超上昇",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Cd3hxRHFHMGV4anEzRUFGUVdTcjFtVjFlZ2U3SzVDZHlDQWZJVTJEVWE3Vm9GZ3ZsZ2VTaFRGcGJqOERoV3Q3aEw3N2h6dlgyREJBUi00SDNsVE9NMFcwczdGblZ0ZlZvVnBIZS1hNWdjUHNs?oc=5",
@@ -2453,6 +2774,19 @@
   "isPR": false
  },
  {
+  "id": "d5659e9aa8dd",
+  "title": "デューク大学のマイケル・トマセロ氏：言語から始まるAIが、人間を賢くしたものを飛ばしてしまう理由",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XaXBkS1lldE9IUjdpVEo0cjNsanRBb09LS3NxMHlGZ0N3Q0hxWFJXRXJzd1o5RVB2SGYyQWFxVVpyb0d6M2syd0g0QVBPY3N5dE1qaUVkczJIUQ?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-19T16:08:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "49b6b7e24add",
   "title": "ブロードコムのAI半導体収入が221%急増、ウォール街は目標株価を引き下げ",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLY2FpWkxILWNYd19GTEdMOEVvR0o3Yl9CSlNuZXNEWkJ5dnhucFVrVGgtbHo5TFJoWUREYW1HdUZzOVNmWG8zN1A5N2paY2lwRE45NXBNSnhURS05V2FTUXFyY2xGT1FNMkxGT1V2TVd2MjlI?oc=5",
@@ -2570,6 +2904,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "57808a58ef55",
+  "title": "Muse の VM は約2時間で入れ替わる（実測と対策） - Qiita",
+  "url": "https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44",
+  "source": "はてなブックマーク",
+  "summary": "生成AIと人間が協働して記事を書くシリーズです。 パーソナルAIエージェントのMuseとの対話が大分慣れてきたので、github repoの引用？の仕方と画像を置くのとこのInfo以外はMuseに書いてもらってます。 Museに聞いたら、タグってちゃんと効果あるみたいですね。 0. 前提 この記事の環境は、私が日常的…",
+  "publishedAt": "2026-11-19T15:25:02.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Fmryo0826%2Fitems%2Fc05efd7ac228fe85ab44",
+  "categories": [
+   "case"
   ],
   "isPR": false
  },
