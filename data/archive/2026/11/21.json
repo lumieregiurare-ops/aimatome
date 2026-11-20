@@ -1,5 +1,31 @@
 [
  {
+  "id": "1afab7456dd2",
+  "title": "作るのは Gemini、撃つのは 0.5 秒 ── AI を外した GASクイックの話",
+  "url": "https://qiita.com/shu15511551/items/b216c0d903e24d87cb6a",
+  "source": "Qiita",
+  "summary": "はじめに ―― 予告どおり、AI を外しました 前の記事の終わりに、私はこう書きました。次は、AI がなくても使えるコンボを作ります、と。 あの記事で書いたとおり、11 月 16 日に Google が、Apps Script のエディタに入った Gemini を正...",
+  "publishedAt": "2026-11-20T19:13:49.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0cdf4f6ef950",
+  "title": "日経平均は下値探る展開か AI半導体株の期待揺らぐ",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sYWVCMV9DMkxTamoyYzZuVkMzQUU0TmwzTkRaamJoLVVZLU14dTRJU1UzdWFDdlQybG1fYkprUk42UEdGeUgxb2JkNlpFOFltWjNGbENremtvRGdvVnRoRmZzUUlRUkxXb01TNA?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-20T19:00:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "acc413367571",
   "title": "グーグル、Gemini 4 Neon発表 入力3ドルで総合3位、単価はCarbonより32％減と主張",
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoSmtWR0hOTW43RG1kSm5ZanE1WFlhNXl5b2NaTFdXWWhHRGFVZFk2dlJaeWFQb2QtSWZ1SWRrUnc5MkF2WnBxYWNCNmtRNVlRbkpz?oc=5",
@@ -9,6 +35,46 @@
   "image": "",
   "categories": [
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "562c51baee8d",
+  "title": "生成AIパスポート、2026年の年間受験者数が13万名超を記録。2026年10月試験の結果を発表",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xbG91S0ctVERMYTNYQnhucllmdnBmazdKNU1tZnRXWmloeENtN1B0OHVYR3c0VURJRkhsdktmYVp0eHJwaHMyeHF0QVB5MkM3b2J1MHVBVUE4Mk9kT1JZNG9NY04wdlpHYk1jVnJ4R1paZw?oc=5",
+  "source": "Infoseek",
+  "summary": "",
+  "publishedAt": "2026-11-20T18:40:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "cdd1ee18d4f6",
+  "title": "ChatGPTやAI Overviewsの回答で、自社が選ばれるサイトへ LLMO対策を調査から実装・計測まで支援する「マルゴトLLMO」を提供開始",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qMXczQ3UxR1hMM1ZlLWVScXNMRzNvb0VmdC1vQ2NuXzFsU29YRGltZE5HSl9jS3pEWjlFVUR6bWhrT2RYYURLbHJmdTNrTHFScm4tb2xETy10c3R5T3l5WUxrMnktSHlXcnFhU1JfeF9qc1U?oc=5",
+  "source": "Excite エキサイト",
+  "summary": "",
+  "publishedAt": "2026-11-20T18:40:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "852dd317be87",
+  "title": "Salesforceと Microsoft、「Copilotforce」を発表 Salesforceの顧客コンテキストと営業ワークフローをMicrosoft Copilotに提供",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DVXNFUFdjcTllb3dIRjd5Q2lJZEI1UlpfOE1PQU5OVVlDMHJIVkZ5QlRwdy0zeTNBSkdOaFVtcVdhdzNab0o3S0hOaUxIaWpnM0RaMmNHSWxRLWNOMVJaZDBsZElpVElGc0dwQjY0LWt0VV8wSWc?oc=5",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-11-20T18:21:29.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -66,6 +132,19 @@
   "isPR": false
  },
  {
+  "id": "4a193c8a4973",
+  "title": "Claude Code のログを分析する仕組みを作ったら、hook の問題から Claude Code の不具合 2 件まで切り分けられた",
+  "url": "https://zenn.dev/murooka_az/articles/failure-scan-two-claude-code-bugs",
+  "source": "Zenn",
+  "summary": "Claude Code で同じ失敗が何度も起きると、CLAUDE.md や rule に「こうしない」と一文足したくなります。足しても止まらなければ、言い方を変えてまた足す。なんなら、Claude 自身が CLAUDE.md にどんどん追加しようとします。そうして CLAUDE.md が長くなっていきます。 手元の会…",
+  "publishedAt": "2026-11-20T17:37:18.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "e40d3c76e20e",
   "title": "Brizy AI 1.9.5、ウェブサイト用画像を生成し、セクションごとの再編集にも対応",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aS1hJb01JSWQ3WnFpVjdrLXEwVVVTUG1teFhyYURzblNzNnhoTWM0Y29OcG1rMFQzYjhiY2wyTkZIMThuTldoZkt0ZDdwLUxTU2pSdDV5QThZNW14MVhaZ0ZmcHBIbWdOcTlaNGxEOHlGWVYzd2JYX1FySQ?oc=5",
@@ -75,6 +154,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3a1b110c53bf",
+  "title": "米中首脳、ＡＩ軍事利用巡る決定に「人間関与」必要で一致＝財務長官",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tRkxPbFRNQm9jZ0szMFZEUjdTQ25lc19YRGcwblJfa1ZrcldwMXhQZmdUVlpuRHdLYk5MekU3Q2QwTGlGYzFYMldEM0NVYW5EN3JDNjVFMmlldzhueXR6OEhQcl9EQ2hqRWxCNDhKdWlHcmdONEt0ak52OVczOWc?oc=5",
+  "source": "Reuters",
+  "summary": "",
+  "publishedAt": "2026-11-20T17:33:11.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -184,6 +276,19 @@
   "isPR": false
  },
  {
+  "id": "29d52a4410fd",
+  "title": "ClaudeやCursorからBlenderを操作する: Klakix Bridgeアドオンの導入と使い方",
+  "url": "https://zenn.dev/klakix/articles/a10253affc97cf",
+  "source": "Zenn",
+  "summary": "Claude や Cursor に「いま開いている Blender のシーンを触らせる」ためのアドオン、Klakix Bridge の使い方をまとめます。筆者は Klakix の開発側の人間なので、中立的なレビューではなく、作った側から見た導入ガイドとして読んでください。 Klakix Bridge とは Blend…",
+  "publishedAt": "2026-11-20T16:17:18.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "db94c368cde6",
   "title": "JetB代表・竹内勇人が「AI・人工知能EXPO【秋】」で講演。AIエージェントに「どこまで任せるか」を、国内外の規制と自社の失敗例から解説",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzWDhmWXhqbUZjb204WGdfQjRMSExib1ZlMVlWV1RTZE8yX3VzTHo5d2I0SUg1X2FTeGZJMEJkMHRQNHkwQ3ZrekNzQU0tWTI4b3ZseGNPZFRRc0I4Y2x2YmlyLU96VlFOeDVsbWQyenpFVVBv?oc=5",
@@ -259,6 +364,19 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "55854fdcc26d",
+  "title": "作れるエンジニアから、価値を届けるエンジニアへ",
+  "url": "https://zenn.dev/kubell/articles/3c3490a3592bb1",
+  "source": "Zenn",
+  "summary": "AIプロダクトグループの中山 龍 (@ryu_develop)です。 この記事は、手羽先プロンプト #2 で発表した LT「作れるエンジニアから、価値を届けるエンジニアへ」を記事にしたものです。 僕は「手羽先プロンプト」という名古屋の勉強会を主催しているのですが、そこでトークした内容の評判が良かったので、せっかくなら…",
+  "publishedAt": "2026-11-20T15:50:41.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
