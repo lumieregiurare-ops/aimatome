@@ -5,14 +5,70 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-20T10:00:26.110Z</updated>
+  <updated>2026-11-20T10:30:22.759Z</updated>
   <author><name>AI matomechatter</name></author>
   <entry>
-    <title>DeepSeekの全家桶APIをOpenAI互換ゲートウェイで検証したら、何が動いて何が動かなかったか</title>
-    <link href="https://qiita.com/whitemarshall/items/c8545390e496300da52d"/>
-    <id>https://aimatome.gamelab.website/#817afde790d8</id>
-    <updated>2026-11-20T09:56:40.000Z</updated>
-    <summary>Qiita ／ 11月13日、DeepSeekが「全家桶API」を公開した。DeepSeekアプリの裏側にあるWeb検索、リンク読み取り、OCR、音声認識（ASR）、音声合成（TTS）を、それぞれ呼び出せるAPIとして切り出したもので、公式は「アプリの1:1再現」を謳っている。 私はこの...</summary>
+    <title>AIレビューの「漏れなし」を、Pythonで検証できる形にする</title>
+    <link href="https://qiita.com/saizoukunBusiness/items/053e1e33c59ac4682269"/>
+    <id>https://aimatome.gamelab.website/#462b21c197d3</id>
+    <updated>2026-11-20T10:28:28.000Z</updated>
+    <summary>Qiita ／ 要件定義書をAIにセルフレビューさせると、「記載漏れなし」と返ってきました。ところが元の要求と読み比べると、予約を取り消したときの通知が抜けていました。 そこで、レビュー結果を要求ごとに出すようにしました。どの要求を確認したのかは追えるようになりましたが、今度は反映先のID...</summary>
+  </entry>
+  <entry>
+    <title>なぜ T3 Code 経由の Codex は遅く見えたのか：10 分 26 秒の内訳を追う</title>
+    <link href="https://qiita.com/whitemarshall/items/2e54aec2447fa69dd7cd"/>
+    <id>https://aimatome.gamelab.website/#97a963db41e3</id>
+    <updated>2026-11-20T10:19:33.000Z</updated>
+    <summary>Qiita ／ Codex を T3 Code 経由で動かすと遅くなる、という声があります。同じモデル、同じコミット、同じ課題で、ネイティブ CLI は 6 分 07 秒、T3 経由は 10 分 26 秒でした。ただ、遅さの原因が調度層にあるのか、モデルにあるのかは、この数字だけでは分か...</summary>
+  </entry>
+  <entry>
+    <title>長野県の地域メディアが会合 生成AI活用や災害時の対応方法報告</title>
+    <link href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBWU1Fta2RWRFBVUGhZSDdjeFZSZklPaEVZbnJ0X2lGa3dTdlRwMV9fYzg2eXh0aUxPUEFhVTc3bnpTQmN1bEtLQ1doZVk1RWxRVmNzMUpmME53WlhRQTEyNHp1d3Y4MVFEQWFEa2s5MEo?oc=5"/>
+    <id>https://aimatome.gamelab.website/#810c9397dac2</id>
+    <updated>2026-11-20T10:10:00.000Z</updated>
+    <summary>信濃毎日新聞デジタル</summary>
+  </entry>
+  <entry>
+    <title>日経平均 3007円安の5万6436円で取引終了 アンソロピック上場で「材料出尽くし」 AI・半導体銘柄に売り</title>
+    <link href="https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLS3RabC10bWxXZEM0MTJrQ3Y3RmY3OGU2bmpfSzk4UHVJVDU3MEtpR1pGcFJNc3p1VjF4Yy1fcV9BYWk0UmpVd0ZCS0RqN1dNemFZeHFMNA?oc=5"/>
+    <id>https://aimatome.gamelab.website/#90ddd2cfee41</id>
+    <updated>2026-11-20T10:07:20.000Z</updated>
+    <summary>TBS NEWS DIG</summary>
+  </entry>
+  <entry>
+    <title>ChatGPT、話しながら文字起こし 無料プランも対象、録音の10分上限を撤廃</title>
+    <link href="https://japan.cnet.com/article/35255223/"/>
+    <id>https://aimatome.gamelab.website/#570b99f0c546</id>
+    <updated>2026-11-20T10:05:00.000Z</updated>
+    <summary>CNET Japan ／ OpenAIは11月18日、ChatGPTで話した内容を音声入力中に文字で確認できる新機能「Live Dictation」を発表した。あわせて、音声入力の録音時間に設けていた10分の上限も撤廃した。無料プランを含むすべてのプランを対象に、iOS、Android、ウェブ、デスクトップアプリで順次提供している。</summary>
+  </entry>
+  <entry>
+    <title>日立、OpenAIのサイバー防衛網に参画 脆弱性診断をAIで自動化へ</title>
+    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE1jZzhQd3lDMXJtT1pUaW5nckFVVXRqM1NqUGpCRWo0YVA1R2pPTU1GZDJ1bkxnZTBBODZrNkdFM0xLT3ZmV1BBWE02bmxkNm1BY1RqSGxFTHNtdTFMNWVQT2NodXotOU9QUXVBQjBrUXJsUGlQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#e379a360c5ea</id>
+    <updated>2026-11-20T10:05:00.000Z</updated>
+    <summary>BigGo ファイナンス</summary>
+  </entry>
+  <entry>
+    <title>AI に PDF を正確に読ませる：Python で構造化テキストとページ画像を用意する</title>
+    <link href="https://qiita.com/iceblue/items/950cb3aedcf87b2dcb85"/>
+    <id>https://aimatome.gamelab.website/#65270ef9ad80</id>
+    <updated>2026-11-20T10:04:46.000Z</updated>
+    <summary>Qiita ／ PDF をモデルに渡す前に決めるべきことは、その文脈の中でどの形になるかである。現在のマルチモーダルモデルはページ画像を直接読むため、PDF の内容そのものが障壁になることはなく、障壁は準備の段階にある。どの部分をテキスト経路に、どの部分を視覚経路に置くか、それぞれをどのよ...</summary>
+  </entry>
+  <entry>
+    <title>IGS、HR事業の立て直しで商談は回復基調へ インドと人×AIエージェントの協働を軸に新たな成長機会を開拓</title>
+    <link href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE9KcVVab2NCY3dpMGVMdEk1Wk5EWk5PejdXdG9vZUxCbHN4NHBFVG9udGtacTlzWl80bjJISk95VVowUFk0cXc?oc=5"/>
+    <id>https://aimatome.gamelab.website/#63b2558a1bf4</id>
+    <updated>2026-11-20T10:00:01.000Z</updated>
+    <summary>みんかぶ</summary>
+  </entry>
+  <entry>
+    <title>AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功</title>
+    <link href="https://news.google.com/rss/articles/CBMigAFBVV95cUxObGN2bUV0Y3MxTHM3SkR4UEg5cTNCOWVEejJHaklFTkdmZDlWdE5OMC1qam9VYU5MSVdCZW1mN2ZxR3puWnFMZ3psXzNYamc3OThWWEo5eFVuZnVZY0JvR21pY0w3aVlaejVBUHlueTdoLTFNQmx5NS03OUl5ZDZHdg?oc=5"/>
+    <id>https://aimatome.gamelab.website/#c6ad113f0f02</id>
+    <updated>2026-11-20T10:00:00.000Z</updated>
+    <summary>GIGAZINE</summary>
   </entry>
   <entry>
     <title>ラムドン省：ファンティエット区が住民サービスにAIを導入。</title>
@@ -29,11 +85,11 @@
     <summary>Vietnam.vn</summary>
   </entry>
   <entry>
-    <title>【第9回】ゼロから目指す! CCDV-F合格への道：APIの応用機能</title>
-    <link href="https://qiita.com/Ray_T/items/c6d3e565dc764fd19521"/>
-    <id>https://aimatome.gamelab.website/#c71f2e9f3ad2</id>
-    <updated>2026-11-20T09:46:51.000Z</updated>
-    <summary>Qiita ／ この記事について Anthropic社の公式認定資格「Claude Certified Developer – Foundations(CCDV-F)」に向けた、非公式の学習シリーズ(全24回)の第9回です。（Anthropic社とは関係ありません） 公式の試験ガイド...</summary>
+    <title>IDホールディングス、鳥取県大山町議会で生成AI活用研修を実施</title>
+    <link href="https://news.google.com/rss/articles/CBMieEFVX3lxTE95VlZNUVRVR0d0dHBCbE9NY0IyOEFjdFAxZ2tYZUhPejMyZGlDLXViZUZGSWhmX2MybTQwTE56N3RfbGtteDk1ZURlSk8xUWUtLVQ0SWkwS3ZCMTdQN3Y5N0I3U2hyN3F2TEhxMU5kTnFCbjZFSXJUdg?oc=5"/>
+    <id>https://aimatome.gamelab.website/#d63dbfba1073</id>
+    <updated>2026-11-20T09:51:18.000Z</updated>
+    <summary>ニコニコニュース</summary>
   </entry>
   <entry>
     <title>欧州債券市場の発行額が初めて2兆ユーロを突破！AI関連資金調達の急増と政府の債務拡大が重なり、発行記録を更新</title>
@@ -43,18 +99,25 @@
     <summary>Moomoo</summary>
   </entry>
   <entry>
-    <title>AIエージェント時代のVM寿命と長時間タスクのチェックポイント設計</title>
-    <link href="https://qiita.com/yoxi957/items/dd7e5f7050e53da88b51"/>
-    <id>https://aimatome.gamelab.website/#956cb44b440c</id>
-    <updated>2026-11-20T09:41:29.000Z</updated>
-    <summary>Qiita ／ 背景：エージェント実行環境の短命化 最近、AIコーディングエージェントやブラウザ操作エージェントをクラウド上の軽量VMで動かす構成が一般的になってきました。実測ベースでも、コンテナやサンドボックスVMが約2時間前後で入れ替わるケースが多く報告されています。 実務でハマり...</summary>
-  </entry>
-  <entry>
     <title>日立製作所、OpenAI主導のセキュリティプログラムに参画</title>
     <link href="https://japan.zdnet.com/article/35255238/"/>
     <id>https://aimatome.gamelab.website/#e0e84893d290</id>
     <updated>2026-11-20T09:39:00.000Z</updated>
     <summary>ZDNET Japan ／ 日立製作所はOpenAIが主導する「Daybreak Defense Network」に参画する。</summary>
+  </entry>
+  <entry>
+    <title>Signal、AIエージェント遮断へスクリーンショット制限…Apple・Google・Microsoftに規制を要請</title>
+    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE1BNVJqbzNrOXdrUUZXSjRoSGRDVnlLdU91bkhmWjNUbGFXVWZkajVaVEw2bjVxTHF6TDZRblY2UG1HNFhjOE90NS1EMk5tZ1N2bmFFVUM1V1FWREVKTThSSmczRVBOTElsM3kyZTZ0cjQ3cjdY?oc=5"/>
+    <id>https://aimatome.gamelab.website/#1baf9882c436</id>
+    <updated>2026-11-20T09:35:00.000Z</updated>
+    <summary>BigGo ファイナンス</summary>
+  </entry>
+  <entry>
+    <title>AIチャットボットをブラックフライデーの買い物助手に：リンクの11本に1本が危険サイトに関連、調査で判明</title>
+    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5xanJoMUF0d2hXdUdNNjd1VGhYTXd1R3gxRy1lQnFOYWs4ZlZwTlFyeEFTZW9BckotcFc1dEZlYTNfcS1zSWtIRU5kdkVUWFJac1NqOFFXNk4xU00teU16R2RSLTVSVGxOU1ZzX1E5VXo0Rlc2?oc=5"/>
+    <id>https://aimatome.gamelab.website/#4c5417cf96af</id>
+    <updated>2026-11-20T09:35:00.000Z</updated>
+    <summary>BigGo ファイナンス</summary>
   </entry>
   <entry>
     <title>ASRock、32GB GDDR6搭載のワークステーション向けグラボ発売 価格は28万9800円</title>
@@ -78,13 +141,6 @@
     <summary>ZDNET Japan ／ マイクロソフトとセールスフォースは、セールスフォースのデータやフローをマイクロソフトのAIなどで使用可能にする「Copilotforce」を発表した。</summary>
   </entry>
   <entry>
-    <title>チャットAIではなく「個人エージェント」としてMuseを11日間使い倒してみた</title>
-    <link href="https://qiita.com/kazutoyamaura/items/1ef7b237bc02083dc3af"/>
-    <id>https://aimatome.gamelab.website/#7108ea5328ff</id>
-    <updated>2026-11-20T09:25:32.000Z</updated>
-    <summary>Qiita ／ はじめに ChatGPTやClaudeなど、生成AIを日常的に使う機会が増えました。僕も普段から、技術的な質問やコードレビュー、設計の相談にAIを使っています。 ただ、今回紹介する Muse は、それらとは少し違う使い方をしています。 一般的なチャット型AIは、こちらが...</summary>
-  </entry>
-  <entry>
     <title>高いスマホに買い替えなくても大丈夫！容量の少ないAndroidスマホでGoogleのAI「Gemini」が使えるように</title>
     <link href="https://news.google.com/rss/articles/CBMiTkFVX3lxTE11VzRaRHJzTzh4X0FCc3pzb09yMjZmTEVVLUpnNUdVczcxYmkwRXRIbWVlbm1kS3AxZmJWYmxtZWYydGtYUzhCbXJQRTlqQQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#e5b21dce46c5</id>
@@ -97,6 +153,13 @@
     <id>https://aimatome.gamelab.website/#6115cb5f7130</id>
     <updated>2026-11-20T09:16:00.000Z</updated>
     <summary>ZDNET Japan ／ プログレス・ソフトウェアは、データソリューションのドーモを買収し、AIおよびデータのビジネスを強化する。</summary>
+  </entry>
+  <entry>
+    <title>【動画】東京株、３００７円安 ＡＩ・半導体中心に急落</title>
+    <link href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0REUtc0RGbXdwd25sS1ZtVGdCNUtEVEV1VUpDaU5sS0NKbEplTVpDZFVPZDY3a2RKdzhEUU0tQ21DbVlaTXpvbGpWUjV5dnc?oc=5"/>
+    <id>https://aimatome.gamelab.website/#026b6eb5e41f</id>
+    <updated>2026-11-20T09:15:20.000Z</updated>
+    <summary>時事通信ニュース</summary>
   </entry>
   <entry>
     <title>東北大学に学ぶDXの次の一手…AIで「業務特化型AX」を実装する挑戦</title>
@@ -134,6 +197,13 @@
     <summary>時事ドットコム</summary>
   </entry>
   <entry>
+    <title>「Visual Studio 2026」に長期サービスチャネル「LTSC 18.11」、2028年11月まで修正を提供／当初予定の1年から2年に延長。v18.12では「Copilot Chat」が新エンジンに</title>
+    <link href="https://news.google.com/rss/articles/CBMifEFVX3lxTE8zRTFkTTEzbUFJMkNTRnAzbl9fX3FhUFBicFN0WUhrWVFBM21LdFMtc0h4djFjX3hXc2hfTUh4ay1lZ1RoS3RuU3JqWUxScmJjTFE5OTRLdzY0dVV0NkxvdWFIRUNKYjdnQXFMZTczOHJXR1dZdS03RXBZSFo?oc=5"/>
+    <id>https://aimatome.gamelab.website/#488cad971e92</id>
+    <updated>2026-11-20T09:02:45.000Z</updated>
+    <summary>Excite エキサイト</summary>
+  </entry>
+  <entry>
     <title>背面ディスプレイで自撮りもゲームもできるスマホ 試して分かった、生成AIでミニアプリまで作れる『Xiaomi 18 Pro』の楽しさ</title>
     <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1rMUp5MUl2dFQ1OXU0V05TYzlteEVFOElSNFprdGlLTGhFN0hrLWJwZmhPYnlrTlgtNkwtcHVucGpBQndXcFZiX1JBQXR6SG1OQk5XUHltTDFxOFdORWtCblJGVE02WUMxU0wwS3NUSkc2Q0lnOWY3b09kdGZwM1E?oc=5"/>
     <id>https://aimatome.gamelab.website/#ed242cd82dff</id>
@@ -160,13 +230,6 @@
     <id>https://aimatome.gamelab.website/#370aef764205</id>
     <updated>2026-11-20T08:57:30.000Z</updated>
     <summary>ニコニコニュース</summary>
-  </entry>
-  <entry>
-    <title>新しい Grok Bot は優秀な新人だ。ただし、あなたの失敗は何も知らない</title>
-    <link href="https://zenn.dev/worked/articles/0f832f7af77d3c"/>
-    <id>https://aimatome.gamelab.website/#01b52a42f946</id>
-    <updated>2026-11-20T08:51:48.000Z</updated>
-    <summary>Zenn ／ Grok Bot を入れると、チャットが開いてカーソルが点滅する。「hi」と送ると、とても有能なアシスタントが、計画を待ってくれている。 つまずくのは、だいたいここだ。ツールが難しいからではない。新しい Bot は新しい同僚と同じで、ルールも、すでに払った失敗も知らない。初日に直すための短いチェックリストを、公式ドキ…</summary>
   </entry>
   <entry>
     <title>韓国大学入試で電子機器不正111件摘発 AI受験疑惑巡り死者も発生</title>
@@ -202,6 +265,13 @@
     <id>https://aimatome.gamelab.website/#a5e91df0a034</id>
     <updated>2026-11-20T08:33:42.000Z</updated>
     <summary>はてなブックマーク ／ はてなには多くのエンジニアが在籍していますが、普段から開発が好きな人が多く、業務以外でも各自が欲しいものなどを自作していることがあります。特に近年では生成AIによって自作のハードルはかなり下がったと思われます。そんな自作ツールたちですが、今回はRSSリーダーに絞って紹介していきます。 自作RSSリーダー紹...</summary>
+  </entry>
+  <entry>
+    <title>【ウェビナー】12/16（水） 生成AIを導入したのに ”成果が出ていない” 多くの企業が抱える課題と「活用定着へのヒント」</title>
+    <link href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE15dmJOV1laWURaTVNxN2hvQmU4RlpSSmdidy1Kc1paTnAwNlRYZUFySzUxd1JlMGFXNGFIbl8xVkpneFVuU1dVZ0Nkcjhza29UbmNYLVYzZVFESzAtMnRMWm43Ymp4S0xx?oc=5"/>
+    <id>https://aimatome.gamelab.website/#ca8a05cecb53</id>
+    <updated>2026-11-20T08:30:23.000Z</updated>
+    <summary>ニコニコニュース</summary>
   </entry>
   <entry>
     <title>プリペアード 評判が高いAI通話録音・自動要約サービス「RecACE plus」、カスハラ対応にも活用できるモデルケース企業を兵庫県で初募集</title>
@@ -246,6 +316,13 @@
     <summary>Media Innovation</summary>
   </entry>
   <entry>
+    <title>米、中国の先端ＡＩ半導体アクセス制限強化 トランプ氏訪中前に（ロイター）</title>
+    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE91cnM4ZThnVkRreWt6SEpWR1BpSjkzRzhweGoyZHB6aWhJWmFCM2hwbXVjUTAyVXN4R3dPN3ljVjRmYkhvX3lrWm1zZ2hjemx0ZGFzckpyQXlTcnJ1ZEhWZldVcUEwejZ4ekNPTkgycGM3UmNPdnE1Z2VtbFUzcmM?oc=5"/>
+    <id>https://aimatome.gamelab.website/#51bbc2488316</id>
+    <updated>2026-11-20T08:22:46.000Z</updated>
+    <summary>Yahoo!ニュース</summary>
+  </entry>
+  <entry>
     <title>LegalBrain エージェント、Microsoft Copilot上で提供開始</title>
     <link href="https://news.google.com/rss/articles/CBMiR0FVX3lxTE0ySmRVWTd6TDdQYVRnbG1YOGZqcWthMWFvQ0VvTkFCOEFaSlRsSXhEaHZDcks1WGhqTU9vOHIzcGJxczUzWFR3?oc=5"/>
     <id>https://aimatome.gamelab.website/#0c48a513318e</id>
@@ -267,94 +344,17 @@
     <summary>時事ドットコム</summary>
   </entry>
   <entry>
+    <title>AIが脆弱性を探し、ランサムウェア構築を支援 5つのAI悪用手口と対策リスト：もう一度読みたい「対策見直し」ニュース</title>
+    <link href="https://news.google.com/rss/articles/CBMickFVX3lxTE4tQmRicG1lSld2endxaEdjODI2cDhuUXFUTWVLZzR5dmdTS211RzdERGY1bE4wMmtGNU1SVXU0MldGY0RtLWRqWkJZRGFJcnY0MTU4MVdZZVptMlk0TFZiNS1CdWp4TW1acGw3U0ZFSjlzdw?oc=5"/>
+    <id>https://aimatome.gamelab.website/#b33fd53ba16e</id>
+    <updated>2026-11-20T08:15:00.000Z</updated>
+    <summary>ITmedia</summary>
+  </entry>
+  <entry>
     <title>Antigravityを他社AIから操作すると「垢BAN」？ 注意点をGoogle Cloud日本法人に聞いた</title>
     <link href="https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/"/>
     <id>https://aimatome.gamelab.website/#759471730669</id>
     <updated>2026-11-20T08:04:35.000Z</updated>
     <summary>ITmedia AI+ ／ 「Google Antigravity」を他社のAIツールを介して利用すると規約違反でアカウント停止の可能性があるとXなどで話題になっている。Google Cloud日本法人への取材や公開されている規約などを基に状況と対応を整理する。</summary>
-  </entry>
-  <entry>
-    <title>「Codexを用いてChatGPTの高速性を維持する方法」をOpenAIが解説、AIエージェントで工場システムを構築して自律的に改善作業を進める</title>
-    <link href="https://news.google.com/rss/articles/CBMiekFVX3lxTE5NTHhfUXJTaXNPd0VZMWhVcXpaYnc2SldTYTFQVWR5WEtUWmhEdDlOOEtCb3ljVEVnTVpTbDZBQ0lWdjV1c3FFdVNmVV9BSU5kclpndzJKTTdtWGpFRldKQXU1VERYODZDY21YZGt3RUEwMG5Ld1k4WHZn?oc=5"/>
-    <id>https://aimatome.gamelab.website/#ea882d63b6b2</id>
-    <updated>2026-11-20T08:03:45.000Z</updated>
-    <summary>GIGAZINE</summary>
-  </entry>
-  <entry>
-    <title>メルカリ、1522人分の顧客情報流出の恐れ Notion AIの委託先に不正アクセスで</title>
-    <link href="https://japan.cnet.com/article/35255231/"/>
-    <id>https://aimatome.gamelab.website/#3b9f628a21f7</id>
-    <updated>2026-11-20T08:01:00.000Z</updated>
-    <summary>CNET Japan ／ メルカリは11月20日、社内業務で使う「Notion AI」の委託先への不正アクセスにより、顧客1522人分の個人情報が外部に流出した可能性があると発表した。従業員がAIに入力した内容と回答の記録の一部に含まれていたもので、取引先担当者や採用応募者らの情報も対象となる。</summary>
-  </entry>
-  <entry>
-    <title>企業のAI導入、成否分ける組織づくり－CEOから人事まで巻き込む意思決定の在り方とは</title>
-    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5uOTduLTYxRUhGR0FJQTQwUlJiS0xKdDdReVpPemVKeGhnSkhVUGxfcVVTUUZIQlVuaHpLVkMwOXpxcDFLckdYczY3cW5uODVnVjEyTFFJOF95VDk0b3NrTWpCVnZKY0Rkd3R4a3ByUWVHTURO?oc=5"/>
-    <id>https://aimatome.gamelab.website/#18fecaa71e75</id>
-    <updated>2026-11-20T08:01:00.000Z</updated>
-    <summary>TBS NEWS DIG</summary>
-  </entry>
-  <entry>
-    <title>日経平均 7 カ月ぶり安値、 AI一極集中の大幅修正と明暗</title>
-    <link href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE80MFpuQTQ4ZFhhN1ZLSU14d1I1dnhiVUFYQ0owcFVRVEtYZjN1NEMyUFF4dnRqSFMwSHdURkpTX2RYMTBVV3NzdEpLUW1WQ18td2tuRUlVemIyUQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#425c259ebd04</id>
-    <updated>2026-11-20T08:00:00.000Z</updated>
-    <summary>トウシル</summary>
-  </entry>
-  <entry>
-    <title>東京株、３００７円安 ＡＩ・半導体中心に急落：時事ドットコム</title>
-    <link href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyaHQ5cUE4dXFkS2xFOW81b1p1SnBkRVFtZEF2aDdQX05lSXJENDVTbnZBZWZxSXhORDcwQ2t1cjVyazNyX21xZ2lqMzJldC03SmRMZ1VScDdfczQ1ZmRIM09CMA?oc=5"/>
-    <id>https://aimatome.gamelab.website/#6dc0e94df9be</id>
-    <updated>2026-11-20T07:57:00.000Z</updated>
-    <summary>時事ドットコム</summary>
-  </entry>
-  <entry>
-    <title>近畿大学発ベンチャーの美肌AIコネクト、医師・看護師のための教育プラットフォーム「美肌AIアカデミー」を開講</title>
-    <link href="https://ascii.jp/elem/000/004/453/4453738/?rss"/>
-    <id>https://aimatome.gamelab.website/#71a703fd0e67</id>
-    <updated>2026-11-20T07:55:21.000Z</updated>
-    <summary>ASCII.jp</summary>
-  </entry>
-  <entry>
-    <title>OpenAI、月額20ドルのChatGPT PlusでDotsエージェントを試験導入 Business Standardは全ユーザーに開放</title>
-    <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5TdWRnblJVa25MMzJmdUNFMTc1TTFzVFExbTRBTlpKaW5pR2RJZURHV0RNZXBDUXBFTE5tQnJ2ZDY1NmFrRzlxVVBUY3c4NmNMeUpvUjFubl83SlJOWHRrekRNZTFfLXBPMUFOTkhUeGdhN3Mw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#9ff0b8651fb4</id>
-    <updated>2026-11-20T07:55:00.000Z</updated>
-    <summary>BigGo ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>「Muse」専用メアド、無料で作成可能に AIが送受信を代理</title>
-    <link href="https://www.itmedia.co.jp/aiplus/article/2611/20/2000003372/"/>
-    <id>https://aimatome.gamelab.website/#b6e5388f1111</id>
-    <updated>2026-11-20T07:52:48.000Z</updated>
-    <summary>ITmedia AI+ ／ 米Metaは、AIエージェント「Muse」専用のメールアドレスについて、無料ユーザーを含む全ユーザーが取得できるようになったと発表した。</summary>
-  </entry>
-  <entry>
-    <title>【ChatGPTのトーク履歴を消しただけでは全部消えない！？】AIが覚えていることや保存ファイルまでスッキリ整理する方法</title>
-    <link href="https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBbTBrN0U0RjdjeHQ4cU43bV81WGlQQ0ppOXF0R0toYzF2dUFwVmRnaEJ3bG5hUFNJeE1OS05PM2V0bnpFUkdNendSMm5rdw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#0c2e8158b1d7</id>
-    <updated>2026-11-20T07:51:54.000Z</updated>
-    <summary>DXマガジン</summary>
-  </entry>
-  <entry>
-    <title>Salesforceと Microsoft、「Copilotforce」を発表 Salesforceの顧客コンテキストと営業ワークフローをMicrosoft Copilotに提供</title>
-    <link href="https://news.google.com/rss/articles/CBMia0FVX3lxTE9XQjkxeDZxS1c4TDJzV3VtOWdGMWdaRUxBc29qQnZjX2NwUEhoRUFIa2dVWVd6aF9kRDR5dzRMdTZJU0lvVnEyX1h4QnRBTDNpaHBnbkFFSFRya21QTVNyUGhreXVEZW5tNlBZ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#852dd317be87</id>
-    <updated>2026-11-20T07:46:00.000Z</updated>
-    <summary>時事ドットコム</summary>
-  </entry>
-  <entry>
-    <title>バスケ界にも影響を及ぼすAI…“反対派”ハリバートンが危惧「GMがChatGPTに尋ねていないはずがない」＜DUNKSHOOT＞</title>
-    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBoUXh3aUh0Y2w3X1l5anBNNXltN1Z0TUhVOFBHVkg3SFBMTTNWaGJ0SnNPYm9BVmE5dWsxMnpMSHA2SmNsU3BhaGxtUEVCMFlIelVZQTFTRFZIbzNHMGNraUNlbmhYcEx2RG5hWklRS0hJNlZ1QUJVcUM5Qkg0WXM?oc=5"/>
-    <id>https://aimatome.gamelab.website/#9d083983b6b0</id>
-    <updated>2026-11-20T07:45:00.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
-  </entry>
-  <entry>
-    <title>「生成AI普及で今後の仕事に不安」8割超 住友生命の全国調査</title>
-    <link href="https://news.google.com/rss/articles/CBMibEFVX3lxTFB0U04tdndlbkplbkpxc3RQUDBSb0IzOGdfclBLeDZWWGZqLVROWmNQSU53dTQ3QTNsYmJtR3pTbmVmTFlOY00wb2FBNHU1Ym82bC1WYkVQNlowR2pCZkJzVGs4TmF5WUJHemNYcA?oc=5"/>
-    <id>https://aimatome.gamelab.website/#6393a3428094</id>
-    <updated>2026-11-20T07:40:00.000Z</updated>
-    <summary>日本経済新聞</summary>
   </entry>
 </feed>
