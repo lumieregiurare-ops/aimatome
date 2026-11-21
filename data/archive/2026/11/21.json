@@ -13,6 +13,20 @@
   "isPR": false
  },
  {
+  "id": "80b32e355545",
+  "title": "無人で回す自動化を Surface Laptop Ultra で組み直す構想",
+  "url": "https://zenn.dev/houchi_unyo/articles/surface-laptop-ultra-hybrid-plan",
+  "source": "Zenn",
+  "summary": "いまの構成 手元にあるのは Apple M1・メモリ16GB の Mac 1台で、launchd を使って投稿、集計、点検などの定時ジョブを48本動かしている。 判断、コード修正、複数段階の作業は Claude Code に任せている。契約は月200ドルの定額(Claude の Max プラン)で、決まった時刻に起動…",
+  "publishedAt": "2026-11-21T14:54:24.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "bf47dbc3adee",
   "title": "AIエージェントに渡すMCPの返り値で気をつけていること（Search ConsoleのMCPを作って）",
   "url": "https://zenn.dev/yohei_kuno/articles/a1047222376276",
@@ -88,6 +102,19 @@
   "image": "",
   "categories": [
    "policy"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9c1530b20c54",
+  "title": "Databricksのエージェントがおかしいとき、4つの「コンテキストの失敗」を見分けて直す",
+  "url": "https://zenn.dev/y0shidahr/articles/2d1fb00790d0ad",
+  "source": "Zenn",
+  "summary": "この記事でわかること Databricks で作ったエージェントの回答がおかしいときに、モデルを替える前に疑う4つの「コンテキストの失敗」 トレースを見て、どれが起きているかを見分ける手順 それぞれの直し方と、Databricks で使える機能（MCP・AI Search・agent sessions / memor…",
+  "publishedAt": "2026-11-21T14:08:28.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -363,6 +390,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3a6781138608",
+  "title": "RTX 4070 12GBでLLMを5モデル×520試行――再現性を監査してわかったこと",
+  "url": "https://zenn.dev/shinyahayakawa/articles/8d3892e901340a",
+  "source": "Zenn",
+  "summary": "ローカルLLMの実験では、「モデルが動いた」と「結果を研究に使える」は同じではありません。 私がWindows 11とRTX 4070（VRAM 12GB）で実施した検証では、5モデルそれぞれ520試行、計2,600試行が完了し、各モデルで同じ条件の20試行を再実行するReplayも20/20一致しました。それでも、…",
+  "publishedAt": "2026-11-21T12:11:19.000Z",
+  "image": "",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
@@ -998,19 +1038,6 @@
   "isPR": false
  },
  {
-  "id": "4d4ad25435de",
-  "title": "AI兵器、法規制合意せず 条約会議、米ロが抵抗",
-  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VMEQ4UkNhbEtvQ1RRSkRYcmxpTTUxMTlYdm14SnBVNnhqUUZaVVlHYUNJUHpDOVJRTnM3UE4xMHhHMEt6aWhvZng2WQ?oc=5",
-  "source": "47NEWS",
-  "summary": "",
-  "publishedAt": "2026-11-21T09:12:00.000Z",
-  "image": "",
-  "categories": [
-   "policy"
-  ],
-  "isPR": false
- },
- {
   "id": "376654aa3e99",
   "title": "経理・人事部門向け｜助成金の対象になる生成AI研修の組み方レポート【2026年11月版】",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9odXVnMVdxZzNROWx1T3VneXRmUlFZeV9OeUc0TTZuZkVLQmZJaGttZXJZWWVidVZuWkxFejdtOHZua1cwYVBmMzBUV20zSUNlQkJUeHJOeHM0VzZFV1NoZllEZnEwc05iWnJtRGlGc1ZEUQ?oc=5",
@@ -1641,6 +1668,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4d4ad25435de",
+  "title": "ＡＩ兵器、法規制合意せず 条約会議、米ロが抵抗",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05ZjdIS0RIcndqUDVmSVMyU1FtVmRWcnU1eWhEbm9qVXd5VXZuZUZoOVdLSTNmTHFiTXFNeGFqUjJOTDlhSmVKbDlZVVhvYjdROXFiMmpfTUlSRS1fTVE?oc=5",
+  "source": "新潟日報",
+  "summary": "",
+  "publishedAt": "2026-11-21T06:31:53.000Z",
+  "image": "",
+  "categories": [
+   "policy"
   ],
   "isPR": false
  },
@@ -4095,6 +4135,19 @@
   "isPR": false
  },
  {
+  "id": "d252c870ddb3",
+  "title": "ナスダック5.28％安、年初来の上昇分が消滅 AI株売りが加速、S&P500も調整局面入り ｜FinTech Journal",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82b3lEOGRuTENDdVFaZU5hZnh0clgxY0RHcE1TSEE4aUdyMW1zNXhRQlM2bW55eGlTVV9IYWtKZHhrY2luUkdfLUZwTFVwQmM?oc=5",
+  "source": "ビジネス+IT",
+  "summary": "",
+  "publishedAt": "2026-11-20T22:46:21.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "afbca8e5f6a9",
   "title": "エヌビディアの「80兆円資金調達」に暗雲、AI半導体株の一段安を米アナリストが警告 - Investing.com",
   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HSGpFeDFDUW5tdUdtTVViM0dNYUtBX0pOWDJiVTdsTUllMllnaWw1MEhjNldGWFd0Szg0TGpUdGVDd3F6UWtHR0xDMjNjbFZWX0RCVm9FTlpiM2JEdDlmQ3p0NFBiV0tWSWVIZWY5X1U?oc=5",
@@ -4934,6 +4987,19 @@
   "source": "Qiita",
   "summary": "はじめに ―― 予告どおり、AI を外しました 前の記事の終わりに、私はこう書きました。次は、AI がなくても使えるコンボを作ります、と。 あの記事で書いたとおり、11 月 16 日に Google が、Apps Script のエディタに入った Gemini を正...",
   "publishedAt": "2026-11-20T19:13:49.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "064418f041bf",
+  "title": "ダークサイドAI",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ic2hZTXVpR2g1Vm9HNHczbE5qbUJkV3FSOHU2cDlma0NFYVhPVHJYYXhneUQwaGVhazBFbWJGclpBbHZpaWZVanFzWnA1b3k4RzlWeEhaTjl3WVBDc3dF?oc=5",
+  "source": "日経クロステック",
+  "summary": "",
+  "publishedAt": "2026-11-20T19:12:56.000Z",
   "image": "",
   "categories": [
    "other"
