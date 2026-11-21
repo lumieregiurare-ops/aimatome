@@ -1,5 +1,71 @@
 [
  {
+  "id": "c4283ebc9eb7",
+  "title": "PostgreSQLの排他制御でデッドロックが頻発するコードの根本原因と解消パターン",
+  "url": "https://qiita.com/TOAI/items/2e433ec4b3d261bc3b84",
+  "source": "Qiita",
+  "summary": "高負荷なFinTech系システムやECの在庫引当処理の裏側で、突如として発生するPostgreSQLのデッドロック（SQLSTATE: 40P01）。 「夜間バッチや秒間数百件の送金リ...",
+  "publishedAt": "2026-11-21T09:56:48.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1f02d16c7d14",
+  "title": "280B総パラメータで推論時は14B活性化——MoE型モデル（ERNIE 5.5 Flash等）と1Mコンテキスト時代の推論コスト設計",
+  "url": "https://qiita.com/yoxi957/items/b35f3a88a351481432b7",
+  "source": "Qiita",
+  "summary": "要点まとめ Sparse MoE（Mixture of Experts）の極端な活性化率: 総パラメータ数 280B に対してトークンあたりの活性化パラメータを 14B（約5%）に抑える設計が増えており、大型モデルの知識量と小型モデル並みのレイテンシを両立しようとして...",
+  "publishedAt": "2026-11-21T09:48:52.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c06243ec89c5",
+  "title": "来歴情報「C2PA」付き画像は5.8%、生成AI記録ありでも「可能性高い」判定は約4割―Uravation調査",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tTGtOQjdxVzgwTHJuRVZreEJqdHllVkFpdTRuMFdqUFdpc3hxZUFfVUZxeEg0V0VFX2tCTzlZb1dfdlRRcEhfMVgyZ05SbWUzU1E5eGtLYXhWR2EtbjhxM205eEFIQWtR?oc=5",
+  "source": "GameBusiness.jp",
+  "summary": "",
+  "publishedAt": "2026-11-21T09:45:03.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c3eeb9f87efd",
+  "title": "ARTEX、Check Pointが自律型AIエージェントによる攻撃の実態を明らかに",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYmhaaENFSWg4U3VUb2tGcUY2YXBsTlc3bl9KZmk0Z2Nxb3ZDRHlrMGhzMzcyUXpoaXRIdktHLVZIUm5HaUlSbjM0dVRRNm1lSFJlYzVZVHZmdVhNRG9zYlFYQl9Td2d3QjZkS2FFdHRfaDhnSjBoM1ZYeXhUV09LOGpuZWhGbEFkZnA3WnR0Tml0TEZDTFNZ?oc=5",
+  "source": "Pasquale Pillitteri",
+  "summary": "",
+  "publishedAt": "2026-11-21T09:42:38.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "25357822b27f",
+  "title": "録音も要約もPC内で完結する無料の議事録アプリ「Yogurt」まとめ（日本語設定・MCP・注意点）",
+  "url": "https://qiita.com/Lapius7/items/760e5ad67b695f629c10",
+  "source": "Qiita",
+  "summary": "AI議事録ツールの多くは、音声をクラウドに送るか、会議にボットを参加させる作りになっています。社外秘の打ち合わせや、相手に気を使う場面では、これが導入の壁になります。 2026年11月に公開された「Yogurt」は、録音から文字起こし、要約までをすべて手元のPCで行う無料の...",
+  "publishedAt": "2026-11-21T09:37:56.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "58915985fea3",
   "title": "「AI使うかどうかで仕事の差広がる」 釧路で企業向けセミナー 北洋銀行主催",
   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMZ1kxQWlUUlhDUnplQnBxZWpRVW5vRFBGcnBjdFpxdVQwckNJYjZ6OTl0QkVMeG12Ui02UHFLZWU5LUREN3l0bGhfUjlIZmMtSlRjTUFCLWxEUQ?oc=5",
@@ -49,6 +115,19 @@
   "categories": [
    "product",
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7ee253aa3e7f",
+  "title": "Gemini、「履歴オフ設定」でも会話を約2カ月保存 Googleが発表",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEckZGYUFsU25fYUZpX09VdEV1ZmZvRGM5NUxtbzV5ckp3aHQycDAxaUEwdlJSVUtsSGtlOVB2VjM3YnF5cEQ4cDlraHY5anBrVkVuY0loX282enJzMlIw?oc=5",
+  "source": "千葉テレビ放送株式会社",
+  "summary": "",
+  "publishedAt": "2026-11-21T08:57:23.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -305,6 +384,19 @@
   "isPR": false
  },
  {
+  "id": "c2c5c8dd0d0d",
+  "title": "生成AIで自社の業務を1つ自動化して帰る「もくもく会」を11月25日(水)に新宿で開催【生成AI実践会】",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4teDJaOWxMbi04WWVSSVlBeUxRcGpnd3Rta2ZQRDZ5MXNZY0lTSFVaVlBjVG9IX3BCb2JfczJWVnJkTm5valN5TE05TXR4dFJoRWJQQkRkYXlUV29qZkJZ?oc=5",
+  "source": "シブヤ経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-21T07:28:46.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "882521c00e5e",
   "title": "AIサブエージェントに役割分担させる設計メモ：専門エージェント定義の作り方",
   "url": "https://qiita.com/tenpurekoubou/items/1934681833e2dd0ee58d",
@@ -472,19 +564,6 @@
   "image": "",
   "categories": [
    "product"
-  ],
-  "isPR": false
- },
- {
-  "id": "c2c5c8dd0d0d",
-  "title": "生成AIで自社の業務を1つ自動化して帰る「もくもく会」を11月25日(水)に新宿で開催［生成AI実践会］（PR TIMES）",
-  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IbkoxRS1idnJqcmV1SERmbEcxeXpPM0tmTm9zbElQbmxIbkdMMkFlUlFYelFsQkY3UWNKVU83eUtLbTNyekpyZXNhWk5mbTZ5RXc3cTNiN1FIcUVMS20xZUVBb0NPd3dK?oc=5",
-  "source": "毎日新聞",
-  "summary": "",
-  "publishedAt": "2026-11-21T06:22:45.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
@@ -674,19 +753,6 @@
   "isPR": false
  },
  {
-  "id": "62498c623fa5",
-  "title": "新興市場見通し：AI・半導体関連株の下げ止まり待ち、個人消費関連銘柄に関心が移行か",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcERBWExOR3phT1EyQVhLTDRtVWJDSkNldUFLbUZmR3pOLUlvZmVmWUtDalZFNEhkeXZZa05HUmZYelE2bERGNThMcHhQeUUyRmU0d0Fhbl9TSWJCQnR6SFVnQ2FCVWF0VVloOVhUbGNaWkY0TE44bUFtSzJfYi1lUmtqZUYwVWPSAYwBQVVfeXFMTmJkdlNzNzU1MHkxRGFUVXdNclRzTEVSOHhNZUxNeElZa0F2R2x4N2RFX3M5TWo0T0NtdVpqVzRqZWxld0Eya3JXU2MwWjJnSjkwNDJtclBiMHJEcXMyRzUtSWN2dy1KcDd5bzhYb2pWVzkzVUJCT1hIN2dIUmdhaDVwTUVGQi1NWVg3MGU?oc=5",
-  "source": "ｄメニューニュース",
-  "summary": "",
-  "publishedAt": "2026-11-21T05:45:00.000Z",
-  "image": "",
-  "categories": [
-   "infra"
-  ],
-  "isPR": false
- },
- {
   "id": "c13f466403d7",
   "title": "フィジカルAI向けコンポーネントの開発事業「NPC（NakaTaku PhysicalAI Components）」を開始",
   "url": "https://ascii.jp/elem/000/004/453/4453843/?rss",
@@ -767,6 +833,19 @@
   "isPR": false
  },
  {
+  "id": "62498c623fa5",
+  "title": "新興市場見通し：AI・半導体関連株の下げ止まり待ち、個人消費関連銘柄に関心が移行か(フィスコ)",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnZuRkRpU202ODg1Z3drOU9pOVVEUGJVSTV0b29OUjV2dnA5Y1RINDcwck5BOGRuSkd6dTNJMVF6b3dVelNqTjFPSGJ1UVgxMVJrYVE2QlJmQmZJWUNXUVFlTVptNFVHaTFNX09WQmxGRjAxYk5rOTYwWmRhMVhyY3BYdUc1WGM?oc=5",
+  "source": "Yahoo!ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-21T05:30:20.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "4a1bb73c0dea",
   "title": "【第12回】ゼロから目指す! CCDV-F合格への道：プロンプト設計",
   "url": "https://qiita.com/Ray_T/items/4865a0e777119782f1a6",
@@ -799,6 +878,19 @@
   "source": "ITmedia AI+",
   "summary": "企業が業務で利用するAIサービスの顔ぶれが変わりつつある。従来のように個別のAIサービスを選ぶだけでなく、既存の業務環境に組み込まれたAIを利用する動きも広がっているようだ。",
   "publishedAt": "2026-11-21T05:22:15.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3939e7667b3f",
+  "title": "Signalは、AIエージェントがプライベートな会話にアクセスするのを防ぐため、スクリーンショットを制限",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXdqZUZwY1RQTmRTRFU4S0F1YkpMWjU4SG12bUkwYVoxaFN3ancyQUM4Y3V1cE12S1BuODEwUHl4dVhWUnFOY2wyZ2UtZGJFVVRjNy1LUF95RnVDRlNjTjBEb2FaTFA1LVBzaFVTNnRmY21hYTlGS1RWS253bFF5MGlrNUZ0cFlhQ2hQbEdUeVZYNmZYSG5UUjNPd1dZUQ?oc=5",
+  "source": "Informat.ro",
+  "summary": "",
+  "publishedAt": "2026-11-21T05:22:14.000Z",
   "image": "",
   "categories": [
    "other"
@@ -1109,19 +1201,6 @@
   "categories": [
    "product",
    "dev"
-  ],
-  "isPR": false
- },
- {
-  "id": "c06243ec89c5",
-  "title": "来歴情報「C2PA」付き画像は5.8%、生成AI記録ありでも「可能性高い」判定は約4割 Uravation調査",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CUW5KekMteDFNRndZd1AzZ0k5MDJ1RktOWm9jazRMZ3FxUElFdUVjeFhSWU1FQjQ0akotdFpKSHdINVkzWVpLZVFVZ3k2bUJ0SWZqbFFXRHFQc1FGSm92SkJ4S29IYXJUMnc?oc=5",
-  "source": "Media Innovation",
-  "summary": "",
-  "publishedAt": "2026-11-21T03:50:02.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
@@ -1564,7 +1643,7 @@
   "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
   "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
   "source": "Zenn",
-  "summary": "「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、…",
+  "summary": "「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だいじょぶでしょ…",
   "publishedAt": "2026-11-21T02:12:39.000Z",
   "image": "",
   "categories": [
@@ -1935,6 +2014,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ca342050b08a",
+  "title": "アンソロピック研究者、数学難問「リーマン予想」をAIで解決と発表",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EaVJUdXRuWHY0M3UwUXljX0FxZjM1OGM3TFRMSFVTS0NDU3JQMmhhd2M4TDNhWmgydlVjcU14U2Y1Tlk0NnJOd2NqanZsSjZBYXRWOVh6Zk1pckhEbWlDd09BS0JjRXAwV2hPQQ?oc=5",
+  "source": "日本経済新聞",
+  "summary": "",
+  "publishedAt": "2026-11-21T00:44:41.000Z",
+  "image": "",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
@@ -2937,6 +3029,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e05fac026e51",
+  "title": "AppleがAIエージェントを開発中 求人で判明｜Webを閲覧しコードも書く Siriは2027年にも【海外ニュース】",
+  "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE84N1BYRVRyQ0hkMXYzZjJ5OGtnM1oyYnE4ZU1faHJwVUdmY2o0Y2hCSEo5bXdVM3Z3dHlRM1pTLXR2Y0k1c2V1N1BLVzlXQQ?oc=5",
+  "source": "スマートウォッチライフ",
+  "summary": "",
+  "publishedAt": "2026-11-20T22:21:17.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
