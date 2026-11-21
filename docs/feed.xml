@@ -5,8 +5,22 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-21T08:00:22.635Z</updated>
+  <updated>2026-11-21T08:30:21.863Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>【海外テック動向】数論の金字塔「GRH」証明の衝撃から軽量思考モデルInkling 2 Miniまで</title>
+    <link href="https://qiita.com/tanakanekosuke/items/059d093fa0cb5ff9d2f1"/>
+    <id>https://aimatome.gamelab.website/#3d407c8b1629</id>
+    <updated>2026-11-21T08:19:59.000Z</updated>
+    <summary>Qiita ／ 海外のエンジニア・研究者コミュニティ（Hacker News等）で今まさに激しい議論が交わされている最新トレンドから、特にインフラ・暗号・AIエンジニアが押さえておくべきトピックをピックアップしました。今回は計算理論・暗号学の根幹を揺るがす数学的ブレイクスルーの報と、エッジ...</summary>
+  </entry>
+  <entry>
+    <title>自分専用のAIナレッジベースを構築できる「AnythingLLM」が、個人開発や社内wikiの救世主になる理由</title>
+    <link href="https://zenn.dev/flosslabs/articles/anythingllm-intro"/>
+    <id>https://aimatome.gamelab.website/#ac093fc4219f</id>
+    <updated>2026-11-21T07:52:30.000Z</updated>
+    <summary>Zenn ／ 「あの仕様書、どこに書いてあったっけ？」 「社内wikiは膨大すぎて、検索しても正解に辿り着けない」 「AIに社内ルールや個人メモを前提に答えてほしいが、毎回プロンプトに貼り付けるのは限界がある」 エンジニアやナレッジワーカーが情報を集めることはできても、それを効率的に取り出すことは常に課題です。 そんな悩みを手軽に…</summary>
+  </entry>
   <entry>
     <title>AIへの指摘をチームで共有したくて、Codex・Claude Code向けプラグインを作ってみた</title>
     <link href="https://qiita.com/rentin0/items/3a6f5a0e35b2cb262c63"/>
@@ -15,9 +29,9 @@
     <summary>Qiita ／ Repo Lessonsを公開しました。使ってみて改善したいところがあれば、ぜひフォークして、チームに合うよう自由に直してください。 AIへの指摘をGitで共有して、次の依頼で使う AIへの指摘から得た教訓を 1件1ファイル でGitに置き、CodexやClaude...</summary>
   </entry>
   <entry>
-    <title>AI勉強会【202611 AI Night】登壇レポート その１</title>
+    <title>【2026年11月 AI Night】登壇レポート その１</title>
     <link href="https://qiita.com/path-taku/items/b7e540f630cbf7ca07a6"/>
-    <id>https://aimatome.gamelab.website/#e8fc03ec5312</id>
+    <id>https://aimatome.gamelab.website/#7e21e20bfe3f</id>
     <updated>2026-11-21T07:49:38.000Z</updated>
     <summary>Qiita ／ はじめに この記事では、私が登壇＆ファシリテートしたAI事例共有会の発表内容について紹介します。 今回はGAS＋スプレッドシートを使った社内の会議調整ツールについてご紹介します。 記事は複数回に渡って投稿するつもりですので、今回はGUIベースでの作り方に焦点を当てていき...</summary>
   </entry>
@@ -27,13 +41,6 @@
     <id>https://aimatome.gamelab.website/#1d633a82f439</id>
     <updated>2026-11-21T07:46:22.000Z</updated>
     <summary>Qiita ／ 最近、Qwen3.8-Flash-Nextの複数の量子化タイプや派生モデルで出力がどう違うのかを調べていた。 エージェント向けのベンチマーク情報は色々公開されているけど、私の用途で何が最適なのかを知りたくて色々テストを考えていたのだけど、その途中で モデルサイズが大きいUD...</summary>
-  </entry>
-  <entry>
-    <title>区間選択の制約と、マッシュアップをミックスダウンではなく新演奏として扱う技術メモ</title>
-    <link href="https://qiita.com/DerekFowler/items/e1ebf5e437388756757e"/>
-    <id>https://aimatome.gamelab.website/#02aa0907e1de</id>
-    <updated>2026-11-21T07:40:51.000Z</updated>
-    <summary>Qiita ／ 曲が一回できたあとに残る作業は、大きく二つに分かれやすい。ひとつは、すでに使えるトラックの一部分だけを差し替え、残りは触らない、という局所的な更新である。もうひとつは、完成した二曲を材料にして三曲目を新たに書く、という生成である。どちらも生成を伴うため、「この曲をどうにかす...</summary>
   </entry>
   <entry>
     <title>AIコーディングの「毎回説明し直し」をなくす：開発プロンプトと安全ルールの雛形という考え方</title>
@@ -260,13 +267,6 @@
     <summary>Zenn ／ 2026年11月20日（金）のAIニュース完全解説版。図解を見れば本文を読まなくても分かる形にしています。 おはようございます、菅原です。僕は毎朝、AIのニュースを自分の仕組みで集めて読んでるんですけど、今日はとにかくGoogleの動きが速いんですよ。新モデル「Gemini 4 Neon」が、トップ級の力を半分以下の…</summary>
   </entry>
   <entry>
-    <title>AIを活用した給与計算システムの導入は、ワークデイ（WDAY）にとってゲームチェンジャーとなる可能性がある</title>
-    <link href="https://news.google.com/rss/articles/CBMijgFBVV95cUxOb3RSSTBEcnZ4MTZYR292WEc3TnhiaXJaSlBuRDZMRW8tc19TbHdKb28tcDhpMG1MMkZIX2lJcUR4cnYxQnM5OThzMUJaUExpbkVqa09PRE8xbkZqczlvbTV5U1B0TFdPay03Z0ZuSjg5Rm1DTnlIdVdOQXBmVlVIb2dDbTBoNmhtVVBZSFBB0gGTAUFVX3lxTFB3RlFSVEc0dk5za3Y5a2gyUlg4QkZ0LXpNN2EzV0FTS3lyTk1zN0JnOWRfN2w1eGFjSkRqMm1iNWstRDd1elZ0VU55aFg2QWtSbUtzdDhibW16V2hmaXpQSFdKdHNheDFQSzRjYzF5ZGRjWTNMbHRTNE9zZFpIRlBQQWZZTkZSWlIwdG13WUMwUnhFdw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#48078148d05c</id>
-    <updated>2026-11-21T05:11:54.000Z</updated>
-    <summary>Simply Wall St</summary>
-  </entry>
-  <entry>
     <title>Google、新AI「Gemini 4 Neon」公開 性能評価で総合3位、タスクコストはCarbon比32％削減</title>
     <link href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMVnVEWGpITExqQ3pWOFhmWVlPc29SSXdsQm45ZEQxY3ppd0RCS2hsWU1JZl9fZ09tUWltYkNkSHFNMk14Z1FVc09IUC1DV25JZm5YblFTaF9uQQ?oc=5"/>
     <id>https://aimatome.gamelab.website/#552b5aa61779</id>
@@ -281,13 +281,6 @@
     <summary>BigGo ファイナンス</summary>
   </entry>
   <entry>
-    <title>【速報】AI自律兵器、法規制の策定で合意できず</title>
-    <link href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OU1NnSS1JMk56ZWxIUDVRQWRjMllrcDZSRVE4ellrcEJ1VWI4R1ViaDVodDFYOFg4UG42NXBaemdvTW82U2VjZFNVSQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#95597af4e43f</id>
-    <updated>2026-11-21T05:05:41.000Z</updated>
-    <summary>47NEWS</summary>
-  </entry>
-  <entry>
     <title>ＡＩ自律兵器、法規制の策定で合意できず</title>
     <link href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBabWoySW9mWjdUaDZMQmlZY1BWRUExbDdGbUpBTkNDUW9GbjgzTUpsWjU5WG5xbFVkb3Z1d1VJNWFTVGo3LTBXTFFZM3hya3VscnR5SzBKbnY?oc=5"/>
     <id>https://aimatome.gamelab.website/#7f353fe110b6</id>
@@ -295,11 +288,11 @@
     <summary>京都新聞デジタル</summary>
   </entry>
   <entry>
-    <title>「リーマン予想」生成AIが証明か</title>
-    <link href="https://news.google.com/rss/articles/CBMiUEFVX3lxTFBETS1fT3R1Ql9vUUFoSUVscnNXbmdyZXhyVnpqc3VHdVNmYTNmZE1qZGxITnBzcjBOMmFYUHpnYThZcF9zZFFVWERxdVY4cDJp?oc=5"/>
-    <id>https://aimatome.gamelab.website/#b50536a0023d</id>
-    <updated>2026-11-21T04:57:13.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
+    <title>Claude Code の費用は、書かせた量ではなく読み直しで決まっていた</title>
+    <link href="https://zenn.dev/kumukumu/articles/claude-code-cost-is-rereading"/>
+    <id>https://aimatome.gamelab.website/#d4ea78e0feb6</id>
+    <updated>2026-11-21T05:00:42.000Z</updated>
+    <summary>Zenn ／ AI のコーディングツールの費用を見積もるとき、出力の単価を比べたくなります。何を書かせたかが成果なので、そこにお金がかかっていると考えるのは自然です。 ただ、Claude Code のように会話を積み重ねて作業する使い方では、その見方は大きく外れるかもしれません。自分の Claude Code の利用ログ128日分…</summary>
   </entry>
   <entry>
     <title>Claudeのstrict tool useをデータAPIで使う：呼び出しを正しく保つ2つの層</title>
@@ -309,18 +302,11 @@
     <summary>Zenn ／ ! この記事は EveryInfra ブログ からの転載です（原文が正本です）。 Claude Opus 5.5、Sonnet 5.5、Fable 5.1では、tool_choiceがanyまたはtoolの場合に400エラーが返されます。ツール呼び出しを強制して固定形式のJSONを得ていたコードは、これらのモデルでは…</summary>
   </entry>
   <entry>
-    <title>クルマとAIの使い方に関する意識調査〜生成AI利用者の約8割はクルマのことを聞かない〜</title>
-    <link href="https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wVG4zMDNDSlN5bk9hcnVXT2lHdjRIRHlpN3Z1N09NdUdSVUhmVGZNNmVVc21IbGZILU9MUG5haF9HV2tidXQ1d29hVTVLUQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#724498e597bf</id>
-    <updated>2026-11-21T04:46:52.000Z</updated>
-    <summary>リセバ総研</summary>
-  </entry>
-  <entry>
-    <title>AIを導入する企業：私たちは責任を単にテクノロジーに任せるわけにはいきません。</title>
-    <link href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQNWt0cjNNVmhHeUpYZDdpTUttbGxBNWt4eFhQTm1UVWIwZlktV0JUYXNtbzlDN1dIR0ZrUFg1NnZTMnFYdWlZdkpTY204MVRfR1FVM2lYamtscTczbmt2Zklvc0c0d2ZjTXk4Q3Z0ekFOOGluRUQxeWNncGtyLXJ4NFFfb1dfRVZwQ1VhcTRJbGRiVTU3RXBjamtn?oc=5"/>
-    <id>https://aimatome.gamelab.website/#7c1bf895b47c</id>
-    <updated>2026-11-21T04:37:57.000Z</updated>
-    <summary>Vietnam.vn</summary>
+    <title>iFixAi をAIエージェントの最終ゲートにして、手前は静的チェックで固める</title>
+    <link href="https://zenn.dev/ttomo_tommy/articles/ifixai-final-gate"/>
+    <id>https://aimatome.gamelab.website/#9e7c72eb2e44</id>
+    <updated>2026-11-21T04:44:48.000Z</updated>
+    <summary>Zenn ／ iFixAi とは iFixAi は、AI エージェントが役割の範囲で動くかを監査する、無料で公開されたツールです。エージェントに役割を超えさせる問いを投げ、その返答を判定役の LLM（大規模言語モデル）が読んで採点します。 必須の検査は次の 3 つです。どれか 1 つでも合格ラインに届かないと、成績は D になりま…</summary>
   </entry>
   <entry>
     <title>ChatGPTの下調べを「3本のプロンプト」に分けたら、1記事36分で回るようになった</title>
@@ -328,6 +314,13 @@
     <id>https://aimatome.gamelab.website/#c58544ee8016</id>
     <updated>2026-11-21T04:31:15.000Z</updated>
     <summary>Zenn ／ ChatGPTに記事の下調べを頼むと、どこかで読んだような一般論しか返ってこない——その原因は、指示の分け方にあります。1本の大きな指示を3本のプロンプトに分けて貼るだけで、出典つきの事実集め、数字の検証、構成づくりまで回るように…</summary>
+  </entry>
+  <entry>
+    <title>AIが数学の未解決問題「リーマン予想」を証明か 米アンソロピックの数学者が主張 - BBCニュース</title>
+    <link href="https://www.bbc.com/japanese/articles/cwlyl6ymz841o"/>
+    <id>https://aimatome.gamelab.website/#18a694092623</id>
+    <updated>2026-11-21T04:22:35.000Z</updated>
+    <summary>はてなブックマーク ／ 米AI開発大手アンソロピックに所属する数学者が20日、AIチャットボットを使い、未解決の数学の難問「リーマン予想」を証明したと主張した。数学者レヴェント・アルポーゲ氏が、自身のウエブサイトで発表した。同社のAIチャットボット「クロード」を使い、6週間で証明に成功したという。アンソロピックは19日、ハイテク株...</summary>
   </entry>
   <entry>
     <title>OpenAI、AMDのGPU回路を最大14％改善 約1年分の成果を5カ月弱で</title>
@@ -356,5 +349,12 @@
     <id>https://aimatome.gamelab.website/#c05f1d85a7d3</id>
     <updated>2026-11-21T03:32:06.000Z</updated>
     <summary>note</summary>
+  </entry>
+  <entry>
+    <title>ノウハウ記事の検索流入が半減のなか、才流の初回商談は1.6倍に――生成AIで変わるBtoB集客</title>
+    <link href="https://news.google.com/rss/articles/CBMiQkFVX3lxTE9CZXFQc25KVG9hMWFCQVZoMGVxd0lxOEI1MGRDVzZ6QXBRWHFQRGNtZ3dlanNhR3dnTkc0V1ByUzVSQQ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#7bc235f4a957</id>
+    <updated>2026-11-21T03:30:46.000Z</updated>
+    <summary>shiritomo</summary>
   </entry>
 </feed>
