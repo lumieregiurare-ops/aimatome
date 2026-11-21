@@ -1,5 +1,45 @@
 [
  {
+  "id": "f6e4ec2a0a7e",
+  "title": "Antigravityの調子が良いので全部の作業を任せてみた話",
+  "url": "https://zenn.dev/ququla89/articles/antigravity-is-better-now-i-think",
+  "source": "Zenn",
+  "summary": "はじめに 皆様こんにちは！‍​‌‌‌​‌​​​‌‌​​‌​‌​‌‌‌‌​​​​‌‌‌​‌​​​​‌​‌‌​‌​‌‌‌​​‌‌​‌‌​‌​​​​‌‌​‌​​‌​‌‌​​‌​‌​‌‌​‌‌​​​‌‌​​‌​​​​‌‌‌​‌​​‌‌‌​‌‌​​​‌‌​​​‌​​‌‌‌​‌​​‌‌‌‌​‌‌​​‌​​​‌​​‌‌​​​​‌​…",
+  "publishedAt": "2026-11-21T14:59:22.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bf47dbc3adee",
+  "title": "AIエージェントに渡すMCPの返り値で気をつけていること（Search ConsoleのMCPを作って）",
+  "url": "https://zenn.dev/yohei_kuno/articles/a1047222376276",
+  "source": "Zenn",
+  "summary": "前の記事では、Search Consoleの数字から「どの記事の、何を、どう直すか」（処方）を出すサービス「検索カルテ」にMCPサーバーを付けて、Claude Codeに記事を直させた話を書きました。 その記事に、こんなコメントをもらいました。 処方を確認してから公開する流れなら、カルテの集計期間もMCPの返り値に含…",
+  "publishedAt": "2026-11-21T14:45:34.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "066715c65495",
+  "title": "AWS公式のマルチエージェントCLI「CAO」でClaude Codeに仕事を委任させたら、フォルダ信頼確認で60秒止まった",
+  "url": "https://zenn.dev/matsushima_a/articles/day-053-cao-trust-dialog-wall",
+  "source": "Zenn",
+  "summary": "これは何を試した記事か AWS Labsが公開しているcli-agent-orchestrator(以下CAO、Apache-2.0)を、Claude Codeをワーカーにして実際に動かしてみた記事である。 CAOは、Claude Code・Codex CLI・Kiro CLIなど、すでに認証済みのAIコーディングC…",
+  "publishedAt": "2026-11-21T14:37:55.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "06b33e296406",
   "title": "「結局はコストとコンテキストの2語に尽きる」――Microsoft Ignite 2026、Copilotの知能レイヤー「Work IQ」刷新の中身",
   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9mZnUwVXBKZy05OW9faHRLUnRuNFNfaDVINUczVkE1TXJTWjdhaXJJaTFqbmRqRHA4ZFlNY1R3eHVnUQ?oc=5",
@@ -9,6 +49,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f6f73b17dc34",
+  "title": "AIに丸投げしない設計論：「Pythonの定量フィルタ × Gemini API 1回リクエスト」で株式の情報収集を自動化した話",
+  "url": "https://zenn.dev/shimashimap/articles/3be54bfa332afc",
+  "source": "Zenn",
+  "summary": "はじめに：「AIで投資なんて馬鹿げている」という誤解 SNSやネット上では、「AIを使って株式投資をするなんて馬鹿げている」「AIの予測は当たらない」といった意見をよく見かけます。 結論から言うと、その批判は「AIに丸投げする」という前提が間違っています。 チャット画面に「これから上がる株を教えて」と打ち込んだり、ニ…",
+  "publishedAt": "2026-11-21T14:22:43.000Z",
+  "image": "",
+  "categories": [
+   "business"
   ],
   "isPR": false
  },
@@ -39,12 +92,38 @@
   "isPR": false
  },
  {
+  "id": "ec0d95a9ac83",
+  "title": "AIに開発を任せきれないのは、仕組み以上に気持ちの問題な気がする",
+  "url": "https://zenn.dev/sunny9/articles/7020ee629b43a8",
+  "source": "Zenn",
+  "summary": "仕組みは整えてみたけれど、承認を手放せない AIに開発をほぼ丸投げするようなやり方が、最近どんどん広がっている。人間が都度口を出す「Human-in-the-Loop」から、AIの動きを横で監視する「Human-on-the-Loop」、さらにAI任せにする「Human-out-of-the-Loop」へ、という流れ…",
+  "publishedAt": "2026-11-21T14:04:55.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "407fec6f3790",
   "title": "2027年のAIガバナンス：説明責任がワークフローに組み込まれる",
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdmNkR3dkVUJKQS1mSmxYTFdxU1VseDNUY3plRUR1MEF1ZDFJaUVDSkVocTREVkJ2Z0E2VDVRMmRZZFREVnQ1VkQwZVFZZFBYWGM3UW9Bb19MVzNwUXpITmQwMnh0cktKa09IUTlQOS11aG84SXh6OE4yalJZXzR6VEE3eWZhdlpPVXdvMDNn?oc=5",
   "source": "Unite.AI",
   "summary": "",
   "publishedAt": "2026-11-21T14:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "d361056f6b34",
+  "title": "AIのレビューを、AIに判定させる ― 外部モデル多段レビューの運用実録",
+  "url": "https://zenn.dev/halu_c/articles/multi-model-review-pipeline",
+  "source": "Zenn",
+  "summary": "1. 背景：単一モデルへの依存で起きた問題 最近、毎日Museを少しずつカスタマイズしています。工夫した分だけ、できることがどんどん増えていくのが嬉しくて、すっかり夢中になっています。これまでメール整理やXのポスト収集などを任せてきましたが、自分の書いた文書や設計案を、別のAIモデルにレビューさせる使い方もしています…",
+  "publishedAt": "2026-11-21T13:57:31.000Z",
   "image": "",
   "categories": [
    "other"
@@ -87,6 +166,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b81c026cbccb",
+  "title": "Museを使ってZOZOTOWNで買い物してみた",
+  "url": "https://zenn.dev/april_sugar/articles/muse-zozotown-shopping",
+  "source": "Zenn",
+  "summary": "Museとは MetaのパーソナルAIエージェント。スマホアプリからチャットで使う。 普通のチャットAIと違うのは、作業がクラウド側で動くこと。ブラウジング、メールやカレンダーの連携、スケジュール実行（決めた時刻に自動でチェックする）までできる。 フィードは、Museのアプリにあるタブのひとつ。Museが書いた短い投…",
+  "publishedAt": "2026-11-21T13:35:37.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
   ],
   "isPR": false
  },
@@ -182,6 +275,32 @@
   "isPR": false
  },
  {
+  "id": "3104fe371172",
+  "title": "AIエージェントの「進捗」は証拠ではない。レビューできる作業面を設計する",
+  "url": "https://zenn.dev/heftykoo/articles/3cf9c142df8f81",
+  "source": "Zenn",
+  "summary": "「12ステップ完了」「テスト実行済み」「作業が完了しました」。AIエージェントの画面にこうした表示が増えると、仕事が管理しやすくなったように見える。 しかし、見えるものが増えたことと、正しさの証拠が増えたことは別だ。進捗表示はテレメトリーであって、受け入れ判定ではない。エージェントが何をしたかを追えるだけでは、人間が…",
+  "publishedAt": "2026-11-21T12:34:31.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "823ae26a40ed",
+  "title": "Issueを投げるだけでAIが仕様確認〜PR作成まで自走する「Issue駆動開発スキル」でChrome拡張を作った話",
+  "url": "https://zenn.dev/sawarame/articles/idd-skills-nickmark",
+  "source": "Zenn",
+  "summary": "はじめに AI エージェントに開発を任せるとき、「チャット欄でやり取りした仕様や決定事項が流れてしまい、後からなぜその実装にしたのか追いづらくなる」「別タスクを並行して進めようとするとローカルの作業ツリーが競合する」といった課題を感じることがあります。 そこで、GitHub Issue を起点に AI エージェントが…",
+  "publishedAt": "2026-11-21T12:31:38.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "a6c5f9b029f6",
   "title": "【第18回】ゼロから目指す! CCDV-F合格への道：エージェントとワークフロー",
   "url": "https://qiita.com/Ray_T/items/ae0583ea0256ecfe3716",
@@ -191,6 +310,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5183411d5bb8",
+  "title": "AIのRTL最適化をどう評価するか：PPAとRISC-Vベンチマークの落とし穴",
+  "url": "https://zenn.dev/ai_practitioner/articles/3a6e8034c700d5",
+  "source": "Zenn",
+  "summary": "OpenAIが11月18日に公開したチップ設計の報告には、「最大14％のPPA改善」という目立つ数字がある。[1] ただ、エンジニアとして読むなら、その数字より後半のRISC-V評価方法の方が気になる。 同じモデルでも、既存のプロセッサを改善するより、仕様書から新しく設計した方が高いスコアを取った。しかも、その理由の…",
+  "publishedAt": "2026-11-21T12:23:05.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
   ],
   "isPR": false
  },
@@ -260,6 +393,32 @@
   "isPR": false
  },
  {
+  "id": "3eb825561f42",
+  "title": "Rails の暗号化とハッシュ：master.key と Devise が内部でやっていること",
+  "url": "https://zenn.dev/sunsun_eng/articles/rails-master-key-devise",
+  "source": "Zenn",
+  "summary": "この記事の要点 master.key は AES-256-GCM で暗号化された credentials.yml.enc を復号するための対称鍵であり、紛失すると credentials は永久に読めなくなる Devise…",
+  "publishedAt": "2026-11-21T11:48:54.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "669c277b096e",
+  "title": "LLMに点検や候補列挙を先にさせると、判断は良くなるのか？ PAS実験の途中報告",
+  "url": "https://zenn.dev/shinyahayakawa/articles/e100cfbe790c5f",
+  "source": "Zenn",
+  "summary": "「情報が足りないときは確認する」。業務支援AIに求める、ごく自然な振る舞いです。 では、回答の前に「確認済み・不足・矛盾」を書き出させたり、「ありうる結論」を列挙させたりすれば、判断はより確実になるでしょうか。 この問いを、合成した業務規程と資料を使って調べたのが、私の PAS（前提条件の確認と判断に関する実験）系列…",
+  "publishedAt": "2026-11-21T11:32:43.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "d80b71e9c06e",
   "title": "CZ日本インタビュー：BinanceからGiggle Academyまで、起業・AI・若者のキャリア選択を語る",
   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pMjZGY1ROX1NGU3FXMnR2VUdfaHFLaXpDVC01LTdpVzZQcWJWblRqTXY0M3JGNldqeF9jQ2llSFBFTTI0aXVId0xQQjVQbklyNzJvZVN0VmJxamwzYVlqSUo4M19ZYjVqN0xFQnl5bW03cmZXRGphSV8zNktyOEE?oc=5",
@@ -269,6 +428,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "12ddb420f6dd",
+  "title": "ITエンジニアはHOWを司るべき存在と考える",
+  "url": "https://zenn.dev/someone7140/articles/6eafe59a2099f4",
+  "source": "Zenn",
+  "summary": "現時点（2026年11月）で、一応私は今ITエンジニアのはしくれとして仕事をしてるわけですが、AIを使って仕事してると自分の存在意義的なことは少し考えてしまいます。AIを使ったほうが手でドキュメント作ったり実装するよりも速いし、最近はそこそこの品質のものが出てくるので、まぁこれでいいかとなりがちです。以下の記事の通り…",
+  "publishedAt": "2026-11-21T11:25:26.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -2504,6 +2676,19 @@
   "isPR": false
  },
  {
+  "id": "650318da920f",
+  "title": "AIが自力でゼロデイ発見、大学サーバのroot奪取 アマゾンが明かす中国系攻撃者の手口（ビジネス＋IT）",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQTltY18ySERncy1FaUFxZ0xuS3NNOE5uWUtyYzlEVGl6aTR1MFBVVWNKZG55aDJOaTFDZHY4S3RCZXM5RGZFdmZoQ1FyX1NhemVINDllakYzTFdDUko2REs3Q0RXbHZNSm9nUkpzX2hZaUtCZnRpWW84OE5rQjZQdGwycmV4Rnd1MTNpM2xn?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-21T02:55:06.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "1ca4628fb626",
   "title": "AI エージェント時代における評価駆動開発の優位性と大規模開発への拡張に関する調査",
   "url": "https://qiita.com/hisashi-ito/items/ea31d324ac02f3fa5e4e",
@@ -2552,19 +2737,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "650318da920f",
-  "title": "AIが自力でゼロデイ発見、大学サーバのroot奪取 アマゾンが明かす中国系攻撃者の手口",
-  "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vQXctU21UbU05eWRkVjloTEpjZmdieWxSUTl3UWxFVE1XZFAwYjNERHl0MlA5dGZmazNjbWNJM1NhcDlkM1htaUFSeUM3UnN0V3Y4?oc=5",
-  "source": "ビジネス+IT",
-  "summary": "",
-  "publishedAt": "2026-11-21T02:44:00.000Z",
-  "image": "",
-  "categories": [
-   "infra"
   ],
   "isPR": false
  },
@@ -3960,6 +4132,19 @@
   "categories": [
    "product",
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c02e6dbafb64",
+  "title": "寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド",
+  "url": "https://zenn.dev/canly/articles/ca6875cd79539f",
+  "source": "はてなブックマーク",
+  "summary": "カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多く…",
+  "publishedAt": "2026-11-20T22:35:55.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fcanly%2Farticles%2Fca6875cd79539f",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
