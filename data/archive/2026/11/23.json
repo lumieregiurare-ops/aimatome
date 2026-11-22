@@ -1,5 +1,18 @@
 [
  {
+  "id": "f49082f1daf6",
+  "title": "エージェントAI時代のセキュリティとシステム設計 —— 「レビュー通過後の暴走」を前提としたキルスイッチ・サンドボックス設計",
+  "url": "https://qiita.com/mhamadajp/items/524648b8ca71a010b046",
+  "source": "Qiita",
+  "summary": "はじめに 「単体テストもセキュリティレビューも通したはずのエージェントAIが、本番環境で想定外のAPIを叩きまくって事故を起こした」 こうしたインシデントが現実のものとなっています。ボストン・コンサルティング・グループ（BCG）が2026年10月に公開したレポート「How...",
+  "publishedAt": "2026-11-22T21:30:56.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f842cbc08eb9",
   "title": "「AIがこう言っていた」は言わないで",
   "url": "https://qiita.com/pienhalifax/items/ff6894512c4c4c8f5016",
@@ -9,6 +22,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a663e7ac1336",
+  "title": "9％から50％へ急増するAIファースト企業、3年で売上成長に2倍の格差：『ビジネス2.0』の視点",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92SXdCLW9vTWJ1RXZwNEhYdWQyc2VlWlFraV8yS3Bhb0NJUmR2RzNVZ2gzTFUyYXVRRjNhYTFmV2ZvWkFUYUh6U3pkVkx6TG05X3dmTzJQd1dnalQyX1ZNamNabmVyNVhYYVlR?oc=5",
+  "source": "オルタナティブ・ブログ",
+  "summary": "",
+  "publishedAt": "2026-11-22T21:22:41.000Z",
+  "image": "",
+  "categories": [
+   "business"
   ],
   "isPR": false
  },
@@ -92,12 +118,38 @@
   "isPR": false
  },
  {
+  "id": "9cfac4170e5d",
+  "title": "メルカリの情報流出、AI委託先で何が起きた？ 確認された2つの攻撃",
+  "url": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/",
+  "source": "ITmedia AI+",
+  "summary": "メルカリグループが業務で利用する「Notion AI」で、チャット記録の一部が外部に流出した可能性があることが公表された。AI処理を委託企業では、外部クラウド事業者への侵害や認証情報の窃取、サービスの脆弱性を悪用した不正アクセスが確認された。",
+  "publishedAt": "2026-11-22T21:00:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "26dc5810607e",
   "title": "洗濯機のうた：文字の泡立て",
   "url": "https://qiita.com/lemonIN/items/a1e785f270b4cdae9747",
   "source": "Qiita",
   "summary": "企画概要 あなたは深夜、一人暮らしのアパートで洗濯機を回していました。すると、どこからともなく奇妙な「歌声」が聞こえてくる。それはまるで言葉のような、しかし意味をなさない音の羅列だった。耳を澄ませば、その音源はどうやら洗濯機から発されているら...",
   "publishedAt": "2026-11-22T20:46:43.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0023ede7b638",
+  "title": "常駐型AIチャットエージェントが「送信先を取り違えない」ようにする出力先検証設計",
+  "url": "https://zenn.dev/hach/articles/chat-agent-outbound-destination-validation-design",
+  "source": "Zenn",
+  "summary": "常駐型のAIチャットエージェントをSlack・Teams・Chatworkなど複数チャネル・複数ワークスペースに展開していくと、人間の「誤送信・誤爆」に相当する事故がエージェント側にも構造的に発生しやすくなります。人間の誤送信は「宛先を選び間違えた」という単発の操作ミスですが、エージェントの誤送信は設計上の抜けが原因…",
+  "publishedAt": "2026-11-22T20:11:58.000Z",
   "image": "",
   "categories": [
    "other"
@@ -141,6 +193,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "451b5f94e2b0",
+  "title": "AIオーケストレーションに足りないのは、思いやりだった",
+  "url": "https://zenn.dev/hummer/articles/claude-kitty-omoiyari",
+  "source": "Zenn",
+  "summary": "Claude Code のセッションを kitty に並べた画面。右下のペインだけが、質問をして人の返事を待っています はじめに 最初に白状しておくと、AI エージェントを並べて動かす道具を作るのは、これで 4 回目です。 前の 3 つは、どれも途中で行き詰まりました。以前の記事では、その理由を「AI に AI を管…",
+  "publishedAt": "2026-11-22T20:05:05.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -329,6 +394,20 @@
   "isPR": false
  },
  {
+  "id": "cc206fdf2094",
+  "title": "LLMが勾配なしで重みを書き換える「Self-Rewriting」の仕組みとリスク",
+  "url": "https://zenn.dev/nalt/articles/llm-self-rewriting-weights-arxiv-2611",
+  "source": "Zenn",
+  "summary": "「モデルの弱点を直すには、重い GPU で勾配を回すか、推論時に高いトークン代を払い続けるしかない」――そう思い込んでいませんか？ 実は 「学習と推論の壁」は知能の制約ではなくツールの制約にすぎず、27B のオープン LLM が勾配計算ゼロ・推論のみ（CPU 上の Python 編集）で自分の重みを書き換えて +6.…",
+  "publishedAt": "2026-11-22T17:21:40.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "032251e58a6a",
   "title": "【小学5年生でもわかる】コーパスってなに？",
   "url": "https://qiita.com/mrmrmr/items/92f7121a8ea74a2c52df",
@@ -472,6 +551,45 @@
   "categories": [
    "business",
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "365f82bb88de",
+  "title": "サブエージェントに調査を丸投げする型：Exploreと自作エージェントで本体の文脈を汚さない",
+  "url": "https://zenn.dev/aizangyobu/articles/claude-code-subagent-chousa",
+  "source": "Zenn",
+  "summary": "結論：調べものは別窓のエージェントに投げ、本体には要約だけを持ち帰らせる コードベースの調査を本体の会話でやると、読んだファイルの中身がそのまま文脈に積もり、やがて本題の指示が埋もれます。サブエージェントはこの問題の答えです。調査は別の文脈ウィンドウで走らせ、返ってくるのは要約だけ。本体はきれいなまま、次の判断に集中…",
+  "publishedAt": "2026-11-22T15:26:20.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ae799dcb068f",
+  "title": "Claude CodeのHooksでテストと整形を自動で回す：PostToolUseとPreToolUseの実践レシピ",
+  "url": "https://zenn.dev/aizangyobu/articles/claude-code-hooks-jidouka",
+  "source": "Zenn",
+  "summary": "結論：頼んだ後の「仕上げ」をHooksに任せると、確認の手間が消える Claude CodeのHooksは、セッションの特定のタイミングで自動実行されるコマンドです。ファイル編集の直後に整形ツールを走らせるPostToolUse、危険なコマンドの実行前に止めるPreToolUse、応答の終わりにテストを走らせるSto…",
+  "publishedAt": "2026-11-22T15:26:19.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4fea2f2ec715",
+  "title": "AIに「説明して」と頼むと長文が返ってくる。説明を動画で作らせたら、中で起きていることをすぐ追えるようになった",
+  "url": "https://zenn.dev/viewsengineer/articles/ai-output-video-explainer",
+  "source": "Zenn",
+  "summary": "AI にコードを書かせて、「説明して」と頼む。長い文章が返ってきます。合っていそうです。でも、読んでも頭に絵が浮かびません。 説明を文章ではなく動画で作らせてみたら、中で起きていることを、すぐに追えるようになりました。 題材は選びません。どんな難問をやらせても、どんなに専門外のことをやらせても、AI のやっていること…",
+  "publishedAt": "2026-11-22T15:26:05.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },

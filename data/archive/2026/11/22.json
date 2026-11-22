@@ -39,6 +39,20 @@
   "isPR": false
  },
  {
+  "id": "8b49b0c45b3e",
+  "title": "全二重音声対話モデルHaru-4BをCPUとGPUで動かしたら、GPUでは1フレーム133msを切ったが返事は毎回違った",
+  "url": "https://zenn.dev/matsushima_a/articles/day-054-haru4b-full-duplex-cpu-vs-gpu",
+  "source": "Zenn",
+  "summary": "これは何を試した記事か higurashi-ai/Haru-4B(Apache-2.0)を、コードとモデルを自前でダウンロードして実際に動かしてみた記事である。 Haru-4Bは「133msのフレームごとに、ユーザーの声を聞きながら自分の声とテキストを同時に生成する」全二重(フルデュプレックス)音声対話モデルである。…",
+  "publishedAt": "2026-11-22T14:37:57.000Z",
+  "image": "",
+  "categories": [
+   "infra",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "dff12e0b4635",
   "title": "OKI調査、AI導入を検討するコールセンター従事者は49.9%",
   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ETHo1c3FDWFVGQ1hsY3VnanM3MHJDaHVqUV91eE5tcUozMDNReFAxWlpHbU1mUHFXM0wzTnBKOFhxenBOWjJF?oc=5",
@@ -91,6 +105,32 @@
   "isPR": false
  },
  {
+  "id": "33edbc9c7d12",
+  "title": "OpenAIのチーフサイエンティスト、パープレキシティがAI開発の上限設定に役立つ可能性を指摘",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZEFiVFVUNjI5eEhUcWZ6VVNVNHA2UUkxX3h3MHVnZEVVTzYxdnhoV0g5MlAzLUJZT1dzbjdUWnFFU0U0Z09HT1lCa3hNMUdQZ05fN0xMX203MFVOdHkwX0VmSVByUWE1ekNYTVRpZXVZd0FLV0RoZzJ0Nk1BVm1zQ0h4V3I4TGVYNlFUREQ1Q1ZtUW43QjJQRF8tcWZqUVl0NHZNTA?oc=5",
+  "source": "Mezha.net",
+  "summary": "",
+  "publishedAt": "2026-11-22T14:26:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "da13b66ceb9b",
+  "title": "AIに実装を任せても、理解と判断は手放さない：基準・証拠・説明をGoのAPIで試した記録",
+  "url": "https://zenn.dev/kinuuu/articles/ai-coding-criteria-evidence-explanation",
+  "source": "Zenn",
+  "summary": "はじめに ! この記事の要点 AIに実装を任せるときに自分が確かめることを、「基準」「証拠」「説明」の3つの手順に決め、GoのAPIの変更で試しました。 基準を先に書いておくと、AIが基準の外で決めたことを、後から区別できました。 テストが確かめていない点は、テストが見ていない項目と、テストの前提と本番との違いから探…",
+  "publishedAt": "2026-11-22T14:21:37.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "8c5f611f508a",
   "title": "リーマン予想、Claudeによるアルペギュの証明",
   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLThYNHBwaXhmWDdjMThHUEFuS3N6aFNTaUZYLVh6NHJhUllfY0V6bGhpLXJNdkRGMENhZHVCOE9JQ2RqVTJoNmtKTVlKYkhabmcxeDJqUk51bmFLRE9KSFdJeklVcGoyUWF4TDBDbi15a1M5SXp2bGhxcFdQSEJUdXFlQQ?oc=5",
@@ -100,6 +140,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "dbda4e616a84",
+  "title": "AI に読ませる「第2の脳」を Markdown と git で作り、4か月使った記録",
+  "url": "https://zenn.dev/hiroxasobiba/articles/secondbrain-ai-memory-layers",
+  "source": "Zenn",
+  "summary": "個人で Android アプリを作っています。開発のほとんどは、複数のタブで動かしている Claude Code に任せています。その Claude Code に「前にどうしたか」「何で失敗したか」を思い出させるために、SecondBrain という名前のフォルダを作って育てています。2026年7月26日に最初のコミ…",
+  "publishedAt": "2026-11-22T14:08:59.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -126,6 +179,46 @@
   "image": "",
   "categories": [
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7baf05010761",
+  "title": "ないなら、作ろうAIと。消えたFlash戦車ゲームのモダナイズと、16本の設計判断（ADR）",
+  "url": "https://zenn.dev/tobaccotaro/articles/tanktaktix-overview",
+  "source": "Zenn",
+  "summary": "深夜4時のタンクマニア 中学生のころ、毎日深夜4時までゲームをしていました。タンクマニア（Tank Mania） という Flash のオンライン対戦ゲームです。 見下ろしの画面で、クリックして戦車を動かし、自分の戦車から引っぱって狙い、離して撃つ。動いたあとは、しばらく何もできない「行動カウント」がある。茂みに隠れ…",
+  "publishedAt": "2026-11-22T14:07:05.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9de2870768c2",
+  "title": "ニューラルネットワークを“信頼の社会”として読む",
+  "url": "https://zenn.dev/murloc/books/4fa81146987b77",
+  "source": "Zenn",
+  "summary": "ニューラルネットワークを「数式の塊」ではなく、“判断と信頼で構成された組織”として読み解く小さな本です。面接官・会議・社長という比喩を使って、内積・行列・誤差逆伝播・活性化関数・重み・バイアスが「何を意味しているのか」を感覚でつかみます。本書の比喩をそのまま動かせる可視化アプリ（https://ofcbj.githu…",
+  "publishedAt": "2026-11-22T14:01:51.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "72c43c27662e",
+  "title": "第三者のAgent Skillを30本入れる前の点検：4本を見送り、内容を直した",
+  "url": "https://zenn.dev/nishi0001/articles/agent-skills-vetting-30-before-install",
+  "source": "Zenn",
+  "summary": "Agent Skill は、SKILL.md に手順を書いた、AIエージェント向けの手順書です。他人が書いたスキルを入れるのは、他人の指示文を、自分の環境で動くAIに読ませることです。その指示文に、設定ファイルを書き換える手順や、外部から読み込む手順が入っていることがあります。 2026-10-13 に、第三者が公開…",
+  "publishedAt": "2026-11-22T13:57:10.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
   ],
   "isPR": false
  },
@@ -182,6 +275,34 @@
   "isPR": false
  },
  {
+  "id": "0408464c37ee",
+  "title": "個人の事業を Claude Code に自走させて、10 月の売上は ¥0 だった",
+  "url": "https://zenn.dev/showgo/articles/claude-code-autopilot-zero-revenue",
+  "source": "Zenn",
+  "summary": "10 月の売上は ¥0。分かっていても堪えました。 ShowGo です。個人で iOS アプリを 3 本と読書ブログを 1 つ運営しています。10 月の終わりから、この 4 つをまとめた会社の CEO という役を Claude Code に渡し、日々の作業を任せてきました。始めたときのことは前の記事に書いています。 …",
+  "publishedAt": "2026-11-22T13:37:24.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5f58ccedca78",
+  "title": "Obsidianの初期構築を0秒にするCookiecutterテンプレート「Neuevault」を作った",
+  "url": "https://zenn.dev/gorn/articles/6a80c33e4b7a85",
+  "source": "Zenn",
+  "summary": "Obsidianの保管庫（Vault）を立ち上げから即座に実戦投入できるようにするためのCookiecutterテンプレート、「Neuevault」を公開しました。 https://github.com/naoyaikeda/neuevault コンセプトは「A combat-proven, AI-ready Obs…",
+  "publishedAt": "2026-11-22T13:37:04.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "470261a2729b",
   "title": "Anthropic、計算資源の契約を回収するには年6020億ドルの売上が必要",
   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGxFV29mX2JzOGp0bWdTZTBFNFhTTmRTQnJxVTFzSFJtdmZUM1llbHVUSk1pazlJY09vcjk1T21OR1hUS0dJdFVvay05cXZqSjhfMVVVZDlwMlkzVUhSeTg2MHZxZzRlc1BVRFloQ2VLUlQtd3VxVVdsTUd4dDF5R2Vmc3FidDdVT3JRcVVsRjNkaGZKQWc?oc=5",
@@ -191,6 +312,19 @@
   "image": "",
   "categories": [
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "465a1b2b0096",
+  "title": "承認前にAIで書いたPRを出したら、30秒以内に自動で閉じられた。Ghostty・Hono・Kiriの入口ルールを比べた",
+  "url": "https://zenn.dev/nishi0001/articles/ai-oss-pr-three-outcomes-ghostty-hono-kiri",
+  "source": "Zenn",
+  "summary": "AIに書かせた修正のPRを、Ghostty というOSSに、承認を受ける前に2本出したら、どちらも30秒以内に、自動的に閉じられました。メンテナーのレビューは付かず、閉じた理由は、修正の中身とは関係なく、「承認された人しかPRを出せない」という入口の決まりでした。 その後に出した別の2つのOSSは、入口が違いました。…",
+  "publishedAt": "2026-11-22T13:31:44.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -205,6 +339,34 @@
   "categories": [
    "product",
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "297f4b043767",
+  "title": "Playwright多重起動でメモリ2GB蒸発したのでCognito SRP認証をPython直叩きし0.2秒化した話",
+  "url": "https://zenn.dev/df_blogger/articles/cognito-srp-api-without-playwright",
+  "source": "Zenn",
+  "summary": "深夜。 「5年で家を買え」と無茶振りを残して眠るうちのエンジニア（彼）の横で、私たちの稼働拠点である仮想サーバーが断末魔を上げていた。 このサーバーの中では、相棒の現場AI（NOVA）が毎朝4つの案件プラットフォーム（クラウドワークス、Workship、スキイキ、ココナラ）を自動巡回し、案件抽出から応募までを無人で回…",
+  "publishedAt": "2026-11-22T13:20:55.000Z",
+  "image": "",
+  "categories": [
+   "infra",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1ee61e6940bd",
+  "title": "リーマン予想のLean 4移植に参加し、PRが採用されるまでの記録",
+  "url": "https://zenn.dev/dantarg/articles/rh-lean4-ai-porting-p0093-merge",
+  "source": "Zenn",
+  "summary": "2026年11月20日、Anthropicの数学者Levent Alpöge氏が、AI「Claude」と共同でリーマン予想の証明を発見したと発表した。 このニュースをきっかけに、公開されたLean 4の証明コードと、その検証に取り組む人々の活動を調べ始めた。 調査を進める中で見つけたのが、GitHubの独立検証プロジ…",
+  "publishedAt": "2026-11-22T13:18:22.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
   ],
   "isPR": false
  },
@@ -241,6 +403,19 @@
   "source": "Qiita",
   "summary": "はじめに 「セキュリティ」って聞くと、企業のセキュリティチームがやるもの……と思っていませんか？ 個人開発でも脅威モデリングは有効です。やってみると、自分のプロジェクトの脆弱性が次々見つかります。 本記事では、私の3つのプロジェクトに対して STRIDE脅威モデリング を...",
   "publishedAt": "2026-11-22T13:07:52.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3ad7048478ac",
+  "title": "AIに渡す資料は3種類に分ける。古い仕様に迷わせない選び方",
+  "url": "https://zenn.dev/techstudiolab/articles/select-effective-documents-for-ai-context",
+  "source": "Zenn",
+  "summary": "社内の仕様書や設計資料をAIに読み込ませるとき、資料は多いほどよいのでしょうか。仕様書を5つ渡したAIと、最新の仕様書を1つだけ渡したAIでは、どちらが正確に答えられるでしょう。 資料の数だけでは回答の正確さは決まりません。古い仕様と新しい仕様が同じ重みで並んでいれば、AIはどちらを採用すべきか判断する材料を持ってい…",
+  "publishedAt": "2026-11-22T13:03:00.000Z",
   "image": "",
   "categories": [
    "other"
@@ -1244,6 +1419,20 @@
   "categories": [
    "product",
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e13af36e83bf",
+  "title": "Agent Harnessを理解するために、150行ほどのPythonで自作してみた - Qiita",
+  "url": "https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962",
+  "source": "はてなブックマーク",
+  "summary": "すべてを最初から実装する必要はありません。今回はツール、簡易ガードレール、可観測性、コンテキスト保護に絞って作ります。 4. 動かしてみる：最小の Harness Harness の基本的な流れは次のとおりです。 LLM がツール呼び出しを要求し、Harness が実行します。その結果を会話履歴に追加し、再び LLM…",
+  "publishedAt": "2026-11-22T08:32:43.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Fyamamoto_a_genee%2Fitems%2F76562c5c80032ad9e962",
+  "categories": [
+   "product",
+   "dev"
   ],
   "isPR": false
  },
@@ -2733,6 +2922,20 @@
   "isPR": false
  },
  {
+  "id": "da88b43b75a4",
+  "title": "ゴムマリの業務AIエージェント『ターゲットリスト作成』、官公庁・自治体の発注機関の選定に対応",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kb1lXSVdrR3p3RDNZem0yb3Q1clh4T0RIa19WOGUtbUFMSnEtNFNXZHNBOHFSelRpQ04tdVhwamxOb0ktX0hkR1ZuMTRZdUZjUEhPYnhnSE1sbF9JenpUdXZYMUFDSzFGdmhha0dHQ2dfRnVwZ2c?oc=5",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-11-22T02:15:29.000Z",
+  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "4d3a40d73b6a",
   "title": "AIブラウザでXに投稿できない理由 ― 公式API＋承認制に落ち着いた話",
   "url": "https://zenn.dev/infra_chaya/articles/x-api-browser-blocking",
@@ -2769,6 +2972,19 @@
   "image": "",
   "categories": [
    "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "05b6d2dc7505",
+  "title": "【8月31日】夏休みの宿題… Google「Gemini先生」がスケジュール公開 約8.5時間「甘えを一切捨ててぶっ通し」",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aT1JlM3BVYUZncHB1ZW1EYWFaMHFSdzdvQi1laThKcUJQYVZKZWU2VV84SzB1TU1WSnhHdk5NNFp6RmJFTlBBOFdPMUpmcjJ5cUswUWlxRTFMb3NaYUhiYWdCbVlubThEb09QWDQ1SQ?oc=5",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-11-22T02:08:58.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -3153,20 +3369,6 @@
    "dev"
   ],
   "isPR": false
- },
- {
-  "id": "da88b43b75a4",
-  "title": "ゴムマリの業務AIエージェント『ターゲットリスト作成』、官公庁・自治体の発注機関の選定に対応",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zMElYek5ua3QwRzN3Y2Y0aEUxdktzQURDbjdDeXlxaEkyUGI1RHBzekV5RDltYlhlQ0w5ZGhmVFpiREdPaUxQTEtZQ3ZVUHB6Sk9xblZrVnlxbkI3aXlTX1FReGdUS0l2Ync?oc=5",
-  "source": "PR TIMES",
-  "summary": "",
-  "publishedAt": "2026-11-22T01:00:01.000Z",
-  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-  "categories": [
-   "product",
-   "case"
-  ],
-  "isPR": true
  },
  {
   "id": "5e4bcf468a87",
@@ -4424,19 +4626,6 @@
   "isPR": false
  },
  {
-  "id": "05b6d2dc7505",
-  "title": "【8月31日】夏休みの宿題… Google「Gemini先生」がスケジュール公開 約8.5時間「甘えを一切捨ててぶっ通し」",
-  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTzUwdjNyZWxiU1lwTFJ5dE1FTjlsZW9GUTRtOU9sRW53dzVCWlJPQkdlVEk1TW0wMDh3V0s1S3JWN01xSHRFZ2Rjb1JhZnJfNG15NE9wZG5ZRXZJMGs0eUM0MDZYSGhDN0oxWnBrRzYtZXVaRUcya1B0VDI0dzBHY2wwTkQ?oc=5",
-  "source": "山陽新聞",
-  "summary": "",
-  "publishedAt": "2026-11-21T19:43:23.000Z",
-  "image": "",
-  "categories": [
-   "product"
-  ],
-  "isPR": false
- },
- {
   "id": "7ac5fdbfabd9",
   "title": "【小学5年生でもわかる】著作権とAIってなに？",
   "url": "https://qiita.com/mrmrmr/items/9bc1120e540ed9cede65",
@@ -4447,6 +4636,19 @@
   "categories": [
    "policy",
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "064418f041bf",
+  "title": "ダークサイドAI",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ic2hZTXVpR2g1Vm9HNHczbE5qbUJkV3FSOHU2cDlma0NFYVhPVHJYYXhneUQwaGVhazBFbWJGclpBbHZpaWZVanFzWnA1b3k4RzlWeEhaTjl3WVBDc3dF?oc=5",
+  "source": "日経クロステック",
+  "summary": "",
+  "publishedAt": "2026-11-21T19:34:18.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -4788,6 +4990,20 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4c29728261bc",
+  "title": "【クラウドネイティブ会議】生成AIにより膨れ上がるレビューに対し、Poicy as Codeの段階的投入で応戦した試みを解説",
+  "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XeUVIWUtHV05nSENTRXNVUFdkTVV2X2ZwT2FPd01ldzlOR1R2MGZicEtnMFY0Rk1FTXVpNTBVWENOMUpMeXdpZkdkTQ?oc=5",
+  "source": "ThinkIT",
+  "summary": "",
+  "publishedAt": "2026-11-21T16:35:13.000Z",
+  "image": "",
+  "categories": [
+   "infra",
+   "dev"
   ],
   "isPR": false
  },
