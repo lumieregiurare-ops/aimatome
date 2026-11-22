@@ -1,5 +1,58 @@
 [
  {
+  "id": "fff81252e683",
+  "title": "NVIDIAの人工知能(AI)半導体が米国の輸出統制を避けて中国に流れ込んだ経路と黒幕が明らかになっている。 21日（現地時間）、フィナンシャルタイムズ（FT）は企業公示資料と関係者10人余りの証言..",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5wZFZpR0ZnblBDa0VUTGtOOHd4ZGd3a1VrR29QZ1VzeDV6dUhpS0NaWWVNQzFlcV9YMlFaaVE4UldYd2U2X2ZYMzdTZkhvZGc?oc=5",
+  "source": "매일경제",
+  "summary": "",
+  "publishedAt": "2026-11-22T10:50:49.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "766824c464a9",
+  "title": "保育プロトタイピング体験会",
+  "url": "https://zenn.dev/protoout/books/19_hoiku-handson",
+  "source": "Zenn",
+  "summary": "2026年12月に実施の保育ハンズオン資料です。",
+  "publishedAt": "2026-11-22T10:41:15.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "71f0e9d1998c",
+  "title": "ログへの機密情報混入を防ぐ！Pydantic v2とカスタムFormatterによる自動マスキング実",
+  "url": "https://qiita.com/TOAI/items/f9c8642dd8d57a206277",
+  "source": "Qiita",
+  "summary": "構造化ログへのプレーンテキスト出力で発生する機密情報漏洩を防ぐ自動マスキング機構 モダンなアプリケーション開発において、構造化ログ（JSON Logging）の導入は可観測性（Observability）を確保するための必須プラクティスとなっている。しかし、どれほど厳格...",
+  "publishedAt": "2026-11-22T10:36:13.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6d43a290ca1d",
+  "title": "AIのハーネスは、できることを足し、やることを止める",
+  "url": "https://zenn.dev/ponkotate/articles/2026-11-22-harness-add-and-stop",
+  "source": "Zenn",
+  "summary": "ChatGPTやClaudeを使っていると、AIが自分で検索したり、コードを実行したりしているように見えます。けれど、LLM本体ができるのは、文章を作ることだけです。検索やコードの実行は、LLMの周りに付けたハーネスが担っています。 私は、Claude Codeで開発するときに、プロジェクトごとにハーネスの部品を自作…",
+  "publishedAt": "2026-11-22T10:20:25.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "c53ddb40f1ff",
   "title": "Pythonで〇×ゲームのAIを一から作成する その255 ε-greedy 法の「判定精度の推移」と「最適な ε での判定精度」の性質",
   "url": "https://qiita.com/ysgeso/items/1e2bd193073ab89794e8",
@@ -32,6 +85,32 @@
   "source": "Qiita",
   "summary": "この記事について Anthropic社の公式認定資格「Claude Certified Developer – Foundations(CCDV-F)」に向けた、非公式の学習シリーズ(全24回)の第22回です。（Anthropic社とは関係ありません） 公式の試験ガイ...",
   "publishedAt": "2026-11-22T09:58:38.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c7988da7f3d0",
+  "title": "AIがルールを読み飛ばすので、「検査」に変えた：書き込み時に拒否するフックを作った記録",
+  "url": "https://zenn.dev/uzunaru/articles/f67ac6f4d8a540",
+  "source": "Zenn",
+  "summary": "結論 AI に守らせたいルールを、文章（AGENTS.md など）で書いても、調子の悪い日に読み飛ばされます。何度も破られたルールは、「書き込み時に機械的に検査して、違反なら保存せずに拒否する」形にしました。 この記事では、次を書きます。 きっかけ（前の記事への、読者のコメント） 調べたこと（Claude Code …",
+  "publishedAt": "2026-11-22T09:56:02.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "cdcc5170dda1",
+  "title": "AIレビューを一往復させる。別の席の理由を一つ返して、判断の前後を比べる",
+  "url": "https://zenn.dev/honabochi/articles/ai-review-one-round",
+  "source": "Zenn",
+  "summary": "「図は第一段落の直後に置く」と答えたAIに、別のAIが見ていた点を一つ伝えました。「何段落目か」を決めていた答えが、「読者が比べたくなったところ」に変わる。二つの基準を同じ原稿で使っても、比べたくなる一文が一段あとに移れば、図を置く場所が分かれるかもしれません。 舟は残す。図はどこに置く？ 題材は架空の読書棚の記事で…",
+  "publishedAt": "2026-11-22T09:48:17.000Z",
   "image": "",
   "categories": [
    "other"
@@ -127,6 +206,19 @@
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e406e3eabf84",
+  "title": "AIはなぜ「確率の計算」だけで会話や創造、深い推論までできるのか？—基礎から紐解くLLMの仕組みと進化",
+  "url": "https://zenn.dev/da39nbv3/articles/43d36d338629a0",
+  "source": "Zenn",
+  "summary": "AIはなぜ「確率の計算」だけで会話や創造、深い推論までできるのか？——基礎から紐解くLLMの仕組みと進化 「ChatGPTなどの生成AIは、結局のところ『次に来る言葉を確率で予測して表示しているだけ』」 AIの仕組みを学び始めると、必ずと言っていいほどこの説明に出会います。しかし、ここで多くの人が一つの素朴な疑問にぶ…",
+  "publishedAt": "2026-11-22T09:09:38.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -381,6 +473,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "524bb1e6f005",
+  "title": "プレスリリース：FlashLabs、FlashRevのAIエージェント「Hermes Agent」を大幅アップデート ― 複数セッション・スケジュールタスクなどに対応（PR TIMES）",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83bUE2Umg4TVFYb0dGVXBXTy1IRkc0MTNPS09WN1dtaXRQb0liRV85LXN3N0Z5bjNkSjBaRVJGUVFpQ2Rkcm9oNWh5RHB0NHdpQkhaOVBseXRoQzhkLUtqUG55MXBiRG13?oc=5",
+  "source": "毎日新聞",
+  "summary": "",
+  "publishedAt": "2026-11-22T07:52:49.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -1380,6 +1485,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1a8c37786a7e",
+  "title": "画像 | AIは｢システムの裏口｣を狙う…日銀とOpenAIが語る《サイバー攻撃対策基本編》攻撃検証用のAIは\"課題の95%\"を完遂",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0weExkb2x0ZlYtS3FfRFQySHA4blN2NU5ZcjliNG9RUnFMSXhYN1ZRbHpkRWRoYms4V1Mxb3pEUnpBeG83XzBVUU53R1RUT3RxNU5Eam92NkFTMm9qcEE?oc=5",
+  "source": "東洋経済オンライン",
+  "summary": "",
+  "publishedAt": "2026-11-22T03:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -2629,7 +2747,7 @@
  {
   "id": "d5ba38d21d99",
   "title": "【Gemini 4 Neon】HydrogenとCarbonの間に登場。いつ選ぶ？性能・料金・使える場所を解説",
-  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mUmUtdHJJZE9tcjJHNnptakoya0ZOT2Nrc0pBQ2pHVmRYNWNudnF0V2d1NHpXbXQ5TjAtU0tXQy1WQTdjTzVnS0ZZdmNMcUxBV0hYZVV5Tnc0emx1TXUwNEdB?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwdHg1T19KMjVmbmV4YTVyRTVVcDNGajZzSkNOOUhxQ2t0a2ZYcUlRdTh4eUVEV1VuUElYY0RkQU14bFRDZjJraVVUNTA3TWZTTnh4SWhnNEJ1dDJRdWs2SEk1VXFaSXRhZHdtYjVyY1dfZw?oc=5",
   "source": "NewsPicks",
   "summary": "",
   "publishedAt": "2026-11-21T21:30:54.000Z",
@@ -2971,8 +3089,8 @@
  },
  {
   "id": "cfd2b5d5f691",
-  "title": "ＡＩブーム息切れ鮮明 アンソロピック上場も売りやまず 規制強化の懸念逆風に｜国際｜全国のニュース",
-  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBTNVR4QzdaYmZsMlZoYU5MTXhRaVNLYTMycG5aOWZ6Tm9kM2xjRlNDNFBPTXBiUkdPRDFnZzVaU3pwNGlWTTdVSi0xMzJrTDJvSDFpLXg2Zw?oc=5",
+  "title": "ＡＩブーム息切れ鮮明 アンソロピック上場も売りやまず 規制強化の懸念逆風に｜国際｜全国のニュース｜富山新聞",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwNVA2V0FoblBtSG5tUmJkeFdPNFdWaEQzUnhaODlwcU9HODd4MFYtQVhPZmVwa1RVbkZVWC1SWGotMnlSNjNldWh5SEEwVG9OVmNRQ0wwSVczZw?oc=5",
   "source": "北國新聞",
   "summary": "",
   "publishedAt": "2026-11-21T20:00:00.000Z",
