@@ -5,8 +5,15 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-22T18:00:24.337Z</updated>
+  <updated>2026-11-22T18:30:28.461Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>検証DBが消えた状態で、本番書き込みを安全に試す「トランザクションdry-run」の実装</title>
+    <link href="https://qiita.com/freefreefree1222/items/b12698e81c43eaaeaccf"/>
+    <id>https://aimatome.gamelab.website/#9042041aae95</id>
+    <updated>2026-11-22T18:14:45.000Z</updated>
+    <summary>Qiita ／ 環境 項目 バージョン・内容 OS macOS 14.5 (Apple Silicon) PHP 8.2.20 (CLI) フレームワーク Laravel 10.48 DB MySQL 8.0.36 (InnoDB, REPEATABLE REA...</summary>
+  </entry>
   <entry>
     <title>【海外テック動向】NTP自作インフラから自動車標準化に学ぶ設計思想まで！話題の海外トピック3選</title>
     <link href="https://qiita.com/tanakanekosuke/items/e5ae01be46367419dc96"/>
@@ -27,13 +34,6 @@
     <id>https://aimatome.gamelab.website/#032251e58a6a</id>
     <updated>2026-11-22T17:20:13.000Z</updated>
     <summary>Qiita ／ コーパスとは？【子ども向け解説】 言語処理の研究・開発に使うテキストの大規模な集合です。 例えば「新聞記事100万件のテキスト」「SNS投稿1000万件」のように、研究用に大量のテキストを集めたものです。このコーパスからデータを学習して、AIが言葉の使い方を理解します。 ...</summary>
-  </entry>
-  <entry>
-    <title>Seedream 5.0で商品画像を作るときの、プロンプトと参照画像の設計メモ</title>
-    <link href="https://qiita.com/haoli197654/items/5c3223f229e961b7acfe"/>
-    <id>https://aimatome.gamelab.website/#a6c9d74d61c8</id>
-    <updated>2026-11-22T17:15:05.000Z</updated>
-    <summary>Qiita ／ はじめに 商品画像、SNS用のクリエイティブ、キャンペーン用のビジュアルを作るときは、生成モデルの性能だけでなく「何を固定し、何を変えるか」を先に決めておくと作業を整理しやすくなります。 この記事では、テキストから画像を作る場合と、参照画像を使って編集する場合に分けて、プ...</summary>
   </entry>
   <entry>
     <title>「TCS Enterprise AI Study」調査結果 84%がAI投資による最大の効果として生産性向上を挙げる一方で、人による監督なくAIに実行を委任している企業はわずか10%にとどまる</title>
@@ -162,18 +162,18 @@
     <summary>Pasquale Pillitteri</summary>
   </entry>
   <entry>
+    <title>Uravation、Copilotの業務プロンプト50本をまとめた資料を無料公開</title>
+    <link href="https://news.google.com/rss/articles/CBMiR0FVX3lxTE40RGcwdTJkLWtGdDd6SkhqOFYycEliNTVocjNPSjZjT29hbHZpdzF4WVJUTXdlOVlQQmxud2QyVmI5R0xjUjVN?oc=5"/>
+    <id>https://aimatome.gamelab.website/#9fe842704af1</id>
+    <updated>2026-11-22T13:13:38.000Z</updated>
+    <summary>Dellows News</summary>
+  </entry>
+  <entry>
     <title>OpenAIのIPOについて知っておくべき重要事項</title>
     <link href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTG00SGY1bm5rUUxOemdQcVpFcGlwWW9vWkU0WlZQU29CekhpN1d3b3dUSGswc1NSbEJUOEt6MHNaQnZLd0hOVmszRGtHWGl3UlpiTGRZcDNDQmE0Zy1aWEVpLTZaVWM2MWQzMy1Xdkt0UzllMUFOdWh6NWI2QjV0QWFuR1JQWU1ucGZpTFVvMXhWaFZhN0xiZ1ZmQ3J4d3RaYThKNXBNQ3U?oc=5"/>
     <id>https://aimatome.gamelab.website/#2451696c3f18</id>
     <updated>2026-11-22T13:10:13.000Z</updated>
     <summary>TradingKey</summary>
-  </entry>
-  <entry>
-    <title>Watch Duty - Gemini搭載の無線文字起こしツール。消防無線から新しい火災を30秒未満で検出</title>
-    <link href="https://news.google.com/rss/articles/CBMifEFVX3lxTE4tV0xZbFVueTBXVVRycHlMdS16cGR2RVpXZEdfb2ZiYlYyMUktQzllS2htTGlLc2Vvc2VOblREV1RBTXVtM2VITDdLTDZTeXBOUDhsUnR3RjcxU1otUVdQb19YYVFJbEYzSTk1TGlYNDF1VkpGN0dfczlXVlQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#aac8de4298ed</id>
-    <updated>2026-11-22T13:02:01.000Z</updated>
-    <summary>TECH NOISY</summary>
   </entry>
   <entry>
     <title>Anthropic IPO - 完了、調達総額は約1195億ドル。公開価格83ドル</title>
@@ -202,6 +202,13 @@
     <id>https://aimatome.gamelab.website/#cc0cbf4b15fc</id>
     <updated>2026-11-22T12:00:00.000Z</updated>
     <summary>SPACE CONNECT</summary>
+  </entry>
+  <entry>
+    <title>防御AIユニコーン「Corma」徹底解説｜1.25億ドル調達の技術要因と日本への影響</title>
+    <link href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9VTW9aOFhHZkNyLWFGck9oNkxIeU5vRjFRNmg2ZVc2RDZXMnQ4RVZEbGlPdTlBd3JqTnpWcVFaWUFUX0YzT3lJeGRmQmxjQ2ZEZDBVOTNJMG1RU2JMSEVtUnpUTXc1YlY1YmhPdUhMOUNJbjJjMEZ4cA?oc=5"/>
+    <id>https://aimatome.gamelab.website/#a1d2fdcc8e3a</id>
+    <updated>2026-11-22T12:00:00.000Z</updated>
+    <summary>PlusWeb3</summary>
   </entry>
   <entry>
     <title>「Gemini Live」ファイルアップロード対応</title>
@@ -274,13 +281,6 @@
     <summary>매일경제</summary>
   </entry>
   <entry>
-    <title>エクセル、パワポ「Copilot」の実力 売上分析、資料作成をやってみた （2ページ目）</title>
-    <link href="https://news.google.com/rss/articles/CBMia0FVX3lxTE8xamU5MXNrdnVBSWVwcXRSTlJaWW5zZHE3OWJvLUhRaUVHY1YxdjNYbl9jZTZJdjZiS2hybnJ3Umk5TEZhZGdRejluVHVlSDAwWFEwT25Eb09NdTBvNVNPdW0tTDVCLUF2Y1dr?oc=5"/>
-    <id>https://aimatome.gamelab.website/#2e680010a1f0</id>
-    <updated>2026-11-22T10:23:10.000Z</updated>
-    <summary>日経クロストレンド</summary>
-  </entry>
-  <entry>
     <title>フィジカルAIのリーダー企業であるAgile Robotsが、グローバルな成長を加速させるため、企業価値85億ドルでシリーズFラウンドにおいて5億ドルの資金調達を実施</title>
     <link href="https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4RngtNTE2M3JxUHJFWmoyQ2NTeGpURVdDWmhyeEpaM2VtaU5nZWdSN3UxLVdTSTJsSnBZeG1vMUxDeW9ZcDdXdk40TTdVZzN6a202bmN3?oc=5"/>
     <id>https://aimatome.gamelab.website/#912c711cbb85</id>
@@ -330,6 +330,13 @@
     <summary>Pasquale Pillitteri</summary>
   </entry>
   <entry>
+    <title>日経平均、AI半導体株への期待後退で下値模索へ</title>
+    <link href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPMTVQcUdzX3JBOFhNNzdUZHoxb1BaMnJQZXJRNFJSaVRKVEJaNXJvZ0JwQkRoV1B0LUtEWXdOWnJpR2NrUDVMRVRraHpWQ2k1VlI5WmFRMjZaWHA4ZHhoYWRKUHhaVXdxUlJjUWRtMFl3X0hGTGJ3WUJoSjVlZ2VndWFkcjIxV18wRV9wd19MNA?oc=5"/>
+    <id>https://aimatome.gamelab.website/#ce6f60472b3e</id>
+    <updated>2026-11-22T09:07:21.000Z</updated>
+    <summary>Traders Union</summary>
+  </entry>
+  <entry>
     <title>【今週のAIツール・ニュース総まとめ】OpenAIの最新AIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」/Googleの最新AIモデル「Gemini 4 Neon」など</title>
     <link href="https://news.google.com/rss/articles/CBMiekFVX3lxTE5Gb0JlWmNCd2ZNOG9tZnYzU2tCeERvWklzM1BsT3FHOTNGTDhqNk13WnFQRXVwdlQtZzBmRkMzaHNNZnhHeUJFNmt1ajgyc25mMmx6Q1dMVDRwcjVyMzBvbF9FSUJuNFVrVEJEZHNYeE1UbnRxRlVJbTFR?oc=5"/>
     <id>https://aimatome.gamelab.website/#6e203e65b295</id>
@@ -349,12 +356,5 @@
     <id>https://aimatome.gamelab.website/#8539c233d1cf</id>
     <updated>2026-11-22T08:58:22.000Z</updated>
     <summary>Pasquale Pillitteri</summary>
-  </entry>
-  <entry>
-    <title>人工知能(AI)バブルの警戒論が続き、先週末、ニューヨーク証券市場で半導体株の投売りが起きた。 フィラデルフィア半導体指数が10%を超える急落傾向を示し、ナスダック指数は今年の上昇分を返却した。 特に..</title>
-    <link href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BdGVaS1ByY1M4WXFBY2ZkMVZwMUVrUTg2NEJTR3BXSU00TTRCb1d2TWhNSHVfTXRwdWVSZmxNcWtSTDRuTXFNeXFhbG1leGs?oc=5"/>
-    <id>https://aimatome.gamelab.website/#88322faf41dc</id>
-    <updated>2026-11-22T08:48:08.000Z</updated>
-    <summary>매일경제</summary>
   </entry>
 </feed>
