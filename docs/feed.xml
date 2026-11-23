@@ -5,35 +5,70 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-23T04:00:21.372Z</updated>
+  <updated>2026-11-23T04:30:24.121Z</updated>
   <author><name>AI matomechatter</name></author>
+  <entry>
+    <title>【AIチャット実装】第3章 社員管理からAIチャットを呼ぶ</title>
+    <link href="https://qiita.com/chi0818/items/7515d63fc28bebd7f1ee"/>
+    <id>https://aimatome.gamelab.website/#f310959bc5c3</id>
+    <updated>2026-11-23T04:18:48.000Z</updated>
+    <summary>Qiita ／ Spring入門で作った社員管理アプリに「AIチャット」の画面を足し、第2章で準備した AI（ローカルAI または OpenRouter）に質問を送れるようにします。AI には、第2章で作った社員の資料をもとに、「海皇さんの生年月日は？」のような質問に答えさせます。 こ...</summary>
+  </entry>
+  <entry>
+    <title>【AIチャット実装】第2章 API キーなどを取得する</title>
+    <link href="https://qiita.com/chi0818/items/6f127efb86bab3691d86"/>
+    <id>https://aimatome.gamelab.website/#1b91f1aa46ef</id>
+    <updated>2026-11-23T04:18:35.000Z</updated>
+    <summary>Qiita ／ 第3章で社員管理アプリから AI を呼び出すために、AI に渡す資料を作り、呼び出しに使う値（API キーなど）を取得します。AI は、第1章で準備したローカルAI（AnythingLLM と Ollama）と、インターネット上の AI を呼び出せる OpenRouter ...</summary>
+  </entry>
+  <entry>
+    <title>【AIチャット実装】第1章 ローカルAIを準備する</title>
+    <link href="https://qiita.com/chi0818/items/796c4c73f9cb68e6cc55"/>
+    <id>https://aimatome.gamelab.website/#453ee3400831</id>
+    <updated>2026-11-23T04:18:22.000Z</updated>
+    <summary>Qiita ／ この教材について AIチャット実装は、Spring入門 で作った社員管理アプリに「AIチャット」の画面を足し、登録した資料（社員の情報）をもとに AI に答えさせる教材です。AI は、自分のパソコンの中だけで動く AI（ローカルAI）と、インターネット上の AI を呼び出...</summary>
+  </entry>
+  <entry>
+    <title>なぜAttentionは「√d」で割る？コイントスで直感理解！</title>
+    <link href="https://qiita.com/rtkjm22/items/77557b9824ac4e2bc184"/>
+    <id>https://aimatome.gamelab.website/#dda346323219</id>
+    <updated>2026-11-23T04:08:51.000Z</updated>
+    <summary>Qiita ／ はじめに 大規模言語モデル（LLM）で使用されている Transformer の核心部分として Attention という機構があります。 $$Attention(Q, K, V) = Softmax\left(\frac{QK^T}{\sqrt{d}}\right)V$...</summary>
+  </entry>
+  <entry>
+    <title>ジョシュ・ダマーロCEO、ディズニーでAI活用へ</title>
+    <link href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE92QmdoWnJ0bWk2YnEwbW8wWGVtRm5tMEI5S2J4cldzU09wWnlPYmVta3psTXNTaGoxM0RoeUEyZ29uYnpxeHRxZ0lLdG1GY1U?oc=5"/>
+    <id>https://aimatome.gamelab.website/#171bd5c21cb9</id>
+    <updated>2026-11-23T04:01:59.000Z</updated>
+    <summary>dpost.jp</summary>
+  </entry>
+  <entry>
+    <title>介護事業者向け生成AI活用研修の提供を開始</title>
+    <link href="https://news.google.com/rss/articles/CBMiakFVX3lxTE9vczkzdExDNkt4eDBKeExpU0o0b1QwVHltQVNheGZkSkRVSk14Qll4R2RCcE5DMWNPUnhUZTJESDBUSlYzcDlSclItenB5OFZZRVk4Y21ZWG5MUEhFQV9sUXZ3MlJpMUJuUEE?oc=5"/>
+    <id>https://aimatome.gamelab.website/#7b19425c7d9a</id>
+    <updated>2026-11-23T04:00:01.000Z</updated>
+    <summary>PR TIMES</summary>
+  </entry>
+  <entry>
+    <title>無人トラクターを遠隔操作、AIエージェントが農業管理の「相棒」に クボタが描く未来 関西経済点描</title>
+    <link href="https://news.google.com/rss/articles/CBMidkFVX3lxTE8tUElvd0o1a0lUblB6VnBXODViMkVXeU5TVFlhQ1A2bHdFY1N2M1lHQ2FvakEwYXZaZ05fQ0JQb25HcVNKYkxWNEk1eG91MGJaQUdHOEFIWTZ6bmhhVzdvajBaM3J3NFBJU0NzcEtMbG00dElTU1E?oc=5"/>
+    <id>https://aimatome.gamelab.website/#ba4193110008</id>
+    <updated>2026-11-23T04:00:00.000Z</updated>
+    <summary>産経ニュース</summary>
+  </entry>
+  <entry>
+    <title>AIで人類滅亡リスクは本当？ 資金集めの効果を指摘する声も…</title>
+    <link href="https://news.google.com/rss/articles/CBMifEFVX3lxTE8zemJxdWlCUFNLNFhsWHNYczF2bXk5bC1hVEJQY0VLZFpwX05UaVk2LWRCSmlvLUhNTGtqcTcyeEhDWGM5eWdETFJKR1AwbnpiM0cwTlBlZ2lTT2h0b092WGFOanFVbmxKdlFyUzhxUFQyZkdReGVEd1ViZGk?oc=5"/>
+    <id>https://aimatome.gamelab.website/#92c38d7fd5e9</id>
+    <updated>2026-11-23T04:00:00.000Z</updated>
+    <summary>Gizmodo</summary>
+  </entry>
   <entry>
     <title>『The Binding of Isaac』新実装の隠しモード、“BGMがAI生成”と発覚して批判殺到。生みの親Edmund McMillen氏も困惑、現行チームに削除要請する事態に</title>
     <link href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5qanhFWVF1di1BXzdHNDhEZDBrejhTakoycERkZWktYjZBbWRfLWdmU3oySmJmN2xfZnQzRHo0OS1UUFMyb1B1b0NkMDBrTUlfWWRSQ3l0TzNFeDlQZVI1NXUzelBRbDBONkxPWA?oc=5"/>
     <id>https://aimatome.gamelab.website/#f415146b6664</id>
     <updated>2026-11-23T03:55:27.000Z</updated>
     <summary>AUTOMATON</summary>
-  </entry>
-  <entry>
-    <title>OpenRouter が 3 社の推論プロバイダーを除外など、11/23 の AI ニュース</title>
-    <link href="https://qiita.com/xdaily/items/65243422eb172730a5ae"/>
-    <id>https://aimatome.gamelab.website/#4910633dad2b</id>
-    <updated>2026-11-23T03:54:20.000Z</updated>
-    <summary>Qiita ／ 開発に関わる AI のニュースを毎朝まとめています。各項目の最後に出典へのリンクを付けています。 2026年11月23日更新。今日は 5 本です。 今日の 3 本 OpenRouter、推論プロバイダー 3 社を除外し 125 エンドポイントを ZDR 対象外に...</summary>
-  </entry>
-  <entry>
-    <title>AIコーディングにおけるコンテキストコストはますます高騰している——Tairがその課題を解決する新機能を提供。ぜひ皆様に試していただきたい</title>
-    <link href="https://qiita.com/alibabacloud-sa/items/b60da80be2a39f5123e6"/>
-    <id>https://aimatome.gamelab.website/#08d87126a6a8</id>
-    <updated>2026-11-23T03:43:53.000Z</updated>
-    <summary>Qiita ／ 前回は、「繰り返しのリクエストが無駄なコストを生む」という課題についてお話しし、Tair Semantic Cache機能をリリースしました。この機能には600人以上の開発者がすでに参加し、類似した質問に対してLLMによる推論をゼロから実行する必要がなくなりました。Tair...</summary>
-  </entry>
-  <entry>
-    <title>データベースのためのGit：PolarDBがエージェントに安全な実験環境を提供</title>
-    <link href="https://qiita.com/alibabacloud-sa/items/df9dd157b48330fb7235"/>
-    <id>https://aimatome.gamelab.website/#a8d41f34174d</id>
-    <updated>2026-11-23T03:42:08.000Z</updated>
-    <summary>Qiita ／ 著者：王 康（Wang Kang） LLMアプリケーションは、チャットボットからエージェントへと進化しています。チャットボットは質問を理解し、情報を検索して回答を生成します。一方、エージェントはさらに一歩進み、タスクを分解し、ツールを呼び出し、データを読み取り、操作を実行し...</summary>
   </entry>
   <entry>
     <title>OpenAIの著名な科学者が、AI開発のペースを「減速」させるよう求めている。</title>
@@ -71,13 +106,6 @@
     <summary>Infoseek</summary>
   </entry>
   <entry>
-    <title>AWS AIプラクティショナー試験対策⑩：プロンプトエンジニアリングの手法</title>
-    <link href="https://qiita.com/IT-love-pug/items/159ff8efa05e123594dd"/>
-    <id>https://aimatome.gamelab.website/#7516811cf2c2</id>
-    <updated>2026-11-23T03:17:54.000Z</updated>
-    <summary>Qiita ／ AWS認定AIプラクティショナー（AIF-C01）試験対策の連載第10回です。分野3「基盤モデルの応用」のタスク3.2「プロンプトエンジニアリング」を解説します。 この記事で分かること プ...</summary>
-  </entry>
-  <entry>
     <title>Suno、楽曲に合わせた動画を生成する「Visuals」公開 歌詞のリップシンクや画像生成にも対応</title>
     <link href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QTWhhTjhiS0lJd0RRV25iUU5Vb2V0SVNNN3ZsNmFqQ1k1ZjA1aTJNcFhRUkhGR190NGFiYWRrMThJWHhHczdFRUNqZUc3YkcwV003N2J3QjNCb3RucHBr?oc=5"/>
     <id>https://aimatome.gamelab.website/#a8a2bb9dd255</id>
@@ -90,13 +118,6 @@
     <id>https://aimatome.gamelab.website/#65c1764def4e</id>
     <updated>2026-11-23T03:05:00.000Z</updated>
     <summary>BigGo ファイナンス</summary>
-  </entry>
-  <entry>
-    <title>「AIが使える」だけでは生き残れない？ 求人729％増の新職種「FDE」とは（AMP［アンプ］）</title>
-    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBzMFJ1M2MxRnFWcVJ0Wjg5S1hiakozWjZfNE1mX3JnY0VaUGJleDBueWNMVW5yTEVQMnBCenVFRDBvQkRLc1lEbHZZNVM0aXROT2dfclQyWXJTR2J4NGxsTUFzUVpYSkx1Um1BWmJ0aHMtcVdpVVlrZWxhVXNTQXc?oc=5"/>
-    <id>https://aimatome.gamelab.website/#5551975c5934</id>
-    <updated>2026-11-23T03:04:46.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
   </entry>
   <entry>
     <title>福井県内最大の美術公募展が開幕、7部門639点ずらり 生成AI活用作も展示「見比べて表現の可能性を考えてほしい」</title>
@@ -118,13 +139,6 @@
     <id>https://aimatome.gamelab.website/#d7622bcb0ee9</id>
     <updated>2026-11-23T03:00:00.000Z</updated>
     <summary>ASCII.jp ／ AMDが7月に開催したAdvancing AI 2026でEPYC 9006の概要を紹介。9月30日にはホワイトペーパーを公開。そして11月10日にAMD in Depthを実施し、ここでZen 6/6cコアの詳細なども公開した。</summary>
-  </entry>
-  <entry>
-    <title>スーファミでChatGPT！220万パラメーターの小型AIを実機で動かすデモが公開</title>
-    <link href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5OVFGRFlUdkNLbmwwTmh2dkRCZ01WRWpHVUdiZVdJSWhnYktCLWVaOXZvNVVJbVR0ak9ZNU12RDljMWEzdUNxbm5JQVVFR3F0bHJVaGlQQi1ZTWQ5LUFR?oc=5"/>
-    <id>https://aimatome.gamelab.website/#ee6f3fc8dbcf</id>
-    <updated>2026-11-23T02:56:21.000Z</updated>
-    <summary>千葉テレビ放送株式会社</summary>
   </entry>
   <entry>
     <title>AIがカメラ映像を見て清掃ロボットに指示!? NTT西日本とアイリスが新技術を実証</title>
@@ -202,13 +216,6 @@
     <id>https://aimatome.gamelab.website/#d03250b69b05</id>
     <updated>2026-11-23T02:00:00.000Z</updated>
     <summary>Business Insider Japan ／ OpenAIを題材にした映画『Artificial』の、一見すると生成AIで作られたかのように見えるポスターが、実際には人間の手描きによって制作されていたことが分かった。 人間のアーティストが、水中に沈みかけた橋から逆さまに飛ぶ飛行機まで、AI特有の破綻を模した数多くの奇妙なディテールを意図的に描き込んだ。 Open…</summary>
-  </entry>
-  <entry>
-    <title>2024年創業の新興depthfirstが手がけるAI、ウェブの約7割を支えるPHPに深刻な脆弱性を発見</title>
-    <link href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQnhITmVZTDNmQjZLX2ZidTgwLWdwb2RJZFBfaW9NYjJpdkNHNmlGQ3Y5UHg4bGRPZUhNWFF1em9TU09ZYlctNjVfYnNlcFpJSGJ2MDFJQmJnd2RLS2VLakFSZkVNNmpEbnhLYUpOclBNRzJDSTh3V3ZEQkZnOUs1NGF1dzA1R3Aw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#09e65757a7ad</id>
-    <updated>2026-11-23T02:00:00.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
   </entry>
   <entry>
     <title>Hancom、AI従業員プラットフォーム「Nomadian」が米国上陸…AWS販売網との連携を推進</title>
@@ -349,12 +356,5 @@
     <id>https://aimatome.gamelab.website/#79e752de242e</id>
     <updated>2026-11-23T00:30:00.000Z</updated>
     <summary>ASCII.jp</summary>
-  </entry>
-  <entry>
-    <title>AIの危険性を訴える投資家、アンソロピック上場で資産約2.9兆円に増加</title>
-    <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE94U2poZld0UDFHRFU2b1lERElxZDVRa2Z5NnRjUWdGZlV2SVV3QUJpWlNFWXluSk1BUWFyQkc5akxDQVlNbE5JS3ROYkJLSXc0VUNoZ09ObUdhdVF4Y2NQU3JfN0pkcWJJUEJldzVQeEFYajBJWlc0ZnRTOWdRUkk?oc=5"/>
-    <id>https://aimatome.gamelab.website/#6f2b88c1b7f3</id>
-    <updated>2026-11-23T00:30:00.000Z</updated>
-    <summary>Yahoo!ニュース</summary>
   </entry>
 </feed>
