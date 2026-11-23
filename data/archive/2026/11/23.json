@@ -1,5 +1,83 @@
 [
  {
+  "id": "19633ad11b17",
+  "title": "アプリは家庭料理になった クローンソフトの時代の到来",
+  "url": "https://qiita.com/hisashi-ito/items/f9aa046fc326886b1b87",
+  "source": "Qiita",
+  "summary": "AI のコーディングエージェントで、ソフトウェアを作る手間は大きく下がりました。プログラムを本職にしていない人でも、自分の仕事や暮らしに要る道具を、自分で作れるようになりました。 ただ、そうして作られた道具を眺めていると、「それ、もうありませんか」と言いたくなることがよくあ...",
+  "publishedAt": "2026-11-23T12:27:29.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2a191a772e4e",
+  "title": "曲の一部だけ差し替えるとき、変えない区間をどう確かめるか",
+  "url": "https://qiita.com/creatunealex/items/3c4a3499c07fc91163ee",
+  "source": "Qiita",
+  "summary": "サビの一行だけ直したいのに、曲全体を作り直す必要があるのか迷うことがあります。区間編集を使う前に「変える場所」と「残したい前後」を分けてメモしておくと、完成版を確認するときの基準ができます。 Creatune チームの Alex です。この記事では、公開ページのAI楽曲部分...",
+  "publishedAt": "2026-11-23T12:27:04.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f0dc5bdb4d60",
+  "title": "【独自】非公表捜査情報の検索禁止を通知 最高検、AIによる漏えい防止で",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tRUFDS21hcXZJMXduWm5ValJqN09ZYThUY3EwTmdPR2tOekRNWU9VVEUwSklhZmQ3NGZlU2NnR3Y3UGJISG0wbjhoSGVGMTJRRHdCUVl3cU9kdw?oc=5",
+  "source": "北海道新聞デジタル",
+  "summary": "",
+  "publishedAt": "2026-11-23T12:07:49.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5bc1728592bb",
+  "title": "検察捜査における生成AI（人工知能）利用による情報漏えいのイメージ - 【独自】非公表捜査情報の検索禁止を通知 最高検、AIによる漏えい防止で - 写真・画像(1/1)",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CajF6S0pUT0tWbUdaN1pHbV8ySC1sd012X2pyRU9OZWl6dG9lU3VxeEVienhjOVp2OXc0YzlsVHFEdUR4UUVXTGwzbVJhWnNfQXp6Q2VuZw?oc=5",
+  "source": "西日本新聞me",
+  "summary": "",
+  "publishedAt": "2026-11-23T12:07:41.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "a49dfc485df9",
+  "title": "Rust + axum 0.8 で 308 Permanent Redirect を 1 本のミドルウェアで最短実装する (www・HTTPS・末尾スラッシュの 3 正規化 + テスト 3 本)",
+  "url": "https://qiita.com/locallab/items/60db3137d1761a76e9fd",
+  "source": "Qiita",
+  "summary": "TL;DR axum::response::Redirect::permanent は 308 Permanent Redirect を返す。301 と違い メソッドとボディが保持される www 統一・HTTPS 化・末尾スラッシュ除去は、別々に書くと リダイレクト...",
+  "publishedAt": "2026-11-23T12:00:57.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "44e2da116af1",
+  "title": "韓国のSKテレコム・KT・LG Uplus・Naver、AIエージェントによる顧客センター相談を遮断…法的地位の空白が原因",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lbmhfSlVLM0RDYnRFUGhpeHNDaGlPek9HcGxUYm9TLWplVDNtUUVhQ0tuV251VDVLLS1Cc1ZvRXFfS2JwemJ4a1pwM2NheXQ2YmN6WHdlMUpfZDRTbk1LNnhrTk8xU2V1UlFNU2NLdzdHM3o4?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-23T11:55:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "5e932ac3260f",
   "title": "AIエージェント同士を連携させる：ツール間のコピー＆ペーストを減らすコンテキスト共有の設計",
   "url": "https://qiita.com/hervekom37/items/d3f6601cf3bc93691977",
@@ -91,6 +169,32 @@
   "isPR": false
  },
  {
+  "id": "e5a9d9f46300",
+  "title": "agy（Antigravity CLI）のモデル7通りに同じ3課題を解かせた",
+  "url": "https://zenn.dev/hiroxasobiba/articles/agy-seven-models-same-three-tasks",
+  "source": "Zenn",
+  "summary": "個人で Android アプリを作っています。普段は Claude Code が中心ですが、Google Antigravity の CLI（以下 agy）も使っています。agy は、1つの画面の中で Gemini の各モデルや Claude などのモデルを選べます。 選べるとなると、どれを普段使いにするか決めたくな…",
+  "publishedAt": "2026-11-23T11:06:34.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "770637e62ef8",
+  "title": "Codex のリセットをどう見張って、どう「来た」と判定したか",
+  "url": "https://zenn.dev/mochiai/articles/2848f2df8b205a",
+  "source": "Zenn",
+  "summary": "こんにちは、Mochiです。 OpenAI の Codex には、使用量の枠が回復する「リセット」があります。全員一斉に枠が戻るグローバルなリセットと、貯めておける回復枠（banked full resets）が配られるタイプの2種類です。枠の残りで作業のペース配分が変わるので、「リセットが来たかどうか」は地味に大事…",
+  "publishedAt": "2026-11-23T11:05:44.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "dd4ebe20422d",
   "title": "マスク氏、CZのGrok Bot実験に一言返答 AIエージェント取引データに注目集まる",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42UGtvck1SVVBlbk91TnhTN2dEclVfY0ozdEd4LUg3dE1ycXVEX2NlOGZhdnhWd0VKd3l2WUJRNUdKczZDNUxIZ1BMdVlQdlRmbzczZVJ3Tl95V3g0UVpVclJwd29ub3J1WVlHaWZ0aEdDV1VO?oc=5",
@@ -143,6 +247,32 @@
   "isPR": false
  },
  {
+  "id": "01507488f3eb",
+  "title": "【個人開発】タスクと作業時間を、テキストファイルで自分のフォルダにしまう Mac アプリ「Fubako」を作りました",
+  "url": "https://zenn.dev/yuya8696/articles/f8c1d68295b39a",
+  "source": "Zenn",
+  "summary": "! この記事は AI（Claude）と一緒に書きました。 タスクと作業時間を、テキストファイルで自分のフォルダにしまっていく Mac アプリ「Fubako（文箱）」を作りました🙌 Mac App Store で配信しています。 左に「引き出し」（時刻のない行）、右に「予定」と「実績」の 2 本の帯 個人的にタスク管…",
+  "publishedAt": "2026-11-23T10:41:34.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2faa5fed1981",
+  "title": "AI エージェント時代の Tailwind CSS ― デザインシステムを機械的に守る CSS コンパイラ「Stillwind」",
+  "url": "https://zenn.dev/abelia/articles/introducing-stillwind",
+  "source": "Zenn",
+  "summary": "AI エージェントにフロントエンド開発を任せるほど、プロンプトの工夫以上に、検証や制約を担うハーネスの重要性が増してきます。なかでも、間違いをツールで機械的に検出し、エージェント自身が修正できるループを整えることが欠かせません。型チェックやテスト、Linter ではこのループを回しやすい一方、Tailwind CSS…",
+  "publishedAt": "2026-11-23T10:40:05.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "7c1576bb33f2",
   "title": "お客様が来店し「〇〇はセール対象ですよね？」と聞かれたのでセール対象外と説明、するとChatGPTの画面を見せて「対象店舗と書いてある」と主張…確認したらやはり対象外",
   "url": "https://togetter.com/li/2774063",
@@ -169,6 +299,33 @@
   "isPR": false
  },
  {
+  "id": "e6dd723663ff",
+  "title": "設計の前に「なぜ」を固定する — 52行のスキル why-first を実測した",
+  "url": "https://zenn.dev/ptux/articles/extra-why-first-skill",
+  "source": "Zenn",
+  "summary": "起きる現象：解決策先行の依頼をそのまま渡すと何が起きるか 「社内 AI 基盤を作りたい」「100 個以上ある LLM を自動で振り分けるプラグインを作って」といった依頼をそのまま AI エージェントに渡すと、驚くほど速くアーキテクチャ図やコードが返ってきます。 問題は、「そもそも何のためにやるのか」「何をあきらめるの…",
+  "publishedAt": "2026-11-23T10:27:56.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f9a841cf2acc",
+  "title": "孫正義氏「アンソロピックは僕の失敗」 OpenAI一本槍の代償、ソフトバンク株は高値から3分の2消失",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VUVB3em5Eb05UZzdCV3d2VlltckhxWjBqVnFZb0xfSUZOTGRiSDkxWGhxdWVWby1sNkU5VFBJejY0di1zTGRFWDBuTjFBdG42Qlk4dnZvVWhlNGVidzdsRkdSUnAzOElnTkE5ak0yUHNRLXVf?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-23T10:25:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "46a628e4ae33",
   "title": "GitHub Copilot の「AIへの指示書」まとめ：copilot-instructions.md / Skills / AGENTS.md / カスタムエージェント（VS Code / Copilot CLI）",
   "url": "https://qiita.com/gataca27/items/aa0b87bdf13e2219d6c1",
@@ -178,6 +335,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f2b1b36572d1",
+  "title": "「アプリを作る仕事」は2028年に終わる？リーマン予想証明後のAIエージェント時代に残る技術・消える技術",
+  "url": "https://zenn.dev/ainohogosya/articles/84a81ac1e1ed16",
+  "source": "Zenn",
+  "summary": "! この記事の3行まとめ 2026年秋からの「常駐型Bots」とClaudeによるリーマン予想の形式証明で、AIのフェーズは完全に変わった。 これからのアプリは「探して使う」ものから「AIがその場で使い捨て生成する」ものへ。ただし裏側のAPI・決済インフラは生き残る。 2028年末にAIの自己改善が人間の開発速度を追…",
+  "publishedAt": "2026-11-23T10:14:56.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -266,6 +436,19 @@
   "source": "Gizmodo",
   "summary": "",
   "publishedAt": "2026-11-23T10:00:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4a677251d485",
+  "title": "Codexの資料収集で未読が1件。追加と読み取りのログを追う",
+  "url": "https://zenn.dev/honabochi/articles/codex-collection-unread-log",
+  "source": "Zenn",
+  "summary": "list には資料が二つ並ぶ。read の記録は一つだけ。架空の展示「紙の港」で、初日が木曜だと分かっても、入口に見取り図を置く話は報告にありませんでした。 同じローカルCLIを使い、最初の接続状態を戻してから、未接続の資料を扱う一文だけ入れ替えました。どちらも新しいCodexセッションで、途中の指示はありません。二…",
+  "publishedAt": "2026-11-23T09:59:40.000Z",
   "image": "",
   "categories": [
    "other"
@@ -365,6 +548,32 @@
   "isPR": false
  },
  {
+  "id": "3b3998e93f91",
+  "title": "AIが直したのにQt Creatorにエラーが残る：再修正の前に見る3か所",
+  "url": "https://zenn.dev/sugitakenji/articles/f657108741937e",
+  "source": "Zenn",
+  "summary": "AIから「関数名の誤りを直しました」と返ってきました。ところが、Qt Creatorの「問題」ビューには同じ診断が残っています。 もう一度「まだ直っていません」と頼む前に、修正したファイル、エディターの表示、今回のビルド結果を見比べます。三つが同じ時点の内容を示しているとは限らないからです。 この記事はSRAの技術記…",
+  "publishedAt": "2026-11-23T09:34:14.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2f7780bd6515",
+  "title": "クラシックRAGを最小限のコードで作る（OpenAI APIとNumPyだけ）",
+  "url": "https://zenn.dev/salesanalytics/articles/693f58e829040b",
+  "source": "Zenn",
+  "summary": "RAG（検索拡張生成）は、「資料を探して、AIに渡して、答えてもらう」仕組みです。言葉にすると簡単ですが、自分で作ってみると、どこまで答えられて、どこから答えられなくなるのかがよくわかります。 この記事では、もっとも基本的な__クラシックRAG__を、専用のライブラリを使わずに作ります。使うのは OpenAI API…",
+  "publishedAt": "2026-11-23T09:31:25.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "9c0dd9cb8b28",
   "title": "何度閉じても退会できないダイアログ、燃えるToDo、崩れる404：AIに「ありえない画面」を6つ作らせてみた",
   "url": "https://qiita.com/gts/items/5de4161476861afb7305",
@@ -418,6 +627,19 @@
   "isPR": false
  },
  {
+  "id": "6e9341cda59b",
+  "title": "150万トークン長期記憶（LongMemEval-M 90.0% / S 95.0%）の選証設計と1,000問0漏洩監査",
+  "url": "https://zenn.dev/zeroos_fidwell/articles/740af3294b95a4",
+  "source": "Zenn",
+  "summary": "大規模言語モデルを企業の情シス運用や業務エージェントへ組み込む際、PoCの単発対話では高精度に見えるにもかかわらず、半年〜1年分の会議議事録・障害対応チャット・ルール改定履歴が蓄積すると回答精度が急落する現象が起きます。原因の多くは「全履歴の単純プロンプト詰め込みによる注意散漫」と「検索・推論・評価境界の混濁」にあり…",
+  "publishedAt": "2026-11-23T09:24:14.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b513900e9ff5",
   "title": "cmHCの導入：幾何収縮によるAIモデルの安定性向上",
   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sODl0dm1NRm9zNHBZRnAtVXpWOTNVWnZNVFF4dEZwYWRNd3FHaVlWaVFKQnJPTXhOaHNrLUJ4b1V4MndhN1dEX0pPU0RCMklOamZQVk14RmJ0UFZYM0F3RS1XcFhndFh5SUNQaENhbUdXY1lCWkZR?oc=5",
@@ -427,6 +649,32 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "41401857b5bb",
+  "title": "約20万字の、わりとミステリの書式に沿ったミステリを休日1日で完成させた話",
+  "url": "https://zenn.dev/infra_ojisan/articles/ai-novel-studio-mystery-twin",
+  "source": "Zenn",
+  "summary": "! この記事は、AIと書いた長編ミステリ『そして二人が残った』の作り方の記録です。真相（誰が誰を殺したか）には触れません。舞台の仕掛けと、読者に公開している設定には触れます。 はじめに AIに小説を書かせる「制作スタジオ」の記録の続きです。グラウヴァル第一シリーズを閉じたあと、年内にやりたいことの一つ目に挙げていた「…",
+  "publishedAt": "2026-11-23T09:15:46.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3ca90c387499",
+  "title": "Google が Gemini をブラウザーへさらに深く組み込むなか、Chrome のページ内検索でさえ安全ではありません",
+  "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQS2wybkRUU0E5N0h0bW9lcHFLVHcydzltMlp2MjBlWEtiUzFhY2xUUEtNeS1WRWhSY1E3WEZLb2ExNGtaNDFnWU9MRnlQMjVvZ1FHWWhZcEFRSW8xRk13YjZ5RTFaTk5JR0NLWUpteGI4akRjNU5YNS1iVHNyZTRkN2ZoSEhXUmtYUGd4LTRhcWtQWjg3c1RsU1hxNGpEM19jcjRHb0tmX09HMVZNaE1yVFNFT2lvc1o0R2k5a0RYWGo5U2t0RG5MQTNJMG8wVGhoS3Q2TkQ5R3l1YndtQ3hTemowTkU1YnVKeFhQSVRFQ1ZXcGZ0dVl6dEZ0cjdVUlZNMGkzMExqUkRFUlRjMk81SlRra3IxNVdLb3BkN05abl9mSWQ3RGVDdDBqLUVheHNBaHctWEVHVEpUOUcwVkhfak1QUUdYM1J6S3ZZRE5aSQ?oc=5",
+  "source": "Windows Report",
+  "summary": "",
+  "publishedAt": "2026-11-23T09:11:34.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -524,6 +772,33 @@
   "isPR": false
  },
  {
+  "id": "b937b4e4cc48",
+  "title": "AIの下書きに「確認済み」と書かれた数字は、元の記事を読むと単位が違っていた",
+  "url": "https://zenn.dev/ai_shihan/articles/97a9ce0dd2c699",
+  "source": "Zenn",
+  "summary": "X の投稿は、AI の席（広報部）に任せています。ネタの下書きを書くのは、別の AI（X 担当）です。広報部は、下書きの事実を元の文面と突き合わせてから出す決まりで動いています。 11月23日の朝に届いた下書きは、OpenAI が公開した事前学習の進み具合の話でした。下書きの末尾には「数字は OpenAI の記事で確…",
+  "publishedAt": "2026-11-23T08:49:50.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2a18a8933228",
+  "title": "【個人開発】開発のコンテキストスイッチをゼロにする次世代AI統合環境「S AI studio」の全機能・設計思想・実践ワークフロー徹底解説",
+  "url": "https://zenn.dev/smariri/articles/8ac132a2ce18d7",
+  "source": "Zenn",
+  "summary": "おすすめトピック（タグ） ai 個人開発 webアプリ 生成ai フロントエンド ! 「S AI studio」はブラウザからインストール不要・無料ですぐにお試しいただけます \ud83d…",
+  "publishedAt": "2026-11-23T08:49:26.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "04a1a963f450",
   "title": "AI使うなら注意すべき10ヶ条（2026年11月版）",
   "url": "https://qiita.com/suzuki_sh/items/c3d02afac836b695b53a",
@@ -589,6 +864,34 @@
   "isPR": false
  },
  {
+  "id": "39c131ed2966",
+  "title": "AI脆弱性診断：読み取り専用のDBアカウントが、なぜ安全境界にならないのか",
+  "url": "https://zenn.dev/hackbox_ai/articles/9df8658d7b187c",
+  "source": "Zenn",
+  "summary": "2026 年 11 月 18 日、ある脆弱性研究企業が PostgreSQL、MySQL、Oracle、ClickHouse の 4 製品に対するエクスプロイトチェーンを公開した。注目すべきは個々のバグ識別子ではなく、そこへ到達するのに必要だった権限の低さだ。アプリケーションのテーブルを一行も読めないアカウントでも、…",
+  "publishedAt": "2026-11-23T08:33:12.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "975c72ed9660",
+  "title": "AIが作りAIが決める時代に、人は何を「判断」するのか？",
+  "url": "https://zenn.dev/ncdc/articles/a522c2c50022d2",
+  "source": "Zenn",
+  "summary": "この記事を書くキッカケ 最初に、少し長くなりますがこの記事を書くキッカケから書こうと思います。 前回の記事で、MCP Appsの各種機能を実際にアプリを作って動かすことで試してみました。 https://zenn.dev/ncdc/articles/8cfbf2d20eec93 このお試し用のアプリを作るときに、Cl…",
+  "publishedAt": "2026-11-23T08:30:05.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "ab2713c9d001",
   "title": "台湾でAIエージェント関連求人が今年3.5倍に急増 伝統産業にも人材獲得競争が波及",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yQ09YNDQtV1N2b0ktcHBsWVlaTElzWktLa0ZmYm9wbGI0ZVB4c0ZtMnFzeTduNmRMUllwT0RNM3RSUVp4aEVLTm95ZURkTUZ5ZlA0LWZDX21SZzVPMHVYVHBYQ1RQSFY2ZFJ2LThhQXQ4aFd5?oc=5",
@@ -642,12 +945,39 @@
   "isPR": false
  },
  {
+  "id": "6d300c9d9628",
+  "title": "ChatGPT の速さを支える OpenAI の Performance Factory",
+  "url": "https://openai.com/ja-JP/index/how-openai-performance-factory-keeps-chatgpt-fast/",
+  "source": "はてなブックマーク",
+  "summary": "エージェントを活用した開発の驚異的なスピードにより、従来のパフォーマンスエンジニアリングの手法では対応しきれなくなっています。このスピードに対応するため、私たちは Performance Factory を構築しました。Codex と OpenAI のモデルの能力を最大限に活用し、性能劣化をかつてない速さで発見・修正…",
+  "publishedAt": "2026-11-23T08:01:24.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fopenai.com%2Fja-JP%2Findex%2Fhow-openai-performance-factory-keeps-chatgpt-fast%2F",
+  "categories": [
+   "dev",
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "57c34c2af45b",
   "title": "AWS AppConfigによるAIモデルとプロンプト管理",
   "url": "https://qiita.com/ys-yoshida/items/721c027a07629c6ba0f1",
   "source": "Qiita",
   "summary": "はじめに 2026年11月19日、AWS AppConfig に生成 AI アプリ向けの設定プロファイルタイプが 2 つ追加されました。 AI モデル呼び出し設定（AWS.AppConfig.AIModelInvocation） AI プロンプト設定（AWS.Ap...",
   "publishedAt": "2026-11-23T08:01:09.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "13d49bd0129e",
+  "title": "リアルタイムAIに「カンペ」を届ける。Gemini Live APIと優先度付きCUEキューの設計",
+  "url": "https://zenn.dev/kotocraft/articles/78d4b415827cff",
+  "source": "Zenn",
+  "summary": "はじめに こんにちは、個人でリアルタイムAI英会話Webアプリ「KotoCraft（コトクラフト）」を開発している「しげしげ」です。 以前の記事「AI英会話アプリを作ったら、AI講師が時間を守ってくれなかった話」では、AIにレッスン全体の進行を丸投げせず、アプリ側（舞台監督）が裏から「カンペ（アプリ側から送る制御用C…",
+  "publishedAt": "2026-11-23T08:00:58.000Z",
   "image": "",
   "categories": [
    "product"
@@ -943,6 +1273,19 @@
   "isPR": false
  },
  {
+  "id": "675b03df5122",
+  "title": "スライド生成AI「ChatSense」、文章だけで複数ページをまとめて修正可能に | 鹿児島・九州プレスリリース | 生活情報 | くらし",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYXprbXQ5bjBIZmgzbGFsYW12MjhEdlBINTU4cUtFQU9wbW1mb1Z4c0FIWnRYS05KQldWSFEzNDkzUjBKN205UTlMQjdLM0IwQkJlRTFzeExyekd4R1lEYmwyc0dqZW9XTW5wd0IxUnFQRkJrODFRaE85M3FtNmsyUl9B?oc=5",
+  "source": "南日本新聞",
+  "summary": "",
+  "publishedAt": "2026-11-23T07:03:26.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "df292069fac6",
   "title": "会議にボットを入れずに、2秒で事実確認＆ローカルMCP連携するネイティブMacアプリ「Citeside」を作った話",
   "url": "https://zenn.dev/citeside/articles/64fb05116ab0e1",
@@ -1125,19 +1468,6 @@
    "dev"
   ],
   "isPR": false
- },
- {
-  "id": "675b03df5122",
-  "title": "スライド生成AI「ChatSense」、文章だけで複数ページをまとめて修正可能に",
-  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLRWkwNmVZNzVHOVZfajA2dFA0RTlxVnBGeWZjcnhFSmpsMnZiX01sMllRcGhWUksxSm1lYXY5MDB2dG5ld296SlF1THVjdEt4QzZoN1I1amtpYkFJNjBhSE80TG5PYWNqTnc?oc=5",
-  "source": "PR TIMES",
-  "summary": "",
-  "publishedAt": "2026-11-23T06:34:10.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": true
  },
  {
   "id": "d6940d47772f",
@@ -1906,6 +2236,20 @@
   "isPR": false
  },
  {
+  "id": "9339f59827ca",
+  "title": "macOSネイティブのAlfred UIやLLMを利用したワークフローを作成できるようになったMac用多機能ランチャー「Alfred v6」がリリース。",
+  "url": "https://applech2.com/archives/20261123-alfred-6-now-availabe.html",
+  "source": "はてなブックマーク",
+  "summary": "macOSネイティブUIを利用したワークフローを作成できるAlfred UIやmacOS 27 Golden Gate向けに刷新した設定画面などを実装したMac用多機能ランチャー「Alfred v6」がリリースされています。詳細は以下から。 英Running with Crayons Ltdは現地時間2026年11月…",
+  "publishedAt": "2026-11-23T03:30:11.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fapplech2.com%2Farchives%2F20261123-alfred-6-now-availabe.html",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "da9a9bcf320c",
   "title": "OpenAIの著名な科学者が、AI開発のペースを「減速」させるよう求めている。",
   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOazVDbmM4RjhjLWQwT1NUekIwSDVySmpILXRXMXcwTHJSSldMZkhKOE1RMHhKMFJKMVJ1aXZfaTlFZWJicGtBMjVMZkFETU03M0hQSVBzUkZ6S0c2OTRxRy00c1lNd2ZpelJoMTZ6R2h3MmRuaVItNzN2Y2lsZDU1bHFjSXJ5cjhKcTBmd1h5TnItWDl0UXhFMQ?oc=5",
@@ -2534,6 +2878,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "bbe6778efe92",
+  "title": "アイテックがFIXERのオンプレミス型生成AIを導入",
+  "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBSlF5UExIdzdOTjh0aWFOb3dPS0RDbF9UbE9SR2dpNWIxUkREUHZwRjhIZFliVml3QXhKRmp5QlF4SGZWWTJJ?oc=5",
+  "source": "Dellows News",
+  "summary": "",
+  "publishedAt": "2026-11-23T01:58:06.000Z",
+  "image": "",
+  "categories": [
+   "case"
   ],
   "isPR": false
  },
@@ -4444,6 +4801,19 @@
   "isPR": false
  },
  {
+  "id": "7776a62de9ec",
+  "title": "【米国プレマーケット】トランプ氏、ジェンスン・フアン氏のエヌビディア指揮権奪還を支持、AI半導体やメモリーが全面高、金は3,600ドル突破",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWlNQNzZNTzFDQXVDZWxNOEpKUVltZUkxNTFSM3dEZkhqdEdvQkg0dG1WaVpMZ0J0a3FTVDQtQmFzdGJkcGJRdGVuZjVNRklhc3V5QVc1bTJiR19Gdno4MndZNWZNSTRSOWh2TmRmODBUSjd0eVItOGEyZFd1NmNsMXhhV0Q2YzBLQTlZcXRPUWp2RnRYd3RVdnE5bF9wM0U1cmI2c2tnSUtBZ2U0MW9JRmVWa1p1Q3pZVzRHRF91SVpCNzg?oc=5",
+  "source": "TradingKey",
+  "summary": "",
+  "publishedAt": "2026-11-22T19:00:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "bd29696a812d",
   "title": "AIに「laptopでX開いて」と頼んだ夜 — iPhoneは踏み台になれるか、AndroidとiOSの壁と自宅のセキュリティモデル",
   "url": "https://qiita.com/nodokaha/items/2084ea7b11c1478f066e",
@@ -4677,6 +5047,19 @@
   "image": "",
   "categories": [
    "business",
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "61a36fc62f0c",
+  "title": "国会議長は、カントー市が稲作に人工知能（AI）を導入することを提案した。",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcXUyUjdMTEFLTnF4Z0ltaVM2TkRRdXV3anlYNjhQT251YWpOUThacW10eVhuZ3dEY3h2cXhRWjFYX29EZEtSTVJNTk83NXQ5WHV3Q1hFQXE3WHRYT2tLM3pqelRLQkpRQUp5M1UxeHVyUVk1aHpST0Fod09jWG9qZjA1MDdaWGhjQUZrOHFTREwzdw?oc=5",
+  "source": "Vietnam.vn",
+  "summary": "",
+  "publishedAt": "2026-11-22T16:57:29.000Z",
+  "image": "",
+  "categories": [
    "case"
   ],
   "isPR": false
