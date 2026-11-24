@@ -1,67 +1,71 @@
 {
-  "updatedAt": "2026-11-24T07:00:23.617Z",
+  "updatedAt": "2026-11-24T07:30:26.150Z",
   "site": {
     "title": "AI matomechatter",
     "tagline": "AI のニュースを、日本語の記事中心に毎日まとめています。",
     "url": "https://aimatome.gamelab.website/",
     "contactUrl": "https://docs.google.com/forms/d/e/1FAIpQLSesWyhmZ6sRS_ve-c3X2KqF_wC5PK2TgwgQbTKmnQltSlg5Jw/viewform"
   },
-  "total": 503,
-  "todayCount": 332,
+  "total": 515,
+  "todayCount": 335,
   "categories": [
     {
       "id": "model",
       "label": "モデル・研究",
-      "count": 50
+      "count": 48
     },
     {
       "id": "product",
       "label": "製品・ツール",
-      "count": 115
+      "count": 114
     },
     {
       "id": "business",
       "label": "ビジネス・投資",
-      "count": 63
+      "count": 64
     },
     {
       "id": "policy",
       "label": "規制・法制度",
-      "count": 31
+      "count": 32
     },
     {
       "id": "case",
       "label": "導入事例",
-      "count": 86
+      "count": 85
     },
     {
       "id": "infra",
       "label": "インフラ・半導体",
-      "count": 58
+      "count": 63
     },
     {
       "id": "dev",
       "label": "開発・技術解説",
-      "count": 52
+      "count": 51
     },
     {
       "id": "other",
       "label": "その他",
-      "count": 166
+      "count": 175
     }
   ],
   "sources": [
+    {
+      "name": "BigGo ファイナンス",
+      "count": 38
+    },
     {
       "name": "日経クロステック",
       "count": 37
     },
     {
-      "name": "BigGo ファイナンス",
+      "name": "Zenn",
       "count": 34
     },
     {
-      "name": "Zenn",
-      "count": 34
+      "name": "Yahoo!ニュース",
+      "count": 22
     },
     {
       "name": "ZDNET Japan",
@@ -72,12 +76,8 @@
       "count": 20
     },
     {
-      "name": "Yahoo!ニュース",
-      "count": 18
-    },
-    {
       "name": "Unite.AI",
-      "count": 13
+      "count": 16
     },
     {
       "name": "ITmedia NEWS",
@@ -89,11 +89,15 @@
     },
     {
       "name": "はてなブックマーク",
-      "count": 9
+      "count": 10
+    },
+    {
+      "name": "日本経済新聞",
+      "count": 8
     },
     {
       "name": "DXマガジン",
-      "count": 9
+      "count": 8
     },
     {
       "name": "디지털투데이",
@@ -104,19 +108,11 @@
       "count": 7
     },
     {
-      "name": "ニコニコニュース",
-      "count": 7
-    },
-    {
-      "name": "日本経済新聞",
+      "name": "Vietnam.vn",
       "count": 7
     },
     {
       "name": "Infoseek",
-      "count": 7
-    },
-    {
-      "name": "PR TIMES",
       "count": 7
     },
     {
@@ -128,11 +124,11 @@
       "count": 7
     },
     {
-      "name": "ASCII.jp",
-      "count": 6
+      "name": "Mezha.net",
+      "count": 7
     },
     {
-      "name": "Vietnam.vn",
+      "name": "ASCII.jp",
       "count": 6
     },
     {
@@ -140,7 +136,15 @@
       "count": 6
     },
     {
-      "name": "Mezha.net",
+      "name": "PR TIMES",
+      "count": 6
+    },
+    {
+      "name": "shiritomo",
+      "count": 6
+    },
+    {
+      "name": "Pasquale Pillitteri",
       "count": 6
     },
     {
@@ -148,15 +152,7 @@
       "count": 5
     },
     {
-      "name": "Chosunbiz",
-      "count": 5
-    },
-    {
       "name": "Jetstream",
-      "count": 5
-    },
-    {
-      "name": "shiritomo",
       "count": 5
     },
     {
@@ -164,11 +160,11 @@
       "count": 5
     },
     {
-      "name": "Pasquale Pillitteri",
-      "count": 5
+      "name": "Qiita",
+      "count": 4
     },
     {
-      "name": "Qiita",
+      "name": "ニコニコニュース",
       "count": 4
     },
     {
@@ -176,11 +172,11 @@
       "count": 4
     },
     {
-      "name": "PC Watch",
+      "name": "Chosunbiz",
       "count": 4
     },
     {
-      "name": "Reuters",
+      "name": "PC Watch",
       "count": 4
     },
     {
@@ -192,15 +188,11 @@
       "count": 4
     },
     {
-      "name": "テクノエッジ TechnoEdge",
-      "count": 3
-    },
-    {
       "name": "TBS NEWS DIG",
       "count": 3
     },
     {
-      "name": "Yahoo!ファイナンス",
+      "name": "テクノエッジ TechnoEdge",
       "count": 3
     },
     {
@@ -212,6 +204,10 @@
       "count": 3
     },
     {
+      "name": "ｄメニューニュース",
+      "count": 3
+    },
+    {
       "name": "Forbes JAPAN",
       "count": 3
     },
@@ -220,11 +216,11 @@
       "count": 3
     },
     {
-      "name": "Ledge.ai",
+      "name": "Reuters",
       "count": 3
     },
     {
-      "name": "窓の杜",
+      "name": "Ledge.ai",
       "count": 3
     },
     {
@@ -232,23 +228,31 @@
       "count": 3
     },
     {
+      "name": "毎日新聞",
+      "count": 2
+    },
+    {
+      "name": "ニューズウィーク日本版",
+      "count": 2
+    },
+    {
+      "name": "4Gamer.net",
+      "count": 2
+    },
+    {
+      "name": "Yahoo!ファイナンス",
+      "count": 2
+    },
+    {
       "name": "STARTUP LOG",
       "count": 2
     },
     {
-      "name": "上毛新聞電子版",
+      "name": "매일경제",
       "count": 2
     },
     {
       "name": "online.bci.co.jp",
-      "count": 2
-    },
-    {
-      "name": "コマースピック",
-      "count": 2
-    },
-    {
-      "name": "ｄメニューニュース",
       "count": 2
     },
     {
@@ -264,6 +268,10 @@
       "count": 2
     },
     {
+      "name": "valuepress",
+      "count": 2
+    },
+    {
       "name": "Excite エキサイト",
       "count": 2
     },
@@ -272,15 +280,11 @@
       "count": 2
     },
     {
-      "name": "TradingView",
+      "name": "Dellows News",
       "count": 2
     },
     {
-      "name": "山陽新聞",
-      "count": 2
-    },
-    {
-      "name": "TECH NOISY",
+      "name": "Meteora Web",
       "count": 2
     },
     {
@@ -290,6 +294,26 @@
     {
       "name": "AINOW",
       "count": 2
+    },
+    {
+      "name": "ニュースメディアVOIX",
+      "count": 1
+    },
+    {
+      "name": "電通デジタル",
+      "count": 1
+    },
+    {
+      "name": "（株）Gakken公式ブログ",
+      "count": 1
+    },
+    {
+      "name": "VIDEO SALON",
+      "count": 1
+    },
+    {
+      "name": "MONOist",
+      "count": 1
     },
     {
       "name": "AppBank",
@@ -304,19 +328,11 @@
       "count": 1
     },
     {
-      "name": "ニューズウィーク日本版",
-      "count": 1
-    },
-    {
       "name": "AdverTimes.（アドタイ） by 宣伝会議",
       "count": 1
     },
     {
       "name": "NHKニュース",
-      "count": 1
-    },
-    {
-      "name": "4Gamer.net",
       "count": 1
     },
     {
@@ -329,6 +345,10 @@
     },
     {
       "name": "BeInCrypto",
+      "count": 1
+    },
+    {
+      "name": "上毛新聞電子版",
       "count": 1
     },
     {
@@ -360,10 +380,6 @@
       "count": 1
     },
     {
-      "name": "매일경제",
-      "count": 1
-    },
-    {
       "name": "Laodong.vn",
       "count": 1
     },
@@ -373,6 +389,10 @@
     },
     {
       "name": "電波タイムズ",
+      "count": 1
+    },
+    {
+      "name": "コマースピック",
       "count": 1
     },
     {
@@ -416,23 +436,11 @@
       "count": 1
     },
     {
-      "name": "大分合同新聞",
-      "count": 1
-    },
-    {
       "name": "徳島新聞デジタル",
       "count": 1
     },
     {
-      "name": "valuepress",
-      "count": 1
-    },
-    {
       "name": "Web担",
-      "count": 1
-    },
-    {
-      "name": "外為どっとコム",
       "count": 1
     },
     {
@@ -444,7 +452,7 @@
       "count": 1
     },
     {
-      "name": "静岡新聞DIGITAL",
+      "name": "共同通信PRワイヤー",
       "count": 1
     },
     {
@@ -456,7 +464,7 @@
       "count": 1
     },
     {
-      "name": "au Webポータル",
+      "name": "TradingView",
       "count": 1
     },
     {
@@ -504,6 +512,10 @@
       "count": 1
     },
     {
+      "name": "窓の杜",
+      "count": 1
+    },
+    {
       "name": "経済産業省",
       "count": 1
     },
@@ -548,11 +560,11 @@
       "count": 1
     },
     {
-      "name": "日経ビジネス電子版",
+      "name": "琉球新報デジタル",
       "count": 1
     },
     {
-      "name": "琉球新報デジタル",
+      "name": "Traders Union",
       "count": 1
     },
     {
@@ -564,14 +576,6 @@
       "count": 1
     },
     {
-      "name": "住宅新報",
-      "count": 1
-    },
-    {
-      "name": "毎日新聞",
-      "count": 1
-    },
-    {
       "name": "東日新聞",
       "count": 1
     },
@@ -580,7 +584,15 @@
       "count": 1
     },
     {
+      "name": "VT Markets",
+      "count": 1
+    },
+    {
       "name": "Cryptopolitan",
+      "count": 1
+    },
+    {
+      "name": "Korben",
       "count": 1
     },
     {
@@ -604,7 +616,11 @@
       "count": 1
     },
     {
-      "name": "Meteora Web",
+      "name": "山陽新聞",
+      "count": 1
+    },
+    {
+      "name": "ニュースイッチ by 日刊工業新聞社",
       "count": 1
     },
     {
@@ -620,7 +636,7 @@
       "count": 1
     },
     {
-      "name": "innovaTopia",
+      "name": "北海道新聞デジタル",
       "count": 1
     },
     {
@@ -636,15 +652,7 @@
       "count": 1
     },
     {
-      "name": "Informat.ro",
-      "count": 1
-    },
-    {
       "name": "ライブドアニュース",
-      "count": 1
-    },
-    {
-      "name": "Dellows News",
       "count": 1
     },
     {
@@ -669,8 +677,8 @@
       "image": "https://japan.cnet.com/storage/thumbnails/thumb-184xauto-1342947-file.jpg",
       "leadSource": "CNET Japan",
       "publishedAt": "2026-11-24T06:16:00.000Z",
-      "sourceCount": 11,
-      "articleCount": 12,
+      "sourceCount": 10,
+      "articleCount": 11,
       "categories": [
         "product",
         "dev"
@@ -731,10 +739,10 @@
           "isPR": false
         },
         {
-          "title": "Anthropic、コード迅速化支援「Claude Ship」提供",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wRWtvN1F4aThaTUxaMXE5dHN3Q2x2QmxPX1A5NDhsQUxrU0xuOGxyR3JVb0ItNkxleTUwQzE2RTI4QVZWOTRRWW05cFg0cUZOcVhUSTUwOERFdmNWMEtiS18yQ09YWmxsTUJ0emdqajg4QmZxbzJ6Ng?oc=5",
-          "source": "TradingView",
-          "publishedAt": "2026-11-23T20:00:22.000Z",
+          "title": "Anthropic、Claude Shipにプルリクエストの修正・承認機能を追加",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOHFiWDhDVDNUNU50RExrbVlHdTl2R0xZTVRtTm9KUzgxTF92NXdTdnJRNWRhamhhOFNZWDVZby1JeWVkNFhjRmk1bUFOTFZGMjR3dzVpUWVaRlNxVGJXMmtDVkpYZTB0OVh5MVRyMmdnU0xuUU9fYlAxenhnQWl5S1Bkd0RQY1hsbklCZ3FTSUZNMDhuLXg0ekN1Yw?oc=5",
+          "source": "Mezha.net",
+          "publishedAt": "2026-11-23T13:04:00.000Z",
           "isPR": false
         }
       ]
@@ -747,8 +755,8 @@
       "image": "",
       "leadSource": "Impress Watch",
       "publishedAt": "2026-11-24T03:42:14.000Z",
-      "sourceCount": 7,
-      "articleCount": 8,
+      "sourceCount": 8,
+      "articleCount": 9,
       "categories": [
         "product",
         "other"
@@ -807,62 +815,12 @@
           "source": "Mezha.net",
           "publishedAt": "2026-11-23T11:03:00.000Z",
           "isPR": false
-        }
-      ]
-    },
-    {
-      "id": "d1d01790430c",
-      "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
-      "summary": "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。",
-      "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
-      "image": "",
-      "leadSource": "ITmedia AI+",
-      "publishedAt": "2026-11-23T01:42:23.000Z",
-      "sourceCount": 6,
-      "articleCount": 6,
-      "categories": [
-        "dev",
-        "model"
-      ],
-      "keywords": [
-        "Claude",
-        "リーマン",
-        "予想"
-      ],
-      "articles": [
-        {
-          "title": "【解説】リーマン予想、Anthropicの数学者がClaudeと証明と主張 Leanの検証は大半を通過",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiX1RyNl9rb3c4d2FGODFjMU1FOENidzBtd1Z2blZBQ1pVR2hVSzhtYzk4a0Nobmt3WWFwazdjMlhDcUhGUnNyTjRqbzFnUkJBN1Zr?oc=5",
-          "source": "innovaTopia",
-          "publishedAt": "2026-11-23T01:42:23.000Z",
-          "isPR": false
         },
         {
-          "title": "Anthropic研究者、Claudeでリーマン予想を証明と主張 Leanの1737万行超を公開",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0RfLVpfRTZDR0dpY0xrV2RLdldTRFJJOGN0R05LbXcyMEctLWF1M0FmbXNIZEhVQmJrZDNsSmVRUnVHa0xsRGFhbndhaFRWOTROVWpndDUxbXNnVm4ydy1icDdWODdoVjJWQ1ZMUDNsMFg5U0Z5OHZRN0ltMW5LNmZMa256VXIxXzl0ZWNvdkwycTNOWEtoV1BVZTZwRTB4MFFkOFJFbm5DN0FDejg5eHpsQQ?oc=5",
-          "source": "디지털투데이",
-          "publishedAt": "2026-11-23T00:42:11.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Anthropicの研究者が、Claude AIを用いてリーマン予想を証明したと主張",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMVRvd0xGUHlqM2JFSGJqNWJYZDZyTjlsZTFCTjZnUkU4b2ptcXlhODV2NVJGWmxoekdtQ1RlR2dTa1BvQkJUV0tjc0pQQTd2d1loMGdGS1NVNmk5UDZZaC1PUjZ2QVpadFRSRThnVUNZZi1kel9mRndCeUtKcnZONlNwYkNrQlhSdW9URWh3NUZFY2hFNnhGQVhXUEpsVXpPQkRfUjVoVnFKdXJBX3RKNnB6cjA1ZElMQ015Nnl0VQ?oc=5",
-          "source": "Informat.ro",
-          "publishedAt": "2026-11-22T14:40:06.000Z",
-          "isPR": false
-        },
-        {
-          "title": "Anthropic研究者、Claudeと数学の未解決問題「リーマン予想」を証明と発表",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XZ05mWVJla2ZOOU1vQk1iSkNESUN5V2tjTTNTUE5Zci1TS3FSWUVzVF94Skw3T0RpLW0xbmgtSW9sR0lDTi1vTktMOHNoWEp6RVdaSlhmZWcwMW8yR3U0?oc=5",
-          "source": "ライブドアニュース",
-          "publishedAt": "2026-11-22T14:22:17.000Z",
-          "isPR": false
-        },
-        {
-          "title": "リーマン予想の証明、Lean開発者らが「正しい」と声明 Claudeを使って発見",
-          "url": "https://japan.cnet.com/article/35255270/",
-          "source": "CNET Japan",
-          "publishedAt": "2026-11-21T21:39:00.000Z",
+          "title": "Googleは、Gemini上で無料のGIF作成機能を8か国で展開する。",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcXFIcDAwTy1hNVZIYUxKZXdMMVJWUnF5VGFTTElGMFdDWTBmdFdaS3hTTWhkaUhhMDZmbmNhM1BDY0x4Yzg1cWlmMWUwbFBCdkxNZllzT2VDcjJNbWFOZEZ1eVVvSXNHTDJTcF9PbkNpTTNYekZ0c3ZQbDBydWI0TUY2Y05oWS11M1oySXAzSDNXN01ZQ2N1MUhaNVNma0s3SkE0?oc=5",
+          "source": "Vietnam.vn",
+          "publishedAt": "2026-11-23T01:23:50.000Z",
           "isPR": false
         }
       ]
@@ -918,6 +876,56 @@
       ]
     },
     {
+      "id": "d1d01790430c",
+      "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定",
+      "summary": "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。",
+      "url": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+      "image": "",
+      "leadSource": "ITmedia AI+",
+      "publishedAt": "2026-11-23T00:42:11.000Z",
+      "sourceCount": 5,
+      "articleCount": 5,
+      "categories": [
+        "model",
+        "product"
+      ],
+      "keywords": [
+        "Claude",
+        "リーマン",
+        "予想"
+      ],
+      "articles": [
+        {
+          "title": "Anthropic研究者、Claudeでリーマン予想を証明と主張 Leanの1737万行超を公開",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0RfLVpfRTZDR0dpY0xrV2RLdldTRFJJOGN0R05LbXcyMEctLWF1M0FmbXNIZEhVQmJrZDNsSmVRUnVHa0xsRGFhbndhaFRWOTROVWpndDUxbXNnVm4ydy1icDdWODdoVjJWQ1ZMUDNsMFg5U0Z5OHZRN0ltMW5LNmZMa256VXIxXzl0ZWNvdkwycTNOWEtoV1BVZTZwRTB4MFFkOFJFbm5DN0FDejg5eHpsQQ?oc=5",
+          "source": "디지털투데이",
+          "publishedAt": "2026-11-23T00:42:11.000Z",
+          "isPR": false
+        },
+        {
+          "title": "Anthropic研究者、Claudeと数学の未解決問題「リーマン予想」を証明と発表",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XZ05mWVJla2ZOOU1vQk1iSkNESUN5V2tjTTNTUE5Zci1TS3FSWUVzVF94Skw3T0RpLW0xbmgtSW9sR0lDTi1vTktMOHNoWEp6RVdaSlhmZWcwMW8yR3U0?oc=5",
+          "source": "ライブドアニュース",
+          "publishedAt": "2026-11-22T14:22:17.000Z",
+          "isPR": false
+        },
+        {
+          "title": "リーマン予想、Claudeによるアルペギュの証明",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLThYNHBwaXhmWDdjMThHUEFuS3N6aFNTaUZYLVh6NHJhUllfY0V6bGhpLXJNdkRGMENhZHVCOE9JQ2RqVTJoNmtKTVlKYkhabmcxeDJqUk51bmFLRE9KSFdJeklVcGoyUWF4TDBDbi15a1M5SXp2bGhxcFdQSEJUdXFlQQ?oc=5",
+          "source": "Meteora Web",
+          "publishedAt": "2026-11-22T14:13:47.000Z",
+          "isPR": false
+        },
+        {
+          "title": "リーマン予想の証明、Lean開発者らが「正しい」と声明 Claudeを使って発見",
+          "url": "https://japan.cnet.com/article/35255270/",
+          "source": "CNET Japan",
+          "publishedAt": "2026-11-21T21:39:00.000Z",
+          "isPR": false
+        }
+      ]
+    },
+    {
       "id": "cbf1a56cf5f0",
       "title": "日経平均 一時5万9000円回復 上げ幅2800円超↑ NVIDIAのCEO復帰でAI半導体関連に買い（テレビ朝日系（ANN））",
       "summary": "",
@@ -926,7 +934,7 @@
       "leadSource": "Yahoo!ニュース",
       "publishedAt": "2026-11-24T06:42:52.000Z",
       "sourceCount": 4,
-      "articleCount": 6,
+      "articleCount": 5,
       "categories": [
         "infra",
         "other"
@@ -949,13 +957,6 @@
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nQ3hlZGNRTXZRcVQtWjU4Z1lLSXlDcWtycjNNMUxkUWFyb2lCUk1BOTFxYjluUW5jUXc3YUx1UmVzZE5waV9ua1gwdTh5TnYzaXVCRjVjY2NMckVSV183Tzl1dVB2QTQwRVhMMkhEdS1haVBm?oc=5",
           "source": "BigGo ファイナンス",
           "publishedAt": "2026-11-24T02:25:00.000Z",
-          "isPR": false
-        },
-        {
-          "title": "日経平均は反発で寄り付く、ＡＩ・半導体関連株先導で買い先行",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNk12eDNKOUJCWGNPVUp4SmRrbld5R093RmlnT3d0Y3E4VDkyMnFpdlVQZVJ3MUgwMndBbzhUbWZwOWlmWWMyZTRuRzYyZzRROXV2dVVYdW1NbVRNaWNFMmp3dVl0bmZ1cFhFcnR5Unc3U3dfMGJxRUgxOXEwLWJTQkdnYmFPUQ?oc=5",
-          "source": "Reuters",
-          "publishedAt": "2026-11-24T00:20:00.000Z",
           "isPR": false
         },
         {
@@ -1161,44 +1162,44 @@
       ]
     },
     {
-      "id": "2451696c3f18",
-      "title": "OpenAIのIPOについて知っておくべき重要事項",
+      "id": "b12762648e97",
+      "title": "東証大引け 日経平均は反発 AI半導体関連に買い 米エヌビディア急伸で",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTG00SGY1bm5rUUxOemdQcVpFcGlwWW9vWkU0WlZQU29CekhpN1d3b3dUSGswc1NSbEJUOEt6MHNaQnZLd0hOVmszRGtHWGl3UlpiTGRZcDNDQmE0Zy1aWEVpLTZaVWM2MWQzMy1Xdkt0UzllMUFOdWh6NWI2QjV0QWFuR1JQWU1ucGZpTFVvMXhWaFZhN0xiZ1ZmQ3J4d3RaYThKNXBNQ3U?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzQnVxTWVqWUxVMHZnRmdzMjZNZF9BaVFiOVlTQ1pWcDMwRENGbm1kLUR5VXNoWWpNR2JHUmkxZTJ4bGNsOUNXblljR09ya3N5Z2x3U08zUGpyNEI1dUF0b3pteVF2dTJZSExxWg?oc=5",
       "image": "",
-      "leadSource": "TradingKey",
-      "publishedAt": "2026-11-24T00:53:30.000Z",
+      "leadSource": "日本経済新聞",
+      "publishedAt": "2026-11-24T06:47:34.000Z",
       "sourceCount": 3,
       "articleCount": 4,
       "categories": [
-        "other",
-        "business"
+        "infra",
+        "other"
       ],
       "keywords": [
-        "ipo",
-        "Anthropic",
-        "OpenAI"
+        "日経平均",
+        "反発",
+        "半導体"
       ],
       "articles": [
         {
-          "title": "AnthropicのIPOに応募6倍、OpenAIは調達縮小 AI投資に「選別」の波（ITmedia ビジネスオンライン）",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UMktUZ3JWc3VNSm5PbEZwNC01S2x5LXZQRXltNmpXeW0xbzF4aUhSalJsX2R0QUdydl9xWVp3OWpWYjgyV19aZ0dtd2RraFljNkZCdjcxWEdpZkZtTGl0T2NWZXJZYWE4dU1qSjUxbmo5UHV1Rmc5bHZtbXV6aG8?oc=5",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-23T09:59:01.000Z",
+          "title": "AIとエヌビディアは「大き過ぎてつぶせない」",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuTmZxZWNVZExITHJLdW9UV0d5MlpWWlJ5S0ZJRjFIYzRLbjM3MEVQWkN5eWVncmZVeEVVQXhBZWhVaDhSS2lCV3FNSHFUdw?oc=5",
+          "source": "バロンズ・ダイジェスト",
+          "publishedAt": "2026-11-24T04:40:40.000Z",
           "isPR": false
         },
         {
-          "title": "Anthropic、IPO前夜に「SaaS殺し」へ舵？ Claudeに表計算を内蔵した、真の狙い（ITmedia ビジネスオンライン）",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01eU1LMmlDdG5jSjh6UEpFRnpyM0czcjJMekhrLU03dDgySWh5NGpUUEhUUV96S0VueERyS2sxN0pOazBNMmpIZWoyZjhqR1Vqbnd3SnR1NElxbk1ueVpDcnNiY3JMR0tkYmFNakcxYjNLY3Q2S01GV00wVV9IYjQ?oc=5",
-          "source": "Yahoo!ニュース",
-          "publishedAt": "2026-11-23T09:52:25.000Z",
+          "title": "東証前引け 日経平均は反発 上げ幅一時2800円 AI半導体に買い",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FWE9nSWN2cmNnTWZmTlJ5NlNDYktmamNOdGtFejA5aDlmeVM2Nlk3cGV3Y0lyX2hfempMcXZFNW5VcVZ0VDNNempxNGQwSXJQYnotc3hDWmx0emtYVERybUhQNVN4TmFyZDF3Tw?oc=5",
+          "source": "日本経済新聞",
+          "publishedAt": "2026-11-24T02:52:08.000Z",
           "isPR": false
         },
         {
-          "title": "Anthropic IPO - 完了、調達総額は約1195億ドル。公開価格83ドル",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iVmtybXBieEF4VHJ0TFQtWnNXRkJRTUNKcFdUOGJZNVRyMEpKUVNlZGdxR0J1bzBub1FoNGFrUmNqeEs4R3RrdVNZLV9DdW1jLUhFTFNpWGxZdHc1TUNGYzJKSl9TUUc2T2ZjNVl5LVdTSVE?oc=5",
-          "source": "TECH NOISY",
-          "publishedAt": "2026-11-22T13:02:01.000Z",
+          "title": "日経平均は反発で寄り付く、ＡＩ・半導体関連株先導で買い先行",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04aFR5eWNTbkNITUx1aEo5UU5MSURsYVdHWXF6a3llZFVjcHl2QnlMdmZ3NDlTQ3Qwa0dTLUFTcjhYUm1mbEx1azRpNmhuTVlETW9kUVZGNDFHdw?oc=5",
+          "source": "ニューズウィーク日本版",
+          "publishedAt": "2026-11-24T00:19:00.000Z",
           "isPR": false
         }
       ]
@@ -1210,7 +1211,7 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UUHBSckZpWWpxaFBqZzN1dWdJbGlZNjlLeHhyU1o3SGFKTnEyRWhvMnIwSTUwSzhZSHBuSUhiQWlEc2U0SGc1bXl3TmNmaF9ORnpNMXFfc3BNdzZWVXAtUTEwZDB4bENpTEE?oc=5",
       "image": "",
       "leadSource": "AppBank",
-      "publishedAt": "2026-11-24T06:57:10.000Z",
+      "publishedAt": "2026-11-24T06:55:55.000Z",
       "sourceCount": 3,
       "articleCount": 3,
       "categories": [
@@ -1275,21 +1276,38 @@
     }
   ],
   "churn": {
-    "previousAt": "2026-11-24T06:30:28.405Z",
-    "previousCount": 507,
-    "newCount": 35
+    "previousAt": "2026-11-24T07:00:23.617Z",
+    "previousCount": 503,
+    "newCount": 41
   },
   "updateGapMin": 30,
-  "nextUpdateAt": "2026-11-24T07:30:23.617Z",
+  "nextUpdateAt": "2026-11-24T08:00:26.150Z",
   "items": [
     {
-      "id": "4d933aa096bb",
-      "title": "企画から編集まで1つのAIエージェントで完結！ 映像制作アプリ「Craftin」ベータ版が提供開始",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UUHBSckZpWWpxaFBqZzN1dWdJbGlZNjlLeHhyU1o3SGFKTnEyRWhvMnIwSTUwSzhZSHBuSUhiQWlEc2U0SGc1bXl3TmNmaF9ORnpNMXFfc3BNdzZWVXAtUTEwZDB4bENpTEE?oc=5",
-      "host": "appbank.net",
-      "source": "AppBank",
+      "id": "da036159febb",
+      "title": "ファルムコンサルティングとCRIENが手を組み中小企業向けAIコンサルティングを強化する取り組み",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFanAtXzlNeVEyRVZlbjRrZ1FlaEF5a3lGeU9FTUdJa0VOZFBGZUVxWGxtb1dJY3NqMnNIRlBSdGNLMXRVcnhybTZtd2lxNlBsMHV3NEFiMFJiVmY4ZFQtVFRNa0pwZzJHSFRmc1U3S0ZkS1M1VlE?oc=5",
+      "host": "voix.jp",
+      "source": "ニュースメディアVOIX",
       "summary": "",
-      "publishedAt": "2026-11-24T06:57:10.000Z",
+      "publishedAt": "2026-11-24T07:24:57.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "8a121f9916ef",
+      "title": "音楽プロデューサーチバニャン、起業家 溝口勇児の誕生日にAI生成したパロディMVを公開 ヤマトリノ、こめお、ヴァンビらも登場",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSHBhVk5DRzNjU21qMDlXajByWERUeFJxaE5hY3J1QWxFazNJWVB4R0xuX3VvOFlhWU1HRWlTdXRzR2pFX0d2VkYzdUNkajFYcjk3NmRhSGFqRmlDaWF1dUZxU0xKZG90M2ZXZUt5VjV0QzRaSEQ0dHR1ejFvcE1CU3FRSFFocW5fV2FOMDhn?oc=5",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-24T07:20:03.000Z",
       "image": "",
       "categories": [
         "product"
@@ -1298,6 +1316,127 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": true
+    },
+    {
+      "id": "42dfa72bbe40",
+      "title": "AIネイティブな現場へ。「人とAIの協業」で挑む東京海上ホールディングスの営業プロセス変革",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xazhEVHdYX3l3T201VHNFSnhrQ3FOZEI3UHJCZE5NNURhNkoycmYxNmE1dmFVY2ZRRHliWGpXM1g5LXZKamxFcFFOSTRPZ0VlemdfOW1XUlBRbTl4MUppbVlZMUo5VURyR25sTVQ1U21ENXF1am5qYg?oc=5",
+      "host": "dentsudigital.co.jp",
+      "source": "電通デジタル",
+      "summary": "",
+      "publishedAt": "2026-11-24T07:18:26.000Z",
+      "image": "",
+      "categories": [
+        "business",
+        "case"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "a827003bb20f",
+      "title": "【累計受験者14万人超】生成AIパスポート対策書が人気シリーズから登場",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaa093ZmJtdDktdXhza0FPOXdkNlY2anpSV3VPcGw5WWxpOTJDZzdETVAzMDRiYnVXR0dFT2NzUk1IamYwVTE4VUxSMHZIcURWNlEyTWxqQ1h6T0Y3eFE?oc=5",
+      "host": "gkp-koushiki.gakken.jp",
+      "source": "（株）Gakken公式ブログ",
+      "summary": "",
+      "publishedAt": "2026-11-24T07:12:31.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "2c3f4518d7b6",
+      "title": "アリババ傘下企業を米国がブラックリスト指定、AI事業拡大に打撃",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkV191Q0Nzc1ViWmljWkFOZmtkTFpIelJLdl8wQWZtUnB2R0RpdGI1WVR1dUFTWTRoOXlEYi1pSC1XTWo0LVZTLUlOVkI2Z1RtYU85VjVQdUxWRVN5LVhJdHFVU2todHVtS3Y4cXNLQUI1T3hf?oc=5",
+      "host": "newsdig.tbs.co.jp",
+      "source": "TBS NEWS DIG",
+      "summary": "",
+      "publishedAt": "2026-11-24T07:10:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "895945db8e9b",
+      "title": "Kimi K2.7-Codeの「+21.8%」は何を測った数字か — 自社ベンチと独立ベンチの違いを整理する",
+      "url": "https://qiita.com/kai_kou/items/6cfec848e8f8a0687ad1",
+      "host": "qiita.com",
+      "source": "Qiita",
+      "summary": "はじめに 新しいLLMが発表されるたびに「自社ベンチマークで前世代比+◯◯%」という数字を目にします。Moonshot AIが2026年6月にリリースした「Kimi K2.7-Code」も、自社ベンチ「Kimi Code Bench v2」でK2.6比+21.8%を謳い...",
+      "publishedAt": "2026-11-24T07:09:52.000Z",
+      "image": "",
+      "categories": [
+        "model",
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": false,
+      "sourceKind": "tech",
+      "isNew": true
+    },
+    {
+      "id": "33bbaf84cba0",
+      "title": "シースリーフィルムとLightKing、生成AI映像コンテスト「BLOOM」を初開催〜 12/4より作品募集を開始",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aX2hpeGVrZFdSOGM3NXFFbHRoQUdfbFZWUm5LTF9JZEp3eVBFQ2laQlNCeXByQUJPekltRXFZOThhZ2JfVTBKXzJ5ZDN2bUNLblhR?oc=5",
+      "host": "videosalon.jp",
+      "source": "VIDEO SALON",
+      "summary": "",
+      "publishedAt": "2026-11-24T07:03:21.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "dd266d2bdddf",
+      "title": "明治が市乳製造にAI計画立案を導入、稼働直数を最大約17％削減へ：製造ITニュース",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BS1ZjcFBwcUtwdFE4T21CVWVLUS1RZGJSeURDaG81ZWhCaU5lVVVBcEpXdS1tOTkwYmtkWC1tZGFxVTcyMWJCenNMaEtXdmZBbVJFeGdQVmIxUGxkZllyUjBnTHVvZjg0MlY1T3h6VQ?oc=5",
+      "host": "monoist.itmedia.co.jp",
+      "source": "MONOist",
+      "summary": "",
+      "publishedAt": "2026-11-24T07:00:00.000Z",
+      "image": "",
+      "categories": [
+        "case"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "4d933aa096bb",
+      "title": "企画から編集まで1つのAIエージェントで完結！ 映像制作アプリ「Craftin」ベータ版が提供開始",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UUHBSckZpWWpxaFBqZzN1dWdJbGlZNjlLeHhyU1o3SGFKTnEyRWhvMnIwSTUwSzhZSHBuSUhiQWlEc2U0SGc1bXl3TmNmaF9ORnpNMXFfc3BNdzZWVXAtUTEwZDB4bENpTEE?oc=5",
+      "host": "appbank.net",
+      "source": "AppBank",
+      "summary": "",
+      "publishedAt": "2026-11-24T06:55:55.000Z",
+      "image": "",
+      "categories": [
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
     },
     {
       "id": "ba9b17eb0172",
@@ -1311,6 +1450,23 @@
       "categories": [
         "policy",
         "infra"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "be79f76b4320",
+      "title": "プレスリリース：次の仕事選び、基準は「AIで伸びるか」？成長する業界を選びたい42.0％、代替されにくい仕事は25.0％ ― Ninja Code調べ（PR TIMES）",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hUUNMVk5Rb0Q2R1VvVENNYnltTTM4dWl5dDdIUmM5RGtxS21Eb2RSQnNWNlR0akZTTExiaUUxdmNTQi0yc1pMRUVpU1dDc3oxSGhzcHM1Q2d0RzJral9uOTlSSUVsNTNh?oc=5",
+      "host": "mainichi.jp",
+      "source": "毎日新聞",
+      "summary": "",
+      "publishedAt": "2026-11-24T06:53:19.000Z",
+      "image": "",
+      "categories": [
+        "product"
       ],
       "isPR": false,
       "viaGoogle": true,
@@ -1332,7 +1488,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4f0f31dcd82e",
@@ -1348,6 +1504,40 @@
       ],
       "isPR": false,
       "viaGoogle": false,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "b12762648e97",
+      "title": "東証大引け 日経平均は反発 AI半導体関連に買い 米エヌビディア急伸で",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzQnVxTWVqWUxVMHZnRmdzMjZNZF9BaVFiOVlTQ1pWcDMwRENGbm1kLUR5VXNoWWpNR2JHUmkxZTJ4bGNsOUNXblljR09ya3N5Z2x3U08zUGpyNEI1dUF0b3pteVF2dTJZSExxWg?oc=5",
+      "host": "nikkei.com",
+      "source": "日本経済新聞",
+      "summary": "",
+      "publishedAt": "2026-11-24T06:47:34.000Z",
+      "image": "",
+      "categories": [
+        "infra"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
+      "id": "b93011f4c2ee",
+      "title": "パナソニック コネクト、ローカル環境で利用できるAI議事録作成アプリ「Panasonic PC Edge AI Note Taker」 同社製対応PCで無償利用が可能（ITmedia PC USER）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YTnVxWlV4SWh3YlJqNDhTWlVwVWdDeUJrbFVTNjBVcUo5dXl4STBjMEpsNk5zUk1ybnJvN0ZNbnJvaENKemwxYUFEN1JqbHpQZzlhalhTTjhrRHVfRFUxZ0pJVS12Rm5RZndOaUg5bUE3U1RKWTd4cVIxOUFtQzQ?oc=5",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-24T06:47:25.000Z",
+      "image": "",
+      "categories": [
+        "product"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": true
     },
@@ -1384,7 +1574,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cbf1a56cf5f0",
@@ -1419,7 +1609,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "bc81500d34a3",
@@ -1436,7 +1626,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "2a32e38771d2",
@@ -1454,7 +1644,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "1b261b0e3fcf",
@@ -1471,24 +1661,23 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "a3d5bde86900",
-      "title": "0。Anthropicが上場(IPO)を完了し、Opus 5.5を「コーディング・知識業務の主力」に位置づけた月、自分の定期投稿パイプラインが実際にそのモデルを使った回数はこの数字だった",
-      "url": "https://qiita.com/Hideki_Tamae/items/4c0a6738a7b9415e1a90",
-      "host": "qiita.com",
-      "source": "Qiita",
-      "summary": "はじめに 0。 これが今回の数字です。何の0かというと、Anthropicが新規株式公開(IPO)の完了を発表し、同じ11月のうちに新モデルFable 5.2/Mythos 5.2を発表して「ほとんどのコーディングや知識業務には、日常的に使う主力モデルとしてOpus 5....",
-      "publishedAt": "2026-11-24T06:32:13.000Z",
+      "id": "57833fbf96f5",
+      "title": "AIでICU患者急変リスク予測 関西医大で導入、医師の判断支援 (共同通信)",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTVpZdi14MjZyUHpuRlg1cDFlaUZrTlJjRjdKX29iYjd0WVhxV2phVGpkSDBKN2s1VlFxRk9aenlnWmpTa0ctVVRFLWlVbnhjT0xaQ0NFenNWWFJVcTZMYm5JQmkxSDl6VV82SHJnTkVRQnNfM1JTOVZyQXAzSzN1dHFXUVlManU2eEZkX2ln?oc=5",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-24T06:33:58.000Z",
       "image": "",
       "categories": [
-        "model",
-        "product"
+        "case"
       ],
       "isPR": false,
-      "viaGoogle": false,
-      "sourceKind": "tech",
+      "viaGoogle": true,
+      "sourceKind": "news",
       "isNew": true
     },
     {
@@ -1506,7 +1695,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "29d32941b2a1",
@@ -1523,7 +1712,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "66352ad15d28",
@@ -1536,6 +1725,23 @@
       "image": "",
       "categories": [
         "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "48ba3032d3ed",
+      "title": "画像ギャラリー No.001 | Ubisoftが生成AI技術の開発を専門とする新子会社「Motherbrain」を設立。記憶を持つNPCやAIゲームマスターの構想を具現化へ",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRklYVVVJMFBCYnJ1SVVJUmRhUXRLTFB4VnRtZ3M1Y3piQU9FR3lvRm1iMjdDQ3BiM3pYM0Q1ZkdVbWlkWDc3QzJsS3Y2LWluLVNmUlA5LXlVc3dRWk5za3BzbHdHT3NYQXlCUTBudzdFc0FzbXdnX2ZPSTJ2a0k2NmVn?oc=5",
+      "host": "4gamer.net",
+      "source": "4Gamer.net",
+      "summary": "",
+      "publishedAt": "2026-11-24T06:29:13.000Z",
+      "image": "",
+      "categories": [
+        "business"
       ],
       "isPR": false,
       "viaGoogle": true,
@@ -1609,7 +1815,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "814f4641d6cd",
@@ -1661,7 +1867,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "7de6e57fd77f",
@@ -1939,6 +2145,23 @@
       "isNew": false
     },
     {
+      "id": "e2143941c5a0",
+      "title": "DXC、Claude Mythosを活用したFrontier Code Assuranceを開始",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOHY1T0t4X21ZSGpVaURUOHBpQ2EtOVA0TEdIQ0tkUlJaSElpWC0zRVhwbXk1d1hPVU9vTVRiMDJWMFpqUnJKTDhOd2VUZ3QxMkM2cnNMOV9sVjc4amUtdVRhVVJjblptX0xOUnhyZkYzRC1Bbi11Z2dXN2E1TmZlemJuQ0ZlcU0?oc=5",
+      "host": "unite.ai",
+      "source": "Unite.AI",
+      "summary": "",
+      "publishedAt": "2026-11-24T05:21:03.000Z",
+      "image": "",
+      "categories": [
+        "case"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "0dda565875d4",
       "title": "東洋大学、「生成AI利用ガイドライン」を公開 ―「諸学の基礎は哲学にあり」の精神で、自由かつ自律的な生成AI活用を推進―",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBTjlMTWZLV3BfNjRTSHVkb01OclBvUlF1N29FODdXNUtzRTNSdXBaeF8tdzVHQ0d0cktjZUNWOFNJcmZOdmJ5ZEFhOVhjR2c1OG9xMC1zNno3X2FMU21XX04yd2Z2bTNSYS1RY1ln?oc=5",
@@ -1972,6 +2195,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "aa881bf3a22c",
+      "title": "次世代版対話型AI面接サービスSHaiN 第19回ASPIC AI・クラウドアワード2026においてAX貢献賞受賞",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BTnRWUUQtZmZmNGlCV3NzSTdjUUxWdVpmZFE0U1NnM184UTJxemxsRS1uRmpBUGszcHpGSDJ5azdoTzIxTjRaM0h2dHFvamRnaV9WbnNNako5TnRUM25aVlBoYjdxcmo3VENaOGxuTnJBdw?oc=5",
+      "host": "news.infoseek.co.jp",
+      "source": "Infoseek",
+      "summary": "",
+      "publishedAt": "2026-11-24T05:15:37.000Z",
+      "image": "",
+      "categories": [
+        "infra"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "97c5d95f27cc",
@@ -2074,7 +2314,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "63a299f9d6fc",
@@ -2228,7 +2468,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "0edc2756ce63",
@@ -2384,7 +2624,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "65ec8f6c6a2d",
@@ -2401,7 +2641,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "eae51479a6c4",
@@ -2506,7 +2746,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "73882fb6dd52",
@@ -2540,7 +2780,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "f5250552559b",
@@ -2629,23 +2869,6 @@
       "isNew": false
     },
     {
-      "id": "89d154c2f0f3",
-      "title": "2026年11月から福祉の総合相談にAIを導入 愛知県大府市 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TakFFeXdkTWxYSzZsMTF3N3NfZ0cydEtnTllVSl9OXzJPZ29OejRGMVhoSWx0em9zMGdjSE9LUVFHOWxYdFVsQ1NMZTZRdGhubW1nVm55aXVydw?oc=5",
-      "host": "jomo-news.co.jp",
-      "source": "上毛新聞電子版",
-      "summary": "",
-      "publishedAt": "2026-11-24T04:13:00.000Z",
-      "image": "",
-      "categories": [
-        "case"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "3f192dca5b49",
       "title": "2026年11月から福祉の総合相談にAIを導入",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RTGpWSDY4N05CSnhseGNnM2d2bngxenlidUtjWmlpTERiOGF1blAwQ0ZNNmlKSWYtcWFhWDZaYjBjOE1fN1lkaGNfZ201THRPV21HRTNXWGFQNmdjUkxFZUYwRXFfSUE?oc=5",
@@ -2691,23 +2914,6 @@
       "image": "",
       "categories": [
         "product"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "112b9f12d925",
-      "title": "商品を知る情報源にAIチャットを挙げた人は31.8％ AIがきっかけの購入・契約者の86.5％は別の情報源でも確認",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pMnJYbGtoN1k2LU5xX3daZVBaLVZvZWhKaUF1RnZWNklyNEhEbXN6OVY3ZUhsWE5XbkU4SWNLVjNmM1JDc0FhLUVQeVdtVVQwM1V4S1AwUQ?oc=5",
-      "host": "commercepick.com",
-      "source": "コマースピック",
-      "summary": "",
-      "publishedAt": "2026-11-24T04:01:40.000Z",
-      "image": "",
-      "categories": [
-        "business"
       ],
       "isPR": false,
       "viaGoogle": true,
@@ -2974,6 +3180,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "921f174d81aa",
+      "title": "Claude単独著者の論文が1979年来の難問に挑戦、人間の検証はまだこれから",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10cGhtSUZjc1FqZHhBQWRpbnh0T29OQjZZTWxVdG1XLU1iakVzYnBxYmc1eEZLOUphWDh5Mnh3eDBOdw?oc=5",
+      "host": "hashout.jp",
+      "source": "shiritomo",
+      "summary": "",
+      "publishedAt": "2026-11-24T03:29:02.000Z",
+      "image": "",
+      "categories": [
+        "model"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a996b1fd052a",
@@ -3713,39 +3936,21 @@
       "isNew": false
     },
     {
-      "id": "19744982ec2a",
-      "title": "「ドン・キホーテ」「アピタ」等を展開するPPIH、PeopleXの対話型AIサービス「PeopleX AI面接」「PeopleX AIロープレ」を導入",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0UnR6MU9jQnQxUXEwVG5tckdSYjI3OWF5amd6cHYwd0FXeFY3QkVJOXhSOVhxZUJvMkcyVFV0RmxiTTdlcEdhTGZWNmc4amI0alNKcHc4UWtFM0Z3VkZPOEp3NG5BVlo5?oc=5",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-24T02:00:37.000Z",
-      "image": "",
+      "id": "c6ba3ed78630",
+      "title": "【GA4×生成AI・中級編】AIにサイト改善案の「たたき台」を作らせる方法 - オウンドメディア戦略ラボ by はてな",
+      "url": "https://www.hatena.ne.jp/ownedmedia/article/ga4-mcp-improvement-ideas",
+      "host": "hatena.ne.jp",
+      "source": "はてなブックマーク",
+      "summary": "株式会社HAPPY ANALYTICSの小川卓 （id:ryuka01）です。 中級編の第1回では、MCPでGA4とAIをつなぎ、データを取得して表に整理するところまでを解説しました。その際にポイントとして紹介したのは、次の3つです。 前提メモを渡す 結論はまだ出させない 取得条件と指標の定義を書かせる 今回はその続…",
+      "publishedAt": "2026-11-24T02:00:16.000Z",
+      "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.hatena.ne.jp%2Fownedmedia%2Farticle%2Fga4-mcp-improvement-ideas",
       "categories": [
-        "case"
+        "dev"
       ],
       "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "858546b91423",
-      "title": "生成AIの個人活用から組織活用へ森トラストのAIエージェント人材育成事例を公開",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jd3M2dWhfU1hLSHZ1Q2k1VnpXVU1KYXJUaWo4NlYzSHRGZTJHZy1SVmFDU1VicjluWVhlV2kxb2NTREJBV0x1andvTGpGTUlpd3FYYXJublI3U0hFcVVycG5TLW1RcFdvNVE?oc=5",
-      "host": "prtimes.jp",
-      "source": "PR TIMES",
-      "summary": "",
-      "publishedAt": "2026-11-24T02:00:02.000Z",
-      "image": "",
-      "categories": [
-        "case",
-        "product"
-      ],
-      "isPR": true,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
+      "viaGoogle": false,
+      "sourceKind": "curated",
+      "isNew": true
     },
     {
       "id": "762dcfa39d36",
@@ -3765,18 +3970,18 @@
       "isNew": false
     },
     {
-      "id": "79f431c6ae5b",
-      "title": "【セキュリティ意識調査2026】62.3%の管理層が自社のAI利用ルール「未整備」と回答。整備済み・整備意向ありでも46.4%は「ルールが現場で守られているか」を確認・把握する手段がない(2026年11月24日11時0分)",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80dHdBZVVzVzNLeTdYYkRERjl0bmhldU9LSmRodHVIb3d0TFR5aV9UT0otaUNtQTd3ZW5FQ0loYUZxbTcyTUJraDdmUkFYT3NXdFlIZGpqMmpEaXFlSmpXcWx0dDB4NzJJLUJuMXhR?oc=5",
-      "host": "oita-press.co.jp",
-      "source": "大分合同新聞",
+      "id": "c92206cb0447",
+      "title": "「AIのプロ名鑑」掲載30件の得意分野を集計、最多は「生成AIの導入支援」で22件",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MYXpxTGEweVMtSXhBUTB2ZTJPVHlNdUs1NTZvOGplYXpiVm9SNUZwcVF3U3BDUEtpX05oQldFelhRaE8xbTh5YTRya3QxUGNPamdWZnZYLVlxbS1IX2c?oc=5",
+      "host": "value-press.com",
+      "source": "valuepress",
       "summary": "",
       "publishedAt": "2026-11-24T02:00:00.000Z",
       "image": "",
       "categories": [
         "case"
       ],
-      "isPR": false,
+      "isPR": true,
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
@@ -3799,16 +4004,17 @@
       "isNew": false
     },
     {
-      "id": "c92206cb0447",
-      "title": "「AIのプロ名鑑」掲載30件の得意分野を集計、最多は「生成AIの導入支援」で22件",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MYXpxTGEweVMtSXhBUTB2ZTJPVHlNdUs1NTZvOGplYXpiVm9SNUZwcVF3U3BDUEtpX05oQldFelhRaE8xbTh5YTRya3QxUGNPamdWZnZYLVlxbS1IX2c?oc=5",
+      "id": "858546b91423",
+      "title": "生成AIの個人活用から組織活用へ森トラストのAIエージェント人材育成事例を公開",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2OW9GX2ZwekRPN1pPbW4yRVBhTjFia2V1RElwUXFveS1hMmhhTVdsMjNsVjJuY2hOcDNrcGgyNGFzMmtBbnZOakRCbTdVLVBJMkdWOE9JNW11dE1RVUE?oc=5",
       "host": "value-press.com",
       "source": "valuepress",
       "summary": "",
       "publishedAt": "2026-11-24T02:00:00.000Z",
       "image": "",
       "categories": [
-        "case"
+        "case",
+        "product"
       ],
       "isPR": true,
       "viaGoogle": true,
@@ -3833,23 +4039,6 @@
       "isNew": false
     },
     {
-      "id": "a944a74323a2",
-      "title": "2026年12月16日～18日【無料オンライン】「AI＆DXカンファレンス by発注ナビ",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43TENuWk1Na2l0Vy14WjFXdGJhT2hCRGpWbjBEeDh6SmNiM2huYXlpX3V6SEw3aWJqbHBLZldTei03VGFsOHU4WExCdDhzcUFldmpydGxpRTFWTi0tSkxBWDBBemxNSHpOZlVsN1FwRWZYOWRBV1JINW1CNA?oc=5",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-24T01:51:23.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "be0430fe96e6",
       "title": "Googleスプレッドシートの定型作業を自動化、Geminiがコード作成を支援",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXeGVyYVh2VnpqdE05QkJaRjlCdHV5eDgzUnc2YVpDMVZiMjZsRFQyTjJTOGNoektFcWR1MkhPNC1JYzZpWngybzVoU3doc25lX3JmZF9DYXZ3d1ZTa01aU1dab3gtWGJG?oc=5",
@@ -3860,6 +4049,23 @@
       "image": "",
       "categories": [
         "dev"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
+      "id": "7212f57b4fd2",
+      "title": "米商務省、エヌビディア製AI半導体の対中流出疑惑でメガスピードをエンティティーリストに追加―東南アジアの関連6社も",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHZlJ4Rk1XeWVwTF9CZDlhQThtSWZFR3FPYTZGVnlCbVZjU285YWhpTy1Gc2xGZ3JyVUJ6cmlOTS1nUkVCMFZwUW04UHJ6NWh2WnhwVFlabENWb3h5b0pLQlJ2b9IBaEFVX3lxTE40QWpidTVNVDF4NlJLel8yeTRLYmozNkVIVGJraDdmOEtuR3NfYld3RlpuRV9VRHpYLV9vRzg0Wnh0UzBvd2tJc1JWcDVfVXYxWjVoYmUzaEc0WjAteTM1a25MT2ZvbThr?oc=5",
+      "host": "zaikei.co.jp",
+      "source": "財経新聞",
+      "summary": "",
+      "publishedAt": "2026-11-24T01:50:47.000Z",
+      "image": "",
+      "categories": [
+        "infra"
       ],
       "isPR": false,
       "viaGoogle": true,
@@ -3894,23 +4100,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "7212f57b4fd2",
-      "title": "米商務省、エヌビディア製AI半導体の対中流出疑惑でメガスピードをエンティティーリストに追加―東南アジアの関連6社も",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40QWpidTVNVDF4NlJLel8yeTRLYmozNkVIVGJraDdmOEtuR3NfYld3RlpuRV9VRHpYLV9vRzg0Wnh0UzBvd2tJc1JWcDVfVXYxWjVoYmUzaEc0WjAteTM1a25MT2ZvbThr0gFoQVVfeXFMTjRBamJ1NU1UMXg2Ukt6XzJ5NEtiajM2RUhUYmtoN2Y4S25Hc19iV3dGWm5FX1VEelgtX29HODRaeHRTMG93a0lzUlZwNV9VdjFaNWhiZTNoRzRaMC15MzVrbkxPZm9tOGs?oc=5",
-      "host": "zaikei.co.jp",
-      "source": "財経新聞",
-      "summary": "",
-      "publishedAt": "2026-11-24T01:50:00.000Z",
-      "image": "",
-      "categories": [
-        "infra"
       ],
       "isPR": false,
       "viaGoogle": true,
@@ -3954,40 +4143,6 @@
       "isNew": false
     },
     {
-      "id": "c1f7000ff3e9",
-      "title": "韓国がAI制御の信号機を導入。",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRU44T0NHcVRZbTdZMndOV0wwaFhMdUxHTnFJSmF0OU5acmRVRGFEMFRNWm5jTDBSbGl3elBnS1lqLXhVY3p6Z3dldy1rdmwybVFxYXIzOEpuQ0JnSW5uTV9VSEJuNlIydjFSa3RaZW4wQ0VpaUtFSDREMEVDY0REZ1U4WQ?oc=5",
-      "host": "vietnam.vn",
-      "source": "Vietnam.vn",
-      "summary": "",
-      "publishedAt": "2026-11-24T01:38:59.000Z",
-      "image": "",
-      "categories": [
-        "case"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "73c6b70becb1",
-      "title": "豪ドル円見通し｜エヌビディア株30％超急騰も反発は限定的、RBA利上げ終了観測が強まる中、豪10月CPIとAI関連株の動向に注目 2026年11月24日",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aZ1p1NzdsWjBOYXlOcnUyYUhXdzk5XzZ3V3YwYmY1VlY4SUVVc2FWS29LSnFBMU11eXR3bE10d2Ruelg1c0tpNDFrWnRoX091NURPTkt4M1BGWHZwT0twWmhTSQ?oc=5",
-      "host": "gaitame.com",
-      "source": "外為どっとコム",
-      "summary": "",
-      "publishedAt": "2026-11-24T01:35:47.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "8e69d9f1c799",
       "title": "低速でも安く実行、OpenAI背景処理の新料金をどう使う",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05RjR3bVN6TGxGXzBucVBvZF84c2E5X0NvSkVqa0RfZWVUekxHUEVZanJ0NzU0Y2Utbk1lV1BOYmFMVE9tWlhyQXc1RG9ZWWhTaEhDS1g3Wk5KaHB4SG1laF9n?oc=5",
@@ -4015,24 +4170,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "0ef431387e7e",
-      "title": "国立大学の82.4％が生成AIの利用指針を公開！ 一方、AIエージェントへの言及は0校という調査結果",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1WdlYzdEVVcm1nVVFwa1VLbU1jaGpaLUNVeS1yTms2Y2w0cndDU2NLTlUyUi03Z29NN3RfeUpMQm1jaThoVXhmeXYwRVIwUQ?oc=5",
-      "host": "dxmagazine.jp",
-      "source": "DXマガジン",
-      "summary": "",
-      "publishedAt": "2026-11-24T01:35:03.000Z",
-      "image": "",
-      "categories": [
-        "product",
-        "policy"
       ],
       "isPR": false,
       "viaGoogle": true,
@@ -4141,24 +4278,6 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "09c73bc2f4e3",
-      "title": "Sansan、企業ごとに異なる課題をAIで解決し、各サービスの導入効果の幅を広げる「Advanced Solution」を提供開始",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jaHhydU5fRzRBRGdqUlA4SmJrOVFNQWJiRmtMYVY0eDY4RU02ZVRXamNVN0JVWUVGZlhMUU1iSnFSR1doVGdYV0pjb1RHeko2MkptQTh0VVB3aGVENDk0TzU5aVRJa3JS?oc=5",
-      "host": "news.nicovideo.jp",
-      "source": "ニコニコニュース",
-      "summary": "",
-      "publishedAt": "2026-11-24T01:21:10.000Z",
-      "image": "",
-      "categories": [
-        "case",
-        "product"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "b4bbe8460201",
@@ -4300,11 +4419,11 @@
     {
       "id": "90799495b32c",
       "title": "Humyn Labs、シリーズAで4,700万米ドルを調達し、フィジカルAIの研究と導入を拡大へ",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nWFIyNjF6d1BYVU5BelFoRldaMG42N2RManFtbWZSYzB3dmx3Unh3dFgzQ2NLOGdhaGxBX0M4QllDUjRSclFPOFVQRDVqaGtadVhmcHcxQTNYV0N3TXpYLVZkRzVmWnc?oc=5",
-      "host": "news.infoseek.co.jp",
-      "source": "Infoseek",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsQXJYWWVmQzFucHd4UDZDUTcwTjNaZm81aUt6OVl1WGNmal9ELUZYYTk0MExlY0FTVEI4Y2M0MnJWZWFNZDVkSmU3ZFhfUUtQQ0JUaDhSMXNmRnM?oc=5",
+      "host": "kyodonewsprwire.jp",
+      "source": "共同通信PRワイヤー",
       "summary": "",
-      "publishedAt": "2026-11-24T01:11:00.000Z",
+      "publishedAt": "2026-11-24T01:11:59.000Z",
       "image": "",
       "categories": [
         "model",
@@ -4344,23 +4463,6 @@
       "image": "",
       "categories": [
         "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "e206937f9d60",
-      "title": "ＢＣＣ－3日ぶり反発 介護事業者向け生成AI活用研修の提供を開始(トレーダーズ・ウェブ)",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ181ODQ4VFRfcERDSnBacVJJVEsxcTJSaXRjY1dPNF8tWHNXZ2l6dUQyTHRlelNhWlFFYTYwcUNJRjZuRHJWQkFEdVVFM1BFNjc1c0E2OEVLOVBGT1dGSmk0VUJSem43QkFWcUpiekRldUl5dUZla0FkeExjWlRvMVF0aHRIaUU?oc=5",
-      "host": "finance.yahoo.co.jp",
-      "source": "Yahoo!ファイナンス",
-      "summary": "",
-      "publishedAt": "2026-11-24T01:05:03.000Z",
-      "image": "",
-      "categories": [
-        "case"
       ],
       "isPR": false,
       "viaGoogle": true,
@@ -4419,23 +4521,6 @@
       "isNew": false
     },
     {
-      "id": "d41e092d24d3",
-      "title": "「自分がAIのアシスタントだと感じた」 デザイン系の大学生に芽生える違和感と、AI時代の表現の未来とは 静岡文化芸術大・ブルベス教授の研究【Web限定】",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jd3ZSMHR3ZFd3LUhxX2h6NGxNajdUX1dlMmZuWTdXUDlUOUQwVlI0UmdUOEVDZDd5WGF3cDZ5SUo5V3pPTjgzSEFWZ1plQQ?oc=5",
-      "host": "news.at-s.com",
-      "source": "静岡新聞DIGITAL",
-      "summary": "",
-      "publishedAt": "2026-11-24T01:00:00.000Z",
-      "image": "",
-      "categories": [
-        "model"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "2bdd56fae765",
       "title": "近畿大学、近大生と高校生が協働し生成AIで地域の未来を考える「2046年の川俣町」の解決案を発表",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9udVotVXlpc2tCbURlQU04OE92T092bms2Y2RnazU4d3l5R3gzYnE3MVZMOTROYVpJR1FMVHdCMWY5NFd5Y2VLTTAzWThJT0ZUX0Z3?oc=5",
@@ -4451,6 +4536,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1c57f46bdb69",
+      "title": "中国Moonshot AI「Kimi K3.1 Pro」、米フロンティアモデルに肉薄 実務検証で見えた実力と導入の壁",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tc3FvVWIyQkhQNXM2Q3NkUnJBdE1EYS01RUxpSjRfN0FsN0FXRWM1dUtnNEF1b2ZkLUxkVjZ1TW5xeURkazdHNHdVZk9WcVdQWWp3WXJWbkdQZUVYWHZianBSbnEycGo2Ui1lQ0d4QmpQMUxq?oc=5",
+      "host": "finance.biggo.jp",
+      "source": "BigGo ファイナンス",
+      "summary": "",
+      "publishedAt": "2026-11-24T00:55:00.000Z",
+      "image": "",
+      "categories": [
+        "case"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "2451696c3f18",
@@ -4519,23 +4621,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "curated",
-      "isNew": false
-    },
-    {
-      "id": "cd9231ae0817",
-      "title": "動画生成AI、Premiere Pro、Blenderなど動画・CG本が安い！Kindle本 冬のビッグセール",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xTDhvWHV2U2NZaHF3WHhfV19LQ3hpS1pJamxuSGZTaUtnU0ljcG52OWpRcDNYZGxORnBCNnhvQlVYYjd1Q1c5c2ZaMWRmNlF6eEhOb3AtdmhtTnZHcVZUSHBMMVpoc2trWHYxVXNJcVRLMXVHVkE?oc=5",
-      "host": "forest.watch.impress.co.jp",
-      "source": "窓の杜",
-      "summary": "",
-      "publishedAt": "2026-11-24T00:47:20.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -4647,11 +4732,11 @@
     {
       "id": "d04102ea7d2f",
       "title": "ホットストック：ＡＩ・半導体株が大幅高、米ＳＯＸの14％急上昇受け",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDYnVxYjBOcjE4aEkySWV4UVNVMnYtbXRYZGFWU1pIWkFNTTFveV9weFBtOGFHeXdQbTlhb0tTMWYxSE5xWDNmeTBEWHRMd0ItZmVfRWtwN1Z4R3AxQm45Q2FrVnlBQjV2ZnpqM0hNVFpNSXl4NWJ4ZA?oc=5",
-      "host": "tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxb1Qza1djWTJhQ1pEQW1ZUTRHZWhWMW1WODFSb2hIdDFtRlc0RGNKX2E4QXd3TzEycW81dkdVMmZfSDJhb0Vscjl6NjZtUWJ3Nl8tclpuVEsycjZvc0stQnJnV3B0dzlWOG4yN3plS3ZqSHZFMENZ?oc=5",
+      "host": "es.tradingview.com",
       "source": "TradingView",
       "summary": "",
-      "publishedAt": "2026-11-24T00:31:00.000Z",
+      "publishedAt": "2026-11-24T00:31:26.000Z",
       "image": "",
       "categories": [
         "infra"
@@ -4696,23 +4781,6 @@
       "isNew": false
     },
     {
-      "id": "ef4eb407eed1",
-      "title": "【速報】日経平均が大幅反発 一時2000円超上げ フアン氏復帰でAI相場を巡る不安が後退 東京株式市場",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4NGpCdmZDRFczWktoREVmOEFWQ3JDLUhFQUZWa29hV1lZQVNaQ0EwaWhzWXhrRjMyYWQ1TFhLWG1rYThodG9EY19oTENzVDBrdEZiLXdJbl9JTnRWaU4taFkwR0pVeVZpaHlGX1dn?oc=5",
-      "host": "article.auone.jp",
-      "source": "au Webポータル",
-      "summary": "",
-      "publishedAt": "2026-11-24T00:24:30.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "89e3c1dbf5f1",
       "title": "韓国株が急反発、サムスンなど半導体高い－フアン氏復帰でAI取引復活",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96bEZwRk1sTzhvM3lpdEJjNEg5X3BTZVpsUEEtbDViOG9CNlU4SktZUFRyWVJTNXRGZVVNVWFGVml1SF9kTXRINnBVVVlHUHRmQ21QZHpWcllOeHB6aVhjbWhWbW1ha1pyelVDWENBZkE3M3ExZzBZ?oc=5",
@@ -4727,16 +4795,16 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "cdea8bc8a4d7",
       "title": "日経平均は反発で寄り付く、ＡＩ・半導体関連株先導で買い先行",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNk12eDNKOUJCWGNPVUp4SmRrbld5R093RmlnT3d0Y3E4VDkyMnFpdlVQZVJ3MUgwMndBbzhUbWZwOWlmWWMyZTRuRzYyZzRROXV2dVVYdW1NbVRNaWNFMmp3dVl0bmZ1cFhFcnR5Unc3U3dfMGJxRUgxOXEwLWJTQkdnYmFPUQ?oc=5",
-      "host": "reuters.com",
-      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04aFR5eWNTbkNITUx1aEo5UU5MSURsYVdHWXF6a3llZFVjcHl2QnlMdmZ3NDlTQ3Qwa0dTLUFTcjhYUm1mbEx1azRpNmhuTVlETW9kUVZGNDFHdw?oc=5",
+      "host": "newsweekjapan.jp",
+      "source": "ニューズウィーク日本版",
       "summary": "",
-      "publishedAt": "2026-11-24T00:20:00.000Z",
+      "publishedAt": "2026-11-24T00:19:00.000Z",
       "image": "",
       "categories": [
         "infra"
@@ -4762,6 +4830,23 @@
       "viaGoogle": false,
       "sourceKind": "curated",
       "isNew": false
+    },
+    {
+      "id": "da739a1c235c",
+      "title": "議員ら、NvidiaによるJensen Huangの復帰決定を受け、監督強化を要求",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ0xvVVhhQWZPV29TUk9rSUhwaGQ3czNIX2p5STRXSDhCOGlnc3ZWZ1o3SlJjUzFYZnVpamctX2VrN2VEdmNXSHZXc2taaFVnOWVNWFlpa21lcFpERk9WZGI0MFA5Zm8wMWxSNGNFUFlIV1d4VnZ5Snh2dEhoZHN3MEtYb0p4dWlzN3NvNmtkaTV4Zw?oc=5",
+      "host": "unite.ai",
+      "source": "Unite.AI",
+      "summary": "",
+      "publishedAt": "2026-11-24T00:12:07.000Z",
+      "image": "",
+      "categories": [
+        "infra"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "4b8e3d799e35",
@@ -4815,6 +4900,23 @@
       "isNew": false
     },
     {
+      "id": "b48ced89a090",
+      "title": "日経平均が大幅反発 一時1300円超上げ フアン氏復帰でAI相場を巡る不安が後退 東京株式市場（FNNプライムオンライン）",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53VUZPQjBJUGszVjRURzRDbHd4bWtFZ0xtZmFVUnp2Z09NLXllNDh4U09CN0s1a1JuQzA3Z3VoUVB1OU00UFN2TG5xT1pGcG5TUUhkenJkM2lXRThHM1RGVS1QTk13VEZ3cG1Pd0lNRTl0QQ?oc=5",
+      "host": "topics.smt.docomo.ne.jp",
+      "source": "ｄメニューニュース",
+      "summary": "",
+      "publishedAt": "2026-11-24T00:06:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "d319d41b98f5",
       "title": "広告業界で 生成AI の使い過ぎが深刻化 中身のない提案書が現場の時間を奪う",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTTNFZE9lMFNmNXV5aTY0aDNzMy1Sd1N3bHI0NmF2V1ZkaGEyV3htZU5PUGVQY29icy1BZy11RUFaZGxnNXp6eHNxTzV2cThGVGhuNEJwaHltT3JCak01M2hab2h5aUtxS0FFb0lYUmo3RXgyQTZ4aklRNThkay1GM05sNmdMQ2hxRlRkRkF2Si11ZWxGejlMVnNiQ1NRUzEwZWxxRXRR?oc=5",
@@ -4863,24 +4965,6 @@
       ],
       "isPR": false,
       "viaGoogle": false,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "aab04707dad9",
-      "title": "中国発AI「Kimi」はどこまで仕事をこなせる？ ～米国モデルに迫る性能を、市場調査や資料作成、3D Web・アプリ制作で試してみた - 柳谷智宣のAI ウォッチ！",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tZkpXcjd3M0l6c3dqcTFNUVVYQ19SaVhrZEUxWHlTRkdIbThvZ2hFRGlLaU02Qnp4YmhGb1R1NVdHS0tFbmtwRlVtbGVPclBob1UyakpWUmkyNDByc1pQR0hsZTlMQ0IycVFQUmFnN0pvNE9YaU5qUQ?oc=5",
-      "host": "forest.watch.impress.co.jp",
-      "source": "窓の杜",
-      "summary": "",
-      "publishedAt": "2026-11-24T00:00:00.000Z",
-      "image": "",
-      "categories": [
-        "model",
-        "product"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
     },
@@ -4951,6 +5035,23 @@
       "viaGoogle": false,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7f7b444a78cf",
+      "title": "テレポートが米AnthropicのAIモデルClaude Mythos 5.1承認取得",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5IeTN4RmdJRUpxODk4VzRrdXF0YnhQUy12eTY5RkRxTV9jUmxxUzBXNk1LT0NjcWptczkzMWw4TUNHN0x6Rmp3?oc=5",
+      "host": "news.dellows.jp",
+      "source": "Dellows News",
+      "summary": "",
+      "publishedAt": "2026-11-23T23:24:08.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "6c35b33003f0",
@@ -5436,6 +5537,24 @@
       "isNew": false
     },
     {
+      "id": "e8cf3c98a4d7",
+      "title": "半導体・AI関連株が軒並み下落 市場で何が起きている？翻弄される投資家たち「理論上より売られている珍しい現象」「AI関連企業が儲けているのにバブル崩壊を前提に売られている」（ABEMA TIMES）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIQWVYeHNWek4xbzE3VjF1bWJmdHduS1poZUk4emVsYVkzU2ktOWRZemtaZ3RvVG5KTFRDb1NJa3ppUjV5MTBQSmc4bzZjT3c2bkZCTE13M3dJTFBBQ195OFRNNkxta0ZxcWY0Mnd6NlFzZEUtdHRwZVhkQURvTjA?oc=5",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-23T22:10:23.000Z",
+      "image": "",
+      "categories": [
+        "business",
+        "infra"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": false
+    },
+    {
       "id": "35c7177405e5",
       "title": "700件超の論文を分析 安全と成長の二兎追う",
       "url": "https://xtech.nikkei.com/atcl/nxt/mag/nc/18/111500581/111500005/",
@@ -5728,24 +5847,6 @@
       "image": "",
       "categories": [
         "product"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
-      "id": "e8cf3c98a4d7",
-      "title": "半導体・AI関連株が軒並み下落 市場で何が起きている？翻弄される投資家たち「理論上より売られている珍しい現象」「AI関連企業が儲けているのにバブル崩壊を前提に売られている」（ABEMA TIMES）",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbi1OQzNSenYxbExwYlN2WVZxVTZQSE9BN3p1ZllFQTZMX0o3bzJtdG8wT2R1VGZSNzZyUlJMdnpNMXBiZzhJZ05NLUl5ODIwLW9kYjY0VWJqLThQZERiT2J1NWFPMmFFZkNERm9tVWQ3T1dSdFYxOHBUelBhejc3aFBkOXBuRDI4aWdOQjBB?oc=5",
-      "host": "news.yahoo.co.jp",
-      "source": "Yahoo!ニュース",
-      "summary": "",
-      "publishedAt": "2026-11-23T21:56:03.000Z",
-      "image": "",
-      "categories": [
-        "business",
-        "infra"
       ],
       "isPR": false,
       "viaGoogle": true,
@@ -6115,23 +6216,6 @@
       "isNew": false
     },
     {
-      "id": "e35c11e6b2d0",
-      "title": "Anthropic、コード迅速化支援「Claude Ship」提供",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wRWtvN1F4aThaTUxaMXE5dHN3Q2x2QmxPX1A5NDhsQUxrU0xuOGxyR3JVb0ItNkxleTUwQzE2RTI4QVZWOTRRWW05cFg0cUZOcVhUSTUwOERFdmNWMEtiS18yQ09YWmxsTUJ0emdqajg4QmZxbzJ6Ng?oc=5",
-      "host": "tradingview.com",
-      "source": "TradingView",
-      "summary": "",
-      "publishedAt": "2026-11-23T20:00:22.000Z",
-      "image": "",
-      "categories": [
-        "dev"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "c2a74a66242c",
       "title": "超電導・水冷・光電融合に商機、電線老舗SWCC技術トップ「AI市場攻める」",
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/02127/00210/",
@@ -6375,23 +6459,6 @@
       "isNew": false
     },
     {
-      "id": "4fbdb0fd415e",
-      "title": "データセンター、半導体開発…AI企業「垂直統合」の動き 巨大化にリスクも",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoNDRYekZEdkMwU2kycDE1VGE3X1QtZlh2SU03NXhVZTdDU1VJNGpVTkQ1SHhfNTNKS1BvdmlOVElmYkgtSTN3YV9xdGFuWURTTkYwM2lyUzQzSnl1aVZPVWtR?oc=5",
-      "host": "business.nikkei.com",
-      "source": "日経ビジネス電子版",
-      "summary": "",
-      "publishedAt": "2026-11-23T20:00:00.000Z",
-      "image": "",
-      "categories": [
-        "infra"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "343a7b9e9601",
       "title": "米製AI半導体、広がる対中「迂回」輸出網 日本にも拠点",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa2ViY3JKd0hRNURfc3Zqd2hUSTctdmdFcURmVktnTi1wQ3F2VmhJbGV5Z2pNNUlCdWFBRTBVazdOU0FpVDk5NWJRUi1IQ09ZVGhKWnUxbWRxanVVLXZaOFlueWRIc0Q2dUltbWlPY0JPUmdhRXdTaXJtd1BXajQ4VXN0SXlxSDF6UDg5WA?oc=5",
@@ -6478,6 +6545,23 @@
       "isNew": false
     },
     {
+      "id": "74b7fab34827",
+      "title": "米中間選挙の結果、銅市場とAI需要見通しをめぐる規制の不確実性が高まる",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMkxqNF9udUVCLUZjOEFwdHZqT0FXQUYwNXAyaVF3X1pEQTB5RUdjRWszcUlPVmdZVTFXUDhZTFpjQ2VBTnN2UHE1dEJld3JDOVFtVHpoOUMtcVhmTmZ5VUF5ZF9EclNMS3pydlI2WDkzNVdvSFVnenVyTUV0dTk4NWpoNmo3MjhwRnRN?oc=5",
+      "host": "tradersunion.com",
+      "source": "Traders Union",
+      "summary": "",
+      "publishedAt": "2026-11-23T19:08:36.000Z",
+      "image": "",
+      "categories": [
+        "policy"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "ef89a63aa2e8",
       "title": "「AI業界の中銀」エヌビディア、その資金循環を図解",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yVWtDdFlfNDh4R0dUMFNfRTVLRmgyXzhuUy1YT2tRcTd6M2pQS0l0YVd5WDlIT1pzWWthaElnS3JLZWoxSTRScnpxRWc?oc=5",
@@ -6510,6 +6594,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3d312a8f520c",
+      "title": "Main Sequence、オーストラリアのAIスタートアップP3 Stateの9,500万豪ドルの資金調達を主導",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmQyeFdyanNycUJTb3Rfa1RxOFBKQ3pWa3RpX1ZCSE0zcE9VX0NIUjktMEd6ekVGeW4talktY2FIMW91X0lyRl9jbkUyVWIzSU5VTWFzWnZhem05NHUyNGd4ams1VUVTb3FpMEl2UmxkQmJ6R2lMV2tmY0R4RFJjX2QwNW9aM0t2UThiY2lSXzVGYl9UbWt3?oc=5",
+      "host": "unite.ai",
+      "source": "Unite.AI",
+      "summary": "",
+      "publishedAt": "2026-11-23T18:46:03.000Z",
+      "image": "",
+      "categories": [
+        "business"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "0d979d818724",
@@ -6561,23 +6662,6 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "3a541fd54d9b",
-      "title": "Mercedes-Benz、工場の電気系統診断にAtlas AIエージェントを導入",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa0NkbG1IYjdHSGhrTVZYQ1k3MTN0bkhSZTNzVlItMW5VSTdYRFJ1eWlfcXltMzI1WkNyb3VmMXYxclYwS1laQWZucXZJcHdLM0tVYzAtSU01dmRqMXQ5WlBrX0lGRnFXdzVCOEprU0hrN0dBOXJrbENwdVRCUFNqbm8xZEdNV1ZoRkFmNHFrS1NSdGFBRnB4Nl9fMG4?oc=5",
-      "host": "unite.ai",
-      "source": "Unite.AI",
-      "summary": "",
-      "publishedAt": "2026-11-23T18:17:02.000Z",
-      "image": "",
-      "categories": [
-        "case"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "d64e07c1fc0d",
@@ -6719,11 +6803,11 @@
     {
       "id": "860d779aea82",
       "title": "米大手銀、AIエージェントの統制を強化―OpenAIモデルの「脱走」受け緊急停止策を検討",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ndzNqSkIteFJlLWgwMDVyNk1vSmI1T1ctV3dZV2ZmZ21mQnVIRGZ0T2JVUHVmNGlENWZFTjZHel96T01SNjQ4eDFRczdEZlkzTTI0aTJ3Y09CVUxZMnJHcVhwdmdFZHZz0gFoQVVfeXFMTWd3M2pKQi14UmUtaDAwNXI2TW9KYjVPVy1Xd1lXZmZnbWZCdUhEZnRPYlVQdWY0aUQ1ZkVONkd6X3pPTVI2NDh4MVFzN0RmWTNNMjRpMndjT0JVTFkyckdxWHB2Z0VkdnM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aZm5rNGkxekVGcVhlbm5HempoVUFqNTR3bkw2Ujg2OUdGZzlSOGlmM1lCa3IxUURNLXN5MjRyR3J3M2ZOOGxMTWJkek41V25xaTR2TDBPTkVZT2h0T1VMVW03UdIBaEFVX3lxTE1ndzNqSkIteFJlLWgwMDVyNk1vSmI1T1ctV3dZV2ZmZ21mQnVIRGZ0T2JVUHVmNGlENWZFTjZHel96T01SNjQ4eDFRczdEZlkzTTI0aTJ3Y09CVUxZMnJHcVhwdmdFZHZz?oc=5",
       "host": "zaikei.co.jp",
       "source": "財経新聞",
       "summary": "",
-      "publishedAt": "2026-11-23T16:49:00.000Z",
+      "publishedAt": "2026-11-23T16:49:43.000Z",
       "image": "",
       "categories": [
         "other"
@@ -6732,23 +6816,6 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "21a59ab8306d",
-      "title": "OpenAIがバイオテック企業を買収した理由｜a16z",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuWnNfeGl3NWVZRVBKVjVhczFFeUlwZ3pKaHFtWG9iblFKSEpzSWhkTFI1d2Z1VjlLMGMxdTIyaVdSbHJoZjFvM2hYRWlvak1OdUpkLVVQVUVkdjRDc1E?oc=5",
-      "host": "finance.biggo.jp",
-      "source": "BigGo ファイナンス",
-      "summary": "",
-      "publishedAt": "2026-11-23T16:47:21.000Z",
-      "image": "",
-      "categories": [
-        "business"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "b66d77a515a1",
@@ -6922,23 +6989,6 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
-    },
-    {
-      "id": "5f03fd358694",
-      "title": "CotocotoWorks 汎用型AIで始める改革 中小不動産会社の競争力向上",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrakg3S3NieFk4RWJJRVJOZ2Z6aGM2YU1zdEdnRTYwRnhmOFlPQUJUVWFlanhvcmpWNUg4MW8td0g5aWkyN2dWdmVVZ2l1dVoyRnc?oc=5",
-      "host": "jutaku-s.com",
-      "source": "住宅新報",
-      "summary": "",
-      "publishedAt": "2026-11-23T15:12:10.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
     },
     {
       "id": "714e0bd85120",
@@ -7236,6 +7286,23 @@
       "isNew": false
     },
     {
+      "id": "1545c52e63cb",
+      "title": "Nvidia CEOの人事決定へのトランプ氏の関与は「憂慮すべきで問題がある」とウェス・ムーア氏",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWU1hNEh2d3BQSzNaWnRUOEZwaFNJaWkzczVtdEtUNmdPZVdiRWgzZ3lwY3BuZEMtZWo5SVlVVG1yaE1xRzM0Ty01Q2JuWUNPSEhKZzBpejBVTFo0QU5RbE0yRHB3el9qdFNRT28xSW1jV3h2eTNqQXktMTJqMFlNMTA2bVViMG9ud3psMmpWTQ?oc=5",
+      "host": "mezha.net",
+      "source": "Mezha.net",
+      "summary": "",
+      "publishedAt": "2026-11-23T13:08:00.000Z",
+      "image": "",
+      "categories": [
+        "infra"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "8e51ed585b8c",
       "title": "Anthropic、Claude Shipにプルリクエストの修正・承認機能を追加",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOHFiWDhDVDNUNU50RExrbVlHdTl2R0xZTVRtTm9KUzgxTF92NXdTdnJRNWRhamhhOFNZWDVZby1JeWVkNFhjRmk1bUFOTFZGMjR3dzVpUWVaRlNxVGJXMmtDVkpYZTB0OVh5MVRyMmdnU0xuUU9fYlAxenhnQWl5S1Bkd0RQY1hsbklCZ3FTSUZNMDhuLXg0ekN1Yw?oc=5",
@@ -7337,7 +7404,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "6b0b25aecc83",
@@ -7373,6 +7440,24 @@
       "viaGoogle": false,
       "sourceKind": "tech",
       "isNew": false
+    },
+    {
+      "id": "72e726865189",
+      "title": "米ドル／リンギ相場、米国のAI半導体輸出規制でリンギ安進行 GDP堅調でも4.11台に上昇",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMkNGRk5aR0RBTF9EMU5VMUd0QTFLc3Vja0llcnJ6cnZzOTdFYUE1ekd1ZnNlVWIyX2tnUkROdl9Qd0tGcVZkSUhrYV9QWEFtZE1fdGU1MlFjNE1YOGlNbC1XMnlIV2ZYS1oxVEdrS0s4M096ajd5RGh1SFlDZkpSNnZBSkpraHRfTHNHZVJ6QTRycFZwb1Uwd3dUaEpIWmVCclZ5Q0FFeFhKdGF4TmlLejU3YWpCdkdzMVpWX0NPLU9YRXFCRl85eW8zWWNKeWwyWjJyXw?oc=5",
+      "host": "vtmarkets.com",
+      "source": "VT Markets",
+      "summary": "",
+      "publishedAt": "2026-11-23T11:55:04.000Z",
+      "image": "",
+      "categories": [
+        "policy",
+        "infra"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "da8ff04894fd",
@@ -7441,7 +7526,7 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "4f2b1a6abce8",
@@ -7529,6 +7614,23 @@
       "isNew": false
     },
     {
+      "id": "c3061f810917",
+      "title": "Math AcademyのJustin Skycak氏：AIは数学スキルの必要性を消さず、その価値を再評価する",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90bjdzTmc4eUZiZElYM1ZrX0JZcUY3aEEtbEFteFNETWx0bGZzbGpqUHF5ekhfRVdUdHhoT01XdzZiRWpPdHlKZmFsVTZrY1RNeGFKVDJUX3pyUQ?oc=5",
+      "host": "finance.biggo.jp",
+      "source": "BigGo ファイナンス",
+      "summary": "",
+      "publishedAt": "2026-11-23T11:08:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e5a9d9f46300",
       "title": "agy（Antigravity CLI）のモデル7通りに同じ3課題を解かせた",
       "url": "https://zenn.dev/hiroxasobiba/articles/agy-seven-models-same-three-tasks",
@@ -7580,6 +7682,23 @@
       "isNew": false
     },
     {
+      "id": "e52894752806",
+      "title": "小型のAIチャットボットが、フロッピーディスクからMS-DOS 486コンピュータ上で動作する。",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ2pxOGUxU3FBUXlRcGNiZXk1LUhvTTE1YzFfdUFlV21EaEpudWlzRVJ6Y1JZNklkZ19lSC14STdpXzlEWC1yc2pGTmZEbEM1Vzk2RHBaQTZNMG8xQU9OaGpnbnB5ZENyT25QbUwyaE5jY1AteGJpVEQ3WFFnOXkwWFc4SkluZjVLaE1kajltZllmT2FJ?oc=5",
+      "host": "vietnam.vn",
+      "source": "Vietnam.vn",
+      "summary": "",
+      "publishedAt": "2026-11-23T10:28:47.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "e6dd723663ff",
       "title": "設計の前に「なぜ」を固定する — 52行のスキル why-first を実測した",
       "url": "https://zenn.dev/ptux/articles/extra-why-first-skill",
@@ -7615,6 +7734,23 @@
       "isNew": false
     },
     {
+      "id": "e62e9dfff835",
+      "title": "Claudeはついにリーマthe仮説を解いたのか?167年越しの真相",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yeHhITWEwWVR6ekgyQ2EtSzRiZTg2Nl9FRmJsS3Q5ZTkzVWhaYmp2d1FHREJwUmRZcTRINnpXWE4xeEVFX3lraGgxR3dBdVRDbjVZVUo3aVVTS3BQa1c0aTNsXzI1Sm5jTnZqMg?oc=5",
+      "host": "korben.info",
+      "source": "Korben",
+      "summary": "",
+      "publishedAt": "2026-11-23T10:23:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "f2b1b36572d1",
       "title": "「アプリを作る仕事」は2028年に終わる？リーマン予想証明後のAIエージェント時代に残る技術・消える技術",
       "url": "https://zenn.dev/ainohogosya/articles/84a81ac1e1ed16",
@@ -7629,23 +7765,6 @@
       "isPR": false,
       "viaGoogle": false,
       "sourceKind": "tech",
-      "isNew": false
-    },
-    {
-      "id": "1ede832c4942",
-      "title": "オラクル、資金不足のうわさを否定 OpenAI契約の融資は全額調達済みと強調",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ITkh1Y1F6OXczQUhldzBUa3VqNkdpU1BVaWZ2ZDRnMUxSTDg1bkpHVkkweXdTMmRSLWVqZXBuQ0J0WWZwbzVkbktEYVRfdDlsWmpaZThFdmhBNmkwWU9GTWRtZDZvTHV1NmN6ZHN2Q1pvUmVp?oc=5",
-      "host": "finance.biggo.jp",
-      "source": "BigGo ファイナンス",
-      "summary": "",
-      "publishedAt": "2026-11-23T10:05:00.000Z",
-      "image": "",
-      "categories": [
-        "business"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
       "isNew": false
     },
     {
@@ -7724,23 +7843,6 @@
       "source": "Yahoo!ニュース",
       "summary": "",
       "publishedAt": "2026-11-23T09:52:25.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
-      "id": "f9460b78c18f",
-      "title": "国債利回り、AI関連借り入れ一服まで低下の気配なし－JPモルガンAM",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCUGZMZ3RtclV2MEctWkRHZDlMc2trS1kySzlJbjZrU2N0Z1llRjI1SU4wbWVRWGwxSHMySkVWQ2UzYnBvWERyNGo3SGRLMDZIWVJUcTd3WlBZeWEyZjJpNVZxMUJnVTQ?oc=5",
-      "host": "newsdig.tbs.co.jp",
-      "source": "TBS NEWS DIG",
-      "summary": "",
-      "publishedAt": "2026-11-23T09:51:00.000Z",
       "image": "",
       "categories": [
         "other"
@@ -7837,23 +7939,6 @@
       "isNew": false
     },
     {
-      "id": "efe7b08eff3e",
-      "title": "【ＡＩ暴走】「制御不能」の脅威 法規制、開発停止の声も",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtVVdTdTROaUhOQVE4c3NBa3BRUjNraktwOUIxcFlEMVYzd2tEQnh5d1JrWmtKQ2dJQ2l2TE0yOHAyWVAxTUg4NUF6cXdmVEdQdVE?oc=5",
-      "host": "sanyonews.jp",
-      "source": "山陽新聞",
-      "summary": "",
-      "publishedAt": "2026-11-23T09:15:32.000Z",
-      "image": "",
-      "categories": [
-        "policy"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "a57ea08079f7",
       "title": "ChatGPTの「無制限」はどこまで本当か――「Codexを回すほどChatGPTの枠も減る」注意も",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5OZGlZMy1JNkFYT0JBN0FFZ1RzVmo1bkdLcnk5MGUxZ3BjajdoQ3FUVDFubnNmMEpMa3lEcUtUSGV3UQ?oc=5",
@@ -7869,6 +7954,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "5f683c5cd7f3",
+      "title": "メッセンジャー、AIによる会話アクセスを巡り「遮断」と「開放」に分裂…KakaoTalkは自社AIで防御",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KdmpCQWU1bzJwM2xmV0JoUWJDbUs3MWpRT0lkYmw5aFh0RHFFTlU5ZEtVdU16WEhhMGxzUEJfbTVQZkNIMkV0Y0FKRVJLU3RxZ1JNeGdQYWUwb2o5NHhfZTcwQVpEb2JzSHZ6cXZzQmotSzRx?oc=5",
+      "host": "finance.biggo.jp",
+      "source": "BigGo ファイナンス",
+      "summary": "",
+      "publishedAt": "2026-11-23T08:25:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "9263f457ab0b",
@@ -7957,6 +8059,23 @@
       "isNew": false
     },
     {
+      "id": "1d8c1e8b16d2",
+      "title": "ウォール街「Anthropicの社債、ジャンク級は不可避」…9000億ドルの支出約定が足かせに",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWdFNUQmcydU1KMUF5Tm4zZ3RkT0NVTnBuSTlwbEcwczh4Q3lOeUVTZG8tbnVwRWJTY2diTFJDa2Z6M29Na081M29nak9TZmRsNW9NWklyWk9DMFA4NWlRdV9fV1VzS0ZQWWo0OFZ4d0p0RFNO?oc=5",
+      "host": "finance.biggo.jp",
+      "source": "BigGo ファイナンス",
+      "summary": "",
+      "publishedAt": "2026-11-23T07:56:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "1e5f7f96b605",
       "title": "【ＡＩ失業時代の警告】生成ＡＩを使わない社員は「過去の人」に？チャットからエージェントへ仕事が激変 - https://kabu-ir.com/",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3Y0xKbDVuekk1YzV2c0ktZWlUbFJoaTlBUE9MYWFSY1hOXzdJYVZXQ1l2VlhMUTZnZEdQTU0zRThpdHlYY1dQbU9sU1J5SlM3SkVvNQ?oc=5",
@@ -7972,6 +8091,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "e4d1a1447d4a",
+      "title": "韓国、自社株買い規制を緩和 違法空売り監視を強化 AI株安の深刻化受け",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLLV9IbkFXTlFxeDRWeER6WGxLb0VWRTBZSnlYUXI1QnU3OW5SQ1VZZXJsVnRCSnl3NWZ1Y2hJZW84bXBLcGNWRnJNV1FtZjB1bnJkTHAxLVh2VzZPNFZXaHAwWWNJckwxd3pPNDl5anY4REwz?oc=5",
+      "host": "finance.biggo.jp",
+      "source": "BigGo ファイナンス",
+      "summary": "",
+      "publishedAt": "2026-11-23T07:25:00.000Z",
+      "image": "",
+      "categories": [
+        "policy"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "02a7723c1b8b",
@@ -8162,6 +8298,23 @@
       "isNew": false
     },
     {
+      "id": "c68e8d934bf2",
+      "title": "店舗作業時間7割減・AI分析で売れ筋優先陳列…ファミマ、飲料補充ロボット導入",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8xaEtDY0x6QXNPMUxqZmdNY1FDTjRzUWpWRXhQVlRfTnp2bEtabVB5ZmdpUG5xM2l2WGQ3XzlBa1Z5Zw?oc=5",
+      "host": "newswitch.jp",
+      "source": "ニュースイッチ by 日刊工業新聞社",
+      "summary": "",
+      "publishedAt": "2026-11-23T05:02:00.000Z",
+      "image": "",
+      "categories": [
+        "case"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "59d54e036c69",
       "title": "Anthropicに25%投資…未来アセット、LLM集中型ETFを発売 : 金融 : 財経日報",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhWGNkS1hzQVhJa2ZGWHVqYUxTYVd0Y0puc3NGbWJpUW1YenA1Ym01VjhBaFoyNVRBbjUxTk1RZXNlWjhpWEc1aXN5RklheXN4TWUyMVduSzFySEdrX08yWndnQQ?oc=5",
@@ -8229,7 +8382,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "65c1764def4e",
@@ -8246,7 +8399,7 @@
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "42d1b8d45e58",
@@ -8300,6 +8453,23 @@
       "isNew": false
     },
     {
+      "id": "d4a68f7bdfcd",
+      "title": "AIは「社員」 OpenClawとClaude Coworkが示した未来",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43dmNET1ZSMm1SR2txRXE3TGpXM0E1UHBxMHVScmZXZHVMTXhKNjQ2TDEtMVJneXlwaTY1SXZudjdTRE4ybXFXMkJkbE9YZWd3OTgxYklOYTZuSHVKQ1lR?oc=5",
+      "host": "xtech.nikkei.com",
+      "source": "日経クロステック",
+      "summary": "",
+      "publishedAt": "2026-11-23T02:09:40.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
+    },
+    {
       "id": "7032b932f6e9",
       "title": "OpenAI ChatGPTモバイル版を刷新 Dotsは健康データと連携",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10RGlIOU0xY242N3ZFUV9jU2dvb3piYWlmT1Q1Y3pPMkJTVmc0YW5fQnpLNlI2X1VweHB5Y1JOamwyU21mdkc3MDUzc1FFQm4ta1JJ?oc=5",
@@ -8351,34 +8521,33 @@
       "isNew": false
     },
     {
-      "id": "54c515ddc35b",
-      "title": "【解説】リーマン予想、Anthropicの数学者がClaudeと証明と主張 Leanの検証は大半を通過",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiX1RyNl9rb3c4d2FGODFjMU1FOENidzBtd1Z2blZBQ1pVR2hVSzhtYzk4a0Nobmt3WWFwazdjMlhDcUhGUnNyTjRqbzFnUkJBN1Zr?oc=5",
-      "host": "innovatopia.jp",
-      "source": "innovaTopia",
+      "id": "4d4ad25435de",
+      "title": "AI兵器、法規制合意せず 条約会議、米ロが抵抗",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOX2UxdVVZM2J6NHhWa1JSelppbXp2enFadzBGNEZvdW9NZm5oekZfWjJ0ZnFTSGlWaFFsLVVZRS1uQWNvYVNlRG9xQnpxM1JEMnNxbzdiMXJzWlQwNGdrcmx0X2VQVmVjb3dSX0d0ZDE1VlBhRjBNNmZHc1NUblUwbXpqd3U1TEZY?oc=5",
+      "host": "hokkaido-np.co.jp",
+      "source": "北海道新聞デジタル",
       "summary": "",
-      "publishedAt": "2026-11-23T01:42:23.000Z",
+      "publishedAt": "2026-11-23T01:33:28.000Z",
       "image": "",
       "categories": [
-        "dev"
+        "policy"
       ],
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "b0d115430f8d",
-      "title": "米AI半導体規制、東南アジアのデータセンターに逆風",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOHZGRWxOTzFTODI0V1p6TnAwYVhOanlYc29aZE1XMTdLS3Q0Qm1abEctUWdiaVROUXZST3pvYmNzc0RSaWlxcmdBazFBcFZGSkNva2lweGVJM2d0WGlOR1RxMHNnQW5pYmFVcmZlMjRqcTFiems1UmdRT3NETS1VOEpvYTFlQVR50gGcAUFVX3lxTE83NVVDeTZBZllwVEV6RlF6NkRLS2htaC1TSllfWjRJSU1iblhsQzRkUjE1Nmgxckg1NmVjMHg2YVBLQnlROWtwQXo3QlI1dldzUXJYY29reFJXdDRHMFp2bmdlLUZTV1dnRDZZWURrc3R5bW1PRDY2SHJqVmh4c2dWaU1GQkJyWHBYS2lUZXNlYm1jRmx2RzNab2tvUQ?oc=5",
-      "host": "biz.chosun.com",
-      "source": "Chosunbiz",
+      "id": "8de12b3f3f92",
+      "title": "Googleは、Gemini上で無料のGIF作成機能を8か国で展開する。",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcXFIcDAwTy1hNVZIYUxKZXdMMVJWUnF5VGFTTElGMFdDWTBmdFdaS3hTTWhkaUhhMDZmbmNhM1BDY0x4Yzg1cWlmMWUwbFBCdkxNZllzT2VDcjJNbWFOZEZ1eVVvSXNHTDJTcF9PbkNpTTNYekZ0c3ZQbDBydWI0TUY2Y05oWS11M1oySXAzSDNXN01ZQ2N1MUhaNVNma0s3SkE0?oc=5",
+      "host": "vietnam.vn",
+      "source": "Vietnam.vn",
       "summary": "",
-      "publishedAt": "2026-11-23T01:38:00.000Z",
+      "publishedAt": "2026-11-23T01:23:50.000Z",
       "image": "",
       "categories": [
-        "infra",
-        "policy"
+        "other"
       ],
       "isPR": false,
       "viaGoogle": true,
@@ -8419,6 +8588,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "3327d551a9d9",
+      "title": "MiniMaxの内部モデルが複数の暗号難問を突破、求解速度は最高でClaudeの4万倍",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4V0wyRzFtbzFWazhLRWFRMjljN3BVQkNRVG5td3NxamxTMDZ3V09OOHp6eFh3cmVQOXRUeVBNdGg3bnY4SW44SXNOdDhLRGtLTmtYaEJVWkZCcUVsYVN3TFVoMGFZdGVyLUpWOXNVUTVWOWRF?oc=5",
+      "host": "finance.biggo.jp",
+      "source": "BigGo ファイナンス",
+      "summary": "",
+      "publishedAt": "2026-11-23T00:25:00.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "a35c3bdd9483",
@@ -8521,6 +8707,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "7ddeb50ee38b",
+      "title": "アモデイ氏がAI失業対策にビデオゲームを提案か、WSJの人物記事で判明",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGFhcEkxMGJpYm5zVnNfWFo0QjcyUF80dXB1ZjZhTG1oMlp4aVRUdWg1YkVvd2xEbGlwVFVKQXBSSmpoSEJ0ZmVWS3ozQld6U0ZwQlJYQ3dOUUY5MXo0RFpyY0FlSGEyWW1PMm5UUHY3R1ZaWmxQVnJmZlhhZlJPMmNBczR2ZW9BTkdZb19FTQ?oc=5",
+      "host": "pasqualepillitteri.it",
+      "source": "Pasquale Pillitteri",
+      "summary": "",
+      "publishedAt": "2026-11-22T23:11:12.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "afa8866b52f9",
@@ -8696,23 +8899,6 @@
       "isNew": false
     },
     {
-      "id": "15fbab7e077b",
-      "title": "生成AIニュースまとめ 先週【2026年11月16日（月）〜11月22日（日）】のAI公式発表を5分でチェック",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUYW5hVkluZkJaTkhDQkM2WTBDWlRneEhXWjNqTlVjQnJMYlNGbGRwZkxwNVdXWW5yc3l3Rkp0SHJfRUphVTBrZ2wzZUNYNHBfZUxTNmltMmdzWklZLWNpVXFyRUxWX2ZaQXlET19WSkdKVnFlVHB4akxaaw?oc=5",
-      "host": "tech-noisy.com",
-      "source": "TECH NOISY",
-      "summary": "",
-      "publishedAt": "2026-11-22T21:03:34.000Z",
-      "image": "",
-      "categories": [
-        "other"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": true
-    },
-    {
       "id": "9cfac4170e5d",
       "title": "メルカリの情報流出、AI委託先で何が起きた？ 確認された2つの攻撃",
       "url": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/",
@@ -8730,21 +8916,21 @@
       "isNew": false
     },
     {
-      "id": "43e489c94e5a",
-      "title": "Anthropic膨張",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xTU5nLXBzZXFRbHRnM01GX205UkhRdTFGRXpUaE5jTVhpUmdaUmEweVpub1NzY3lySFpXTzN3alZ5eUFPZHgwZllVT0dTZ1JtOVpvX01nOVdLb25odl9j?oc=5",
-      "host": "xtech.nikkei.com",
-      "source": "日経クロステック",
+      "id": "6854b6d11985",
+      "title": "Nvidiaをめぐる調査が続く中、ベッセント氏は黄氏の復帰支持を見送る",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcFctZkJQSEE2ZDJ3ci1VQ2s1b0pjZkdoYVRwcVpDNFc3R2xtSWRrdlppMF8tQ2ZlczdYRFlSVC1PNVcyRDI5NUxuNGxETWNqdU91LVlXaUtzOHptNXNlZUhNbHVhWUZIcVlCa2RrQVFSeU1qM3RLWmZXOTB6VWt3Smx5WlYwUGdxZk5hcnNtZVlDaUVB?oc=5",
+      "host": "unite.ai",
+      "source": "Unite.AI",
       "summary": "",
-      "publishedAt": "2026-11-22T20:59:26.000Z",
+      "publishedAt": "2026-11-22T20:10:04.000Z",
       "image": "",
       "categories": [
-        "other"
+        "infra"
       ],
       "isPR": false,
       "viaGoogle": true,
       "sourceKind": "news",
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "f8f46644ff9a",
@@ -8815,23 +9001,6 @@
       "isNew": false
     },
     {
-      "id": "9ab252728dd0",
-      "title": "Anthropicの研究者が、Claude AIを用いてリーマン予想を証明したと主張",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMVRvd0xGUHlqM2JFSGJqNWJYZDZyTjlsZTFCTjZnUkU4b2ptcXlhODV2NVJGWmxoekdtQ1RlR2dTa1BvQkJUV0tjc0pQQTd2d1loMGdGS1NVNmk5UDZZaC1PUjZ2QVpadFRSRThnVUNZZi1kel9mRndCeUtKcnZONlNwYkNrQlhSdW9URWh3NUZFY2hFNnhGQVhXUEpsVXpPQkRfUjVoVnFKdXJBX3RKNnB6cjA1ZElMQ015Nnl0VQ?oc=5",
-      "host": "informat.ro",
-      "source": "Informat.ro",
-      "summary": "",
-      "publishedAt": "2026-11-22T14:40:06.000Z",
-      "image": "",
-      "categories": [
-        "model"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "e721f2f88a3b",
       "title": "「既存ユーザーでも50%OFFが適用できた」――Google AI Proが年額14,500円に",
       "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVVW1Kc0Zpbjh2WG0td19hQ1Eta2ZITTBmajZfeElEVHo5cXBGNUQ5eFI1WUNjNjhUdEJHTl93Y3QxUQ?oc=5",
@@ -8881,6 +9050,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "8c5f611f508a",
+      "title": "リーマン予想、Claudeによるアルペギュの証明",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLThYNHBwaXhmWDdjMThHUEFuS3N6aFNTaUZYLVh6NHJhUllfY0V6bGhpLXJNdkRGMENhZHVCOE9JQ2RqVTJoNmtKTVlKYkhabmcxeDJqUk51bmFLRE9KSFdJeklVcGoyUWF4TDBDbi15a1M5SXp2bGhxcFdQSEJUdXFlQQ?oc=5",
+      "host": "meteoraweb.com",
+      "source": "Meteora Web",
+      "summary": "",
+      "publishedAt": "2026-11-22T14:13:47.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "620155f00e48",
@@ -8934,23 +9120,6 @@
       "isNew": false
     },
     {
-      "id": "3c95c391a07b",
-      "title": "Anthropic IPO - 完了、調達総額は約1195億ドル。公開価格83ドル",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iVmtybXBieEF4VHJ0TFQtWnNXRkJRTUNKcFdUOGJZNVRyMEpKUVNlZGdxR0J1bzBub1FoNGFrUmNqeEs4R3RrdVNZLV9DdW1jLUhFTFNpWGxZdHc1TUNGYzJKSl9TUUc2T2ZjNVl5LVdTSVE?oc=5",
-      "host": "tech-noisy.com",
-      "source": "TECH NOISY",
-      "summary": "",
-      "publishedAt": "2026-11-22T13:02:01.000Z",
-      "image": "",
-      "categories": [
-        "product"
-      ],
-      "isPR": false,
-      "viaGoogle": true,
-      "sourceKind": "news",
-      "isNew": false
-    },
-    {
       "id": "9184f2cc91c8",
       "title": "「GitHub Copilot」、法人向け課金とポリシーを変更 ─ チャット保持期間も延長",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBScGhRQ1FiWmFvOHpEcWNYNW8wVnhrR2plOC1Ic1ZqZy1wWWtfcl9NY2ctR3gyUW01UlNMSzVkVkdpMG9SbDVN?oc=5",
@@ -8984,6 +9153,23 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "1b54e585b5c8",
+      "title": "AIがAIを作る時代が近い？ Anthropicですら“開発の加速”についていけなくなりつつある（ギズモード・ジャパン）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zbHUxQkwxZ3dTV1owdjB6MlI5c2l1Nm9DRDVRck5CNTNkbmZLNjlfWThEbDEzLXpEN1p1NllzMVhDVVVadnhqdDFOOWlZZmw1WmtYb3F3MW5OVEZ5SE1IeFU5ell3R2EzbDYzWDVtcUZqV1ltRTRrd0JxeUo3U1E?oc=5",
+      "host": "news.yahoo.co.jp",
+      "source": "Yahoo!ニュース",
+      "summary": "",
+      "publishedAt": "2026-11-22T11:30:01.000Z",
+      "image": "",
+      "categories": [
+        "other"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "2e680010a1f0",
@@ -9035,6 +9221,24 @@
       "viaGoogle": true,
       "sourceKind": "news",
       "isNew": false
+    },
+    {
+      "id": "13e56aa2a7be",
+      "title": "最近、人工知能(AI)産業を主導していたNVIDIAの急落に続き、投資ブームの救援投手になるものと期待を集めたアントロピックの上場も雰囲気の反転に失敗し、ウォール街でAIの強気市場が終わったという警告..",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JWUNDMGZjVmlSdE04TVJrazhMLUtESmZSVHIyUW0tUzBLbWxLblZIMW93aGphb3BLbGk0dm9GQXh4aGprcWZvYkVDakNkcEE?oc=5",
+      "host": "mk.co.kr",
+      "source": "매일경제",
+      "summary": "",
+      "publishedAt": "2026-11-22T08:34:32.000Z",
+      "image": "",
+      "categories": [
+        "business",
+        "infra"
+      ],
+      "isPR": false,
+      "viaGoogle": true,
+      "sourceKind": "news",
+      "isNew": true
     },
     {
       "id": "8b429361050a",
