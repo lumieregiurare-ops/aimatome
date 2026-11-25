@@ -1,5 +1,46 @@
 [
  {
+  "id": "3c3bb13cf14a",
+  "title": "AIに作らせて人が決める 仕様駆動開発入門 ― Claude Code で作るシンボルボード",
+  "url": "https://zenn.dev/kenshi_lab/books/88182160b606a7",
+  "source": "Zenn",
+  "summary": "基本設計書を入力に、Claude Code と一緒に要件・設計・タスク・実装・試験を進める仕様駆動開発（SDD）の自学教材です。AI は作り、人は決めて、承認して、レビューする。C# / .NET 10 / Windows Forms の小さなアプリを4週間で作りながら、CLAUDE.md・Planモード・Skill…",
+  "publishedAt": "2026-11-25T14:44:51.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4db0336a1fda",
+  "title": "Nexent Capital、量子技術対応AI・エネルギー資産向けファンドを立ち上げ",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmxwbURoMVpyWG1NRTVlQXFGaDRUU21JWUcya2x2MWxxbzBsRTF5YTdkcHlhVTM4STJCMl8xSTA1UnhyV0xWOVpHQkZnTXd4RExxUWJmb2dJTnU4ZjR0bjlTeXEtc0lGUDMtVFM1eW8ycEIxTGtOekljeGFFUWdNUU5IQWU2Wm5YTENEUmFBYmRZWHQ3aWVz?oc=5",
+  "source": "Unite.AI",
+  "summary": "",
+  "publishedAt": "2026-11-25T14:41:04.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f642c0d94226",
+  "title": "検索ネイティブ事前学習のQueryLM(360M)を8問から300問に広げたら、「検索が裏目」は消えて正解が1問から17問に増えた",
+  "url": "https://zenn.dev/matsushima_a/articles/day-057-querylm-search-native-pretraining",
+  "source": "Zenn",
+  "summary": "これは何を試した記事か 事後学習(SFTやRL)の段階で検索ツールを使わせる手法はよく見るが、事前学習の段階からモデル自身に検索クエリを発行させ、取得した証拠を使わせる「search-native」な学習を提案した論文 Search From the Start: Search-Native Pretraining …",
+  "publishedAt": "2026-11-25T14:38:18.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "37d41115fbd9",
   "title": "生成AIに任せてよい作業の見分け方 ― 4つの条件で判断する",
   "url": "https://qiita.com/gataca27/items/5775630369563a078f37",
@@ -79,6 +120,19 @@
   "isPR": false
  },
  {
+  "id": "14c8d38cd719",
+  "title": "Claude Codeのルールはどこに置くか——CLAUDE.md・hook・事前承認を事故台帳29件で選び直した7か月",
+  "url": "https://zenn.dev/tottoko_hamu/articles/2026-11-22-180106",
+  "source": "Zenn",
+  "summary": "この記事の要点: Claude Codeでエージェント組織を運用していると、事故のたびにCLAUDE.mdやルールファイルへ教訓を書き足すことになる。書き足すだけを続けると、ルールの置き場所も量も崩れていく。私の環境では、2026年4月23日から11月22日までに事故台帳（事故を1件1ファイルで書き残した記録）が29…",
+  "publishedAt": "2026-11-25T14:23:53.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "fe86bcbb80e0",
   "title": "国連は、人工知能（AI）を制御するためのメカニズムを確立するための協力を呼びかけている。",
   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbUFHT2NPQi1DSTVpVnM4dG5jM0NSZzVZbFNlTXVpT0MyMlpleklhUU9zczJDQXVIZ0Z2TUFZYmpvbkpUb0N6NDdQZlJoRW9Calk2M2JsTVJhUUlwd2JibUhPMjZaZkNyNU5RTHNTckp0Wi02S1B6c3JveElzZUJFbHcxLS00emYtR0V3UkxB?oc=5",
@@ -105,15 +159,42 @@
   "isPR": false
  },
  {
+  "id": "897e4deda6d0",
+  "title": "Claude Code の猫たちを箱庭で見守る「Agent Cats」を作りました",
+  "url": "https://zenn.dev/chorkaichan/articles/202611-agent-cats",
+  "source": "Zenn",
+  "summary": "! この記事は、musicolare tech blog に掲載した記事と同じ内容です。 https://chorkaichan.github.io/ja/blog/202611-agent-cats/ はじめに 「Agent Cats」は、手元の Mac で動く Claude Code のエージェントを、ピクセルア…",
+  "publishedAt": "2026-11-25T14:08:43.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "2c468958d536",
   "title": "富士フイルムBI、マイクロソフトと連携強化 電子化した紙文書をMicrosoft Copilotで活用 30年度までに新規導入300件見込む",
   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0TV9meUhLSFF4cmxOZmQzWjNxWE96eWdTQzNaUXRvMEtFUUd0el93Sjg5VFZyVVRTaGJQb0daLVhGRmRNeFFOaW9MMGdzSUhNNlE?oc=5",
   "source": "電波新聞デジタル",
   "summary": "",
-  "publishedAt": "2026-11-25T14:09:47.000Z",
+  "publishedAt": "2026-11-25T14:08:32.000Z",
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "1468645ed62d",
+  "title": "AIコーディングエージェントがテストを「通す」ためにやる5つのずると、その見つけ方",
+  "url": "https://zenn.dev/anas_alkhatib/articles/e020386e251ca9",
+  "source": "Zenn",
+  "summary": "AIコーディングエージェントに「このテストが落ちているので直して」と頼むと、テストが緑になって返ってきます。ところが中身を見ると、直されたのはアプリのコードではなくテストのほうだった、ということがあります。 私自身、エージェントが失敗しているテストを「直す」ために、テストそのものを書き換える場面を何度も見ました。差分…",
+  "publishedAt": "2026-11-25T14:05:59.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
   ],
   "isPR": false
  },
@@ -276,6 +357,19 @@
   "isPR": false
  },
  {
+  "id": "be8e7434c86e",
+  "title": "Windows で Claude Code が黙って文字化けする6つの原因と直し方（cp932）",
+  "url": "https://zenn.dev/kamijo_aoto/articles/windows-claude-code-mojibake-6",
+  "source": "Zenn",
+  "summary": "Claude Code を Windows で使っていると、エラーも警告も出ないのに、日本語だけが壊れることがあります。落ちてくれれば気づけます。困るのは、処理が最後まで通って、結果の文字だけが違うほうです。 原因はほとんどが、日本語 Windows の既定の文字コード cp932（Shift_JIS 系） と、AI…",
+  "publishedAt": "2026-11-25T13:16:10.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "c06da0d4a0e1",
   "title": "写真1〜2枚から3Dプリント対応STL・GLBと2Kアートを生成するパイプライン設計",
   "url": "https://qiita.com/zengdafa666/items/fbd2ef5b455f8c6f8f52",
@@ -329,6 +423,19 @@
   "isPR": false
  },
  {
+  "id": "a2ccb1ea65d6",
+  "title": "別のAIへ仕事を渡すなら、判断の根拠も渡す",
+  "url": "https://zenn.dev/honabochi/articles/ai-handoff-decision-context",
+  "source": "Zenn",
+  "summary": "検索結果が0件でも、検索欄を残して、その場で条件を変えられるようにしたい。今日のAIとは修正方針まで相談した。続きは、コードを操作できる別のAIに任せる。 こんなとき、次のチャットに何を渡すだろう。 私は、別の実行者へ渡す際も、対象を選んだ根拠・確認した版・任せる範囲を残すことを開発ルールにした。次のAIが、何を進め…",
+  "publishedAt": "2026-11-25T12:51:48.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "a3b16399afdc",
   "title": "フィッチ報告：AI導入が進む中、米国の生産性伸び率は1.9%に - ニュースと統計",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYXo2YUc3aG9BMlc1dnJDMk1DQVhsYjdVQUR6Y09mSGdpa0tXWXNiSDRLT3hTOEpEVWRIOHFCRThaUDZyUW5PNlg3Z0tmaGljQzM3V0tZaThqWm50WDFnWW1wVXJtTWc1Sy13aXQ3Rm9teGNCZXk0aWNodElJS25hQTktWmtCbUxXNzJlZW11N3BIbU9XUTVDOFlGcDQ2Sm4zclR3RHN6TjR5a2g3R0xN?oc=5",
@@ -337,6 +444,33 @@
   "publishedAt": "2026-11-25T12:43:11.000Z",
   "image": "",
   "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "43e97fa8b3b6",
+  "title": "FC2創業者「1円も稼いでへんのに、AI課金が月15万円」…さらには「AI彼氏」に月12万円注ぎ込み、借金40万円を抱えた30代女性も…急増する「AI貧乏」のリアル | 日刊SPA!",
+  "url": "https://nikkan-spa.jp/2196453",
+  "source": "はてなブックマーク",
+  "summary": "生成AI 、整形、シール、ブルーカラー転職──近年のブームに乗り、人生を変えようとした人々がいる。だが手軽な快感と「乗り遅れたくない」という焦りは課金沼や借金、心身の不調を招くことも。熱狂の先に待つ、笑えない現実を追った。 近年、最も注目を集め、世の中を変えた技術といえば生成AIだろう。業務を効率化する...",
+  "publishedAt": "2026-11-25T12:40:19.000Z",
+  "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnikkan-spa.jp%2F2196453",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "3397fb65d621",
+  "title": "AIを使えば誰でも要件定義ができるという幻想",
+  "url": "https://zenn.dev/hkr_dev/articles/23a5729daaafe1",
+  "source": "Zenn",
+  "summary": "※どちらかというとコードの書き方とか設計に興味の強かったエンジニアの経験に基づく今の所の個人的な感想です。ガチガチのウォーターフォールでの要件定義とかは未経験なので悪しからず いわゆるプログラマーが要件定義をしなくちゃいけない時代 上流に関わっていたエンジニアやSEだけではなく、現場レベルでコードを書くことがメインの…",
+  "publishedAt": "2026-11-25T12:33:30.000Z",
+  "image": "",
+  "categories": [
+   "dev",
    "case"
   ],
   "isPR": false
@@ -579,6 +713,19 @@
   "isPR": false
  },
  {
+  "id": "5be8d31577ef",
+  "title": "OpenAIの最新モデルに酷評の嵐。本当の勝者はAnthropic？（ギズモード・ジャパン）",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8ydGp6VFNFNlZaMEFNMFJNa0gzVWhweVBoNnFPRFVqV2dDcFZSSTF3bVVnLWpNU3lvQXA3elJmWEZYV09ZdjY2eFFNaVpmRU82UV9aVHl1aHVnMmNtNXRNVTBWd0lXWFlzUmZiY1RVWGRseDUwRld6cm9yMmp6Tzg?oc=5",
+  "source": "Yahoo!ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-25T11:30:02.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "cfefa3f3336e",
   "title": "AnthropicとOpenAIの従業員らが「未公開モデルが強力になりすぎて一般公開するのは危険」と懸念",
   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbS1IRl9oYTZvRzVROTRjdDdjQ1Y0TlpRd1I3c1Vwd3Fmb09vMC0tbWZPcUZYdjZ2RDhDODlWMW9kZjUzazJlSmVTYW9oSW14Q0JEN3ZWSFljM2FMbHc0a3o0aHd2VldSd044b3hFRHdxLUk1OGVPME9pWFVmQmQyR1lLazRiS0lzdUl0bll1eHpKUQ?oc=5",
@@ -683,19 +830,6 @@
   "image": "https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Feiji.page%2Fblog%2Fniwaterm-fun-to-make",
   "categories": [
    "dev"
-  ],
-  "isPR": false
- },
- {
-  "id": "5be8d31577ef",
-  "title": "OpenAIの最新モデルに酷評の嵐。本当の勝者はAnthropic？",
-  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUeG15UGl1WFRCTG9hWXlZeWxVU0VjUHNuLS1vSGN2eHI2UUMwLWhFbkNfM3psTGVQZUZ2ZTJsVVpJYkFHdHJQaHNiZ09jOGw4eTI1SXBrZHlNczBaZndRSW11clY2aUdCVHZ1OVMzQ0VZZW56REVEMw?oc=5",
-  "source": "Gizmodo",
-  "summary": "",
-  "publishedAt": "2026-11-25T11:00:00.000Z",
-  "image": "",
-  "categories": [
-   "model"
   ],
   "isPR": false
  },
@@ -2173,19 +2307,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "31168dbd9961",
-  "title": "【GeoVision】【導入事例】AI映像管理システムによる監視運用の最適化と効率化",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55cjliNWRKUHpLdFZDNzE5QmVxTTI3NlVFZFBpbkJhTWQzMzI1YTBRckIwNVc0cGxFNS1OQ0ZOQ3R0M3JyOUludDhaa3dYbzduODFJUldDLU81Q3dHdHZwTmlVSGJMUC1CcnlOUnRyVl9idy1W?oc=5",
-  "source": "Excite エキサイト",
-  "summary": "",
-  "publishedAt": "2026-11-25T07:45:00.000Z",
-  "image": "",
-  "categories": [
-   "case"
   ],
   "isPR": false
  },
@@ -4037,6 +4158,19 @@
   "isPR": false
  },
  {
+  "id": "31168dbd9961",
+  "title": "【GeoVision】【導入事例】AI映像管理システムによる監視運用の最適化と効率化",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2ZHJnZkVEYkl4dUhkRDRreVFYdHdlaWg4VzhKazdYcmJxaVZEQXhKVl9Dd0VrWjNlek5BN0VKZFFzTnIxTHVhelliRkhLN1NjVHR3NXE4Mi1Ub3RRMXo1NWdHdXhuUEY0U3pNaEQ2aXBqbjdyeTRYZnRaNA?oc=5",
+  "source": "産経ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-25T04:30:00.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
   "id": "34bbbf405c06",
   "title": "児童生徒の意見を生成AIで分析、教員の見取りを支援する「協働学習ボード」を発表",
   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02VlFaNGRUOUFaTC1GWGtBY05GcWpCal9sZHpXSTZKTnZYejItQzE5RUgtMl8wa0JKMDhLY2hqY0pQSmwxZWhYWUZ0em9fLXRvTncwczhnNldHVXBMcVNpcjZyaDE?oc=5",
@@ -4249,7 +4383,7 @@
  },
  {
   "id": "82962965d0ed",
-  "title": "記事の入稿から分析まで、ChatGPTやClaudeに頼める「note pro MCP(β)」の提供を開始",
+  "title": "記事の入稿から分析まで、ChatGPTやClaudeに頼める「note pro MCP(β)」の提供を開始｜note株式会社",
   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DUmxQY1BGME5KRnY2WEVmMkd4UWhrTkdJWHhZUVdKeWFEZUdBZUhDRk5kRV85b3Z4ajVudmNndmk3YjlvekE?oc=5",
   "source": "note株式会社",
   "summary": "",
@@ -4734,8 +4868,8 @@
  },
  {
   "id": "bbf8d4574493",
-  "title": "ChatGPT、通常のチャットでも「GPT-6.2」が利用可能に（Impress Watch）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40UjUwVWZmVjQ3eEptYVZOM2w0UjByUXRUWWdDeWgtS01xbE5XTFUxdm5kZDZCeWJoTEg0dmJmVFNNeFF3NDdFdlZiUU1RM2YwdC0zaXhFMkxtWTRocFNXZDRaY2NNWHF5UXZTeDd1VjV5clgtWlRCSGZtS20xRVE?oc=5",
+  "title": "ChatGPT、通常のチャットでも「GPT-6.2」が利用可能に (Impress Watch)",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0ZFRF9PU3B2Wjd0ZmlMZjFMWXVnVkZ4NmJZa3A4MjA1TVJjUGZLbTlBdFprQ1NscVVkd01NVG5JX19GZHZrWEVXWUJ6Snd2c3R5ZHFZekhzT1BfME5CVm5GNGZXVXVkWkJkM2EtWHd1MzBMM2k3U2tGTERnNzRoc0hVcEg3ZW12RExmZEln?oc=5",
   "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-11-25T03:15:35.000Z",
@@ -5000,6 +5134,20 @@
   "isPR": false
  },
  {
+  "id": "4456f3abcb72",
+  "title": "AIメモリ好況のピーク論争…Micron目標株価半減で半導体株が動揺",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55cGFGU0c4eGhKSy1sbWVFR19LcnJJWHRQQ21CbkhMcjVOakxQSjV1MHBnRnFwLTRSUmlHVk93YTF4dnpXbDNsNmYxNC1xUVNSZVlVb3VIeVlmQVhKbUJXdm9rLTRXQlZrRjZQS2VMYTZWdjUz?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-25T03:00:11.000Z",
+  "image": "",
+  "categories": [
+   "business",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "e1842ab59de8",
   "title": "Cosenseへの感謝",
   "url": "https://zenn.dev/tattu/articles/thanks-to-cosense",
@@ -5009,20 +5157,6 @@
   "image": "",
   "categories": [
    "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "4456f3abcb72",
-  "title": "AIメモリ好況のピーク論争…Micron目標株価半減で半導体株が動揺",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55cGFGU0c4eGhKSy1sbWVFR19LcnJJWHRQQ21CbkhMcjVOakxQSjV1MHBnRnFwLTRSUmlHVk93YTF4dnpXbDNsNmYxNC1xUVNSZVlVb3VIeVlmQVhKbUJXdm9rLTRXQlZrRjZQS2VMYTZWdjUz?oc=5",
-  "source": "BigGo ファイナンス",
-  "summary": "",
-  "publishedAt": "2026-11-25T03:00:02.000Z",
-  "image": "",
-  "categories": [
-   "business",
-   "infra"
   ],
   "isPR": false
  },
@@ -6299,6 +6433,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2bed9b02742f",
+  "title": "【企業・会社員の公開調査6件を統合分析】生成AI導入は44.0%へ倍増、用途の8割は文書作成。組織の整備は個人利用に追いつかず｜株式会社ネクストスケール調べ",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11RmFlaG8wNGpIbFdiWjl2eHhjN21oNXhYQ0hYaEdaS2xzdmtsUVdIcGY4Ym9ieVlqWWVwaFp4TzFfNW5xSlhzX0pGZ1dGWHltTS1yZGJjMzh1cEU?oc=5",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-11-25T01:31:00.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "case"
   ],
   "isPR": false
  },
@@ -7597,19 +7745,6 @@
   "isPR": false
  },
  {
-  "id": "f3f92a1789e7",
-  "title": "OpenAIのGPT-6.2 Astra、実機ロボットアームで97%を達成、Gemini 4 Neonを上回る",
-  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DSldIRmROOVNLdnlmZnRLUklEMGlsdGtaVU1TU0s0c3NkOHNnU2NvNFlIX1ZlRktFeHl5bUR3bUpNRU5LbG1uZm5ZZXRubFY1QWRWdExYQVpaR1hwQ2dEajJtSkp0MThEeEI0M205bnpldTRO?oc=5",
-  "source": "BigGo ファイナンス",
-  "summary": "",
-  "publishedAt": "2026-11-25T00:00:34.000Z",
-  "image": "",
-  "categories": [
-   "model"
-  ],
-  "isPR": false
- },
- {
   "id": "4d380007bc5d",
   "title": "「守りのAX」から「攻めのAX」へ 生成AIを業務効率化で終わらせず事業成長につなげる戦略",
   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZHpZa1lfeHpsZEpWVXJsTG1EOVZkZktNNlZHV3JnZnRra2FMLVI5a2JGYjNnejZXU29nVEZJT1h6R2tCU196SkRXTWRQTWVJZkxqTUFxVXYzalJDZGI1UW5HOFdWaHNWb0RNUlR4cEprVFN4UEVYem04elRyTlFmdzJBaklTZw?oc=5",
@@ -7698,6 +7833,19 @@
   "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f3f92a1789e7",
+  "title": "OpenAIのGPT-6.2 Astra、実機ロボットアームで97%を達成、Gemini 4 Neonを上回る",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DSldIRmROOVNLdnlmZnRLUklEMGlsdGtaVU1TU0s0c3NkOHNnU2NvNFlIX1ZlRktFeHl5bUR3bUpNRU5LbG1uZm5ZZXRubFY1QWRWdExYQVpaR1hwQ2dEajJtSkp0MThEeEI0M205bnpldTRO?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-24T23:59:59.000Z",
+  "image": "",
+  "categories": [
+   "model"
   ],
   "isPR": false
  },
@@ -8319,20 +8467,6 @@
   "image": "",
   "categories": [
    "dev"
-  ],
-  "isPR": false
- },
- {
-  "id": "2bed9b02742f",
-  "title": "【企業・会社員の公開調査6件を統合分析】生成AI導入は44.0%へ倍増、用途の8割は文書作成。組織の整備は個人利用に追いつかず｜株式会社ネクストスケール調べ",
-  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55UU0wZFQxSjVpdG41dzQtdEpvM0hKc1o4MmUxQjk5ckhzWm0zUktkUUkteEJlakxmYnJmSzl4aS1MMzdjS1BlcXZYQk9NTUY4ZUlUTVpJOEQ5MXc?oc=5",
-  "source": "朝日新聞",
-  "summary": "",
-  "publishedAt": "2026-11-24T22:30:00.000Z",
-  "image": "",
-  "categories": [
-   "product",
-   "case"
   ],
   "isPR": false
  },
