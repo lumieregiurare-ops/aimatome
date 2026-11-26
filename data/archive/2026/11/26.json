@@ -1,5 +1,31 @@
 [
  {
+  "id": "c97ac2bb87c0",
+  "title": "プロジェクトごとに、ルールが少しずつ違っていく。1つの標準を十数のプロジェクトに配るまで",
+  "url": "https://zenn.dev/intprime/articles/devstd-01-one-standard-many-repos",
+  "source": "Zenn",
+  "summary": "プロジェクトごとにコピーしていた CLAUDE.md と設定が、いつの間にかばらばらになっていました。 共通部分を1つのリポジトリ（以下「標準リポジトリ」）にまとめ、各プロジェクトに配る形に統一した 2か月で120コミット、86本の PR。直すきっかけの多くは、標準を使う側の Claude Code からの指摘だった…",
+  "publishedAt": "2026-11-26T14:52:58.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "fd29ceb2270d",
+  "title": "はじめまして。Claude Codeと一緒に「頼れる開発標準」を育てています",
+  "url": "https://zenn.dev/intprime/articles/intro-dev-standard",
+  "source": "Zenn",
+  "summary": "Claude Code と一緒に、困ったときに頼れる開発標準を育てています。 十数のリポジトリを、Claude Code と並行して開発している その過程で起きたことを、うまくいった話も失敗した話もそのまま書いていく 最初のシリーズは「Claude Codeと育てる、頼れる開発標準」（全7回）。一覧はこの記事の後半に…",
+  "publishedAt": "2026-11-26T14:52:23.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b7f899f07e46",
   "title": "スマホのAIに、自宅PCの作業フォルダだけを触らせる環境",
   "url": "https://qiita.com/bisan/items/d006f28086c5d1a822c3",
@@ -39,6 +65,32 @@
   "isPR": false
  },
  {
+  "id": "161ad9315250",
+  "title": "CI障害調査エージェントOpenSREを有料APIキー無し・ローカルLLMで動かし、壊したCIを調べさせた",
+  "url": "https://zenn.dev/matsushima_a/articles/day-058-opensre-ollama-cli-crash",
+  "source": "Zenn",
+  "summary": "OpenSREは、CIや本番環境で障害が起きたときにログを読んで根本原因を調べる、自己ホスト型のAIエージェントである。 Apache-2.0で公開されており、GitHub Trendingで急伸していた。 本チャレンジでは有料APIキーが必須の候補は選ばないという方針があるため、OpenSREの「サインインしてホス…",
+  "publishedAt": "2026-11-26T14:38:27.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c2dd26a95894",
+  "title": "ライブラリを替えたのに、AIが古いコードを書く",
+  "url": "https://zenn.dev/kaguraai/articles/grow-memory-update-forget",
+  "source": "Zenn",
+  "summary": "たとえば、ライブラリ B への移行が終わったのに、エージェントが A のコードを書きました。コードでは B が使われていましたが、検索で出てきた記憶には「A を使う」と書いてありました。そこで見直すのは、新しく何を覚えさせるかだけでなく、以前の決定をどう扱うかです。 update_memory で既存の記憶を編集する…",
+  "publishedAt": "2026-11-26T14:37:52.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "2ec056be1a85",
   "title": "米国のAI半導体規制、アジア太平洋のデータセンター投資減速と融資厳格化をフィッチが予測",
   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5CdG02T0hZWTlYR3JCMEpCZ0FWWk5hRjM1YXpqVkJiU09NNU14ZjFJbUlpR25QTHpaa2Rr?oc=5",
@@ -59,6 +111,33 @@
   "source": "shiritomo",
   "summary": "",
   "publishedAt": "2026-11-26T14:26:55.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5ad21b381c99",
+  "title": "資金0円でAIに自律起業させる実験を始めた【設計編】",
+  "url": "https://zenn.dev/aioneautopilot/articles/ai-zero-capital-founder-01",
+  "source": "Zenn",
+  "summary": "AIエージェント(Claude Code)に「資金0円から事業を探し、実験し、失敗しても次へ進む」ことを任せる実験を始めました 「諦めない」を気合いではなく仕組みで実現するため、状態ファイル・撤退基準・人間承認キューの3点セットを設計しました 毎週、数字(売上0円も含めて)を正直に公開します この連載の本文は AI(…",
+  "publishedAt": "2026-11-26T14:21:55.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "business"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "20457038f8c5",
+  "title": "システムライフサイクル共通フレームのAI協働テーラリング",
+  "url": "https://zenn.dev/fubenya/books/slcp-ai-tailoring",
+  "source": "Zenn",
+  "summary": "共通フレーム2013（SLCP）を物差しに、生成AIと協働するソフトウェア開発の設計を、一つの実践の実測から組み立てた方法論。",
+  "publishedAt": "2026-11-26T14:03:19.000Z",
   "image": "",
   "categories": [
    "other"
@@ -119,12 +198,78 @@
   "isPR": false
  },
  {
+  "id": "d90f43d5949c",
+  "title": "本書が生まれるまでの秘話",
+  "url": "https://zenn.dev/aquaxis/books/fpga-guidebook00",
+  "source": "Zenn",
+  "summary": "AIエージェント群が3日半で書き上げた入門書『FPGA は PC で学べる』の制作過程を、当事者の視点で記録から再構成した制作秘話。何を迷い、何を捨て、何を守ったかを残し、読者がFPGAを始めたくなることを目的とする",
+  "publishedAt": "2026-11-26T13:38:26.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "fe8505ef8fed",
+  "title": "漫画・縦スクロールWebtoonのAI画像翻訳パイプライン比較：縦書きOCR・Inpainting・自動組版の技術選定",
+  "url": "https://zenn.dev/mangatranslate/articles/c9d21946ead1fa",
+  "source": "Zenn",
+  "summary": "海外コミックや韓国の縦スクロール型Webtoon、日本語のインディーズ漫画を多言語で閲覧・ローカライズする際、一般的な文書向けOCRや汎用カメラ翻訳APIをそのまま流用すると、実用面でいくつもの構造的課題に直面します。 本稿では、コミック画像処理に求められる3段階のエンジニアリング・パイプラインを整理し、ローカルGP…",
+  "publishedAt": "2026-11-26T13:32:53.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "aa874e16bb6c",
+  "title": "GitHub 6,800+ Star のスキャンPDF変換・翻訳OSS「PDF Craft」の設計と使い方",
+  "url": "https://zenn.dev/ooshaun/articles/54529f9807a182",
+  "source": "Zenn",
+  "summary": "英語の技術書や論文、自炊したスキャンPDFをスマホや Kindle で読もうとすると、拡大縮小や横スクロールが辛く、途中で読まなくなりがちです。かといって普通の OCR に通すと、ヘッダーやページ番号が本文に混入したり、2段組みの読み順が壊れたり、数式や脚注が崩れたりします。 こうした「単ページではなく、書籍や論文ま…",
+  "publishedAt": "2026-11-26T13:30:25.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "435303b77eb0",
+  "title": "Windows の短い名前（8.3）で Claude Code に書かせると、元のファイル名が消える",
+  "url": "https://zenn.dev/kamijo_aoto/articles/windows-claude-code-83-shortname",
+  "source": "Zenn",
+  "summary": "Windows には、長いファイル名とは別に、APPSET~1.JSO のような**短い名前（8.3 形式）**が付いていることがあります。同じファイルを指す別名です。 確認なしで書き込みが通るモード（bypassPermissions）で、Claude Code の Write や Edit にこの短い名前を渡すと…",
+  "publishedAt": "2026-11-26T13:25:25.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "31fc0d2ac3c1",
   "title": "NYT、写真部に「Photoshop 2027を使うな」 不可視の生成AIがメタデータに残すリスク",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SQ3NCbml5RWZWUktFRzdLQzVBVi16WDhLSmF1aloyeS02LUhHOXFaMHZ4M2VWNktUeS1oTWZmMFhYS29tRXNwaEVkbnRyd3JscU45eEJPTjNKM3U2aHhXRlp0RFVUOTZ5RzNZWWhfM3hwUHJN?oc=5",
   "source": "BigGo ファイナンス",
   "summary": "",
   "publishedAt": "2026-11-26T13:25:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "b21832736909",
+  "title": "「日本語で」と書いても AI が英語に戻るので、Stop フックで止めた",
+  "url": "https://zenn.dev/hitori_pm/articles/cc955887656339",
+  "source": "Zenn",
+  "summary": "Claude Code の指示ファイル（CLAUDE.md）に「返答は必ず日本語」と書いていました。それでも英語に戻りました。ルールを足しても戻ったので、最後は仕組みで止めた話です。 2026 年 11 月の 2 日間の記録です。私は失敗のたびに「起きたこと・原因・再発防止」を残しています。 ちなみに 3 回目の「誤…",
+  "publishedAt": "2026-11-26T13:22:44.000Z",
   "image": "",
   "categories": [
    "other"
@@ -197,6 +342,20 @@
   "isPR": false
  },
  {
+  "id": "0e889271bb81",
+  "title": "Claude CodeでAIだけの事業部を作ったら、2日でトークン69%を溶かして売上0円だった",
+  "url": "https://zenn.dev/parsetree/articles/claude-code-ai-team-two-days-lessons",
+  "source": "Zenn",
+  "summary": "この記事はAI（Claude）が書き、別のAIが社内の記録と照らし合わせて確認してから公開しています。 株式会社パースツリーでは、Claude Codeを決まった時刻に起動して、AIだけで商品を作って売る「AI事業部」を動かしています。 「部長」役のAIが1日数回起動し、調査・制作・審査などの担当AIに仕事を振る 終…",
+  "publishedAt": "2026-11-26T12:55:09.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "business"
+  ],
+  "isPR": false
+ },
+ {
   "id": "7af67f27db02",
   "title": "Google GeminiがAndroid Autoに登場：車内音声アシスタントでナビ検索、メッセージ読み上げ、旅程計画が可能に",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JZWNXUXBwbU1aU1JNVnN6YXJWblh4a1NMZEJucWtWTEJDWUtZQ3hzV0VxZ0pHT0FiWEkwVzVvMFFhUkNLOFVuMzl2YTBPSGEtT2tNWmhDRTVSVk5VVlRic1dqa1Z2U3dwZVdFeVFha05QUUtt?oc=5",
@@ -206,6 +365,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9a749962cce9",
+  "title": "課金単位が「リクエスト回数」なら、設計も変わる—さくらのAI Engineで複数メモを1リクエストにまとめて日報JSON化するCLIを作った",
+  "url": "https://zenn.dev/starwingmaxx/articles/9dffbff0fd42bc",
+  "source": "Zenn",
+  "summary": "LLMのAPIといえば「入力トークン数＋出力トークン数」で課金されるものがほとんどです。ところが、さくらのAI Engine の無償プラン（基盤モデル無償プラン）は単位が違います。公式マニュアルによると、上限は リクエスト回数 で数えます。 ※ さくらのクラウド マニュアル「さくらのAI Engine 利用手順」より…",
+  "publishedAt": "2026-11-26T12:43:08.000Z",
+  "image": "",
+  "categories": [
+   "infra",
+   "dev"
   ],
   "isPR": false
  },
@@ -233,6 +406,19 @@
   "categories": [
    "product",
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9037aaafca04",
+  "title": "Palmimo DevKitが日本科学未来館で来場者をお迎えした約2か月間の記録",
+  "url": "https://zenn.dev/jizai/articles/bf90e5bd1dfe70",
+  "source": "Zenn",
+  "summary": "こんにちは、Jizaiの高石です。Jizaiでテクニカルリードをしています。 2026年7月15日から9月23日まで、日本科学未来館でPalmimo DevKit（展示開始当時の名称はMi-Mo DevKit）を展示しました。今回は、その約2か月の様子を紹介します。 Palmimo DevKitは、目・耳・脚・口を備…",
+  "publishedAt": "2026-11-26T12:30:12.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -329,6 +515,19 @@
   "isPR": false
  },
  {
+  "id": "521ee9a9a429",
+  "title": "Cloudflareだけで日本語RAGを作って、22問で測りながら直してみた",
+  "url": "https://zenn.dev/kazuki_okura/articles/cloudflare-japanese-hybrid-rag",
+  "source": "Zenn",
+  "summary": "公的AIガイドラインを対象に、Cloudflare(Workers AI + Vectorize + D1)だけで出典つきの日本語RAGを作りました Vectorize にはキーワード検索がないので、D1 の全文検索(FTS5 の trigram)を足してハイブリッド検索にしたら、少しだけ良くなりました 一方で、re…",
+  "publishedAt": "2026-11-26T11:58:43.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "afd8b89f5100",
   "title": "AIのトークナイザーからGPUバス・自宅Proxmoxまで貫く「チャンク化と並列化」の螺旋状進化",
   "url": "https://qiita.com/Tamane/items/5982759ae07346b39f8b",
@@ -403,6 +602,20 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c02d9673ca16",
+  "title": "Quadro P2200(VRAM 5GB)でMoE LLMを2種類動かしてみた",
+  "url": "https://zenn.dev/nooop/articles/00cde2e1a825ad",
+  "source": "Zenn",
+  "summary": "llama.cpp が MoE に対応し、エキスパートの一部を CPU 側の RAM に置くことで高速化できるようになったようです。VRAM 5GB でも35B級のモデルが実用的な速度で動くのか、速度を測ってみました。 NVIDIA Quadro P2200(VRAM 5GB) で、MoE(Mixture of Ex…",
+  "publishedAt": "2026-11-26T11:41:19.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
   ],
   "isPR": false
  },
@@ -1743,7 +1956,7 @@
  {
   "id": "227c12a5ce04",
   "title": "MemoketがウェアラブルAIレコーダー『Memoket Gem』で日本参入 会話の記憶をChatGPTやClaudeから直接呼び出せる機能も（リアルサウンド）",
-  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2IzcFlwbEo2YS1xUFJGaGFNN2ItQmNPSW9Oa214cEN5M2s2a21Cd1JFY1Z5RUd6aUxFemFQa0ZtZW5ZOS03MUdLY1plekU2ZzZ3UzF5WXRyVVg3VTctT2NMcVRZMkp1MUhTbFNCZlNwV1lsc253bGRPRnNWVDVhRk9YQ1k3czBY?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BakVzR3Nzbk40ZFVmeUZ6NTRtZ1ZPdHFELVJCZV9vanRmczJTU2FuSldwSFZJVnJ4YnJCT3RDV1hqaFNpRG1SZ0drcUI3VFhIYWNoaW9QTGdfOXpNQ2tRZU5makdRLTB2UnRfZjROaV9IM0pKbDZQVkdnSE5uSDg?oc=5",
   "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-11-26T09:01:51.000Z",
@@ -1843,6 +2056,19 @@
   "image": "",
   "categories": [
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "75e642476b8e",
+  "title": "「VOGUE JAPAN STANDOUT VOICES 2026 in collaboration with Google Gemini」授賞記者会見に出席した戸田恵梨香",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsdkpPalR2a2JrYzV0WlJqS3Y4TktCNHFsMmEtVUpfekZVZnhHVDFkWDRDTmRKdnBFR3NoSVR4RjJ4ZjVwSVVtN21YUlJES0F2cnJyY21uMDJiRDZhYktHZA?oc=5",
+  "source": "ナタリー",
+  "summary": "",
+  "publishedAt": "2026-11-26T08:47:27.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -2057,19 +2283,6 @@
   "image": "",
   "categories": [
    "business"
-  ],
-  "isPR": false
- },
- {
-  "id": "75e642476b8e",
-  "title": "「VOGUE JAPAN STANDOUT VOICES 2026 in collaboration with Google Gemini」授賞記者会見に出席した高橋文哉",
-  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OM3g4aHc1QUJ1SnBKNjFyYjU4ZnA0TDFGaGhCYVMxRTBma2M2Tlp0SlNUZDd0aHpWUVJia25nN09lMXZITEpiU2tHaU5QVDNkc2RiLTdXSVpXOWJSTVkwMw?oc=5",
-  "source": "ナタリー",
-  "summary": "",
-  "publishedAt": "2026-11-26T08:16:56.000Z",
-  "image": "",
-  "categories": [
-   "other"
   ],
   "isPR": false
  },
@@ -4262,19 +4475,6 @@
   "isPR": false
  },
  {
-  "id": "94da5e6b7599",
-  "title": "情報BOX：米ＡＩ半導体の対中輸出、合法と違法の境界は（ロイター）",
-  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuZFNGZ2N0UjVlRk5MVHJ4d0dTeXQwbmlHRU85cHUxdHdqRER1NUxKXzJFVWY4SGM2Q0ZodDZiQTh0RGFDaG05Y3ZoZUtjUmhVeWI2VXdXN2syZ0RmN3NSM0xJbDBPaWFua29yZU9zMkZhNkhyeWdrVWozUHdtT0k?oc=5",
-  "source": "Yahoo!ニュース",
-  "summary": "",
-  "publishedAt": "2026-11-26T04:18:28.000Z",
-  "image": "",
-  "categories": [
-   "infra"
-  ],
-  "isPR": false
- },
- {
   "id": "3d9effc6103a",
   "title": "今更聞けない！AI エージェントも AI Gateway も説明できなかったので調べ直した",
   "url": "https://zenn.dev/scalar_sol_blog/articles/cb62310a3c0b93",
@@ -4284,6 +4484,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "94da5e6b7599",
+  "title": "情報BOX：米ＡＩ半導体の対中輸出、合法と違法の境界は",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaXZUWTRCeXZocDQycjhJNElxb3hhOS1jTjQ4Y1gyaEMyNU85UzNDZ25GQnA0WmZFZnV5R3FWTVdrY0FvS2h4U3RycHlTQ3U0ZzlmbGNqQXU3dEJUamNxcFQ0ZUpGTEg1bS14dG1NbWdVdlVfcDhnNjNZa054akdkUzZzMGVJWVE?oc=5",
+  "source": "Reuters",
+  "summary": "",
+  "publishedAt": "2026-11-26T04:18:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
@@ -5080,9 +5293,9 @@
  },
  {
   "id": "7d66c9835758",
-  "title": "日経平均は大幅反発、AI・半導体関連株に買い戻し／ランチタイムコメント(フィスコ)",
-  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdUMtZkhTTnYwYThJMUlVSVdqNDNCcUhoZ0ZsOFJ3ZUtjWWpFQnlEaVJTeXZOSEtBZUwzeDROOHdidVlzazhURkVRV0VSRm9DSWVKRk9LNWwxcTZrdXpkMldWOGtUaFBkbnpSUk5XSy1zT1JXa2JWbXJJTWloTkpkT0VwOG9MWWM?oc=5",
-  "source": "Yahoo!ファイナンス",
+  "title": "日経平均は大幅反発、AI・半導体関連株に買い戻し／ランチタイムコメント",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByNFF5Ul9jbHFFTXVORFVjQm9jZ2lCcFhOZ0FnS0RuNXk2b29LUGtoU0V2SWdCd2RBTWNtTlFYbnNsRDQyeGJkYV83MndSeWZ4TUE?oc=5",
+  "source": "株探",
   "summary": "",
   "publishedAt": "2026-11-26T03:10:10.000Z",
   "image": "",

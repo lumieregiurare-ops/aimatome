@@ -1,5 +1,31 @@
 [
  {
+  "id": "07c86af87a1f",
+  "title": "AIの定期タスクを止めずに回す：使用量の上限・モデルの使い分け・時間の分散・見張り役",
+  "url": "https://qiita.com/maya-bot/items/9d09760e2ce2013f4da1",
+  "source": "Qiita",
+  "summary": "AIエージェントには、決まった時間に仕事をさせる「スケジュールタスク」を設定できます。毎朝のニュースまとめ、毎週のレポート、記事の投稿などです。 便利な反面、数が増えると困ったことが起きます。気づいたら止まっている。朝に失敗したのに、夜まで誰も気づかない。使用量の上限に当た...",
+  "publishedAt": "2026-11-26T17:46:56.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "74765378260d",
+  "title": "個人向けAIエージェント Muse を「部下」として運用する実践メモ：定期実行・常時指示・検証ゲート",
+  "url": "https://qiita.com/aletheia-jp/items/de4eb8fb790331a387b4",
+  "source": "Qiita",
+  "summary": "個人向けAIエージェント Muse を「部下」として運用する実践メモ Muse（Meta の個人向け AI エージェント）を数週間、実務で回して分かったのは、性能の差よりも運用の差が効くということでした。チャットで都度頼む使い方だと「賢いチャットボット」で止まりますが、定...",
+  "publishedAt": "2026-11-26T17:41:37.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3e463cac7406",
   "title": "【緊急】Issueを1件立てるだけで、Codexのnpmリリースに裏口を仕込めた可能性。CIのAIエージェントが危ない",
   "url": "https://qiita.com/emi_ndk/items/e74cd61010d64fd26067",
@@ -9,6 +35,45 @@
   "image": "",
   "categories": [
    "product",
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "503ad4f322c3",
+  "title": "生成AI型マニュアルシステム「おとなりさん」LGWAN環境に対応しました",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ESXU3dnE5U3FGV0NSSWxNZ0xWNWdSWkpOeElKcUNfRXhXLWxxLWk5V1lzSjNZSnZKTlN6M2JmMi1iV3AyMllOOGhYMWdiOGZxWF9uSVNNZ2J6emNmZVhBVjh3bXE2NkhHQ0IxMFZoSnNUZw?oc=5",
+  "source": "Infoseek",
+  "summary": "",
+  "publishedAt": "2026-11-26T17:10:02.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "e1842c75e5f8",
+  "title": "県美展大賞に伊藤巧さん『Once Noise』 生成AIテーマの映像作品（2026年11月24日掲載）｜KRY NEWS NNN",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5od3BQQVROWWZYb3BseXQwckF4RGd5UzFNRTRibm1iWTU1emc0b2NXNm9yaWZNVUUtbW9VSDZFa2x0aURpSGRKMDNvUTF6WUxrUmZmQ3NuYVl5SWljdndmNEVLOF9pcG92V1owdUFjLVBvSXVmbERwMFIzX3MwTUU?oc=5",
+  "source": "日テレNEWS NNN",
+  "summary": "",
+  "publishedAt": "2026-11-26T16:57:51.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "468c4d61f8bb",
+  "title": "Forge Neo × Anima（DiT）で Regional Prompter と NegPiP（本家・派生）を併用できるようにしたお話",
+  "url": "https://zenn.dev/neon_aiart/articles/27787e29a4e635",
+  "source": "Zenn",
+  "summary": "併用不可の情報を見つけたので 併用を可能にするための修正にチャンレジ 第２弾 【イントロダクション】 結論: どちらもマージされたら使えるようになります 豆知識: コードを見て初めて分かった Anima × NegPiP の重要な仕様 解説: エンジニア様やプログラマー様じゃなくても分かりやすい解説 詳細: 専門用語…",
+  "publishedAt": "2026-11-26T16:33:22.000Z",
+  "image": "",
+  "categories": [
    "dev"
   ],
   "isPR": false
@@ -67,12 +132,38 @@
   "isPR": false
  },
  {
+  "id": "fcc0f7485caf",
+  "title": "特異値分解で生成AIのハルシネーションを検知してみた",
+  "url": "https://zenn.dev/dxclab/articles/0c69e265a94ab5",
+  "source": "Zenn",
+  "summary": "信号処理で広く用いられる特異値分解（SVD）を使って、生成AIのハルシネーション検知を試してみた。 複数の回答をベクトル化し、低ランク近似による再構成残差から誤答を検知する。 VLMの出力を想定した人工データでは、全15ケースでAUC = 1.0を達成した。 生成AIのハルシネーションを検知する方法として、外部知識と…",
+  "publishedAt": "2026-11-26T15:54:13.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
   "id": "5dacadfcbdea",
   "title": "さくらインターネットが大規模イベント開催。田中社長「日本から世界へ挑戦するためのデジタル基盤を支える」",
   "url": "https://www.publickey1.jp/blog/26/post_311.html",
   "source": "Publickey",
   "summary": "さくらインターネットは11月25日と26日の2日間、同社にとって初のパートナーやデベロッパー向け大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催しました。 2日目となる「Cloud/AI Day」の基調講演に登壇した同社代表取締役社長 田中邦裕氏は、日本が過去30年間の「デジタ…",
   "publishedAt": "2026-11-26T15:50:16.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0516ce84d06e",
+  "title": "LLM判定器は日本の「名字＋様」を減点したりしなかったりする ― 4モデルを繰り返し回した実測",
+  "url": "https://zenn.dev/quent/articles/2329d74464eff5",
+  "source": "Zenn",
+  "summary": "架空の日本語サポート会話50件を、4つのLLM（Claude・Gemini・DeepSeek・Qwen）に品質監査させ、新しい会話で同じ指示文を原則3回ずつ流しました（Qwenは時間がかかるため1〜2回）。 同じ指示文でも、「名字＋様」を減点する回としない回がある。 Geminiは3回中2回、DeepSeekは3回中…",
+  "publishedAt": "2026-11-26T15:50:08.000Z",
   "image": "",
   "categories": [
    "other"
@@ -173,6 +264,20 @@
   "isPR": false
  },
  {
+  "id": "a7f80184caa3",
+  "title": "日本語の個人情報を検出・匿名化する Python ライブラリ「privacy-masker」を公開しました",
+  "url": "https://zenn.dev/na225/articles/af7720ac083f00",
+  "source": "Zenn",
+  "summary": "日本語の文書から氏名・住所・電話番号などの個人情報を見つけて、トークンや自然な偽名に置き換える Python ライブラリ privacy-masker を公開しました。検出に使う日本語の NER モデルも新しく学習し、あわせて公開しています。LLM に文書を渡す前の保護や、学習データ・ログ・帳票の匿名化に使えます。 …",
+  "publishedAt": "2026-11-26T15:14:09.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "f5b8cbe226ff",
   "title": "ベーシック、大和ハウス工業の\"AIを活用した次世代の設計情報検索基盤\"の構築を支援",
   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PYzlFSGdmV3BKd1FzU2VXYmNUQVRoa3pkSWdNTFhMY2tfeG1nbDMxeFpEU2N2YURpYm9EWmRWLVl2ck1ReVpMeHhHTUVuaVE1Q1l3OS1EQnlJcTdFQ1E5dzZ3Yjd5ZTB3RW5heHBrN1pEdw?oc=5",
@@ -235,6 +340,20 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "89701ba25049",
+  "title": "AIを活用した開発を始めるために、既存リポジトリで何から取り組むべきか",
+  "url": "https://zenn.dev/matsunaopen/articles/ai-dev-foundation-steps",
+  "source": "Zenn",
+  "summary": "AIコーディングエージェントをチームに導入したのに、期待したほど開発が前に進まないことがあります。コードの生成速度は上がっているのに、レビューでの手戻りが増え、既存の仕様を壊す変更が混ざるようになっている状態です。 すでに運用が続いている既存リポジトリでAIを活用するには、AIが安全かつ自律的に検証を回せる環境を順番…",
+  "publishedAt": "2026-11-26T15:00:00.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "dev"
   ],
   "isPR": false
  }
