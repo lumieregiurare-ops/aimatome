@@ -2595,7 +2595,7 @@
   "title": "検索で見えなければ、AIは旧価格で見積を書く：決定台帳を検索と別に渡すMCPを3条件で比べた",
   "url": "https://zenn.dev/walkon/articles/b3d22ecbc05553",
   "source": "Zenn",
-  "summary": "! WalkOn（株式会社銭内堂）が作っているOSS「Coheads（コヘッズ）」の連載、第1話です。 リポジトリの公開はマイルストーンM3の予定で、この記事の時点ではコードを試せません。 登場する会社、人物、金額はすべて試験用の架空のものです。 事業者向けに書いた版はこちら：［リンク：note版の第1話］ この記事…",
+  "summary": "WalkOn（株式会社銭内堂）が作っているOSS「Coheads（コヘッズ）」の連載、第1話です。 リポジトリの公開はマイルストーンM3の予定で、この記事の時点ではコードを試せません。 登場する会社、人物、金額はすべて試験用の架空のものです。 事業者向けに書いた版はこちら：AIに見積メールを頼んだら、古い価格で書いて…",
   "publishedAt": "2026-11-26T07:46:38.000Z",
   "image": "",
   "categories": [
@@ -3523,7 +3523,7 @@
   "title": "KikuviのAIインタビュアーをLLMで評価する仕組み",
   "url": "https://zenn.dev/kikuvi/articles/b525bf765fe355",
   "source": "Zenn",
-  "summary": "はじめに Kikuvi で AI エンジニアをしている大越です。Kikuvi の AI インタビュアーを、LLM を使って評価する仕組みを作ったので、紹介します。 Kikuviは、AIが対話形式でヒアリングを行い、集まった回答を分析するサービスです。ユーザーインタビューや、社員の声を集めるためのヒアリングなどに使われ…",
+  "summary": "Kikuvi で AI エンジニアをしている大越です。Kikuvi の AI インタビュアーを、LLM を使って評価する仕組みを作ったので、紹介します。 Kikuviは、AIが対話形式でヒアリングを行い、集まった回答を分析するサービスです。ユーザーインタビューや、社員の声を集めるためのヒアリングなどに使われています。…",
   "publishedAt": "2026-11-26T06:13:29.000Z",
   "image": "",
   "categories": [
@@ -4227,7 +4227,7 @@
   "title": "120BをRTX 3060で採点したら、温度0でも同じ答えが返らなかった",
   "url": "https://zenn.dev/jinno_ai/articles/scicode-gpt-oss-120b-local-dissection",
   "source": "Zenn",
-  "summary": "要するに 「温度0・seed固定なら同じ答えが返る」と思っていませんか。gpt-oss-120b（総117B・active 5.1B MoE）を RTX 3060 12GB で動かし、SciCode の事前登録済み25問題・61ステップを pin 完全同一で2回生成したところ、byte 一致は15/61だけでした。採…",
+  "summary": "「温度0・seed固定なら同じ答えが返る」と思っていませんか。gpt-oss-120b（総117B・active 5.1B MoE）を RTX 3060 12GB で動かし、SciCode の事前登録済み25問題・61ステップを pin 完全同一で2回生成したところ、byte 一致は15/61だけでした。採点も 18…",
   "publishedAt": "2026-11-26T05:00:07.000Z",
   "image": "",
   "categories": [
@@ -4306,7 +4306,7 @@
   "title": "AutoClip入門 ― 長い動画からShorts用の縦動画を切り出す。ローカルLLM＋WhisperでAPIキーなしで動かす",
   "url": "https://zenn.dev/ikesita/articles/autoclip-local-llm-shorts",
   "source": "Zenn",
-  "summary": "AIツールウォッチ第9回 / 検証日：2026-11-20 / 検証対象：AutoClip v1.5.8（zhouxiaoka/autoclip、MIT） ※「実測」と書いたものは検証環境で…",
+  "summary": "AIツールウォッチ第9回 / 検証日：2026-11-20 / 検証対象：AutoClip v1.5.8（zhouxiaoka/autoclip、MIT） ※「実測」と書いたものは検証環境で実際に測った値、「公式値」と書いたものは開発者の公開資料（GitHub・README）の値です。 AutoClip（オートクリッ…",
   "publishedAt": "2026-11-26T04:58:35.000Z",
   "image": "",
   "categories": [
@@ -5519,7 +5519,7 @@
   "title": "決算の数字を80試行で検証：さくらのAI Engineで見えた一致と限界",
   "url": "https://zenn.dev/shiba_inu/articles/ff7b0bda3eadc2",
   "source": "Zenn",
-  "summary": "Appleの営業キャッシュフローを尋ねたら、数字は返ってこなかった。GLMもDeepSeekも、2回ずつ、同じ回答だった。 {\"value\": null, \"unit\": null, \"period_end\": null, \"period_type\": null} これは正解だ。渡したのは損益計算書の抜粋で、営業キャ…",
+  "summary": "Appleの営業キャッシュフローを尋ねたら、数字は返ってこなかった。GLMもDeepSeekも、2回ずつ、同じ回答だった。 これは正解だ。渡したのは損益計算書の抜粋で、営業キャッシュフローは含めていない。一方、同じ10-Kのキャッシュフロー計算書、p.36には、2026年度の値として145,097百万米ドルがある。「…",
   "publishedAt": "2026-11-26T03:05:20.000Z",
   "image": "",
   "categories": [
@@ -6128,12 +6128,12 @@
   "title": "「起こした」を「試した」と数えたら、取り込みに失敗したモデルの自動試行が 7 日待ちに入った",
   "url": "https://zenn.dev/tarowhitey/articles/9249f4bd688269",
   "source": "Zenn",
-  "summary": "新しいモデルを週に 1 本、自動で試している 手元の GPU マシンで、コードを書かせるローカル LLM を回しています。新しいモデルが公開されると、それを自動で取り込んで試し、今のモデルより合格率が高ければ残し、低ければ戻す仕組みがあります。 流れは 3 つの部品に分かれています。 選ぶ段（local-model-…",
+  "summary": "手元の GPU マシンで、コードを書かせるローカル LLM を回しています。新しいモデルが公開されると、それを自動で取り込んで試し、今のモデルより合格率が高ければ残し、低ければ戻す仕組みがあります。 流れは 3 つの部品に分かれています。 選ぶ段（local-model-scout.py）: 公式のモデル一覧から、コ…",
   "publishedAt": "2026-11-26T02:22:20.000Z",
   "image": "",
   "categories": [
-   "dev",
-   "product"
+   "product",
+   "infra"
   ],
   "isPR": false
  },
