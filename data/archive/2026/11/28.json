@@ -1,11 +1,51 @@
 [
  {
+  "id": "ffb2b2193885",
+  "title": "AIが実装とテストを同じように間違えたら？ 「false」という文字列でレビューする",
+  "url": "https://qiita.com/Shiro_Shihi/items/9ca4c9e05b96b86d9dcf",
+  "source": "Qiita",
+  "summary": "FEATURE_ENABLED=falseと設定したのに、機能が有効になる。原因を説明できるなら、次のテストが通っていてもApproveは待った方がよさそうです。 const enabled = raw => Boolean(raw); assert.equal(enabl...",
+  "publishedAt": "2026-11-27T15:56:13.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "6aed700c46ca",
+  "title": "OpenAI、GPT-6.2の課金バグを修正 AstraとSolは上限到達が早まる",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYW90U0pJcUtCeFJRcE5LRU9UWEVadlNNbnFjX2t0eHdPbGlEQzNCaTh4eEx4blpOUEtZSFBOdkZSSk96V1Vkd2gyblNPRDZMTFp0ZHN5OEY5NG1BdkswLUlIeERmRUdnbGR4MUhha3REYmRtNzRxS3FkY0UzV0xybmVVemNBSDJrR2lsaC1R?oc=5",
+  "source": "Pasquale Pillitteri",
+  "summary": "",
+  "publishedAt": "2026-11-27T15:33:51.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "53d5015f264d",
+  "title": "米国のAIチップ規制は、東南アジアにどのような影響を与える可能性があるだろうか？",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUEtd2JEaUQ3M2dQN3hDUVZ2VGN5bXQyZl90bS1laVNkTTRxMkpYdE9tSldjVlRySThtaVRaRW1ZZXdxVU9ZY0dMWkUzRmhSTlRrT1NCMkNtME5qTUdBZlZ3NG1INDB3SExZYUR5TnlSVlN3ZFhaVWkyWFpFTmVVelE1R2xtdmZPcGpCY2xqWHVxMnNpaDl3UzMyOA?oc=5",
+  "source": "Vietnam.vn",
+  "summary": "",
+  "publishedAt": "2026-11-27T15:30:04.000Z",
+  "image": "",
+  "categories": [
+   "policy",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "3b0fce547c97",
   "title": "Claude API - Rustへ移行 応答開始が約20%短縮、CPU約70%減とテスト点検の教訓",
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FR2xPQlRXUXhZRnlVRkFjeWRmT3FyVUhQdVBNN0V0Wm1pVkxRSXJuRUwtMjBaSTNfdnNQNnNYVTdVTVdZUmN2OHQ5SGYxM0hBOEJRMFdLTDlPMTItWFhuUVlLX2JPblp0VDBGaA?oc=5",
   "source": "TECH NOISY",
   "summary": "",
-  "publishedAt": "2026-11-27T15:24:49.000Z",
+  "publishedAt": "2026-11-27T15:23:56.000Z",
   "image": "",
   "categories": [
    "other"
