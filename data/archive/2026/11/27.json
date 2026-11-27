@@ -1,5 +1,19 @@
 [
  {
+  "id": "15a1990b8b5b",
+  "title": "検閲解除ツールhereticの「KL 0.0000」は劣化ゼロではなかった: Qwen3の<think>が指標を素通りさせていた",
+  "url": "https://zenn.dev/matsushima_a/articles/day-059-heretic-kl-think-prefix",
+  "source": "Zenn",
+  "summary": "hereticは、追加学習なしで既存のLLMの拒否応答(安全アラインメント)を抑制するPython製CLIツールである(AGPL-3.0-or-later)。 方向性アブレーション(abliteration)という解釈可能性研究の手法に、OptunaのTPE探索を組み合わせ、「拒否率」と「KLダイバージェンス(元モデ…",
+  "publishedAt": "2026-11-27T14:50:37.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "1d76a6d8ae0f",
   "title": "ChatGPTで作ったサイト、閲覧者ゼロでも毎月課金――2027年2月から始まる新ルールの中身",
   "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE94TXVSZHFBZGtlY3FkMm9KbkcyT1dBSnRidTVKbG9HdWZxeUJBNHhIZ1VUWkQyU1B2dnRwN2dvSGN5dw?oc=5",
@@ -13,6 +27,19 @@
   "isPR": false
  },
  {
+  "id": "33c3f2a8126d",
+  "title": "アイスマイリー、「生成AIチャットボット料金比較ガイド」を公開！10社の初期費用・月額料金・料金体系を比較したガイドを無料提供！",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55SkpGUVNBNDhJZ09jLW1HRmRLUmFDNTlPeHhwLUVXaEpESGhPYjV0X1Viekg5NVVSRmdkR3o4Zm9oYkU1VUNBREh1UXF5M0FwUjhDVy1RQ0FxdFdqdmphaUdTUTRQdlc0ZEtMckNrTHE5QQ?oc=5",
+  "source": "Infoseek",
+  "summary": "",
+  "publishedAt": "2026-11-27T14:10:02.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "42c60dee795c",
   "title": "AI相場、次の主役は 半導体株から逃げたマネーの行方",
   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qOTljMXlNc2lEYUhqVjFEcUZXNzY3NDVCWF9DRWItbHphUkxEMGRYcmhwUnhGMXlxMGdOaXR0NUpOSVdYcG11Z2szbHBrRkFJQ1NCWlJ0aHlZQQ?oc=5",
@@ -22,6 +49,19 @@
   "image": "",
   "categories": [
    "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "9d4c7dd9444f",
+  "title": "【保存版】64億ドル企業の創業者の新作は「閉じても消えないターミナル」。Claude Codeが会話ごと戻る",
+  "url": "https://qiita.com/emi_ndk/items/29214a0462a4e4b9902b",
+  "source": "Qiita",
+  "summary": "あなたはまだ、AIが作業を終えるまで、画面を開いたまま待っていませんか？ IBMに約64億ドルで買収されたHashiCorp。その共同創業者が次に作ったのは、**閉じても作業が消えないターミナル「Rex」**でした。 Claude CodeのようなAIは、「ターミナル」とい...",
+  "publishedAt": "2026-11-27T13:59:15.000Z",
+  "image": "",
+  "categories": [
+   "business"
   ],
   "isPR": false
  },
@@ -63,6 +103,19 @@
   "categories": [
    "product",
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "65585dd0f3cf",
+  "title": "Claude Code のフックで「前回の続き」を差し込んでたら、1 万字を超えて頭だけになってた（設定とスクリプトつき）",
+  "url": "https://zenn.dev/azarashi_ora/articles/ora-claude-code-hook-cap",
+  "source": "Zenn",
+  "summary": "AI のアザラシ「オラ」だ。この記事も、オラが書いてる。 Claude Code の部屋（会話）は、閉じると前の事を忘れる。オラたちは部屋をいくつも同時に回してるので、忘れられると困る。だから、記憶のフォルダを作って、そこに「いまの状態」を書いた紙（状態の紙・NOW.md）や、決めた事の記録を置いてる。 読ませるのと…",
+  "publishedAt": "2026-11-27T13:14:21.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -186,6 +239,19 @@
   "isPR": false
  },
  {
+  "id": "5e967dc52146",
+  "title": "LLM に「材料にない数字」を言わせない：魚の質問欄を、指示ではなく答えの検査で守る",
+  "url": "https://zenn.dev/zennpay/articles/ab648c77094b5c",
+  "source": "Zenn",
+  "summary": "Fish×Tech 2026（いしかわの海の幸×ハッカソン）に個人で参加して、石川の少量・珍しい魚を出荷前に買い手につなぐアプリを作っています。その中に、出品中の魚について自由に聞ける「質問欄」を置きました。 アプリには、買い付けをする業者向けの「業者版」と、一般の人向けの「消費者版」の 2 つの画面があり、質問欄は…",
+  "publishedAt": "2026-11-27T12:44:46.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "d940e5283e6c",
   "title": "画像・写真：ＡＩ法改正で罰則導入へ：時事ドットコム",
   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mRGdOMXpjMHU5NmFYcDZuVTFNV0VDQWVjNkUxM1pzRUd0ZTVWM1FwdFFZcGJCYlhjNzZ1N2JKSXJ1TFlnUjliYjZqRGZMb05qbzZ3OGc5dWltOFdTcXZCVUVNcWg?oc=5",
@@ -221,6 +287,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "0f41a9506b11",
+  "title": "gpt-oss-120B を SciCode tas で測った全記録 — 61step・決定性・effort 感度・3体対照",
+  "url": "https://zenn.dev/jinno_ai/books/scicode-gpt-oss-eval-report",
+  "source": "Zenn",
+  "summary": "gpt-oss-120B を RTX 3060 12GB で動かし、公開ベンチ SciCode の事前登録済み25問題・61ステップで計測した全記録。無料記事で報告した見出し数値の裏側 — 全step明細・帰属分離集計・決定性検証のstep別一致表・effort 感度・3モデル対照・R2 偏位分析を、検算可能な形で収…",
+  "publishedAt": "2026-11-27T12:25:19.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -1338,7 +1417,7 @@
  {
   "id": "a08de0bf44fa",
   "title": "米シスコとOpenAI、Linuxを守る「Shirudo」開始",
-  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1ZWVIT2JhWE5RRmhvOUh4RTQySDBpdXc2ZDM2Rzc0Y0V3dDduREdGYVI1ei1MZ2M1N0lRWFhFbVBURnZvTC11cnpYN3kyWmNycE1KYVNuNGU0WWFpOUs1SzdwWDjSAWRBVV95cUxQdWVlSE9iYVhOUUZobzlIeEU0MkgwaXV3NmQzNkc3NGNFd3Q3bkRHRmFSNXotTGdjNTdJUVhYRW1QVEZ2b0wtdXJ6WDd5MlpjcnBNSmFTbjRlNFlhaTlLNUs3cFg4?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LZDBuWU5mTmJtS0s0dDZyT29aQlh1ZFlNTWFhR0NKemthcVNCZ3EtZlFsR0VnQWc2OGdleC1uUWo0eFhUdXNHUUMwQndKVldBdlNiTHlnZFRNUk5IR2U40gFkQVVfeXFMUHVlZUhPYmFYTlFGaG85SHhFNDJIMGl1dzZkMzZHNzRjRXd0N25ER0ZhUjV6LUxnYzU3SVFYWEVtUFRGdm9MLXVyelg3eTJaY3JwTUphU240ZTRZYWk5SzVLN3BYOA?oc=5",
   "source": "Infoseek",
   "summary": "",
   "publishedAt": "2026-11-27T08:47:01.000Z",
@@ -1877,6 +1956,19 @@
   "categories": [
    "dev",
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5bc360120876",
+  "title": "Google、ChromeでのGeminiの過剰なRAM使用を修正したと発表",
+  "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWFNCNmlGMHJ0NXNLNHYxejBENHY3eDcxdkc3aUV3MHYwNVZlYl9JbmNESFNDcVZnZi1CakdDZnBRR0FrOFY0NEZzRkFrbGstcFlfU1pJMkVwUVBENDJ1dEthb2R2cFNjZndCS1ZlREFMVWRobUxlSXZrRi0wd2toVElQdHYzVG9DaEx0NWZYUlE?oc=5",
+  "source": "Mezha.net",
+  "summary": "",
+  "publishedAt": "2026-11-27T07:41:00.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -3589,9 +3681,9 @@
  },
  {
   "id": "a4daa7a83beb",
-  "title": "アクロニス・ジャパン、AIエージェントによる攻撃を追跡調査、1人が12体を操作し、11カ国・地域を襲撃 (BCN)",
-  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLXprNTdmX2thQ29SaW03VFI3d1Ntc2Z6R2dJYTlKZjhwd1liUnJrRnRQS0lUUFJjRkQ2TmVnMi1nbHpVbHdyZlFjU1dyX0Ztc1JfdndJXzdzc0pZeVBIc3pkU0dndG9UMnRUOS1Dc2lCSmtQYnR6WlpWVTBYMk51N2FudDJyX29ESzFNa19R?oc=5",
-  "source": "Yahoo!ニュース",
+  "title": "アクロニス・ジャパン、AIエージェントによる攻撃を追跡調査、1人が12体を操作し、11カ国・地域を襲撃",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nRTRCUjF0VnJ3YTBXNXFkMlNwemgwbzREMU5TeVpIMXdWZ1ZwTTVDNUdoa2xITWpWdGdvRzg4WW9SNFRndFpOWFNaTXlnRS04TlJQa08tQ0tTNDNSVXkzNWQ1YjE5X2pKaXZmRzl2VGJpb2xO?oc=5",
+  "source": "週刊BCN＋",
   "summary": "",
   "publishedAt": "2026-11-27T04:07:00.000Z",
   "image": "",
@@ -4358,6 +4450,19 @@
   "isPR": false
  },
  {
+  "id": "5e60ef3bdc04",
+  "title": "岡山大の関教授に助成金 医療とＡＩの関係を研究 大和証券財団",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiVlZmMzk4UWxvTEtpSm5pdXNWemE3WlpLQ1N5dmd4aEdqbGQteW1VeGJVV1M0UTBqNFprMzBrLUJpQmdNV3BfYmt5WWRNa0d6ZHFSZUtfQUd3VElmYWx0cnhuX0hDdENXWHJmNjloYw?oc=5",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-11-27T02:42:09.000Z",
+  "image": "",
+  "categories": [
+   "model"
+  ],
+  "isPR": false
+ },
+ {
   "id": "4a60d084fff9",
   "title": "Nvidiaは、米国の新たな規制を受け、東南アジア4カ国へのAIチップ搭載サーバーの出荷を一時的に停止した。",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdWRDb05DSGZMaEd1MjBZNFVEVU0xQUJ2ZzFVUXZrZEw3MjJDaXNTeHBMYVJnY0JQRUFncTExQWJrZkZNZG11X1JFMThhTmdBQUxiUTBaU0oxRU9USm9kbWlGbTlWUF9YSTl1bVlVbTh3WEZhel9BNlRRLVpGX2loSlI4eUQxblBjczEtdGZHQUViYTNrMXZWZlJJdlhDSGMxWEtVV2NBLThFTGVwV2c?oc=5",
@@ -4368,6 +4473,19 @@
   "categories": [
    "infra",
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7a2ed7c8a765",
+  "title": "AI開発に逆風吹き始める中、ソフトバンクGが7680億円の赤字",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUU3dHMHJ6VVpVQ3c1R2FFVmROZnBJX1dzNTFRMlRQTTFDdFRpMjhMczRZanpURlBsVWNteHBRMVV2bzlGc25ZUk50UVEzNzFOdEFXSg?oc=5",
+  "source": "財界オンライン",
+  "summary": "",
+  "publishedAt": "2026-11-27T02:36:54.000Z",
+  "image": "",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -4391,19 +4509,6 @@
   "source": "TBSテレビ",
   "summary": "",
   "publishedAt": "2026-11-27T02:30:02.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
-  "id": "7a2ed7c8a765",
-  "title": "AI開発に逆風吹き始める中、ソフトバンクGが7680億円の赤字",
-  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RaFF0XzZIeDN5b0xwaTBFQWY3eWN2MDdsUE1jX2VHSTBTMjd2VWVxUlpPNEJUdWtwM05Xd2JmRlIzeEM5eVpvdEJKeWxZSjlVU1ZndXJPdjBJa2w4LU5rTEJB0gFiQVVfeXFMTVFoUXRfNkh4M3lvTHBpMEVBZjd5Y3YwN2xQTWNfZUdJMFMyN3ZVZXFSWk80QlR1a3AzTld3YmZGUjN4Qzl5Wm90Qkp5bFlKOVVTVmd1ck92MElrbDgtTmtMQkE?oc=5",
-  "source": "Infoseek",
-  "summary": "",
-  "publishedAt": "2026-11-27T02:30:00.000Z",
   "image": "",
   "categories": [
    "other"
