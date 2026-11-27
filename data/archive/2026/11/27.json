@@ -79,6 +79,19 @@
   "isPR": false
  },
  {
+  "id": "bea5f4519209",
+  "title": "Nano Banana 3.0実践ガイド：複数参照画像で照明・構図を壊さずに4K商品・ライフスタイル写真を編集する方法",
+  "url": "https://zenn.dev/yoxi957/articles/174c799a7962d3",
+  "source": "Zenn",
+  "summary": "David Matamoros · Studio Prompt Lead · 公開日 2026-11-26 商品写真やライフスタイル広告をAIで部分修正する際、最も頻発する失敗は「テキストを書き換えた瞬間に照明の向きと背景のボケ味が崩壊すること」です。Nano Banana 3.0 のマルチリファレンス4K編集パイプ…",
+  "publishedAt": "2026-11-27T14:01:47.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "b6cbf3110c18",
   "title": "画像を「検出するAI」から「理解するAI」へ。ナウア株式会社、VLMを活用した産業向け画像・映像解析技術の開発を推進",
   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44LXh2ZS1hMXNSNndXT3U3SWM5bHpVV0VMTjNUWHV1N1NNLUdkMnZsMnZUSk53RVhad1BneTdCMHVqZGRpWDFORDBDS242NUVQTFlBSk80VE5Nem42SkNqeXhxeWtTMmlKWHZMdm02a3NpTktEWDU4bg?oc=5",
@@ -88,6 +101,19 @@
   "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "5d75eee306f4",
+  "title": "生徒の指導も、251ページのサイト運営も一人。オンライン塾を静的HTMLとPython標準ライブラリだけで回している話",
+  "url": "https://zenn.dev/kurodaschool/articles/185081fcd8e9db",
+  "source": "Zenn",
+  "summary": "はじめまして。東京大学教育学部を卒業し、オンライン専業の個別指導塾「黒田塾」を一人で運営している黒田清友です。授業・学習管理・答案添削のすべてを私一人で担当し、これまでに累計50人以上の生徒を指導してきました。 この記事は塾の宣伝ではなく、**「専門職が一人で事業を回すとき、テクノロジーをどこまで自作し、どこから割り…",
+  "publishedAt": "2026-11-27T14:00:20.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -132,6 +158,33 @@
   "isPR": false
  },
  {
+  "id": "a2922e006168",
+  "title": "検査AIの判定を、ラインの動きに戻す — 排出・停止・作業者確認をC#で設計する",
+  "url": "https://zenn.dev/jodycraft/articles/inspection-ai-line-action-design",
+  "source": "Zenn",
+  "summary": "この記事の前提 外観検査AIや画像処理の導入を検討している生産技術・開発者向けです。C#の基本文法は前提にします。 実際のPLC・ロボットは動かしていません。C#のコンソールサンプルで、判定から操作を選ぶ部分だけを確認しています。 公開事例の数字は、特に断りがない限り発表元の公表値です。自分の環境での再現値ではありま…",
+  "publishedAt": "2026-11-27T13:36:07.000Z",
+  "image": "",
+  "categories": [
+   "case",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "99316e53eb0b",
+  "title": "Windows の Claude Code で裏の Bash を止めても、中で動かしたものは残り続ける",
+  "url": "https://zenn.dev/kamijo_aoto/articles/claude-code-bash-orphan-processes",
+  "source": "Zenn",
+  "summary": "Claude Code の Bash ツールは、時間のかかるコマンドを裏で動かせます（run_in_background）。止めたいときは TaskStop で止めます。 ところが Windows（Git for Windows の Bash）では、TaskStop で止めても、そのコマンドの中で動かしたもの（& で…",
+  "publishedAt": "2026-11-27T13:31:36.000Z",
+  "image": "",
+  "categories": [
+   "product"
+  ],
+  "isPR": false
+ },
+ {
   "id": "8154e1540768",
   "title": "AutoGPTとは？ くり返しの仕事をAIの「専門家」に任せる、ソースコードが公開されたツールを、やさしく解説",
   "url": "https://qiita.com/kirancom1011/items/e7a7acd49a8371e20eb7",
@@ -155,6 +208,19 @@
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4a58500219f1",
+  "title": "QtでエッジAIの結果を表示する：画像IDと要求IDで古い判定を防ぐ",
+  "url": "https://zenn.dev/sugitakenji/articles/7382b889a3f411",
+  "source": "Zenn",
+  "summary": "部品Aの画像で検査を開始し、途中で取り消して部品Bを開きました。その直後、「傷の疑い」と表示されます。 モデルが正しく判定していても、表示先が違えば、検査装置としては誤った結果です。AIを機器内で動かしても、画像を切り替える操作と推論完了のタイミングは一致しません。 この記事はSRAの技術記事「QtアプリにエッジAI…",
+  "publishedAt": "2026-11-27T13:14:41.000Z",
+  "image": "",
+  "categories": [
+   "product"
   ],
   "isPR": false
  },
@@ -349,6 +415,19 @@
   "source": "Yahoo!ニュース",
   "summary": "",
   "publishedAt": "2026-11-27T12:31:05.000Z",
+  "image": "",
+  "categories": [
+   "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ed79fe37d5a2",
+  "title": "◎ＡＩ法改正で罰則導入へ",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HaHU3NWtVZ2FBRGEzZFVLRnJrN2NScU1ZT1hDSmdiMlppTlRhV3BjUHkyUG80YTI5SmJxWlRwYkczRGlCQmVDR3RxQXRPd0EtbjRmUQ?oc=5",
+  "source": "時事通信ニュース",
+  "summary": "",
+  "publishedAt": "2026-11-27T12:29:00.000Z",
   "image": "",
   "categories": [
    "case"
@@ -576,6 +655,19 @@
   "image": "",
   "categories": [
    "case"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "f4bf2434675a",
+  "title": "OpenAI、営業秘密の窃取と供給業者への脅迫をめぐりAppleを反訴",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSGtwNUxsQWhiOEJRN3ZRM1c2RGEwWFYyTFE0a0RaOUtST1dGck9ScVVlR1VJN0pBbU1qcHB2MTE2UVdUZERidl84eElxQ1FiQUlQZlV6aXhlbHg2dmxaMjFSSHJwZmEwQ2lmdmt4QnBnc0tKM3lWbEdUbEdJd3NmeUc1SktuTHhhS2ktWHFXa01KWTNnYXU4eXBadWtkNGc4NXlr?oc=5",
+  "source": "Mezha.net",
+  "summary": "",
+  "publishedAt": "2026-11-27T11:46:00.000Z",
+  "image": "",
+  "categories": [
+   "infra"
   ],
   "isPR": false
  },
@@ -1562,7 +1654,7 @@
  {
   "id": "a08de0bf44fa",
   "title": "米シスコとOpenAI、Linuxを守る「Shirudo」開始",
-  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LZDBuWU5mTmJtS0s0dDZyT29aQlh1ZFlNTWFhR0NKemthcVNCZ3EtZlFsR0VnQWc2OGdleC1uUWo0eFhUdXNHUUMwQndKVldBdlNiTHlnZFRNUk5IR2U40gFkQVVfeXFMUHVlZUhPYmFYTlFGaG85SHhFNDJIMGl1dzZkMzZHNzRjRXd0N25ER0ZhUjV6LUxnYzU3SVFYWEVtUFRGdm9MLXVyelg3eTJaY3JwTUphU240ZTRZYWk5SzVLN3BYOA?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1ZWVIT2JhWE5RRmhvOUh4RTQySDBpdXc2ZDM2Rzc0Y0V3dDduREdGYVI1ei1MZ2M1N0lRWFhFbVBURnZvTC11cnpYN3kyWmNycE1KYVNuNGU0WWFpOUs1SzdwWDjSAWRBVV95cUxQdWVlSE9iYVhOUUZobzlIeEU0MkgwaXV3NmQzNkc3NGNFd3Q3bkRHRmFSNXotTGdjNTdJUVhYRW1QVEZ2b0wtdXJ6WDd5MlpjcnBNSmFTbjRlNFlhaTlLNUs3cFg4?oc=5",
   "source": "Infoseek",
   "summary": "",
   "publishedAt": "2026-11-27T08:47:01.000Z",
