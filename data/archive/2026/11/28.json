@@ -13,15 +13,96 @@
   "isPR": false
  },
  {
+  "id": "3c814ec763bb",
+  "title": "SIGINT で止めた claude -p は終了コード 0 を返す：途中で止めた実行を成功と見誤る（2.1.319 の実測）",
+  "url": "https://zenn.dev/usagit/articles/40e16633e9f62f",
+  "source": "Zenn",
+  "summary": "claude -p を子プロセスとして回し、時間切れや中断で途中で止める仕組みを書いていないでしょうか。その子の終了コードで「最後まで走ったか」を判定すると、止めた実行を成功として数えてしまいます。2.1.319 では、SIGINT で止めた claude -p は終了コード 0 で終わりました。SIGTERM なら…",
+  "publishedAt": "2026-11-28T13:27:45.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "ef491682ee15",
+  "title": "コードを書くことが減った現役SEが、最近感じていること",
+  "url": "https://zenn.dev/kikulog/articles/4d8e59c137c490",
+  "source": "Zenn",
+  "summary": "はじめまして、きくログです！🦔 普段は業務システムの開発を中心に、システムエンジニアとして働いています。 これまでC#、Java、Kotlinなどを使った開発を経験し、システムを一から作ったこともあります。 そんな僕ですが、最近は仕事でコードを書く機会が少なくなり、仕様やシステム全体の設計を考えることが増えてきまし…",
+  "publishedAt": "2026-11-28T13:27:22.000Z",
+  "image": "",
+  "categories": [
+   "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "2ed90be6a114",
+  "title": "技術書典で買った本が AI から読めると楽しいよねの話",
+  "url": "https://zenn.dev/megablacklabel/articles/ligrol-mcp-ai-bookshelf",
+  "source": "Zenn",
+  "summary": "この記事はAIを使って書いて、人力で添削しています 同人誌の電子書籍をひとつの本棚に集めて読むデスクトップアプリ Ligrol（リグロル）に、MCP（Model Context Protocol）サーバーを追加しました。AI クライアントから本棚・タグ・本文・読書統計・付箋・技術書典のチェックリストを読めます。 この…",
+  "publishedAt": "2026-11-28T13:26:20.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
   "id": "7b2a83b1d745",
   "title": "出品パックを作っておいたから、本を出せた ― コピペ用の準備が16日後に役に立った話",
-  "url": "https://qiita.com/ai_secretary/items/6e83e0df8ade656f6b43",
-  "source": "Qiita",
-  "summary": "原稿はできていたのに、出品の前で止まっていた 11月11日、本の原稿はできていた。タイトルも章立ても決まっていて、あとはZenn Booksに出すだけ、というところまで来ていた。でも、その日の出品は進まなかった。ブラウザでの出品はZennへのログインのところで止まってしま...",
-  "publishedAt": "2026-11-28T13:27:00.000Z",
+  "url": "https://zenn.dev/ai_secretary/articles/4dada726e31045",
+  "source": "Zenn",
+  "summary": "11月11日、本の原稿はできていた。タイトルも章立ても決まっていて、あとはZenn Booksに出すだけ、というところまで来ていた。でも、その日の出品は進まなかった。ブラウザでの出品はZennへのログインのところで止まってしまった。 その日に私がしたのは、出品そのものではなかった。出品パックを作ることだった。タイトル…",
+  "publishedAt": "2026-11-28T13:25:51.000Z",
   "image": "",
   "categories": [
    "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "faee8d23da68",
+  "title": "AIエージェントと自宅PCを「.jobファイル1枚」でつないだ理由と最小コード",
+  "url": "https://zenn.dev/asakura_daimaoh/articles/2b3cd9e507bed5",
+  "source": "Zenn",
+  "summary": "クラウドで動く AI エージェントに、自宅 PC での作業（静的サイトのビルドや公開など）を毎日まかせています。そのとき、エージェントと PC のつなぎ方をいろいろ試した結果、いまは 「同期フォルダに .job ファイルを1枚置くだけ」 という単純な形に落ち着きました。 この記事では、その形にした理由と、最小限のコー…",
+  "publishedAt": "2026-11-28T13:21:58.000Z",
+  "image": "",
+  "categories": [
+   "product",
+   "infra"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "edb7aff9a847",
+  "title": "AIエージェントに個人サイト群を無人運用させる実装ガイド",
+  "url": "https://zenn.dev/asakura_daimaoh/books/3528223449ec71",
+  "source": "Zenn",
+  "summary": "スケジュール実行のAIエージェントに、静的サイトのビルド・公開・検索まわりの点検・数字の取得を毎日まかせるための設計と実装の本です。クラウドのエージェントと自宅PCを同期フォルダの「.jobファイル1枚」でつなぐジョブランナー、JSONからの静的サイト生成と検証、公開後に本番を確かめる手順、robots.txt・転送…",
+  "publishedAt": "2026-11-28T13:18:04.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "cdf2fa2f3f79",
+  "title": "OpenWiki は Claude Code の探索を助けるのか、精度と費用を確かめてみた",
+  "url": "https://zenn.dev/kenny2017/articles/openwiki-sakura-eval-reader-agent",
+  "source": "Zenn",
+  "summary": "前編で作った DeepSeek-V4.1-Flash-1017・GLM-5.3-Flash と比較対象の Claude Sonnet 5.5 の 3 種類の Wiki を Claude Code に読ませました。 LangChain 公式の WikiBench 記事では、評価用エージェントに Wiki とソースコード…",
+  "publishedAt": "2026-11-28T13:13:57.000Z",
+  "image": "",
+  "categories": [
+   "dev"
   ],
   "isPR": false
  },
@@ -57,10 +138,37 @@
   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92c2ZNR3gzd042dGZjVHlJV3d2cnZZWk9STlFadEpWa0lzSW9nc3EyX0ZDb2JYclZwX2ltUnpHaFBEclJtallFM1Z1S0VRR1J6eVZN?oc=5",
   "source": "東京報道新聞",
   "summary": "",
-  "publishedAt": "2026-11-28T12:36:59.000Z",
+  "publishedAt": "2026-11-28T12:36:53.000Z",
   "image": "",
   "categories": [
    "product"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "187d5174dfcb",
+  "title": "AIエージェント・ストラテジスト合格体験記 ― 試験の特性と合格戦略",
+  "url": "https://zenn.dev/inferium/articles/72256e94611a8b",
+  "source": "Zenn",
+  "summary": "2026年10月に実施された第2回「AIエージェント・ストラテジスト資格」を受験し、無事合格することができました。 2026年に新設されたばかりの資格ということもあり、合格体験記や試験対策に関する情報はまだ多くありません。実際に受験してみると、一般的な知識習得型の資格試験とは異なる難しさがありました。 そこで本記事で…",
+  "publishedAt": "2026-11-28T12:30:05.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "4fe4ed137c6f",
+  "title": "AIとの会話が競売に？42州が異議、GPT-6.2は上限が早まる",
+  "url": "https://zenn.dev/sugawara_ai/articles/ai-news-20261127",
+  "source": "Zenn",
+  "summary": "2026年11月27日（金）のAIニュース完全解説版。図解を見れば本文を読まなくても分かる形にしています。 おはようございます、菅原です。今日は、AIに預けたものの扱いが問われる話が多い日なんですよ。GPT-6.2は計算ミスの修正で、上限に早く届くようになりました。Character.AIでは会話の履歴が競売にかけら…",
+  "publishedAt": "2026-11-28T12:29:27.000Z",
+  "image": "",
+  "categories": [
+   "model",
+   "dev"
   ],
   "isPR": false
  },
@@ -104,6 +212,32 @@
   "isPR": false
  },
  {
+  "id": "6108be4bb2c2",
+  "title": "やることが変われば、インターフェースも変わる：AI と話すうちに、言葉のほうが変わってきた",
+  "url": "https://zenn.dev/noah33/articles/fx-mic-interface",
+  "source": "Zenn",
+  "summary": "キーボードを打たずに、AI に話しかけるだけで仕事が進むようになったら、机の上には何が残るのでしょうか。 それを自分の暮らしの中で確かめてみたくて、先日、スウェーデンの音楽機材メーカー teenage engineering の fx-mic というマイクを購入しました。 「fx」と名前がついている通り、ただのマイク…",
+  "publishedAt": "2026-11-28T12:00:09.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "362c4ef4e124",
+  "title": "Coding Agentの調査結果を「指示」「事実」「考察」の項目に分けて書かせると具合が良い",
+  "url": "https://zenn.dev/sisisin/articles/20261128-record-instruction-fact-discussion",
+  "source": "Zenn",
+  "summary": "Coding Agent（以下agent）と対話し、その結果を記録させ、設計や計画をさせる、そしてその過程でagentに書かせた記録・・・ ここに、「いや俺そんなこと言ってないんすけど・・・」みたいなことが書かれてること、あると思います 例えそう書かれていたとしてもそのまま上手くいくならいいんですが、agentは「ユ…",
+  "publishedAt": "2026-11-28T11:59:56.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
   "id": "caa5c768adc9",
   "title": "GoogleのエンジニアがGemini 4 Neonのチューニング手法を公開：まず古いルールを削除、次にツールとコンテキストを議論",
   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CcDlyZHFndFVHQ3B3bVduNkR4eWpSRXlBN25LTTY0Ui1mcEV0eS15dUFnOHp6dk02cmtUQTNqc25yZmpRV3FZS2VwWnZ5dkNSb0RoSmNpbzB6VWVkbkpQRm9EdnM5Z3BleExvUnZyRE5UUUxI?oc=5",
@@ -114,6 +248,20 @@
   "categories": [
    "product",
    "model"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "7849736c5d70",
+  "title": "AIに仕事が奪われないと言える理由をエンジニア目線で解説",
+  "url": "https://zenn.dev/sunsun_eng/articles/why-ai-wont-take-engineer-jobs",
+  "source": "Zenn",
+  "summary": "この記事の要点 AIに仕事が奪われないと語られる主な理由は、要件を決める作業や責任の所在など、AIが引き受けにくい領域がはっきり残っているためです。 元Yahoo!出身でエンジニアから社長になった人物がQiitaで公開した記事（参照）をきっかけに、この話題がエンジニアの間で広がっています。 ただしAIを使わない、また…",
+  "publishedAt": "2026-11-28T11:50:22.000Z",
+  "image": "",
+  "categories": [
+   "dev",
+   "product"
   ],
   "isPR": false
  },
@@ -460,6 +608,19 @@
   "isPR": false
  },
  {
+  "id": "2ae83864e368",
+  "title": "「iPodの父」が明かす、OpenAIがJony Iveとハードウェアを共同開発する内幕：Appleがプライバシーを死守しデータを渡さないため！",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkNmU3YXRvUzFuWnROUTJCMF9DOHFuWXhncDZ2Q1dTbzJtNGFGQXBjRkgzMXZZZXRRdmozSl9CazBFSWtTMFExbU1tMG9OUjVWNHU2WUxaX0pCM2RfQjF0UTVKbjBVeHNES1BoWGdDS2Nyd29hV2hnN1N3?oc=5",
+  "source": "Mashdigi",
+  "summary": "",
+  "publishedAt": "2026-11-28T10:06:12.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "fcf204b83098",
   "title": "AIが替わっても、仕事を続けたい――Surface Laptop UltraのハイブリッドLLM構想",
   "url": "https://zenn.dev/dantarg/articles/hybrid-llm-local-autonomic-core",
@@ -510,6 +671,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "45c74bd48aa5",
+  "title": "生成AIグロックの無断性的画像生成で米2州が提訴 スペースXに賠償請求 | スマートニュース",
+  "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxQZENWeU5Od29VX0NYdk43NlUzV3NJZ0lHZWJLdzlBa1lRVWRMemFsbk53TmVIbF94Z2s2RFlkRk9vamFCYVZsOVpiOWN6eTFQXzB4MkxtQnFRd1hrbHF0SnhBS01jVEdkOXpyZy1nVVU5S0pfMURsR19WRWZaUnJHSmJDRXc3ZXlHREdEZUkwM1pLSGh5aWtxLWpGRkx4TkM5VlVPRjVLVzFPX0p0TmVKQ3ZCbEgwQmpwLWNjUk52OTVhelNYV1ZDWHNjOV81dFpzVW9KdUpFdkNLeHh0UWhWY0wzSW5wVEJWOGgtcXI3dG9nb0ptdFdoY0VVd2VPWG1Dbm5YeDg4QmRBY2puLXBsbGQxOHlrR3k2SktiYk10Q0p3Y1dPYVVONVJPSG9IbmJBc3Nac3RUeWNuOFdabGVtYlRuSlJqSGlHQ0t2a0tmWUNUTGxHVlZFWmR6clFsSVZiNG1VdEpGSUhnZWt3bjg3bTc5WEppNmlNMW9sY1gtWE5XQjI1ZHA4WmhVQmFoVFYtR3A4NE5CZi1rU2RZc1NxbGtmUkZDeVpjZUE0bF9vOUcyTk1WRXE0UGM4UDFOaEJlRVAxUXdQZWVNV09LQ3JFZW5WMEhzR1d0R3djc29GSUZFRHI4?oc=5",
+  "source": "SmartNews",
+  "summary": "",
+  "publishedAt": "2026-11-28T09:12:00.000Z",
+  "image": "",
+  "categories": [
+   "policy"
   ],
   "isPR": false
  },
@@ -764,6 +938,19 @@
   "isPR": false
  },
  {
+  "id": "9c345e9b6e01",
+  "title": "中国AIユニコーン7社の全貌 18年の資金調達3700億円 （2ページ目）",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2pES182My1kRWYwUVdhRjJGekpaNUdNUi1DMndQQnpDVkw5WFRRdFJXTS1XVV9GbEN2SXBjOUlwZTVyR2xlel9EOEoxQnVieTNBX201X2ZEdm9RUnRIcy1IV2Y0cGtSd2hWNmRWelV6LVZFM1A2MzhFUEhvd3QwMTNZOHd0dThyaHQ5c2VKblRaQlktS2c?oc=5",
+  "source": "日経クロストレンド",
+  "summary": "",
+  "publishedAt": "2026-11-28T08:03:45.000Z",
+  "image": "",
+  "categories": [
+   "business"
+  ],
+  "isPR": false
+ },
+ {
   "id": "5099849f5f13",
   "title": "AIで仕事は消えるのか 米58社の調査で職が消えたのは2社、多かったのは採用の見送り（いけとも） - エキスパート",
   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZXBFSGs3dHZWcUMxT2o1ZFo5NXh0c2k0T2FxRXRkVWJPbFNmRm9PSnFYSE1Sek5md0xYUjk1c1NiU2ZYT3lUUlA3NHpHdG1kallRUVc2Y2tJM3pYOVEwbmk3cm5sc3doUkZONGd2eFdHVG1Uamc0eXl6VVlMTnQ0emJEcF9LWWgx?oc=5",
@@ -779,7 +966,7 @@
  {
   "id": "2e5b7fc15241",
   "title": "チャットで頼めば、事務仕事が現場で終わる。ビルメン会社と共同開発したAI活用サービス「ビルメンNEXT」提供開始",
-  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXYmVZQzBteEtIbXN3Rml0clk0WlFOTER2cmphbFBYdE1VdjEySG1RdnJkVVE5MzZtNmltLThQUTBnRXhJclIwV3hvT01ZSGJnWDcwMkZJU1ozWmpaS0F1MzBaTW52U2hMSVNfQUJzZE1xZFZuN0RVbFlyWQ?oc=5",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nWm9ZUEVhM1hYUS1tWEx4dnVINTNHUktxS0NTTWhXSzhGakRuUElZOVU2bG5ia2p0QzJaT3MzSTd3bmxCZWN2VXplUkdUMFhUdjdjVVJKUzlrcDRXRG1kMG5qM1ZBT0JSZ2NJd1BhNVdKNVp5bmc?oc=5",
   "source": "ニコニコニュース",
   "summary": "",
   "publishedAt": "2026-11-28T08:00:25.000Z",
@@ -976,19 +1163,6 @@
   "isPR": false
  },
  {
-  "id": "04446616e8a4",
-  "title": "D株式会社、コーポレートサイトを全面リニューアル。AIによる企業の事業成長支援を強化",
-  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vaXRob0M3Sk90NnNzbk5UN3l2R29zV3F3TkZ0ZWF1ZDI1Z25faWRMTWlWdkZwWTlnN3RzdnNmdFB5YllMYzFvQllHeHdZSVRGYmgyQkxFeFZBZTVxZFhjYy1DMFcwRFVnN1A3dnJ0Z2VtZw?oc=5",
-  "source": "Infoseek",
-  "summary": "",
-  "publishedAt": "2026-11-28T07:15:31.000Z",
-  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "f1ba9ad09a4e",
   "title": "【2026年】写真1枚で音声付きバイラルAI動画＆公開MCPサーバーを作った設計メモ",
   "url": "https://zenn.dev/shuang/articles/f542a0216c586a",
@@ -1017,19 +1191,6 @@
   "isPR": false
  },
  {
-  "id": "9c345e9b6e01",
-  "title": "中国AIユニコーン7社の全貌 18年の資金調達3700億円 （5ページ目）",
-  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLVZxeWV3LXJYOVowcGF2UmNKSXd5TWRxQ2ZWMEJmOTU4d2F1RXZGTFNoZ05DX1pwQXl6bjR5ajdoU1FES3FFczluODFqQzhLNTdSczBINTNydk1BU0EtcDJ5eFlENWhwQ1IyQkZIYUhiNm15TmNqRmJnVTJCMEh5bjcwSk9IR2dpVG8xSGlWb1FVRXZpblNHTA?oc=5",
-  "source": "日経クロストレンド",
-  "summary": "",
-  "publishedAt": "2026-11-28T07:12:51.000Z",
-  "image": "",
-  "categories": [
-   "business"
-  ],
-  "isPR": false
- },
- {
   "id": "c853137be7cc",
   "title": "【個人開発】AIと並行開発するカンバン拡張作った",
   "url": "https://zenn.dev/nyamogera/articles/kanturn-vscode-kanban",
@@ -1052,6 +1213,19 @@
   "image": "",
   "categories": [
    "dev"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "04446616e8a4",
+  "title": "D株式会社、コーポレートサイトを全面リニューアル。AIによる企業の事業成長支援を強化",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DMVJzbkNXV2pVUXNOUDlVbDNOeFc4cUZyZkZHMDBmQThscFdJdHR1aFFBMmF3d1lHc1M3VUFsb203emduVG1TWnBFSjNCRkxnR0NKY3ZHejhrZENHajFVdm1ydXdidlNKcmZETmtVWHVjQklqTDVJQQ?oc=5",
+  "source": "ニコニコニュース",
+  "summary": "",
+  "publishedAt": "2026-11-28T07:00:15.000Z",
+  "image": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg",
+  "categories": [
+   "other"
   ],
   "isPR": false
  },
@@ -2730,6 +2904,19 @@
   "isPR": false
  },
  {
+  "id": "9ef5699d3b34",
+  "title": "ＡＩ開発企業への規制強化提唱 安全確保に不可欠と米ＭＳ幹部",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QXzgtSjhjOWtVb25hSGRMaEtFWkZpTjh0RmdLTDBQTXlWTTdMVnR6eWtBdmwyelgtSUdpZ1Z4Y21mVVd4dmF1RzJBMUYzSUEzNkhZUTU0UWxmZw?oc=5",
+  "source": "山陽新聞",
+  "summary": "",
+  "publishedAt": "2026-11-28T00:11:00.000Z",
+  "image": "",
+  "categories": [
+   "policy"
+  ],
+  "isPR": false
+ },
+ {
   "id": "9825d1fe10e1",
   "title": "Claude Codeの5時間制限と週間制限：何がカウントされ、いつリセットされ、残りをどう確認するか（2026年11月版）",
   "url": "https://zenn.dev/niedraaa/articles/5a070b53decbf1",
@@ -2815,19 +3002,6 @@
   "title": "ＡＩ開発企業への規制強化提唱",
   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtWEwxb0ppNjJSaFVtZnN3UklfYk1SYjhqNFY4YzVReC14bFdXWkNTMkxXOUxLNUVSd2E5WEdiLXpSSDJ2eG83U0U3cTNkNWE0NE9ZWGtHakF2QktoeUJ6RmxPMXFCMUFna2trOUt4RXFuWDZTMjZSSlJicw?oc=5",
   "source": "北日本新聞webunプラス",
-  "summary": "",
-  "publishedAt": "2026-11-27T23:54:58.000Z",
-  "image": "",
-  "categories": [
-   "policy"
-  ],
-  "isPR": false
- },
- {
-  "id": "9ef5699d3b34",
-  "title": "AI開発企業への規制強化提唱 安全確保に不可欠と米MS幹部",
-  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsQ3pHaFZnM1VCNzQxSVdySldCalE4U2JDWlNKbmhJU2xmdlVPTUIwbEFwVE8tc0hqR2lpSmdMSGFoWmgxaU1YUmtBQ2FvaTYwb3dzVnpR?oc=5",
-  "source": "西日本新聞me",
   "summary": "",
   "publishedAt": "2026-11-27T23:54:58.000Z",
   "image": "",
@@ -3622,19 +3796,6 @@
   "isPR": false
  },
  {
-  "id": "c3f8d5a2b3e4",
-  "title": "ジェンスン復帰とAI総括｜今週のまとめ｜The Real Eisman Playbook",
-  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fUDQwTVotRC11QnVFUzdWNkZQbjVXVVhqNlFPTzFHc1d3bFBfR2QwbXBCQkJ2MkRLcHNhcjlTSVpSVl9neWRjcTQ5ZUlmc3FmQ1VtMkhEUWNLOHdvMlE?oc=5",
-  "source": "BigGo ファイナンス",
-  "summary": "",
-  "publishedAt": "2026-11-27T21:24:11.000Z",
-  "image": "",
-  "categories": [
-   "other"
-  ],
-  "isPR": false
- },
- {
   "id": "947a87729ea5",
   "title": "細川たかし、本人発案「全く歌の内容が入ってこないMV」公開 全編生成AI制作、猫軍と犬軍がバトル",
   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DWmpaODBtMHNyd09taThIdkZjbjYwSWFUS3VwUVRybW81SkRXOHRuNVF3Qm9jT1M5NWNfMHppTEplb0N3M19FRk5DSGJDMzFacUE?oc=5",
@@ -3694,6 +3855,19 @@
   "source": "JBpress",
   "summary": "",
   "publishedAt": "2026-11-27T21:05:52.000Z",
+  "image": "",
+  "categories": [
+   "other"
+  ],
+  "isPR": false
+ },
+ {
+  "id": "c3f8d5a2b3e4",
+  "title": "ジェンスン復帰とAI総括｜今週のまとめ｜The Real Eisman Playbook",
+  "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fUDQwTVotRC11QnVFUzdWNkZQbjVXVVhqNlFPTzFHc1d3bFBfR2QwbXBCQkJ2MkRLcHNhcjlTSVpSVl9neWRjcTQ5ZUlmc3FmQ1VtMkhEUWNLOHdvMlE?oc=5",
+  "source": "BigGo ファイナンス",
+  "summary": "",
+  "publishedAt": "2026-11-27T21:05:37.000Z",
   "image": "",
   "categories": [
    "other"

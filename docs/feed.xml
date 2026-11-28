@@ -5,7 +5,7 @@
   <link href="https://aimatome.gamelab.website/" rel="alternate"/>
   <link href="https://aimatome.gamelab.website/feed.xml" rel="self"/>
   <id>https://aimatome.gamelab.website/</id>
-  <updated>2026-11-28T14:00:24.785Z</updated>
+  <updated>2026-11-28T14:30:25.740Z</updated>
   <author><name>AI matomechatter</name></author>
   <entry>
     <title>【第075回】Googleマップのiframeまで翻訳されて崩壊！？DOM翻訳フィルターの除外リスト完全防壁</title>
@@ -15,11 +15,53 @@
     <summary>Qiita ／ こんにちは！2ちゃんねる互換掲示板システム「 つゔぁいちゃんねる（2ch.biz） 」の開発録、第75回です。 第74回で、アクセスした瞬間にユーザーの母国語を察してスマートに画面を切り替える自動言語判定を実装しました。 世界中からアクセスが集まり、海外ユーザーと日本の住民...</summary>
   </entry>
   <entry>
+    <title>SIGINT で止めた claude -p は終了コード 0 を返す：途中で止めた実行を成功と見誤る（2.1.319 の実測）</title>
+    <link href="https://zenn.dev/usagit/articles/40e16633e9f62f"/>
+    <id>https://aimatome.gamelab.website/#3c814ec763bb</id>
+    <updated>2026-11-28T13:27:45.000Z</updated>
+    <summary>Zenn ／ claude -p を子プロセスとして回し、時間切れや中断で途中で止める仕組みを書いていないでしょうか。その子の終了コードで「最後まで走ったか」を判定すると、止めた実行を成功として数えてしまいます。2.1.319 では、SIGINT で止めた claude -p は終了コード 0 で終わりました。SIGTERM なら…</summary>
+  </entry>
+  <entry>
+    <title>コードを書くことが減った現役SEが、最近感じていること</title>
+    <link href="https://zenn.dev/kikulog/articles/4d8e59c137c490"/>
+    <id>https://aimatome.gamelab.website/#ef491682ee15</id>
+    <updated>2026-11-28T13:27:22.000Z</updated>
+    <summary>Zenn ／ はじめまして、きくログです！🦔 普段は業務システムの開発を中心に、システムエンジニアとして働いています。 これまでC#、Java、Kotlinなどを使った開発を経験し、システムを一から作ったこともあります。 そんな僕ですが、最近は仕事でコードを書く機会が少なくなり、仕様やシステム全体の設計を考えることが増えてきまし…</summary>
+  </entry>
+  <entry>
+    <title>技術書典で買った本が AI から読めると楽しいよねの話</title>
+    <link href="https://zenn.dev/megablacklabel/articles/ligrol-mcp-ai-bookshelf"/>
+    <id>https://aimatome.gamelab.website/#2ed90be6a114</id>
+    <updated>2026-11-28T13:26:20.000Z</updated>
+    <summary>Zenn ／ この記事はAIを使って書いて、人力で添削しています 同人誌の電子書籍をひとつの本棚に集めて読むデスクトップアプリ Ligrol（リグロル）に、MCP（Model Context Protocol）サーバーを追加しました。AI クライアントから本棚・タグ・本文・読書統計・付箋・技術書典のチェックリストを読めます。 この…</summary>
+  </entry>
+  <entry>
     <title>出品パックを作っておいたから、本を出せた ― コピペ用の準備が16日後に役に立った話</title>
-    <link href="https://qiita.com/ai_secretary/items/6e83e0df8ade656f6b43"/>
+    <link href="https://zenn.dev/ai_secretary/articles/4dada726e31045"/>
     <id>https://aimatome.gamelab.website/#7b2a83b1d745</id>
-    <updated>2026-11-28T13:27:00.000Z</updated>
-    <summary>Qiita ／ 原稿はできていたのに、出品の前で止まっていた 11月11日、本の原稿はできていた。タイトルも章立ても決まっていて、あとはZenn Booksに出すだけ、というところまで来ていた。でも、その日の出品は進まなかった。ブラウザでの出品はZennへのログインのところで止まってしま...</summary>
+    <updated>2026-11-28T13:25:51.000Z</updated>
+    <summary>Zenn ／ 11月11日、本の原稿はできていた。タイトルも章立ても決まっていて、あとはZenn Booksに出すだけ、というところまで来ていた。でも、その日の出品は進まなかった。ブラウザでの出品はZennへのログインのところで止まってしまった。 その日に私がしたのは、出品そのものではなかった。出品パックを作ることだった。タイトル…</summary>
+  </entry>
+  <entry>
+    <title>AIエージェントと自宅PCを「.jobファイル1枚」でつないだ理由と最小コード</title>
+    <link href="https://zenn.dev/asakura_daimaoh/articles/2b3cd9e507bed5"/>
+    <id>https://aimatome.gamelab.website/#faee8d23da68</id>
+    <updated>2026-11-28T13:21:58.000Z</updated>
+    <summary>Zenn ／ クラウドで動く AI エージェントに、自宅 PC での作業（静的サイトのビルドや公開など）を毎日まかせています。そのとき、エージェントと PC のつなぎ方をいろいろ試した結果、いまは 「同期フォルダに .job ファイルを1枚置くだけ」 という単純な形に落ち着きました。 この記事では、その形にした理由と、最小限のコー…</summary>
+  </entry>
+  <entry>
+    <title>AIエージェントに個人サイト群を無人運用させる実装ガイド</title>
+    <link href="https://zenn.dev/asakura_daimaoh/books/3528223449ec71"/>
+    <id>https://aimatome.gamelab.website/#edb7aff9a847</id>
+    <updated>2026-11-28T13:18:04.000Z</updated>
+    <summary>Zenn ／ スケジュール実行のAIエージェントに、静的サイトのビルド・公開・検索まわりの点検・数字の取得を毎日まかせるための設計と実装の本です。クラウドのエージェントと自宅PCを同期フォルダの「.jobファイル1枚」でつなぐジョブランナー、JSONからの静的サイト生成と検証、公開後に本番を確かめる手順、robots.txt・転送…</summary>
+  </entry>
+  <entry>
+    <title>OpenWiki は Claude Code の探索を助けるのか、精度と費用を確かめてみた</title>
+    <link href="https://zenn.dev/kenny2017/articles/openwiki-sakura-eval-reader-agent"/>
+    <id>https://aimatome.gamelab.website/#cdf2fa2f3f79</id>
+    <updated>2026-11-28T13:13:57.000Z</updated>
+    <summary>Zenn ／ 前編で作った DeepSeek-V4.1-Flash-1017・GLM-5.3-Flash と比較対象の Claude Sonnet 5.5 の 3 種類の Wiki を Claude Code に読ませました。 LangChain 公式の WikiBench 記事では、評価用エージェントに Wiki とソースコード…</summary>
   </entry>
   <entry>
     <title>Mixinで4,000行Pythonクラスを整理した</title>
@@ -39,8 +81,22 @@
     <title>米コインベース、ChatGPT内で暗号資産や米国株を売買できる公式プラグインを提供開始</title>
     <link href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE92c2ZNR3gzd042dGZjVHlJV3d2cnZZWk9STlFadEpWa0lzSW9nc3EyX0ZDb2JYclZwX2ltUnpHaFBEclJtallFM1Z1S0VRR1J6eVZN?oc=5"/>
     <id>https://aimatome.gamelab.website/#46e27fb10878</id>
-    <updated>2026-11-28T12:36:59.000Z</updated>
+    <updated>2026-11-28T12:36:53.000Z</updated>
     <summary>東京報道新聞</summary>
+  </entry>
+  <entry>
+    <title>AIエージェント・ストラテジスト合格体験記 ― 試験の特性と合格戦略</title>
+    <link href="https://zenn.dev/inferium/articles/72256e94611a8b"/>
+    <id>https://aimatome.gamelab.website/#187d5174dfcb</id>
+    <updated>2026-11-28T12:30:05.000Z</updated>
+    <summary>Zenn ／ 2026年10月に実施された第2回「AIエージェント・ストラテジスト資格」を受験し、無事合格することができました。 2026年に新設されたばかりの資格ということもあり、合格体験記や試験対策に関する情報はまだ多くありません。実際に受験してみると、一般的な知識習得型の資格試験とは異なる難しさがありました。 そこで本記事で…</summary>
+  </entry>
+  <entry>
+    <title>AIとの会話が競売に？42州が異議、GPT-6.2は上限が早まる</title>
+    <link href="https://zenn.dev/sugawara_ai/articles/ai-news-20261127"/>
+    <id>https://aimatome.gamelab.website/#4fe4ed137c6f</id>
+    <updated>2026-11-28T12:29:27.000Z</updated>
+    <summary>Zenn ／ 2026年11月27日（金）のAIニュース完全解説版。図解を見れば本文を読まなくても分かる形にしています。 おはようございます、菅原です。今日は、AIに預けたものの扱いが問われる話が多い日なんですよ。GPT-6.2は計算ミスの修正で、上限に早く届くようになりました。Character.AIでは会話の履歴が競売にかけら…</summary>
   </entry>
   <entry>
     <title>OpenAI、Appleを反訴 Appleが未発表端末の機密を入手し、取引先に圧力をかけたと主張</title>
@@ -50,6 +106,20 @@
     <summary>CNET Japan ／ 米OpenAIなどは11月27日（現地時間）、Appleが元社員を再雇用してOpenAIの未発表端末の機密情報を入手し、両社に共通する取引先に圧力をかけて開発を妨げたとして、Appleを反訴した。Appleが7月に起こした営業秘密をめぐる訴訟で、米カリフォルニア州北部地区連邦地裁に反訴状を提出した。ロイターによると、…</summary>
   </entry>
   <entry>
+    <title>やることが変われば、インターフェースも変わる：AI と話すうちに、言葉のほうが変わってきた</title>
+    <link href="https://zenn.dev/noah33/articles/fx-mic-interface"/>
+    <id>https://aimatome.gamelab.website/#6108be4bb2c2</id>
+    <updated>2026-11-28T12:00:09.000Z</updated>
+    <summary>Zenn ／ キーボードを打たずに、AI に話しかけるだけで仕事が進むようになったら、机の上には何が残るのでしょうか。 それを自分の暮らしの中で確かめてみたくて、先日、スウェーデンの音楽機材メーカー teenage engineering の fx-mic というマイクを購入しました。 「fx」と名前がついている通り、ただのマイク…</summary>
+  </entry>
+  <entry>
+    <title>Coding Agentの調査結果を「指示」「事実」「考察」の項目に分けて書かせると具合が良い</title>
+    <link href="https://zenn.dev/sisisin/articles/20261128-record-instruction-fact-discussion"/>
+    <id>https://aimatome.gamelab.website/#362c4ef4e124</id>
+    <updated>2026-11-28T11:59:56.000Z</updated>
+    <summary>Zenn ／ Coding Agent（以下agent）と対話し、その結果を記録させ、設計や計画をさせる、そしてその過程でagentに書かせた記録・・・ ここに、「いや俺そんなこと言ってないんすけど・・・」みたいなことが書かれてること、あると思います 例えそう書かれていたとしてもそのまま上手くいくならいいんですが、agentは「ユ…</summary>
+  </entry>
+  <entry>
     <title>GoogleのエンジニアがGemini 4 Neonのチューニング手法を公開：まず古いルールを削除、次にツールとコンテキストを議論</title>
     <link href="https://news.google.com/rss/articles/CBMidEFVX3lxTE1CcDlyZHFndFVHQ3B3bVduNkR4eWpSRXlBN25LTTY0Ui1mcEV0eS15dUFnOHp6dk02cmtUQTNqc25yZmpRV3FZS2VwWnZ5dkNSb0RoSmNpbzB6VWVkbkpQRm9EdnM5Z3BleExvUnZyRE5UUUxI?oc=5"/>
     <id>https://aimatome.gamelab.website/#caa5c768adc9</id>
@@ -57,18 +127,18 @@
     <summary>BigGo ファイナンス</summary>
   </entry>
   <entry>
+    <title>AIに仕事が奪われないと言える理由をエンジニア目線で解説</title>
+    <link href="https://zenn.dev/sunsun_eng/articles/why-ai-wont-take-engineer-jobs"/>
+    <id>https://aimatome.gamelab.website/#7849736c5d70</id>
+    <updated>2026-11-28T11:50:22.000Z</updated>
+    <summary>Zenn ／ この記事の要点 AIに仕事が奪われないと語られる主な理由は、要件を決める作業や責任の所在など、AIが引き受けにくい領域がはっきり残っているためです。 元Yahoo!出身でエンジニアから社長になった人物がQiitaで公開した記事（参照）をきっかけに、この話題がエンジニアの間で広がっています。 ただしAIを使わない、また…</summary>
+  </entry>
+  <entry>
     <title>claude doctorを実測する：CLIの接続診断と、セッション内でやるprompt-audit</title>
     <link href="https://zenn.dev/aizangyobu/articles/claude-code-doctor-audit"/>
     <id>https://aimatome.gamelab.website/#64069139e6a0</id>
     <updated>2026-11-28T11:37:34.000Z</updated>
     <summary>Zenn ／ claude doctor を実際に叩いて確かめた結果から書きます。 ターミナルの claude doctor（CLI）は、インストール状態とAPI接続の診断を返す。サインインなしでも実行できる CLAUDE.mdの監査（prompt-audit）はCLIでは走らない。claude doctor prompt-aud…</summary>
-  </entry>
-  <entry>
-    <title>TechSuiteが医薬品卸選びのAI回答を調査 4大卸への言及が集中</title>
-    <link href="https://news.google.com/rss/articles/CBMiR0FVX3lxTE01M1MwSGVRZUkzM0I5REtDeE5wRHFiZHhHc2I5Z3duNlN2VGY5UGw2MEFaUHdLa1VGTzQzYVd2bHlBTVI2Mmh3?oc=5"/>
-    <id>https://aimatome.gamelab.website/#3e231cde0cb0</id>
-    <updated>2026-11-28T11:36:46.000Z</updated>
-    <summary>Dellows News</summary>
   </entry>
   <entry>
     <title>【5分未満で本格3Dが完成！】Google最新AI「Gemini 4 Neon」を使った5つの驚きの制作事例が公開</title>
@@ -83,13 +153,6 @@
     <id>https://aimatome.gamelab.website/#7a0f3e92005a</id>
     <updated>2026-11-28T11:30:00.000Z</updated>
     <summary>SmartNews</summary>
-  </entry>
-  <entry>
-    <title>圏外の建設現場で一日中聞いてくれる「現場手帳」 ～ローカルLLMとクラウドAIのハイブリッド構成～</title>
-    <link href="https://zenn.dev/nomhiro/articles/genba-notebook-hybrid-llm"/>
-    <id>https://aimatome.gamelab.website/#e5aa43e5e1ac</id>
-    <updated>2026-11-28T11:27:58.000Z</updated>
-    <summary>Zenn ／ 本記事の内容は2026年11月28日時点の情報に基づいています。Surface Laptop Ultraの実機検証をした結果ではありません。実機の数値はすべて公開されているレビューや資料からの引用で、試していないことは「未検証」と書いていますのでご注意ください！ 最近、建設業で働く友人と話すことが多く、建設業の、営業…</summary>
   </entry>
   <entry>
     <title>AIエージェントにモデリングからMakerWorld登録まで任せて、スマホから3Dプリントする</title>
@@ -155,27 +218,6 @@
     <summary>CGinterest</summary>
   </entry>
   <entry>
-    <title>Gartner、エージェント型AIによってエンタープライズ・アプリケーション向け支出の2,340億ドルがリスクにさらされるとの見解を発表 | 編集部が読み解く! 3行でわかるテックニュース</title>
-    <link href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rUTBlLWVIbDdQZ3lpVXdVZjA5WS00S3VhY3o4T1FtZ2JpcFRHUWJrTlVwYzJEZXJkeFhSeHZCWGZtOHZaY3lkSEtvVQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#0adbdffb0c00</id>
-    <updated>2026-11-28T10:27:41.000Z</updated>
-    <summary>ThinkIT</summary>
-  </entry>
-  <entry>
-    <title>月額0円を目指してAI新聞の自動発行システムを開発してみた</title>
-    <link href="https://zenn.dev/fumitakaojima/articles/ai-frontier-news-free-publishing"/>
-    <id>https://aimatome.gamelab.website/#2dd707ed8016</id>
-    <updated>2026-11-28T10:23:34.000Z</updated>
-    <summary>Zenn ／ 「AIって面白い」と感じる人を増やしたい。そんな思いから、AI最前線新聞（AI FRONTIER）を個人開発しています。 Web: GitHub: 今回は、月額0円を目指した自動発行の設計と、品質基準を満たさない記事を公開しない仕組みを紹介します。自動発行は開発・検証段階で、無料運用の実績を保証するものではありません…</summary>
-  </entry>
-  <entry>
-    <title>Museに頼んだことが翌朝には消えていたのは、記録がなかったからだった</title>
-    <link href="https://zenn.dev/ai_nichijou0/articles/01310137b85700"/>
-    <id>https://aimatome.gamelab.website/#52c0d8031718</id>
-    <updated>2026-11-28T10:18:02.000Z</updated>
-    <summary>Zenn ／ この記事は、note連載「ハチの任せ方ラボ」の第4回として公開した記事の転載です。原本はこちらです。 この記事で分かること 頼み方が整っても、翌朝にはなぜ消えるのか 残すと続きから始められる3点 今日から使える、終わるときの1つの書き方 複数のAIに互いをレビューさせ、失敗の数字まで公開する運用の記録。第4回です。 …</summary>
-  </entry>
-  <entry>
     <title>ChatGPT モデルの選び方｜用途別におすすめを解説</title>
     <link href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVdKVnJWTy1PaFJadklIU0dvTjJQaEh6R0Y5b0h0SDdncWlNRjE0ZVJVcllQVkZIc0JnYnVVR2hYX1NzLS1DNVNUYXhpWmNFVVBaVC1naWg4TVNOc2hGWThsQnladUhsRGhhbV9yU1QzZEFadnExTktReGNtRVFWT2FDUVk4Q3dQRlJUX1VGbDk4S2dsWXc?oc=5"/>
     <id>https://aimatome.gamelab.website/#532ffe0a4ff3</id>
@@ -197,11 +239,11 @@
     <summary>Yahoo!ニュース</summary>
   </entry>
   <entry>
-    <title>AIが替わっても、仕事を続けたい――Surface Laptop UltraのハイブリッドLLM構想</title>
-    <link href="https://zenn.dev/dantarg/articles/hybrid-llm-local-autonomic-core"/>
-    <id>https://aimatome.gamelab.website/#fcf204b83098</id>
-    <updated>2026-11-28T10:05:25.000Z</updated>
-    <summary>Zenn ／ AIに仕事を頼んで席を外す。翌朝、続きを頼む前に、まず昨日の記録を読み直す。どこまで進んだのか、何が終わっていないのか。AIに事情を説明するところから一日が始まる。 AIに仕事を任せたはずなのに、いつの間にか私がAIの進行管理をしている。 例えば、外部サービスへの登録を任せた直後、成功の応答が返る前に通信が切れたらど…</summary>
+    <title>「iPodの父」が明かす、OpenAIがJony Iveとハードウェアを共同開発する内幕：Appleがプライバシーを死守しデータを渡さないため！</title>
+    <link href="https://news.google.com/rss/articles/CBMiekFVX3lxTFBkNmU3YXRvUzFuWnROUTJCMF9DOHFuWXhncDZ2Q1dTbzJtNGFGQXBjRkgzMXZZZXRRdmozSl9CazBFSWtTMFExbU1tMG9OUjVWNHU2WUxaX0pCM2RfQjF0UTVKbjBVeHNES1BoWGdDS2Nyd29hV2hnN1N3?oc=5"/>
+    <id>https://aimatome.gamelab.website/#2ae83864e368</id>
+    <updated>2026-11-28T10:06:12.000Z</updated>
+    <summary>Mashdigi</summary>
   </entry>
   <entry>
     <title>生成AIは知的労働能力を「ドーピング」することはできるが、「定着」させることはできない - 渋谷駅前で働くデータサイエンティストのブログ</title>
@@ -218,11 +260,11 @@
     <summary>ASCII.jp ／ Amazon.co.jpでASUSのゲーミングノートパソコン「TUF Gaming F16」がブラックフライデー先行セール中。Core i7とRTX 5060 Laptop GPUを搭載する高耐久ゲーミングノートPCが2万3000円引きです。</summary>
   </entry>
   <entry>
-    <title>M5 ProでWhisper large-v3を99.5倍速に：whisper.cppの約8倍速いSwift＋Metal 4エンジン</title>
-    <link href="https://zenn.dev/9nc/articles/b652aec5fc4d52"/>
-    <id>https://aimatome.gamelab.website/#739fcd8bb71c</id>
-    <updated>2026-11-28T09:43:26.000Z</updated>
-    <summary>Zenn ／ Apple Silicon Mac で Whisper をローカル実行する Swift ライブラリ兼 CLI の MetalWhisperM5 を作りました。 Apple M5 Pro で ggml-large-v3-q5_0.bin（ビーム幅5）を動かしたところ、10分38秒（637.933秒）の英語音声を 6.4…</summary>
+    <title>生成AIグロックの無断性的画像生成で米2州が提訴 スペースXに賠償請求 | スマートニュース</title>
+    <link href="https://news.google.com/rss/articles/CBMi5ANBVV95cUxQZENWeU5Od29VX0NYdk43NlUzV3NJZ0lHZWJLdzlBa1lRVWRMemFsbk53TmVIbF94Z2s2RFlkRk9vamFCYVZsOVpiOWN6eTFQXzB4MkxtQnFRd1hrbHF0SnhBS01jVEdkOXpyZy1nVVU5S0pfMURsR19WRWZaUnJHSmJDRXc3ZXlHREdEZUkwM1pLSGh5aWtxLWpGRkx4TkM5VlVPRjVLVzFPX0p0TmVKQ3ZCbEgwQmpwLWNjUk52OTVhelNYV1ZDWHNjOV81dFpzVW9KdUpFdkNLeHh0UWhWY0wzSW5wVEJWOGgtcXI3dG9nb0ptdFdoY0VVd2VPWG1Dbm5YeDg4QmRBY2puLXBsbGQxOHlrR3k2SktiYk10Q0p3Y1dPYVVONVJPSG9IbmJBc3Nac3RUeWNuOFdabGVtYlRuSlJqSGlHQ0t2a0tmWUNUTGxHVlZFWmR6clFsSVZiNG1VdEpGSUhnZWt3bjg3bTc5WEppNmlNMW9sY1gtWE5XQjI1ZHA4WmhVQmFoVFYtR3A4NE5CZi1rU2RZc1NxbGtmUkZDeVpjZUE0bF9vOUcyTk1WRXE0UGM4UDFOaEJlRVAxUXdQZWVNV09LQ3JFZW5WMEhzR1d0R3djc29GSUZFRHI4?oc=5"/>
+    <id>https://aimatome.gamelab.website/#45c74bd48aa5</id>
+    <updated>2026-11-28T09:12:00.000Z</updated>
+    <summary>SmartNews</summary>
   </entry>
   <entry>
     <title>AppleとOpenAIの間の法的紛争は、ますます激化している。</title>
@@ -232,18 +274,18 @@
     <summary>Vietnam.vn</summary>
   </entry>
   <entry>
-    <title>Codex・Claude Code・Antigravity で使えるモデル一覧と位置づけマップ（2026年11月時点）</title>
-    <link href="https://zenn.dev/aono/articles/d3c4142f91c29a"/>
-    <id>https://aimatome.gamelab.website/#261d386b241e</id>
-    <updated>2026-11-28T09:01:46.000Z</updated>
-    <summary>Zenn ／ AI コーディングツールとしてよく使われる Codex、Claude Code、Google Antigravity の3つについて、2026年11月時点で利用できるモデルを整理しました。 まずは3つのツールで使える主要モデルを、推論能力と想定消費トークン数（コスト・クォータの重さ）の2軸でマッピングした全体図です。…</summary>
-  </entry>
-  <entry>
     <title>【ＡＩ・半導体株は復活するか】エヌビディアＣＥＯ復帰、日経平均１２００円超高でも残る３つの課題 - https://kabu-ir.com/</title>
     <link href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE45RThZd1pudGMtLUo5bm42MFV4R1k2MTVsTmEwMXRJQ2swTkVyUVhmTDR6djYzSjU5Mi1JeTJOaTBpcGh3UVZIMHZScjhvd3lpdGRkdA?oc=5"/>
     <id>https://aimatome.gamelab.website/#90be35287e95</id>
     <updated>2026-11-28T09:00:00.000Z</updated>
     <summary>https://kabu-ir.com/</summary>
+  </entry>
+  <entry>
+    <title>アクセンチュア、AIが迫る破壊と原点回帰</title>
+    <link href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NWTkzQ1BNOFo5SEJrRm1Fa3A2ZU1TVkY4WTMtY3JzejhRXzNoRWRYMWR2c3FWR3dDeFVkN3l1Z2FyQ2hMNktYV2hXYkd1SVE2eHYtd0x3Yk1SNGQ3aTVZ?oc=5"/>
+    <id>https://aimatome.gamelab.website/#91d7ddeb98dd</id>
+    <updated>2026-11-28T08:53:34.000Z</updated>
+    <summary>日経クロステック</summary>
   </entry>
   <entry>
     <title>人工知能(AI)エージェント「ピクルス(Pickle)」の国内人気が続き、利用者の代わりに食堂を予約し商品を検索する個人型人工知能(AI)エージェントが韓国人の日常に急速に浸透している。新しい技術に対..</title>
@@ -267,20 +309,6 @@
     <summary>매일경제</summary>
   </entry>
   <entry>
-    <title>AIは「社員」 OpenClawとClaude Coworkが示した未来</title>
-    <link href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE43dmNET1ZSMm1SR2txRXE3TGpXM0E1UHBxMHVScmZXZHVMTXhKNjQ2TDEtMVJneXlwaTY1SXZudjdTRE4ybXFXMkJkbE9YZWd3OTgxYklOYTZuSHVKQ1lR?oc=5"/>
-    <id>https://aimatome.gamelab.website/#d4a68f7bdfcd</id>
-    <updated>2026-11-28T08:34:58.000Z</updated>
-    <summary>日経クロステック</summary>
-  </entry>
-  <entry>
-    <title>緑で残った変異を、merge-baseで当て直して仕分ける</title>
-    <link href="https://zenn.dev/miyakona/articles/mutation-survivors-compare-merge-base"/>
-    <id>https://aimatome.gamelab.website/#3880d554c091</id>
-    <updated>2026-11-28T08:30:43.000Z</updated>
-    <summary>Zenn ／ 上限が5であることを守りたい処理でも、5件まで通ることしかテストしていなければ、上限を誤って6へ変えてもテストは通ります。6件目を拒むことまで確かめているかは、元のコードでテストが通っただけでは分かりません。 AIエージェントがPRを出す前に、こうした違いをテストが拾えるか、実装を1か所ずつ意図的に変えて確かめていま…</summary>
-  </entry>
-  <entry>
     <title>アンソロピックかオープンAIの株式で、ロサンゼルスの「48億円豪邸」を購入OK。不動産デベロッパーが語ったその理由</title>
     <link href="https://www.businessinsider.jp/article/2611-thirty-million-la-mansion-accepts-anthropic-shares-as-payment/"/>
     <id>https://aimatome.gamelab.website/#1aca308eb641</id>
@@ -295,18 +323,18 @@
     <summary>Infoseek</summary>
   </entry>
   <entry>
-    <title>第30話 Case Fileテーマの配色と反映経路</title>
-    <link href="https://zenn.dev/ryoitabashi/articles/2026-11-28-dev-ja"/>
-    <id>https://aimatome.gamelab.website/#19befd2694aa</id>
-    <updated>2026-11-28T08:06:59.000Z</updated>
-    <summary>Zenn ／ 画像は AI 生成のイメージです Shelly はネイティブ側でターミナルを描画するアプリで、Case File の初期追加では、テーマを選んでも主要な画面の見た目が変わらない問題があった。 2026-09-16 の cbc4f6c88 では、主要な画面を制御する別系統のプリセットに Case File を追加し、独…</summary>
-  </entry>
-  <entry>
     <title>生成ＡＩで選挙ポスター「あくまでイメージ」、候補者と異なる顔に有権者「本人かと」…公選法で禁止されずルール作り急務</title>
     <link href="https://news.google.com/rss/articles/CBMif0FVX3lxTE5zTWJfRUhSRGd4LVY0ZDNZSmluOW84aGV6SXNPS0ttRE51ejZER3dVQXdsaGozOHJuM1FFNllpcWg2UDRVMExEQ0xTX0c4Qjh2Z3hNTDV1U0JDVk5oTEh2WEVoMEdLLXJ6eG9IbS1Wdkc5SHF3QVNjcEZtRVlGS28?oc=5"/>
     <id>https://aimatome.gamelab.website/#1c6de954eeeb</id>
     <updated>2026-11-28T08:06:00.000Z</updated>
     <summary>Yahoo!ニュース</summary>
+  </entry>
+  <entry>
+    <title>中国AIユニコーン7社の全貌 18年の資金調達3700億円 （2ページ目）</title>
+    <link href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2pES182My1kRWYwUVdhRjJGekpaNUdNUi1DMndQQnpDVkw5WFRRdFJXTS1XVV9GbEN2SXBjOUlwZTVyR2xlel9EOEoxQnVieTNBX201X2ZEdm9RUnRIcy1IV2Y0cGtSd2hWNmRWelV6LVZFM1A2MzhFUEhvd3QwMTNZOHd0dThyaHQ5c2VKblRaQlktS2c?oc=5"/>
+    <id>https://aimatome.gamelab.website/#9c345e9b6e01</id>
+    <updated>2026-11-28T08:03:45.000Z</updated>
+    <summary>日経クロストレンド</summary>
   </entry>
   <entry>
     <title>AIで仕事は消えるのか 米58社の調査で職が消えたのは2社、多かったのは採用の見送り（いけとも） - エキスパート</title>
@@ -316,45 +344,17 @@
     <summary>Yahoo!ニュース</summary>
   </entry>
   <entry>
+    <title>チャットで頼めば、事務仕事が現場で終わる。ビルメン会社と共同開発したAI活用サービス「ビルメンNEXT」提供開始</title>
+    <link href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5nWm9ZUEVhM1hYUS1tWEx4dnVINTNHUktxS0NTTWhXSzhGakRuUElZOVU2bG5ia2p0QzJaT3MzSTd3bmxCZWN2VXplUkdUMFhUdjdjVVJKUzlrcDRXRG1kMG5qM1ZBT0JSZ2NJd1BhNVdKNVp5bmc?oc=5"/>
+    <id>https://aimatome.gamelab.website/#2e5b7fc15241</id>
+    <updated>2026-11-28T08:00:25.000Z</updated>
+    <summary>ニコニコニュース</summary>
+  </entry>
+  <entry>
     <title>文句なしの現行最高スペックスマホ Xiaomi 18 Pro Maxは背面ディスプレーに最速スナドラ、ライカカメラと機能もMAX</title>
     <link href="https://ascii.jp/elem/000/004/455/4455856/?rss"/>
     <id>https://aimatome.gamelab.website/#d95f8aa87abb</id>
     <updated>2026-11-28T08:00:00.000Z</updated>
     <summary>ASCII.jp ／ シャオミの最上位スマホ「Xiaomi 18 Pro Max」を徹底解説。スマホ初の5GHz駆動スナドラや2億画素×2のライカカメラに加え、AIでミニアプリを作れる背面画面を搭載。FeliCaやn79にも対応し、約24万円〜と高価ながら遊び心満載の1台です。</summary>
-  </entry>
-  <entry>
-    <title>Linux Foundation、OSS開発への生成AIの影響調査を公開 PRの25％が低品質</title>
-    <link href="https://news.google.com/rss/articles/CBMiTkFVX3lxTE9PZzNHRC1uS1k4bThIZ0N3TWJMcVlZZXh4cDBiSVVjOGVxM3J2X0VLZDFaRExiTHl0cU9RbmhvejVVSWlwN2ZQZUZyTkRpQQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#425c45f4eca5</id>
-    <updated>2026-11-28T08:00:00.000Z</updated>
-    <summary>CodeZine</summary>
-  </entry>
-  <entry>
-    <title>サプライズ③ 揺れるAI相場でも強い！独自増額の半導体関連5選</title>
-    <link href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fczNldlFyb1dMNUhPUVhOMDUxTFVlaGt0dTZGdm9VVnBLN2dnWW40Tkl4eV9JMDV5VmxESWRtOTg5dTZuM2Z5M0pMOEVvUzJpcVk3UHpEcw?oc=5"/>
-    <id>https://aimatome.gamelab.website/#043deb3a8a7d</id>
-    <updated>2026-11-28T08:00:00.000Z</updated>
-    <summary>四季報オンライン</summary>
-  </entry>
-  <entry>
-    <title>OpenAIがAppleを反訴、営業秘密の窃取を主張</title>
-    <link href="https://news.google.com/rss/articles/CBMiggFBVV95cUxNcDFmbTloQWdwN0RibHB1YmRTOXNfTG5pOXdkOU9hX3JpZVNDcFRkcW83VHFlQk9DcUdGT0ViS2pvOFdyamE4Nm54Vk43dlBTOEFZdHktWEE4Yk9UV1VLRE45NTh0VXFfOWRLZE5OWVFaa0xoVFRLeHZEOGU2MGVqbmx3?oc=5"/>
-    <id>https://aimatome.gamelab.website/#3c675767336e</id>
-    <updated>2026-11-28T07:57:55.000Z</updated>
-    <summary>Pasquale Pillitteri</summary>
-  </entry>
-  <entry>
-    <title>Google WorkspaceのAIエージェント、2027年2月からMCPかCLIが必須に</title>
-    <link href="https://news.google.com/rss/articles/CBMigwFBVV95cUxNX05ON250V1ZDbm9FNGhaWmxYMVdtamlMRDRnc1ktbTY4OTR6UmM0WUsxMUwyQkhOa0JCa0c4Ui1XeGxFX3lzaDBBWlE4QzQ5QjJLa3kyekx4SVpFbzFHRl80dkRNYkRDRkRCTW4yUGpMNzIwVU9ka3JzRktlLXNrZWhIWQ?oc=5"/>
-    <id>https://aimatome.gamelab.website/#74fde5048b00</id>
-    <updated>2026-11-28T07:55:54.000Z</updated>
-    <summary>Pasquale Pillitteri</summary>
-  </entry>
-  <entry>
-    <title>Claude Code の設定をダイエットした話 — 常駐させるのは目次だけにする</title>
-    <link href="https://zenn.dev/bachikawa/articles/0697977b8003c7"/>
-    <id>https://aimatome.gamelab.website/#39c9baadb5de</id>
-    <updated>2026-11-28T07:53:16.000Z</updated>
-    <summary>Zenn ／ Claude Code を毎日使っていると、設定は少しずつ育ちます。 「この作業ではこうしてほしい」「このプロジェクトではこの手順で」というお願いが増えるたびに、CLAUDE.md に 1 行、また 1 行と足していく。Skills も同じで、便利だと思った手順を書いておくと、あとから自分もエージェントも助かります。…</summary>
   </entry>
 </feed>
